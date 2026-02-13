@@ -52,7 +52,7 @@ references to external resources the agent can access on demand. Skills are agen
 any coding agent's skill directory regardless of the underlying LLM provider.
 
 ```
-skills/                     # Skill definitions (source of truth)
+skills/                     # Skill definitions
   map-ema-drugs/            #   EMA mapping skill with RxNorm conventions
   map-latvia-drugs/         #   Latvia national product mapping skill
   find-concepts/            #   Semantic search against RxNorm via Hecate API

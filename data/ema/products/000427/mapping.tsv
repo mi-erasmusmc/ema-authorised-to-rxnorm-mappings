@@ -1,28 +1,19 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/02/229/001	1596977	insulin, regular, human	253182	BROAD			2025-12-04
-EU/1/02/229/002	1596977	insulin, regular, human	253182	BROAD			2025-12-04
-EU/1/02/229/003	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04
-EU/1/02/229/004	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04
-EU/1/02/229/011	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
-EU/1/02/229/012	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
-EU/1/02/229/013	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
-EU/1/02/229/014							2025-12-04
-EU/1/02/229/015							2025-12-04
-EU/1/02/229/016							2025-12-04
-EU/1/02/229/017	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
-EU/1/02/229/018	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
-EU/1/02/229/019	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
-EU/1/02/229/024	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
-EU/1/02/229/025	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
-EU/1/02/229/026	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
-EU/1/02/229/027	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
-EU/1/02/229/028	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
-EU/1/02/229/029	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
-EU/1/02/229/030	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
-EU/1/02/229/031	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
-EU/1/02/229/032	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
-EU/1/02/229/033	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
-EU/1/02/229/034	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
-EU/1/02/229/035	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
-EU/1/02/229/036	1596977	insulin, regular, human	253182	BROAD			2025-12-04
-EU/1/02/229/037	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04
+EU/1/02/229/001	19104457	insulin isophane, human 28 UNT/ML / insulin, regular, human 12 UNT/ML Injectable Suspension	415088	EXACT	Actraphane 30 40 IU/ML vial; 70/30 ratio at 40 UNT/ML = 28/12 UNT/ML		2026-02-13
+EU/1/02/229/002	19104457	insulin isophane, human 28 UNT/ML / insulin, regular, human 12 UNT/ML Injectable Suspension	415088	EXACT	Actraphane 30 40 IU/ML vial; 5-pack		2026-02-13
+EU/1/02/229/003	19078603	insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension	311048	EXACT	Actraphane 30 100 IU/ML vial		2026-02-13
+EU/1/02/229/004	19078603	insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension	311048	EXACT	Actraphane 30 100 IU/ML vial; 5-pack		2026-02-13
+EU/1/02/229/011	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML Penfill cartridge		2026-02-13
+EU/1/02/229/012	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML Penfill cartridge; 5-pack		2026-02-13
+EU/1/02/229/013	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML Penfill cartridge; 10-pack		2026-02-13
+EU/1/02/229/017	1596918	insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Injectable Suspension	245265	BROAD	Actraphane 50 100 IU/ML 3 ML Penfill cartridge; no 50/50 Pen Injector concept	3 ML insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Pen Injector	2026-02-13
+EU/1/02/229/018	1596918	insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Injectable Suspension	245265	BROAD	Actraphane 50 100 IU/ML 3 ML Penfill cartridge; 5-pack; no 50/50 Pen Injector concept	3 ML insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Pen Injector	2026-02-13
+EU/1/02/229/019	1596918	insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Injectable Suspension	245265	BROAD	Actraphane 50 100 IU/ML 3 ML Penfill cartridge; 10-pack; no 50/50 Pen Injector concept	3 ML insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Pen Injector	2026-02-13
+EU/1/02/229/030	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML InnoLet pre-filled pen		2026-02-13
+EU/1/02/229/031	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML InnoLet pre-filled pen; 5-pack		2026-02-13
+EU/1/02/229/032	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML InnoLet pre-filled pen; 10-pack		2026-02-13
+EU/1/02/229/033	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML FlexPen pre-filled pen		2026-02-13
+EU/1/02/229/034	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML FlexPen pre-filled pen; 5-pack		2026-02-13
+EU/1/02/229/035	1596956	3 ML insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Pen Injector	847187	EXACT	Actraphane 30 100 IU/ML 3 ML FlexPen pre-filled pen; 10-pack		2026-02-13
+EU/1/02/229/036	19104457	insulin isophane, human 28 UNT/ML / insulin, regular, human 12 UNT/ML Injectable Suspension	415088	EXACT	Actraphane 30 40 IU/ML vial; 5-multipack		2026-02-13
+EU/1/02/229/037	19078603	insulin isophane, human 70 UNT/ML / insulin, regular, human 30 UNT/ML Injectable Suspension	311048	EXACT	Actraphane 30 100 IU/ML vial; 5-multipack		2026-02-13
