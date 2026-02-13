@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/12/811/001	40220858	3 ML lixisenatide 0.05 MG/ML Pen Injector	1803892				
-EU/1/12/811/002	40220860	3 ML lixisenatide 0.1 MG/ML Pen Injector	1803894				
-EU/1/12/811/003	40220860	3 ML lixisenatide 0.1 MG/ML Pen Injector	1803894				
-EU/1/12/811/004	40220860	3 ML lixisenatide 0.1 MG/ML Pen Injector	1803894				
-EU/1/12/811/005	40221118	{1 (3 ML lixisenatide 0.05 MG/ML Pen Injector) / 1 (3 ML lixisenatide 0.1 MG/ML Pen Injector) } Pack	1803902				
+EU/1/12/811/001	40220858	3 ML lixisenatide 0.05 MG/ML Pen Injector	1803892	EXACT			2026-02-13
+EU/1/12/811/002	40220860	3 ML lixisenatide 0.1 MG/ML Pen Injector	1803894	EXACT			2026-02-13
+EU/1/12/811/003	40220860	3 ML lixisenatide 0.1 MG/ML Pen Injector	1803894	EXACT			2026-02-13
+EU/1/12/811/004	40220860	3 ML lixisenatide 0.1 MG/ML Pen Injector	1803894	EXACT			2026-02-13
+EU/1/12/811/005	40221118	{1 (3 ML lixisenatide 0.05 MG/ML Pen Injector) / 1 (3 ML lixisenatide 0.1 MG/ML Pen Injector) } Pack	1803902	EXACT			2026-02-13
