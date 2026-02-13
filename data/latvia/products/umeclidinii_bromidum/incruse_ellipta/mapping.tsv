@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/14/922/001	45775241	30 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler [Incruse]	1539885				
-EU/1/14/922/002	45775241	30 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler [Incruse]	1539885				
-EU/1/14/922/003	45775241	30 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler [Incruse]	1539885				
+EU/1/14/922/001	45775241	30 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler [Incruse]	1539885	BROAD	7-dose pack		2026-02-13
+EU/1/14/922/002	45775241	30 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler [Incruse]	1539885	EXACT	30-dose pack		2026-02-13
+EU/1/14/922/003	45775241	30 ACTUAT umeclidinium 0.0625 MG/ACTUAT Dry Powder Inhaler [Incruse]	1539885	EXACT	3x30-dose multipack		2026-02-13

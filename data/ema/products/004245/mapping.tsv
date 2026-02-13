@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/18/1339/001	42629523	120 ACTUAT formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler	1790639	EXACT			2025-12-04
-EU/1/18/1339/002	42629523	120 ACTUAT formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler	1790639	EXACT			2025-12-04
+EU/1/18/1339/001	42629527	120 ACTUAT formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Bevespi]	1790644	EXACT	Aligned with Latvia mapping; branded concept preferred since Bevespi brand is same in EU and US		2026-02-13
+EU/1/18/1339/002	42629527	120 ACTUAT formoterol fumarate 0.0048 MG/ACTUAT / glycopyrrolate 0.009 MG/ACTUAT Metered Dose Inhaler [Bevespi]	1790644	EXACT	Aligned with Latvia mapping; branded concept preferred since Bevespi brand is same in EU and US		2026-02-13

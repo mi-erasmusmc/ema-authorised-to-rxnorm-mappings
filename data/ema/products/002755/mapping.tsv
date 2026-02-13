@@ -1,11 +1,11 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/13/882/001	46275769	aripiprazole 300 MG Injection	1659816	EXACT			2025-12-04
-EU/1/13/882/002	46275765	aripiprazole 400 MG Injection	1659812	EXACT			2025-12-04
-EU/1/13/882/003	46275769	aripiprazole 300 MG Injection	1659816	EXACT			2025-12-04
-EU/1/13/882/004	46275765	aripiprazole 400 MG Injection	1659812	EXACT			2025-12-04
-EU/1/13/882/005	46275769	aripiprazole 300 MG Injection	1659816	EXACT			2025-12-04
-EU/1/13/882/006	46275765	aripiprazole 400 MG Injection	1659812	BROAD			2025-12-04
-EU/1/13/882/007	46275769	aripiprazole 300 MG Injection	1659816	EXACT			2025-12-04
-EU/1/13/882/008	46275765	aripiprazole 400 MG Injection	1659812	BROAD			2025-12-04
-EU/1/13/882/009	1201562	2.4 ML aripiprazole 300 MG/ML Prefilled Syringe	2636637				2025-12-04
-EU/1/13/882/010	1201564	3.2 ML aripiprazole 300 MG/ML Prefilled Syringe	2636645				2025-12-04
+EU/1/13/882/001	46275771	aripiprazole 300 MG Injection [Abilify]	1659818	EXACT			2025-12-04
+EU/1/13/882/002	46275767	aripiprazole 400 MG Injection [Abilify]	1659814	EXACT			2025-12-04
+EU/1/13/882/003	46275771	aripiprazole 300 MG Injection [Abilify]	1659818	EXACT			2025-12-04
+EU/1/13/882/004	46275767	aripiprazole 400 MG Injection [Abilify]	1659814	EXACT			2025-12-04
+EU/1/13/882/005	46275771	aripiprazole 300 MG Injection [Abilify]	1659818	EXACT			2025-12-04
+EU/1/13/882/006	46275767	aripiprazole 400 MG Injection [Abilify]	1659814	EXACT			2025-12-04
+EU/1/13/882/007	46275771	aripiprazole 300 MG Injection [Abilify]	1659818	EXACT			2025-12-04
+EU/1/13/882/008	46275767	aripiprazole 400 MG Injection [Abilify]	1659814	EXACT			2025-12-04
+EU/1/13/882/009	1201563	2.4 ML aripiprazole 300 MG/ML Prefilled Syringe [Abilify]	2636640	EXACT			2025-12-04
+EU/1/13/882/010	1201565	3.2 ML aripiprazole 300 MG/ML Prefilled Syringe [Abilify]	2636646	EXACT			2025-12-04
