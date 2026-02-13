@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004961
+Name of medicine: Trogarzo
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: ibalizumab
+Active substance: Ibalizumab
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AX
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Trogarzo, in combination with other antiretroviral(s), is indicated for the treatment of adults infected with multidrug resistant HIV-1 infection for whom it is otherwise not possible to construct a suppressive antiviral regimen.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trogarzo

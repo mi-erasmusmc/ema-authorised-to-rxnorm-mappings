@@ -1,0 +1,7 @@
+short_name: Filgrastim Hexal
+active_substance: Filgrastimum
+marketing_authorisation_holder: Hexal AG, Germany
+manufacturer: Sandoz GmbH, Austria
+atc_code: L03AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/496/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/496/001/smpc

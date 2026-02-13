@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005107
+Name of medicine: Roclanda
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: latanoprost / netarsudil
+Active substance: Latanoprost;netarsudil mesilate
+Therapeutic area (MeSH): Glaucoma, Open-Angle;Ocular Hypertension
+ATC code (human): S01EE
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Roclanda is indicated for the reduction of elevated intraocular pressure (IOP) in adult patients with primary open-angle glaucoma or ocular hypertension for whom monotherapy with a prostaglandin or netarsudil provides insufficient IOP reduction.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/roclanda

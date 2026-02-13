@@ -1,0 +1,7 @@
+short_name: Beconase
+active_substance: Beclometasoni dipropionas
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome S.A., Spain; Delpharm Poznan S.A., Poland
+atc_code: R01AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0392/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0392/smpc

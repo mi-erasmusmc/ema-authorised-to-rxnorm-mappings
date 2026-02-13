@@ -1,0 +1,2 @@
+EU/1/22/1634/007 was previously mapped BROAD to generic "dimethyl fumarate Delayed Release Oral Capsule" (43526433). Updated to EXACT 240 MG concept (43526430) matching the other 240 mg presentations.
+EU/1/22/1634/010 was empty. Filled with same 240 MG concept — it's just a different pack size (168 capsules in HDPE bottle).

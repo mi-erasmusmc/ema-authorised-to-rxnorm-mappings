@@ -1,0 +1,7 @@
+short_name: Upsarin C
+active_substance: Acidum acetylsalicylicum, Acidum ascorbicum
+marketing_authorisation_holder: UPSA SAS, France
+manufacturer: UPSA SAS, France; UPSA SAS, France
+atc_code: N02BA51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0316/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0316/smpc

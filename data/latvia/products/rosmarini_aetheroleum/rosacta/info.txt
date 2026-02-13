@@ -1,0 +1,7 @@
+short_name: Rosacta
+active_substance: Rosmarini aetheroleum
+marketing_authorisation_holder: Medis GmbH, Austria
+manufacturer: Medis, d.o.o., Slovenia
+atc_code: M02AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0217/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0217/smpc

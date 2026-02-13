@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005454
+Name of medicine: Rybrevant
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: amivantamab
+Active substance: amivantamab
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01FX18
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Rybrevant is indicated:  in combination with lazertinib for the first line treatment of adult patients with advanced non small cell lung cancer (NSCLC) with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations. in combination with carboplatin and pemetrexed for the treatment of adult patients with advanced NSCLC with EGFR Exon&nbsp;19 deletions or Exon&nbsp;21 L858R substitution mutations after failure of prior therapy including an EGFR tyrosine kinase inhibitor (TKI). in combination with carboplatin and pemetrexed for the first line treatment of adult patients with advanced NSCLC with activating EGFR Exon 20 insertion mutations. as monotherapy for treatment of adult patients with advanced NSCLC with activating EGFR Exon 20 insertion mutations, after failure of platinum based therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rybrevant

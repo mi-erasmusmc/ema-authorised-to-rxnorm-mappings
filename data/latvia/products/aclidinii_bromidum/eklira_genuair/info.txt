@@ -1,0 +1,7 @@
+short_name: Eklira Genuair
+active_substance: Aclidinii bromidum
+marketing_authorisation_holder: Covis Pharma Europe B.V., Netherlands
+manufacturer: Industrias Farmacéuticas Almirall, S.L., Spain
+atc_code: R03BB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/778/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/778/001/smpc

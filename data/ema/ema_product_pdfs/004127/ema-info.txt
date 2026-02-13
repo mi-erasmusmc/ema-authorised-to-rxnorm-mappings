@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004127
+Name of medicine: Zonisamide Viatris (previously Zonisamide Mylan)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: zonisamide
+Active substance: zonisamide
+Therapeutic area (MeSH): Epilepsy
+ATC code (human): N03AX15
+Pharmacotherapeutic group (human): Antiepileptics
+Therapeutic indication: Monotherapy in the treatment of partial seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy; adjunctive therapy in the treatment of partial seizures, with or without secondary generalisation, in adults, adolescents, and children aged 6 years and above.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zonisamide-viatris

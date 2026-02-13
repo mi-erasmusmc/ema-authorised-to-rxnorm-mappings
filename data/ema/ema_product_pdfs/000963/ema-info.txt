@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000963
+Name of medicine: Ixiaro
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: Japanese encephalitis vaccine (inactivated, adsorbed)
+Active substance: Japanese-encephalitis virus, inactivated (attenuated strain SA14-14-2 grown in vero cells)
+Therapeutic area (MeSH): Encephalitis, Japanese;Immunization
+ATC code (human): J07BA02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Ixiaro is indicated for active immunisation against Japanese encephalitis in adults, adolescents, children and infants aged two months and older. Ixiaro should be considered for use in individuals at risk of exposure through travel or in the course of their occupation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ixiaro

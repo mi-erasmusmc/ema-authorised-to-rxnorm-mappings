@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000528
+Name of medicine: Levemir
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin detemir
+Active substance: Insulin detemir
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AE05
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/levemir

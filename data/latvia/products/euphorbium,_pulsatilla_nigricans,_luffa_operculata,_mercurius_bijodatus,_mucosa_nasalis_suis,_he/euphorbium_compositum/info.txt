@@ -1,0 +1,7 @@
+short_name: Euphorbium compositum
+active_substance: Euphorbium, Pulsatilla nigricans, Luffa operculata, Mercurius bijodatus, Mucosa nasalis suis, Hepar sulfuris, Argenti nitras, Sinusitis- nosode
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0180/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0180/smpc

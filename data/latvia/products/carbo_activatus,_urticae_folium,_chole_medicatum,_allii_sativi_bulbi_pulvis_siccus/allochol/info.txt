@@ -1,0 +1,7 @@
+short_name: Allochol
+active_substance: Carbo activatus, Urticae folium, Chole medicatum, Allii sativi bulbi pulvis siccus
+marketing_authorisation_holder: PharmSol Europe Limited, Malta
+manufacturer: BRIZ, SIA, Latvia
+atc_code: A05AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0309/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0309/smpc

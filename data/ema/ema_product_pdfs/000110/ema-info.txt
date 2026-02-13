@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000110
+Name of medicine: Zerit
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: stavudine
+Active substance: stavudine
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AF04
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Hard capsules Zerit is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-infected adult patients and paediatric patients (over the age of three months) only when other antiretrovirals can not be used. The duration of therapy with Zerit should be limited to the shortest time possible. Powder for oral solution Zerit is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-infected adult patients and paediatric patients (from birth) only when other antiretrovirals can not be used. The duration of therapy with Zerit should be limited to the shortest time possible.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zerit

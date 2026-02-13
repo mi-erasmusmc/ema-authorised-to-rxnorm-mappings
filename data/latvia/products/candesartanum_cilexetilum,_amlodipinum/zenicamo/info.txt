@@ -1,0 +1,7 @@
+short_name: Zenicamo
+active_substance: Candesartanum cilexetilum, Amlodipinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic; UAB "Oriola Vilnius", Lithuania
+atc_code: C09DB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0199/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0199/smpc

@@ -1,0 +1,7 @@
+short_name: Rocuronium bromide Kalceks
+active_substance: Rocuronii bromidum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: M03AC09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0010/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0010/smpc

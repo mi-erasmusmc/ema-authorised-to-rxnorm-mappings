@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004514
+Name of medicine: Ilumetri
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tildrakizumab
+Active substance: tildrakizumab
+Therapeutic area (MeSH): Psoriasis
+ATC code (human): L04AC
+Pharmacotherapeutic group (human): Immunosuppressants;Interleukin inhibitors
+Therapeutic indication: Ilumetri is indicated for the treatment of adults with moderate to severe plaque psoriasis who are candidates for systemic therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ilumetri

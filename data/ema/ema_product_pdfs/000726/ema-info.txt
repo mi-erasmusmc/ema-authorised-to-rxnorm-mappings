@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000726
+Name of medicine: Epoetin Alfa Hexal
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: epoetin alfa
+Active substance: epoetin alfa
+Therapeutic area (MeSH): Anemia;Kidney Failure, Chronic;Blood Transfusion, Autologous;Myelodysplastic Syndromes
+ATC code (human): B03XA01
+Pharmacotherapeutic group (human): Antianemic preparations
+Therapeutic indication: Treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adult and paediatric patients:  treatment of anaemia associated with chronic renal failure in paediatric and adult patients on haemodialysis and adult patients on peritoneal dialysis; Treatment of severe anaemia of renal origin accompanied by clinical symptoms in adult patients with renal insufficiency not yet undergoing dialysis.  Treatment of anaemia and reduction of transfusion requirements in adult patients receiving chemotherapy for solid tumours, malignant lymphoma or multiple myeloma, and at risk of transfusion as assessed by the patient's general status (e.g. cardiovascular status, pre-existing anaemia at the start of chemotherapy).
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/epoetin-alfa-hexal

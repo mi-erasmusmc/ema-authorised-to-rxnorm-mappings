@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001030
+Name of medicine: Mozobil
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: plerixafor
+Active substance: Plerixafor
+Therapeutic area (MeSH): Multiple Myeloma;Hematopoietic Stem Cell Transplantation;Lymphoma
+ATC code (human): L03AX16
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Mozobil is indicated in combination with granulocyte-colony-stimulating factor to enhance mobilisation of haematopoietic stem cells to the peripheral blood for collection and subsequent autologous transplantation in patients with lymphoma and multiple myeloma whose cells mobilise poorly.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mozobil

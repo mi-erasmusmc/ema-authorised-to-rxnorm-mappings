@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000220
+Name of medicine: Thyrogen
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: thyrotropin alfa
+Active substance: thyrotropin alfa
+Therapeutic area (MeSH): Thyroid Neoplasms
+ATC code (human): H01AB01
+Pharmacotherapeutic group (human): Anterior pituitary lobe hormones and analogues;Pituitary and hypothalamic hormones and analogues
+Therapeutic indication: Thyrogen is indicated for use with serum thyroglobulin (Tg) testing with or without radioiodine imaging for the detection of thyroid remnants and well-differentiated thyroid cancer in post thyroidectomy patients maintained on hormone suppression therapy (THST).&nbsp;&nbsp; Low risk patients with well-differentiated thyroid carcinoma who have undetectable serum Tg levels on THST and no rh (recombinant human) TSH-stimulated increase of Tg levels may be followed-up by assaying rh TSH-stimulated Tg levels.&nbsp; Thyrogen is indicated for pre-therapeutic stimulation in combination with a range of 30 mCi (1.1 GBq) to 100 mCi (3.7 GBq) radioiodine for ablation of thyroid tissue remnants in patients who have undergone a near-total or total thyroidectomy for well-differentiated thyroid cancer and who do not have evidence of distant metastatic thyroid cancer (see section 4.4).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/thyrogen

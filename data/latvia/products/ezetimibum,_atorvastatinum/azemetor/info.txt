@@ -1,0 +1,7 @@
+short_name: Azemetor
+active_substance: Ezetimibum, Atorvastatinum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Rontis Hellas Medical and Pharmaceutical Products S.A., Greece; Factory Bennett Pharmaceuticals S.A., Greece
+atc_code: C10BA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0044/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0044/smpc

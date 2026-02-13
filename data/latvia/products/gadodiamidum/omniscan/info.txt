@@ -1,0 +1,7 @@
+short_name: Omniscan
+active_substance: Gadodiamidum
+marketing_authorisation_holder: GE Healthcare AS, Norway
+manufacturer: GE Healthcare AS, Norway; GE Healthcare Ireland Limited, Ireland
+atc_code: V08CA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0139/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0139/smpc

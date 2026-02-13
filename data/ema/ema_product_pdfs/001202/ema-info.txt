@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001202
+Name of medicine: Humenza
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: pandemic influenza vaccine (H1N1) (split virion, inactivated, adjuvanted)
+Active substance: split influenza virus, inactivated, containing antigen*: A/California/7/2009 (H1N1)v like strain (X-179A)*propagated in eggs.
+Therapeutic area (MeSH): Influenza, Human;Immunization;Disease Outbreaks
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Prophylaxis of influenza in an officially declared pandemic situation. Pandemic influenza vaccine should be used in accordance with Official Guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/humenza

@@ -1,0 +1,7 @@
+short_name: Isoptin retard
+active_substance: Verapamili hydrochloridum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Famar A.V.E., Anthoussa Plant, Greece
+atc_code: C08DA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0227/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0227/smpc

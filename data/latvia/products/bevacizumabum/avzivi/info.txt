@@ -1,0 +1,7 @@
+short_name: Avzivi
+active_substance: Bevacizumabum
+marketing_authorisation_holder: FGK Representative Service GmbH, Germany
+manufacturer: Eurofins Pharma Quality Control, France
+atc_code: L01FG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1834/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1834/001/smpc

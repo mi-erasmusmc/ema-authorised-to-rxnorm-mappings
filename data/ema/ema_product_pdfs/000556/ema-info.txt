@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000556
+Name of medicine: Quintanrix
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: diphtheria, tetanus, pertussis (whole cell), hepatitis B (rDNA) and Haemophilus influenzae type B conjugate vaccine (absorbed)
+Active substance: Diphtheria toxoid;tetanus toxoid;inactivated Bordetella pertussis;hepatitis B surface antigen (rDNA);Haemophilus influenzae type b polysaccharide
+Therapeutic area (MeSH): Hepatitis B;Tetanus;Immunization;Meningitis, Haemophilus;Whooping Cough;Diphtheria
+ATC code (human): J07CA10
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Quintanrix is indicated for primary immunisation of infants (during the first year of life) against diphtheria, tetanus, pertussis, hepatitis B and invasive disease caused by Haemophilus influenzae type b and for booster immunisation of young children during the second year of life.The use of Quintanrix should be determined on the basis of official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/quintanrix

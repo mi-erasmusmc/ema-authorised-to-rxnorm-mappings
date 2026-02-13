@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003702
+Name of medicine: Omidria
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: phenylephrine;ketorolac
+Active substance: ketorolac;phenylephrine
+Therapeutic area (MeSH): Lens Implantation, Intraocular;Pain, Postoperative
+ATC code (human): S01
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement surgery.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/omidria

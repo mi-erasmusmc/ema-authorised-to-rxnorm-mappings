@@ -1,0 +1,7 @@
+short_name: Pazopanib Viatris
+active_substance: Pazopanibum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Remedica Ltd., Cyprus; PharOS Pharmaceutical Oriented Services Ltd, Greece; Logiters, Logistica Portugal S.A., Portugal; PharOS MT Ltd., Malta; Mylan Germany GmbH, Germany
+atc_code: L01EX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0050/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0050/smpc

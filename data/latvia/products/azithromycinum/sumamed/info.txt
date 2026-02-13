@@ -1,0 +1,7 @@
+short_name: Sumamed
+active_substance: Azithromycinum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Pliva Hrvatska d.o.o., Croatia; Teva Operations Poland Sp.z o.o., Poland
+atc_code: J01FA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0863/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0863/smpc

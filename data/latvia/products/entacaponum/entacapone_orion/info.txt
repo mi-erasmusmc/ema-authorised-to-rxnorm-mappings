@@ -1,0 +1,7 @@
+short_name: Entacapone Orion
+active_substance: Entacaponum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation, Finland
+atc_code: N04BX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/708/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/708/001/smpc

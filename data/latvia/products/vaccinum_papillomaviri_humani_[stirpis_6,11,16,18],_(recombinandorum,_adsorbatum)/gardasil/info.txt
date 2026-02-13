@@ -1,0 +1,7 @@
+short_name: Gardasil
+active_substance: Vaccinum papillomaviri humani [stirpis 6,11,16,18], (recombinandorum, adsorbatum)
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands
+atc_code: J07BM01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/357/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/357/001/smpc

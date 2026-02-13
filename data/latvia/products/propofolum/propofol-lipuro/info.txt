@@ -1,0 +1,7 @@
+short_name: Propofol-Lipuro
+active_substance: Propofolum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: N01AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0018/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0018/smpc

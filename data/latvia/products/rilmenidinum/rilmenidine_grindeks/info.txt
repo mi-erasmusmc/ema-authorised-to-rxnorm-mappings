@@ -1,0 +1,7 @@
+short_name: Rilmenidine Grindeks
+active_substance: Rilmenidinum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: C02AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0065/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0065/smpc

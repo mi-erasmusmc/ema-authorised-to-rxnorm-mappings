@@ -1,0 +1,7 @@
+short_name: Matrifen
+active_substance: Fentanylum
+marketing_authorisation_holder: Istituto Gentili S.r.l., Italy
+manufacturer: LTS Lohmann Therapy Systems AG, Germany
+atc_code: N02AB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0204/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0204/smpc

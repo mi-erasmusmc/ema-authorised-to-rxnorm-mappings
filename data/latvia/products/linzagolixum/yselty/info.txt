@@ -1,0 +1,7 @@
+short_name: Yselty
+active_substance: Linzagolixum
+marketing_authorisation_holder: Theramex Ireland Limited, Ireland
+manufacturer: Patheon France, France
+atc_code: H01CC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1606/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1606/001/smpc

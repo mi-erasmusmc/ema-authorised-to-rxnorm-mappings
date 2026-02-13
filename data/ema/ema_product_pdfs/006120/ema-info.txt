@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006120
+Name of medicine: Loqtorzi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: toripalimab
+Active substance: toripalimab
+Therapeutic area (MeSH): Nasopharyngeal Carcinoma;Esophageal Squamous Cell Carcinoma
+ATC code (human): L01FF13
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Loqtorzi, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with recurrent, not amenable to surgery or radiotherapy, or metastatic nasopharyngeal carcinoma. Loqtorzi, in combination with cisplatin and paclitaxel, is indicated for the first-line treatment of adult patients with unresectable advanced, recurrent, or metastatic oesophageal squamous cell carcinoma.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/loqtorzi

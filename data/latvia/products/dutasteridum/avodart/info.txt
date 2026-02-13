@@ -1,0 +1,7 @@
+short_name: Avodart
+active_substance: Dutasteridum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Aspen Bad Oldesloe GmbH, Germany; Delpharm Poznan S.A., Poland
+atc_code: G04CB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0410/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0410/smpc

@@ -1,0 +1,7 @@
+short_name: Emtricitabina e Tenofovir disoproxil Teva
+active_substance: Emtricitabinum, Tenofovirum disoproxilum
+marketing_authorisation_holder: Teva Italia S.r.l., Italy
+manufacturer: Pliva Hrvatska d.o.o., Croatia
+atc_code: J05AR03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001590/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001590/smpc

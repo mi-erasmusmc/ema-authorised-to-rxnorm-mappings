@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003728
+Name of medicine: Akynzeo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: netupitant;palonosetron
+Active substance: netupitant;palonosetron hydrochloride
+Therapeutic area (MeSH): Vomiting;Neoplasms;Nausea;Cancer
+ATC code (human): A04AA
+Pharmacotherapeutic group (human): Antiemetics and antinauseants
+Therapeutic indication: Akynzeo is indicated in adults for the:  Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin based cancer chemotherapy. Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/akynzeo

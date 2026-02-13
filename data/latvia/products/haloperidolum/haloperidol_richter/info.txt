@@ -1,0 +1,7 @@
+short_name: Haloperidol Richter
+active_substance: Haloperidolum
+marketing_authorisation_holder: Gedeon Richter Romania S.A., Romania
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: N05AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001218/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001218/smpc

@@ -1,0 +1,7 @@
+short_name: Taromentin
+active_substance: Amoxicillinum, Acidum clavulanicum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchominskie Zaklady Farmaceutyczne ''Polfa'' S.A., Poland
+atc_code: J01CR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0297/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0297/smpc

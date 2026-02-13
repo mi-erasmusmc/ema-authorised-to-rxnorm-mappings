@@ -1,0 +1,7 @@
+short_name: PK-Merz
+active_substance: Amantadini sulfas
+marketing_authorisation_holder: Merz Pharmaceuticals GmbH, Germany
+manufacturer: Merz Pharma GmbH & Co. KgaA, Germany
+atc_code: N04BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0218/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0218/smpc

@@ -1,0 +1,7 @@
+short_name: Apixaban TevaPharm
+active_substance: Apixabanum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Combino Pharm (Malta) Ltd, Malta
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0019/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0019/smpc

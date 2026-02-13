@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004837
+Name of medicine: Xromi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hydroxycarbamide
+Active substance: hydroxycarbamide
+Therapeutic area (MeSH): Anemia, Sickle Cell
+ATC code (human): L01XX05
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Xromi is indicated for the prevention of vaso-occlusive complications of Sickle Cell Disease in patients over 9 months of age.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xromi

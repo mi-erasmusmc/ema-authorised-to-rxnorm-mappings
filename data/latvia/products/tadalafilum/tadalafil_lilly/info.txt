@@ -1,0 +1,7 @@
+short_name: Tadalafil Lilly
+active_substance: Tadalafilum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly S.A., Spain
+atc_code: G04BE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1177/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1177/001/smpc

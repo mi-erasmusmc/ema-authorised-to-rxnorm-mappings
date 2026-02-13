@@ -1,0 +1,7 @@
+short_name: Septanest Forte
+active_substance: Articaini hydrochloridum, Epinephrinum
+marketing_authorisation_holder: Septodont, France
+manufacturer: Septodont, France
+atc_code: N01BB58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0231/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0231/smpc

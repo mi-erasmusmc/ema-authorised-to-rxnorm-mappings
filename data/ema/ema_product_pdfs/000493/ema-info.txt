@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000493
+Name of medicine: PhotoBarr
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: porfimer sodium
+Active substance: porfimer sodium
+Therapeutic area (MeSH): Barrett Esophagus
+ATC code (human): L01XD01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Photodynamic therapy (PDT) with PhotoBarr is indicated for:   Ablation of high-grade dysplasia (HGD) in patients with Barrett's Oesophagus (BO)
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/photobarr

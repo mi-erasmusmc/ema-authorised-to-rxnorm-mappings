@@ -1,0 +1,7 @@
+short_name: Xaluprine
+active_substance: Mercaptopurinum
+marketing_authorisation_holder: Lipomed GmbH, Germany
+manufacturer: Pronav Clinical Limited, Ireland
+atc_code: L01BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/727/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/727/001/smpc

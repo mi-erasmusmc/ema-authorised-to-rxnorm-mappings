@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003876
+Name of medicine: Vaxchora
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cholera vaccine, oral, live
+Active substance: vibrio cholerae, strain cvd 103-hgr, live
+Therapeutic area (MeSH): Cholera
+ATC code (human): J07AE02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Vaxchora is indicated for active immunisation against disease caused by Vibrio cholerae serogroup O1 in adults and children aged 2 years and older. This vaccine should be used in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vaxchora

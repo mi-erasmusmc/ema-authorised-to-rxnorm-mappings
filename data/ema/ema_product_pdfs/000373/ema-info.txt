@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000373
+Name of medicine: HBVaxPro
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hepatitis B vaccine (recombinant DNA)
+Active substance: hepatitis B, recombinant surface antigen
+Therapeutic area (MeSH): Hepatitis B;Immunization
+ATC code (human): J07BC01
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: 5 micrograms HBVaxPro is indicated for active immunisation against hepatitis-B-virus infection caused by all known subtypes in individuals from birth through 15 years of age considered at risk of exposure to hepatitis-B virus. The specific at-risk categories to be immunised are to be determined on the basis of the official recommendations. It can be expected that hepatitis D will also be prevented by immunisation with HBVaxPro as hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis-B infection. 10 micrograms HBVaxPro is indicated for active immunisation against hepatitis-B-virus infection caused by all known subtypes in individuals 16 years of age or more considered at risk of exposure to hepatitis-B virus. The specific at-risk categories to be immunised are to be determined on the basis of the official recommendations. It can be expected that hepatitis D will also be prevented by immunisation with HBVaxPro as hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis-B infection. 40 micrograms HBVaxPro is indicated for the active immunisation against hepatitis-B-virus infection caused by all known subtypes in predialysis and dialysis adult patients. It can be expected that hepatitis D will also be prevented by immunisation with HBVaxPro as hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hbvaxpro

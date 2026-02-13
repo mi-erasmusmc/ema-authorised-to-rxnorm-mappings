@@ -1,0 +1,7 @@
+short_name: Rukobia
+active_substance: Fostemsavirum
+marketing_authorisation_holder: Viiv Healthcare B.V., Netherlands
+manufacturer: GlaxoSmithKline Manufacturing S.p.A., Italy
+atc_code: J05AX29
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1518/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1518/001/smpc

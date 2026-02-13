@@ -1,0 +1,7 @@
+short_name: Entacapone Teva
+active_substance: Entacaponum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; Pliva Krakow Zaklady Farmaceutyczne S.A., Poland; TEVA Czech Industries s.r.o., Czech Republic; Pharmachemie B.V., Netherlands
+atc_code: N04BX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/665/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/665/001/smpc

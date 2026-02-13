@@ -1,0 +1,7 @@
+short_name: Prasugrel Mylan
+active_substance: Prasugrelum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited t/a Gerard Laboratories t/a Mylan Dublin, Ireland
+atc_code: B01AC22
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1273/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1273/001/smpc

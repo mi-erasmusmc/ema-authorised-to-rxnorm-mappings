@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000679
+Name of medicine: Thelin
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: sitaxentan sodium
+Active substance: sitaxentan sodium
+Therapeutic area (MeSH): Hypertension, Pulmonary
+ATC code (human): C02KX03
+Pharmacotherapeutic group (human): Antihypertensives
+Therapeutic indication: Treatment of patients with pulmonary arterial hypertension (PAH) classified as WHO functional class III, to improve exercise capacity. Efficacy has been shown in primary pulmonary hypertension and in pulmonary hypertension associated with connective tissue disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/thelin

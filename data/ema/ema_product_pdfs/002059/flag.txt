@@ -1,0 +1,4 @@
+Komboglyze is an EU-only immediate-release saxagliptin/metformin formulation. No IR concepts exist in RxNorm. The US equivalent (Kombiglyze XR) is Extended Release only. Previous mapping incorrectly used the ER concept for the 1000 mg strength rows.
+
+850 mg metformin strength: no RxNorm concept exists at all (US only has 500 mg and 1000 mg ER).
+1000 mg metformin strength: only ER concept exists; IR formulation is not available in the US.

@@ -1,0 +1,7 @@
+short_name: Ginkor Fort
+active_substance: Ginkgonis extractum siccum raffinatum et quantificatum, Troxerutinum, Heptaminoli hydrochloridum
+marketing_authorisation_holder: Laboratoires Bouchara Recordati, France
+manufacturer: Mayoly Industrie, France
+atc_code: C05CA54
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0616/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0616/smpc

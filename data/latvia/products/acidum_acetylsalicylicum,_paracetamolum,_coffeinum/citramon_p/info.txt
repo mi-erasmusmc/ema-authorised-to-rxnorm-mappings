@@ -1,0 +1,7 @@
+short_name: Citramon P
+active_substance: Acidum acetylsalicylicum, Paracetamolum, Coffeinum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Aniss SIA, Latvia
+atc_code: N02BA51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0085/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0085/smpc

@@ -1,0 +1,7 @@
+short_name: Kisplyx
+active_substance: Lenvatinibum
+marketing_authorisation_holder: Eisai GmbH, Germany
+manufacturer: Eisai Manufacturing Ltd., United Kingdom; Eisai GmbH, Germany
+atc_code: L01EX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1128/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1128/001/smpc

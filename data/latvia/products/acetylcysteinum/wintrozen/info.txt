@@ -1,0 +1,7 @@
+short_name: Wintrozen
+active_substance: Acetylcysteinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: E- Pharma Trento S.p.A., Italy
+atc_code: R05CB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0133/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0133/smpc

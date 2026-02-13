@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003687
+Name of medicine: Mysimba
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: naltrexone;bupropion
+Active substance: bupropion hydrochloride;naltrexone hydrochloride
+Therapeutic area (MeSH): Obesity;Overweight
+ATC code (human): A08AA
+Pharmacotherapeutic group (human): Antiobesity preparations, excl. diet products
+Therapeutic indication: Mysimba is indicated, as an adjunct to a reduced-calorie diet and increased physical activity, for the management of weight in adult patients (≥18 years) with an initial Body Mass Index (BMI) of  ≥ 30 kg/m2 (obese), or ≥ 27 kg/m2 to &lt; 30 kg/m2 (overweight) in the presence of one or more weight-related co morbidities (e.g., type 2 diabetes, dyslipidaemia, or controlled hypertension)  Treatment with Mysimba should be discontinued after 16 weeks if patients have not lost at least 5% of their initial body weight.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mysimba

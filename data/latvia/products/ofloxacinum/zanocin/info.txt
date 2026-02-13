@@ -1,0 +1,7 @@
+short_name: Zanocin
+active_substance: Ofloxacinum
+marketing_authorisation_holder: Sun Pharmaceutical Industries Europe B.V., Netherlands
+manufacturer: Terapia S.A., Romania; Sun Pharmaceutical Industries Europe B.V., Netherlands
+atc_code: J01MA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0216/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0216/smpc

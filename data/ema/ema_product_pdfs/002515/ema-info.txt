@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002515
+Name of medicine: Evarrest
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: human fibrinogen;human thrombin
+Active substance: human fibrinogen;human thrombin
+Therapeutic area (MeSH): Hemostasis
+ATC code (human): B02BC30
+Pharmacotherapeutic group (human): Local hemostatics
+Therapeutic indication: Supportive treatment in adult surgery where standard surgical techniques are insufficient (see section 5.1): - for improvement of haemostasis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evarrest

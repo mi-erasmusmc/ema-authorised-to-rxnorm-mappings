@@ -1,0 +1,7 @@
+short_name: Abrea
+active_substance: Acidum acetylsalicylicum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany; G.L. Pharma GmbH, Austria
+atc_code: B01AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0001/smpc

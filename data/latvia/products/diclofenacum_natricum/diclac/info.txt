@@ -1,0 +1,7 @@
+short_name: Diclac
+active_substance: Diclofenacum natricum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Salutas Pharma GmbH, Germany
+atc_code: M01AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0233/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0233/smpc

@@ -1,0 +1,7 @@
+short_name: Ticagrelor Zentiva
+active_substance: Ticagrelorum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Labormed - Pharma S.A., Romania
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0035/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0035/smpc

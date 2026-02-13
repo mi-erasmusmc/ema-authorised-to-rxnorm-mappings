@@ -1,0 +1,7 @@
+short_name: GalliaPharm
+active_substance: Gallii (68Ga) chloridum, Germanii (68Ge) chloridum
+marketing_authorisation_holder: Eckert & Ziegler Radiopharma GmbH, Germany
+manufacturer: Eckert & Ziegler Radiopharma GmbH, Germany
+atc_code: V09X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1836/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1836/001/smpc

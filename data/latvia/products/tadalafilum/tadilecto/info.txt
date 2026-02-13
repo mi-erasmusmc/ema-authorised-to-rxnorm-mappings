@@ -1,0 +1,7 @@
+short_name: Tadilecto
+active_substance: Tadalafilum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: G04BE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0078/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0078/smpc

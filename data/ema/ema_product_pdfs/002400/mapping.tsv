@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/13/823/001	43012820	loxapine Dry Powder Inhaler [Adasuve]	1367520	BROAD	metered dose	1 ACTUAT loxapine 5 MG/ACTUAT Dry Powder Inhaler [Adasuve]	2026-01-05
+EU/1/13/823/002	43012424	1 ACTUAT loxapine 10 MG/ACTUAT Dry Powder Inhaler [Adasuve]	1367521	EXACT	metered dose is 10 MG		2026-01-05
+EU/1/13/823/003	43012820	loxapine Dry Powder Inhaler [Adasuve]	1367520	BROAD	metered dose	1 ACTUAT loxapine 5 MG/ACTUAT Dry Powder Inhaler [Adasuve]	2026-01-05
+EU/1/13/823/004	43012424	1 ACTUAT loxapine 10 MG/ACTUAT Dry Powder Inhaler [Adasuve]	1367521	EXACT	metered dose is 10 MG		2026-01-05

@@ -1,0 +1,7 @@
+short_name: Methylthioninium chloride Proveblue
+active_substance: Methylthioninii chloridum
+marketing_authorisation_holder: Provepharm SAS, France
+manufacturer: Cenexi SAS, France; Pierrel S.p.A, Italy
+atc_code: V03AB17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/682/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/682/001/smpc

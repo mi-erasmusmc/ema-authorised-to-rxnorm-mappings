@@ -1,0 +1,7 @@
+short_name: Canifug Cremolum
+active_substance: Clotrimazolum
+marketing_authorisation_holder: Dr. August Wolff GmbH & Co. KG Arzneimittel, Germany
+manufacturer: Dr. August Wolff GmbH & Co. Arzneimittel, Germany
+atc_code: G01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1083/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1083/smpc

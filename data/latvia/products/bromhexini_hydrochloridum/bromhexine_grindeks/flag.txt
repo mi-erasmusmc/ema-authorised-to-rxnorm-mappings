@@ -1,0 +1,1 @@
+Changed 98-0367-01 mapping from branded concept "bromhexine 8 MG Oral Tablet [Bisolvon]" (19011445) to unbranded "bromhexine 8 MG Oral Tablet" (19030494). Bisolvon is not the EMA product name for this product (Bromhexine Grindeks), so per mapping rules the unbranded concept should be used.

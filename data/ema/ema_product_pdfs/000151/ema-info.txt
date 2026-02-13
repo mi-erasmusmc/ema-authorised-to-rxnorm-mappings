@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000151
+Name of medicine: Pylobactell
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: 13C-urea
+Active substance: urea (13C)
+Therapeutic area (MeSH): Breath Tests;Helicobacter Infections
+ATC code (human): V04CX
+Pharmacotherapeutic group (human): Diagnostic agents
+Therapeutic indication: This medicinal product is for diagnostic use only. For in vivo diagnosis of gastroduodenal Helicobacter pylori (H. pylori) infection.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pylobactell

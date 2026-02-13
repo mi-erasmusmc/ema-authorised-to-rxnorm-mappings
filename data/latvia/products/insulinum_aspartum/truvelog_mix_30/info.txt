@@ -1,0 +1,7 @@
+short_name: Truvelog Mix 30
+active_substance: Insulinum aspartum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Deutschland GmbH, Germany; Sanofi-Aventis Private Co. Ltd., Hungary
+atc_code: A10AD05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1639/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1639/001/smpc

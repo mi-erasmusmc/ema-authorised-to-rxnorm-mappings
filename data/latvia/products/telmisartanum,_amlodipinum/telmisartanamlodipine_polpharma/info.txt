@@ -1,0 +1,7 @@
+short_name: Telmisartan/Amlodipine Polpharma
+active_substance: Telmisartanum, Amlodipinum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Farmaprojects S.A.U., Spain
+atc_code: C09DB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0184/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0184/smpc

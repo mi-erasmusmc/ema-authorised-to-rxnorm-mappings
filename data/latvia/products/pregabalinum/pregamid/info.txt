@@ -1,0 +1,7 @@
+short_name: Pregamid
+active_substance: Pregabalinum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria; Delorbis Pharmaceuticals Ltd, Cyprus; Sofarimex Industria Quimica e Farmaceutica SA, Portugal
+atc_code: N02BF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0164/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0164/smpc

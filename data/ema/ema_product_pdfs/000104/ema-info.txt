@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000104
+Name of medicine: Revasc
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: desirudin
+Active substance: desirudin
+Therapeutic area (MeSH): Venous Thrombosis
+ATC code (human): B01AE01
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Prevention of deep venous thrombosis in patients undergoing elective hip or knee replacement surgery.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/revasc

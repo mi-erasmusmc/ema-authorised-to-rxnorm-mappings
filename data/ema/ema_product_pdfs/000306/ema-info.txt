@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000306
+Name of medicine: Metalyse
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tenecteplase
+Active substance: tenecteplase
+Therapeutic area (MeSH): Myocardial Infarction
+ATC code (human): B01AD11
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Metalyse is indicated for the thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours after the onset of acute-myocardial-infarction symptoms. Metalyse is indicated in adults for the thrombolytic treatment of acute ischaemic stroke (AIS) within 4.5 hours from last known well and after exclusion of intracranial haemorrhage.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/metalyse

@@ -1,0 +1,7 @@
+short_name: Cabazitaxel Stada
+active_substance: Cabazitaxelum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: AqVida GmbH, Germany; Stada Arzneimittel AG, Germany
+atc_code: L01CD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0095/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0095/smpc

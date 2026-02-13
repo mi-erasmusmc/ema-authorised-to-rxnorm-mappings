@@ -1,0 +1,7 @@
+short_name: Casgevy
+active_substance: Exagamglogenum autotemcelum
+marketing_authorisation_holder: Vertex Pharmaceuticals (Ireland) Limited, Ireland
+manufacturer: Vertex Pharmaceuticals (Ireland) Limited, Ireland; Lonza Netherlands B.V., Netherlands
+atc_code: B06AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1787/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1787/001/smpc

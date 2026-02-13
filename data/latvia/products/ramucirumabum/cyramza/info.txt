@@ -1,0 +1,7 @@
+short_name: Cyramza
+active_substance: Ramucirumabum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly S.A., Spain; Lilly France Fegersheim, France
+atc_code: L01FG02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/957/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/957/001/smpc

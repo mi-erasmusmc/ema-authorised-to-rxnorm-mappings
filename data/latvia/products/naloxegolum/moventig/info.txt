@@ -1,0 +1,7 @@
+short_name: Moventig
+active_substance: Naloxegolum
+marketing_authorisation_holder: Grünenthal GmbH, Germany
+manufacturer: Piramal Pharma Solutions (Dutch) B.V., Netherlands
+atc_code: A06AH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/962/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/962/001/smpc

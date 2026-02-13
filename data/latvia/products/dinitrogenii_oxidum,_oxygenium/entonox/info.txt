@@ -1,0 +1,7 @@
+short_name: Entonox
+active_substance: Dinitrogenii oxidum, Oxygenium
+marketing_authorisation_holder: Linde Sverige AB, Sweden
+manufacturer: Linde Gaz Polska Sp.z o.o., Poland; Linde Gaz Polska Sp.z o.o., ASU Warszawa, Poland; Linde France, France; Linde Gas AB, Sweden
+atc_code: N01AX63
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0155/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0155/smpc

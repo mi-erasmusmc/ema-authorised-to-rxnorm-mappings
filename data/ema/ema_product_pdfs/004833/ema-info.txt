@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004833
+Name of medicine: Ajovy
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fremanezumab
+Active substance: fremanezumab
+Therapeutic area (MeSH): Migraine Disorders
+ATC code (human): N02CD03
+Pharmacotherapeutic group (human): Calcitonin gene-related peptide (CGRP) antagonists
+Therapeutic indication: Ajovy is indicated for prophylaxis of migraine in adults who have at least 4&nbsp;migraine days per month.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ajovy

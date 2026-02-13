@@ -1,0 +1,7 @@
+short_name: Levetiracetam Teva
+active_substance: Levetiracetamum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; TEVA Czech Industries s.r.o., Czech Republic; TEVA PHARMA S.L.U., Spain; Pharmachemie B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland
+atc_code: N03AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/701/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/701/001/smpc

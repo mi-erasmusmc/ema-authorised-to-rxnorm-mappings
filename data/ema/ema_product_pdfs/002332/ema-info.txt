@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002332
+Name of medicine: Victrelis
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: boceprevir
+Active substance: Boceprevir
+Therapeutic area (MeSH): Hepatitis C, Chronic
+ATC code (human): J05AE
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Victrelis is indicated for the treatment of chronic hepatitis-C (CHC) genotype-1 infection, in combination with peginterferon alfa and ribavirin, in adult patients with compensated liver disease who are previously untreated or who have failed previous therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/victrelis

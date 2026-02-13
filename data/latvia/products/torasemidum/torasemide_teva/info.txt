@@ -1,0 +1,7 @@
+short_name: Torasemide Teva
+active_substance: Torasemidum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Teva Operations Poland Sp.z o.o., Poland; Pliva Croatia Ltd., Croatia
+atc_code: C03CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0220/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0220/smpc

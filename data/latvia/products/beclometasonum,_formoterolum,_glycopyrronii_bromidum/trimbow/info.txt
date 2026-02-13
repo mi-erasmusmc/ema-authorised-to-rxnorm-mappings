@@ -1,0 +1,7 @@
+short_name: Trimbow
+active_substance: Beclometasonum, Formoterolum, Glycopyrronii bromidum
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Chiesi Pharmaceuticals GmbH, Austria; Chiesi Farmaceutici S.P.A., Italy; Chiesi SAS, France
+atc_code: R03AL09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1208/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1208/001/smpc

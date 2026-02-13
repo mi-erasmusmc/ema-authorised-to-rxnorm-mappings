@@ -1,0 +1,7 @@
+short_name: Benzotal
+active_substance: Benzylis benzoas
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Tallinna Farmaatsiatehase AS, Estonia; Grindeks, AS, Latvia
+atc_code: P03AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0460/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0460/smpc

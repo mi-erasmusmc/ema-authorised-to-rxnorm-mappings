@@ -1,0 +1,7 @@
+short_name: Vazkepa
+active_substance: Icosapent ethyl
+marketing_authorisation_holder: Amarin Pharmaceuticals Ireland Limited, Ireland
+manufacturer: MIAS Pharma Limited, Ireland
+atc_code: C10AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1524/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1524/001/smpc

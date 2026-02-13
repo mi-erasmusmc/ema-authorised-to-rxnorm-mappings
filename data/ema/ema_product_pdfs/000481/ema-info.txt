@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000481
+Name of medicine: Humira
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: adalimumab
+Active substance: adalimumab
+Therapeutic area (MeSH): Spondylitis, Ankylosing;Arthritis, Juvenile Rheumatoid;Uveitis;Colitis, Ulcerative;Psoriasis;Arthritis, Psoriatic;Crohn Disease;Arthritis, Rheumatoid
+ATC code (human): L04AB04
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Please refer to the product information document.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/humira

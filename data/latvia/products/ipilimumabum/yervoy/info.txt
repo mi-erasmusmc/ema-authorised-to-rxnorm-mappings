@@ -1,0 +1,7 @@
+short_name: Yervoy
+active_substance: Ipilimumabum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories t/a Bristol-Myers Squibb Cruiserath Biologics, Ireland; Catalent Anagni S.R.L., Italy
+atc_code: L01FX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/698/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/698/001/smpc

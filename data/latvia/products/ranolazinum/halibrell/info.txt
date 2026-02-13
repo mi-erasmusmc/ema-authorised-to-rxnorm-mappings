@@ -1,0 +1,7 @@
+short_name: Halibrell
+active_substance: Ranolazinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; ELPEN Pharmaceutical Co. Inc., Greece
+atc_code: C01EB18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0064/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0064/smpc

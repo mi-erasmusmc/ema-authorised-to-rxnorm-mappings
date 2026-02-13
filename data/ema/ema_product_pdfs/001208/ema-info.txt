@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001208
+Name of medicine: Foclivia
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pandemic influenza vaccine (H5N1) (surface antigen, inactivated, adjuvanted)
+Active substance: influenza virus surface antigens, inactivated: A/Viet Nam/1194/2004 (H5N1)
+Therapeutic area (MeSH): Influenza, Human;Immunization;Disease Outbreaks
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Influenza vaccines
+Therapeutic indication: Prophylaxis of influenza in an officially declared pandemic situation. Pandemic influenza vaccine should be used in accordance with official guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/foclivia

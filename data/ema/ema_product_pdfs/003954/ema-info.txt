@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003954
+Name of medicine: Orkambi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lumacaftor;ivacaftor
+Active substance: Lumacaftor;ivacaftor
+Therapeutic area (MeSH): Cystic Fibrosis
+ATC code (human): R07AX30
+Pharmacotherapeutic group (human): Other respiratory system products
+Therapeutic indication: Orkambi tablets are indicated for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who are homozygous for the F508del mutation in the CFTR gene. Orkambi granules are indicated for the treatment of cystic fibrosis (CF) in children aged 1 year and older who are homozygous for the F508del mutation in the CFTR gene.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/orkambi

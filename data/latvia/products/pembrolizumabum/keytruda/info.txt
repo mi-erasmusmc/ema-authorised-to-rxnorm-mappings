@@ -1,0 +1,7 @@
+short_name: Keytruda
+active_substance: Pembrolizumabum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands; Organon Heist bv, Belgium
+atc_code: L01FF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1024/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1024/002/smpc

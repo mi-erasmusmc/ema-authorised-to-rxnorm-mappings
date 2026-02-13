@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002658
+Name of medicine: Marixino (previously Maruxa)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: memantine
+Active substance: memantine hydrochloride
+Therapeutic area (MeSH): Alzheimer Disease
+ATC code (human): N06DX01
+Pharmacotherapeutic group (human): Other anti-dementia drugs
+Therapeutic indication: Treatment of patients with moderate to severe Alzheimer’s disease.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/marixino

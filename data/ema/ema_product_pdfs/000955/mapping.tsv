@@ -1,0 +1,11 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/08/492/001	46275116	4 ML tocilizumab 20 MG/ML Injection	1657974	EXACT			2025-12-04
+EU/1/08/492/002	46275116	4 ML tocilizumab 20 MG/ML Injection	1657974	EXACT			2025-12-04
+EU/1/08/492/003	46275121	10 ML tocilizumab 20 MG/ML Injection	1657979	EXACT			2025-12-04
+EU/1/08/492/004	46275121	10 ML tocilizumab 20 MG/ML Injection	1657979	EXACT			2025-12-04
+EU/1/08/492/005	46275123	20 ML tocilizumab 20 MG/ML Injection	1657981	EXACT			2025-12-04
+EU/1/08/492/006	46275123	20 ML tocilizumab 20 MG/ML Injection	1657981	EXACT			2025-12-04
+EU/1/08/492/007	44507566	0.9 ML tocilizumab 180 MG/ML Prefilled Syringe	1441527	EXACT			2025-12-04
+EU/1/08/492/008	44507566	0.9 ML tocilizumab 180 MG/ML Prefilled Syringe	1441527	EXACT			2025-12-04
+EU/1/08/492/009	42922630	0.9 ML tocilizumab 180 MG/ML Pen Injector	OMOP4649437	EXACT			2025-12-04
+EU/1/08/492/010	42922630	0.9 ML tocilizumab 180 MG/ML Pen Injector	OMOP4649437	EXACT			2025-12-04

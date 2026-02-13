@@ -1,0 +1,7 @@
+short_name: Glucosamin-ratiopharm
+active_substance: Glucosamini sulfas
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany
+atc_code: M01AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0195/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0195/smpc

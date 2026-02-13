@@ -1,0 +1,7 @@
+short_name: Combogesic
+active_substance: Paracetamolum, Ibuprofenum
+marketing_authorisation_holder: Swixx Biopharma Kft, Hungary
+manufacturer: Alterno Labs d.o.o., Slovenia; Santa S.A., Romania
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0014/smpc

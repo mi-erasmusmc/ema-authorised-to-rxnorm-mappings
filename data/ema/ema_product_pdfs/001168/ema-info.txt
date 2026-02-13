@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001168
+Name of medicine: Telmisartan Actavis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: telmisartan
+Active substance: telmisartan
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09CA07
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Hypertension Treatment of essential hypertension in adults. Cardiovascular prevention Reduction of cardiovascular morbidity in patients with:  manifest atherothrombotic cardiovascular disease (history of coronary heart disease, stroke, or peripheral arterial disease) or; type 2 diabetes mellitus with documented target organ damage.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/telmisartan-actavis

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004919
+Name of medicine: Vitrakvi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: larotrectinib
+Active substance: larotrectinib sulfate
+Therapeutic area (MeSH): Abdominal Neoplasms
+ATC code (human): L01XE53
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Vitrakvi as monotherapy is indicated for the treatment of adult and paediatric patients with solid tumours that display a Neurotrophic Tyrosine Receptor Kinase (NTRK) gene fusion,  who have a disease that is locally advanced, metastatic or where surgical resection is likely to result in severe morbidity, and who have no satisfactory treatment options.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vitrakvi

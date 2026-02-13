@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006009
+Name of medicine: Agilus
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dantrolene sodium, hemiheptahydrate
+Active substance: dantrolene sodium, hemiheptahydrate
+Therapeutic area (MeSH): Malignant Hyperthermia
+ATC code (human): M03CA01
+Pharmacotherapeutic group (human): MUSCLE RELAXANTS
+Therapeutic indication: In combination with adequate support measures, Agilus is indicated for the treatment of malignant hyperthermia in adults and children of all ages.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/agilus

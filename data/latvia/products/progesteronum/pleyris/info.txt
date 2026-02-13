@@ -1,0 +1,7 @@
+short_name: Pleyris
+active_substance: Progesteronum
+marketing_authorisation_holder: IBSA Farmaceutici Italia S.r.l., Italy
+manufacturer: IBSA Farmaceutici Italia S.r.l., Italy
+atc_code: G03DA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001626/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001626/smpc

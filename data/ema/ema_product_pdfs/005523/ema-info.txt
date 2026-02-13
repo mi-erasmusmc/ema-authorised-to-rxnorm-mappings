@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005523
+Name of medicine: Tavneos
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: avacopan
+Active substance: avacopan
+Therapeutic area (MeSH): Microscopic Polyangiitis;Wegener Granulomatosis
+ATC code (human): L04
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Tavneos, in combination with a rituximab or cyclophosphamide regimen, is indicated for the treatment of adult patients with severe, active granulomatosis with polyangiitis (GPA) or microscopic polyangiitis (MPA).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tavneos

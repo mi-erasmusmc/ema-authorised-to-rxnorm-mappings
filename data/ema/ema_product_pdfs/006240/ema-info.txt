@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006240
+Name of medicine: Hympavzi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: marstacimab
+Active substance: marstacimab
+Therapeutic area (MeSH): Hemophilia A;Hemophilia B
+ATC code (human): B02BX11
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Hympavzi is indicated for routine prophylaxis of bleeding episodes in patients 12 years of age and older, weighing at least 35 kg, with:  severe haemophilia A (congenital factor VIII deficiency, FVIII &lt; 1%) without factor VIII inhibitors, or severe haemophilia B (congenital factor IX deficiency, FIX &lt; 1%) without factor IX inhibitors.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hympavzi

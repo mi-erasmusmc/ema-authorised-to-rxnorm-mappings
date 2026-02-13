@@ -1,0 +1,7 @@
+short_name: Senshio
+active_substance: Ospemifenum
+marketing_authorisation_holder: Shionogi B.V., Netherlands
+manufacturer: Shionogi B.V., Netherlands
+atc_code: G03XC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/978/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/978/001/smpc

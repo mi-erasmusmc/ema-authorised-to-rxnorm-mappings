@@ -1,0 +1,7 @@
+short_name: Ventavis
+active_substance: Iloprostum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: BerliMed S.A., Spain
+atc_code: B01AC11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/255/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/255/001/smpc

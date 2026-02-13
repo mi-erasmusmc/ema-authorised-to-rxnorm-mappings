@@ -1,0 +1,7 @@
+short_name: Metafenex
+active_substance: Paracetamolum, Ibuprofenum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zaklady Farmaceutyczne Polpharma S.A., Poland
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0139/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0139/smpc

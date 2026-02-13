@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000379
+Name of medicine: Cancidas (previously Caspofungin MSD)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: caspofungin
+Active substance: caspofungin (as acetate)
+Therapeutic area (MeSH): Candidiasis;Aspergillosis
+ATC code (human): J02AX04
+Pharmacotherapeutic group (human): Antimycotics for systemic use
+Therapeutic indication: Treatment of invasive candidiasis in adult or paediatric patients; treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid formulations of amphotericin B and / or itraconazole. Refractoriness is defined as progression of infection or failure to improve after a minimum of seven days of prior therapeutic doses of effective antifungal therapy; empirical therapy for presumed fungal infections (such as Candida or Aspergillus) in febrile, neutropaenic adult or paediatric patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cancidas

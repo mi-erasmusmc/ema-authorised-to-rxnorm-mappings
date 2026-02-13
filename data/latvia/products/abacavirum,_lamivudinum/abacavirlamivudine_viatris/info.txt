@@ -1,0 +1,7 @@
+short_name: Abacavir/Lamivudine Viatris
+active_substance: Abacavirum, Lamivudinum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: J05AR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0218/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0218/smpc

@@ -1,0 +1,7 @@
+short_name: Emadine
+active_substance: Emedastini difumaras
+marketing_authorisation_holder: Immedica Pharma AB, Sweden
+manufacturer: S.A. Alcon-Couvreur N.V., Belgium; Siegfried El Masnou, S.A., Spain; Immedica Pharma AB, Sweden
+atc_code: S01GX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/095/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/095/001/smpc

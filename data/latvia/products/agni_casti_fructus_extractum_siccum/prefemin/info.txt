@@ -1,0 +1,7 @@
+short_name: Prefemin
+active_substance: Agni casti fructus extractum siccum
+marketing_authorisation_holder: UAB SIROWA Vilnius, Lithuania
+manufacturer: Entafarma UAB, Lithuania
+atc_code: G02CX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0354/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0354/smpc

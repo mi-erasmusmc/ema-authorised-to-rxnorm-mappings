@@ -1,0 +1,7 @@
+short_name: Xerava
+active_substance: Eravacyclinum
+marketing_authorisation_holder: PAION Pharma GmbH, Germany
+manufacturer: Patheon Italia S.p.A., Italy
+atc_code: J01AA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1312/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1312/001/smpc

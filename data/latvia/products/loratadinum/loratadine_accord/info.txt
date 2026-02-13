@@ -1,0 +1,7 @@
+short_name: Loratadine Accord
+active_substance: Loratadinum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Pharmadox Healthcare Ltd., Malta; Laboratori Fundacio Dau, Spain; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: R06AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0147/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0147/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004913
+Name of medicine: Beovu
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: brolucizumab
+Active substance: brolucizumab
+Therapeutic area (MeSH): Wet Macular Degeneration
+ATC code (human): S01
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Beovu is indicated in adults for the treatment of neovascular (wet) age-related macular degeneration (AMD).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/beovu

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005524
+Name of medicine: Tepmetko
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tepotinib
+Active substance: tepotinib hydrochloride monohydrate
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01EX21
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Tepmetko&nbsp;as monotherapy is indicated for the treatment of adult patients with advanced non-small cell lung cancer (NSCLC) harbouring alterations leading to mesenchymal-epithelial transition factor gene exon 14 (METex14) skipping, who require systemic therapy following prior treatment with immunotherapy and/or platinum-based chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tepmetko

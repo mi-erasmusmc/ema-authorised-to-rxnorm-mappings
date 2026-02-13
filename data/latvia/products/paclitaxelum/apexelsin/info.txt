@@ -1,0 +1,7 @@
+short_name: Apexelsin
+active_substance: Paclitaxelum
+marketing_authorisation_holder: Whiteoak Pharmaceutical B.V., Netherlands
+manufacturer: SciencePharma Sp. z o.o., Poland
+atc_code: L01CD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1835/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1835/001/smpc

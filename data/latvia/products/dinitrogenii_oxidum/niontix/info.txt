@@ -1,0 +1,7 @@
+short_name: Niontix
+active_substance: Dinitrogenii oxidum
+marketing_authorisation_holder: Linde Sverige AB, Sweden
+manufacturer: Linde Gas AB, Sweden; Linde Gas ehf, Iceland
+atc_code: N01AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0339/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0339/smpc

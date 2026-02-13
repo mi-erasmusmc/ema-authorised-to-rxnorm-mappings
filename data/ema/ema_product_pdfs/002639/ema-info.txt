@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002639
+Name of medicine: Xtandi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: enzalutamide
+Active substance: enzalutamide
+Therapeutic area (MeSH): Prostatic Neoplasms
+ATC code (human): L02BB04
+Pharmacotherapeutic group (human): Endocrine therapy
+Therapeutic indication: Xtandi is indicated for:  as monotherapy or in combination with androgen deprivation therapy for the treatment of adult men with high risk biochemical recurrent (BCR) non-metastatic hormone sensitive prostate cancer (nmHSPC) who are unsuitable for salvage radiotherapy (see section 5.1). the treatment of adult men with metastatic hormone-sensitive prostate cancer (mHSPC) in combination with androgen deprivation therapy (see section 5.1). the treatment of adult men with high-risk non-metastatic castration-resistant prostate cancer (CRPC) (see section 5.1). the treatment of adult men with metastatic CRPC who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicated (see section 5.1). the treatment of adult men with metastatic CRPC whose disease has progressed on or after docetaxel therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xtandi

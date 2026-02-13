@@ -1,0 +1,7 @@
+short_name: Sugammadex Mylan
+active_substance: Sugammadexum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Viatris Sante, France; Mylan Germany GmbH, Germany; Eurofins Analytical Services Hungary Kft., Hungary
+atc_code: V03AB35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1583/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1583/001/smpc

@@ -1,0 +1,7 @@
+short_name: Stoboclo
+active_substance: Denosumabum
+marketing_authorisation_holder: Celltrion Healthcare Hungary Kft., Hungary
+manufacturer: Kymos, S.L., Spain; Nuvisan France SARL, France; Midas Pharma GmbH, Germany
+atc_code: M05BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1905/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1905/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002294
+Name of medicine: Vyndaqel
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tafamidis
+Active substance: tafamidis
+Therapeutic area (MeSH): Amyloidosis
+ATC code (human): N07XX08
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Vyndaqel is indicated for the treatment of transthyretin amyloidosis in adult patients with stage-1 symptomatic polyneuropathy to delay peripheral neurologic impairment.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vyndaqel

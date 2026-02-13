@@ -1,0 +1,7 @@
+short_name: Orgovyx
+active_substance: Relugolixum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Millmount Healthcare Limited, Ireland
+atc_code: L02BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1642/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1642/001/smpc

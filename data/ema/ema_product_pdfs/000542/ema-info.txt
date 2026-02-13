@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000542
+Name of medicine: Raptiva
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: efalizumab
+Active substance: efalizumab
+Therapeutic area (MeSH): Psoriasis
+ATC code (human): L04AA21
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Treatment of adult patients with moderate to severe chronic plaque psoriasis who have failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate and PUVA (see section 5.1 - Clinical Efficacy).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/raptiva

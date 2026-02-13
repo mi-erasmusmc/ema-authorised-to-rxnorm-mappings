@@ -1,0 +1,7 @@
+short_name: Nerlynx
+active_substance: Neratinibum
+marketing_authorisation_holder: Pierre Fabre Medicament, France
+manufacturer: Pierre Fabre Médicament Production – Cahors, France
+atc_code: L01EH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1311/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1311/001/smpc

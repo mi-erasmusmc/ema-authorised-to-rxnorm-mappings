@@ -1,0 +1,7 @@
+short_name: Spitomin
+active_substance: Buspironi hydrochloridum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Egis Pharmaceuticals PLC Site number 2, Hungary
+atc_code: N05BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0553/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0553/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005638
+Name of medicine: Sunlenca
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lenacapavir
+Active substance: lenacapavir sodium
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AX
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Sunlenca injection, in combination with other antiretroviral(s), is indicated for the treatment of adults with multidrug resistant HIV 1 infection for whom it is otherwise not possible to construct a suppressive anti viral regimen (see sections 4.2 and 5.1). Sunlenca tablet, in combination with other antiretroviral(s), is indicated for the treatment of adults with multidrug resistant HIV 1 infection for whom it is otherwise not possible to construct a suppressive anti viral regimen, for oral loading prior to administration of long-acting lenacapavir injection (see sections 4.2 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sunlenca

@@ -1,0 +1,7 @@
+short_name: Forvel
+active_substance: Naloxoni hydrochloridum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd, Cyprus
+atc_code: V03AB15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0156/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0156/smpc

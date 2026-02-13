@@ -1,0 +1,7 @@
+short_name: Emtricitabine/Tenofovir disoproxil Krka
+active_substance: Emtricitabinum, Tenofovirum disoproxilum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: J05AR03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1151/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1151/001/smpc

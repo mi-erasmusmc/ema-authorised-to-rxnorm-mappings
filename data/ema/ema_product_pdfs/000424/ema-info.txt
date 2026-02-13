@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000424
+Name of medicine: Actrapid
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human insulin (rDNA)
+Active substance: human insulin
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AB01
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of diabetes mellitus.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/actrapid

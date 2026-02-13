@@ -1,0 +1,7 @@
+short_name: Differine
+active_substance: Adapalenum
+marketing_authorisation_holder: Galderma International, France
+manufacturer: Laboratoires GALDERMA, France
+atc_code: D10AD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000535/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000535/smpc

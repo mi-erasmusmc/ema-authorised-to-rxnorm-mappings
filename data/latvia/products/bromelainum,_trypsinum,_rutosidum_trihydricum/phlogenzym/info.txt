@@ -1,0 +1,7 @@
+short_name: Phlogenzym
+active_substance: Bromelainum, Trypsinum, Rutosidum trihydricum
+marketing_authorisation_holder: Mucos Pharma GmbH & Co.KG, Germany
+manufacturer: Mucos Emulsionsgesellschaft GmbH, Germany
+atc_code: M09AB52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0325/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0325/smpc

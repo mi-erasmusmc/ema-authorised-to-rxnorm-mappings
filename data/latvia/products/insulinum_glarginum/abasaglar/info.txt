@@ -1,0 +1,7 @@
+short_name: Abasaglar
+active_substance: Insulinum glarginum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly France S.A.S., France; Eli Lilly Italia S.p.A., Italy
+atc_code: A10AE04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/944/003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/944/003/smpc

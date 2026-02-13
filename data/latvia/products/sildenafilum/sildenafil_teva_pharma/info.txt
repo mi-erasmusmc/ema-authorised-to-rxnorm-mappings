@@ -1,0 +1,7 @@
+short_name: Sildenafil Teva Pharma
+active_substance: Sildenafilum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Pliva Hrvatska d.o.o., Croatia; Teva Operations Poland Sp.z o.o., Poland
+atc_code: G04BE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0229/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0229/smpc

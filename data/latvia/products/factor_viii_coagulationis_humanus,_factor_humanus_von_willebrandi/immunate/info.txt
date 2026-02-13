@@ -1,0 +1,7 @@
+short_name: Immunate
+active_substance: Factor VIII coagulationis humanus, Factor humanus von Willebrandi
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B02BD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0498/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0498/smpc

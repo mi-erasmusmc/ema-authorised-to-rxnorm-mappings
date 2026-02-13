@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005854
+Name of medicine: Regkirona
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: regdanvimab
+Active substance: regdanvimab
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J06BD06
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Regdanvimab is indicated for the treatment of adults with coronavirus disease 2019 (COVID-19) who do not require supplemental oxygen and who are at increased risk of progressing to severe COVID-19.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/regkirona

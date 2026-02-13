@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002800
+Name of medicine: Unituxin
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: dinutuximab
+Active substance: Dinutuximab
+Therapeutic area (MeSH): Neuroblastoma
+ATC code (human): L01FX06
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Unituxin is indicated for the treatment of high-risk neuroblastoma in patients aged 12 months to 17years, who have previously received induction chemotherapy and achieved at least a partial response, followed by myeloablative therapy and autologous stem cell transplantation (ASCT). It is administered in combination with granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-2 (IL-2), and isotretinoin.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/unituxin

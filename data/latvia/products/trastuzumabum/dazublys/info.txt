@@ -1,0 +1,7 @@
+short_name: Dazublys
+active_substance: Trastuzumabum
+marketing_authorisation_holder: CuraTeQ Biologics s.r.o., Czech Republic
+manufacturer: APL Swift Services (Malta) Limited, Malta
+atc_code: L01FD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1949/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1949/001/smpc

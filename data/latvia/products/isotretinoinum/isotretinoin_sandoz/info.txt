@@ -1,0 +1,7 @@
+short_name: Isotretinoin Sandoz
+active_substance: Isotretinoinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Salutas Pharma GmbH, Germany; GAP S.A., Greece
+atc_code: D10BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0058/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0058/smpc

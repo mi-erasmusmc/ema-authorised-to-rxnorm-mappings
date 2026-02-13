@@ -1,0 +1,7 @@
+short_name: Micardis
+active_substance: Telmisartanum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Rottendorf Pharma GmbH, Germany; Boehringer Ingelheim Ellas A.E., Greece; Delpharm Reims, France
+atc_code: C09CA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/090/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/090/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004712
+Name of medicine: Mayzent
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: siponimod
+Active substance: siponimod fumaric acid
+Therapeutic area (MeSH): Multiple Sclerosis, Relapsing-Remitting
+ATC code (human): L04
+Pharmacotherapeutic group (human): Selective immunosuppressants
+Therapeutic indication: Mayzent is indicated for the treatment of adult patients with secondary progressive multiple sclerosis (SPMS) with active disease evidenced by relapses or imaging features of inflammatory activity.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mayzent

@@ -1,0 +1,7 @@
+short_name: Lioton
+active_substance: Heparinum natricum
+marketing_authorisation_holder: A. Menarini Industrie Farmaceutiche Riunite s.r.l., Italy
+manufacturer: A. Menarini Manufacturing Logistic and Services S.r.l., Italy
+atc_code: C05BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0117/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0117/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000689
+Name of medicine: Siklos
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hydroxycarbamide
+Active substance: hydroxycarbamide
+Therapeutic area (MeSH): Anemia, Sickle Cell
+ATC code (human): L01XX05
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Siklos is indicated for the prevention of recurrent painful vaso-occlusive crises including acute chest syndrome in paediatric and adult patients suffering from symptomatic sickle-cell syndrome.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/siklos

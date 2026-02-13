@@ -1,0 +1,7 @@
+short_name: Esperoct
+active_substance: Turoctocogum alfa pegolum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: B02BD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1374/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1374/001/smpc

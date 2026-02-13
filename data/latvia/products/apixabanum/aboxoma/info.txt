@@ -1,0 +1,7 @@
+short_name: Aboxoma
+active_substance: Apixabanum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0167/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0167/smpc

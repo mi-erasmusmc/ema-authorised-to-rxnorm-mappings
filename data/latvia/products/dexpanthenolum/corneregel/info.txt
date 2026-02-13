@@ -1,0 +1,7 @@
+short_name: Corneregel
+active_substance: Dexpanthenolum
+marketing_authorisation_holder: Dr.Gerhard Mann chem.-pharm.Fabrik GmbH, Germany
+manufacturer: Dr.Gerhard Mann Chem-pharm.Fabrik GmbH, Germany
+atc_code: S01XA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0560/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0560/smpc

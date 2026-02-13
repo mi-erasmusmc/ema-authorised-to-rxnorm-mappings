@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004182
+Name of medicine: Tookad
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: padeliporfin
+Active substance: padeliporfin di-potassium
+Therapeutic area (MeSH): Prostatic Neoplasms
+ATC code (human): L01XD07
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Tookad is indicated as monotherapy for adult patients with previously untreated, unilateral, low risk, adenocarcinoma of the prostate with a life expectancy ? 10 years and:  Clinical stage T1c or T2a; Gleason Score ? 6, based on high-resolution biopsy strategies; PSA ? 10 ng/mL; 3 positive cancer cores with a maximum cancer core length of 5 mm in any one core or 1-2 positive cancer cores with ? 50 % cancer involvement in any one core or a PSA density ? 0.15 ng/mL/cm³.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tookad

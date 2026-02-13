@@ -1,0 +1,7 @@
+short_name: TOOKAD
+active_substance: Padeliporfinum
+marketing_authorisation_holder: Steba Biotech S.A., Luxembourg
+manufacturer: PRAXIS PHARMACEUTICAL S.A., Spain
+atc_code: L01XD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1228/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1228/001/smpc

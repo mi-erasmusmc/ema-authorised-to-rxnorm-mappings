@@ -1,0 +1,7 @@
+short_name: Metronidazole Fresenius
+active_substance: Metronidazolum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Polska Sp. z o.o., Poland
+atc_code: J01XD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0445/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0445/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000957
+Name of medicine: Intanza
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: influenza vaccine (split virion, inactivated)
+Active substance: influenza virus (inactivated, split) of the following strains:A/California/7/2009 (H1N1)pdm09 - like strain (A/California/7/2009, NYMC X-179A)A/Hong Kong/4801/2014 (H3N2) - like strain (A/Hong Kong/4801/2014, NYMC X-263B)B/Brisbane/60/2008 - like strain (B/Brisbane/60/2008, wild type)
+Therapeutic area (MeSH): Influenza, Human;Immunization
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Prophylaxis of influenza in individuals 60 years of age and over, especially in those who run an increased risk of associated complications.The use of Intanza should be based on official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/intanza

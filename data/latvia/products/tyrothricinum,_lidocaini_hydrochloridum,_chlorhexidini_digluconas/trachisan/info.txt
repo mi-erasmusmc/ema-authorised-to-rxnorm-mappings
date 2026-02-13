@@ -1,0 +1,7 @@
+short_name: Trachisan
+active_substance: Tyrothricinum, Lidocaini hydrochloridum, Chlorhexidini digluconas
+marketing_authorisation_holder: Engelhard Arzneimittel GmbH & Co.KG, Germany
+manufacturer: Engelhard Arzneimittel GmbH & Co.KG, Germany
+atc_code: R02AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0949/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0949/smpc

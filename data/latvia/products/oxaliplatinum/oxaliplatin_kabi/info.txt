@@ -1,0 +1,7 @@
+short_name: Oxaliplatin Kabi
+active_substance: Oxaliplatinum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Deutschland GmbH, Germany
+atc_code: L01XA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0054/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0054/smpc

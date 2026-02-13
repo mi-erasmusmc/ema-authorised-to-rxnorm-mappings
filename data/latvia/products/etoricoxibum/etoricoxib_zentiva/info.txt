@@ -1,0 +1,7 @@
+short_name: Etoricoxib Zentiva
+active_substance: Etoricoxibum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic; Winthrop Arzneimittel GmbH, Germany; Zentiva S.A., Romania
+atc_code: M01AH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0082/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0082/smpc

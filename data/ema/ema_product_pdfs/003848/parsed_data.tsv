@@ -1,0 +1,3 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name	display_name	eu_group_number	active_substance	international_non_proprietary_name	atc_code_human	marketing_authorisation_developer_applicant_holder	medicine_url	medicine_status
+EU/1/19/1406/001	EMEA/H/C/003848	3 mg	Nasal powder				Single-dose container, N1		BAQSIMI	EU/1/19/1406	Glucagon	glucagon	H04AA01	Amphastar France Pharmaceuticals	https://www.ema.europa.eu/en/medicines/human/EPAR/baqsimi	Authorised
+EU/1/19/1406/002	EMEA/H/C/003848	3 mg	Nasal powder				Single-dose container, N2		BAQSIMI	EU/1/19/1406	Glucagon	glucagon	H04AA01	Amphastar France Pharmaceuticals	https://www.ema.europa.eu/en/medicines/human/EPAR/baqsimi	Authorised

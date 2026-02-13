@@ -1,0 +1,7 @@
+short_name: Tardyliq
+active_substance: Ferrum
+marketing_authorisation_holder: Pierre Fabre Medicament, France
+manufacturer: Pierre Fabre Medicament Production, France
+atc_code: B03AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0133/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0133/smpc

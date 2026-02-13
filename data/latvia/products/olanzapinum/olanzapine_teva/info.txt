@@ -1,0 +1,7 @@
+short_name: Olanzapine Teva
+active_substance: Olanzapinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Teva Pharma B.V., Netherlands; Teva Pharma, S.L.U., Spain
+atc_code: N05AH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/427/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/427/001/smpc

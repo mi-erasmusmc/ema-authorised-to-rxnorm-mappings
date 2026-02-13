@@ -1,0 +1,7 @@
+short_name: Bortezomib Accord
+active_substance: Bortezomibum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare Limited, United Kingdom; Wessling Hungary Ltd, Hungary; Wessling Hungary Kft, Hungary; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: L01XG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1019/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1019/001/smpc

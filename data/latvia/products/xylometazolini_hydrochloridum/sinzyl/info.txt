@@ -1,0 +1,7 @@
+short_name: Sinzyl
+active_substance: Xylometazolini hydrochloridum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Ibs-Experts International d.o.o., Croatia
+atc_code: R01AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0048/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0048/smpc

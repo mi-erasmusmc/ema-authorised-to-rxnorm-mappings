@@ -1,0 +1,7 @@
+short_name: Cimzia
+active_substance: Certolizumabum pegolum
+marketing_authorisation_holder: UCB Pharma SA, Belgium
+manufacturer: UCB Pharma S.A., Belgium
+atc_code: L04AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/544/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/544/001/smpc

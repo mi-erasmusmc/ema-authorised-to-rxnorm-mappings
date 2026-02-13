@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000355
+Name of medicine: Levviax
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: telithromycin
+Active substance: telithromycin
+Therapeutic area (MeSH): Community-Acquired Infections;Pharyngitis;Bronchitis, Chronic;Pneumonia;Tonsillitis;Sinusitis
+ATC code (human): J01FA15
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: When prescribing Levviax consideration should be given to official guidance on the appropriate use of antibacterial agents and the local prevalence of resistance (see also sections 4.4 and 5.1).Levviax is indicated for the treatment of the following infections:In patients of 18 years and older:-Community-acquired pneumonia, mild or moderate (see section 4.4).- When treating infections caused by known or suspected beta-lactam and/or macrolide resistant strains (according to history of patients or national and/or regional resistance data) covered by the antibacterial spectrum of telithromycin (see sections 4.4 and 5.1):- Acute exacerbation of chronic bronchitis,- Acute sinusitisIn patients of 12 years and older:- Tonsillitis/pharyngitis caused by Streptococcus pyogenes, as an alternative when beta lactam antibiotics are not appropriate in countries/regions with a significant prevalence of macrolide resistant S. pyogenes, when mediated by ermTR or mefA (see sections 4.4 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/levviax

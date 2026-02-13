@@ -1,0 +1,7 @@
+short_name: Beotebal
+active_substance: Biotinum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zaklady Farmaceutyczne Polpharma S.A., Poland
+atc_code: A11HA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0152/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0152/smpc

@@ -1,0 +1,7 @@
+short_name: Desloratadine ratiopharm
+active_substance: Desloratadinum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; TEVA Czech Industries s.r.o., Czech Republic; Pharmachemie B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland
+atc_code: R06AX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/746/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/746/001/smpc

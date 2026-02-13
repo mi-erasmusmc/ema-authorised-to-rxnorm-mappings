@@ -1,0 +1,7 @@
+short_name: Empesin
+active_substance: Argipressinum
+marketing_authorisation_holder: Orpha-Devel Handels und Vertriebs GmbH, Austria
+manufacturer: AOP Orphan Pharmaceuticals GmbH, Austria
+atc_code: H01BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0060/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0060/smpc

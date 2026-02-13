@@ -1,0 +1,7 @@
+short_name: Rezdiffra
+active_substance: Resmetiromum
+marketing_authorisation_holder: Madrigal Pharmaceuticals EU Limited, Ireland
+manufacturer: Corden Pharma GmbH, Germany
+atc_code: A05BA11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1962/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1962/001/smpc

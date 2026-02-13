@@ -1,0 +1,7 @@
+short_name: Sodium Bicarbonate Braun
+active_substance: Natrii hydrogenocarbonas
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: B05XA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0462/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0462/smpc

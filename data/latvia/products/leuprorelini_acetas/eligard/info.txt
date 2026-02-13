@@ -1,0 +1,7 @@
+short_name: Eligard
+active_substance: Leuprorelini acetas
+marketing_authorisation_holder: Recordati Industria Chimica e Farmaceutica S.p.A., Italy
+manufacturer: Recordati Industria Chimica e Farmaceutica S.p.A., Italy
+atc_code: L02AE02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0198/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0198/smpc

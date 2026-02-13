@@ -1,0 +1,7 @@
+short_name: Eltrombopag STADA
+active_substance: Eltrombopagum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; Centrafarm Services B.V., Netherlands; Stada Arzneimittel AG, Germany; Clonmel Healthcare Limited, Ireland
+atc_code: B02BX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0335/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0335/smpc

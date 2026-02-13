@@ -1,0 +1,7 @@
+short_name: Strimvelis
+active_substance: Autologous CD34+ enriched cell fraction that contains CD34+ cells transduced with retroviral vector that encodes for the human ADA cDNA sequence
+marketing_authorisation_holder: Fondazione Telethon Ets, Italy
+manufacturer: MolMed S.p.A., Italy
+atc_code: L03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1097/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1097/001/smpc

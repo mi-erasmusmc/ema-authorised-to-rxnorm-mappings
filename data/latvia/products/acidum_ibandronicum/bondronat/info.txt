@@ -1,0 +1,7 @@
+short_name: Bondronat
+active_substance: Acidum ibandronicum
+marketing_authorisation_holder: Atnahs Pharma Netherlands B.V., Netherlands
+manufacturer: Atnahs Pharma Denmark ApS, Denmark
+atc_code: M05BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/012/004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/012/004/smpc

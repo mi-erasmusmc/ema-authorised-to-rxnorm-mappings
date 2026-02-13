@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000233
+Name of medicine: Cetrotide
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cetrorelix
+Active substance: cetrorelix (as acetate)
+Therapeutic area (MeSH): Ovulation;Ovulation Induction
+ATC code (human): H01CC02
+Pharmacotherapeutic group (human): Pituitary and hypothalamic hormones and analogues
+Therapeutic indication: Prevention of premature ovulation in patients undergoing a controlled ovarian stimulation, followed by oocyte-pick-up and assisted-reproductive techniques. In clinical trials, Cetrotide was used with human menopausal gonadotropin (HMG), however, limited experience with recombinant follicule-stimulating hormone (FSH) suggested similar efficacy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cetrotide

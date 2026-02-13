@@ -1,0 +1,7 @@
+short_name: Aggrastat
+active_substance: Tirofibanum
+marketing_authorisation_holder: Advanz Pharma Limited, Ireland
+manufacturer: Orion Corporation Orion Pharma Espoo plant, Finland
+atc_code: B01AC17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0206/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0206/smpc

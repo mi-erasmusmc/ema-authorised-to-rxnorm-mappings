@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002770
+Name of medicine: Reagila
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cariprazine
+Active substance: cariprazine hydrochloride
+Therapeutic area (MeSH): Schizophrenia
+ATC code (human): N05AX15
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Reagila is indicated for the treatment of schizophrenia in adult patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/reagila

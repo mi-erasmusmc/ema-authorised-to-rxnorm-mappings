@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002018
+Name of medicine: Jevtana
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cabazitaxel
+Active substance: cabazitaxel
+Therapeutic area (MeSH): Prostatic Neoplasms
+ATC code (human): L01CD
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Jevtana in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone-refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/jevtana

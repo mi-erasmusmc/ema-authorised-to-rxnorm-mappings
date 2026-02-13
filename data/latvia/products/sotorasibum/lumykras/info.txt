@@ -1,0 +1,7 @@
+short_name: Lumykras
+active_substance: Sotorasibum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen NV, Belgium; Amgen Europe B.V., Netherlands
+atc_code: L01XX73
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1603/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1603/001/smpc

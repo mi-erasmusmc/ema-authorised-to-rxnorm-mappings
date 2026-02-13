@@ -1,0 +1,7 @@
+short_name: Ertapenem ASH
+active_substance: Ertapenemum
+marketing_authorisation_holder: ASH s.r.o., Slovakia
+manufacturer: ACS Dobfar S.P.A., Italy
+atc_code: J01DH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0193/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0193/smpc

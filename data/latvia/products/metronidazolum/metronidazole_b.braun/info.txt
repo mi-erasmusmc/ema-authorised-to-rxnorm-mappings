@@ -1,0 +1,7 @@
+short_name: Metronidazole B.Braun
+active_substance: Metronidazolum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany; B.Braun Medical S.A., Spain
+atc_code: J01XD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0248/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0248/smpc

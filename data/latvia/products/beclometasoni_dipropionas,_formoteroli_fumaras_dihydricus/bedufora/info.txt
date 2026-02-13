@@ -1,0 +1,7 @@
+short_name: Bedufora
+active_substance: Beclometasoni dipropionas, Formoteroli fumaras dihydricus
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Genetic S.p.A, Italy
+atc_code: R03AK08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0293/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0293/smpc

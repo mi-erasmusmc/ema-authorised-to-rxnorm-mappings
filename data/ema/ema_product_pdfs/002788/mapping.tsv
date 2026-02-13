@@ -1,0 +1,23 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/15/1000/001	19036799	tolvaptan 15 MG Oral Tablet	849827	EXACT			2025-12-04
+EU/1/15/1000/002	19036799	tolvaptan 15 MG Oral Tablet	849827	EXACT			2025-12-04
+EU/1/15/1000/003	19036832	tolvaptan 30 MG Oral Tablet	849833	EXACT			2025-12-04
+EU/1/15/1000/004	19036832	tolvaptan 30 MG Oral Tablet	849833	EXACT			2025-12-04
+EU/1/15/1000/005	21177837	{7 (tolvaptan 15 MG Oral Tablet) / 7 (tolvaptan 45 MG Oral Tablet) } Pack	OMOP340010	EXACT			2025-12-04
+EU/1/15/1000/006	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	NARROW		{14 (tolvaptan 15 MG Oral Tablet) / 14 (tolvaptan 45 MG Oral Tablet) } Pack	2025-12-04
+EU/1/15/1000/007	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	EXACT			2025-12-04
+EU/1/15/1000/008	21178012	{7 (tolvaptan 30 MG Oral Tablet) / 7 (tolvaptan 60 MG Oral Tablet) } Pack	OMOP339661	EXACT			2025-12-04
+EU/1/15/1000/009	1510749	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 60 MG Oral Tablet) } Pack	2044966	NARROW		{14 (tolvaptan 30 MG Oral Tablet) / 14 (tolvaptan 60 MG Oral Tablet) } Pack	2025-12-04
+EU/1/15/1000/010	1510749	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 60 MG Oral Tablet) } Pack	2044966	EXACT			2025-12-04
+EU/1/15/1000/011	21178063	{7 (tolvaptan 30 MG Oral Tablet) / 7 (tolvaptan 90 MG Oral Tablet) } Pack	OMOP340097	EXACT			2025-12-04
+EU/1/15/1000/012	1510753	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 90 MG Oral Tablet) } Pack	2044970	NARROW		{14 (tolvaptan 30 MG Oral Tablet) / 14 (tolvaptan 90 MG Oral Tablet) } Pack	2025-12-04
+EU/1/15/1000/013	1510753	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 90 MG Oral Tablet) } Pack	2044970	EXACT			2025-12-04
+EU/1/15/1000/014	21177837	{7 (tolvaptan 15 MG Oral Tablet) / 7 (tolvaptan 45 MG Oral Tablet) } Pack	OMOP340010	EXACT			2025-12-04
+EU/1/15/1000/015	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	NARROW		{14 (tolvaptan 15 MG Oral Tablet) / 14 (tolvaptan 45 MG Oral Tablet) } Pack	2025-12-04
+EU/1/15/1000/016	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	EXACT			2025-12-04
+EU/1/15/1000/017	21178012	{7 (tolvaptan 30 MG Oral Tablet) / 7 (tolvaptan 60 MG Oral Tablet) } Pack	OMOP339661	EXACT			2025-12-04
+EU/1/15/1000/018	1510749	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 60 MG Oral Tablet) } Pack	2044966	NARROW		{14 (tolvaptan 30 MG Oral Tablet) / 14 (tolvaptan 60 MG Oral Tablet) } Pack	2025-12-04
+EU/1/15/1000/019	1510749	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 60 MG Oral Tablet) } Pack	2044966	EXACT			2025-12-04
+EU/1/15/1000/020	21178063	{7 (tolvaptan 30 MG Oral Tablet) / 7 (tolvaptan 90 MG Oral Tablet) } Pack	OMOP340097	EXACT			2025-12-04
+EU/1/15/1000/021	1510753	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 90 MG Oral Tablet) } Pack	2044970	NARROW		{14 (tolvaptan 30 MG Oral Tablet) / 14 (tolvaptan 90 MG Oral Tablet) } Pack	2025-12-04
+EU/1/15/1000/022	1510753	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 90 MG Oral Tablet) } Pack	2044970	EXACT			2025-12-04

@@ -1,0 +1,7 @@
+short_name: Lucentis
+active_substance: Ranibizumabum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany
+atc_code: S01LA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/374/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/374/002/smpc

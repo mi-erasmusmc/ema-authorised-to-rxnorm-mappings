@@ -1,0 +1,7 @@
+short_name: ellaOne
+active_substance: Ulipristalum
+marketing_authorisation_holder: Laboratoire HRA Pharma, France
+manufacturer: Laboratorios Leon Farma SA, Spain; Cenexi, France; Delpharm Lille SAS, France
+atc_code: G03AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/522/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/522/001/smpc

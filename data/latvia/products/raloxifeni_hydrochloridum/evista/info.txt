@@ -1,0 +1,7 @@
+short_name: Evista
+active_substance: Raloxifeni hydrochloridum
+marketing_authorisation_holder: Substipharm, France
+manufacturer: Inpharmasci, France
+atc_code: G03XC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/073/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/073/001/smpc

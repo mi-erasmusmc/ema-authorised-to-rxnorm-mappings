@@ -1,0 +1,7 @@
+short_name: Marcaine Spinal Heavy
+active_substance: Bupivacaini hydrochloridum
+marketing_authorisation_holder: Aspen Pharma Trading Ltd., Ireland
+manufacturer: Cenexi, France
+atc_code: N01BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0597/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0597/smpc

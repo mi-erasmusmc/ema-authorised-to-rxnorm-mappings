@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003852
+Name of medicine: Gardasil 9
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human papillomavirus 9-valent vaccine (recombinant, adsorbed)
+Active substance: human papillomavirus vaccine [types 6, 11, 16, 18, 31, 33, 45, 52, 58] (recombinant, adsorbed)
+Therapeutic area (MeSH): Condylomata Acuminata;Papillomavirus Infections;Immunization;Uterine Cervical Dysplasia
+ATC code (human): J07BM03
+Pharmacotherapeutic group (human): Papillomavirus vaccines
+Therapeutic indication: Gardasil 9 is indicated for active immunisation of individuals from the age of 9 years against the following HPV diseases:  Premalignant lesions and cancers affecting the cervix, vulva, vagina and anus caused by vaccine HPV types Genital warts (Condyloma acuminata) caused by specific HPV types.  See sections 4.4 and 5.1 for important information on the data that support these indications. The use of Gardasil 9 should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gardasil-9

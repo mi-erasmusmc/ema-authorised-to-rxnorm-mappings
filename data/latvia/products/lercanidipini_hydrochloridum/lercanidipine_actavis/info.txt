@@ -1,0 +1,7 @@
+short_name: Lercanidipine Actavis
+active_substance: Lercanidipini hydrochloridum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Ltd, Malta
+atc_code: C08CA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0290/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0290/smpc

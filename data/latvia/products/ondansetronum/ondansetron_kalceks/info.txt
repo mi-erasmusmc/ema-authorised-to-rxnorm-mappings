@@ -1,0 +1,7 @@
+short_name: Ondansetron Kalceks
+active_substance: Ondansetronum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: A04AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0140/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0140/smpc

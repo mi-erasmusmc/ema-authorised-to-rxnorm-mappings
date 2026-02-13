@@ -1,0 +1,7 @@
+short_name: Epivir
+active_substance: Lamivudinum
+marketing_authorisation_holder: ViiV Healthcare BV, Netherlands
+manufacturer: Delpharm Poznań Spółka Akcyjna, Poland
+atc_code: J05AF05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/015/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/015/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006080
+Name of medicine: Jeraygo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: aprocitentan
+Active substance: aprocitentan
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C02KN01
+Pharmacotherapeutic group (human): Antihypertensives
+Therapeutic indication: Treatment of resistant hypertension
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/jeraygo

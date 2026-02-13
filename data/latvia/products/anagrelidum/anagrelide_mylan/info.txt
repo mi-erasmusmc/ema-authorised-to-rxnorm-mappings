@@ -1,0 +1,7 @@
+short_name: Anagrelide Mylan
+active_substance: Anagrelidum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: L01XX35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1256/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1256/001/smpc

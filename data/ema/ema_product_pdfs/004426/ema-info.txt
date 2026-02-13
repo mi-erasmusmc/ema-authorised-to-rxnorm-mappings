@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004426
+Name of medicine: Cablivi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: caplacizumab
+Active substance: Caplacizumab
+Therapeutic area (MeSH): Purpura, Thrombotic Thrombocytopenic
+ATC code (human): B01A
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Cablivi is indicated for the treatment of adults experiencing an episode of acquired thrombotic thrombocytopenic purpura (aTTP), in conjunction with plasma exchange and immunosuppression.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cablivi

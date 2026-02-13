@@ -1,0 +1,7 @@
+short_name: Spherox
+active_substance: Spheroids of human autologous matrix-associated chondrocytes
+marketing_authorisation_holder: Rejuvenate GmbH, Germany
+manufacturer: CO.DON AG, Germany
+atc_code: M09AX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1181/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1181/001/smpc

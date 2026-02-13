@@ -1,0 +1,7 @@
+short_name: Columvi
+active_substance: Glofitamabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01FX28
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1742/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1742/001/smpc

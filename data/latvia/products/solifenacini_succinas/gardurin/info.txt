@@ -1,0 +1,7 @@
+short_name: Gardurin
+active_substance: Solifenacini succinas
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zaklady Farmaceutyczne Polpharma S.A., Poland; Zakłady Farmaceutyczne Polpharma S.A., Poland
+atc_code: G04BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0044/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0044/smpc

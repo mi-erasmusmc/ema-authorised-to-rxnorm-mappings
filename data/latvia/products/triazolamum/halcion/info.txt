@@ -1,0 +1,7 @@
+short_name: Halcion
+active_substance: Triazolamum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Italia s.r.l., Italy
+atc_code: N05CD05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0921/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0921/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005769
+Name of medicine: Herwenda
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: trastuzumab
+Active substance: trastuzumab
+Therapeutic area (MeSH): Breast Neoplasms;Stomach Neoplasms
+ATC code (human): L01XC03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of metastatic and early breast cancer and metastatic gastric cancer (MGC).
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/herwenda

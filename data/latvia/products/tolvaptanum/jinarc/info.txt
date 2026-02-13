@@ -1,0 +1,7 @@
+short_name: Jinarc
+active_substance: Tolvaptanum
+marketing_authorisation_holder: Otsuka Pharmaceutical Netherlands B.V., Netherlands
+manufacturer: Almac Pharma Services Limited, United Kingdom; Millmount Healthcare Ltd., Ireland; AndersonBrecon (UK) Limited, United Kingdom; Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: C03XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1000/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1000/001/smpc

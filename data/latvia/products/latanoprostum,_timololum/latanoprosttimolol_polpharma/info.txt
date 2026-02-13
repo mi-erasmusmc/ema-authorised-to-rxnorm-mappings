@@ -1,0 +1,7 @@
+short_name: Latanoprost/Timolol Polpharma
+active_substance: Latanoprostum, Timololum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Lomapharm GmbH, Germany
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0151/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0151/smpc

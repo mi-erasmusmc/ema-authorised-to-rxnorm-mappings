@@ -1,0 +1,7 @@
+short_name: Ivabradine Viatris
+active_substance: Ivabradinum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: HBM Pharma s.r.o., Slovakia; Delorbis Pharmaceuticals Ltd, Cyprus
+atc_code: C01EB17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0252/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0252/smpc

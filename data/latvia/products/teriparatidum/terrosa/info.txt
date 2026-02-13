@@ -1,0 +1,7 @@
+short_name: Terrosa
+active_substance: Teriparatidum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: H05AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1159/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1159/001/smpc

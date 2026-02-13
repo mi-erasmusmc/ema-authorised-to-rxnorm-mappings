@@ -1,0 +1,7 @@
+short_name: Cinqaero
+active_substance: Reslizumabum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; UAB Teva Baltics, Lithuania
+atc_code: R03DX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1125/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1125/001/smpc

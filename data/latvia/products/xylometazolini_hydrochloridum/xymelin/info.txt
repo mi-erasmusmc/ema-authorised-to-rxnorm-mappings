@@ -1,0 +1,7 @@
+short_name: Xymelin
+active_substance: Xylometazolini hydrochloridum
+marketing_authorisation_holder: Orifarm Healthcare A/S, Denmark
+manufacturer: Takeda GmbH, Germany; Curida AS, Norway
+atc_code: R01AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/93-0470/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/93-0470/smpc

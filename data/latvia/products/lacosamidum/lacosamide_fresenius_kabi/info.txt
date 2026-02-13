@@ -1,0 +1,7 @@
+short_name: Lacosamide Fresenius Kabi
+active_substance: Lacosamidum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Labesfal-Laboratorios Almiro, S.A., Portugal; Fresenius Kabi Deutschland GmbH, Germany
+atc_code: N03AX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0101/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0101/smpc

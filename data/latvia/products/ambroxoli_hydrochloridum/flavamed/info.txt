@@ -1,0 +1,7 @@
+short_name: Flavamed
+active_substance: Ambroxoli hydrochloridum
+marketing_authorisation_holder: Berlin-Chemie AG, Germany
+manufacturer: Berlin-Chemie AG, Germany
+atc_code: R05CB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0280/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0280/smpc

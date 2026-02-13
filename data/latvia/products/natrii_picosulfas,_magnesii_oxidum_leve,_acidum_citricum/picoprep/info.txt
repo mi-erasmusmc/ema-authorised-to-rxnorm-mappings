@@ -1,0 +1,7 @@
+short_name: Picoprep
+active_substance: Natrii picosulfas, Magnesii oxidum leve, Acidum citricum
+marketing_authorisation_holder: Ferring GmbH, Germany
+manufacturer: Ferring GmbH, Germany
+atc_code: A06AB58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0298/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0298/smpc

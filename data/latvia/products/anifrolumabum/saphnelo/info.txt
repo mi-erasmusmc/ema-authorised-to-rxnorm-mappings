@@ -1,0 +1,7 @@
+short_name: Saphnelo
+active_substance: Anifrolumabum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca AB, Sweden
+atc_code: L04AG11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1623/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1623/001/smpc

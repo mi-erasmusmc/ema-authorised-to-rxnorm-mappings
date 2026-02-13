@@ -1,0 +1,7 @@
+short_name: Ninlaro
+active_substance: Ixazomibum
+marketing_authorisation_holder: Takeda Pharma A/S, Denmark
+manufacturer: Takeda GmbH, Germany; Takeda Pharma A/S, Denmark; Takeda Ireland Limited, Ireland
+atc_code: L01XG03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1094/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1094/001/smpc

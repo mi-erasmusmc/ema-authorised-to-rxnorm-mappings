@@ -1,0 +1,7 @@
+short_name: Leucovorin-Teva
+active_substance: Calcii folinas
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Pharmachemie B.V., Netherlands
+atc_code: V03AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0863/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0863/smpc

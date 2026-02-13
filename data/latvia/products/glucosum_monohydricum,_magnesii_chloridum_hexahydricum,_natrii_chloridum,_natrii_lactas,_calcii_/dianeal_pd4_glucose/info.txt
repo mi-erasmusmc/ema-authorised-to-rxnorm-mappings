@@ -1,0 +1,7 @@
+short_name: Dianeal PD4 Glucose
+active_substance: Glucosum monohydricum, Magnesii chloridum hexahydricum, Natrii chloridum, Natrii lactas, Calcii chloridum dihydricum
+marketing_authorisation_holder: Vantive Belgium S.R.L., Belgium
+manufacturer: Vantive Manufacturing Limited, Ireland
+atc_code: B05DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0057/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0057/smpc

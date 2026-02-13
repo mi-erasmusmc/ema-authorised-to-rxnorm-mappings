@@ -1,0 +1,7 @@
+short_name: Vyxeos liposomu
+active_substance: Daunorubicini hydrochloridum, Cytarabinum
+marketing_authorisation_holder: Jazz Pharmaceuticals Ireland Ltd, Ireland
+manufacturer: Jazz Pharmaceuticals Ireland Ltd, Ireland
+atc_code: L01XY01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1308/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1308/001/smpc

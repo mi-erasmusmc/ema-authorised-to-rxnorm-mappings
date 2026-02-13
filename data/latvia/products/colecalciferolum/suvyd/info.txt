@@ -1,0 +1,7 @@
+short_name: Suvyd
+active_substance: Colecalciferolum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Flavine Pharma France, France
+atc_code: A11CC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0237/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0237/smpc

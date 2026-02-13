@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002215
+Name of medicine: Rienso
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: ferumoxytol
+Active substance: Ferumoxytol
+Therapeutic area (MeSH): Anemia;Kidney Failure, Chronic
+ATC code (human): B03
+Pharmacotherapeutic group (human): Other antianemic preparations
+Therapeutic indication: Rienso is indicated for the intravenous treatment of iron-deficiency anaemia in adult patients with chronic kidney disease (CKD). The diagnosis of iron deficiency must be based on appropriate laboratory tests (see section 4.2).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rienso

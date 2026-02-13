@@ -1,0 +1,7 @@
+short_name: Vaniqa
+active_substance: Eflornithinum
+marketing_authorisation_holder: Almirall, S.A., Spain
+manufacturer: Almirall Hermal GmbH, Germany
+atc_code: D11AX16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/173/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/173/001/smpc

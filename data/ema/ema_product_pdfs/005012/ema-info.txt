@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005012
+Name of medicine: Tavlesse
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fostamatinib
+Active substance: Fostamatinib disodium
+Therapeutic area (MeSH): Thrombocytopenia
+ATC code (human): B02BX
+Pharmacotherapeutic group (human): Other systemic hemostatics
+Therapeutic indication: Tavlesse is indicated for the treatment of chronic immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tavlesse

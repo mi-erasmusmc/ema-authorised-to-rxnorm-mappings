@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005311
+Name of medicine: Riltrava Aerosphere
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: formoterol fumarate dihydrate;glycopyrronium;budesonide
+Active substance: Budesonide;formoterol fumarate dihydrate;glycopyrronium bromide
+Therapeutic area (MeSH): Pulmonary Disease, Chronic Obstructive
+ATC code (human): R03AL11
+Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
+Therapeutic indication: Riltrava Aerosphere is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2 agonist or combination of a long-acting beta2 agonist and a long-acting muscarinic antagonist (for effects on symptoms control and prevention of exacerbations see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/riltrava-aerosphere

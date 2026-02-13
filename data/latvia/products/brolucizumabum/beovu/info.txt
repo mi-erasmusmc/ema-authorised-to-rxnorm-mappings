@@ -1,0 +1,7 @@
+short_name: Beovu
+active_substance: Brolucizumabum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: S.A. Alcon-Couvreur N.V., Belgium
+atc_code: S01LA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1417/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1417/001/smpc

@@ -1,0 +1,7 @@
+short_name: Septils
+active_substance: Plantaginis lanceolatae folii extractum siccum
+marketing_authorisation_holder: Reckitt Benckiser (Poland) S.A., Poland
+manufacturer: Phytopharm Kleka S.A., Poland
+atc_code: R05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0117/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0117/smpc

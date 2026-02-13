@@ -1,0 +1,7 @@
+short_name: Rezzayo
+active_substance: Rezafunginum
+marketing_authorisation_holder: Mundipharma GmbH, Germany
+manufacturer: Mundipharma DC B.V., Netherlands; Fareva Mirabel, France
+atc_code: J02AX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1775/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1775/001/smpc

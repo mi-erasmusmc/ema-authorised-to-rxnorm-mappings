@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005938
+Name of medicine: Alhemo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: concizumab
+Active substance: concizumab
+Therapeutic area (MeSH): Hemophilia A;Hemophilia B
+ATC code (human): B02BX10
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Alhemo is indicated for routine prophylaxis of bleeding in patients 12 years of age or more with: •&nbsp;&nbsp;&nbsp;&nbsp;haemophilia A (congenital factor VIII deficiency) with FVIII inhibitors.•&nbsp;&nbsp;&nbsp;&nbsp;severe haemophilia A (congenital factor VIII deficiency, FVIII &lt; 1%) without FVIII inhibitors.•&nbsp;&nbsp;&nbsp;&nbsp;haemophilia B (congenital factor IX deficiency) with FIX inhibitors.•&nbsp;&nbsp;&nbsp;&nbsp;moderate/severe haemophilia B (congenital factor IX deficiency, FIX ≤ 2%) without FIX inhibitors.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alhemo

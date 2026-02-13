@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000122
+Name of medicine: Refludan
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: lepirudin
+Active substance: lepirudin
+Therapeutic area (MeSH): Thromboembolism;Thrombocytopenia
+ATC code (human): B01AE02
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Anticoagulation in adult patients with heparin-induced thrombocytopenia type II and thromboembolic disease mandating parenteral antithrombotic therapy. The diagnosis should be confirmed by the heparin-induced platelet activation assay or an equivalent test.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/refludan

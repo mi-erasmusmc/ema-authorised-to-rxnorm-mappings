@@ -1,0 +1,7 @@
+short_name: Enzalutamide Sandoz
+active_substance: Enzalutamidum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Lek Pharmaceuticals d.d., Slovenia
+atc_code: L02BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0138/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0138/smpc

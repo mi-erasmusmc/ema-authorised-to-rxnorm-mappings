@@ -1,0 +1,7 @@
+short_name: Movalis
+active_substance: Meloxicamum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Rottendorf Pharma GmbH, Germany
+atc_code: M01AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0420/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0420/smpc

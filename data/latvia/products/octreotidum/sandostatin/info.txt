@@ -1,0 +1,7 @@
+short_name: Sandostatin
+active_substance: Octreotidum
+marketing_authorisation_holder: Novartis Baltics, SIA, Latvia
+manufacturer: Novartis Farmaceutica S.A., Spain
+atc_code: H01CB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0058/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0058/smpc

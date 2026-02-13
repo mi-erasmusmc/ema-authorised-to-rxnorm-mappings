@@ -1,0 +1,7 @@
+short_name: Allopurinol Accord
+active_substance: Allopurinolum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: M04AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0081/smpc

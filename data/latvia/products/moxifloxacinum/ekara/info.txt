@@ -1,0 +1,7 @@
+short_name: Ekara
+active_substance: Moxifloxacinum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Warsaw Pharmaceutical Works Polfa S.A., Poland
+atc_code: S01AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0195/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0195/smpc

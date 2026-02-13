@@ -1,0 +1,7 @@
+short_name: Firdapse
+active_substance: Amifampridinum
+marketing_authorisation_holder: SERB S.A., Belgium
+manufacturer: BioMarin International Limited, Ireland; Excella GmbH & Co. KG, Germany
+atc_code: N07XX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/601/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/601/001/smpc

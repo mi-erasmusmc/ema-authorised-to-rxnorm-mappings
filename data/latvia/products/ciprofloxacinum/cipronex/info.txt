@@ -1,0 +1,7 @@
+short_name: Cipronex
+active_substance: Ciprofloxacinum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Pharmaceutical Works "Polpharma" S.A., Poland
+atc_code: J01MA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0155/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0155/smpc

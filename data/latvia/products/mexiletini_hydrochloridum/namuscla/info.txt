@@ -1,0 +1,7 @@
+short_name: Namuscla
+active_substance: Mexiletini hydrochloridum
+marketing_authorisation_holder: Lupin Europe GmbH, Germany
+manufacturer: Hormosan Pharma GmbH, Germany; Lupin Healthcare (UK) Limited, United Kingdom
+atc_code: C01BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1325/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1325/001/smpc

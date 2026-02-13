@@ -1,0 +1,7 @@
+short_name: Lamivudine Teva Pharma B.V.
+active_substance: Lamivudinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; Pharmachemie B.V., Netherlands
+atc_code: J05AF05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/596/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/596/001/smpc

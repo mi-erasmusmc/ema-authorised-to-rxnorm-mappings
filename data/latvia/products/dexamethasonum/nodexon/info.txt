@@ -1,0 +1,7 @@
+short_name: Nodexon
+active_substance: Dexamethasonum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Adamed Pharma S.A., Poland
+atc_code: H02AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0049/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0049/smpc

@@ -1,0 +1,7 @@
+short_name: Hympavzi
+active_substance: Marstacimabum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium N.V., Belgium
+atc_code: B02BX11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1874/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1874/001/smpc

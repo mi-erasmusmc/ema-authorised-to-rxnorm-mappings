@@ -1,0 +1,7 @@
+short_name: Airapy
+active_substance: Aer medicinalis
+marketing_authorisation_holder: Linde Gas, Sweden
+manufacturer: Linde Gas AB, Sweden; Linde Gas ehf, Iceland; Linde GmbH, Germany
+atc_code: V03AN05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0263/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0263/smpc

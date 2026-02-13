@@ -1,0 +1,7 @@
+short_name: Siranalen
+active_substance: Pregabalinum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Central Factory, Cyprus
+atc_code: N02BF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0119/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0119/smpc

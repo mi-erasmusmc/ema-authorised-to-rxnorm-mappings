@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005830
+Name of medicine: Roctavian
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: valoctocogene roxaparvovec
+Active substance: valoctocogene roxaparvovec
+Therapeutic area (MeSH): 
+ATC code (human): B02BD15
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Treatment of severe haemophilia A (congenital factor VIII deficiency) in adult patients without a history of factor VIII inhibitors and without detectable antibodies to adeno-associated virus serotype 5 (AAV5).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/roctavian

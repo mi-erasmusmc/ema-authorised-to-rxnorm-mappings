@@ -1,0 +1,7 @@
+short_name: Plaquenil
+active_substance: Hydroxychloroquini sulfas
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: SANOFI-AVENTIS Zrt., Hungary; Sanofi-aventis, S.A., Spain
+atc_code: P01BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0231/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0231/smpc

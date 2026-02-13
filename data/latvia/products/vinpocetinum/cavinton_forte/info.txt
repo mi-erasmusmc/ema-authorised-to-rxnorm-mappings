@@ -1,0 +1,7 @@
+short_name: Cavinton Forte
+active_substance: Vinpocetinum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: N06BX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0442/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0442/smpc

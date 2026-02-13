@@ -1,0 +1,7 @@
+short_name: Pifeltro
+active_substance: Doravirinum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands
+atc_code: J05AG06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1332/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1332/001/smpc

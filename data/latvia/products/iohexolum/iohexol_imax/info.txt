@@ -1,0 +1,7 @@
+short_name: Iohexol Imax
+active_substance: Iohexolum
+marketing_authorisation_holder: IMAX Diagnostic Imaging Limited, Ireland
+manufacturer: Sanochemia Pharmazeutika GmbH, Austria; IMAX Diagnostic Imaging Limited, Ireland
+atc_code: V08AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0176/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0176/smpc

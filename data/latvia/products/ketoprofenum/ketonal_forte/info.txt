@@ -1,0 +1,7 @@
+short_name: Ketonal forte
+active_substance: Ketoprofenum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Lek Pharmaceuticals d.d., Slovenia
+atc_code: M01AE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0514/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0514/smpc

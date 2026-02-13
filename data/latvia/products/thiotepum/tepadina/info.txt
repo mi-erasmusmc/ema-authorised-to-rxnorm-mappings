@@ -1,0 +1,7 @@
+short_name: Tepadina
+active_substance: Thiotepum
+marketing_authorisation_holder: Adienne S.r.l S.U., Italy
+manufacturer: Adienne S.r.l S.U., Italy; Riemser Pharma GmbH, Germany
+atc_code: L01AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/622/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/622/001/smpc

@@ -1,0 +1,7 @@
+short_name: Mynzepli
+active_substance: Afliberceptum
+marketing_authorisation_holder: Advanz Pharma Limited, Ireland
+manufacturer: Alvotech hf., Iceland
+atc_code: S01LA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1964/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1964/001/smpc

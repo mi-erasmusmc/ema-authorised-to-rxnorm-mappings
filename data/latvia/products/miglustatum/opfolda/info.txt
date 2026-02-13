@@ -1,0 +1,7 @@
+short_name: Opfolda
+active_substance: Miglustatum
+marketing_authorisation_holder: Amicus Therapeutics Europe Limited, Ireland
+manufacturer: Manufacturing Packaging Farmaca (MPF) B.V., Netherlands
+atc_code: A16AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1737/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1737/001/smpc

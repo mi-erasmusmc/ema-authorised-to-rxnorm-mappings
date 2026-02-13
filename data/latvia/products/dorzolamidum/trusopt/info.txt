@@ -1,0 +1,7 @@
+short_name: Trusopt
+active_substance: Dorzolamidum
+marketing_authorisation_holder: Santen Oy, Finland
+manufacturer: Santen Oy, Finland
+atc_code: S01EC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0168/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0168/smpc

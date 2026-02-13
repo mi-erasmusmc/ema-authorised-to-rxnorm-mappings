@@ -1,0 +1,7 @@
+short_name: Synflorix
+active_substance: Vaccinum pneumococcale polysaccharidicum coniugatum adsorbatum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07AL52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/508/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/508/001/smpc

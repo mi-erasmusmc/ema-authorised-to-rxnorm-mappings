@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005863
+Name of medicine: Jaypirca
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pirtobrutinib
+Active substance: pirtobrutinib
+Therapeutic area (MeSH): Lymphoma, Mantle-Cell
+ATC code (human): L01
+Pharmacotherapeutic group (human): Antineoplastic agents;Protein kinase inhibitors
+Therapeutic indication: Jaypirca as monotherapy is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL) who have been previously treated with a Bruton’s tyrosine kinase (BTK) inhibitor. Jaypirca as monotherapy is indicated for the treatment of adult patients with relapsed or refractory chronic lymphocytic leukaemia (CLL) who have been previously treated with a BTK inhibitor.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/jaypirca

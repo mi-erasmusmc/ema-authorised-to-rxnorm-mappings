@@ -1,0 +1,7 @@
+short_name: Gammanorm
+active_substance: Immunoglobulinum humanum normale
+marketing_authorisation_holder: Octapharma (IP) SPRL, Belgium
+manufacturer: Octapharma AB, Sweden
+atc_code: J06BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0657/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0657/smpc

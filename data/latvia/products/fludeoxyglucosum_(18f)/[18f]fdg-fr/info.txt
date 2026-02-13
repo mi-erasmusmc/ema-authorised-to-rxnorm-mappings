@@ -1,0 +1,7 @@
+short_name: [18F]FDG-FR
+active_substance: Fludeoxyglucosum (18F)
+marketing_authorisation_holder: Alliance Medical RP Berlin GmbH, Germany
+manufacturer: Alliance Medical RP Berlin GmbH, Germany; Alliance Medical RP Sp. z o.o., Poland; Alliance Medical RP GmbH, Germany
+atc_code: V09IX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0392/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0392/smpc

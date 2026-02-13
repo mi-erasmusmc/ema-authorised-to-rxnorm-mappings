@@ -1,0 +1,7 @@
+short_name: Jardiance
+active_substance: Empagliflozinum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Rottendorf Pharma GmbH, Germany; Boehringer Ingelheim France, France; Boehringer Ingelheim Hellas Single Member S.A., Greece
+atc_code: A10BK03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/930/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/930/001/smpc

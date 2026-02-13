@@ -1,0 +1,7 @@
+short_name: Ontipria
+active_substance: Tiotropium
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Helm Pharmaceuticals GmbH, Germany
+atc_code: R03BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0019/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0019/smpc

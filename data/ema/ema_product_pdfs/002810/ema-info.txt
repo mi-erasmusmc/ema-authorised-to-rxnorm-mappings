@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002810
+Name of medicine: Moventig
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: naloxegol
+Active substance: naloxegol oxalate
+Therapeutic area (MeSH): Constipation;Opioid-Related Disorders
+ATC code (human): A06AH03
+Pharmacotherapeutic group (human): Peripheral opioid receptor antagonists;Drugs for constipation
+Therapeutic indication: Treatment of opioid-induced constipation (OIC) in adult patients who have had an inadequate response to laxative(s).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/moventig

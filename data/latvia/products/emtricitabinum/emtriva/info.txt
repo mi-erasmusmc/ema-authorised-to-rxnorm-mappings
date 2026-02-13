@@ -1,0 +1,7 @@
+short_name: Emtriva
+active_substance: Emtricitabinum
+marketing_authorisation_holder: Gilead Sciences Ireland UC, Ireland
+manufacturer: Gilead Sciences Limited, Ireland
+atc_code: J05AF09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/261/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/261/001/smpc

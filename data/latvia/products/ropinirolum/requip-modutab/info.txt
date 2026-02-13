@@ -1,0 +1,7 @@
+short_name: Requip-Modutab
+active_substance: Ropinirolum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome S.A., Spain; Delpharm Poznan S.A., Poland
+atc_code: N04BC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0261/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0261/smpc

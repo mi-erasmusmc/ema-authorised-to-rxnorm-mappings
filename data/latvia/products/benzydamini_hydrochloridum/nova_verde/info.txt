@@ -1,0 +1,7 @@
+short_name: Nova Verde
+active_substance: Benzydamini hydrochloridum
+marketing_authorisation_holder: Livorno Pharma, SIA, Latvia
+manufacturer: Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A., Italy
+atc_code: A01AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0131/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0131/smpc

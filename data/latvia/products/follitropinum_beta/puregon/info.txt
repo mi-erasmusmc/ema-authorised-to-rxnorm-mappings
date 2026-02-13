@@ -1,0 +1,7 @@
+short_name: Puregon
+active_substance: Follitropinum beta
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: N.V. Organon, Netherlands
+atc_code: G03GA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/008/038/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/008/038/smpc

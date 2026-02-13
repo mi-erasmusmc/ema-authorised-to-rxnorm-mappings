@@ -1,0 +1,7 @@
+short_name: Balversa
+active_substance: Erdafitinibum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Cilag S.p.A., Italy
+atc_code: L01EN01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1841/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1841/001/smpc

@@ -1,0 +1,7 @@
+short_name: NexoBrid
+active_substance: Fermentum proteolyticis concentratus divitis in bromelaine
+marketing_authorisation_holder: MediWound Germany GmbH, Germany
+manufacturer: Hälsa Pharma GmbH, Germany
+atc_code: D03BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/803/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/803/001/smpc

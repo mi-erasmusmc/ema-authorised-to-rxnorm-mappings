@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002577
+Name of medicine: Vitekta
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: elvitegravir
+Active substance: elvitegravir
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AX11
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Vitekta co-administered with a ritonavir-boosted protease inhibitor and with other antiretroviral agents, is indicated for the treatment of human-immunodeficiency-virus-1 (HIV-1) infection in adults who are infected with HIV-1 without known mutations associated with resistance to elvitegravir.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vitekta

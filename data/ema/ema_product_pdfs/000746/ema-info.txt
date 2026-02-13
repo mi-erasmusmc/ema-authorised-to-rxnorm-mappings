@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000746
+Name of medicine: Invega
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: paliperidone
+Active substance: paliperidone
+Therapeutic area (MeSH): Schizophrenia;Psychotic Disorders
+ATC code (human): N05AX13
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Invega is indicated for the treatment of schizophrenia in adults and in adolescents 15 years and older. Invega is indicated for the treatment of schizoaffective disorder in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/invega

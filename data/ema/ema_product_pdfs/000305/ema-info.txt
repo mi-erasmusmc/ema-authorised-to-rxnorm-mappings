@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000305
+Name of medicine: Visudyne
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: verteporfin
+Active substance: verteporfin
+Therapeutic area (MeSH): Myopia, Degenerative;Macular Degeneration
+ATC code (human): S01LA01
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Visudyne is indicated for the treatment of:  adults with exudative (wet) age-related macular degeneration (AMD) with predominantly classic subfoveal choroidal neovascularisation (CNV) or; adults with subfoveal choroidal neovascularisation secondary to pathological myopia.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/visudyne

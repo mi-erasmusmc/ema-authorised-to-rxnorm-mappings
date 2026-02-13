@@ -1,0 +1,7 @@
+short_name: Ospamox
+active_substance: Amoxicillinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Salutas Pharma GmbH, Germany; Sandoz GmbH, Austria
+atc_code: J01CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0081/smpc

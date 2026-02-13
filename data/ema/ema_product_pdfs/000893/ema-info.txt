@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000893
+Name of medicine: Glubrava
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: pioglitazone;metformin
+Active substance: metformin hydrochloride;pioglitazone hydrochloride
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BD05
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Glubrava is indicated as second line treatment of type-2-diabetes-mellitus adult patients, particularly overweight patients, who are unable to achieve sufficient glycaemic control at their maximally tolerated dose of oral metformin alone. After initiation of therapy with pioglitazone, patients should be reviewed after three to six months to assess adequacy of response to treatment (e.g. reduction in HbA1c). In patients who fail to show an adequate response, pioglitazone should be discontinued. In light of potential risks with prolonged therapy, prescribers should confirm at subsequent routine reviews that the benefit of pioglitazone is maintained.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/glubrava

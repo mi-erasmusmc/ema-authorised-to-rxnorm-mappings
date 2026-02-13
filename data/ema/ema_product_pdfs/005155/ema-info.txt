@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005155
+Name of medicine: Qdenga
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dengue tetravalent vaccine (live, attenuated)
+Active substance: Dengue virus, serotype 2, expressing Dengue virus, serotype 1, surface proteins, live, attenuated;Dengue virus, serotype 2, expressing Dengue virus, serotype 3, surface proteins, live, attenuated;Dengue virus, serotype 2, expressing Dengue virus, serotype 4, surface proteins, live, attenuated;Dengue virus, serotype 2, live, attenuated
+Therapeutic area (MeSH): Dengue
+ATC code (human): J07BX04
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Qdenga is indicated for the prevention of dengue disease in individuals from 4 years of age. The use of Qdenga should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/qdenga

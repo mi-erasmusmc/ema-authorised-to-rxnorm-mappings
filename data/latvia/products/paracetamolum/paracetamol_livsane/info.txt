@@ -1,0 +1,7 @@
+short_name: Paracetamol Livsane
+active_substance: Paracetamolum
+marketing_authorisation_holder: PXG Pharma GmbH, Germany
+manufacturer: Pharmazet Group s.r.o., Czech Republic
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0140/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0140/smpc

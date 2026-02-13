@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004350
+Name of medicine: Vosevi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sofosbuvir;velpatasvir;voxilaprevi
+Active substance: sofosbuvir;velpatasvir;voxilaprevi
+Therapeutic area (MeSH): Hepatitis C, Chronic
+ATC code (human): J05A
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Vosevi is indicated for the treatment of chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg. (see sections 4.2, 4.4 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vosevi

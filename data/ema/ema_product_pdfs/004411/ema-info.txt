@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004411
+Name of medicine: Verkazia
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ciclosporin
+Active substance: ciclosporin
+Therapeutic area (MeSH): Conjunctivitis;Keratitis
+ATC code (human): S01XA18
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Treatment of severe vernal keratoconjunctivitis (VKC) in children from 4 years of age and adolescents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/verkazia

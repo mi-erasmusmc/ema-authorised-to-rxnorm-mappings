@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000232
+Name of medicine: ReFacto AF
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: moroctocog alfa
+Active substance: moroctocog alfa
+Therapeutic area (MeSH): Hemophilia A
+ATC code (human): B02BD02
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor-VIII deficiency). ReFacto AF is appropriate for use in adults and children of all ages, including newborns. ReFacto AF does not contain von-Willebrand factor, and hence is not indicated in von-Willebrand's disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/refacto-af

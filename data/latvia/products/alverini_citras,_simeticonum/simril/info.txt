@@ -1,0 +1,7 @@
+short_name: Simril
+active_substance: Alverini citras, Simeticonum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: A03AX58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0182/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0182/smpc

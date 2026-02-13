@@ -1,0 +1,7 @@
+short_name: Combigan
+active_substance: Brimonidini tartras, Timololum
+marketing_authorisation_holder: AbbVie, SIA, Latvia
+manufacturer: Allergan Pharmaceuticals Ireland, Ireland
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0276/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0276/smpc

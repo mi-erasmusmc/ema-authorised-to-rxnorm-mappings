@@ -1,0 +1,7 @@
+short_name: Lamisil
+active_substance: Terbinafini hydrochloridum
+marketing_authorisation_holder: Karo Healthcare AB, Sweden
+manufacturer: Karo Healthcare AB, Sweden
+atc_code: D01AE15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/93-0550/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/93-0550/smpc

@@ -1,0 +1,7 @@
+short_name: Quetiapine Teva
+active_substance: Quetiapinum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Pharmachemie B.V., Netherlands; TEVA Czech Industries s.r.o., Czech Republic; Teva Operations Poland Sp.z o.o., Poland
+atc_code: N05AH04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0340/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0340/smpc

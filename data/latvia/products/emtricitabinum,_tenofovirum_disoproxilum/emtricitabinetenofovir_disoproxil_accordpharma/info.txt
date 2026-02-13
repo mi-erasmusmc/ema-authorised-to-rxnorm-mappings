@@ -1,0 +1,7 @@
+short_name: Emtricitabine/Tenofovir disoproxil Accordpharma
+active_substance: Emtricitabinum, Tenofovirum disoproxilum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Pharmadox Healthcare Ltd., Malta; Laboratori Fundacio Dau, Spain
+atc_code: J05AR03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0079/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0079/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002827
+Name of medicine: Plegridy
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: peginterferon beta-1a
+Active substance: peginterferon beta-1a
+Therapeutic area (MeSH): Multiple Sclerosis
+ATC code (human): L03AB13
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Treatment of relapsing remitting multiple sclerosis in adult patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/plegridy

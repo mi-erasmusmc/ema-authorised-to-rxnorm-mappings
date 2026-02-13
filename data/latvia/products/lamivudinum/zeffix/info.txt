@@ -1,0 +1,7 @@
+short_name: Zeffix
+active_substance: Lamivudinum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Delpharm Poznań Spółka Akcyjna, Poland
+atc_code: J05AF05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/114/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/114/001/smpc

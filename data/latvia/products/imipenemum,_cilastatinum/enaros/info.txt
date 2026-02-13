@@ -1,0 +1,7 @@
+short_name: Enaros
+active_substance: Imipenemum, Cilastatinum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory C, Cyprus
+atc_code: J01DH51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0192/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0192/smpc

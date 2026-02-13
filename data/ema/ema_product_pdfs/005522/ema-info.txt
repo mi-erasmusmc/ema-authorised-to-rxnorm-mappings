@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005522
+Name of medicine: Lumykras
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sotorasib
+Active substance: sotorasib
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01XX73
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Lumykras as monotherapy is indicated for the treatment of adults with advanced non-small cell lung cancer (NSCLC) with KRAS G12C mutation and who have progressed after at least one prior line of systemic therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lumykras

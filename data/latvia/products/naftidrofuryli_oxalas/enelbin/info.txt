@@ -1,0 +1,7 @@
+short_name: Enelbin
+active_substance: Naftidrofuryli oxalas
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: C04AX21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000648/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000648/smpc

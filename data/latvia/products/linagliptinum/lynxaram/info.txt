@@ -1,0 +1,7 @@
+short_name: Lynxaram
+active_substance: Linagliptinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: A10BH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0146/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0146/smpc

@@ -1,0 +1,7 @@
+short_name: Hemosol B0
+active_substance: Natrii hydrogenocarbonas, Natrii chloridum, Calcii chloridum dihydricum, Magnesii chloridum hexahydricum, Acidum lacticum
+marketing_authorisation_holder: Vantive Belgium S.R.L., Belgium
+manufacturer: Bieffe Medital S.p.A., Italy; Vantive Manufacturing Limited, Ireland
+atc_code: B05ZB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0446/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0446/smpc

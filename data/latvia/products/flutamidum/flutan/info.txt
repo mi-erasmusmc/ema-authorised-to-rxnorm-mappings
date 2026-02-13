@@ -1,0 +1,7 @@
+short_name: Flutan
+active_substance: Flutamidum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Cyprus
+atc_code: L02BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0042/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0042/smpc

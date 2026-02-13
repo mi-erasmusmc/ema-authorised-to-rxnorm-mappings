@@ -1,0 +1,7 @@
+short_name: Nimvastid
+active_substance: Rivastigminum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: N06DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/525/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/525/001/smpc

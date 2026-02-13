@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000249
+Name of medicine: Sustiva
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: efavirenz
+Active substance: efavirenz
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AG03
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Sustiva is indicated in antiviral combination treatment of human-immunodeficiency-virus-1 (HIV-1)-infected adults, adolescents and children three years of age and older. Sustiva has not been adequately studied in patients with advanced HIV disease, namely in patients with CD4 counts &lt; 50 cells/mm3, or after failure of protease-inhibitor (PI)-containing regimens. Although cross-resistance of efavirenz with PIs has not been documented, there are at present insufficient data on the efficacy of subsequent use of PI-based combination therapy after failure of regimens containing Sustiva.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sustiva

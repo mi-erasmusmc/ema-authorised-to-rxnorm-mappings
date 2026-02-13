@@ -1,0 +1,7 @@
+short_name: Ibuprofen Stada Arzneimittel
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Centrafarm Services B.V., Netherlands; Pharmazet Group s.r.o., Czech Republic; Stada Arzneimittel AG, Germany; Stada M&D S.R.L, Romania; Clonmel Healthcare Limited, Ireland
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0309/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0309/smpc

@@ -1,0 +1,7 @@
+short_name: Zavedos
+active_substance: Idarubicini hydrochloridum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Latina Pharma S.p.A., Italy
+atc_code: L01DB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0054/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0054/smpc

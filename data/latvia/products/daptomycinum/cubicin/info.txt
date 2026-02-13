@@ -1,0 +1,7 @@
+short_name: Cubicin
+active_substance: Daptomycinum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Laboratoires Merck Sharp & Dohme - Chibret, France
+atc_code: J01XX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/328/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/328/001/smpc

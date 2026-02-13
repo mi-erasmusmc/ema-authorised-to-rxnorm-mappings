@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000853
+Name of medicine: Riprazo
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: aliskiren
+Active substance: aliskiren
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09XA02
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of essential hypertension.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/riprazo

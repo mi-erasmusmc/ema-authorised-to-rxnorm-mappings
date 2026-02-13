@@ -1,0 +1,7 @@
+short_name: Angusta
+active_substance: Misoprostolum
+marketing_authorisation_holder: Norgine B.V., Netherlands
+manufacturer: Norgine B.V., Netherlands
+atc_code: G02AD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0010/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0010/smpc

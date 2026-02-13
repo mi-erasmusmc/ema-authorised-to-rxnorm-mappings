@@ -1,0 +1,7 @@
+short_name: Tavlesse
+active_substance: Fostamatinibum
+marketing_authorisation_holder: Instituto Grifols, S.A., Spain
+manufacturer: Instituto Grifols, S.A., Spain
+atc_code: B02BX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1405/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1405/001/smpc

@@ -1,0 +1,7 @@
+short_name: Vumerity
+active_substance: Diroximeli fumaras
+marketing_authorisation_holder: Biogen Netherlands B.V., Netherlands
+manufacturer: Biogen Netherlands B.V., Netherlands; Alkermes Pharma Ireland Ltd, Ireland
+atc_code: L04AX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1585/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1585/001/smpc

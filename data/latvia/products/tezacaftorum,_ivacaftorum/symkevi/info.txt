@@ -1,0 +1,7 @@
+short_name: Symkevi
+active_substance: Tezacaftorum, Ivacaftorum
+marketing_authorisation_holder: Vertex Pharmaceuticals (Ireland) Limited, Ireland
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland; Almac Pharma Services Limited, United Kingdom
+atc_code: R07AX31
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1306/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1306/001/smpc

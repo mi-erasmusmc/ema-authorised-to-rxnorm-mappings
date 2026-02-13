@@ -1,0 +1,7 @@
+short_name: Water for Injections CSL Behring
+active_substance: Aqua ad iniectabile
+marketing_authorisation_holder: CSL Behring GmbH, Germany
+manufacturer: CSL Behring GmbH, Germany
+atc_code: V07AB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0039/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0039/smpc

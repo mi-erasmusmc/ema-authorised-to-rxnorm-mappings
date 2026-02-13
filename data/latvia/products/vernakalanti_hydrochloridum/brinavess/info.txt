@@ -1,0 +1,7 @@
+short_name: Brinavess
+active_substance: Vernakalanti hydrochloridum
+marketing_authorisation_holder: Advanz Pharma Limited, Ireland
+manufacturer: Geodis Logistics Netherlands B.V., Netherlands
+atc_code: C01BG11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/645/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/645/001/smpc

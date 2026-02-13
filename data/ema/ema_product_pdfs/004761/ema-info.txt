@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004761
+Name of medicine: Onureg
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: azacitidine
+Active substance: azacitidine
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): L01BC07
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Onureg is indicated as maintenance therapy in adult patients with acute myeloid leukaemia (AML) who achieved complete remission (CR) or complete remission with incomplete blood count recovery (CRi) following induction therapy with or without consolidation treatment and who are not candidates for, including those who choose not to proceed to, hematopoietic stem cell transplantation (HSCT).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/onureg

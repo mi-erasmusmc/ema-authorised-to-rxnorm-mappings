@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002829
+Name of medicine: Cyramza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ramucirumab
+Active substance: ramucirumab
+Therapeutic area (MeSH): Stomach Neoplasms
+ATC code (human): L01FX06
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Gastric cancer Cyramza in combination with paclitaxel is indicated for the treatment of adult patients with advanced gastric cancer or gastro-oesophageal junction adenocarcinoma with disease progression after prior platinum and fluoropyrimidine chemotherapy. Cyramza monotherapy is indicated for the treatment of adult patients with advanced gastric cancer or gastro-oesophageal junction adenocarcinoma with disease progression after prior platinum or fluoropyrimidine chemotherapy, for whom treatment in combination with paclitaxel is not appropriate. Colorectal cancer Cyramza, in combination with FOLFIRI (irinotecan, folinic acid, and 5?fluorouracil), is indicated for the treatment of adult patients with metastatic colorectal cancer (mCRC) with disease progression on or after prior therapy with bevacizumab, oxaliplatin and a fluoropyrimidine. Non-small cell lung cancer Cyramza in combination with docetaxel is indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer with disease progression after platinum-based chemotherapy. Hepatocellular carcinoma Cyramza monotherapy is indicated for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma who have a serum alpha fetoprotein (AFP) of ?&nbsp;400&nbsp;ng/ml and who have been previously treated with sorafenib.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cyramza

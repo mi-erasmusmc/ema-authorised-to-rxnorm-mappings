@@ -1,0 +1,7 @@
+short_name: Comirnaty JN.1
+active_substance: COVID-19 mRNA vaccine (nucleoside modified)
+marketing_authorisation_holder: BioNTech Manufacturing GmbH, Germany
+manufacturer: BioNTech Manufacturing GmbH, Germany; Pfizer Manufacturing Belgium N.V., Belgium
+atc_code: J07BN01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1528/028/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1528/028/smpc

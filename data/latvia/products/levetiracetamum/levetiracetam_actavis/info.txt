@@ -1,0 +1,7 @@
+short_name: Levetiracetam Actavis
+active_substance: Levetiracetamum
+marketing_authorisation_holder: Actavis Group PTC ehf, Iceland
+manufacturer: Specifar S.A., Greece; Teva Operations Poland Sp.z o.o., Poland; TjoaPack Netherlands B.V., Netherlands; Actavis Group PTC ehf., Iceland
+atc_code: N03AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/713/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/713/001/smpc

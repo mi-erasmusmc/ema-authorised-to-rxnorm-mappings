@@ -1,0 +1,7 @@
+short_name: Aminoven
+active_substance: Isoleucinum, Histidinum, Leucinum, Methioninum, Lysini acetas, Phenylalaninum, Threoninum, Tryptophanum, Valinum, Argininum, Alaninum, Glycinum, Prolinum, Serinum, Tyrosinum, Taurinum
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi Austria GmbH, Austria
+atc_code: B05BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0417/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0417/smpc

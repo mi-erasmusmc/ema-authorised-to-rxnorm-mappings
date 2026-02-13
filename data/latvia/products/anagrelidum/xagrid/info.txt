@@ -1,0 +1,7 @@
+short_name: Xagrid
+active_substance: Anagrelidum
+marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+manufacturer: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+atc_code: L01XX35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/295/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/295/001/smpc

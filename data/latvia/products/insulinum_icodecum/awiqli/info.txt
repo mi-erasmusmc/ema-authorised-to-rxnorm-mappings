@@ -1,0 +1,7 @@
+short_name: Awiqli
+active_substance: Insulinum icodecum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: A10AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1815/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1815/001/smpc

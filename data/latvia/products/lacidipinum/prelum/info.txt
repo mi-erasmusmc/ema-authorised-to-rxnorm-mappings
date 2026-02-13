@@ -1,0 +1,7 @@
+short_name: Prelum
+active_substance: Lacidipinum
+marketing_authorisation_holder: SanoSwiss UAB, Lithuania
+manufacturer: Holsten Pharma GmbH., Germany
+atc_code: C08CA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0154/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0154/smpc

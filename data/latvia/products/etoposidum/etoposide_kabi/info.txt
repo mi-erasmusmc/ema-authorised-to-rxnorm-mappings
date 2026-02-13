@@ -1,0 +1,7 @@
+short_name: Etoposide Kabi
+active_substance: Etoposidum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Deutschland GmbH, Germany
+atc_code: L01CB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0165/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0165/smpc

@@ -1,0 +1,7 @@
+short_name: Anti-dispepsia
+active_substance: Taraxaci officinalis radix, Carvi fructus, Menthae piperitae folium, Frangulae cortex, Silybi mariani extractum siccum raffinatum et normatum
+marketing_authorisation_holder: Labofarm Sp. z o.o., Poland
+manufacturer: Labofarm Sp. z o.o., Poland
+atc_code: A16AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0838/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0838/smpc

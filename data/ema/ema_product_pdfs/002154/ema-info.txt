@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002154
+Name of medicine: Esbriet
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pirfenidone
+Active substance: Pirfenidone
+Therapeutic area (MeSH): Idiopathic Pulmonary Fibrosis;Lung Diseases;Respiratory Tract Diseases
+ATC code (human): L04AX05
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Esbriet is indicated in adults for the treatment of idiopathic pulmonary fibrosis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/esbriet

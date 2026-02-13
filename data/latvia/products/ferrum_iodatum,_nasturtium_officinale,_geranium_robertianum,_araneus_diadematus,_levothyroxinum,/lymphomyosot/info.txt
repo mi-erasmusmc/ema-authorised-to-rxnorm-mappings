@@ -1,0 +1,7 @@
+short_name: Lymphomyosot
+active_substance: Ferrum iodatum, Nasturtium officinale, Geranium robertianum, Araneus diadematus, Levothyroxinum, Fumaria officinalis, Natrium sulphuricum, Calcium phosphoricum, Juglans regia, Smilax medica, Equisetum hyemale, Gentiana lutea, Pinus sylvestris, Teucrium scorodonia, Veronica officinalis, Myosotis arvensis, Scrophularia nodosa
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0109/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0109/smpc

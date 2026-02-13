@@ -1,0 +1,7 @@
+short_name: Asembix
+active_substance: Bisoprololi fumaras, Perindoprili argininum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France; Servier (Ireland) Industries Ltd, Ireland; Egis Pharmaceuticals PLC, Hungary; Anpham Przedsiebiorstwo Farmaceutyczne S.A., Poland
+atc_code: C09BX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0320/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0320/smpc

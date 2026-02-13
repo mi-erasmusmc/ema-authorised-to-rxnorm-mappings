@@ -1,0 +1,7 @@
+short_name: DicloFlex
+active_substance: Diclofenacum natricum
+marketing_authorisation_holder: MIKA Pharma GmbH, Germany
+manufacturer: Pharbil Waltrop GmbH, Germany
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0159/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0159/smpc

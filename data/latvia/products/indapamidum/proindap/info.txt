@@ -1,0 +1,7 @@
+short_name: Proindap
+active_substance: Indapamidum
+marketing_authorisation_holder: PRO.MED.CS Praha a.s., Czech Republic
+manufacturer: PRO.MED.CS Praha a.s., Czech Republic
+atc_code: C03BA11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0079/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0079/smpc

@@ -1,0 +1,7 @@
+short_name: Paracetamol Basi
+active_substance: Paracetamolum
+marketing_authorisation_holder: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+manufacturer: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0098/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0098/smpc

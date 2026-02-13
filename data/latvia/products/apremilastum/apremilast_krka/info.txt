@@ -1,0 +1,7 @@
+short_name: Apremilast KRKA
+active_substance: Apremilastum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: L04AA32
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0153/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0153/smpc

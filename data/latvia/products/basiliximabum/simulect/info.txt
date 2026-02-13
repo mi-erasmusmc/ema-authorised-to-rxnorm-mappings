@@ -1,0 +1,7 @@
+short_name: Simulect
+active_substance: Basiliximabum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Novartis Pharma GmbH, Germany
+atc_code: L04AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/084/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/084/001/smpc

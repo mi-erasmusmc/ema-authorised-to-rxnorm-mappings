@@ -1,0 +1,7 @@
+short_name: Euthyrox
+active_substance: Levothyroxinum natricum
+marketing_authorisation_holder: Merck Serono, SIA, Latvia
+manufacturer: Famar Health Care Services Madrid, S.A.U., Spain; Merck Healthcare KGaA, Germany
+atc_code: H03AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0255/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0255/smpc

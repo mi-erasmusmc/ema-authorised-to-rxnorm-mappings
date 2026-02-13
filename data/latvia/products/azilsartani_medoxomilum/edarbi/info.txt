@@ -1,0 +1,7 @@
+short_name: Edarbi
+active_substance: Azilsartani medoxomilum
+marketing_authorisation_holder: Takeda Pharma A/S, Denmark
+manufacturer: Takeda Ireland Ltd., Ireland
+atc_code: C09CA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/734/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/734/001/smpc

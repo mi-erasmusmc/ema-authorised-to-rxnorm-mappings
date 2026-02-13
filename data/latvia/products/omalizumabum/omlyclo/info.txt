@@ -1,0 +1,7 @@
+short_name: Omlyclo
+active_substance: Omalizumabum
+marketing_authorisation_holder: Celltrion Healthcare Hungary Kft., Hungary
+manufacturer: Nuvisan France SARL, France; Midas Pharma GmbH, Germany; Kymos S.L., Spain
+atc_code: R03DX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1817/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1817/001/smpc

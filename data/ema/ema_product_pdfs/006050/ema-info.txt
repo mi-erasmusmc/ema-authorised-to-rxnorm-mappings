@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006050
+Name of medicine: Balversa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: erdafitinib
+Active substance: Erdafitinib
+Therapeutic area (MeSH): Urologic Neoplasms
+ATC code (human): L01EN01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Balversa as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic urothelial carcinoma (UC), harbouring susceptible FGFR3 genetic alterations who have previously received at least one line of therapy containing a PD-1 or PD-L1 inhibitor in the unresectable or metastatic treatment setting (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/balversa

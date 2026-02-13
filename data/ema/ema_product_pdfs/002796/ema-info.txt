@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002796
+Name of medicine: Hexyon
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: diphtheria, tetanus, pertussis (acellular, component), hepatitis B (rDNA), poliomyelitis (inactivated) and Haemophilus influenzae type b conjugate vaccine (adsorbed)
+Active substance: filamentous haemagglutinin;Haemophilus influenzae type B polysaccharide (polyribosylribitol phosphate);hepatitis B surface antigen;pertussis toxoid;poliovirus (inactivated) type 1 (Mahoney strain) produced on Vero cells;poliovirus (inactivated) type 2 (MEF-1 strain) produced on Vero cells;poliovirus (inactivated) type 3 (Saukett strain) produced on Vero cells;tetanus protein;tetanus toxoid adsorbed on aluminium hydroxide, hydrated;Diphtheria toxoid
+Therapeutic area (MeSH): Hepatitis B;Tetanus;Immunization;Meningitis, Haemophilus;Whooping Cough;Poliomyelitis;Diphtheria
+ATC code (human): J07CA09
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Hexyon (DTaP-IPV-HB-Hib) is indicated for primary and booster vaccination of infants and toddlers from six weeks of age against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and invasive diseases caused by Haemophilus influenzae type b (Hib). The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hexyon

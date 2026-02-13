@@ -1,0 +1,7 @@
+short_name: Thyrogen
+active_substance: Thyrotropinum alfa
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Genzyme Ireland Ltd., Ireland
+atc_code: H01AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/122/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/122/001/smpc

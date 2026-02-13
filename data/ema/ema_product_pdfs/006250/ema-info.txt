@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006250
+Name of medicine: Vevizye
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ciclosporin
+Active substance: ciclosporin
+Therapeutic area (MeSH): Keratoconjunctivitis Sicca
+ATC code (human): S01XA18
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Treatment of moderate to severe dry eye disease&nbsp;(keratoconjunctivitis sicca)&nbsp;in adult patients, which has not improved despite treatment with tear substitutes.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vevizye

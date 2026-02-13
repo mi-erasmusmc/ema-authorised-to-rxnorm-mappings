@@ -1,0 +1,7 @@
+short_name: Stomach Drops Valentis
+active_substance: Valerianae tinctura, Absinthii tinctura, Menthae piperitae tinctura, Belladonnae tinctura
+marketing_authorisation_holder: UAB Valentis, Lithuania
+manufacturer: UAB Valentis, Lithuania
+atc_code: A03ED
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0243/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0243/smpc

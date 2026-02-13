@@ -1,0 +1,7 @@
+short_name: Esomeprazole Hexal
+active_substance: Esomeprazolum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Towa Pharmaceutical Europe S.L., Spain
+atc_code: A02BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0027/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0027/smpc

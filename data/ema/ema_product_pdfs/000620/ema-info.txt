@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000620
+Name of medicine: Macugen
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: pegaptanib
+Active substance: pegaptanib
+Therapeutic area (MeSH): Wet Macular Degeneration
+ATC code (human): S01LA03
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Macugen is indicated for the treatment of neovascular (wet) age-related macular degeneration (AMD).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/macugen

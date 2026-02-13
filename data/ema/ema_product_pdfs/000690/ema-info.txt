@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000690
+Name of medicine: Nexavar
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sorafenib
+Active substance: sorafenib
+Therapeutic area (MeSH): Carcinoma, Hepatocellular;Carcinoma, Renal Cell
+ATC code (human): L01EX02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Hepatocellular carcinoma Nexavar is indicated for the treatment of hepatocellular carcinoma. Renal cell carcinoma Nexavar is indicated for the treatment of patients with advanced renal cell carcinoma who have failed prior interferon-alpha or interleukin-2 based therapy or are considered unsuitable for such therapy. Differentiated thyroid carcinoma Nexavar is indicated for the treatment of patients with progressive, locally advanced or metastatic, differentiated (papillary/follicular/Hürthle cell) thyroid carcinoma, refractory to radioactive iodine.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nexavar

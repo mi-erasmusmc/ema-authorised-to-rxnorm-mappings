@@ -1,0 +1,7 @@
+short_name: Ossica
+active_substance: Acidum ibandronicum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: M05BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0149/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0149/smpc

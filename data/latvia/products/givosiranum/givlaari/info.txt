@@ -1,0 +1,7 @@
+short_name: Givlaari
+active_substance: Givosiranum
+marketing_authorisation_holder: Alnylam Netherlands B.V., Netherlands
+manufacturer: Alnylam Netherlands B.V., Netherlands
+atc_code: A16AX16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1428/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1428/001/smpc

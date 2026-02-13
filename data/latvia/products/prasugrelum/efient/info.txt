@@ -1,0 +1,7 @@
+short_name: Efient
+active_substance: Prasugrelum
+marketing_authorisation_holder: Substipharm, France
+manufacturer: Daiichi Sankyo Europe GmbH, Germany
+atc_code: B01AC22
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/503/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/503/001/smpc

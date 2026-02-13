@@ -1,0 +1,7 @@
+short_name: Korjuny
+active_substance: Catumaxomabum
+marketing_authorisation_holder: Atnahs Pharma Netherlands B.V., Denmark
+manufacturer: Celonic Deutschland GmbH & Co. KG, Germany
+atc_code: L01FX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1826/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1826/001/smpc

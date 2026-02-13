@@ -1,0 +1,7 @@
+short_name: Dabigatran Etexilate Stada
+active_substance: Dabigatranum etexilatum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; SAG Manufacturing, S.L.U., Spain; Clonmel Healthcare Limited, Ireland; Galenicum Health S.L.U., Spain; Stada Arzneimittel AG, Germany
+atc_code: B01AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0041/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0041/smpc

@@ -1,0 +1,7 @@
+short_name: Metfogamma
+active_substance: Metformini hydrochloridum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Dragenopharm  Apotheker Puschl GmbH, Germany; Medis International a.s., Czech Republic; Wörwag Pharma GmbH & Co.KG, Germany; Wörwag Pharma Operations Sp. z o.o., Poland
+atc_code: A10BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0993/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0993/smpc

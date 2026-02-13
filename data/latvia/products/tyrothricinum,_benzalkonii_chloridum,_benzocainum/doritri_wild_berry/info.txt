@@ -1,0 +1,7 @@
+short_name: Doritri Wild berry
+active_substance: Tyrothricinum, Benzalkonii chloridum, Benzocainum
+marketing_authorisation_holder: Medice Pharma GmbH & Co. KG, Germany
+manufacturer: Medice Arzneimittel Putter GmbH & Co.KG, Germany
+atc_code: R02AA20
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0212/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0212/smpc

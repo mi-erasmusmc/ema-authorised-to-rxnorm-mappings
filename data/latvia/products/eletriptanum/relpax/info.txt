@@ -1,0 +1,7 @@
+short_name: Relpax
+active_substance: Eletriptanum
+marketing_authorisation_holder: Upjohn EESV, Netherlands
+manufacturer: Pfizer Italia s.r.l., Italy
+atc_code: N02CC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0253/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0253/smpc

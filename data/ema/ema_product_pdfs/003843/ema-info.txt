@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003843
+Name of medicine: Zydelig
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: idelalisib
+Active substance: Idelalisib
+Therapeutic area (MeSH): Lymphoma, Non-Hodgkin;Leukemia, Lymphocytic, Chronic, B-Cell
+ATC code (human): L01XX47
+Pharmacotherapeutic group (human): Antineoplastic agents;Other antineoplastic agents
+Therapeutic indication: Zydelig is indicated in combination with an anti?CD20 monoclonal antibody (rituximab or ofatumumab) for the treatment of adult patients with chronic lymphocytic leukaemia (CLL):  who have received at least one prior therapy, or as first line treatment in the presence of 17p deletion or TP53 mutation in patients who are not eligible for any other therapies.  Zydelig is indicated as monotherapy for the treatment of adult patients with follicular lymphoma (FL) that is refractory to two prior lines of treatment.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zydelig

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004583
+Name of medicine: Rhokiinsa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: netarsudil
+Active substance: netarsudil
+Therapeutic area (MeSH): Glaucoma, Open-Angle;Ocular Hypertension
+ATC code (human): S01EX05
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Reduction of elevated intraocular pressure (IOP) in adult patients with primary open-angle glaucoma or ocular hypertension.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rhokiinsa

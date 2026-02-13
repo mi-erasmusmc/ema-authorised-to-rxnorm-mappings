@@ -1,0 +1,7 @@
+short_name: Paracetamol Unifarma
+active_substance: Paracetamolum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: SIA Unifarma, Latvia
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0043/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0043/smpc

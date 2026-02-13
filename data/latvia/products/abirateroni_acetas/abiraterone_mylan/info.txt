@@ -1,0 +1,7 @@
+short_name: Abiraterone Mylan
+active_substance: Abirateroni acetas
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Remedica Ltd., Cyprus
+atc_code: L02BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1571/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1571/001/smpc

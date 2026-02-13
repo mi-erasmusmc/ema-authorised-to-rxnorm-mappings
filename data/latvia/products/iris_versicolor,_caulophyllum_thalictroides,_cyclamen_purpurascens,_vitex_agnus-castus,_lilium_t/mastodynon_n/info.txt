@@ -1,0 +1,7 @@
+short_name: Mastodynon N
+active_substance: Iris versicolor, Caulophyllum thalictroides, Cyclamen purpurascens, Vitex agnus-castus, Lilium tigrinum, Strychnos ignatia
+marketing_authorisation_holder: Bionorica SE, Germany
+manufacturer: Bionorica SE, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0108/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0108/smpc

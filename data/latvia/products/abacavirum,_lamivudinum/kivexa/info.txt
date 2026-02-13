@@ -1,0 +1,7 @@
+short_name: Kivexa
+active_substance: Abacavirum, Lamivudinum
+marketing_authorisation_holder: Viiv Healthcare B.V., Netherlands
+manufacturer: Glaxo Wellcome S.A., Spain
+atc_code: J05AR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/298/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/298/002/smpc

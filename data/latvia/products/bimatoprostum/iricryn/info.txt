@@ -1,0 +1,7 @@
+short_name: Iricryn
+active_substance: Bimatoprostum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Rafarm S.A., Greece
+atc_code: S01EE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0111/smpc

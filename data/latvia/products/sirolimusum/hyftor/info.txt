@@ -1,0 +1,7 @@
+short_name: Hyftor
+active_substance: Sirolimusum
+marketing_authorisation_holder: Plusultra pharma GmbH, Germany
+manufacturer: MSK-Pharmalogistic GmbH, Germany
+atc_code: L01EG04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1723/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1723/001/smpc

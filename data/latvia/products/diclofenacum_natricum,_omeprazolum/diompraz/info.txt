@@ -1,0 +1,7 @@
+short_name: Diompraz
+active_substance: Diclofenacum natricum, Omeprazolum
+marketing_authorisation_holder: Bausch Health Ireland Limited, Ireland
+manufacturer: Swiss Caps GmbH, Germany; Haupt Pharma Amareg GmbH, Germany
+atc_code: M01AB55
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0270/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0270/smpc

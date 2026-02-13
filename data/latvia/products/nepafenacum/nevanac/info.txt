@@ -1,0 +1,7 @@
+short_name: Nevanac
+active_substance: Nepafenacum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: S.A. Alcon-Couvreur N.V., Belgium
+atc_code: S01BC10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/433/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/433/001/smpc

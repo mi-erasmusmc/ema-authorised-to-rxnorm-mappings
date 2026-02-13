@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005553
+Name of medicine: Aspaveli
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pegcetacoplan
+Active substance: pegcetacoplan
+Therapeutic area (MeSH): Hemoglobinuria, Paroxysmal
+ATC code (human): L04AJ03
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Aspaveli is indicated as monotherapy in the treatment of adult patients with paroxysmal nocturnal haemoglobinuria (PNH) who have haemolytic anaemia. Aspaveli is indicated for the treatment of adult and adolescent patients aged 12 to 17 years with C3 glomerulopathy (C3G) or primary immune-complex membranoproliferative glomerulonephritis (IC-MPGN) in combination with a renin-angiotensin system (RAS) inhibitor, unless RAS inhibitor treatment is not tolerated or contraindicated.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aspaveli

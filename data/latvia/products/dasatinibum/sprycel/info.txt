@@ -1,0 +1,7 @@
+short_name: Sprycel
+active_substance: Dasatinibum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Bristol-Myers Squibb S.A., France; Bristol-Myers Squibb Company., Italy
+atc_code: L01EA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/363/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/363/001/smpc

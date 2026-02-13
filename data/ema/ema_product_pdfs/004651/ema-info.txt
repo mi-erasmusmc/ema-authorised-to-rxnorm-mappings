@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004651
+Name of medicine: Buvidal
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: buprenorphine
+Active substance: buprenorphine
+Therapeutic area (MeSH): Opioid-Related Disorders
+ATC code (human): N07BC01
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Treatment of opioid dependence within a framework of medical, social and psychological treatment. Treatment is intended for use in adults and adolescents aged 16 years or over.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/buvidal

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005653
+Name of medicine: Kinpeygo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: budesonide
+Active substance: budesonide, micronised
+Therapeutic area (MeSH): Glomerulonephritis, IGA
+ATC code (human): A07EA06
+Pharmacotherapeutic group (human): Antidiarrheals, intestinal antiinflammatory / antiinfective agents
+Therapeutic indication: Kinpeygo is indicated for the treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excretion ≥1.0 g/day (or urine protein-to-creatinine ratio ≥0.8 g/g).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kinpeygo

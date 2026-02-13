@@ -1,0 +1,7 @@
+short_name: Neupedix
+active_substance: Alprostadilum
+marketing_authorisation_holder: Kevelt AS, Estonia
+manufacturer: Kevelt AS, Estonia
+atc_code: C01EA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0049/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0049/smpc

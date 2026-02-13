@@ -1,0 +1,7 @@
+short_name: Sacubitril/Valsartan Gedeon Richter
+active_substance: Sacubitrilum, Valsartanum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: C09DX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0280/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0280/smpc

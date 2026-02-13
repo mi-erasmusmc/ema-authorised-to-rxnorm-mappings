@@ -1,0 +1,7 @@
+short_name: Neoclarityn
+active_substance: Desloratadinum
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: Organon Heist bv, Belgium
+atc_code: R06AX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/161/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/161/001/smpc

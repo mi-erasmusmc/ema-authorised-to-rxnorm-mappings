@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005600
+Name of medicine: Rivaroxaban Viatris (previously Rivaroxaban Mylan)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rivaroxaban
+Active substance: rivaroxaban
+Therapeutic area (MeSH): Venous Thromboembolism;Pulmonary Embolism;Acute Coronary Syndrome;Stroke;Coronary Artery Disease;Peripheral Arterial Disease;Atrial Fibrillation
+ATC code (human): B01AF01
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Rivaroxaban Mylan co-administered with acetylsalicylic acid (ASA) alone or with ASA plus clopidogrel or ticlopidine, is indicated for the prevention of atherothrombotic events in adult patients after an acute coronary syndrome (ACS) with elevated cardiac biomarkers.&nbsp; Rivaroxaban Mylan co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with coronary artery disease (CAD) or symptomatic peripheral artery disease (PAD) at high risk of ischaemic events.&nbsp; ------ Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery.&nbsp; Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults. ------- Adults&nbsp; Prevention of stroke and systemic embolism in adult &nbsp; patients with non-valvular atrial fibrillation with one or more risk factors, such as congestive heart failure, hypertension, age ? 75 years, diabetes mellitus, prior stroke or transient ischaemic attack. Paediatric population&nbsp; Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in children and adolescents aged less than 18 years and weighing from 30 kg to 50 kg after at least 5 days of initial parenteral anticoagulation treatment. Paediatric population&nbsp; Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in children and adolescents aged less than 18 years and weighing more than 50 kg after at least 5 days of initial parenteral anticoagulation treatment. &nbsp;
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris

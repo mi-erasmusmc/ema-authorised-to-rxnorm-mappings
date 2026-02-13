@@ -1,0 +1,7 @@
+short_name: Nebivolol Actavis
+active_substance: Nebivololum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Ltd, Malta
+atc_code: C07AB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0138/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0138/smpc

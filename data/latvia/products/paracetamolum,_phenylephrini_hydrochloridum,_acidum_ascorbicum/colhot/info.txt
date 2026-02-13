@@ -1,0 +1,7 @@
+short_name: Colhot
+active_substance: Paracetamolum, Phenylephrini hydrochloridum, Acidum ascorbicum
+marketing_authorisation_holder: Perrigo Poland Sp. z o.o., Poland
+manufacturer: Omega Pharma International NV, Belgium
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0110/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0110/smpc

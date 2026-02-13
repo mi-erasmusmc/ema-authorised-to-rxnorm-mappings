@@ -1,0 +1,7 @@
+short_name: Flucinar N
+active_substance: Fluocinoloni acetonidum, Neomycini sulfas
+marketing_authorisation_holder: PharmaSwiss Ceska republika s.r.o., Czech Republic
+manufacturer: Pharmaceutical Company Jelfa SA, Poland
+atc_code: D07CC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0104/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0104/smpc

@@ -1,0 +1,7 @@
+short_name: Oxycort
+active_substance: Oxytetracyclinum, Hydrocortisonum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+atc_code: D07CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0343/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0343/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002559
+Name of medicine: Cholib
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fenofibrate;simvastatin
+Active substance: fenofibrate;simvastatin
+Therapeutic area (MeSH): Dyslipidemias
+ATC code (human): C10BA04
+Pharmacotherapeutic group (human): Lipid modifying agents
+Therapeutic indication: Cholib is indicated as adjunctive therapy to diet and exercise in high cardiovascular risk adult patients with mixed dyslipidaemia to reduce triglycerides and increase HDL C levels when LDL C levels are adequately controlled with the corresponding dose of simvastatin monotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cholib

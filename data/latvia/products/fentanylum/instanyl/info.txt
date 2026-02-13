@@ -1,0 +1,7 @@
+short_name: Instanyl
+active_substance: Fentanylum
+marketing_authorisation_holder: Istituto Gentili S.r.l., Italy
+manufacturer: Takeda GmbH, Germany
+atc_code: N02AB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/531/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/531/001/smpc

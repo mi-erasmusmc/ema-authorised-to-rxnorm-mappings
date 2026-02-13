@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004871
+Name of medicine: Evrenzo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: roxadustat
+Active substance: roxadustat
+Therapeutic area (MeSH): Anemia;Kidney Failure, Chronic
+ATC code (human): B03XA05
+Pharmacotherapeutic group (human): Antianemic preparations
+Therapeutic indication: Evrenzo is indicated for treatment of adult patients with symptomatic anaemia associated with chronic kidney disease (CKD).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evrenzo

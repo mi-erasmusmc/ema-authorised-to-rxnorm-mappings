@@ -1,0 +1,7 @@
+short_name: Rigevidon
+active_substance: Levonorgestrelum, Ethinylestradiolum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: G03AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1000/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1000/smpc

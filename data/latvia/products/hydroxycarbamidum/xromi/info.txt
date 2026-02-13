@@ -1,0 +1,7 @@
+short_name: Xromi
+active_substance: Hydroxycarbamidum
+marketing_authorisation_holder: Lipomed GmbH, Germany
+manufacturer: Pronav Clinical Limited, Ireland
+atc_code: L01XX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1366/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1366/001/smpc

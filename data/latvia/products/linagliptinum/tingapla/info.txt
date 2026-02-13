@@ -1,0 +1,7 @@
+short_name: Tingapla
+active_substance: Linagliptinum
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: PharOS Pharmaceutical Oriented Services Ltd, Greece; PharOS MT Ltd., Malta; Lek Pharmaceuticals d.d., Slovenia
+atc_code: A10BH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0270/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0270/smpc

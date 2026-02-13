@@ -1,0 +1,7 @@
+short_name: Vizimpro
+active_substance: Dacomitinibum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Deutschland GmbH, Germany
+atc_code: L01EB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1354/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1354/001/smpc

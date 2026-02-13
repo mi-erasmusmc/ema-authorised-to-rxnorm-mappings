@@ -1,0 +1,7 @@
+short_name: Voxzogo
+active_substance: Vosoritidum
+marketing_authorisation_holder: BioMarin International Limited, Ireland
+manufacturer: BioMarin International Limited, Ireland
+atc_code: M05BX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1577/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1577/001/smpc

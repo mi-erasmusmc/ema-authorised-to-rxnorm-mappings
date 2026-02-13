@@ -1,0 +1,7 @@
+short_name: Tardyferon
+active_substance: Ferrum
+marketing_authorisation_holder: Pierre Fabre Medicament, France
+manufacturer: Pierre Fabre Medicament Production - Progipharm, France
+atc_code: B03AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0213/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0213/smpc

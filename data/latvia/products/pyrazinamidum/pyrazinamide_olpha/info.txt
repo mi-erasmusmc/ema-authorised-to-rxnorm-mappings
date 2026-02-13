@@ -1,0 +1,7 @@
+short_name: Pyrazinamide Olpha
+active_substance: Pyrazinamidum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: J04AK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0305/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0305/smpc

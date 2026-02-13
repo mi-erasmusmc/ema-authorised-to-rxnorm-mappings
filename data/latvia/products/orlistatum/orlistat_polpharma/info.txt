@@ -1,0 +1,7 @@
+short_name: Orlistat Polpharma
+active_substance: Orlistatum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Pharmaceutical Works "Polpharma" S.A., Poland
+atc_code: A08AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0327/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0327/smpc

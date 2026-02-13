@@ -1,0 +1,7 @@
+short_name: Tracrium
+active_substance: Atracurii besilas
+marketing_authorisation_holder: Aspen Pharma Trading Ltd., Ireland
+manufacturer: Aspen Bad Oldesloe GmbH, Germany
+atc_code: M03AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000704/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000704/smpc

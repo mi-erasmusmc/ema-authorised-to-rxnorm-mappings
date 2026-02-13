@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000477
+Name of medicine: Aldurazyme
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: laronidase
+Active substance: laronidase
+Therapeutic area (MeSH): Mucopolysaccharidosis I
+ATC code (human): A16AB05
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Aldurazyme is indicated for long-term enzyme replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis I (MPS I; alpha-L-iduronidase deficiency) to treat the nonneurological manifestations of the disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aldurazyme

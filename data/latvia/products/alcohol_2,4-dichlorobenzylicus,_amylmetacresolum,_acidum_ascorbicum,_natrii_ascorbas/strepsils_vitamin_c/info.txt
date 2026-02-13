@@ -1,0 +1,7 @@
+short_name: Strepsils Vitamin C
+active_substance: Alcohol 2,4-Dichlorobenzylicus, Amylmetacresolum, Acidum ascorbicum, Natrii ascorbas
+marketing_authorisation_holder: Reckitt Benckiser (Poland) S.A., Poland
+manufacturer: Elvim, SIA, Latvia; RB NL Brands B.V., Netherlands
+atc_code: R02AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0356/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0356/smpc

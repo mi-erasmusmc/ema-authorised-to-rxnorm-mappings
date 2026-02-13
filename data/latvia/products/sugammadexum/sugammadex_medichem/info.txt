@@ -1,0 +1,7 @@
+short_name: Sugammadex Medichem
+active_substance: Sugammadexum
+marketing_authorisation_holder: Medichem, S.A, Spain
+manufacturer: Combino Pharm (Malta) Ltd, Malta; PharmIdea, SIA, Latvia; Medichem S.A., Spain
+atc_code: V03AB35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0009/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0009/smpc

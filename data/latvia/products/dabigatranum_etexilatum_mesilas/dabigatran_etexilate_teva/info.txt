@@ -1,0 +1,7 @@
+short_name: Dabigatran etexilate Teva
+active_substance: Dabigatranum etexilatum mesilas
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Laboratorios Liconsa, S.A., Spain
+atc_code: B01AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1769/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1769/001/smpc

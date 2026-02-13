@@ -1,0 +1,7 @@
+short_name: Viread
+active_substance: Tenofovirum disoproxilum
+marketing_authorisation_holder: Gilead Sciences Ireland UC, Ireland
+manufacturer: Takeda GmbH, Germany; Gilead Sciences Ireland UC, Ireland
+atc_code: J05AF07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/200/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/200/001/smpc

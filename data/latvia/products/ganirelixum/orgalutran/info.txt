@@ -1,0 +1,7 @@
+short_name: Orgalutran
+active_substance: Ganirelixum
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: N.V. Organon, Netherlands
+atc_code: H01CC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/130/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/130/001/smpc

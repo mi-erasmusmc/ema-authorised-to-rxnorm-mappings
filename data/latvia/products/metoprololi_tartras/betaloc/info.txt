@@ -1,0 +1,7 @@
+short_name: Betaloc
+active_substance: Metoprololi tartras
+marketing_authorisation_holder: Recordati Ireland Limited, Ireland
+manufacturer: Cenexi, France; CIT S.R.L., Italy
+atc_code: C07AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1112/smpc

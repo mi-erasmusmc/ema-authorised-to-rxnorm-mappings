@@ -1,0 +1,7 @@
+short_name: Seffalair Spiromax
+active_substance: Salmeterolum, Fluticasoni propionas
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Operations Poland Sp.z o.o., Poland; Norton (Waterford) Limited T/A Teva Pharmaceuticals Ireland, Ireland; Norton (Waterford) Limited, Ireland; Norton (Waterford) Limited T/A Teva Pharmaceuticals Ireland, Ireland
+atc_code: R03AK06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1533/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1533/001/smpc

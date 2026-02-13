@@ -1,0 +1,7 @@
+short_name: Xyrem
+active_substance: Natrii oxybas
+marketing_authorisation_holder: UCB Pharma SA, Belgium
+manufacturer: UCB Pharma S.A., Belgium; UCB Pharma Ltd, United Kingdom
+atc_code: N07XX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/312/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/312/001/smpc

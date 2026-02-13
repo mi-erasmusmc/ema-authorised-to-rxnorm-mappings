@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006411
+Name of medicine: Imreplys
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sargramostim
+Active substance: sargramostim
+Therapeutic area (MeSH): Acute Radiation Syndrome
+ATC code (human): L03AA09
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Imreplys is indicated for treatment of patients of all ages acutely exposed to myelosuppressive doses of radiation with Haematopoietic Sub-syndrome of Acute Radiation Syndrome (H-ARS).&nbsp;Imreplys should be used in accordance with official radiological/nuclear emergency recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/imreplys

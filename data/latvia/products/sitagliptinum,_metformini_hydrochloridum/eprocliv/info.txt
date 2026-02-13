@@ -1,0 +1,7 @@
+short_name: Eprocliv
+active_substance: Sitagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek S.A., Poland; Lek d.d., PE Proizvodnja Lendava, Slovenia
+atc_code: A10BD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0017/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0017/smpc

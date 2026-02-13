@@ -1,0 +1,7 @@
+short_name: Amiobutols
+active_substance: Ethambutoli hydrochloridum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: J04AK02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0713/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0713/smpc

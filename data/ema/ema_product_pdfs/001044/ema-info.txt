@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001044
+Name of medicine: Rivastigmine Teva
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: rivastigmine
+Active substance: rivastigmine
+Therapeutic area (MeSH): Dementia;Alzheimer Disease;Parkinson Disease
+ATC code (human): N06DA03
+Pharmacotherapeutic group (human): Anticholinesterases
+Therapeutic indication: Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-teva

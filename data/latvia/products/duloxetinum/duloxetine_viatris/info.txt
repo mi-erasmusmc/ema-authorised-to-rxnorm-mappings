@@ -1,0 +1,7 @@
+short_name: Duloxetine Viatris
+active_substance: Duloxetinum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited t/a Gerard Laboratories t/a Mylan Dublin, Ireland; Mylan Germany GmbH, Germany
+atc_code: N06AX21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1010/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1010/001/smpc

@@ -1,0 +1,7 @@
+short_name: Betahistine Sandoz
+active_substance: Betahistini dihydrochloridum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: S.C.Santa S.A., Romania
+atc_code: N07CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0040/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0040/smpc

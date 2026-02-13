@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003854
+Name of medicine: Strimvelis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: autologous CD34+ enriched cell fraction that contains CD34+ cells transduced with retroviral vector that encodes for the human ADA cDNA sequence
+Active substance: autologous CD34+ enriched cell fraction that contains CD34+ cells transduced with retroviral vector that encodes for the human adenosine deaminase (ADA) cDNA sequence from human haematopoietic stem/progenitor (CD34+) cells
+Therapeutic area (MeSH): Severe Combined Immunodeficiency
+ATC code (human): L03
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Strimvelis is indicated for the treatment of patients with severe combined immunodeficiency due to adenosine deaminase deficiency (ADA-SCID), for whom no suitable human leukocyte antigen (HLA)-matched related stem cell donor is available (see section 4.2 and section 4.4).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/strimvelis

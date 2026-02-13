@@ -1,0 +1,4 @@
+product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+10-0573-01	19030494	bromhexine 8 MG Oral Tablet	199439	EXACT	Changed from Bisolvon branded concept; Bisolvon is not the EMA product name		2026-02-12
+00-0092-01	19030495	bromhexine 0.8 MG/ML Oral Solution	246138	EXACT	4 mg/5 ml syrup = 0.8 mg/ml oral solution		2026-02-12
+00-0092-02	19030495	bromhexine 0.8 MG/ML Oral Solution	246138	EXACT	4 mg/5 ml syrup = 0.8 mg/ml oral solution; same drug different packaging as 00-0092-01		2026-02-12

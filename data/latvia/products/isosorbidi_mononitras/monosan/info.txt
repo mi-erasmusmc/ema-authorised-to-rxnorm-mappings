@@ -1,0 +1,7 @@
+short_name: Monosan
+active_substance: Isosorbidi mononitras
+marketing_authorisation_holder: PRO.MED.CS Praha a.s., Czech Republic
+manufacturer: PRO.MED.CS Praha a.s., Czech Republic
+atc_code: C01DA14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0451/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0451/smpc

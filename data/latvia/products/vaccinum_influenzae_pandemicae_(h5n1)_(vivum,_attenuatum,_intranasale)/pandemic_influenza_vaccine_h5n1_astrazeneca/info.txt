@@ -1,0 +1,7 @@
+short_name: Pandemic influenza vaccine H5N1 AstraZeneca
+active_substance: Vaccinum influenzae pandemicae (H5N1) (vivum, attenuatum, intranasale)
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: MedImmune, UK Limited, United Kingdom; AstraZeneca Nijmegen B.V., Netherlands
+atc_code: J07BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1089/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1089/001/smpc

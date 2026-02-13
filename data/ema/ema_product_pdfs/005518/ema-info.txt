@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005518
+Name of medicine: Zimbus Breezhaler
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: indacaterol;glycopyrronium;mometasone furoate
+Active substance: glycopyrronium bromide;Indacaterol (acetate);mometasone furoate
+Therapeutic area (MeSH): Asthma
+ATC code (human): R03AL
+Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
+Therapeutic indication: Maintenance treatment of asthma in adults whose disease is not adequately controlled.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zimbus-breezhaler

@@ -1,0 +1,7 @@
+short_name: Cejemly
+active_substance: Sugemalimabum
+marketing_authorisation_holder: CStone Pharmaceuticals Ireland Limited, Ireland
+manufacturer: Manufacturing Packaging Farmaca (MPF) B.V., Netherlands
+atc_code: L01FF11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1833/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1833/001/smpc

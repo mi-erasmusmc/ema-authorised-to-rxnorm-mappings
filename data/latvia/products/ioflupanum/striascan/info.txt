@@ -1,0 +1,7 @@
+short_name: STRIASCAN
+active_substance: Ioflupanum
+marketing_authorisation_holder: CIS bio international, France
+manufacturer: CIS bio international, France
+atc_code: V09AB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1372/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1372/001/smpc

@@ -1,0 +1,7 @@
+short_name: Ozempic
+active_substance: Semaglutidum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: A10BJ06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1251/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1251/002/smpc

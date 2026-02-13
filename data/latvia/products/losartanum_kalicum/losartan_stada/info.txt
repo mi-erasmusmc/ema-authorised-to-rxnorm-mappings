@@ -1,0 +1,7 @@
+short_name: Losartan Stada
+active_substance: Losartanum kalicum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Laboratorios Liconsa, S.A., Spain; Clonmel Healthcare Ltd., Ireland
+atc_code: C09CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0224/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0224/smpc

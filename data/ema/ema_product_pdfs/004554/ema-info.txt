@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004554
+Name of medicine: Ervebo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: Ebola Zaire vaccine (rVSV∆G-ZEBOV-GP, live)
+Active substance: recombinant vesicular stomatitis virus (strain indiana) with a deletion of the envelope glycoprotein, replaced with the zaire ebolavirus (strain kikwit 1995) surface glycoprotein
+Therapeutic area (MeSH): Hemorrhagic Fever, Ebola
+ATC code (human): 
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Ervebo is indicated for active immunization of individuals 1&nbsp;year&nbsp;of age or older to protect against Ebola Virus Disease (EVD) caused by Zaire Ebola virus. The use of Ervebo should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ervebo

@@ -1,0 +1,7 @@
+short_name: Hirobriz Breezhaler
+active_substance: Indacaterolum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany; Novartis Farmaceutica S.A., Spain
+atc_code: R03AC18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/594/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/594/001/smpc

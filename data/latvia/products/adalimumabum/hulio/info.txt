@@ -1,0 +1,7 @@
+short_name: Hulio
+active_substance: Adalimumabum
+marketing_authorisation_holder: Biosimilar Collaborations Ireland Limited, Ireland
+manufacturer: McDermott Laboratories Trading as Mylan Dublin Biologics, Ireland; Mylan Germany GmbH, Germany
+atc_code: L04AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1319/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1319/001/smpc

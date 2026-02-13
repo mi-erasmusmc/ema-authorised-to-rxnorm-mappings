@@ -1,0 +1,7 @@
+short_name: Vigantol Oel
+active_substance: Colecalciferolum
+marketing_authorisation_holder: P&G Health Germany GmbH, Germany
+manufacturer: Procter & Gamble Manufacturing GmbH, Germany; Lusomedicamenta Sociedade Tecnica Farmaceutica S.A., Portugal
+atc_code: A11CC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0828/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0828/smpc

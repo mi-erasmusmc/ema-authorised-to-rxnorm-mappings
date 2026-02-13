@@ -1,0 +1,7 @@
+short_name: Doxycyclin STADA
+active_substance: Doxycyclinum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany
+atc_code: J01AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0132/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0132/smpc

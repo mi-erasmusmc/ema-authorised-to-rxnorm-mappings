@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005520
+Name of medicine: Pylclari
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: piflufolastat (18F)
+Active substance: Piflufolastat (18F)
+Therapeutic area (MeSH): Prostatic Neoplasms
+ATC code (human): V09
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: This medicinal product is for diagnostic use only. Pylclari is indicated for the detection of prostate-specific membrane antigen (PSMA) positive lesions with positron emission tomography (PET) in adults with prostate cancer (PCa) in the following clinical settings:  Primary staging of patients with high-risk PCa prior to initial curative therapy, To localize recurrence of PCa in patients with a suspected recurrence based on increasing serum prostate-specific antigen (PSA) levels after primary treatment with curative intent.  Pylclari is indicated for use with positron emission tomography (PET).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pylclari

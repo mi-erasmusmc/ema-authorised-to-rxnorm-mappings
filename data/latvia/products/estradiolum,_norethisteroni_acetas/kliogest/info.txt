@@ -1,0 +1,7 @@
+short_name: Kliogest
+active_substance: Estradiolum, Norethisteroni acetas
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: G03FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0411/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0411/smpc

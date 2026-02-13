@@ -1,0 +1,7 @@
+short_name: Bortezomib TZF
+active_substance: Bortezomibum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: PharmIdea, SIA, Latvia
+atc_code: L01XG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0149/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0149/smpc

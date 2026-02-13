@@ -1,0 +1,7 @@
+short_name: Stoptussin
+active_substance: Butamirati dihydrogenocitras, Guaifenesinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: TEVA Czech Industries s.r.o., Czech Republic; Teva Operations Poland Sp.z o.o., Poland
+atc_code: R05FB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0048/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0048/smpc

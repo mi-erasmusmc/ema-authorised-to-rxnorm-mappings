@@ -1,0 +1,7 @@
+short_name: Ropivacaine B.Braun
+active_substance: Ropivacaini hydrochloridum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany; B.Braun Medical S.A., Spain
+atc_code: N01BB09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0603/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0603/smpc

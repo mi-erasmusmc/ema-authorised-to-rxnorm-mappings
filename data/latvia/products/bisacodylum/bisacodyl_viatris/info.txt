@@ -1,0 +1,7 @@
+short_name: Bisacodyl Viatris
+active_substance: Bisacodylum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: ICN Polfa Rzeszow S.A., Poland
+atc_code: A06AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0575/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0575/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002073
+Name of medicine: Rasilamlo
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: aliskiren hemifumarate;amlodipine besilate
+Active substance: aliskiren;amlodipine
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09XA53
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Rasilamlo is indicated for the treatment of essential hypertension in adult patients whose blood pressure is not adequately controlled with aliskiren or amlodipine used alone.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rasilamlo

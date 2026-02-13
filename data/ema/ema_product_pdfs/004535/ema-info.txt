@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004535
+Name of medicine: Spravato
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: esketamine
+Active substance: esketamine hydrochloride
+Therapeutic area (MeSH): Depressive Disorder
+ATC code (human): N06AX27
+Pharmacotherapeutic group (human): Other antidepressants
+Therapeutic indication: Spravato, in combination with a SSRI or SNRI, is indicated for adults with treatment-resistant Major Depressive Disorder, who have not responded to at least two different treatments with antidepressants in the current moderate to severe depressive episode.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spravato

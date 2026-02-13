@@ -1,0 +1,7 @@
+short_name: Nexpovio
+active_substance: Selinexorum
+marketing_authorisation_holder: Stemline Therapeutics B.V., Netherlands
+manufacturer: Berlin-Chemie AG, Germany; Stemline Therapeutics B.V., Netherlands
+atc_code: L01XX66
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1537/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1537/001/smpc

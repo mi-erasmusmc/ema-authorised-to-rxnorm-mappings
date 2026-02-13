@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000228
+Name of medicine: Zerene
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: zaleplon
+Active substance: zaleplon
+Therapeutic area (MeSH): Sleep Initiation and Maintenance Disorders
+ATC code (human): N05CF03
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Zerene is indicated for the treatment of patients with insomnia who have difficulty falling asleep. It is indicated only when the disorder is severe, disabling or subjecting the individual to extreme distress.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zerene

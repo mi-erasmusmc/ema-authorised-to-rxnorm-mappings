@@ -1,0 +1,7 @@
+short_name: Mulpleo
+active_substance: Lusutrombopagum
+marketing_authorisation_holder: Shionogi B.V., Netherlands
+manufacturer: Manufacturing Packaging Farmaca (MPF) B.V., Netherlands
+atc_code: B02BX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1348/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1348/001/smpc

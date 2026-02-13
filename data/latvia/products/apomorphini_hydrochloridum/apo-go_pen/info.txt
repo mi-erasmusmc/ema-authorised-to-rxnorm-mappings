@@ -1,0 +1,7 @@
+short_name: APO-go PEN
+active_substance: Apomorphini hydrochloridum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Laboratorie Aguettant, France
+atc_code: N04BC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0060/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0060/smpc

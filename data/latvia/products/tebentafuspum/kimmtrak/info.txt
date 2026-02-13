@@ -1,0 +1,7 @@
+short_name: KIMMTRAK
+active_substance: Tebentafuspum
+marketing_authorisation_holder: Immunocore Ireland Limited, Ireland
+manufacturer: Propharma Group The Netherlands B.V., Netherlands
+atc_code: L01XX75
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1630/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1630/001/smpc

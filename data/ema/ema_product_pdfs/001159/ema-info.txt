@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001159
+Name of medicine: Copalia HCT
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: amlodipine;valsartan;hydrochlorothiazide
+Active substance: amlodipine;valsartan;hydrochlorothiazide
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09DX01
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system;Angiotensin II antagonists and calcium channel blockers;Angiotensin II antagonists, combinations
+Therapeutic indication: Treatment of essential hypertension as substitution therapy in adult patients whose blood pressure is adequately controlled on the combination of amlodipine, valsartan and hydrochlorothiazide (HCT), taken either as three single-component formulations or as a dual-component and a single-component formulation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/copalia-hct

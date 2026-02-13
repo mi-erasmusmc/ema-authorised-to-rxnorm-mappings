@@ -1,0 +1,7 @@
+short_name: NovoThirteen
+active_substance: Catridecacogum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: B02BD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/775/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/775/001/smpc

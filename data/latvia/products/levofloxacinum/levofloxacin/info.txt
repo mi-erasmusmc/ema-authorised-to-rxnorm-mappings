@@ -1,0 +1,7 @@
+short_name: Levofloxacin
+active_substance: Levofloxacinum
+marketing_authorisation_holder: Unimed Pharma spol. s r.o., Slovakia
+manufacturer: Unimed Pharma spol. s r.o., Slovakia
+atc_code: S01AE05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0057/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0057/smpc

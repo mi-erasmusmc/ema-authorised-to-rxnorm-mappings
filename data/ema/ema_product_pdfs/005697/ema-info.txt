@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005697
+Name of medicine: Korjuny
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: catumaxomab
+Active substance: catumaxomab
+Therapeutic area (MeSH): Ascites
+ATC code (human): L01FX03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Korjuny is indicated for the intraperitoneal treatment of malignant ascites in adults with epithelial cellular adhesion molecule (EpCAM)-positive carcinomas, who are not eligible for further systemic anticancer therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/korjuny

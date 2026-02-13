@@ -1,0 +1,7 @@
+short_name: Xorox
+active_substance: Aciclovirum
+marketing_authorisation_holder: Agepha Pharma s.r.o., Slovakia
+manufacturer: Agepha Pharma s.r.o., Slovakia
+atc_code: S01AD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0070/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0070/smpc

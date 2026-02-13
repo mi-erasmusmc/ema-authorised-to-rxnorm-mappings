@@ -1,0 +1,7 @@
+short_name: Yescarta
+active_substance: Axicabtagenum ciloleucelum
+marketing_authorisation_holder: Kite Pharma EU B.V., Netherlands
+manufacturer: Kite Pharma EU B.V., Netherlands
+atc_code: L01XL03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1299/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1299/001/smpc

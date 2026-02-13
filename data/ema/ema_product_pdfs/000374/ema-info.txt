@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000374
+Name of medicine: Protopic
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tacrolimus
+Active substance: tacrolimus
+Therapeutic area (MeSH): Dermatitis, Atopic
+ATC code (human): D11AH01
+Pharmacotherapeutic group (human): Other dermatological preparations
+Therapeutic indication: Flare treatment Adults and adolescents (16 years of age and above) Treatment of moderate to severe atopic dermatitis in adults who are not adequately responsive to or are intolerant of conventional therapies such as topical corticosteroids. Children (two years of age and above) Treatment of moderate to severe atopic dermatitis in children (two years of age and above) who failed to respond adequately to conventional therapies such as topical corticosteroids. Maintenance treatment Maintenance treatment of moderate to severe atopic dermatitis for the prevention of flares and the prolongation of flare-free intervals in patients experiencing a high frequency of disease exacerbations (i.e. occurring four or more times per year) who have had an initial response to a maximum of six weeks treatment of twice daily tacrolimus ointment (lesions cleared, almost cleared or mildly affected).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/protopic

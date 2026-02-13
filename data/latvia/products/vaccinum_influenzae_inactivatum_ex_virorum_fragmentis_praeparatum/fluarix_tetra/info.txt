@@ -1,0 +1,7 @@
+short_name: Fluarix Tetra
+active_substance: Vaccinum influenzae inactivatum ex virorum fragmentis praeparatum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals, Branch of SmithKline Beecham Pharma GmbH & Co.KG, Germany
+atc_code: J07BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0098/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0098/smpc

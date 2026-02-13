@@ -1,0 +1,7 @@
+short_name: Zofistar
+active_substance: Zofenoprilum calcium
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: A. Menarini Manufacturing Logistic and Services s.r.l., Italy; Menarini-Von Heyden GmbH, Germany
+atc_code: C09AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0029/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0029/smpc

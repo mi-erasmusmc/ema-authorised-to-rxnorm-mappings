@@ -1,0 +1,7 @@
+short_name: Inhixa
+active_substance: Enoxaparinum natricum
+marketing_authorisation_holder: Techdow Pharma Netherlands B.V., Netherlands
+manufacturer: Health-Med spółka z ograniczoną odpowiedzialnością sp.k, Poland
+atc_code: B01AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1132/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1132/001/smpc

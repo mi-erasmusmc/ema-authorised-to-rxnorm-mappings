@@ -1,0 +1,7 @@
+short_name: Agarf
+active_substance: Nintedanibum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Pharmadox Healthcare Ltd., Malta; QualiMetrix SA, Greece; AdAlvo Limited, Malta
+atc_code: L01EX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0037/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0037/smpc

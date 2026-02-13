@@ -1,0 +1,8 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/20/1506/001	EMEA/H/C/004965	100 U/ml	Solution for injection	Subcutaneous use or intravenous use	vial (glass)	10 ml	1 vial	Kirsty
+EU/1/20/1506/002	EMEA/H/C/004965	100 U/ml	Solution for injection	Subcutaneous use or intravenous use	vial (glass)	10 ml	5 vials	Kirsty
+EU/1/20/1506/003	EMEA/H/C/004965	100 U/ml	Solution for injection	Subcutaneous use or intravenous use	vial (glass)	10 ml	5 (5 x 1) vials (multipack)	Kirsty
+EU/1/20/1506/004	EMEA/H/C/004965	100 U/ml	Solution for injection	Subcutaneous use or intravenous use	cartridge (glass) in pre-filled pen	3 ml	1 pre-filled pen	Kirsty
+EU/1/20/1506/005	EMEA/H/C/004965	100 U/ml	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen	3 ml	5 pre-filled pens	Kirsty
+EU/1/20/1506/006	EMEA/H/C/004965	100 U/ml	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen	3 ml	10 pre-filled pens	Kirsty
+EU/1/20/1506/007	EMEA/H/C/004965	100 U/ml	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen	3 ml	10 (2 x 5) pre-filled pens (multipack)	Kirsty

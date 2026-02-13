@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000372
+Name of medicine: Dynepo
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: epoetin delta
+Active substance: epoetin delta
+Therapeutic area (MeSH): Kidney Failure, Chronic;Anemia
+ATC code (human): B03XA
+Pharmacotherapeutic group (human): Antianemic preparations
+Therapeutic indication: Dynepo is indicated for the treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adult patients. It may be used in patients on dialysis and in patients not on dialysis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dynepo

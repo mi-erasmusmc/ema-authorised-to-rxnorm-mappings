@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003772
+Name of medicine: Zerbaxa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ceftolozane;tazobactam
+Active substance: ceftolozane sulfate;tazobactam sodium
+Therapeutic area (MeSH): Bacterial Infections
+ATC code (human): J01DI54
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Zerbaxa is indicated for the treatment of the following infections in adults:  Complicated intra abdominal infections; Acute pyelonephritis; Complicated urinary tract infections; Hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP).  Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zerbaxa

@@ -1,0 +1,7 @@
+short_name: Postinor
+active_substance: Levonorgestrelum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: G03AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0107/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0107/smpc

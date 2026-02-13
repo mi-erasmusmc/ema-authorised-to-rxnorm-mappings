@@ -1,0 +1,7 @@
+short_name: Dorzolamide Elvim
+active_substance: Dorzolamidum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Pharmathen S.A., Greece; Famar S.A. (Plant A), Greece
+atc_code: S01EC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0011/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0011/smpc

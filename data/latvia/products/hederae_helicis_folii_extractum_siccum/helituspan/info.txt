@@ -1,0 +1,7 @@
+short_name: Helituspan
+active_substance: Hederae helicis folii extractum siccum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: R05CA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0018/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0018/smpc

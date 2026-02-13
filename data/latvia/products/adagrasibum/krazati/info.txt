@@ -1,0 +1,7 @@
+short_name: Krazati
+active_substance: Adagrasibum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories T/A Bristol-Myers Squibb Pharmaceutical Operations, External Manufacturing, Ireland
+atc_code: L01XX77
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1744/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1744/001/smpc

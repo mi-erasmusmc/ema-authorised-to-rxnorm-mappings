@@ -1,0 +1,7 @@
+short_name: Lugola RFF
+active_substance: Iodum
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: A/S "Rīgas farmaceitiskā fabrika", Latvia
+atc_code: D08AG03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0100/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0100/smpc

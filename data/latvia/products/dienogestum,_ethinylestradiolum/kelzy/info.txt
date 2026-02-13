@@ -1,0 +1,7 @@
+short_name: Kelzy
+active_substance: Dienogestum, Ethinylestradiolum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: Laboratorios Leon Farma S.A., Spain
+atc_code: G03AA16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0103/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0103/smpc

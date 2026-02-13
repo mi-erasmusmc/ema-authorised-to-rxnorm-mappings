@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001224
+Name of medicine: Twynsta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: telmisartan;amlodipine
+Active substance: telmisartan;amlodipine
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09DB04
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of essential hypertension in adults: Add-on therapy Twynsta is indicated in adults whose blood pressure is not adequately controlled on amlodipine. Replacement therapy Adult patients receiving telmisartan and amlodipine from separate tablets can instead receive tablets of Twynsta containing the same component doses.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/twynsta

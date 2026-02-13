@@ -1,0 +1,7 @@
+short_name: Feraccru
+active_substance: Ferri maltolum
+marketing_authorisation_holder: Norgine B.V., Netherlands
+manufacturer: Patheon France, France; Piramal Healthcare UK Limited, United Kingdom
+atc_code: B03AB10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1075/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1075/001/smpc

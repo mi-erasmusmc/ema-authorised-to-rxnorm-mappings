@@ -1,0 +1,7 @@
+short_name: Tryngolza
+active_substance: Olezarsenum
+marketing_authorisation_holder: Swedish Orphan Biovitrum AB (publ), Sweden
+manufacturer: Ionis Ireland Limited, Ireland
+atc_code: C10AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1969/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1969/001/smpc

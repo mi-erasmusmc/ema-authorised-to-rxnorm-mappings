@@ -1,0 +1,7 @@
+short_name: Jox
+active_substance: Povidonum iodinatum, Allantoinum
+marketing_authorisation_holder: TEVA Czech Industries s.r.o., Czech Republic
+manufacturer: TEVA Czech Industries s.r.o., Czech Republic
+atc_code: R02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0095/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0095/smpc

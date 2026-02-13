@@ -1,0 +1,7 @@
+short_name: Jylamvo
+active_substance: Methotrexatum
+marketing_authorisation_holder: Oresund Pharma ApS, Denmark
+manufacturer: Quay Pharmaceuticals Limited, United Kingdom
+atc_code: L01BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1172/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1172/001/smpc

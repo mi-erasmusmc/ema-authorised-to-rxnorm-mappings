@@ -1,0 +1,7 @@
+short_name: Selincro
+active_substance: Nalmefenum
+marketing_authorisation_holder: H. Lundbeck A/S, Denmark
+manufacturer: H. Lundbeck A/S, Denmark; Elaiapharm - Valbonne, France
+atc_code: N07BB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/815/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/815/001/smpc

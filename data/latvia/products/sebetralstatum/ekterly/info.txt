@@ -1,0 +1,7 @@
+short_name: Ekterly
+active_substance: Sebetralstatum
+marketing_authorisation_holder: KalVista Pharmaceuticals (Ireland) Limited, Ireland
+manufacturer: Almac Pharma Services Limited, Northern Ireland
+atc_code: B06AC08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1975/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1975/001/smpc

@@ -1,0 +1,7 @@
+short_name: Integrilin
+active_substance: Eptifibatidum
+marketing_authorisation_holder: GlaxoSmithKline (Ireland) Limited, Ireland
+manufacturer: GlaxoSmithKline Manufacturing S.p.A., Italy
+atc_code: B01AC16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/109/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/109/001/smpc

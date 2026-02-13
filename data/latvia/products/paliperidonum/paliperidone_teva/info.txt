@@ -1,0 +1,7 @@
+short_name: Paliperidone Teva
+active_substance: Paliperidonum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Actavis Group PTC ehf., Iceland
+atc_code: N05AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0116/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0116/smpc

@@ -1,0 +1,7 @@
+short_name: Skyclarys
+active_substance: Omaveloxolonum
+marketing_authorisation_holder: Biogen Netherlands B.V., Netherlands
+manufacturer: Biogen Netherlands B.V., Netherlands; Reata Ireland Limited, Ireland
+atc_code: N07XX25
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1786/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1786/001/smpc

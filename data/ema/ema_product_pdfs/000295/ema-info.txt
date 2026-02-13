@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000295
+Name of medicine: Infanrix Penta
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa), hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) vaccine (adsorbed)
+Active substance: Diphtheria toxoid;tetanus toxoid;Bordetella pertussis antigens (pertussis toxoid, filamentous haemagglutinin, pertactin);poliovirus (inactivated) (type 1 (Mahoney strain), type 2 (MEF-1 strain), type 3 (Saukett strain));hepatitis B surface antigen
+Therapeutic area (MeSH): Hepatitis B;Tetanus;Immunization;Whooping Cough;Poliomyelitis;Diphtheria
+ATC code (human): J07CA12
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Infanrix Penta is indicated for primary and booster vaccination of infants against diphtheria, tetanus, pertussis, hepatitis B and poliomyelitis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-penta

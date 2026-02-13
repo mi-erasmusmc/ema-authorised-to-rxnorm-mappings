@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005167
+Name of medicine: Dovprela (previously Pretomanid FGK)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pretomanid
+Active substance: pretomanid
+Therapeutic area (MeSH): Tuberculosis, Multidrug-Resistant
+ATC code (human): J04
+Pharmacotherapeutic group (human): Antimycobacterials
+Therapeutic indication: Dovprela is indicated in combination with bedaquiline and linezolid, in adults, for the treatment of pulmonary extensively drug resistant (XDR), or treatment-intolerant or nonresponsive multidrug-resistant (MDR) tuberculosis (TB). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dovprela

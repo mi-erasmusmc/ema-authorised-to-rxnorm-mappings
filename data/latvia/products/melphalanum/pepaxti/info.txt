@@ -1,0 +1,7 @@
+short_name: Pepaxti
+active_substance: Melphalanum
+marketing_authorisation_holder: Oncopeptides AB, Sweden
+manufacturer: Eumedica N.V., Belgium
+atc_code: L01AA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1669/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1669/001/smpc

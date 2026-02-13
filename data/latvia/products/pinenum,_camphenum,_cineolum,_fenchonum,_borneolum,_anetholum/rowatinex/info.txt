@@ -1,0 +1,7 @@
+short_name: Rowatinex
+active_substance: Pinenum, Camphenum, Cineolum, Fenchonum, Borneolum, Anetholum
+marketing_authorisation_holder: Rowa Pharmaceuticals Ltd, Ireland
+manufacturer: Rowa Pharmaceuticals Ltd, Ireland
+atc_code: G04BC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0020/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0020/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005269
+Name of medicine: Kaftrio
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ivacaftor;tezacaftor;elexacaftor
+Active substance: ivacaftor;tezacaftor;elexacaftor
+Therapeutic area (MeSH): Cystic Fibrosis
+ATC code (human): R07AX32
+Pharmacotherapeutic group (human): Other respiratory system products
+Therapeutic indication: Kaftrio tablets are indicated in a combination regimen with ivacaftor for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who have at least one non-Class I mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene. Kaftrio granules are indicated in a combination regimen with ivacaftor for the treatment of cystic fibrosis (CF) in paediatric patients aged 2 to less than 6 years who have at least one non-Class I mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kaftrio

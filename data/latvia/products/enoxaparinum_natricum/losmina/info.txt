@@ -1,0 +1,7 @@
+short_name: Losmina
+active_substance: Enoxaparinum natricum
+marketing_authorisation_holder: LABORATORIOS FARMACEUTICOS ROVI, S.A., Spain
+manufacturer: ROVI Pharma Industrial Services, S.A., Spain
+atc_code: B01AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0112/smpc

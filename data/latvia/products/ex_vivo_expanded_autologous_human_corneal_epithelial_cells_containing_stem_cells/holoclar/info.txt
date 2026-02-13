@@ -1,0 +1,7 @@
+short_name: Holoclar
+active_substance: Ex vivo expanded autologous human corneal epithelial cells containing stem cells
+marketing_authorisation_holder: Holostem S.r.l., Italy
+manufacturer: Holostem Terapie Avanzate S.R.L., Italy
+atc_code: S01XA19
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/987/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/987/001/smpc

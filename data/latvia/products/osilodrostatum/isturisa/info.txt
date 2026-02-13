@@ -1,0 +1,7 @@
+short_name: Isturisa
+active_substance: Osilodrostatum
+marketing_authorisation_holder: Recordati Rare Diseases, France
+manufacturer: Novartis Pharma GmbH, Germany; Recordati Rare Diseases, France; Recordati Rare Diseases, France
+atc_code: H02CA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1407/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1407/001/smpc

@@ -1,0 +1,7 @@
+short_name: Melphalan Tillomed
+active_substance: Melphalanum
+marketing_authorisation_holder: Tillomed Pharma GmbH, Germany
+manufacturer: SGS Pharma Magyarorszag Kft., Hungary; Tillomed Malta Limited, Malta
+atc_code: L01AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0073/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0073/smpc

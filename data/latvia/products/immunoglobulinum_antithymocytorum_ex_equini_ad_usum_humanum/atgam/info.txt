@@ -1,0 +1,7 @@
+short_name: Atgam
+active_substance: Immunoglobulinum antithymocytorum ex equini ad usum humanum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Service Company BV, Belgium
+atc_code: L04AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0004/smpc

@@ -1,0 +1,7 @@
+short_name: Stivarga
+active_substance: Regorafenibum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: L01EX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/858/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/858/001/smpc

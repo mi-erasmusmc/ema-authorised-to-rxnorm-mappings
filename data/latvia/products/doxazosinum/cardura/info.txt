@@ -1,0 +1,7 @@
+short_name: Cardura
+active_substance: Doxazosinum
+marketing_authorisation_holder: Upjohn EESV, Netherlands
+manufacturer: Pfizer Manufacturing Deutschland GmbH, Germany
+atc_code: C02CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0173/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0173/smpc

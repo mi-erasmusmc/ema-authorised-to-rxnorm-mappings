@@ -1,0 +1,7 @@
+short_name: Kventiax
+active_substance: Quetiapinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; KRKA-FARMA d.o.o., Croatia
+atc_code: N05AH04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0229/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0229/smpc

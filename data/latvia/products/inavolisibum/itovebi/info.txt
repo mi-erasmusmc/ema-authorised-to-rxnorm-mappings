@@ -1,0 +1,7 @@
+short_name: Itovebi
+active_substance: Inavolisibum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: Nav_piešķirts
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1942/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1942/001/smpc

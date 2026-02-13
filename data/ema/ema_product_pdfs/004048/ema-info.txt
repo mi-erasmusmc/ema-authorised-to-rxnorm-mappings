@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004048
+Name of medicine: Atazanavir Viatris (previously Atazanavir Mylan)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: atazanavir
+Active substance: atazanavir (as sulfate)
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AE08
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Atazanavir Viatris, co-administered with low dose ritonavir, is indicated for the treatment of HIV 1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products.Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (≥ 4 PI mutations). There are very limited data available from children aged 6 to less than 18 years.&nbsp;The choice of Atazanavir&nbsp; Viatrisin treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/atazanavir-mylan

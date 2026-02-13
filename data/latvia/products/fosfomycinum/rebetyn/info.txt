@@ -1,0 +1,7 @@
+short_name: Rebetyn
+active_substance: Fosfomycinum
+marketing_authorisation_holder: Vigapharma S.r.l., Italy
+manufacturer: ITC Production S.r.l., Italy
+atc_code: J01XX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0104/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0104/smpc

@@ -1,0 +1,7 @@
+short_name: Protopic
+active_substance: Tacrolimusum
+marketing_authorisation_holder: LEO Pharma A/S, Denmark
+manufacturer: Astellas Ireland Co., Ltd., Ireland; LEO Laboratories Ltd., Ireland
+atc_code: D11AH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/201/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/201/001/smpc

@@ -1,0 +1,7 @@
+short_name: Ezetimibe/Atorvastatin Olpha
+active_substance: Ezetimibum, Atorvastatinum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Pharmadox Healthcare Ltd., Malta; Delorbis Pharmaceuticals Ltd, Cyprus
+atc_code: C10BA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0003/smpc

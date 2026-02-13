@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005642
+Name of medicine: Vabysmo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: faricimab
+Active substance: Faricimab
+Therapeutic area (MeSH): Wet Macular Degeneration;Macular Edema;Diabetes Complications
+ATC code (human): S01L
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Vabysmo is indicated for the treatment of adult patients with:  neovascular (wet) age-related macular degeneration (nAMD), visual impairment due to diabetic macular oedema (DME), visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vabysmo

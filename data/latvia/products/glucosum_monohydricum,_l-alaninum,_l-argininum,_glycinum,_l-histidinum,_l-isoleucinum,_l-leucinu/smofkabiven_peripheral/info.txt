@@ -1,0 +1,7 @@
+short_name: SmofKabiven Peripheral
+active_substance: Glucosum monohydricum, L-Alaninum, L-Argininum, Glycinum, L-Histidinum, L-Isoleucinum, L-Leucinum, L-Lysinum, L-Methioninum, L-Phenylalaninum, L-Prolinum, L-Serinum, Taurinum, L-Threoninum, L-Tryptophanum, L-Tyrosinum, L-Valinum, Calcii chloridum dihydricum, Natrii glycerophosphas, Magnesii sulfas heptahydricus, Kalii chloridum, Natrii acetas trihydricus, Zinci sulfas, Soiae oleum raffinatum, Triglycerida media, Olivae oleum raffinatum, Piscis oleum omega-3 acidis abundans
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi AB, Sweden; Fresenius Kabi Austria GmbH, Austria
+atc_code: B05BA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0020/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0020/smpc

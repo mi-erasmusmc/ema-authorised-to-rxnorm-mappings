@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000560
+Name of medicine: Protelos
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: strontium ranelate
+Active substance: strontium ranelate
+Therapeutic area (MeSH): Osteoporosis, Postmenopausal
+ATC code (human): M05BX03
+Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
+Therapeutic indication: Treatment of severe osteoporosis in postmenopausal women at high risk for fracture to reduce the risk of vertebral and hip fractures. Treatment of severe osteoporosis in adult men at increased risk of fracture. The decision to prescribe strontium ranelate should be based on an assessment of the individual patient's overall risks.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/protelos

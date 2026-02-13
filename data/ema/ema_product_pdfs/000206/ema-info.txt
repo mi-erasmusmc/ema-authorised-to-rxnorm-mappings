@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000206
+Name of medicine: Beromun
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tasonermin
+Active substance: tasonermin
+Therapeutic area (MeSH): Sarcoma
+ATC code (human): L03AX11
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Beromun is indicated in adults as an adjunct to surgery for subsequent removal of the tumour so as to prevent or delay amputation, or in the palliative situation, for irresectable soft-tissue sarcoma of the limbs, used in combination with melphalan via mild hyperthermic isolated-limb perfusion (ILP).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/beromun

@@ -1,0 +1,7 @@
+short_name: Orphacol
+active_substance: Acidum cholicum
+marketing_authorisation_holder: Laboratoire CTRS, France
+manufacturer: Laboratoire CTRS, France
+atc_code: A05AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/870/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/870/001/smpc

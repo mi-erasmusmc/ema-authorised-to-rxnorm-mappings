@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006177
+Name of medicine: Siiltibcy
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: Mycobacterium tuberculosis derived antigens (rdESAT-6 / rCFP-10)
+Active substance: Mycobacterium tuberculosis derived antigens (rdESAT‑6 and rCFP‑10)
+Therapeutic area (MeSH): Tuberculosis;Diagnosis
+ATC code (human): V04CF
+Pharmacotherapeutic group (human): Tuberculosis diagnostics
+Therapeutic indication: Diagnosis of infection with Mycobacterium tuberculosis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/siiltibcy

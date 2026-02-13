@@ -1,0 +1,7 @@
+short_name: Mymox
+active_substance: Amoxicillinum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: SIA Unifarma, Latvia
+atc_code: J01CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0431/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0431/smpc

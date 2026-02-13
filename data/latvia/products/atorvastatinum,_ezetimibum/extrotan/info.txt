@@ -1,0 +1,7 @@
+short_name: Extrotan
+active_substance: Atorvastatinum, Ezetimibum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Egis Pharmaceuticals PLC, Hungary; Egis Pharmaceuticals PLC, Hungary
+atc_code: C10BA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0136/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0136/smpc

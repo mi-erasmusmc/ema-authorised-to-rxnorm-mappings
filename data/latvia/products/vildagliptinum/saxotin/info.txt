@@ -1,0 +1,7 @@
+short_name: Saxotin
+active_substance: Vildagliptinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Novartis Pharma GmbH, Germany; Salutas Pharma GmbH, Germany; Novartis Pharmaceutical Manufacturing LLC, Slovenia
+atc_code: A10BH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0104/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0104/smpc

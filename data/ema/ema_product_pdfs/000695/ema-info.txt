@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000695
+Name of medicine: Circadin
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: melatonin
+Active substance: melatonin
+Therapeutic area (MeSH): Sleep Initiation and Maintenance Disorders
+ATC code (human): N05CH01
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Circadin is indicated as monotherapy for the short-term treatment of primary insomnia characterised by poor quality of sleep in patients who are aged 55 or over.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/circadin

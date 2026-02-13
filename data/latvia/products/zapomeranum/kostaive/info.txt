@@ -1,0 +1,7 @@
+short_name: Kostaive
+active_substance: Zapomeranum
+marketing_authorisation_holder: Seqirus Netherlands B.V., Netherlands
+manufacturer: MIAS Pharma Limited, Ireland
+atc_code: J07BN01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1873/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1873/001/smpc

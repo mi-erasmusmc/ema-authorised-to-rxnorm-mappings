@@ -1,0 +1,7 @@
+short_name: Lusopress
+active_substance: Nitrendipinum
+marketing_authorisation_holder: Istituto Luso Farmaco d`Italia S.p.A., Italy
+manufacturer: Berlin-Chemie AG, Germany
+atc_code: C08CA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0654/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0654/smpc

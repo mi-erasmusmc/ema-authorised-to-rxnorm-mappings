@@ -1,0 +1,13 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/14/956/001	EMEA/H/C/002825	0.75 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (1.5 mg/ml)	2 pre-filled pens	Trulicity
+EU/1/14/956/002	EMEA/H/C/002825	0.75 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (1.5 mg/ml)	4 pre-filled pens	Trulicity
+EU/1/14/956/003	EMEA/H/C/002825	0.75 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (1.5 mg/ml)	12 (3 x 4) pre-filled pens (multipack)	Trulicity
+EU/1/14/956/006	EMEA/H/C/002825	1.5 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (3 mg/ml)	2 pre-filled pens	Trulicity
+EU/1/14/956/007	EMEA/H/C/002825	1.5 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (3 mg/ml)	4 pre-filled pens	Trulicity
+EU/1/14/956/008	EMEA/H/C/002825	1.5 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (3 mg/ml)	12 (3 x 4) pre-filled pens (multipack)	Trulicity
+EU/1/14/956/011	EMEA/H/C/002825	3 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (6 mg/ml)	2 pre-filled pens	Trulicity
+EU/1/14/956/012	EMEA/H/C/002825	3 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (6 mg/ml)	4 pre-filled pens	Trulicity
+EU/1/14/956/013	EMEA/H/C/002825	3 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (6 mg/ml)	12 (3 x 4) pre-filled pens (multipack)	Trulicity
+EU/1/14/956/014	EMEA/H/C/002825	4.5 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (9 mg/ml)	2 pre-filled pens	Trulicity
+EU/1/14/956/015	EMEA/H/C/002825	4.5 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (9 mg/ml)	4 pre-filled pens	Trulicity
+EU/1/14/956/016	EMEA/H/C/002825	4.5 mg	Solution for injection	Subcutaneous use	syringe (glass) in pre-filled pen	0.5 ml (9 mg/ml)	12 (3 x 4) pre-filled pens (multipack)	Trulicity

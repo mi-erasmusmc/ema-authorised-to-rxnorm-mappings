@@ -1,0 +1,7 @@
+short_name: Azalia
+active_substance: Desogestrelum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: G03AC09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0378/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0378/smpc

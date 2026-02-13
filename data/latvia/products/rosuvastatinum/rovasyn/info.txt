@@ -1,0 +1,7 @@
+short_name: Rovasyn
+active_substance: Rosuvastatinum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus; Medochemie Ltd., Central Factory, Cyprus
+atc_code: C10AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0285/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0285/smpc

@@ -1,0 +1,7 @@
+short_name: Fingolimod Stada
+active_substance: Fingolimodum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Haupt Pharma Amareg GmbH, Germany; Centrafarm Services B.V., Netherlands; Clonmel Healthcare Ltd., Ireland
+atc_code: L04AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0080/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0080/smpc

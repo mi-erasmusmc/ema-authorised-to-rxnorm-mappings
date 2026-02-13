@@ -1,0 +1,7 @@
+short_name: Diane-35
+active_substance: Ethinylestradiolum, Cyproteroni acetas
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: G03HB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001730/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001730/smpc

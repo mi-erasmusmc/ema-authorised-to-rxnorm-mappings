@@ -1,0 +1,7 @@
+short_name: Prestozek
+active_substance: Tert-butylamini perindoprilum, Amlodipinum
+marketing_authorisation_holder: Adamed Pharma S.A., Poland
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Adamed Pharma S.A., Poland
+atc_code: C09BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0162/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0162/smpc

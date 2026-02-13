@@ -1,0 +1,7 @@
+short_name: Segosana
+active_substance: Oseltamivirum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmadox Healthcare Ltd., Malta
+atc_code: J05AH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0119/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0119/smpc

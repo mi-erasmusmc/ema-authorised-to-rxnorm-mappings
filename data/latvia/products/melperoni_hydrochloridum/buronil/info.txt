@@ -1,0 +1,7 @@
+short_name: Buronil
+active_substance: Melperoni hydrochloridum
+marketing_authorisation_holder: EQL Pharma AB, Sweden
+manufacturer: Cederroth Paramedical A/S, Denmark
+atc_code: N05AD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0342/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0342/smpc

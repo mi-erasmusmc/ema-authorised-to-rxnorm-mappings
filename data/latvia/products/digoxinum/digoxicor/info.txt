@@ -1,0 +1,7 @@
+short_name: Digoxicor
+active_substance: Digoxinum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: C01AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0526/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0526/smpc

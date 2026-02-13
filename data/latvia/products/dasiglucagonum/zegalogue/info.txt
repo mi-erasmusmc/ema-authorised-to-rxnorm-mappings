@@ -1,0 +1,7 @@
+short_name: Zegalogue
+active_substance: Dasiglucagonum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: H04AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1829/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1829/001/smpc

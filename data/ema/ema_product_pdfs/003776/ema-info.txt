@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003776
+Name of medicine: Fexeric
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: ferric citrate coordination complex
+Active substance: ferric citrate coordination complex
+Therapeutic area (MeSH): Hyperphosphatemia;Renal Dialysis
+ATC code (human): V03AE
+Pharmacotherapeutic group (human): 
+Therapeutic indication: Fexeric is indicated for the control of hyperphosphataemia in adult patients with chronic kidney disease (CKD).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fexeric

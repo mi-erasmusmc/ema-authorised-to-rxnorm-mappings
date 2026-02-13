@@ -1,0 +1,7 @@
+short_name: Efferalgan C
+active_substance: Paracetamolum, Acidum ascorbicum
+marketing_authorisation_holder: UPSA SAS, France
+manufacturer: UPSA SAS, France; UPSA SAS, France
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0237/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0237/smpc

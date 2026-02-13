@@ -1,0 +1,7 @@
+short_name: Stilnox
+active_substance: Zolpidemi tartras
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi Winthrop Industrie, France
+atc_code: N05CF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-1021/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-1021/smpc

@@ -1,0 +1,7 @@
+short_name: Rizmoic
+active_substance: Naldemedinum
+marketing_authorisation_holder: Shionogi B.V., Netherlands
+manufacturer: Shionogi B.V., Netherlands
+atc_code: A06AH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1291/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1291/001/smpc

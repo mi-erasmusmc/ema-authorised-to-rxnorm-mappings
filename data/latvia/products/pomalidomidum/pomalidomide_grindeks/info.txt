@@ -1,0 +1,7 @@
+short_name: Pomalidomide Grindeks
+active_substance: Pomalidomidum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: L04AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0315/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0315/smpc

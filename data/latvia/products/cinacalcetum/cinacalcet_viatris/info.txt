@@ -1,0 +1,7 @@
+short_name: Cinacalcet Viatris
+active_substance: Cinacalcetum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: McDermott Laboratories Ltd, Ireland; Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: H05BX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1054/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1054/001/smpc

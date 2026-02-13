@@ -1,0 +1,7 @@
+short_name: Dicynone
+active_substance: Etamsylatum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Lek Pharmaceuticals d.d., Slovenia
+atc_code: B02BX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0094/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0094/smpc

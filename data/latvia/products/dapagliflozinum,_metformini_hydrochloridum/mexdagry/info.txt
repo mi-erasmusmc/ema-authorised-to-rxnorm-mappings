@@ -1,0 +1,7 @@
+short_name: Mexdagry
+active_substance: Dapagliflozinum, Metformini hydrochloridum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: A10BD15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0180/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0180/smpc

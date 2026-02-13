@@ -1,0 +1,7 @@
+short_name: Actilyse
+active_substance: Alteplasum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Boehringer Ingelheim France, France
+atc_code: B01AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0192/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0192/smpc

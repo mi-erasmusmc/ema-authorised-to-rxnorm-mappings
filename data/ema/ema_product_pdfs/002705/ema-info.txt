@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002705
+Name of medicine: Velphoro
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sucroferric oxyhydroxide
+Active substance: sucroferric oxyhydroxide
+Therapeutic area (MeSH): Hyperphosphatemia;Renal Dialysis
+ATC code (human): V03AE05
+Pharmacotherapeutic group (human): Drugs for treatment of hyperkalemia and hyperphosphatemia
+Therapeutic indication: Velphoro is indicated for the control of serum phosphorus levels in adult chronic kidney disease (CKD) patients on haemodialysis (HD) or peritoneal dialysis (PD). Velphoro is indicated for the control of serum phosphorus levels in paediatric patients 2 years of age and older with CKD stages 4-5 (defined by a glomerular filtration rate &lt;30 mL/min/1.73 m²) or with CKD on dialysis. Velphoro should be used within the context of a multiple therapeutic approach, which could include calcium supplement, 1,25-dihydroxy vitamin D3 or one of its analogues, or calcimimetics to control the development of renal bone disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/velphoro

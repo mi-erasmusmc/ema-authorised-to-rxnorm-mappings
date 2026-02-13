@@ -1,0 +1,7 @@
+short_name: Camilia
+active_substance: Matricaria chamomilla, Phytolacca decandra, Rheum
+marketing_authorisation_holder: Boiron, France
+manufacturer: Boiron, France
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0128/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0128/smpc

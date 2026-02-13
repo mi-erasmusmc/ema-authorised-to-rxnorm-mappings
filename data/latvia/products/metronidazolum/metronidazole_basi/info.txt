@@ -1,0 +1,7 @@
+short_name: Metronidazole Basi
+active_substance: Metronidazolum
+marketing_authorisation_holder: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+manufacturer: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+atc_code: J01XD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0162/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0162/smpc

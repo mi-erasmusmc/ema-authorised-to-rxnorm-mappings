@@ -1,0 +1,7 @@
+short_name: Xenleta
+active_substance: Lefamulinum
+marketing_authorisation_holder: Venipharm SAS, France
+manufacturer: Nabriva Therapeutics Ireland DAC, Ireland
+atc_code: J01XX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1457/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1457/001/smpc

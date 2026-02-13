@@ -1,0 +1,7 @@
+short_name: Dentocaine
+active_substance: Articaini hydrochloridum, Epinephrini tartras
+marketing_authorisation_holder: Laboratorios Inibsa, S.A., Spain
+manufacturer: Laboratorios INIBSA, S.A., Spain
+atc_code: N01BB58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0361/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0361/smpc

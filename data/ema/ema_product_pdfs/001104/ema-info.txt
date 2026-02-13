@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001104
+Name of medicine: Prevenar 13
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pneumococcal polysaccharide conjugate vaccine (13-valent, adsorbed)
+Active substance: Pneumococcal polysaccharide serotype 1;Pneumococcal polysaccharide serotype 3;Pneumococcal polysaccharide serotype 4;Pneumococcal polysaccharide serotype 5;Pneumococcal polysaccharide serotype 6A;Pneumococcal polysaccharide serotype 6B;Pneumococcal polysaccharide serotype 7F;Pneumococcal polysaccharide serotype 9V;Pneumococcal polysaccharide serotype 14;Pneumococcal polysaccharide serotype 18C;Pneumococcal polysaccharide serotype 19A;Pneumococcal polysaccharide serotype 19F;Pneumococcal polysaccharide serotype 23F
+Therapeutic area (MeSH): Pneumococcal Infections;Immunization
+ATC code (human): J07AL02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Active immunisation for the prevention of invasive disease, pneumonia and acute otitis media caused by Streptococcus pneumoniae in infants, children and adolescents from 6 weeks to 17 years of age. Active immunisation for the prevention of invasive disease caused by Streptococcus pneumoniae in adults ?18 years of age and the elderly. See sections 4.4 and 5.1 for information on protection against specific pneumococcal serotypes. The use of Prevenar 13 should be determined on the basis of official recommendations taking into consideration the risk of invasive disease in different age groups, underlying comorbidities as well as the variability of serotype epidemiology in different geographical areas.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/prevenar-13

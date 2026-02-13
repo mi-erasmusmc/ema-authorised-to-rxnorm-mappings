@@ -1,0 +1,7 @@
+short_name: Milgamma N Injekt
+active_substance: Pyridoxini hydrochloridum, Thiamini hydrochloridum, Cyanocobalaminum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Solupharm Pharmazeutische Erzeugnisse GmbH, Germany
+atc_code: A11DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0934/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0934/smpc

@@ -1,0 +1,7 @@
+short_name: Ceprotin
+active_substance: Proteinum C humanum
+marketing_authorisation_holder: Takeda Manufacturing Austria AG, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B01AD12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/190/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/190/001/smpc

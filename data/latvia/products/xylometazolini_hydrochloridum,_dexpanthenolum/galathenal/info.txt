@@ -1,0 +1,7 @@
+short_name: Galathenal
+active_substance: Xylometazolini hydrochloridum, Dexpanthenolum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: R01AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0045/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0045/smpc

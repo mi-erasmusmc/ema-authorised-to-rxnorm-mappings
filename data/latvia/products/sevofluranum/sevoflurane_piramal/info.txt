@@ -1,0 +1,7 @@
+short_name: Sevoflurane Piramal
+active_substance: Sevofluranum
+marketing_authorisation_holder: Piramal Critical Care B.V., Netherlands
+manufacturer: Piramal Critical Care B.V., Netherlands
+atc_code: N01AB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0385/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0385/smpc

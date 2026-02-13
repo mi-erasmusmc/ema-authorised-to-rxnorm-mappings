@@ -1,0 +1,7 @@
+short_name: Synjardy
+active_substance: Empagliflozinum, Metformini hydrochloridum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Patheon France, France; Boehringer Ingelheim France, France; Boehringer Ingelheim Hellas Single Member S.A., Greece
+atc_code: A10BD20
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1003/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1003/001/smpc

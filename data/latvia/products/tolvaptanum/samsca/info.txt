@@ -1,0 +1,7 @@
+short_name: Samsca
+active_substance: Tolvaptanum
+marketing_authorisation_holder: Otsuka Pharmaceutical Netherlands B.V., Netherlands
+manufacturer: Brecon Pharmaceuticals Ltd, United Kingdom; Millmount Healthcare Ltd., Ireland
+atc_code: C03XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/539/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/539/001/smpc

@@ -1,0 +1,7 @@
+short_name: Fortacin
+active_substance: Lidocainum, Prilocainum
+marketing_authorisation_holder: Recordati Ireland Limited, Ireland
+manufacturer: Recordati Industria Chimica e Farmaceutica S.p.A., Italy; Pharmaserve (North West) Ltd., United Kingdom
+atc_code: N01BB20
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/881/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/881/001/smpc

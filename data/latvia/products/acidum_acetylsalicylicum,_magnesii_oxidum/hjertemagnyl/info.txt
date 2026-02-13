@@ -1,0 +1,7 @@
+short_name: Hjertemagnyl
+active_substance: Acidum acetylsalicylicum, Magnesii oxidum
+marketing_authorisation_holder: Orifarm Healthcare A/S, Denmark
+manufacturer: Takeda GmbH, Germany
+atc_code: B01AC30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0414/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0414/smpc

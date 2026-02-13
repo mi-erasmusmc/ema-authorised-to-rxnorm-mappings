@@ -1,0 +1,7 @@
+short_name: Nintedanib
+active_substance: Nintedanibum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; Pharmadox Healthcare Ltd., Malta; QualiMetrix SA, Greece; AdAlvo Limited, Malta; Centrafarm Services B.V., Netherlands; Stada Arzneimittel AG, Germany
+atc_code: L01EX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0052/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0052/smpc

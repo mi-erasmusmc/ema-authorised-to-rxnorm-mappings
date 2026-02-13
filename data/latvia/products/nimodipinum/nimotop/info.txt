@@ -1,0 +1,7 @@
+short_name: Nimotop
+active_substance: Nimodipinum
+marketing_authorisation_holder: Laboratoire X.O, France
+manufacturer: Haupt Pharma Münster GmbH, Germany; Bayer AG, Germany
+atc_code: C08CA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1164/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1164/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000190
+Name of medicine: Combivir
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lamivudine;zidovudine
+Active substance: lamivudine;zidovudine
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR01
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Combivir is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/combivir

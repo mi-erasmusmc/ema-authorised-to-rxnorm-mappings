@@ -1,0 +1,7 @@
+short_name: Fixopost
+active_substance: Latanoprostum, Timololum
+marketing_authorisation_holder: Laboratoires THEA, France
+manufacturer: Laboratoires THEA, France; Excelvision, France
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0097/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0097/smpc

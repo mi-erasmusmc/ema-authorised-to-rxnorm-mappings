@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000273
+Name of medicine: Rapamune
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sirolimus
+Active substance: sirolimus
+Therapeutic area (MeSH): Graft Rejection;Kidney Transplantation
+ATC code (human): L04AH01
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Rapamune is indicated for the prophylaxis of organ rejection in adult patients at low to moderate immunological risk receiving a renal transplant. It is recommended that Rapamune be used initially in combination with ciclosporin microemulsion and corticosteroids for 2 to 3 months. Rapamune may be continued as maintenance therapy with corticosteroids only if ciclosporin microemulsion can be progressively discontinued. Rapamune is indicated for the treatment of patients with sporadic lymphangioleiomyomatosis with moderate lung disease or declining lung function.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rapamune

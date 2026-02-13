@@ -1,0 +1,7 @@
+short_name: Mitomycin medac
+active_substance: Mitomycinum
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+atc_code: L01DC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0012/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0012/smpc

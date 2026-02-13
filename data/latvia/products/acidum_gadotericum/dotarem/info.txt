@@ -1,0 +1,7 @@
+short_name: Dotarem
+active_substance: Acidum gadotericum
+marketing_authorisation_holder: Guerbet SA, France
+manufacturer: Guerbet SA, France
+atc_code: V08CA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0081/smpc

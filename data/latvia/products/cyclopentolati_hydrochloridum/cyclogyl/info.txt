@@ -1,0 +1,7 @@
+short_name: Cyclogyl
+active_substance: Cyclopentolati hydrochloridum
+marketing_authorisation_holder: Alcon Farmaceutika d.o.o., Croatia
+manufacturer: S.A. Alcon-Couvreur N.V., Belgium; Alcon Laboratories Belgium BVBA, Belgium
+atc_code: S01FA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001573/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001573/smpc

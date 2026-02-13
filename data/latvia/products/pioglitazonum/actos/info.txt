@@ -1,0 +1,7 @@
+short_name: Actos
+active_substance: Pioglitazonum
+marketing_authorisation_holder: Cheplapharm Arzneimittel GmbH, Germany
+manufacturer: Lilly S.A., Spain; Takeda Ireland Ltd., Ireland
+atc_code: A10BG03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/150/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/150/001/smpc

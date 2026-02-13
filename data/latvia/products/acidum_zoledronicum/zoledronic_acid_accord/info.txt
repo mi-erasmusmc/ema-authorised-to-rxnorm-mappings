@@ -1,0 +1,7 @@
+short_name: Zoledronic Acid Accord
+active_substance: Acidum zoledronicum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: M05BA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/834/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/834/001/smpc

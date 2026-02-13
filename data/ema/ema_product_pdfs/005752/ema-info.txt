@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005752
+Name of medicine: Tyruko
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: natalizumab
+Active substance: natalizumab
+Therapeutic area (MeSH): Multiple Sclerosis, Relapsing-Remitting;Multiple Sclerosis
+ATC code (human): L04AG03
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Tyruko is indicated as single disease modifying therapy in adults with highly active relapsing remitting multiple sclerosis (RRMS) for the following patient groups: Patients with highly active disease despite a full and adequate course of treatment with at least one disease modifying therapy (DMT) (for exceptions and information about washout periods see sections 4.4 and 5.1) or Patients with rapidly evolving severe RRMS defined by 2 or more disabling relapses in one year, and with 1 or more Gadolinium enhancing lesions on brain Magnetic Resonance Imaging (MRI) or a significant increase in T2 lesion load as compared to a previous recent MRI.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tyruko

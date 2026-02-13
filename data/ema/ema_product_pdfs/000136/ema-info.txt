@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000136
+Name of medicine: Rebif
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: interferon beta-1a
+Active substance: interferon beta-1a
+Therapeutic area (MeSH): Multiple Sclerosis
+ATC code (human): L03AB07
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Rebif is indicated for the treatment of:  patients with a single demyelinating event with an active inflammatory process, if alternative diagnoses have been excluded, and if they are determined to be at high risk of developing clinically definite multiple sclerosis; patients with relapsing multiple sclerosis. In clinical trials, this was characterised by two or more acute exacerbations in the previous two years.  Efficacy has not been demonstrated in patients with secondary progressive multiple sclerosis without ongoing relapse activity.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rebif

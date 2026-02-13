@@ -1,0 +1,7 @@
+short_name: Medrol A
+active_substance: Methylprednisolonum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Italia s.r.l., Italy
+atc_code: H02AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000534/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000534/smpc

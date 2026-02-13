@@ -1,0 +1,7 @@
+short_name: Ceftazidime Fresenius Kabi
+active_substance: Ceftazidimum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Labesfal-Laboratorios Almiro, S.A., Portugal
+atc_code: J01DD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0388/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0388/smpc

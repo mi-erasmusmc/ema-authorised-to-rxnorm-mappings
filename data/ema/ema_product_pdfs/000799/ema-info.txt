@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000799
+Name of medicine: Torisel
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: temsirolimus
+Active substance: temsirolimus
+Therapeutic area (MeSH): Carcinoma, Renal Cell;Lymphoma, Mantle-Cell
+ATC code (human): L01XE09
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Renal-cell carcinoma Torisel is indicated for the first-line treatment of adult patients with advanced renal-cell carcinoma (RCC) who have at least three of six prognostic risk factors. Mantle-cell lymphoma Torisel is indicated for the treatment of adult patients with relapsed and / or refractory mantle-cell lymphoma (MCL).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/torisel

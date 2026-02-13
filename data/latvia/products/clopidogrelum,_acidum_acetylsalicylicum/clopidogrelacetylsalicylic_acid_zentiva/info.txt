@@ -1,0 +1,7 @@
+short_name: Clopidogrel/Acetylsalicylic acid Zentiva
+active_substance: Clopidogrelum, Acidum acetylsalicylicum
+marketing_authorisation_holder: Sanofi-aventis groupe, France
+manufacturer: Sanofi Winthrop Industrie, France
+atc_code: B01AC30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/623/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/623/001/smpc

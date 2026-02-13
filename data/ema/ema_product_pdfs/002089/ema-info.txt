@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002089
+Name of medicine: Vepacel
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: prepandemic influenza vaccine (H5N1) (whole virion, inactivated,prepared in cell culture)
+Active substance: Influenza virus (whole virion, inactivated), containing antigen of: A/Vietnam/1203/2004 (H5N1)
+Therapeutic area (MeSH): Influenza, Human;Immunization;Disease Outbreaks
+ATC code (human): J07BB01
+Pharmacotherapeutic group (human): Influenza vaccines
+Therapeutic indication: Active immunisation against H5N1 subtype of influenza A virus. This indication is based on immunogenicity data from subjects from the age of 6 months onwards following administration of two doses of vaccine prepared with H5N1 subtype strains. Vepacel should be used in accordance with Official guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vepacel

@@ -1,0 +1,10 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/09/546/001	46234033	0.5 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653144	EXACT			2026-01-01
+EU/1/09/546/002	46234033	0.5 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653144	EXACT			2026-01-01
+EU/1/09/546/003	19048227	0.5 ML golimumab 100 MG/ML Prefilled Syringe [Simponi]	848164	EXACT			2026-01-01
+EU/1/09/546/004	19048227	0.5 ML golimumab 100 MG/ML Prefilled Syringe [Simponi]	848164	EXACT			2026-01-01
+EU/1/09/546/005	46234039	1 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653166	EXACT			2026-01-01
+EU/1/09/546/006	46234039	1 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653166	EXACT			2026-01-01
+EU/1/09/546/007	44784646	1 ML golimumab 100 MG/ML Prefilled Syringe [Simponi]	1482814	EXACT			2026-01-01
+EU/1/09/546/008	44784646	1 ML golimumab 100 MG/ML Prefilled Syringe [Simponi]	1482814	EXACT			2026-01-01
+EU/1/09/546/009	42903323	golimumab 100 MG/ML Prefilled Syringe [Simponi]	1360436	BROAD		0.45 ML golimumab 100 MG/ML Auto-Injector [Simponi]	2026-01-01

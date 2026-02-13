@@ -1,0 +1,7 @@
+short_name: Perjeta
+active_substance: Pertuzumabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01FD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/813/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/813/001/smpc

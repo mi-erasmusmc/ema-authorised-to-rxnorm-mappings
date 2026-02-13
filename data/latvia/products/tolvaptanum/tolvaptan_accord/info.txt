@@ -1,0 +1,7 @@
+short_name: Tolvaptan Accord
+active_substance: Tolvaptanum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Pharmadox Healthcare Ltd., Malta; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: C03XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1719/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1719/001/smpc

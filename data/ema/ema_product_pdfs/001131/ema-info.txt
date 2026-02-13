@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001131
+Name of medicine: Arzerra
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: ofatumumab
+Active substance: ofatumumab
+Therapeutic area (MeSH): Leukemia, Lymphocytic, Chronic, B-Cell
+ATC code (human): L01XC10
+Pharmacotherapeutic group (human): Monoclonal antibodies
+Therapeutic indication: Previously untreated chronic lymphocytic leukaemia (CLL): Arzerra in combination with chlorambucil or bendamustine is indicated for the treatment of patients with CLL who have not received prior therapy and who are not eligible for fludarabine-based therapy. Relapsed CLL: Arzerra is indicated in combination with fludarabine and cyclophosphamide for the treatment of adult patients with relapsed CLL. Refractory CLL: Arzerra is indicated for the treatment of CLL in patients who are refractory to fludarabine and alemtuzumab.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/arzerra

@@ -1,0 +1,7 @@
+short_name: Axitinib Sandoz
+active_substance: Axitinibum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Synthon BV, Netherlands; Salutas Pharma GmbH, Germany; Synthon Hispania S.L., Spain; Lek Pharmaceuticals d.d., Slovenia
+atc_code: L01EK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0057/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0057/smpc

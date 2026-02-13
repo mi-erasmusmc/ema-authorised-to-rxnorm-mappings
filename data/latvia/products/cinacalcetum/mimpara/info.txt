@@ -1,0 +1,7 @@
+short_name: Mimpara
+active_substance: Cinacalcetum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen Europe B.V., Netherlands; Amgen NV, Belgium
+atc_code: H05BX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/292/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/292/001/smpc

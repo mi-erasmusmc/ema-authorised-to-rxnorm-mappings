@@ -1,0 +1,7 @@
+short_name: Placenta compositum
+active_substance: Placenta suis, Embryo suis, Vena suis, Arteria suis, Funiculus umbilicalis suis, Hypophysis suis, Secale cornutum, Acidum L-lacticum, Tabacum, Strophanthus gratus, Aesculus hippocastanum, Melilotus officinalis, Cuprum sulfuricum, Natrium pyruvicum, Barium carbonicum, Plumbum iodatum, Vipera berus, Solanum nigrum
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0243/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0243/smpc

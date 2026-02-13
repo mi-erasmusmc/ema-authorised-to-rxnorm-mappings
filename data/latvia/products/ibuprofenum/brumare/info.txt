@@ -1,0 +1,7 @@
+short_name: Brumare
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; AbbVie S.r.l., Italy
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0078/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0078/smpc

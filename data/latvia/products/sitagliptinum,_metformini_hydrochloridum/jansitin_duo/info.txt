@@ -1,0 +1,7 @@
+short_name: Jansitin Duo
+active_substance: Sitagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: Galenicum Health S.L., Spain; SAG Manufacturing, S.L.U., Spain
+atc_code: A10BD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0098/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0098/smpc

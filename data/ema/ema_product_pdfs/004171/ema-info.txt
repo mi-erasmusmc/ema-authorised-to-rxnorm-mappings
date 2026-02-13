@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004171
+Name of medicine: Dengvaxia
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: dengue tetravalent vaccine (live, attenuated)
+Active substance: chimeric yellow fever dengue virus serotype 1 (live, attenuated);chimeric yellow fever dengue virus serotype 2 (live, attenuated);chimeric yellow fever dengue virus serotype 3 (live, attenuated);chimeric yellow fever dengue virus serotype 4 (live, attenuated)
+Therapeutic area (MeSH): Dengue
+ATC code (human): J07BX
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Dengvaxia is indicated for the prevention of dengue disease caused by dengue virus serotypes 1, 2, 3 and 4 in individuals 6 to 45 years of age with test-confirmed previous dengue infection (see sections 4.2, 4.4 and 4.8). The use of Dengvaxia should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dengvaxia

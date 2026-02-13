@@ -1,0 +1,7 @@
+short_name: Ovarium compositum
+active_substance: Ovarium suis, Placenta suis, Uterus suis, Tuba uterina suis, Hypophysis suis, Cypripedium calceolus var. pubescens, Lilium lancifolium, Pulsatilla nigricans, Aquilegia vulgaris, Sepia officinalis, Lachesis mutus, Apisinum, Kreosotum, Calvatia gigantea, Cephaelis ipecacuanha, Mercurius solubilis Hahnemanni, Hydrastis canadensis, Acidum cis-aconiticum, Magnesium phosphoricum
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0242/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0242/smpc

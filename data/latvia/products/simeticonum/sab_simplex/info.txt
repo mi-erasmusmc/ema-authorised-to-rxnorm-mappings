@@ -1,0 +1,7 @@
+short_name: Sab simplex
+active_substance: Simeticonum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Delpharm Orleans, France
+atc_code: A03AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0008/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0008/smpc

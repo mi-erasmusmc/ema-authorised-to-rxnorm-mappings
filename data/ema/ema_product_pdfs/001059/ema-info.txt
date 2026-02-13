@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001059
+Name of medicine: Grepid
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: clopidogrel
+Active substance: clopidogrel (as besilate)
+Therapeutic area (MeSH): Peripheral Vascular Diseases;Stroke;Myocardial Infarction
+ATC code (human): B01AC04
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Prevention of atherothrombotic events Clopidogrel is indicated in:  adult patients suffering from myocardial infarction (from a few days until less than 35 days), ischaemic stroke (from seven days until less than six months) or established peripheral arterial disease; adult patients suffering from acute coronary syndrome:  non-ST-segment-elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction), including patients undergoing a stent placement following percutaneous coronary intervention, in combination with acetylsalicylic acid (ASA); ST-segment-elevation acute myocardial infarction, in combination with ASA in medically treated patients eligible for thrombolytic therapy.    Prevention of atherothrombotic and thromboembolic events in atrial fibrillation In adult patients with atrial fibrillation who have at least one risk factor for vascular events, are not suitable for treatment with vitamin-K antagonists and who have a low bleeding risk, clopidogrel is indicated in combination with ASA for the prevention of atherothrombotic and thromboembolic events, including stroke.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/grepid

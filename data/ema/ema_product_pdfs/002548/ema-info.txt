@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002548
+Name of medicine: Scenesse
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: afamelanotide
+Active substance: afamelanotide
+Therapeutic area (MeSH): Protoporphyria, Erythropoietic
+ATC code (human): D02BB02
+Pharmacotherapeutic group (human): Emollients and protectives
+Therapeutic indication: Prevention of phototoxicity in adult patients with erythropoietic protoporphyria (EPP).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/scenesse

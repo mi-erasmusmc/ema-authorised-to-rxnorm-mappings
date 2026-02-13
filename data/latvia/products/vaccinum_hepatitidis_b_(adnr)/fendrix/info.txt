@@ -1,0 +1,7 @@
+short_name: Fendrix
+active_substance: Vaccinum hepatitidis B (ADNr)
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/299/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/299/001/smpc

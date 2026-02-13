@@ -1,0 +1,7 @@
+short_name: Levetiracetam Actavis Group
+active_substance: Levetiracetamum
+marketing_authorisation_holder: Actavis Group PTC ehf, Iceland
+manufacturer: Balkanpharma-Troyan AD, Bulgaria
+atc_code: N03AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/738/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/738/001/smpc

@@ -1,0 +1,7 @@
+short_name: Cefotaxime MIP
+active_substance: Cefotaximum
+marketing_authorisation_holder: MIP Pharma GmbH, Germany
+manufacturer: MIP Pharma GmbH, Germany
+atc_code: J01DD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0180/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0180/smpc

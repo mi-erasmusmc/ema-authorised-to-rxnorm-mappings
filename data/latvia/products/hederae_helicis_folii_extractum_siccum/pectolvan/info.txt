@@ -1,0 +1,7 @@
+short_name: Pectolvan
+active_substance: Hederae helicis folii extractum siccum
+marketing_authorisation_holder: AG Farm Baltic, SIA, Latvia
+manufacturer: Farmak International Sp. z o.o., Poland
+atc_code: R05CA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0156/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0156/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000101
+Name of medicine: Bondronat
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ibandronic acid
+Active substance: ibandronic acid
+Therapeutic area (MeSH): Hypercalcemia;Breast Neoplasms;Neoplasm Metastasis;Fractures, Bone
+ATC code (human): M05BA06
+Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
+Therapeutic indication: Bondronat is indicated for:  prevention of skeletal events (pathological fractures, bone complications requiring radiotherapy or surgery) in patients with breast cancer and bone metastases; treatment of tumour-induced hypercalcaemia with or without metastases.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bondronat

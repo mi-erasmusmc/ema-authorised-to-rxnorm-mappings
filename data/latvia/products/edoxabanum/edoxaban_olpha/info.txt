@@ -1,0 +1,7 @@
+short_name: Edoxaban Olpha
+active_substance: Edoxabanum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Genepharm S.A., Greece; Olpha, AS, Latvia
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0098/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0098/smpc

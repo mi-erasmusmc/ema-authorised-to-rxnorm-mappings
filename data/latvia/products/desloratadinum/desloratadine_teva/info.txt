@@ -1,0 +1,7 @@
+short_name: Desloratadine Teva
+active_substance: Desloratadinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; Pharmachemie B.V., Netherlands
+atc_code: R06AX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/732/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/732/001/smpc

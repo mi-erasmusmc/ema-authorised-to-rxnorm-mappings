@@ -1,0 +1,7 @@
+short_name: Posterisan ointment
+active_substance: Escherichia Coli
+marketing_authorisation_holder: Dr. Kade Pharmazeutische Fabrik GmbH, Germany
+manufacturer: Dr. Kade Pharmazeutische Fabrik GmbH, Germany
+atc_code: C05AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0723/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0723/smpc

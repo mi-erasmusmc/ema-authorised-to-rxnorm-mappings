@@ -1,0 +1,7 @@
+short_name: Ventolin
+active_substance: Salbutamolum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome S.A., Spain; Delpharm Poznan S.A., Poland
+atc_code: R03AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0914/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0914/smpc

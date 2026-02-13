@@ -1,0 +1,7 @@
+short_name: Juluca
+active_substance: Dolutegravirum, Rilpivirinum
+marketing_authorisation_holder: ViiV Healthcare BV, Netherlands
+manufacturer: Glaxo Wellcome Production S.A., Spain
+atc_code: J05AR21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1282/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1282/001/smpc

@@ -1,0 +1,7 @@
+short_name: Dimtelzo
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0156/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0156/smpc

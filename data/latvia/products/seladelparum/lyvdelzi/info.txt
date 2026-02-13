@@ -1,0 +1,7 @@
+short_name: Lyvdelzi
+active_substance: Seladelparum
+marketing_authorisation_holder: Gilead Sciences Ireland UC, Ireland
+manufacturer: Gilead Sciences Ireland UC, Ireland
+atc_code: A05AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1898/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1898/001/smpc

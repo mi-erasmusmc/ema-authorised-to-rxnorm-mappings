@@ -1,0 +1,7 @@
+short_name: Bramitob
+active_substance: Tobramycinum
+marketing_authorisation_holder: Chiesi Pharmaceuticals GmbH, Austria
+manufacturer: Chiesi Farmaceutici S.P.A., Italy; Genetic S.p.A, Italy
+atc_code: J01GB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0276/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0276/smpc

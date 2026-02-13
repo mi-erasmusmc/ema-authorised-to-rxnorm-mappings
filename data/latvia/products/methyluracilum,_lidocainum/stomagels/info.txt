@@ -1,0 +1,7 @@
+short_name: Stomagels
+active_substance: Methyluracilum, Lidocainum
+marketing_authorisation_holder: LMP, SIA, Latvia
+manufacturer: LMP, SIA, Latvia
+atc_code: A01AD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0337/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0337/smpc

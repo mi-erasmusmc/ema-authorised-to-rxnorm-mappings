@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001012
+Name of medicine: Resolor
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: prucalopride
+Active substance: prucalopride succinate
+Therapeutic area (MeSH): Constipation
+ATC code (human): A06AX05
+Pharmacotherapeutic group (human): Other drugs for constipation
+Therapeutic indication: Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/resolor

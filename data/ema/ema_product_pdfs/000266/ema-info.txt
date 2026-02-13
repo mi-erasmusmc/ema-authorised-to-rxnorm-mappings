@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000266
+Name of medicine: DaTSCAN
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ioflupane (123l)
+Active substance: ioflupane (123l)
+Therapeutic area (MeSH): Tomography, Emission-Computed, Single-Photon;Lewy Body Disease;Parkinson Disease;Alzheimer Disease
+ATC code (human): V09AB03
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: This medicinal product is for diagnostic use only. DaTSCAN is indicated for detecting loss of functional dopaminergic neuron terminals in the striatum:  In adult patients with clinically uncertain Parkinsonian syndromes, for example those with early symptoms, in order to help differentiate essential tremor from Parkinsonian syndromes related to idiopathic Parkinson’s disease, multiple system atrophy and progressive supranuclear palsy. DaTSCAN is unable to discriminate between Parkinson's disease, multiple system atrophy and progressive supranuclear palsy. In adult patients, to help differentiate probable dementia with Lewy bodies from Alzheimer’s disease. DaTSCAN is unable to discriminate between dementia with Lewy bodies and Parkinson’s disease dementia.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/datscan

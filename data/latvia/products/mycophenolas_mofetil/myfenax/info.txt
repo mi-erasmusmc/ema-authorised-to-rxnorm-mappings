@@ -1,0 +1,7 @@
+short_name: Myfenax
+active_substance: Mycophenolas mofetil
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Pharmachemie B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland
+atc_code: L04AA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/438/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/438/001/smpc

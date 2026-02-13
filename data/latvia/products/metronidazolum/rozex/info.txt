@@ -1,0 +1,7 @@
+short_name: Rozex
+active_substance: Metronidazolum
+marketing_authorisation_holder: Galderma International, France
+manufacturer: Laboratoires GALDERMA, France
+atc_code: D06BX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0407/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0407/smpc

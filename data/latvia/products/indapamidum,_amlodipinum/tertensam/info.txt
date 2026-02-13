@@ -1,0 +1,7 @@
+short_name: Tertensam
+active_substance: Indapamidum, Amlodipinum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France; Servier (Ireland) Industries Ltd, Ireland; Egis Pharmaceuticals PLC, Hungary; Laboratorios Servier S.L., Spain; ANPHARM Przedsiebiorstwo Farmaceutyczne S.A., Poland; Egis Pharmaceuticals PLC, Hungary
+atc_code: C08GA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0246/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0246/smpc

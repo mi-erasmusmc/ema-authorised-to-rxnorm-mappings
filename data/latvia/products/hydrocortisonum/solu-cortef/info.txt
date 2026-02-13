@@ -1,0 +1,7 @@
+short_name: Solu-Cortef
+active_substance: Hydrocortisonum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium N.V., Belgium
+atc_code: H02AB09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0062/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0062/smpc

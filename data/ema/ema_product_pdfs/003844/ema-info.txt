@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003844
+Name of medicine: Ninlaro
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ixazomib
+Active substance: ixazomib citrate
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): L01XG03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Ninlaro in combination with lenalidomide and dexamethasone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ninlaro

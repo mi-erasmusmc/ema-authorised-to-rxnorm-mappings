@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005783
+Name of medicine: Filspari
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sparsentan
+Active substance: sparsentan
+Therapeutic area (MeSH): Glomerulonephritis, IGA
+ATC code (human): C09XX01
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Filspari is indicated for the treatment of adults with primary immunoglobulin A nephropathy (IgAN) with a urine protein excretion &gt; 1.0 g/day (or urine protein-to-creatinine ratio &gt; 0.75 g/g, see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/filspari

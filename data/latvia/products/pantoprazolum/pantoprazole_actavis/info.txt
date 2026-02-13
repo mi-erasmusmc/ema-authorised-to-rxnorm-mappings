@@ -1,0 +1,7 @@
+short_name: Pantoprazole Actavis
+active_substance: Pantoprazolum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Limited, Malta
+atc_code: A02BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0242/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0242/smpc

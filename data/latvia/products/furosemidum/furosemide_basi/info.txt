@@ -1,0 +1,7 @@
+short_name: Furosemide Basi
+active_substance: Furosemidum
+marketing_authorisation_holder: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+manufacturer: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+atc_code: C03CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0159/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0159/smpc

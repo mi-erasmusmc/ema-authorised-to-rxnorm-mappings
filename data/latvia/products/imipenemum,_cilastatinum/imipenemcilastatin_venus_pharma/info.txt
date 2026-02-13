@@ -1,0 +1,7 @@
+short_name: Imipenem/Cilastatin Venus Pharma
+active_substance: Imipenemum, Cilastatinum
+marketing_authorisation_holder: Venus Pharma GmbH, Germany
+manufacturer: Venus Pharma GmbH, Germany; European Pharma Hub Ltd., Hungary
+atc_code: J01DH51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0060/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0060/smpc

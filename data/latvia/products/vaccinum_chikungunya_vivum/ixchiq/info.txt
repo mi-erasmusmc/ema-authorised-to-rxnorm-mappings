@@ -1,0 +1,7 @@
+short_name: Ixchiq
+active_substance: Vaccinum Chikungunya vivum
+marketing_authorisation_holder: Valneva Austria GmbH, Austria
+manufacturer: Valneva Austria GmbH, Austria
+atc_code: Nav_piešķirts
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1828/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1828/001/smpc

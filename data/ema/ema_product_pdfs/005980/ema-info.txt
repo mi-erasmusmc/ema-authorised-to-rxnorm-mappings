@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005980
+Name of medicine: Baiama
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: aflibercept
+Active substance: aflibercept
+Therapeutic area (MeSH): Wet Macular Degeneration;Macular Edema;Retinal Vein Occlusion;Choroidal Neovascularization;Diabetes Complications
+ATC code (human): S01LA05
+Pharmacotherapeutic group (human): Antineovascularisation agents;Ocular vascular disorder agents
+Therapeutic indication: Baiama is indicated for adults for the treatment of  neovascular (wet) age-related macular degeneration (AMD) (see section 5.1), visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO) (see section 5.1), visual impairment due to diabetic macular oedema (DME) (see section 5.1), visual impairment due to myopic choroidal neovascularisation (myopic CNV) (see section 5.1).
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/baiama

@@ -1,0 +1,7 @@
+short_name: Melatonin Neurim
+active_substance: Melatoninum
+marketing_authorisation_holder: RAD Neurim Pharmaceuticals EEC SARL, France
+manufacturer: ROVI Pharma Industrial Services, S.A., Spain; Iberfar Industria Farmaceutica S.A., Portugal
+atc_code: N05CH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1694/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1694/001/smpc

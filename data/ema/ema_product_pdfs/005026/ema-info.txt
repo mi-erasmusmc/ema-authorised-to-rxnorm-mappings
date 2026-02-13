@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005026
+Name of medicine: Inrebic
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fedratinib
+Active substance: fedratinib dihydrochloride monohydrate
+Therapeutic area (MeSH): Myeloproliferative Disorders;Primary Myelofibrosis
+ATC code (human): L01EJ02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Inrebic is indicated for the treatment of disease-related splenomegaly or symptoms in adult patients with primary myelofibrosis, post polycythaemia vera myelofibrosis or post essential thrombocythaemia myelofibrosis who are Janus Associated Kinase (JAK) inhibitor naïve or have been treated with ruxolitinib.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inrebic

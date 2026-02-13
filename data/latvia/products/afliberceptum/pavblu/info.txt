@@ -1,0 +1,7 @@
+short_name: Pavblu
+active_substance: Afliberceptum
+marketing_authorisation_holder: Amgen Technology (Ireland) Unlimited Company, Ireland
+manufacturer: Amgen NV, Belgium; Amgen Technology (Ireland) Unlimited Company, Ireland
+atc_code: S01LA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1909/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1909/001/smpc

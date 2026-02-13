@@ -1,0 +1,7 @@
+short_name: Clariscan
+active_substance: Acidum gadotericum
+marketing_authorisation_holder: GE Healthcare AS, Norway
+manufacturer: GE Healthcare AS, Norway
+atc_code: V08CA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0238/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0238/smpc

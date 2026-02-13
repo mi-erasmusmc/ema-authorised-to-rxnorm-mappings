@@ -1,0 +1,7 @@
+short_name: Tiotropium Viatris
+active_substance: Tiotropium
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Ferrer Internacional, SA, Spain
+atc_code: R03BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0168/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0168/smpc

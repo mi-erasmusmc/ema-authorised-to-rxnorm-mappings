@@ -1,0 +1,7 @@
+short_name: Velphoro
+active_substance: Ferri oxyhydroxidum sacchari complex
+marketing_authorisation_holder: Vifor Fresenius Medical Care Renal Pharma France, France
+manufacturer: Vifor France SAS, France
+atc_code: V03AE05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/943/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/943/001/smpc

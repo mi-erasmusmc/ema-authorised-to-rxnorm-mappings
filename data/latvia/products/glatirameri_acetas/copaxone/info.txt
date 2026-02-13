@@ -1,0 +1,7 @@
+short_name: Copaxone
+active_substance: Glatirameri acetas
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Merckle GmbH, Germany; Norton Healthcare Limited T/A Ivax Pharmaceuticals UK and Teva Runcorn, United Kingdom; Actavis Group PTC ehf., Iceland
+atc_code: L03AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0274/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0274/smpc

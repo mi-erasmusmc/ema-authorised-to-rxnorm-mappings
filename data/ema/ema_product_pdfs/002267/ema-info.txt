@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002267
+Name of medicine: Buccolam
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: midazolam
+Active substance: midazolam
+Therapeutic area (MeSH): Epilepsy
+ATC code (human): N05CD08
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Treatment of prolonged, acute, convulsive seizures in infants from 3 months to adults.BUCCOLAM must only be used by parents/carers where the patient has been diagnosed to have epilepsy.For infants between 3-6 months of age treatment should be in a hospital setting where monitoring is possible and resuscitation equipment is available. See section 4.2.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/buccolam

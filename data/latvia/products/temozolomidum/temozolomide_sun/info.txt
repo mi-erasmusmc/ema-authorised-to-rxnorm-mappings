@@ -1,0 +1,7 @@
+short_name: Temozolomide Sun
+active_substance: Temozolomidum
+marketing_authorisation_holder: Sun Pharmaceutical Industries Europe B.V., Netherlands
+manufacturer: Sun Pharmaceutical Industries Europe B.V., Netherlands
+atc_code: L01AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/697/013/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/697/013/smpc

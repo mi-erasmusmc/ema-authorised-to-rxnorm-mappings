@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005542
+Name of medicine: Tizveni
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: tislelizumab
+Active substance: tislelizumab
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01FF09
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Non-small cell lung cancer (NSCLC)Tizveni in combination with pemetrexed and platinum-containing chemotherapy is indicated for the first-line treatment of adult patients with non-squamous non-small cell lung cancer whose tumours have PD-L1 expression on ≥50% of tumour cells with no EGFR or ALK positive mutations and who have:• locally advanced NSCLC and are not candidates for surgical resection or platinum-based chemoradiation, or• metastatic NSCLC.Tizveni in combination with carboplatin and either paclitaxel or nab-paclitaxel is indicated for the first-line treatment of adult patients with squamous non-small cell lung cancer who have:• locally advanced NSCLC and are not candidates for surgical resection or platinum-based chemoradiation, or• metastatic NSCLC.Tizveni as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer after prior platinum-based therapy. Patients with EGFR mutant or ALK positive NSCLC should also have received targeted therapies before receiving tislelizumab.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tizveni

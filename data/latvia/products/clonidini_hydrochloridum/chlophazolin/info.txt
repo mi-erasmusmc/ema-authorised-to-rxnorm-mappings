@@ -1,0 +1,7 @@
+short_name: Chlophazolin
+active_substance: Clonidini hydrochloridum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: C02AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0279/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0279/smpc

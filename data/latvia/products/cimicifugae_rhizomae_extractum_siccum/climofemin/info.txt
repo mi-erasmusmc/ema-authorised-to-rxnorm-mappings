@@ -1,0 +1,7 @@
+short_name: Climofemin
+active_substance: Cimicifugae rhizomae extractum siccum
+marketing_authorisation_holder: UAB SIROWA Vilnius, Lithuania
+manufacturer: Entafarma UAB, Lithuania
+atc_code: G02CX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0124/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0124/smpc

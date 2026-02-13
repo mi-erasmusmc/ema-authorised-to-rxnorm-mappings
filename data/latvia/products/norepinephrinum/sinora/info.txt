@@ -1,0 +1,7 @@
+short_name: Sinora
+active_substance: Norepinephrinum
+marketing_authorisation_holder: Sintetica GmbH, Germany
+manufacturer: SIRTON Pharmaceuticals S.p.A, Italy; Sintetica GmbH, Germany
+atc_code: C01CA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0102/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0102/smpc

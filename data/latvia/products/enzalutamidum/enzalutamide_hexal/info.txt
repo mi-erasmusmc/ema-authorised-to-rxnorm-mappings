@@ -1,0 +1,7 @@
+short_name: Enzalutamide Hexal
+active_substance: Enzalutamidum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; PharOS MT Ltd., Malta
+atc_code: L02BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0194/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0194/smpc

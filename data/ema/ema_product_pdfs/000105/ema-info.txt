@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000105
+Name of medicine: Rapilysin
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: reteplase
+Active substance: reteplase
+Therapeutic area (MeSH): Myocardial Infarction
+ATC code (human): B01AD07
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Rapilysin is indicated for the thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left bundle branch block within 12 hours after the onset of acute-myocardial-infarction (AMI) symptoms.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rapilysin

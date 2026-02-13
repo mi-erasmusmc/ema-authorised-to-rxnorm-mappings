@@ -1,0 +1,7 @@
+short_name: Cisatracurium Kalceks
+active_substance: Cisatracurium
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: M03AC11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0109/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0109/smpc

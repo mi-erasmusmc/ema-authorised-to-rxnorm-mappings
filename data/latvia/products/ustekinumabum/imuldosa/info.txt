@@ -1,0 +1,7 @@
+short_name: Imuldosa
+active_substance: Ustekinumabum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: L04AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1872/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1872/001/smpc

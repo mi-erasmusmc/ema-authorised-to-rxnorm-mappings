@@ -1,0 +1,7 @@
+short_name: Amiptinon
+active_substance: Dorzolamidum, Timololum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Rafarm S.A., Greece
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0150/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0150/smpc

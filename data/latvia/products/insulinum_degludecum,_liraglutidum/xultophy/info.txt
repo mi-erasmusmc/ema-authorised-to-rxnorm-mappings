@@ -1,0 +1,7 @@
+short_name: Xultophy
+active_substance: Insulinum degludecum, Liraglutidum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: A10AE56
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/947/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/947/001/smpc

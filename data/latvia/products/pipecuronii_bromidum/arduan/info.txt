@@ -1,0 +1,7 @@
+short_name: Arduan
+active_substance: Pipecuronii bromidum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: M03AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0138/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0138/smpc

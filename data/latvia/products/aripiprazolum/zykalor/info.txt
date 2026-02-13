@@ -1,0 +1,7 @@
+short_name: Zykalor
+active_substance: Aripiprazolum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus
+atc_code: N05AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0251/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0251/smpc

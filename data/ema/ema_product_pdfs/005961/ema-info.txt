@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005961
+Name of medicine: Tolvaptan Accord
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tolvaptan
+Active substance: tolvaptan
+Therapeutic area (MeSH): Inappropriate ADH Syndrome
+ATC code (human): C03XA01
+Pharmacotherapeutic group (human): Diuretics
+Therapeutic indication: Tolvaptan is indicated in adults for the treatment of hyponatremia secondary to the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tolvaptan-accord

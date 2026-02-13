@@ -1,0 +1,7 @@
+short_name: Lokelma
+active_substance: Natrii zirconii cyclosilicas
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca AB, Sweden
+atc_code: V03AE10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1173/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1173/001/smpc

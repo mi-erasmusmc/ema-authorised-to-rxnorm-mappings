@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005200
+Name of medicine: Kerendia
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: finerenone
+Active substance: Finerenone
+Therapeutic area (MeSH): Renal Insufficiency, Chronic;Diabetes Mellitus, Type 2
+ATC code (human): C09
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Kerendia is indicated for the treatment of chronic kidney disease (with albuminuria) associated with type 2 diabetes in adults. For study results with respect to renal and cardiovascular events, see section 5.1.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kerendia

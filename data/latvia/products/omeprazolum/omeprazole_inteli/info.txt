@@ -1,0 +1,7 @@
+short_name: Omeprazole Inteli
+active_substance: Omeprazolum
+marketing_authorisation_holder: Inteli Generics Nord UAB, Lithuania
+manufacturer: Laboratorios Liconsa, S.A., Spain
+atc_code: A02BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0019/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0019/smpc

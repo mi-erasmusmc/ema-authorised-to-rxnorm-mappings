@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005635
+Name of medicine: Truvelog Mix 30
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin aspart
+Active substance: insulin aspart
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AD05
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Truvelog Mix 30 is indicated for treatment of diabetes mellitus in adults, adolescents and children aged 10 years and above.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/truvelog-mix-30

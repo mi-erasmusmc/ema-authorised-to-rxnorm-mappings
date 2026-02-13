@@ -1,0 +1,7 @@
+short_name: Evkeeza
+active_substance: Evinacumabum
+marketing_authorisation_holder: Ultragenyx Germany GmbH, Germany
+manufacturer: Ultragenyx Netherlands B.V., Netherlands
+atc_code: C10AX17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1551/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1551/001/smpc

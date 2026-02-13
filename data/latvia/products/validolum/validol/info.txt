@@ -1,0 +1,7 @@
+short_name: VALIDOL
+active_substance: Validolum
+marketing_authorisation_holder: FARMAK—BULGARIA OOD, Bulgaria
+manufacturer: FARMAK — BULGARIA OOD, Bulgaria
+atc_code: C01EX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001772/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001772/smpc

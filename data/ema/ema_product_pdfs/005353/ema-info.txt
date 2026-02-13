@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005353
+Name of medicine: Orgovyx
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: relugolix
+Active substance: relugolix
+Therapeutic area (MeSH): Prostatic Neoplasms
+ATC code (human): L02BX
+Pharmacotherapeutic group (human): Endocrine therapy
+Therapeutic indication: Orgovyx is indicated for the treatment of adult patients with advanced hormone-sensitive prostate cancer.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/orgovyx

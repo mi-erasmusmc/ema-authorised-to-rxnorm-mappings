@@ -1,0 +1,7 @@
+short_name: Tyruko
+active_substance: Natalizumabum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany
+atc_code: L04AG03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1745/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1745/001/smpc

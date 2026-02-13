@@ -1,0 +1,7 @@
+short_name: Arnithei
+active_substance: Arnicae tinctura
+marketing_authorisation_holder: Dr. Theiss Naturwaren GmbH, Germany
+manufacturer: Dr. Theiss Naturwaren GmbH, Germany
+atc_code: M02AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0111/smpc

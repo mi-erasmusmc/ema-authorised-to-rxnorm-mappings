@@ -1,0 +1,7 @@
+short_name: Remens
+active_substance: Cimicifuga racemosa, Sanguinaria canadensis, Pilocarpus, Sepia officinalis, Lachesis
+marketing_authorisation_holder: Perrigo Poland Sp. z o.o., Poland
+manufacturer: Richard Bittner AG, Austria
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0127/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0127/smpc

@@ -1,0 +1,7 @@
+short_name: Sterofundin BG-5
+active_substance: Natrii chloridum, Kalii chloridum, Magnesii chloridum hexahydricum, Natrii dihydrogenophosphas dihydricus, Natrii lactas, Glucosum monohydricum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany; B.Braun Medical S.A., Spain
+atc_code: B05BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0802/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0802/smpc

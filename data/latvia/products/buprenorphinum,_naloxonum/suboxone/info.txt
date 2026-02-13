@@ -1,0 +1,7 @@
+short_name: Suboxone
+active_substance: Buprenorphinum, Naloxonum
+marketing_authorisation_holder: Indivior Europe Limited, Ireland
+manufacturer: Reckitt Benckiser Healtcare Ltd, United Kingdom; Indivior Europe Limited, Ireland
+atc_code: N07BC51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/359/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/359/001/smpc

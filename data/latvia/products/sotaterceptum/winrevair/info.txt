@@ -1,0 +1,7 @@
+short_name: Winrevair
+active_substance: Sotaterceptum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands
+atc_code: C02KX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1850/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1850/001/smpc

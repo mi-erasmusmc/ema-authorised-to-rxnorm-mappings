@@ -1,0 +1,7 @@
+short_name: Pluvicto
+active_substance: Lutetium (177Lu) vipivotidum tetraxetanum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Advanced Accelerator Applications Iberica, S.L., Spain; Advanced Accelerator Applications (Italy). S.r.l., Italy
+atc_code: V10XX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1703/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1703/001/smpc

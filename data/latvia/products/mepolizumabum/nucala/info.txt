@@ -1,0 +1,7 @@
+short_name: Nucala
+active_substance: Mepolizumabum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: GlaxoSmithKline Manufacturing S.p.A., Italy
+atc_code: R03DX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1043/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1043/001/smpc

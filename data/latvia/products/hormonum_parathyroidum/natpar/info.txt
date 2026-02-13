@@ -1,0 +1,7 @@
+short_name: Natpar
+active_substance: Hormonum parathyroidum
+marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+manufacturer: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+atc_code: H05AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1078/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1078/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000521
+Name of medicine: Lysodren
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: mitotane
+Active substance: mitotane
+Therapeutic area (MeSH): Adrenal Cortex Neoplasms
+ATC code (human): L01XX23
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Symptomatic treatment of advanced (unresectable, metastatic or relapsed) adrenal cortical carcinoma. The effect of Lysodren on non-functional adrenal cortical carcinoma is not established.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lysodren

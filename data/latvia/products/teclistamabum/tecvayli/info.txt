@@ -1,0 +1,7 @@
+short_name: Tecvayli
+active_substance: Teclistamabum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Janssen Biologics B.V., Netherlands
+atc_code: L01FX24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1675/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1675/001/smpc

@@ -1,0 +1,7 @@
+short_name: Elicea
+active_substance: Escitalopramum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: N06AB10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0377/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0377/smpc

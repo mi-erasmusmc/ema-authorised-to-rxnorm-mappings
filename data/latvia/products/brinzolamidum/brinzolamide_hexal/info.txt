@@ -1,0 +1,7 @@
+short_name: Brinzolamide Hexal
+active_substance: Brinzolamidum
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: Balkanpharma-Razgrad AD, Bulgaria; Pharmathen S.A., Greece
+atc_code: S01EC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0300/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0300/smpc

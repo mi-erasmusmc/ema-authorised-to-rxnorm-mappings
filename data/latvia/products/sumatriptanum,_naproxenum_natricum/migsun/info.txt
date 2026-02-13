@@ -1,0 +1,7 @@
+short_name: Migsun
+active_substance: Sumatriptanum, Naproxenum natricum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland; Orion Corporation Orion Pharma, Finland
+atc_code: N02CC51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0119/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0119/smpc

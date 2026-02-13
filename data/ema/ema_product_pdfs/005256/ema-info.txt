@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005256
+Name of medicine: Lupkynis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: voclosporin
+Active substance: voclosporin
+Therapeutic area (MeSH): Lupus Nephritis
+ATC code (human): L04AD03
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Lupkynis is indicated in combination with mycophenolate mofetil for the treatment of adult patients with active class III, IV or V (including mixed class III/V and IV/V) lupus nephritis (LN).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lupkynis

@@ -1,0 +1,7 @@
+short_name: Seretide
+active_substance: Salmeterolum, Fluticasoni propionas
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome Production, France
+atc_code: R03AK06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0451/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0451/smpc

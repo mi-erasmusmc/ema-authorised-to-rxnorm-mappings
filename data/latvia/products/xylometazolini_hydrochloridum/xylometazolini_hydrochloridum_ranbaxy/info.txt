@@ -1,0 +1,7 @@
+short_name: Xylometazolini hydrochloridum Ranbaxy
+active_substance: Xylometazolini hydrochloridum
+marketing_authorisation_holder: Ranbaxy (Poland) Sp.z.o.o., Poland
+manufacturer: S.C. Terapia S.A., Romania; Jadran Galenski Laboratorij d.d., Croatia
+atc_code: R01AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0106/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0106/smpc

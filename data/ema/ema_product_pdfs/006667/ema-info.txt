@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006667
+Name of medicine: Usgena
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ustekinumab
+Active substance: ustekinumab
+Therapeutic area (MeSH): Crohn Disease;Psoriasis;Arthritis, Psoriatic;Colitis, Ulcerative
+ATC code (human): L04AC05
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Crohn’s DiseaseUsgena is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a TNFα antagonist.Ulcerative colitisUsgena is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic. Plaque psoriasisUsgena is indicated for the treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).Paediatric plaque psoriasisUsgena is indicated for the treatment of moderate to severe plaque psoriasis in children and adolescent patients from the age of 6 years and older, who are inadequately controlled by, or are intolerant to, other systemic therapies or phototherapies (see section 5.1).Psoriatic arthritis (PsA)Usgena, alone or in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adult patients when the response to previous non-biological disease-modifying anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/usgena

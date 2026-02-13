@@ -1,0 +1,7 @@
+short_name: Dostinex
+active_substance: Cabergolinum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Italia s.r.l., Italy
+atc_code: G02CB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0309/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0309/smpc

@@ -1,0 +1,7 @@
+short_name: Penicillin G Sodium Sandoz
+active_substance: Benzylpenicillinum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Sandoz GmbH, Austria
+atc_code: J01CE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0550/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0550/smpc

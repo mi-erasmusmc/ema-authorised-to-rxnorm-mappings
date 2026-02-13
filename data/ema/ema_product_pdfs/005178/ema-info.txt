@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005178
+Name of medicine: Cabazitaxel Accord
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cabazitaxel
+Active substance: cabazitaxel
+Therapeutic area (MeSH): Prostatic Neoplasms, Castration-Resistant
+ATC code (human): L01CD04
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of patients with hormone refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cabazitaxel-accord

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003862
+Name of medicine: Zinbryta
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: daclizumab
+Active substance: daclizumab
+Therapeutic area (MeSH): Multiple Sclerosis
+ATC code (human): L04AC01
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Zinbryta is indicated in adult patients for the treatment of relapsing forms of multiple sclerosis (RMS).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zinbryta

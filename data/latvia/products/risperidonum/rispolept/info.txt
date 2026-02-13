@@ -1,0 +1,7 @@
+short_name: Rispolept
+active_substance: Risperidonum
+marketing_authorisation_holder: Johnson & Johnson, UAB, Lithuania
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Lusomedicamenta Sociedade Tecnica Farmaceutica S.A., Portugal
+atc_code: N05AX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0372/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0372/smpc

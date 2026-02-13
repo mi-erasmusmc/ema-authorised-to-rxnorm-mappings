@@ -1,0 +1,7 @@
+short_name: Tenaxum
+active_substance: Rilmenidinum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France
+atc_code: C02AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0344/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0344/smpc

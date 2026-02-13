@@ -1,0 +1,7 @@
+short_name: Leflunomide medac
+active_substance: Leflunomidum
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: Haupt Pharma Muenster GmbH, Germany; Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+atc_code: L04AK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/637/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/637/001/smpc

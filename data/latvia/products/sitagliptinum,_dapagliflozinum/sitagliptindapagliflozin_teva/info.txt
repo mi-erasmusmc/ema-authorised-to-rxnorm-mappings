@@ -1,0 +1,7 @@
+short_name: Sitagliptin/Dapagliflozin Teva
+active_substance: Sitagliptinum, Dapagliflozinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
+atc_code: A10BD29
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0018/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0018/smpc

@@ -1,0 +1,7 @@
+short_name: Ebvallo
+active_substance: Tabelecleucelum
+marketing_authorisation_holder: Pierre Fabre Medicament, France
+manufacturer: Pierre Fabre Medicament Production, France
+atc_code: L01XL09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1700/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1700/001/smpc

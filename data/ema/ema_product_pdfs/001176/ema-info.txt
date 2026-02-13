@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001176
+Name of medicine: Rapiscan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: regadenoson
+Active substance: regadenoson
+Therapeutic area (MeSH): Myocardial Perfusion Imaging
+ATC code (human): C01EB21
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: This medicinal product is for diagnostic use only. Rapiscan is a selective coronary vasodilator for use as a pharmacological stress agent for radionuclide myocardial perfusion imaging (MPI) in adult patients unable to undergo adequate exercise stress.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rapiscan

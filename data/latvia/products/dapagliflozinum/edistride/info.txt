@@ -1,0 +1,7 @@
+short_name: Edistride
+active_substance: Dapagliflozinum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca GmbH, Germany; AstraZeneca UK Limited, United Kingdom; Bristol-Myers Squibb S.r.l., Italy
+atc_code: A10BK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1052/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1052/001/smpc

@@ -1,0 +1,7 @@
+short_name: SIMBRINZA
+active_substance: Brinzolamidum, Brimonidini tartras
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Alcon- Couvreur N.V., Belgium; Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Siegfried El Masnou, S.A., Spain
+atc_code: S01EC54
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/933/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/933/001/smpc

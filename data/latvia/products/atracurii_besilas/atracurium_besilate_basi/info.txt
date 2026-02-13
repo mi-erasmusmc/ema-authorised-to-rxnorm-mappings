@@ -1,0 +1,7 @@
+short_name: Atracurium besilate Basi
+active_substance: Atracurii besilas
+marketing_authorisation_holder: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+manufacturer: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+atc_code: M03AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0068/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0068/smpc

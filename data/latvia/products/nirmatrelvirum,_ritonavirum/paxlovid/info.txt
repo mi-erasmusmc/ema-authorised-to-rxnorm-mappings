@@ -1,0 +1,7 @@
+short_name: Paxlovid
+active_substance: Nirmatrelvirum, Ritonavirum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Italia s.r.l., Italy; Pfizer Ireland Pharmaceuticals, Ireland; Pfizer Manufacturing Deutschland GmbH, Germany
+atc_code: J05AE30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1625/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1625/001/smpc

@@ -1,0 +1,7 @@
+short_name: Amlodipine/Valsartan Mylan
+active_substance: Amlodipinum, Valsartanum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited, T/A Gerard Laboratories, Ireland; Mylan Germany GmbH, Germany
+atc_code: C09DB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1092/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1092/001/smpc

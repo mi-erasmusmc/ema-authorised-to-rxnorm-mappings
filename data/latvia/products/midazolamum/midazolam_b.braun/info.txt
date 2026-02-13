@@ -1,0 +1,7 @@
+short_name: Midazolam B.Braun
+active_substance: Midazolamum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany; B.Braun Medical S.A., Spain
+atc_code: N05CD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0004/smpc

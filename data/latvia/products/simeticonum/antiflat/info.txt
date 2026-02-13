@@ -1,0 +1,7 @@
+short_name: Antiflat
+active_substance: Simeticonum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: A03AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0155/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0155/smpc

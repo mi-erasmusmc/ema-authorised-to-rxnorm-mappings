@@ -1,0 +1,7 @@
+short_name: Helicobacter test INFAI
+active_substance: Ureum (13C)
+marketing_authorisation_holder: INFAI GmbH, Germany
+manufacturer: INFAI GmbH, Germany
+atc_code: V04CX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/045/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/045/001/smpc

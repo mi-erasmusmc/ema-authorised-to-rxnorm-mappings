@@ -1,0 +1,7 @@
+short_name: Yorvipath
+active_substance: Palopegteriparatidum
+marketing_authorisation_holder: Ascendis Pharma Bone Diseases A/S, Denmark
+manufacturer: Ascendis Pharma A/S, Denmark
+atc_code: H05AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1766/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1766/001/smpc

@@ -1,0 +1,7 @@
+short_name: Akynzeo
+active_substance: Netupitantum, Palonosetronum
+marketing_authorisation_holder: Helsinn Birex Pharmaceutical Ltd., Ireland
+manufacturer: Helsinn Birex Pharmaceutical Ltd., Ireland
+atc_code: A04AA55
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1001/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1001/001/smpc

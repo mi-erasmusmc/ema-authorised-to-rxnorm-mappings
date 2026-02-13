@@ -1,0 +1,7 @@
+short_name: Pirfenidone Zentiva
+active_substance: Pirfenidonum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: PharOS MT Ltd., Malta; Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
+atc_code: L04AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0087/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0087/smpc

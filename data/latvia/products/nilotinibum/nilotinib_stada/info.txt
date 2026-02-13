@@ -1,0 +1,7 @@
+short_name: Nilotinib STADA
+active_substance: Nilotinibum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; Clonmel Healthcare Ltd., Ireland; Stada Arzneimittel AG, Germany; PharOS Pharmaceutical Oriented Services Ltd., Greece
+atc_code: L01EA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0184/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0184/smpc

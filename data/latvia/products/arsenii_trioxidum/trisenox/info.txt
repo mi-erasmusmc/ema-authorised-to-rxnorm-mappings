@@ -1,0 +1,7 @@
+short_name: Trisenox
+active_substance: Arsenii trioxidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharmaceuticals Europe BV, Netherlands; Almac Pharma Services Limited, United Kingdom; Merckle GmbH, Germany; Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: L01XX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/204/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/204/001/smpc

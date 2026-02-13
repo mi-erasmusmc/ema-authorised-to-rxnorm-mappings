@@ -1,0 +1,7 @@
+short_name: Cefepime PharmSol
+active_substance: Cefepimum
+marketing_authorisation_holder: PharmSol Europe Limited, Malta
+manufacturer: PharmSol Europe Limited, Malta
+atc_code: J01DE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0027/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0027/smpc

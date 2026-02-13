@@ -1,0 +1,7 @@
+short_name: Potassium Chloride/Sodium Chloride Fresenius
+active_substance: Kalii chloridum, Natrii chloridum
+marketing_authorisation_holder: Fresenius Kabi Deutschland GmbH, Germany
+manufacturer: Labesfal-Laboratorios Almiro, S.A., Portugal; Fresenius Kabi Deutschland GmbH, Werk Friedberg, Germany
+atc_code: B05BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0266/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0266/smpc

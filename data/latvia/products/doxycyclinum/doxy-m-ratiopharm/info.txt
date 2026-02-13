@@ -1,0 +1,7 @@
+short_name: Doxy-M-ratiopharm
+active_substance: Doxycyclinum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany
+atc_code: J01AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0421/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0421/smpc

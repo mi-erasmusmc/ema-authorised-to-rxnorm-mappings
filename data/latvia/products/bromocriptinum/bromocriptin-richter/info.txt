@@ -1,0 +1,7 @@
+short_name: Bromocriptin-Richter
+active_substance: Bromocriptinum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Ltd., Hungary
+atc_code: G02CB01;N04BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0395/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0395/smpc

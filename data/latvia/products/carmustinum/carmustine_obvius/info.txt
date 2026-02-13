@@ -1,0 +1,7 @@
+short_name: Carmustine Obvius
+active_substance: Carmustinum
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: European Pharma Hub Ltd., Hungary
+atc_code: L01AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1278/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1278/001/smpc

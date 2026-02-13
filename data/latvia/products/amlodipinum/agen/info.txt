@@ -1,0 +1,7 @@
+short_name: Agen
+active_substance: Amlodipinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: C08CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0181/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0181/smpc

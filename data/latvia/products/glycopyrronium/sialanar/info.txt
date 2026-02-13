@@ -1,0 +1,7 @@
+short_name: Sialanar
+active_substance: Glycopyrronium
+marketing_authorisation_holder: Proveca Pharma Limited, Ireland
+manufacturer: Unither Liquid Manufacturing, France; Centre Specialites Pharmaceutiques, France
+atc_code: A03AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1135/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1135/001/smpc

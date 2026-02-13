@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000772
+Name of medicine: Aerinaze
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: desloratadine;pseudoephedrine
+Active substance: desloratadine;pseudophedrine sulfate
+Therapeutic area (MeSH): Rhinitis, Allergic, Seasonal
+ATC code (human): R01BA52
+Pharmacotherapeutic group (human): Nasal preparations
+Therapeutic indication: Symptomatic treatment of seasonal allergic rhinitis when accompanied by nasal congestion.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aerinaze

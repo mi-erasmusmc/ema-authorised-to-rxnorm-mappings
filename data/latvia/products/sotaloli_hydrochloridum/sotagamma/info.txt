@@ -1,0 +1,7 @@
+short_name: Sotagamma
+active_substance: Sotaloli hydrochloridum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Artesan Pharma GmbH & Co. KG, Germany; Wörwag Pharma GmbH & Co.KG, Germany
+atc_code: C07AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1087/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1087/smpc

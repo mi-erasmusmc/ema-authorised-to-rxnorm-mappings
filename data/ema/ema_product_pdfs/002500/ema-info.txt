@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002500
+Name of medicine: Pheburane
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sodium phenylbutyrate
+Active substance: sodium phenylbutyrate
+Therapeutic area (MeSH): Carbamoyl-Phosphate Synthase I Deficiency Disease
+ATC code (human): A16AX03
+Pharmacotherapeutic group (human): Various alimentary tract and metabolism products
+Therapeutic indication: Treatment of chronic management of urea-cycle disorders.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pheburane

@@ -1,0 +1,7 @@
+short_name: Targretin
+active_substance: Bexarotenum
+marketing_authorisation_holder: H.A.C. Pharma, France
+manufacturer: Eisai GmbH, Germany
+atc_code: L01XF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/178/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/178/001/smpc

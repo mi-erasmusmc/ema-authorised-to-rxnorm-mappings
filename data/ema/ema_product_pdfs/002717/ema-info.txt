@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002717
+Name of medicine: Brintellix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vortioxetine
+Active substance: vortioxetine
+Therapeutic area (MeSH): Depressive Disorder, Major
+ATC code (human): N06AX26
+Pharmacotherapeutic group (human): Psychoanaleptics
+Therapeutic indication: Treatment of major depressive episodes in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/brintellix

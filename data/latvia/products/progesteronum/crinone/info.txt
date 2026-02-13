@@ -1,0 +1,7 @@
+short_name: Crinone
+active_substance: Progesteronum
+marketing_authorisation_holder: Merck Serono, SIA, Latvia
+manufacturer: Catalent France Beinheim, France
+atc_code: G03DA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0067/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0067/smpc

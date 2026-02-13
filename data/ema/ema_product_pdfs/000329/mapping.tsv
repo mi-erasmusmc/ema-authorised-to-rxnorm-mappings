@@ -1,0 +1,46 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/00/132/001	1797156	peginterferon alfa-2b 0.05 MG Injection	284192	EXACT			2025-12-04
+EU/1/00/132/002	1797156	peginterferon alfa-2b 0.05 MG Injection	284192	EXACT			2025-12-04
+EU/1/00/132/003	1797156	peginterferon alfa-2b 0.05 MG Injection	284192	EXACT			2025-12-04
+EU/1/00/132/004	1797156	peginterferon alfa-2b 0.05 MG Injection	284192	EXACT			2025-12-04
+EU/1/00/132/005	1797156	peginterferon alfa-2b 0.05 MG Injection	284192	EXACT			2025-12-04
+EU/1/00/132/006	1797157	peginterferon alfa-2b 0.08 MG Injection	284193	EXACT			2025-12-04
+EU/1/00/132/007	1797157	peginterferon alfa-2b 0.08 MG Injection	284193	EXACT			2025-12-04
+EU/1/00/132/008	1797157	peginterferon alfa-2b 0.08 MG Injection	284193	EXACT			2025-12-04
+EU/1/00/132/009	1797157	peginterferon alfa-2b 0.08 MG Injection	284193	EXACT			2025-12-04
+EU/1/00/132/010	1797157	peginterferon alfa-2b 0.08 MG Injection	284193	EXACT			2025-12-04
+EU/1/00/132/011	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/132/012	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/132/013	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/132/014	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/132/015	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/132/016	1797158	peginterferon alfa-2b 0.12 MG Injection	284194	EXACT			2025-12-04
+EU/1/00/132/017	1797158	peginterferon alfa-2b 0.12 MG Injection	284194	EXACT			2025-12-04
+EU/1/00/132/018	1797158	peginterferon alfa-2b 0.12 MG Injection	284194	EXACT			2025-12-04
+EU/1/00/132/019	1797158	peginterferon alfa-2b 0.12 MG Injection	284194	EXACT			2025-12-04
+EU/1/00/132/020	1797158	peginterferon alfa-2b 0.12 MG Injection	284194	EXACT			2025-12-04
+EU/1/00/132/021	1797159	peginterferon alfa-2b 0.15 MG Injection	284195	EXACT			2025-12-04
+EU/1/00/132/022	1797159	peginterferon alfa-2b 0.15 MG Injection	284195	EXACT			2025-12-04
+EU/1/00/132/023	1797159	peginterferon alfa-2b 0.15 MG Injection	284195	EXACT			2025-12-04
+EU/1/00/132/024	1797159	peginterferon alfa-2b 0.15 MG Injection	284195	EXACT			2025-12-04
+EU/1/00/132/025	1797159	peginterferon alfa-2b 0.15 MG Injection	284195	EXACT			2025-12-04
+EU/1/00/132/026	1797156	peginterferon alfa-2b 0.05 MG Injection	284192	EXACT			2025-12-04
+EU/1/00/132/027	1797157	peginterferon alfa-2b 0.08 MG Injection	284193	EXACT			2025-12-04
+EU/1/00/132/028	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/132/029	1797158	peginterferon alfa-2b 0.12 MG Injection	284194	EXACT			2025-12-04
+EU/1/00/132/030	1797159	peginterferon alfa-2b 0.15 MG Injection	284195	EXACT			2025-12-04
+EU/1/00/132/031	35606668	peginterferon alfa-2b 0.05 MG	1720775	BROAD			2025-12-04
+EU/1/00/132/032	35606668	peginterferon alfa-2b 0.05 MG	1720775	BROAD			2025-12-04
+EU/1/00/132/034	35606668	peginterferon alfa-2b 0.05 MG	1720775	BROAD			2025-12-04
+EU/1/00/132/035	35606672	peginterferon alfa-2b 0.08 MG	1720785	BROAD			2025-12-04
+EU/1/00/132/036	35606672	peginterferon alfa-2b 0.08 MG	1720785	BROAD			2025-12-04
+EU/1/00/132/038	35606672	peginterferon alfa-2b 0.08 MG	1720785	BROAD			2025-12-04
+EU/1/00/132/039	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
+EU/1/00/132/040	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
+EU/1/00/132/042	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
+EU/1/00/132/043	35606674	peginterferon alfa-2b 0.12 MG	1720795	BROAD			2025-12-04
+EU/1/00/132/044	35606674	peginterferon alfa-2b 0.12 MG	1720795	BROAD			2025-12-04
+EU/1/00/132/046	35606674	peginterferon alfa-2b 0.12 MG	1720795	BROAD			2025-12-04
+EU/1/00/132/047	35606676	peginterferon alfa-2b 0.15 MG	1720799	BROAD			2025-12-04
+EU/1/00/132/048	35606676	peginterferon alfa-2b 0.15 MG	1720799	BROAD			2025-12-04
+EU/1/00/132/050	35606676	peginterferon alfa-2b 0.15 MG	1720799	BROAD			2025-12-04

@@ -1,0 +1,7 @@
+short_name: Bocouture
+active_substance: Toxinum botulinicum A sine proteinorum multiplex
+marketing_authorisation_holder: Merz Pharmaceuticals GmbH, Germany
+manufacturer: Merz Pharma GmbH & Co. KGaA, Germany
+atc_code: M03AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0010/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0010/smpc

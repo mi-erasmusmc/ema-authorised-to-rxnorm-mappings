@@ -1,0 +1,7 @@
+short_name: Tilobrastil
+active_substance: Ticagrelorum
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; PharOS MT Ltd., Malta
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0149/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0149/smpc

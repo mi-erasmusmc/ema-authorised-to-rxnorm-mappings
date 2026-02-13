@@ -1,0 +1,7 @@
+short_name: Lenalidomide Mylan
+active_substance: Lenalidomidum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: L04AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1490/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1490/001/smpc

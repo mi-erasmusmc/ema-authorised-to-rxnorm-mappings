@@ -1,0 +1,7 @@
+short_name: Meropenem Kalceks
+active_substance: Meropenemum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: ACS Dobfar S.P.A., Italy
+atc_code: J01DH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0007/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0007/smpc

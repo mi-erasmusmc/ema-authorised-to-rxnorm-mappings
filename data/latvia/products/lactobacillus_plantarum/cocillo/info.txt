@@ -1,0 +1,7 @@
+short_name: Cocillo
+active_substance: Lactobacillus plantarum
+marketing_authorisation_holder: Proge Farm S.r.l., Italy
+manufacturer: S.I.I.T. S.R.L.-Servizio Internazionale Imballaggi Termosaldanti, Italy
+atc_code: G01AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0208/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0208/smpc

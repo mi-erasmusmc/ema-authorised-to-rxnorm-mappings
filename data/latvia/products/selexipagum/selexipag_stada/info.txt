@@ -1,0 +1,7 @@
+short_name: Selexipag STADA
+active_substance: Selexipagum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain; Synthon s.r.o., Czech Republic
+atc_code: B01AC27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0222/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0222/smpc

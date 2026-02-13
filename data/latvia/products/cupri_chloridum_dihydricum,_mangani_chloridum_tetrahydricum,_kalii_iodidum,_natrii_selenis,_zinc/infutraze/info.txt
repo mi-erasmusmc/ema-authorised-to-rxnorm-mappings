@@ -1,0 +1,7 @@
+short_name: Infutraze
+active_substance: Cupri chloridum dihydricum, Mangani chloridum tetrahydricum, Kalii iodidum, Natrii selenis, Zinci chloridum
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: HP Halden Pharma AS, Norway
+atc_code: B05XA31
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0108/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0108/smpc

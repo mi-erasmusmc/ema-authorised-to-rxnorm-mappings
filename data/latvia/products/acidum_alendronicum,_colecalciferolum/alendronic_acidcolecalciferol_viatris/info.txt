@@ -1,0 +1,7 @@
+short_name: Alendronic Acid/Colecalciferol Viatris
+active_substance: Acidum alendronicum, Colecalciferolum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: GE Pharmaceuticals Ltd., Bulgaria; Mylan Hungary Kft., Hungary
+atc_code: M05BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0164/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0164/smpc

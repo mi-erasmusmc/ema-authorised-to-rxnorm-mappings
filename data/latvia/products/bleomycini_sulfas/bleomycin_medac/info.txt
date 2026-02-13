@@ -1,0 +1,7 @@
+short_name: Bleomycin medac
+active_substance: Bleomycini sulfas
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+atc_code: L01DC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0008/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0008/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000915
+Name of medicine: Valdoxan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: agomelatine
+Active substance: agomelatine
+Therapeutic area (MeSH): Depressive Disorder, Major
+ATC code (human): N06AX22
+Pharmacotherapeutic group (human): Psychoanaleptics
+Therapeutic indication: Treatment of major depressive episodes in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/valdoxan

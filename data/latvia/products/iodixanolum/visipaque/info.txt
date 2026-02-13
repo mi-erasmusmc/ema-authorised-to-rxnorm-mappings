@@ -1,0 +1,7 @@
+short_name: Visipaque
+active_substance: Iodixanolum
+marketing_authorisation_holder: GE Healthcare AS, Norway
+manufacturer: GE Healthcare Ireland Limited, Ireland; GE Healthcare AS, Norway
+atc_code: V08AB09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0188/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0188/smpc

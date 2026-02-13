@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005135
+Name of medicine: Celsunax
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ioflupane (123I)
+Active substance: ioflupane (123i)
+Therapeutic area (MeSH): Radionuclide Imaging;Dementia;Movement Disorders
+ATC code (human): V09AB03
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: This medicinal product is for diagnostic use only. Celsunax is indicated for detecting loss of functional dopaminergic neuron terminals in the striatum:  In adult patients with clinically uncertain parkinsonian syndromes, for example those with early symptoms, in order to help differentiate essential tremor from parkinsonian syndromes related to idiopathic Parkinson’s disease, multiple system atrophy and progressive supranuclear palsy.&nbsp;Celsunax is unable to discriminate between Parkinson's disease, multiple system atrophy and progressive supranuclear palsy. In adult patients, to help differentiate probable dementia with Lewy bodies from Alzheimer’s disease.&nbsp;Celsunax is unable to discriminate between dementia with Lewy bodies and Parkinson’s disease dementia.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/celsunax

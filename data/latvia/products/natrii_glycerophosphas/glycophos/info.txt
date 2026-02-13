@@ -1,0 +1,7 @@
+short_name: Glycophos
+active_substance: Natrii glycerophosphas
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: HP Halden Pharma AS, Norway
+atc_code: B05XA14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0075/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0075/smpc

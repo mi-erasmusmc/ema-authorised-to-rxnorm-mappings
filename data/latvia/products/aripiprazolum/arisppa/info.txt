@@ -1,0 +1,7 @@
+short_name: Arisppa
+active_substance: Aripiprazolum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: N05AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0037/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0037/smpc

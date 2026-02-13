@@ -1,0 +1,7 @@
+short_name: PecFent
+active_substance: Fentanylum
+marketing_authorisation_holder: Grünenthal GmbH, Germany
+manufacturer: Molteni Farmaceutici, Italy
+atc_code: N02AB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/644/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/644/001/smpc

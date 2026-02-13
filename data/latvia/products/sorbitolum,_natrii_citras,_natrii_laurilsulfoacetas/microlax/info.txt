@@ -1,0 +1,7 @@
+short_name: Microlax
+active_substance: Sorbitolum, Natrii citras, Natrii laurilsulfoacetas
+marketing_authorisation_holder: McNeil AB, Sweden
+manufacturer: Delpharm Orleans, France; JNTL Consumer Health (France) SAS, France
+atc_code: A06AG11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0919/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0919/smpc

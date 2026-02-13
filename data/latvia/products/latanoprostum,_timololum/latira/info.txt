@@ -1,0 +1,7 @@
+short_name: Latira
+active_substance: Latanoprostum, Timololum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany; Rompharm Company S.R.L., Romania
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0262/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0262/smpc

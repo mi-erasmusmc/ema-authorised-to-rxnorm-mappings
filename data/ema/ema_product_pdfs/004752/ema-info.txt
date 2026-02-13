@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004752
+Name of medicine: Xospata
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: gilteritinib
+Active substance: gilteritinib fumarate
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): L01EX13
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Xospata is indicated as monotherapy for the treatment of adult patients who have relapsed or refractory acute myeloid leukaemia (AML) with a FLT3 mutation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xospata

@@ -1,0 +1,7 @@
+short_name: Acic
+active_substance: Aciclovirum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Salutas Pharma GmbH, Germany; Salutas Pharma GmbH, Germany
+atc_code: D06BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0566/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0566/smpc

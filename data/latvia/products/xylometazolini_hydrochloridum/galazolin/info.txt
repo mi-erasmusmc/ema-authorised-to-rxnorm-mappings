@@ -1,0 +1,7 @@
+short_name: Galazolin
+active_substance: Xylometazolini hydrochloridum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: R01AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0428/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0428/smpc

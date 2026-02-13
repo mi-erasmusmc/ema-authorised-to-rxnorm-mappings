@@ -1,0 +1,7 @@
+short_name: Senebra
+active_substance: Colecalciferolum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary
+atc_code: A11CC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0136/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0136/smpc

@@ -1,0 +1,7 @@
+short_name: Valkubit
+active_substance: Sacubitrilum, Valsartanum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C09DX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0002/smpc

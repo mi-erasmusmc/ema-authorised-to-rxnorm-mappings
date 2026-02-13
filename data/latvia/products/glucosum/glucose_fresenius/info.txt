@@ -1,0 +1,7 @@
+short_name: Glucose Fresenius
+active_substance: Glucosum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Polska Sp.z.o.o., Poland; Fresenius Kabi Italia S.r.l., Italy; Fresenius Kabi France, France; Fresenius Kabi Deutschland GmbH, Werk Friedberg, Germany
+atc_code: B05BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0371/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0371/smpc

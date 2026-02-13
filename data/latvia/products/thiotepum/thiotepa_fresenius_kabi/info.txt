@@ -1,0 +1,7 @@
+short_name: Thiotepa Fresenius Kabi
+active_substance: Thiotepum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Deutschland GmbH, Germany
+atc_code: L01AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0081/smpc

@@ -1,0 +1,7 @@
+short_name: Sutent
+active_substance: Sunitinibum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Italia s.r.l., Italy
+atc_code: L01EX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/347/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/347/001/smpc

@@ -1,0 +1,7 @@
+short_name: Fucicort
+active_substance: Acidum fusidicum, Betamethasoni valeras
+marketing_authorisation_holder: LEO Pharma A/S, Denmark
+manufacturer: LEO Laboratories Ltd., Ireland; LEO Pharma Manufacturing Italy S.r.l., Italy
+atc_code: D07CC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0122/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0122/smpc

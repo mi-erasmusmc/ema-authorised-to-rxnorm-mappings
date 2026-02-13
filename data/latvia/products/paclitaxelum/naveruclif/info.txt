@@ -1,0 +1,7 @@
+short_name: Naveruclif
+active_substance: Paclitaxelum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: L01CD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1778/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1778/001/smpc

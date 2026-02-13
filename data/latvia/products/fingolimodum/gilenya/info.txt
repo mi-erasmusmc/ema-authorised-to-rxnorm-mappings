@@ -1,0 +1,7 @@
+short_name: GILENYA
+active_substance: Fingolimodum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia
+atc_code: L04AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/677/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/677/001/smpc

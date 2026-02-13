@@ -1,0 +1,7 @@
+short_name: Mysimba
+active_substance: Naltrexonum, Bupropionum
+marketing_authorisation_holder: Orexigen Therapeutics Ireland Limited, Ireland
+manufacturer: MIAS Pharma Limited, Ireland
+atc_code: A08AA62
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/988/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/988/001/smpc

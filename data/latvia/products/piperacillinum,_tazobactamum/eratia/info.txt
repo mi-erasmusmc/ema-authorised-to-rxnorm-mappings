@@ -1,0 +1,7 @@
+short_name: Eratia
+active_substance: Piperacillinum, Tazobactamum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., (Factory B) Injectable Facility, Cyprus
+atc_code: J01CR05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0093/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0093/smpc

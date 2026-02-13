@@ -1,0 +1,7 @@
+short_name: Vesicare
+active_substance: Solifenacini succinas
+marketing_authorisation_holder: Astellas Pharma d.o.o., Slovenia
+manufacturer: Delpharm Meppel B.V., Netherlands
+atc_code: G04BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0265/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0265/smpc

@@ -1,0 +1,7 @@
+short_name: Torasemide Hexal
+active_substance: Torasemidum
+marketing_authorisation_holder: Hexal AG, Germany
+manufacturer: Lek S.A., Poland; Salutas Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia; Lek S.A., Poland
+atc_code: C03CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0167/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0167/smpc

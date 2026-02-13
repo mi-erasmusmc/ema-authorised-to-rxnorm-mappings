@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005470
+Name of medicine: Vimkunya
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: Chikungunya vaccine (recombinant, adsorbed)
+Active substance: Chikungunya virus (CHIKV) virus-like particle (VLP) proteins (capsid protein (C) and envelope proteins E1 and E2) derived from CHIKV Senegal strain 37997 produced in human embryonic kidney cells by recombinant DNA technology, adsorbed on aluminium hydroxide, hydrated
+Therapeutic area (MeSH): Chikungunya virus
+ATC code (human): 
+Pharmacotherapeutic group (human): 
+Therapeutic indication: Vimkunya is indicated for active immunisation for the prevention of disease caused by chikungunya virus (CHIKV) in individuals 12 years and older. The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vimkunya

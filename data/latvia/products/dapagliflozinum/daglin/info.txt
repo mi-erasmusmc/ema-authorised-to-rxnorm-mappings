@@ -1,0 +1,7 @@
+short_name: Daglin
+active_substance: Dapagliflozinum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Pharmaceutical Works Polpharma S.A., Poland
+atc_code: A10BK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0067/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0067/smpc

@@ -1,0 +1,7 @@
+short_name: Rytelo
+active_substance: Imetelstatum
+marketing_authorisation_holder: Geron Netherlands B.V., Netherlands
+manufacturer: ADOH B.V., Netherlands
+atc_code: L01XX80
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1894/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1894/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000903
+Name of medicine: Pelzont
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: laropiprant;nicotinic acid
+Active substance: laropiprant;nicotinic acid
+Therapeutic area (MeSH): Dyslipidemias
+ATC code (human): C10AD52
+Pharmacotherapeutic group (human): Lipid modifying agents
+Therapeutic indication: Pelzont is indicated for the treatment of dyslipidaemia, particularly in patients with combined mixed dyslipidaemia (characterised by elevated levels of low-density-lipoprotein (LDL) cholesterol and triglycerides and low high-density-lipoprotein (HDL)cholesterol) and in patients with primary hypercholesterolaemia (heterozygous familial and non-familial). Pelzont should be used in patients in combination with 3-hydroxy-3-methylglutaryl-coenzyme-A (HMG-CoA)-reductase inhibitors (statins), when the cholesterol lowering effect of HMG-CoA-reductase inhibitor monotherapy is inadequate. It can be used as monotherapy only in patients in whom HMG-CoA-reductase inhibitors are considered inappropriate or not tolerated. Diet and other non-pharmacological treatments (e.g. exercise, weight reduction) should be continued during therapy with Pelzont.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pelzont

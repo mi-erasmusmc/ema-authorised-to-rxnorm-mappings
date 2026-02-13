@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000596
+Name of medicine: Yttriga
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: yttrium [90Y] chloride
+Active substance: yttrium (90Y) chloride
+Therapeutic area (MeSH): Radionuclide Imaging
+ATC code (human): V09
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: To be used only for the radiolabelling of carrier molecules, which have been specifically developed and authorised for radiolabelling with this radionuclide.Radiopharmaceutical precursor - Not intended for direct use in patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/yttriga

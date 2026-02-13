@@ -1,0 +1,7 @@
+short_name: Arsenic trioxide Tillomed
+active_substance: Arsenii trioxidum
+marketing_authorisation_holder: Tillomed Malta Limited, Malta
+manufacturer: Tillomed Malta Limited, Malta
+atc_code: L01XX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0289/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0289/smpc

@@ -1,0 +1,7 @@
+short_name: Circadin
+active_substance: Melatoninum
+marketing_authorisation_holder: RAD Neurim Pharmaceuticals EEC SARL, France
+manufacturer: Iberfar Industria Farmaceutica S.A., Portugal; Qualiti (Burnley) Limited, United Kingdom; Temmler Pharma GmbH & Co. KG, Germany; ROVI Pharma Industrial Services, S.A., Spain
+atc_code: N05CH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/392/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/392/001/smpc

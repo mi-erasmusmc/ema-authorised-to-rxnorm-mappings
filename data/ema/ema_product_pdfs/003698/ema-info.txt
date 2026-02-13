@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003698
+Name of medicine: Simbrinza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: brinzolamide;brimonidine tartrate
+Active substance: brinzolamide;brimonidine tartrate
+Therapeutic area (MeSH): Ocular Hypertension;Glaucoma, Open-Angle
+ATC code (human): S01EC54
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Decrease of elevated intraocular pressure (IOP) in adult patients with open-angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/simbrinza

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004302
+Name of medicine: Verzenios
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: abemaciclib
+Active substance: abemaciclib
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L01EF03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Early Breast Cancer Verzenios in combination with endocrine therapy is indicated for the adjuvant treatment of adult patients with hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative, node positive early breast cancer at high risk of recurrence (see section 5.1). In pre or perimenopausal women, aromatase inhibitor endocrine therapy should be combined with a luteinising hormone-releasing hormone (LHRH) agonist. Advanced or Metastatic Breast Cancer Verzenios is indicated for the treatment of women with hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative locally advanced or metastatic breast cancer in combination with an aromatase inhibitor or fulvestrant as initial endocrine-based therapy, or in women who have received prior endocrine therapy. In pre- or perimenopausal women, the endocrine therapy should be combined with a LHRH agonist.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/verzenios

@@ -1,0 +1,7 @@
+short_name: Dolmen
+active_substance: Dexketoprofenum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: Laboratorios Menarini S.A., Spain; A. Menarini Manufacturing Logistics and Services s.r.l., Italy
+atc_code: M01AE17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0081/smpc

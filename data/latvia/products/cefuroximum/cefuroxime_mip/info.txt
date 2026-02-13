@@ -1,0 +1,7 @@
+short_name: Cefuroxime MIP
+active_substance: Cefuroximum
+marketing_authorisation_holder: MIP Pharma GmbH, Germany
+manufacturer: MIP Pharma GmbH, Germany
+atc_code: J01DC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0016/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0016/smpc

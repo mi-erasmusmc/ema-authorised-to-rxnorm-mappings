@@ -1,0 +1,7 @@
+short_name: Dasatinib Sandoz
+active_substance: Dasatinibum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Remedica Ltd., Cyprus
+atc_code: L01EA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0140/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0140/smpc

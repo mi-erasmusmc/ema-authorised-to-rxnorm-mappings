@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002826
+Name of medicine: Ledaga
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: chlormethine
+Active substance: chlormethine
+Therapeutic area (MeSH): Mycosis Fungoides
+ATC code (human): L01AA05
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Ledaga is indicated for the topical treatment of mycosis fungoides-type cutaneous T-cell lymphoma (MF-type CTCL) in adult patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ledaga

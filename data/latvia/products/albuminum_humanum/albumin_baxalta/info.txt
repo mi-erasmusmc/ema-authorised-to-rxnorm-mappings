@@ -1,0 +1,7 @@
+short_name: Albumin Baxalta
+active_substance: Albuminum humanum
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B05AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0248/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0248/smpc

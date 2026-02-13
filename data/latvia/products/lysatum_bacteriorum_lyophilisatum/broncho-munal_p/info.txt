@@ -1,0 +1,7 @@
+short_name: Broncho-Munal P
+active_substance: Lysatum bacteriorum lyophilisatum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Novartis Pharmaceutical Manufacturing LLC, Slovenia
+atc_code: R07AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0641/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0641/smpc

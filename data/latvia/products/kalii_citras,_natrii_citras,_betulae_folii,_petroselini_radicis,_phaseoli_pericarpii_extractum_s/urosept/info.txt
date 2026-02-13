@@ -1,0 +1,7 @@
+short_name: Urosept
+active_substance: Kalii citras, Natrii citras, Betulae folii, Petroselini radicis, Phaseoli pericarpii extractum spissum compositum, Matricariae floris extractum siccum, Vitis-idaeae folii extractum siccum, Phaseoli pericarpii pulvis
+marketing_authorisation_holder: Poznan Herbal Company "Herbapol" SA, Poland
+manufacturer: Poznan Herbal Company "Herbapol" SA, Poland
+atc_code: G04BX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0327/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0327/smpc

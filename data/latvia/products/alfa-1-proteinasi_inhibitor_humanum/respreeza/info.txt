@@ -1,0 +1,7 @@
+short_name: Respreeza
+active_substance: Alfa-1-Proteinasi inhibitor humanum
+marketing_authorisation_holder: CSL Behring GmbH, Germany
+manufacturer: CSL Behring GmbH, Germany
+atc_code: B02AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1006/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1006/001/smpc

@@ -1,0 +1,7 @@
+short_name: Eltrombopag Viatris
+active_substance: Eltrombopagum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: ELPEN Pharmaceutical Co. Inc., Greece; Mylan Germany GmbH, Germany
+atc_code: B02BX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1869/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1869/001/smpc

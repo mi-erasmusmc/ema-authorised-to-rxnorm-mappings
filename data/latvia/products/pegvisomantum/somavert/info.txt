@@ -1,0 +1,7 @@
+short_name: Somavert
+active_substance: Pegvisomantum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: H01AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/240/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/240/001/smpc

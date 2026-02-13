@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002661
+Name of medicine: Spectrila
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: asparaginase
+Active substance: asparaginase
+Therapeutic area (MeSH): Precursor Cell Lymphoblastic Leukemia-Lymphoma
+ATC code (human): L01XX02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Spectrila is indicated as a component of antineoplastic combination therapy for the treatment of acute lymphoblastic leukaemia (ALL) in paediatric patients from birth to 18 years and adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spectrila

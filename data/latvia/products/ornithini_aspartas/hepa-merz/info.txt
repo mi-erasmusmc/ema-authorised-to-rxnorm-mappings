@@ -1,0 +1,7 @@
+short_name: Hepa-Merz
+active_substance: Ornithini aspartas
+marketing_authorisation_holder: Merz Pharmaceuticals GmbH, Germany
+manufacturer: Merz Pharma GmbH & Co. KgaA, Germany
+atc_code: A05BA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0187/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0187/smpc

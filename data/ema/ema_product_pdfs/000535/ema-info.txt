@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000535
+Name of medicine: Wilzin
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: zinc
+Active substance: zinc
+Therapeutic area (MeSH): Hepatolenticular Degeneration
+ATC code (human): A16AX05
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Treatment of Wilson's disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/wilzin

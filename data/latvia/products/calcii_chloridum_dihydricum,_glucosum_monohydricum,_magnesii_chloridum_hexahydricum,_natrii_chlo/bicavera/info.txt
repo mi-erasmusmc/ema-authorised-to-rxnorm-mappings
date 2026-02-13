@@ -1,0 +1,7 @@
+short_name: Bicavera
+active_substance: Calcii chloridum dihydricum, Glucosum monohydricum, Magnesii chloridum hexahydricum, Natrii chloridum, Natrii hydrogenocarbonas
+marketing_authorisation_holder: Fresenius Medical Care Deutschland GmbH, Germany
+manufacturer: Fresenius Medical Care Deutschland GmbH, Germany; Fresenius Medical Care Deutschland GmbH, Germany
+atc_code: B05DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0186/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0186/smpc

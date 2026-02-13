@@ -1,0 +1,7 @@
+short_name: Abecma
+active_substance: Idecabtagenum vicleucelum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Celgene Distribution B.V., Netherlands; BMS Netherlands Operations B.V., Netherlands
+atc_code: L01XL07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1539/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1539/001/smpc

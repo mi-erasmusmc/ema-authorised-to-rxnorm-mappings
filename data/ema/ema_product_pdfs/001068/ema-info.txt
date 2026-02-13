@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001068
+Name of medicine: Exforge HCT
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: amlodipine besilate;valsartan;hydrochlorothiazide
+Active substance: valsartan;hydrochlorothiazide;amlodipine besilate
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09DX01
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of essential hypertension as substitution therapy in adult patients whose blood pressure is adequately controlled on the combination of amlodipine, valsartan and hydrochlorothiazide (HCT), taken either as three single-component formulations or as a dual-component and a single-component formulation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/exforge-hct

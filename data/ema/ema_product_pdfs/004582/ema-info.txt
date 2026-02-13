@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004582
+Name of medicine: Nityr
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: nitisinone
+Active substance: nitisinone
+Therapeutic area (MeSH): Tyrosinemias
+ATC code (human): A16AX04
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Treatment of adult and paediatric patients with confirmed diagnosis of hereditary tyrosinemia type 1 (HT-1) in combination with dietary restriction of tyrosine and phenylalanine.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nityr

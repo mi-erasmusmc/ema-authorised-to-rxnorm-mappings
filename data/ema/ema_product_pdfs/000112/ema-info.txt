@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000112
+Name of medicine: Twinrix Adult
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
+Active substance: hepatitis A virus (inactivated);hepatitis B surface antigen
+Therapeutic area (MeSH): Hepatitis B;Hepatitis A;Immunization
+ATC code (human): J07BC20
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Twinrix Adult is indicated for use in non immune adults and adolescents 16 years of age and above who are at risk of both hepatitis A and hepatitis B infection.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-adult

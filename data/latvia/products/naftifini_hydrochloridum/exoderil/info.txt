@@ -1,0 +1,7 @@
+short_name: Exoderil
+active_substance: Naftifini hydrochloridum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Sandoz GmbH, Austria; Salutas Pharma GmbH, Germany; Salutas Pharma GmbH, Germany
+atc_code: D01AE22
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0468/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0468/smpc

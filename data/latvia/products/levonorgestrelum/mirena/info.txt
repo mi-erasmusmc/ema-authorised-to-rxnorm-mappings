@@ -1,0 +1,7 @@
+short_name: Mirena
+active_substance: Levonorgestrelum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer Oy, Finland
+atc_code: G02BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0502/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0502/smpc

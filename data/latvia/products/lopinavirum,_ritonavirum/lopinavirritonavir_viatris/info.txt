@@ -1,0 +1,7 @@
+short_name: Lopinavir/Ritonavir Viatris
+active_substance: Lopinavirum, Ritonavirum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: McDermott Laboratories Ltd, Ireland; Mylan Hungary Kft., Hungary
+atc_code: J05AR10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1067/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1067/001/smpc

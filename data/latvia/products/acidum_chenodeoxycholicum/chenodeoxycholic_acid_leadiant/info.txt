@@ -1,0 +1,7 @@
+short_name: Chenodeoxycholic acid Leadiant
+active_substance: Acidum chenodeoxycholicum
+marketing_authorisation_holder: Leadiant GmbH, Germany
+manufacturer: Pharmaloop S.L., Spain
+atc_code: A05AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1110/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1110/001/smpc

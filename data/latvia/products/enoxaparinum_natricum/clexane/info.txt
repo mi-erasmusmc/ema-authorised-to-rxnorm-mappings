@@ -1,0 +1,7 @@
+short_name: Clexane
+active_substance: Enoxaparinum natricum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Chinoin Pharmaceutical and Chemical Works Co. Ltd., Hungary; Sanofi Winthrop Industrie, France; Sanofi Winthrop Industrie, France; Sanofi-Aventis Private Co. Ltd., Hungary
+atc_code: B01AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0717/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0717/smpc

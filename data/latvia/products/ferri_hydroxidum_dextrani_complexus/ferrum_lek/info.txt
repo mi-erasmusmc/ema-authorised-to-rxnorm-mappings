@@ -1,0 +1,7 @@
+short_name: Ferrum Lek
+active_substance: Ferri hydroxidum dextrani complexus
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia
+atc_code: B03AC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0280/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0280/smpc

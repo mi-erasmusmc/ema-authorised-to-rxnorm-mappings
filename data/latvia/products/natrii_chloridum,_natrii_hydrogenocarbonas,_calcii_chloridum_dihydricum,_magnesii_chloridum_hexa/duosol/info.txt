@@ -1,0 +1,7 @@
+short_name: Duosol
+active_substance: Natrii chloridum, Natrii hydrogenocarbonas, Calcii chloridum dihydricum, Magnesii chloridum hexahydricum, Glucosum monohydricum
+marketing_authorisation_holder: B.Braun Avitum AG, Germany
+manufacturer: B.Braun Avitum AG, Germany; B.Braun Avitum AG, Germany
+atc_code: B05ZB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0139/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0139/smpc

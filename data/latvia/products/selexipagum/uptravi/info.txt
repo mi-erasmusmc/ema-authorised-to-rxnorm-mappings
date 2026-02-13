@@ -1,0 +1,7 @@
+short_name: Uptravi
+active_substance: Selexipagum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Actelion Manufacturing GmbH, Germany; Actelion Pharmaceuticals Belgium NV, Belgium
+atc_code: B01AC27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1083/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1083/001/smpc

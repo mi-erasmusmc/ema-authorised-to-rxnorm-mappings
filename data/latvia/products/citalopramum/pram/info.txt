@@ -1,0 +1,7 @@
+short_name: Pram
+active_substance: Citalopramum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: N06AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0197/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0197/smpc

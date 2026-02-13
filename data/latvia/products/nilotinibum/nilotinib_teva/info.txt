@@ -1,0 +1,7 @@
+short_name: Nilotinib Teva
+active_substance: Nilotinibum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: PharOS MT Ltd., Malta; PharOS Pharmaceutical Oriented Services Ltd., Greece
+atc_code: L01EA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0166/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0166/smpc

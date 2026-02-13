@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005882
+Name of medicine: Theralugand
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lutetium (177Lu) chloride
+Active substance: lutetium (177Lu) chloride
+Therapeutic area (MeSH): Radionuclide Imaging
+ATC code (human): V10X
+Pharmacotherapeutic group (human): Other therapeutic radiopharmaceuticals
+Therapeutic indication: Theralugand is a radiopharmaceutical precursor, and it is not intended for direct use in patients. It is to be used only for the radiolabelling of carrier molecules that have been specifically developed and authorised for radiolabelling with lutetium (177Lu) chloride.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/theralugand

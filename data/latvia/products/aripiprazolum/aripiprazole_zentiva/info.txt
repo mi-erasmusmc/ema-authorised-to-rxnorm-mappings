@@ -1,0 +1,7 @@
+short_name: Aripiprazole Zentiva
+active_substance: Aripiprazolum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: S.C. Zentiva S.A., Romania
+atc_code: N05AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1009/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1009/001/smpc

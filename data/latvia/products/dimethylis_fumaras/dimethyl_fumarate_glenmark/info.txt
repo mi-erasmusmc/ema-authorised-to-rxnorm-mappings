@@ -1,0 +1,7 @@
+short_name: Dimethyl fumarate Glenmark
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Glenmark Pharmaceuticals s.r.o., Czech Republic
+manufacturer: Glenmark Pharmaceuticals s.r.o., Czech Republic
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0183/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0183/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002321
+Name of medicine: Zytiga
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: abiraterone
+Active substance: abiraterone acetate
+Therapeutic area (MeSH): Prostatic Neoplasms
+ATC code (human): L02BX03
+Pharmacotherapeutic group (human): Endocrine therapy
+Therapeutic indication: Zytiga is indicated with prednisone or prednisolone for:  the treatment of metastatic castration resistant prostate cancer in adult men who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicated the treatment of metastatic castration resistant prostate cancer in adult men whose disease has progressed on or after a docetaxel based chemotherapy regimen.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zytiga

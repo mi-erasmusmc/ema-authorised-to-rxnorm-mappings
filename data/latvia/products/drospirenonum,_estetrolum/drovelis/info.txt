@@ -1,0 +1,7 @@
+short_name: Drovelis
+active_substance: Drospirenonum, Estetrolum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary; Haupt Pharma Münster GmbH, Germany
+atc_code: G03AA18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1547/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1547/001/smpc

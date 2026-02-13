@@ -1,0 +1,7 @@
+short_name: Hexoral Spray
+active_substance: Hexetidinum
+marketing_authorisation_holder: McNeil Healthcare (Ireland) Limited, Ireland
+manufacturer: Delpharm Orleans, France
+atc_code: A01AB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0313/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0313/smpc

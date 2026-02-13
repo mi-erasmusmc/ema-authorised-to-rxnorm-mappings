@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000301
+Name of medicine: NeuroBloc
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: botulinum toxin type B
+Active substance: botulinum toxin type B
+Therapeutic area (MeSH): Torticollis
+ATC code (human): M03AX01
+Pharmacotherapeutic group (human): Muscle relaxants
+Therapeutic indication: NeuroBloc is indicated for the treatment of cervical dystonia (torticollis). See section 5.1 for data on efficacy in patients responsive / resistant to botulinum toxin type A.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/neurobloc

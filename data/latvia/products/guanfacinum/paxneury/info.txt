@@ -1,0 +1,7 @@
+short_name: Paxneury
+active_substance: Guanfacinum
+marketing_authorisation_holder: Neuraxpharm Pharmaceuticals S.L., Spain
+manufacturer: Neuraxpharm Arzneimittel GmbH, Germany; Neuraxpharm Pharmaceuticals S.L., Spain
+atc_code: C02AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1908/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1908/001/smpc

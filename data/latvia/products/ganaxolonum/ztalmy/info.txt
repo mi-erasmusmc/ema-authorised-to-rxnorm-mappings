@@ -1,0 +1,7 @@
+short_name: Ztalmy
+active_substance: Ganaxolonum
+marketing_authorisation_holder: Immedica Pharma AB, Sweden
+manufacturer: Orion Corporation Orion Pharma, Finland
+atc_code: N03AX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1743/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1743/001/smpc

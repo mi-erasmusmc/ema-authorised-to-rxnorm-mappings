@@ -1,0 +1,7 @@
+short_name: Monofer
+active_substance: Ferrum
+marketing_authorisation_holder: Pharmacosmos A/S, Denmark
+manufacturer: Pharmacosmos A/S, Denmark
+atc_code: B03AC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0203/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0203/smpc

@@ -1,0 +1,7 @@
+short_name: Visine
+active_substance: Tetryzolini hydrochloridum
+marketing_authorisation_holder: McNeil Healthcare (Ireland) Limited, Ireland
+manufacturer: Janssen Pharmaceutica N.V., Belgium
+atc_code: S01GA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0012/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0012/smpc

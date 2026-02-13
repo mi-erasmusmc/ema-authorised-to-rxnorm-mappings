@@ -1,0 +1,7 @@
+short_name: Competact
+active_substance: Pioglitazonum, Metformini hydrochloridum
+marketing_authorisation_holder: Cheplapharm Arzneimittel GmbH, Germany
+manufacturer: Lilly S.A., Spain; Takeda Ireland Ltd., Ireland; Delpharm Novara S.r.l, Italy
+atc_code: A10BD05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/354/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/354/001/smpc

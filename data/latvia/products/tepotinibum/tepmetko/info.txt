@@ -1,0 +1,7 @@
+short_name: Tepmetko
+active_substance: Tepotinibum
+marketing_authorisation_holder: Merck Europe B.V., Netherlands
+manufacturer: Merck Healthcare KGaA, Germany
+atc_code: L01EP02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1596/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1596/001/smpc

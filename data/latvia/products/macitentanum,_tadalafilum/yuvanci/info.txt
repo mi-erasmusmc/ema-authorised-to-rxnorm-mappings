@@ -1,0 +1,7 @@
+short_name: Yuvanci
+active_substance: Macitentanum, Tadalafilum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Pharmaceutica N.V., Belgium
+atc_code: C02KX54
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1859/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1859/001/smpc

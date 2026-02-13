@@ -1,0 +1,7 @@
+short_name: Rosuvastatin/Ezetimibe Sandoz
+active_substance: Rosuvastatinum, Ezetimibum
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; ELPEN Pharmaceutical Co. Inc (SA), Greece; Elpen Pharmaceutical Co. Inc., Greece
+atc_code: C10BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0123/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0123/smpc

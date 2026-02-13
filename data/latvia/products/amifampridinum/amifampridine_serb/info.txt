@@ -1,0 +1,7 @@
+short_name: Amifampridine SERB
+active_substance: Amifampridinum
+marketing_authorisation_holder: SERB S.A., Belgium
+manufacturer: SERB S.A., Belgium; Excella GmbH & Co. KG, Germany
+atc_code: N07XX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1646/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1646/001/smpc

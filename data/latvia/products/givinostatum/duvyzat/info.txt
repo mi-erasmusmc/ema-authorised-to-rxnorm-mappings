@@ -1,0 +1,7 @@
+short_name: Duvyzat
+active_substance: Givinostatum
+marketing_authorisation_holder: Italfarmaco S.p.A, Italy
+manufacturer: Italfarmaco, SA, Spain
+atc_code: M09AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1930/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1930/001/smpc

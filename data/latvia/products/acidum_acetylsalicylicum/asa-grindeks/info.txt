@@ -1,0 +1,7 @@
+short_name: ASA-Grindeks
+active_substance: Acidum acetylsalicylicum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: N02BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0589/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0589/smpc

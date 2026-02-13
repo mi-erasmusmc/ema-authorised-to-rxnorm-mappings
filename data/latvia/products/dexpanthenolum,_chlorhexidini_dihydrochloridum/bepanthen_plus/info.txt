@@ -1,0 +1,7 @@
+short_name: Bepanthen Plus
+active_substance: Dexpanthenolum, Chlorhexidini dihydrochloridum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: GP Grenzach productions GmbH, Germany
+atc_code: D08AC52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0121/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0121/smpc

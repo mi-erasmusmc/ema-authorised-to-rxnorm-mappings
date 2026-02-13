@@ -1,0 +1,7 @@
+short_name: Normatens
+active_substance: Clopamidum, Dihydroergocristinum, Reserpinum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: ICN Polfa Rzeszow S.A., Poland
+atc_code: C02LA51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0576/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0576/smpc

@@ -1,0 +1,7 @@
+short_name: Vafseo
+active_substance: Vadadustatum
+marketing_authorisation_holder: Medice Arzneimittel Putter GmbH & Co.KG, Germany
+manufacturer: Millmount Healthcare Limited, Ireland
+atc_code: B03XA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1725/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1725/001/smpc

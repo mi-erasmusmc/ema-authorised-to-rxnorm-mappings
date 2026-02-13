@@ -1,0 +1,7 @@
+short_name: Paracetamol SanoSwiss
+active_substance: Paracetamolum
+marketing_authorisation_holder: SanoSwiss UAB, Lithuania
+manufacturer: Holsten Pharma GmbH., Germany
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0672/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0672/smpc

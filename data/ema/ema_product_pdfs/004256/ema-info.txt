@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004256
+Name of medicine: Rizmoic
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: naldemedine
+Active substance: naldemedine tosilate
+Therapeutic area (MeSH): Constipation
+ATC code (human): A06AH05
+Pharmacotherapeutic group (human): Drugs for constipation;Peripheral opioid receptor antagonists
+Therapeutic indication: Rizmoic is indicated for the treatment of opioid-induced constipation (OIC) in adult patients who have previously been treated with a laxative.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rizmoic

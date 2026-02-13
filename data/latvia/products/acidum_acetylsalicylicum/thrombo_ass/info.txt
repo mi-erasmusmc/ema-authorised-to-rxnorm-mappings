@@ -1,0 +1,7 @@
+short_name: Thrombo ASS
+active_substance: Acidum acetylsalicylicum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: B01AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0318/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0318/smpc

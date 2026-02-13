@@ -1,0 +1,7 @@
+short_name: Oxytocin-Grindeks
+active_substance: Oxytocinum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks AS, Latvia
+atc_code: H01BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0256/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0256/smpc

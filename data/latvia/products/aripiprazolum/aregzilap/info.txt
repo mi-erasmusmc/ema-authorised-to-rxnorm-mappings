@@ -1,0 +1,7 @@
+short_name: Aregzilap
+active_substance: Aripiprazolum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Pharmathen International S.A., Greece; Salutas Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia; Pharmathen S.A., Greece
+atc_code: N05AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0251/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0251/smpc

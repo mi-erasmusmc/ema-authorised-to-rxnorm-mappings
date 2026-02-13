@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000354
+Name of medicine: Ketek
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: telithromycin
+Active substance: telithromycin
+Therapeutic area (MeSH): Sinusitis;Tonsillitis;Bronchitis, Chronic;Pharyngitis;Community-Acquired Infections;Pneumonia, Bacterial
+ATC code (human): J01FA15
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: When prescribing Ketek, consideration should be given to official guidance on the appropriate use ofantibacterial agents and the local prevalence of resistance. Ketek is indicated for the treatment of the following infections: In patients of 18 years and older  community-acquired pneumonia, mild or moderate. when treating infections caused by known or suspected beta-lactam- and / or macrolide-resistant strains (according to history of patients or national and / or regional resistance data) covered by the antibacterial spectrum of telithromycin:  acute exacerbation of chronic bronchitis; acute sinusitis;    In patients of 12 years and older  tonsillitis / pharyngitis caused by Streptococcus pyogenes, as an alternative when beta-lactam antibiotics are not appropriate in countries / regions with a significant prevalence of macrolide-resistant S. pyogenes, when mediated by ermTR or mefA.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ketek

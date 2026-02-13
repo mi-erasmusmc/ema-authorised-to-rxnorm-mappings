@@ -1,0 +1,7 @@
+short_name: Duodopa
+active_substance: Levodopum, Carbidopum monohydricum
+marketing_authorisation_holder: AbbVie, SIA, Latvia
+manufacturer: AbbVie Logistics B.V., Netherlands; HP Halden Pharma AS, Norway
+atc_code: N04BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0485/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0485/smpc

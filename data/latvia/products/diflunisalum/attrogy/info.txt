@@ -1,0 +1,7 @@
+short_name: Attrogy
+active_substance: Diflunisalum
+marketing_authorisation_holder: Purpose Pharma International AB, Sweden
+manufacturer: SkyePharma Production SAS, France
+atc_code: N02BA11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1929/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1929/001/smpc

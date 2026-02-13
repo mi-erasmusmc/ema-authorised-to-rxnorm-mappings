@@ -1,0 +1,7 @@
+short_name: Atosiban PharmIdea
+active_substance: Atosibanum
+marketing_authorisation_holder: PharmIdea, SIA, Latvia
+manufacturer: PharmIdea, SIA, Latvia
+atc_code: G02CX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0128/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0128/smpc

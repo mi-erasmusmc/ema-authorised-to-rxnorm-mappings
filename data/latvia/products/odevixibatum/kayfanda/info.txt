@@ -1,0 +1,7 @@
+short_name: Kayfanda
+active_substance: Odevixibatum
+marketing_authorisation_holder: Ipsen Pharma SAS, France
+manufacturer: Almac Pharma Services Limited, Northern Ireland
+atc_code: A05AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1854/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1854/001/smpc

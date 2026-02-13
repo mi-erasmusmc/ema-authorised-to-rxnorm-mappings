@@ -1,0 +1,7 @@
+short_name: Lamisil Dermgel
+active_substance: Terbinafinum
+marketing_authorisation_holder: Karo Healthcare AB, Sweden
+manufacturer: Delpharm Huningue SAS, France; GlaxoSmithKline Consumer Healthcare GmbH & Co. KG, Germany; Haleon Germany GmbH, Germany
+atc_code: D01AE15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0252/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0252/smpc

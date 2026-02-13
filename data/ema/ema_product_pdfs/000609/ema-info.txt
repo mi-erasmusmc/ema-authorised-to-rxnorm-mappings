@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000609
+Name of medicine: Kepivance
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: palifermin
+Active substance: palifermin
+Therapeutic area (MeSH): Mucositis
+ATC code (human): V03AF08
+Pharmacotherapeutic group (human): All other therapeutic products
+Therapeutic indication: Kepivance is indicated to decrease the incidence, duration and severity of oral mucositis in adult patients with haematological malignancies receiving myeloablative radiochemotherapy associated with a high incidence of severe mucositis and requiring autologous-haematopoietic-stem-cell support.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kepivance

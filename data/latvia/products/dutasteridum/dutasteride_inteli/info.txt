@@ -1,0 +1,7 @@
+short_name: Dutasteride Inteli
+active_substance: Dutasteridum
+marketing_authorisation_holder: Inteli Generics Nord UAB, Lithuania
+manufacturer: Laboratorios Leon Farma S.A., Spain
+atc_code: G04CB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0102/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0102/smpc

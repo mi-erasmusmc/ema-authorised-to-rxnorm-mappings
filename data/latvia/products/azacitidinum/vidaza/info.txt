@@ -1,0 +1,7 @@
+short_name: Vidaza
+active_substance: Azacitidinum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Celgene Distribution B.V., Netherlands
+atc_code: L01BC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/488/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/488/001/smpc

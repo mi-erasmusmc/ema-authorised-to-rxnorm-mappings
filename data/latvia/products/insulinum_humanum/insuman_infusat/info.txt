@@ -1,0 +1,7 @@
+short_name: Insuman Infusat
+active_substance: Insulinum humanum
+marketing_authorisation_holder: Sanofi-Aventis Deutschland GmbH, Germany
+manufacturer: Sanofi-Aventis Deutschland GmbH, Germany
+atc_code: A10AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/030/053/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/030/053/smpc

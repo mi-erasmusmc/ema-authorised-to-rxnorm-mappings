@@ -1,0 +1,7 @@
+short_name: MoxonidinHEXAL
+active_substance: Moxonidinum
+marketing_authorisation_holder: Hexal AG, Germany
+manufacturer: Salutas Pharma GmbH, Germany
+atc_code: C02AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0121/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0121/smpc

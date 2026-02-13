@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004541
+Name of medicine: LysaKare
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: arginine;lysine
+Active substance: L-arginine hydrochloride;L-lysine hydrochloride
+Therapeutic area (MeSH): Radiation Injuries
+ATC code (human): V03AF11
+Pharmacotherapeutic group (human): Detoxifying agents for antineoplastic treatment
+Therapeutic indication: LysaKare is indicated for reduction of renal radiation exposure during Peptide-Receptor Radionuclide Therapy (PRRT) with lutetium (177Lu) oxodotreotide in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lysakare

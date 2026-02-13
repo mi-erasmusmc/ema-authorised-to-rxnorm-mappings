@@ -1,0 +1,7 @@
+short_name: Talzenna
+active_substance: Talazoparibum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Excella GmbH & Co. KG, Germany
+atc_code: L01XK04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1377/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1377/001/smpc

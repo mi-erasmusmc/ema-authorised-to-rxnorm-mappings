@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002784
+Name of medicine: Zalviso
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: sufentanil
+Active substance: sufentanil
+Therapeutic area (MeSH): Pain, Postoperative
+ATC code (human): N01AH03
+Pharmacotherapeutic group (human): Anesthetics
+Therapeutic indication: Zalviso is indicated for the management of acute moderate to severe post-operative pain in adult patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zalviso

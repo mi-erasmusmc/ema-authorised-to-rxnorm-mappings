@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000396
+Name of medicine: Xigris
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: drotrecogin alfa (activated)
+Active substance: drotrecogin alfa (activated)
+Therapeutic area (MeSH): Sepsis;Multiple Organ Failure
+ATC code (human): B01AD10
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Xigris is indicated for the treatment of adult patients with severe sepsis with multiple organ failure when added to best standard care. The use of Xigris should be considered mainly in situations when therapy can be started within 24 hours after the onset of organ failure (for further information see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xigris

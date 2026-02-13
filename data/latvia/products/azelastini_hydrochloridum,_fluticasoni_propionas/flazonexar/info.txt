@@ -1,0 +1,7 @@
+short_name: Flazonexar
+active_substance: Azelastini hydrochloridum, Fluticasoni propionas
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: TEVA Czech Industries s.r.o., Czech Republic
+atc_code: R01AD58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0151/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0151/smpc

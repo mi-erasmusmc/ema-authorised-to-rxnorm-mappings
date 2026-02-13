@@ -1,0 +1,7 @@
+short_name: Lynozyfic
+active_substance: Linvoseltamabum
+marketing_authorisation_holder: Regeneron Ireland Designated Activity Company (DAC), Ireland
+manufacturer: Regeneron Ireland Designated Activity Company, Ireland
+atc_code: L01FX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1917/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1917/001/smpc

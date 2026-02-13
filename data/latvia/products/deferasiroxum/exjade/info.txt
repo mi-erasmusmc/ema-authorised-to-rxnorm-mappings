@@ -1,0 +1,7 @@
+short_name: Exjade
+active_substance: Deferasiroxum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany
+atc_code: V03AC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/356/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/356/001/smpc

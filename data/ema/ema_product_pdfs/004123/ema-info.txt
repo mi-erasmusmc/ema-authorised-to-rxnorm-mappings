@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004123
+Name of medicine: Lutathera
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lutetium (177Lu) oxodotreotide
+Active substance: lutetium (177Lu) oxodotreotide
+Therapeutic area (MeSH): Neuroendocrine Tumors
+ATC code (human): V10XX04
+Pharmacotherapeutic group (human): Other therapeutic radiopharmaceuticals
+Therapeutic indication: Lutathera is indicated for the treatment of unresectable or metastatic, progressive, well differentiated (G1 and G2), somatostatin receptor positive gastroenteropancreatic neuroendocrine tumours (GEP?NETs) in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lutathera

@@ -1,0 +1,7 @@
+short_name: Convulex retard
+active_substance: Natrii valproas
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: N03AG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0393/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0393/smpc

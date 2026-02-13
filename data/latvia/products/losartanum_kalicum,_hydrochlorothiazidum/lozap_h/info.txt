@@ -1,0 +1,7 @@
+short_name: Lozap H
+active_substance: Losartanum kalicum, Hydrochlorothiazidum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: C09DA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0089/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0089/smpc

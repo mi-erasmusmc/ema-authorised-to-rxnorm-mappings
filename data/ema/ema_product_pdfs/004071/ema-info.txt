@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004071
+Name of medicine: Neofordex
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dexamethasone
+Active substance: dexamethasone
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): H02AB02
+Pharmacotherapeutic group (human): Corticosteroids for systemic use
+Therapeutic indication: Treatment of multiple myeloma.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/neofordex

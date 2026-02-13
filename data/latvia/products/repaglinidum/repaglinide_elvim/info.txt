@@ -1,0 +1,7 @@
+short_name: Repaglinide ELVIM
+active_substance: Repaglinidum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Pharmathen S.A., Greece; Pharmathen International S.A., Greece; Mylan Hungary Kft., Hungary
+atc_code: A10BX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0105/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0105/smpc

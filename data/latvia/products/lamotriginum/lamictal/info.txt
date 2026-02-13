@@ -1,0 +1,7 @@
+short_name: Lamictal
+active_substance: Lamotriginum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Delpharm Poznan S.A., Poland
+atc_code: N03AX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0587/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0587/smpc

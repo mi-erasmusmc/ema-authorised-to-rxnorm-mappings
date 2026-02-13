@@ -1,0 +1,7 @@
+short_name: Femara
+active_substance: Letrozolum
+marketing_authorisation_holder: Novartis Baltics, SIA, Latvia
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma S.p.A., Italy
+atc_code: L02BG04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0087/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0087/smpc

@@ -1,0 +1,7 @@
+short_name: Atixarso
+active_substance: Ticagrelorum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0161/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0161/smpc

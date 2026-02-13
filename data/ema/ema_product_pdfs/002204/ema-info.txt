@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002204
+Name of medicine: Ameluz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: 5-aminolevulinic acid hydrochloride
+Active substance: 5-aminolevulinic acid hydrochloride
+Therapeutic area (MeSH): Keratosis, Actinic;Carcinoma, Basal Cell
+ATC code (human): L01XD04
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of actinic keratosis of mild to moderate severity on the face and scalp (Olsen grade 1 to 2; see section 5.1) and of field cancerization in adults. Treatment of superficial and/or nodular basal cell carcinoma unsuitable for surgical treatment due to possible treatment-related morbidity and/or poor cosmetic outcome in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ameluz

@@ -1,0 +1,7 @@
+short_name: Rolufta Ellipta
+active_substance: Umeclidinii bromidum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome Production, France; Glaxo Operations UK Limited, United Kingdom
+atc_code: R03BB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1174/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1174/001/smpc

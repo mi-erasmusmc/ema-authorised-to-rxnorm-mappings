@@ -1,0 +1,7 @@
+short_name: Nordimet
+active_substance: Methotrexatum
+marketing_authorisation_holder: Nordic Group B.V., Netherlands
+manufacturer: QPharma AB, Sweden; Cenexi-Laboratoires Thissen SA, Belgium
+atc_code: L04AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1124/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1124/001/smpc

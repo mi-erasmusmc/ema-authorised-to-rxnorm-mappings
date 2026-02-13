@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000325
+Name of medicine: Vaniqa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: eflornithine
+Active substance: eflornithine
+Therapeutic area (MeSH): Hirsutism
+ATC code (human): D11AX
+Pharmacotherapeutic group (human): Other dermatological preparations
+Therapeutic indication: Treatment of facial hirsutism in women.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vaniqa

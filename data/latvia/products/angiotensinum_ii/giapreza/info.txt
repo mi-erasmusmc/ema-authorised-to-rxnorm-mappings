@@ -1,0 +1,7 @@
+short_name: GIAPREZA
+active_substance: Angiotensinum II
+marketing_authorisation_holder: PAION Deutschland GmbH, Germany
+manufacturer: PAION Netherlands B.V., Netherlands; PAION Deutschland GmbH, Germany
+atc_code: C01CX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1384/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1384/001/smpc

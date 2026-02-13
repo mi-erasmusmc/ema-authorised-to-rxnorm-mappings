@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000577
+Name of medicine: Zonegran
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: zonisamide
+Active substance: zonisamide
+Therapeutic area (MeSH): Epilepsies, Partial
+ATC code (human): N03AX15
+Pharmacotherapeutic group (human): Antiepileptics
+Therapeutic indication: Zonegran is indicated as:  monotherapy in the treatment of partial seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy; adjunctive therapy in the treatment of partial seizures, with or without secondary generalisation, in adults, adolescents, and children aged six years and above.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zonegran

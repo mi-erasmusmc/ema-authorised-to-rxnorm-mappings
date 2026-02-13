@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003791
+Name of medicine: Imbruvica
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ibrutinib
+Active substance: Ibrutinib
+Therapeutic area (MeSH): Lymphoma, Mantle-Cell;Leukemia, Lymphocytic, Chronic, B-Cell
+ATC code (human): L01EL01
+Pharmacotherapeutic group (human): Antineoplastic agents;Protein kinase inhibitors
+Therapeutic indication: Imbruvica in combination with rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisolone (IMBRUVICA + R-CHOP) alternating with R-DHAP (or R-DHAOx) without Imbruvica, followed by Imbruvica monotherapy, is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma (MCL) who would be eligible for autologous stem cell transplantation (ASCT).Imbruvica as a single agent is indicated for the treatment of adult patients with relapsed or refractory MCL.Imbruvica as a single agent or in combination with rituximab or obinutuzumab or venetoclax is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1).Imbruvica as a single agent or in combination with bendamustine and rituximab (BR) is indicated for the treatment of adult patients with CLL who have received at least one prior therapy.Imbruvica as a single agent is indicated for the treatment of adult patients with Waldenström’s macroglobulinaemia (WM) who have received at least one prior therapy, or in first line treatment for patients unsuitable for chemo immunotherapy. IMBRUVICA in combination with rituximab is indicated for the treatment of adult patients with WM.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/imbruvica

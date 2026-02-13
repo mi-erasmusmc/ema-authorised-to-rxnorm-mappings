@@ -1,0 +1,7 @@
+short_name: Citramons forte
+active_substance: Coffeinum, Paracetamolum, Acidum acetylsalicylicum
+marketing_authorisation_holder: Stirolbiofarm Baltikum, SIA, Latvia
+manufacturer: Marifarm d.o.o., Slovenia
+atc_code: N02BA51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0188/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0188/smpc

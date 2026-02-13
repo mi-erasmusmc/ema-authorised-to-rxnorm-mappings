@@ -1,0 +1,7 @@
+short_name: Brilliant Green Valentis
+active_substance: Viride nitens
+marketing_authorisation_holder: UAB Valentis, Lithuania
+manufacturer: UAB Valentis, Lithuania
+atc_code: D08AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0294/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0294/smpc

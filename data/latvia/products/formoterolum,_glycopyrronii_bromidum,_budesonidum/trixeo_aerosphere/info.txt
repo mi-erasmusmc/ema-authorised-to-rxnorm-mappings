@@ -1,0 +1,7 @@
+short_name: TRIXEO AEROSPHERE
+active_substance: Formoterolum, Glycopyrronii bromidum, Budesonidum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca Dunkerque Production, France
+atc_code: R03AL11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1498/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1498/002/smpc

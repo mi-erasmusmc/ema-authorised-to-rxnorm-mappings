@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002640
+Name of medicine: Cometriq
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cabozantinib
+Active substance: cabozantinib
+Therapeutic area (MeSH): Thyroid Neoplasms
+ATC code (human): L01XE
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of adult patients with progressive, unresectable locally advanced or metastatic medullary thyroid carcinoma.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cometriq

@@ -1,0 +1,7 @@
+short_name: Relium
+active_substance: Diazepamum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+atc_code: N05BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0160/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0160/smpc

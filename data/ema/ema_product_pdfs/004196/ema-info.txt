@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004196
+Name of medicine: Varuby
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: rolapitant
+Active substance: rolapitant
+Therapeutic area (MeSH): Vomiting;Nausea;Cancer
+ATC code (human): A04AD
+Pharmacotherapeutic group (human): Antiemetics and antinauseants
+Therapeutic indication: Prevention of delayed nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults.Varuby is given as part of combination therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/varuby

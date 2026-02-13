@@ -1,0 +1,14 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/14/980/001	43264189	1 ML secukinumab 150 MG/ML Injection [Cosentyx]	OMOP560829	EXACT			2025-12-08
+EU/1/14/980/002	45892890	1 ML secukinumab 150 MG/ML Prefilled Syringe [Cosentyx]	1599797	EXACT			2025-12-08
+EU/1/14/980/003	45892890	1 ML secukinumab 150 MG/ML Prefilled Syringe [Cosentyx]	1599797	EXACT			2025-12-08
+EU/1/14/980/004	46234069	1 ML secukinumab 150 MG/ML Auto-Injector [Cosentyx]	1653243	EXACT			2025-12-08
+EU/1/14/980/005	46234069	1 ML secukinumab 150 MG/ML Auto-Injector [Cosentyx]	1653243	EXACT			2025-12-08
+EU/1/14/980/006	45892890	1 ML secukinumab 150 MG/ML Prefilled Syringe [Cosentyx]	1599797	EXACT			2025-12-08
+EU/1/14/980/007	46234069	1 ML secukinumab 150 MG/ML Auto-Injector [Cosentyx]	1653243	EXACT			2025-12-08
+EU/1/14/980/008	1972922	2 ML secukinumab 150 MG/ML Prefilled Syringe [Cosentyx]	OMOP5165485	EXACT			2025-12-08
+EU/1/14/980/009	1972922	2 ML secukinumab 150 MG/ML Prefilled Syringe [Cosentyx]	OMOP5165485	EXACT			2025-12-08
+EU/1/14/980/010	1201578	2 ML secukinumab 150 MG/ML Auto-Injector [Cosentyx]	2637348	EXACT			2025-12-08
+EU/1/14/980/011	1201578	2 ML secukinumab 150 MG/ML Auto-Injector [Cosentyx]	2637348	EXACT			2025-12-08
+EU/1/14/980/012	1537592	0.5 ML secukinumab 150 MG/ML Prefilled Syringe [Cosentyx]	2550713	EXACT			2025-12-08
+EU/1/14/980/013	1537592	0.5 ML secukinumab 150 MG/ML Prefilled Syringe [Cosentyx]	2550713	EXACT			2025-12-08

@@ -1,0 +1,7 @@
+short_name: Moxonidin Actavis
+active_substance: Moxonidinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Chanelle Medical Ltd, Ireland; Rottendorf Pharma GmbH, Germany; Merckle GmbH, Germany
+atc_code: C02AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0043/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0043/smpc

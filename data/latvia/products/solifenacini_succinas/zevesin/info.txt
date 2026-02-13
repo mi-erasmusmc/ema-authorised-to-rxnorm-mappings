@@ -1,0 +1,7 @@
+short_name: Zevesin
+active_substance: Solifenacini succinas
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Saneca Pharmaceuticals A.S., Slovakia
+atc_code: G04BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0032/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0032/smpc

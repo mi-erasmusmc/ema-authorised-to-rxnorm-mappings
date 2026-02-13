@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004312
+Name of medicine: Spinraza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: nusinersen
+Active substance: nusinersen sodium
+Therapeutic area (MeSH): Muscular Atrophy, Spinal
+ATC code (human): M09
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Spinraza is indicated for the treatment of 5q Spinal Muscular Atrophy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spinraza

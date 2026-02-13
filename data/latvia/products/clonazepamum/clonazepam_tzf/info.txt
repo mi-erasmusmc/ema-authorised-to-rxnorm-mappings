@@ -1,0 +1,7 @@
+short_name: Clonazepam TZF
+active_substance: Clonazepamum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+atc_code: N03AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0159/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0159/smpc

@@ -1,0 +1,7 @@
+short_name: Rehydron
+active_substance: Glucosum, Natrii chloridum, Natrii citras, Kalii chloridum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland; Recipharm Parets S.L.U., Spain
+atc_code: A07CA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0036/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0036/smpc

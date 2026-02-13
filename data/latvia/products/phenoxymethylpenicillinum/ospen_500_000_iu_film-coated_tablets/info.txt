@@ -1,0 +1,7 @@
+short_name: Ospen 500 000 IU film-coated tablets
+active_substance: Phenoxymethylpenicillinum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: 
+atc_code: J01CE02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/RN005/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/RN005/smpc

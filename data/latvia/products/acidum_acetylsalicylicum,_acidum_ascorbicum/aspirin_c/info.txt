@@ -1,0 +1,7 @@
+short_name: Aspirin C
+active_substance: Acidum acetylsalicylicum, Acidum ascorbicum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Bayer Bitterfeld GmbH, Germany
+atc_code: N02BA51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0498/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0498/smpc

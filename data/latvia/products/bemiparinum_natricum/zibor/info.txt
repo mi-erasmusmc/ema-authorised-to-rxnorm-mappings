@@ -1,0 +1,7 @@
+short_name: Zibor
+active_substance: Bemiparinum natricum
+marketing_authorisation_holder: Gineladius S.L., Spain
+manufacturer: Laboratorios Farmaceuticos ROVI, S.A., Spain; ROVI Pharma Industrial Services, S.A., Spain
+atc_code: B01AB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0036/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0036/smpc

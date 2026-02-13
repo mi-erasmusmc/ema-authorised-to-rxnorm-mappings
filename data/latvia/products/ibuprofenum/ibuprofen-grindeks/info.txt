@@ -1,0 +1,7 @@
+short_name: Ibuprofen-Grindeks
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0141/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0141/smpc

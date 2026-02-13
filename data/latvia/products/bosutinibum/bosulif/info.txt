@@ -1,0 +1,7 @@
+short_name: Bosulif
+active_substance: Bosutinibum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Deutschland GmbH, Germany
+atc_code: L01EA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/818/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/818/001/smpc

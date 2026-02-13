@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Chewable Extended Release Oral Tablet",
+    "description": "a tablet taken by mouth and crushed into smaller pieces before swallowing whose contents are slowly released over an extended period of time at a controlled rate"
+  },
+  {
+    "name": "Powder for Intravesical Suspension",
+    "description": "a powder, which, upon the addition of suitable vehicles, yields a suspension intended to be administered via the bladder"
+  },
+  {
+    "name": "Powder for Pyelocalyceal Solution",
+    "description": "a powder, which, upon the addition of suitable vehicles, yields a solution intended to be administered via the renal pelvis and calices"
+  },
+  {
+    "name": "Powder for Intravesical Solution",
+    "description": "a powder, which, upon the addition of suitable vehicles, yields a solution intended to be administered via the bladder"
+  },
+  {
+    "name": "Mucous Membrane Topical Solution",
+    "description": "an oral solution intended for use on the mucous membranes"
+  },
+  {
+    "name": "Sustained Release Buccal Tablet",
+    "description": "a tablet held in the hollow pockets of the cheek while the slowed delivery system allows the drug to be released over an extended period of time at a controlled rate"
+  },
+  {
+    "name": "Ophthalmic Irrigation Solution",
+    "description": "an irrigation solution intended for use in the eye"
+  },
+  {
+    "name": "Delayed Release Oral Granules",
+    "description": "granules intended to be taken by mouth which releases a drug (or drugs) at a time other than promptly after oral administration (enteric-coated articles are delayed release dosage forms)"
+  },
+  {
+    "name": "Extended Release Oral Capsule",
+    "description": "a capsule that allows medication to be released over an extended period of time at a controlled rate"
+  },
+  {
+    "name": "Delayed Release Oral Capsule",
+    "description": "a solid dosage form in which the drug is enclosed within either a hard or soft soluble container made from a suitable form of gelatin, and which releases a drug (or drugs) at a time other than promptly after oral administration (enteric-coated particles are delayed release dosage forms)"
+  },
+  {
+    "name": "Extended Release Oral Tablet",
+    "description": "a tablet whose contents are slowly released over an extended period of time at a controlled rate"
+  },
+  {
+    "name": "Granules for Oral Suspension",
+    "description": "granules to be reconstituted with diluent prior to administration to form a suspension intended to be taken by mouth"
+  },
+  {
+    "name": "Delayed Release Oral Tablet",
+    "description": "a solid dosage form which releases a drug (or drugs) at a time other than promptly after oral administration (enteric-coated particles are delayed release dosage forms)"
+  },
+  {
+    "name": "Extended Release Suspension",
+    "description": "a suspension that allows for a timed or controlled release of the solute"
+  },
+  {
+    "name": "Granules for Oral Solution",
+    "description": "granules to be reconstituted with solvent just before dispensing to form a solution intended to be taken by mouth"
+  },
+  {
+    "name": "Powder for Oral Suspension",
+    "description": "a powder, which, upon the addition of suitable vehicles, yields a suspension intended to be taken by mouth"
+  },
+  {
+    "name": "Tablet for Oral Suspension",
+    "description": "a tablet to be reconstituted with diluent prior to administration to form a suspension intended to be taken by mouth"
+  },
+  {
+    "name": "Disintegrating Oral Tablet",
+    "description": "a tablet dissolved in the mouth to release medication"
+  },
+  {
+    "name": "Powder for Nasal Solution",
+    "description": "a powder, which, upon the addition of suitable vehicles, yields a solution intended for use on the nasal mucosa"
+  },
+  {
+    "name": "Effervescent Oral Tablet",
+    "description": "a solid dosage form containing mixtures of acids (e.g., citric acid, tartaric acid) and sodium bicarbonate, which release carbon dioxide when dissolved in water; it is intended to be dissolved or dispersed in water before oral administration"
+  },
+  {
+    "name": "Powder for Oral Solution",
+    "description": "a powder, which, upon the addition of suitable vehicles, yields a solution intended to be taken by mouth"
+  },
+  {
+    "name": "Metered Dose Nasal Spray",
+    "description": "a nasal solution intended for use in the nasal cavity delivered by a spray as a measured dose (see also Nasal Spray & Nasal Inhalant)"
+  },
+  {
+    "name": "Intraperitoneal Solution",
+    "description": "a solution intended for use in the peritoneal cavity"
+  },
+  {
+    "name": "Intratracheal Suspension",
+    "description": "a suspension intended for use in the trachea"
+  },
+  {
+    "name": "Intravesical Suspension",
+    "description": "a suspension intended for instillation into the bladder"
+  },
+  {
+    "name": "Injectable Suspension",
+    "description": "a multiple use suspension or reconstituted powder intended to be injected"
+  },
+  {
+    "name": "Inhalation Suspension",
+    "description": "a suspension intended to be inhaled"
+  },
+  {
+    "name": "Medicated Liquid Soap",
+    "description": "a liquid containing a detergent and a medication"
+  },
+  {
+    "name": "Topical Liquefied Gas",
+    "description": "a gas that is cooled or pressurized to its liquid form and used topically on the skin for cryotherapy or freezing skin lesions"
+  },
+  {
+    "name": "Intravesical Solution",
+    "description": "a solution intended for instillation into the bladder"
+  },
+  {
+    "name": "Ophthalmic Suspension",
+    "description": "a suspension intended for use in the eye"
+  },
+  {
+    "name": "Metered Dose Inhaler",
+    "description": "a liquid medication delivered as a mist to be inhaled as a measured dose"
+  },
+  {
+    "name": "Urethral Suppository",
+    "description": "a suppository intended to be inserted into the urethra"
+  },
+  {
+    "name": "Injectable Solution",
+    "description": "a multiple use solution or reconstituted powder intended to be injected"
+  },
+  {
+    "name": "Inhalation Solution",
+    "description": "a solution intended to be inhaled"
+  },
+  {
+    "name": "Intrauterine System",
+    "description": "a drug delivery system inserted and left in the uterus to provide uniform release of drugs over several years"
+  },
+  {
+    "name": "Ophthalmic Ointment",
+    "description": "a ointment intended for use on or in the eye"
+  },
+  {
+    "name": "Ophthalmic Solution",
+    "description": "a solution intended for use in the eye"
+  },
+  {
+    "name": "Irrigation Solution",
+    "description": "a solution intended for use as a flushing or rinsing agent"
+  },
+  {
+    "name": "Dry Powder Inhaler",
+    "description": "a powdered medication inhaled as a measured dose"
+  },
+  {
+    "name": "Gas for Inhalation",
+    "description": "a gas that can be breathed into the nose or mouth"
+  },
+  {
+    "name": "Medicated Bar Soap",
+    "description": "a bar of soap containing medication"
+  },
+  {
+    "name": "Topical Suspension",
+    "description": "a suspension intended for external application on the skin"
+  },
+  {
+    "name": "Transdermal System",
+    "description": "an adhesive patch that delivers medication at a set rate systemically over a defined period of time (see also Medicated Patch)"
+  },
+  {
+    "name": "Rectal Suppository",
+    "description": "a suppository intended to be inserted into the rectum"
+  },
+  {
+    "name": "Sublingual Powder",
+    "description": "a powder intended for use under the tongue"
+  },
+  {
+    "name": "Sublingual Tablet",
+    "description": "a tablet held under the tongue until dissolved"
+  },
+  {
+    "name": "Prefilled Syringe",
+    "description": "a single use solution or suspension intended to be injected in a syringe"
+  },
+  {
+    "name": "Inhalation Powder",
+    "description": "a powdered medication that is intended to be inhaled"
+  },
+  {
+    "name": "Medicated Shampoo",
+    "description": "a medicated liquid soap intended for use on hair"
+  },
+  {
+    "name": "Inhalation Spray",
+    "description": "a spray intended to be inhaled"
+  },
+  {
+    "name": "Topical Ointment",
+    "description": "a ointment intended for use on or in the skin"
+  },
+  {
+    "name": "Topical Solution",
+    "description": "a solution intended for use on a surface (do not use for Oral Solutions)"
+  },
+  {
+    "name": "Ophthalmic Cream",
+    "description": "a cream intended for use in the eye"
+  },
+  {
+    "name": "Ophthalmic Spray",
+    "description": "a spray intended for use in the eye"
+  },
+  {
+    "name": "Vaginal Ointment",
+    "description": "a ointment intended for use on or in the vagina"
+  },
+  {
+    "name": "Chewable Tablet",
+    "description": "a tablet taken by mouth and crushed into smaller pieces before swallowing"
+  },
+  {
+    "name": "Oral Suspension",
+    "description": "a suspension intended to be taken by mouth"
+  },
+  {
+    "name": "Sublingual Film",
+    "description": "a thin sheet placed under the tongue until dissolved and contains one or more layers"
+  },
+  {
+    "name": "Injectable Foam",
+    "description": "a foam intended to be injected"
+  },
+  {
+    "name": "Medicated Patch",
+    "description": "an adhesive patch that delivers medication locally to the area beneath the patch (see also Transdermal System and Medicated Tape)"
+  },
+  {
+    "name": "Otic Suspension",
+    "description": "a suspension intended for use in the ear"
+  },
+  {
+    "name": "Rectal Ointment",
+    "description": "a ointment intended for use on or in the rectum"
+  },
+  {
+    "name": "Rectal Solution",
+    "description": "a solution intended for use in the rectum"
+  },
+  {
+    "name": "Nasal Inhalant",
+    "description": "a medication intended to be inhaled through the nose"
+  },
+  {
+    "name": "Medicated Tape",
+    "description": "an adhesive tape used to apply medication (see also Medicated Patch and Transdermal System)"
+  },
+  {
+    "name": "Topical Lotion",
+    "description": "a lotion intended for use on the skin"
+  },
+  {
+    "name": "Topical Powder",
+    "description": "a powder intended for use on the outside surface of the body"
+  },
+  {
+    "name": "Vaginal System",
+    "description": "a pliable delivery system surrounded by a polymeric membrane that provides controlled drug release to the vagina"
+  },
+  {
+    "name": "Nasal Ointment",
+    "description": "a ointment intended for use on or in the nose"
+  },
+  {
+    "name": "Nasal Solution",
+    "description": "a solution intended for use on the nasal mucosa"
+  },
+  {
+    "name": "Ophthalmic Gel",
+    "description": "a gel intended for use on or in the eye"
+  },
+  {
+    "name": "Vaginal Insert",
+    "description": "a solid form (tablet, capsule, or suppository) intended to be inserted into the vagina"
+  },
+  {
+    "name": "Oral Granules",
+    "description": "granules intended to be taken by mouth"
+  },
+  {
+    "name": "Oral Solution",
+    "description": "a solution intended to be taken by mouth. For solutions applied to the teeth, use Mouthwash"
+  },
+  {
+    "name": "Buccal Tablet",
+    "description": "a tablet held in the hollow pockets of the cheek until dissolved"
+  },
+  {
+    "name": "Auto-Injector",
+    "description": "a single use solution or suspension contained in a spring loaded injection system that can be administered by activating the device causing automatic insertion of the needle through the skin"
+  },
+  {
+    "name": "Medicated Pad",
+    "description": "a non-adhesive patch used to apply medication (see also Medicated Patch and Transdermal System)"
+  },
+  {
+    "name": "Topical Cream",
+    "description": "a cream intended to be used on the skin"
+  },
+  {
+    "name": "Topical Spray",
+    "description": "a spray intended for use on the skin"
+  },
+  {
+    "name": "Otic Ointment",
+    "description": "a ointment intended for use on or in the ear"
+  },
+  {
+    "name": "Otic Solution",
+    "description": "a solution intended for use in the ear"
+  },
+  {
+    "name": "Vaginal Cream",
+    "description": "a cream intended for use in or around the vagina"
+  },
+  {
+    "name": "Mucosal Spray",
+    "description": "a spray intended for use on the mucous membranes"
+  },
+  {
+    "name": "Oral Ointment",
+    "description": "a ointment intended for use on or in the mouth"
+  },
+  {
+    "name": "Oral Capsule",
+    "description": "a capsule taken by mouth"
+  },
+  {
+    "name": "Oral Lozenge",
+    "description": "a solid mass intended to be held in the mouth to allow for slow dissolution"
+  },
+  {
+    "name": "Jet Injector",
+    "description": "a single use solution or a suspension contained in a needle free injection system"
+  },
+  {
+    "name": "Pen Injector",
+    "description": "a single or multiple use solution or suspension contained in a mechanical injection system used to administer the drug through a needle manually inserted into the skin"
+  },
+  {
+    "name": "Powder Spray",
+    "description": "a powder delivered on the skin as a spray"
+  },
+  {
+    "name": "Topical Foam",
+    "description": "a foam intended for use on the skin"
+  },
+  {
+    "name": "Drug Implant",
+    "description": "a solid form inserted into the body that releases medication over time"
+  },
+  {
+    "name": "Nasal Powder",
+    "description": "a powder intended for use in the nasal cavity"
+  },
+  {
+    "name": "Rectal Cream",
+    "description": "a cream intended for use in or around the rectum"
+  },
+  {
+    "name": "Rectal Spray",
+    "description": "a spray intended to be used in or around the rectum"
+  },
+  {
+    "name": "Vaginal Film",
+    "description": "a thin sheet placed on the inner lining of the vagina until dissolved and contains one or more layers"
+  },
+  {
+    "name": "Vaginal Foam",
+    "description": "a foam intended for use in the vagina"
+  },
+  {
+    "name": "Oral Flakes",
+    "description": "a collection of small, flat, thin, pieces of matter"
+  },
+  {
+    "name": "Oral Pellet",
+    "description": "a small rounded body"
+  },
+  {
+    "name": "Oral Powder",
+    "description": "a powder given orally, often sprinkled on or mixed with food. Not for powders mixed with liquids"
+  },
+  {
+    "name": "Oral Tablet",
+    "description": "a tablet containing medicated materials to be taken by mouth"
+  },
+  {
+    "name": "Buccal Film",
+    "description": "a thin sheet placed on the inner lining of the cheek until dissolved and contains one or more layers"
+  },
+  {
+    "name": "Chewing Gum",
+    "description": "an insoluble material that is chewed to release medication"
+  },
+  {
+    "name": "Topical Gel",
+    "description": "a gel intended for use on the skin"
+  },
+  {
+    "name": "Topical Oil",
+    "description": "an oil intended to be applied on the skin"
+  },
+  {
+    "name": "Nasal Spray",
+    "description": "a nasal solution intended for use in the nasal cavity delivered by a spray (see also Metered Dose Nasal Spray & Nasal Inhalant)"
+  },
+  {
+    "name": "Rectal Foam",
+    "description": "a foam intended for use in the rectum"
+  },
+  {
+    "name": "Vaginal Gel",
+    "description": "a gel intended for use in or around the vagina"
+  },
+  {
+    "name": "Oral Wafer",
+    "description": "a thin, cookie-like, baked form"
+  },
+  {
+    "name": "Rectal Gel",
+    "description": "a gel intended for use in or around the rectum"
+  },
+  {
+    "name": "Oral Cream",
+    "description": "a cream intended for use on or in the mouth"
+  },
+  {
+    "name": "Oral Paste",
+    "description": "a paste to be taken or used orally"
+  },
+  {
+    "name": "Oral Spray",
+    "description": "a spray intended to be applied into the oral cavity"
+  },
+  {
+    "name": "Toothpaste",
+    "description": "a paste intended to be used in cleaning teeth"
+  },
+  {
+    "name": "Oral Film",
+    "description": "a thin sheet placed in the oral cavity and contains one or more layers"
+  },
+  {
+    "name": "Cartridge",
+    "description": "a single or multiple use solution or a suspension contained in a vessel used with a separate reusable injection system"
+  },
+  {
+    "name": "Injection",
+    "description": "a single use sterile solution, suspension, or reconstituted powder intended for parenteral use"
+  },
+  {
+    "name": "Nasal Gel",
+    "description": "a gel intended for use on or in the nasal cavity"
+  },
+  {
+    "name": "Mouthwash",
+    "description": "an oral solution intended to be used as a rinse or for irrigation. This includes oral solutions that are applied to the teeth"
+  },
+  {
+    "name": "Oral Foam",
+    "description": "a foam intended to be administered into the mouth"
+  },
+  {
+    "name": "Otic Gel",
+    "description": "a gel intended for use in the ear"
+  },
+  {
+    "name": "Oral Gel",
+    "description": "a gel intended for use on or in the oral cavity"
+  },
+  {
+    "name": "Douche",
+    "description": "an irrigation solution intended for use in the vagina"
+  },
+  {
+    "name": "Paste",
+    "description": "a smooth, viscous mixture of material; semisolid in nature"
+  },
+  {
+    "name": "Enema",
+    "description": "an irrigation solution intended to cleanse the bowel or administer diagnostic drugs"
+  },
+  {
+    "name": "Pack",
+    "description": "a package that contains multiple drugs, or drugs designed to be administered in a specified sequence"
+  }
+]

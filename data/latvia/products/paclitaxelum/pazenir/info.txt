@@ -1,0 +1,7 @@
+short_name: Pazenir
+active_substance: Paclitaxelum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany; Pharmachemie B.V., Netherlands; Teva Nederland B.V., Netherlands; Teva Pharma B.V., Netherlands
+atc_code: L01CD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1317/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1317/001/smpc

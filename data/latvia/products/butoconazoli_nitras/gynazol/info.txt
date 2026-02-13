@@ -1,0 +1,7 @@
+short_name: Gynazol
+active_substance: Butoconazoli nitras
+marketing_authorisation_holder: Richter Gedeon Nyrt., Hungary
+manufacturer: Richter Gedeon Nyrt., Hungary
+atc_code: G01AF15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001609/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001609/smpc

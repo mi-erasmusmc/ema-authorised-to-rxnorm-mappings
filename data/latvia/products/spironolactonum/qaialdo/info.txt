@@ -1,0 +1,7 @@
+short_name: Qaialdo
+active_substance: Spironolactonum
+marketing_authorisation_holder: Lipomed GmbH, Germany
+manufacturer: Pronav Clinical Limited, Ireland
+atc_code: C03DA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1731/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1731/001/smpc

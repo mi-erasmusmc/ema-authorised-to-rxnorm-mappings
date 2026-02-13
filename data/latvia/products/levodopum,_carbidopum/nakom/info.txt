@@ -1,0 +1,7 @@
+short_name: Nakom
+active_substance: Levodopum, Carbidopum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Lek Pharmaceuticals d.d., Slovenia
+atc_code: N04BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0407/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0407/smpc

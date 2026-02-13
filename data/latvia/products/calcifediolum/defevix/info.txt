@@ -1,0 +1,7 @@
+short_name: Defevix
+active_substance: Calcifediolum
+marketing_authorisation_holder: Berlin-Chemie AG, Germany
+manufacturer: Faes Farma S.A., Spain
+atc_code: A11CC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0111/smpc

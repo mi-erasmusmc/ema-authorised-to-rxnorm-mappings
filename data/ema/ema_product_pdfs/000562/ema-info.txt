@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000562
+Name of medicine: Angiox
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: bivalirudin
+Active substance: Bivalirudin
+Therapeutic area (MeSH): Acute Coronary Syndrome
+ATC code (human): B01AE06
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Angiox is indicated as an anticoagulant in adult patients undergoing percutaneous coronary intervention (PCI), including patients with ST-segment-elevation myocardial infarction (STEMI) undergoing primary PCI. Angiox is also indicated for the treatment of adult patients with unstable angina / non-ST-segment-elevation myocardial infarction (UA / NSTEMI) planned for urgent or early intervention. Angiox should be administered with aspirin and clopidogrel.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/angiox

@@ -1,0 +1,7 @@
+short_name: Urapidil Kalceks
+active_substance: Urapidilum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: C02CA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0043/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0043/smpc

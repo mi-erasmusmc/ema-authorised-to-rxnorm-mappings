@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004042
+Name of medicine: Genvoya
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: elvitegravir;cobicistat;emtricitabine;tenofovir alafenamide
+Active substance: elvitegravir;cobicistat;emtricitabine;tenofovir alafenamide
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Genvoya is indicated for the treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus 1 (HIV 1) without any known mutations associated with resistance to the integrase inhibitor class, emtricitabine or tenofovir.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/genvoya

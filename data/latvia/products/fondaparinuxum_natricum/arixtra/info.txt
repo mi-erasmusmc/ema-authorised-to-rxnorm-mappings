@@ -1,0 +1,7 @@
+short_name: Arixtra
+active_substance: Fondaparinuxum natricum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Aspen Notre Dame de Bondeville, France; Mylan Germany GmbH, Germany
+atc_code: B01AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/206/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/206/001/smpc

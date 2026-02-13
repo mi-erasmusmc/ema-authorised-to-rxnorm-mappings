@@ -1,0 +1,7 @@
+short_name: Senadekss
+active_substance: Sennae folii extractum
+marketing_authorisation_holder: Stirolbiofarm Baltikum, SIA, Latvia
+manufacturer: Marifarm d.o.o., Slovenia
+atc_code: A06AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0289/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0289/smpc

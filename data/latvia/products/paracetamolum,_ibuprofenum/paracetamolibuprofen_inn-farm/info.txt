@@ -1,0 +1,7 @@
+short_name: Paracetamol/Ibuprofen Inn-Farm
+active_substance: Paracetamolum, Ibuprofenum
+marketing_authorisation_holder: INN-FARM d.o.o., Slovenia
+manufacturer: Alkaloid - INT d.o.o., Slovenia
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0087/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0087/smpc

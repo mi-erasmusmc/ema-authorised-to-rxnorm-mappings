@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001027
+Name of medicine: ellaOne
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ulipristal acetate
+Active substance: ulipristal
+Therapeutic area (MeSH): Contraception, Postcoital
+ATC code (human): G03AD02
+Pharmacotherapeutic group (human): Sex hormones and modulators of the genital system;Emergency contraceptives
+Therapeutic indication: Emergency contraception within 120 hours (five days) of unprotected sexual intercourse or contraceptive failure.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ellaone

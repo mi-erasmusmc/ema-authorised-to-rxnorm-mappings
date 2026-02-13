@@ -1,0 +1,7 @@
+short_name: Bisoprolol Vitabalans
+active_substance: Bisoprololi hemifumaras
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: C07AB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0337/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0337/smpc

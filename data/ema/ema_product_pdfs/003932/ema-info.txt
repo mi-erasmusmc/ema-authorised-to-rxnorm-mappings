@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003932
+Name of medicine: Zurampic
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: lesinurad
+Active substance: lesinurad
+Therapeutic area (MeSH): Hyperuricemia
+ATC code (human): M04AB05
+Pharmacotherapeutic group (human): Antigout preparations
+Therapeutic indication: Zurampic, in combination with a xanthine oxidase inhibitor, is indicated in adults for the adjunctive treatment of hyperuricaemia in gout patients (with or without tophi) who have not achieved target serum uric acid levels with an adequate dose of a xanthine oxidase inhibitor alone.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zurampic

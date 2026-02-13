@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000640
+Name of medicine: Naglazyme
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: galsulfase
+Active substance: galsulfase
+Therapeutic area (MeSH): Mucopolysaccharidosis VI
+ATC code (human): A16AB
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Naglazyme is indicated for long-term enzyme-replacement therapy in patients with a confirmed diagnosis of mucopolysaccharidosis VI (MPS VI; N-acetylgalactosamine-4-sulfatase deficiency; Maroteaux-Lamy syndrome) (see section 5.1). As for all lysosomal genetic disorders, it is of primary importance, especially in severe forms, to initiate treatment as early as possible, before appearance of non-reversible clinical manifestations of the disease. A key issue is to treat young patients aged &lt;5 years suffering from a severe form of the disease, even though patients &lt;5 years were not included in the pivotal phase-3 study.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/naglazyme

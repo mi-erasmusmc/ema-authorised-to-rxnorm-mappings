@@ -1,0 +1,7 @@
+short_name: Lutathera
+active_substance: Lutetium (177 Lu) oxodotreotidum
+marketing_authorisation_holder: Advanced Accelerator Applications S.A., France
+manufacturer: Advanced Accelerator Applications Iberica, S.L., Spain; Advanced Accelerator Applications (Italy). S.r.l., Italy
+atc_code: V10XX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1226/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1226/001/smpc

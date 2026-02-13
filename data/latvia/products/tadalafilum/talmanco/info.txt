@@ -1,0 +1,7 @@
+short_name: Talmanco
+active_substance: Tadalafilum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: McDermott Laboratories Ltd, Ireland; Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: G04BE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1153/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1153/001/smpc

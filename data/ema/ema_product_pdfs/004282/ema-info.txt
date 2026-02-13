@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004282
+Name of medicine: Vyxeos liposomal (previously Vyxeos)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: daunorubicin;cytarabine
+Active substance: daunorubicin hydrochloride;cytarabine
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): L01XY01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Vyxeos liposomal is indicated for the treatment of adults with newly diagnosed, therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vyxeos-liposomal

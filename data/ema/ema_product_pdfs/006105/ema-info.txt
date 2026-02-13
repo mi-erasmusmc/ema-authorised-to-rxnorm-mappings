@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006105
+Name of medicine: Rytelo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: imetelstat
+Active substance: imetelstat
+Therapeutic area (MeSH): Anemia;Myelodysplastic Syndromes
+ATC code (human): L01XX80
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of transfusion-dependent anaemia in adults with low- to intermediate-1 risk myelodysplastic syndromes (MDS) who have failed to respond or have lost response to or are ineligible for erythropoiesis-stimulating agents (ESA).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rytelo

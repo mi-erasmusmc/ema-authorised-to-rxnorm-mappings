@@ -1,0 +1,7 @@
+short_name: Octezy
+active_substance: Octenidini hydrochloridum, Phenoxyethanolum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Dr. August Wolff GmbH & Co. KG Arzneimittel, Germany; Egis Pharmaceuticals PLC, Hungary
+atc_code: D08AJ57
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0287/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0287/smpc

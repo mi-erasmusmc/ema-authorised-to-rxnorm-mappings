@@ -1,0 +1,7 @@
+short_name: Dalnessa
+active_substance: Tert-butylamini perindoprilum, Amlodipinum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C09BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0405/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0405/smpc

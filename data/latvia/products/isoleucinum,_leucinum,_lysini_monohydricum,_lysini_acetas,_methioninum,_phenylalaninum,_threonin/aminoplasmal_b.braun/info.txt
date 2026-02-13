@@ -1,0 +1,7 @@
+short_name: Aminoplasmal B.Braun
+active_substance: Isoleucinum, Leucinum, Lysini monohydricum, Lysini acetas, Methioninum, Phenylalaninum, Threoninum, Tryptophanum, Valinum, Argininum, Histidinum, Alaninum, Glycinum, Acidum asparticum, Acidum glutamicum, Prolinum, Serinum, Tyrosinum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: B05BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0374/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0374/smpc

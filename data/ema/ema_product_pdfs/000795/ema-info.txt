@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000795
+Name of medicine: Tyverb
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lapatinib
+Active substance: lapatinib
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L01EH01
+Pharmacotherapeutic group (human): Protein kinase inhibitors
+Therapeutic indication: Tyverb is indicated for the treatment of patients with breast cancer, whose tumours overexpress HER2 (ErbB2):  in combination with capecitabine for patients with advanced or metastatic disease with progression following prior therapy, which must have included anthracyclines and taxanes and therapy with trastuzumab in the metastatic setting; in combination with trastuzumab for patients with hormone-receptor-negative metastatic disease that has progressed on prior trastuzumab therapy or therapies in combination with chemotherapy; in combination with an aromatase inhibitor for post-menopausal women with hormone-receptor-positive metastatic disease, not currently intended for chemotherapy. The patients in the registration study had not previously been treated with trastuzumab or an aromatase inhibitor. No data are available on the efficacy of this combination relative to trastuzumab in combination with an aromatase inhibitor in this patient population.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tyverb

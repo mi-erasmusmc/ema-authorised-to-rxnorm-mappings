@@ -1,0 +1,7 @@
+short_name: Bronchitol
+active_substance: Mannitolum
+marketing_authorisation_holder: Pharmaxis Europe Limited, Ireland
+manufacturer: MAWDSLEY-BROOKS & COMPANY LIMITED, United Kingdom; Arvato Distribution GmbH, Germany
+atc_code: R05CB16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/760/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/760/001/smpc

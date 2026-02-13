@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004648
+Name of medicine: Emgality
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: galcanezumab
+Active substance: Galcanezumab
+Therapeutic area (MeSH): Migraine Disorders
+ATC code (human): N02
+Pharmacotherapeutic group (human): Analgesics;galcanezumab
+Therapeutic indication: Emgality is indicated for the prophylaxis of migraine in adults who have at least 4 migraine days per month.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emgality

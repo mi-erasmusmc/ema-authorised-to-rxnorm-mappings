@@ -1,0 +1,7 @@
+short_name: Hypnogen
+active_substance: Zolpidemi tartras
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: N05CF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0147/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0147/smpc

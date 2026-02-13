@@ -1,0 +1,7 @@
+short_name: Ibuprofen Zentiva
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic; Zentiva S.A., Romania
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0109/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0109/smpc

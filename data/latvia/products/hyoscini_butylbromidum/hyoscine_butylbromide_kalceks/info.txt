@@ -1,0 +1,7 @@
+short_name: Hyoscine butylbromide Kalceks
+active_substance: Hyoscini butylbromidum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: Kalceks, A/S, Latvia
+atc_code: A03BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0201/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0201/smpc

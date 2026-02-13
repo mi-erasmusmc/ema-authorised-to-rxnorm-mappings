@@ -1,0 +1,7 @@
+short_name: Rapiscan
+active_substance: Regadenosonum
+marketing_authorisation_holder: GE Healthcare AS, Norway
+manufacturer: AndersonBrecon (UK) Limited, United Kingdom
+atc_code: C01EB21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/643/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/643/001/smpc

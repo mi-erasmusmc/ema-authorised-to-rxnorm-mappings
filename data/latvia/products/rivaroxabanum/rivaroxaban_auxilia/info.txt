@@ -1,0 +1,7 @@
+short_name: Rivaroxaban Auxilia
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Auxilia Pharma OÜ, Estonia
+manufacturer: Labormed - Pharma S.A., Romania; AdAlvo Limited, Malta
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0122/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0122/smpc

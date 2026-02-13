@@ -1,0 +1,7 @@
+short_name: Clarithromycin Ingen Pharma
+active_substance: Clarithromycinum
+marketing_authorisation_holder: Ingen Pharma, SIA, Latvia
+manufacturer: Bluepharma - Industria Farmaceutica S.A., Portugal
+atc_code: J01FA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0235/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0235/smpc

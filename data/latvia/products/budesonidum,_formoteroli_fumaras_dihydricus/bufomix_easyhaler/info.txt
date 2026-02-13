@@ -1,0 +1,7 @@
+short_name: Bufomix Easyhaler
+active_substance: Budesonidum, Formoteroli fumaras dihydricus
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland
+atc_code: R03AK07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0112/smpc

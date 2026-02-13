@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004660
+Name of medicine: Ghryvelin (previously Macimorelin Aeterna Zentaris)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: macimorelin
+Active substance: macimorelin acetate
+Therapeutic area (MeSH): Diagnostic Techniques, Endocrine
+ATC code (human): V04CD06
+Pharmacotherapeutic group (human): macimorelin
+Therapeutic indication: This medicinal product is for diagnostic use only.&nbsp;GHRYVELIN&nbsp;is indicated for the diagnosis of growth hormone deficiency (GHD) in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ghryvelin

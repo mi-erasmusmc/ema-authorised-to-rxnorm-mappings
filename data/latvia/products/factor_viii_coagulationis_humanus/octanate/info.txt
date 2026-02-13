@@ -1,0 +1,7 @@
+short_name: Octanate
+active_substance: Factor VIII coagulationis humanus
+marketing_authorisation_holder: Octapharma (IP) SPRL, Belgium
+manufacturer: Octapharma AB, Sweden; Octapharma Pharmazeutika Produktionsges.m.b.H, Austria; Octapharma S.A., France
+atc_code: B02BD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0047/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0047/smpc

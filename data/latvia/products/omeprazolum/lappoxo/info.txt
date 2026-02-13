@@ -1,0 +1,7 @@
+short_name: Lappoxo
+active_substance: Omeprazolum
+marketing_authorisation_holder: INN-FARM d.o.o., Slovenia
+manufacturer: Alkaloid - INT d.o.o., Slovenia
+atc_code: A02BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0237/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0237/smpc

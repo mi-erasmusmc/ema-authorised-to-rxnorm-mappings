@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001111
+Name of medicine: Lamivudine Teva Pharma B.V.
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lamivudine
+Active substance: lamivudine
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AF05
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Lamivudine Teva Pharma B.V. is indicated as part of antiretroviral combination therapy for the treatment of human-immunodeficiency-virus (HIV)-infected adults and children.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lamivudine-teva-pharma-bv

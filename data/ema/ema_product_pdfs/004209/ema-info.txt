@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004209
+Name of medicine: Oxervate
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cenegermin
+Active substance: recombinant human nerve growth factor
+Therapeutic area (MeSH): Keratitis
+ATC code (human): S01
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Treatment of moderate (persistent epithelial defect) or severe (corneal ulcer) neurotrophic keratitis in adults
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/oxervate

@@ -1,0 +1,7 @@
+short_name: Letybo
+active_substance: Toxinum botulinicum A
+marketing_authorisation_holder: Croma-Pharma GmbH, Austria
+manufacturer: Croma-Pharma GmbH, Austria
+atc_code: M03AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0193/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0193/smpc

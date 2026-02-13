@@ -1,0 +1,7 @@
+short_name: Sertraline Lannacher
+active_substance: Sertralini hydrochloridum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: N06AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0217/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0217/smpc

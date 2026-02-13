@@ -1,0 +1,1 @@
+Previous mapping used non-standard OMOP concept (41374253/OMOP2572215) with EXACT type. Updated to standard RxNorm concept (735844/477484). Changed to BROAD because natalizumab-sztn (FDA-suffixed INN) has no concepts in RxNorm yet. Added suggestion column per biosimilar instructions.

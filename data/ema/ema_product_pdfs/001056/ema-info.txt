@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001056
+Name of medicine: Clopidogrel Krka
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: clopidogrel
+Active substance: clopidogrel (as hydrochloride)
+Therapeutic area (MeSH): Peripheral Vascular Diseases;Stroke;Myocardial Infarction
+ATC code (human): B01AC04
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Clopidogrel is indicated in adults for the prevention of atherothrombotic events in:  Patients suffering from myocardial infarction (from a few days until less than 35 days), ischaemic stroke (from 7 days until less than 6 months) or established peripheral arterial disease.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-krka

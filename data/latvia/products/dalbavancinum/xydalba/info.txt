@@ -1,0 +1,7 @@
+short_name: Xydalba
+active_substance: Dalbavancinum
+marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG, Germany
+manufacturer: Almac Pharma Services Limited, United Kingdom; Almac Pharma Services (Ireland) Limited, Ireland; Allergan Pharmaceuticals International Ltd, Ireland
+atc_code: J01XA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/986/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/986/001/smpc

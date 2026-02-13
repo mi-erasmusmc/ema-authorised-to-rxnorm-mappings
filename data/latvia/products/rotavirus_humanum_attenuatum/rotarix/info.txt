@@ -1,0 +1,7 @@
+short_name: Rotarix
+active_substance: Rotavirus humanum attenuatum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07BH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/330/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/330/001/smpc

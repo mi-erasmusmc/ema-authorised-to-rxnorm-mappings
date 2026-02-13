@@ -1,0 +1,7 @@
+short_name: Voltaren Aktigo
+active_substance: Diclofenacum natricum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Ibsa Farmaceuitici Italia S.r.l., Italy; Haleon Germany GmbH, Germany; Haleon Belgium NV, Belgium
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0111/smpc

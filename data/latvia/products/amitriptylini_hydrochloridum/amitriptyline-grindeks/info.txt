@@ -1,0 +1,7 @@
+short_name: Amitriptyline-Grindeks
+active_substance: Amitriptylini hydrochloridum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: A/S Grindeks, Latvia
+atc_code: N06AA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0092/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0092/smpc

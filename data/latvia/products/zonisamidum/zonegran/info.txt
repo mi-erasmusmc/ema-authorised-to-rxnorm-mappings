@@ -1,0 +1,7 @@
+short_name: Zonegran
+active_substance: Zonisamidum
+marketing_authorisation_holder: Amdipharm Limited, Ireland
+manufacturer: Eisai Europe Ltd, United Kingdom
+atc_code: N03AX15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/307/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/307/001/smpc

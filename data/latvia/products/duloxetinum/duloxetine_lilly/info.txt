@@ -1,0 +1,7 @@
+short_name: Duloxetine Lilly
+active_substance: Duloxetinum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly S.A., Spain
+atc_code: N06AX21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/972/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/972/001/smpc

@@ -1,0 +1,7 @@
+short_name: Benfogamma
+active_substance: Benfotiaminum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Woerwag Pharma Production GmbH & Co. KG, Germany
+atc_code: A11DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0796/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0796/smpc

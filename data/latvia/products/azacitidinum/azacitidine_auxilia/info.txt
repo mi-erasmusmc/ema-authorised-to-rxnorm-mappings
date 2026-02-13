@@ -1,0 +1,7 @@
+short_name: Azacitidine Auxilia
+active_substance: Azacitidinum
+marketing_authorisation_holder: Auxilia Pharma OÜ, Estonia
+manufacturer: Seacross Pharma (Europe) Limited, Ireland
+atc_code: L01BC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001668/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001668/smpc

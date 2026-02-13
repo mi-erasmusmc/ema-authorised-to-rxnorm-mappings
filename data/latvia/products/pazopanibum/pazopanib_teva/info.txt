@@ -1,0 +1,7 @@
+short_name: Pazopanib Teva
+active_substance: Pazopanibum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Remedica Ltd., Cyprus; PharOS MT Ltd., Malta
+atc_code: L01EX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0013/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0013/smpc

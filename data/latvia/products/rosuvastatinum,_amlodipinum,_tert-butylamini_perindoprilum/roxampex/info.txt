@@ -1,0 +1,7 @@
+short_name: Roxampex
+active_substance: Rosuvastatinum, Amlodipinum, Tert-butylamini perindoprilum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C10BX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0172/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0172/smpc

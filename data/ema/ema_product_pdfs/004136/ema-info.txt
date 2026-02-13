@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004136
+Name of medicine: Zinplava
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bezlotoxumab
+Active substance: Bezlotoxumab
+Therapeutic area (MeSH): Enterocolitis, Pseudomembranous
+ATC code (human): J06BB21
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Zinplava is indicated for the prevention of recurrence of Clostridium difficile infection (CDI) in adults at high risk for recurrence of CDI.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zinplava

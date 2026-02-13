@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004319
+Name of medicine: Cyltezo
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: adalimumab
+Active substance: adalimumab
+Therapeutic area (MeSH): Hidradenitis Suppurativa;Arthritis, Psoriatic;Psoriasis;Crohn Disease;Arthritis, Juvenile Rheumatoid;Uveitis;Arthritis, Rheumatoid;Colitis, Ulcerative;Spondylitis, Ankylosing
+ATC code (human): L04AB04
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Please refer to section 4.1 of the Summary of product characteristics in the product information document.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cyltezo

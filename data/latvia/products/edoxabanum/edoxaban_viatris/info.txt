@@ -1,0 +1,7 @@
+short_name: Edoxaban Viatris
+active_substance: Edoxabanum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: PharOS MT Limited, Malta; PharOS Pharmaceutical Oriented Services Ltd., Greece
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0296/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0296/smpc

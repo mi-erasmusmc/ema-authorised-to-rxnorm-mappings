@@ -1,0 +1,7 @@
+short_name: Imraldi
+active_substance: Adalimumabum
+marketing_authorisation_holder: Samsung Bioepis NL B.V., Netherlands
+manufacturer: Biogen Manufacturing ApS, Denmark
+atc_code: L04AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1216/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1216/001/smpc

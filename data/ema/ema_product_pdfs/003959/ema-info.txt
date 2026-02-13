@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003959
+Name of medicine: Kyntheum
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: brodalumab
+Active substance: brodalumab
+Therapeutic area (MeSH): Psoriasis
+ATC code (human): L04AC12
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Kyntheum is indicated for the treatment of moderate to severe plaque psoriasis in adult patients who are candidates for systemic therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kyntheum

@@ -1,0 +1,7 @@
+short_name: Xaboplax
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Rontis Hellas Medical and Pharmaceutical Products S.A., Greece; PharOS MT Ltd., Malta; Lek Pharmaceuticals d.d., Slovenia
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0177/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0177/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001192
+Name of medicine: Topotecan Hospira
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: topotecan
+Active substance: topotecan
+Therapeutic area (MeSH): Uterine Cervical Neoplasms;Small Cell Lung Carcinoma
+ATC code (human): L01CE01
+Pharmacotherapeutic group (human): Other antineoplastic agents
+Therapeutic indication: Topotecan monotherapy is indicated for the treatment of patients with relapsed small-cell lung cancer (SCLC) for whom re-treatment with the first-line regimen is not considered appropriate. Topotecan in combination with cisplatin is indicated for patients with carcinoma of the cervix recurrent after radiotherapy and for patients with stage IVB disease. Patients with prior exposure to cisplatin require a sustained treatment-free interval to justify treatment with the combination.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/topotecan-hospira

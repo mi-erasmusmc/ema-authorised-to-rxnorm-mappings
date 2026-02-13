@@ -1,0 +1,7 @@
+short_name: Exemestane Accord
+active_substance: Exemestanum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L02BG06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0305/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0305/smpc

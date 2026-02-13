@@ -1,0 +1,7 @@
+short_name: Vaminolact
+active_substance: Alaninum, Argininum, Acidum asparticum, Acidum glutamicum, Glycinum, Histidinum, Isoleucinum, Cysteinum, Leucinum, Lysinum, Methioninum, Phenylalaninum, Prolinum, Serinum, Taurinum, Threoninum, Tryptophanum, Tyrosinum, Valinum
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi Austria GmbH, Austria
+atc_code: B05BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0111/smpc

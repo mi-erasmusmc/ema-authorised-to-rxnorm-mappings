@@ -1,0 +1,7 @@
+short_name: Stoptussin Fyto
+active_substance: Thymi extractum fluidum, Serpylli extractum fluidum, Plantaginis extractum fluidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: TEVA Czech Industries s.r.o., Czech Republic
+atc_code: R05CA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0010/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0010/smpc

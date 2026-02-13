@@ -1,0 +1,7 @@
+short_name: Lorinden A
+active_substance: Flumetasoni pivalas, Acidum salicylicum
+marketing_authorisation_holder: Bausch Health Ireland Limited, Ireland
+manufacturer: Pharmaceutical Company Jelfa SA, Poland
+atc_code: D07BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0102/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0102/smpc

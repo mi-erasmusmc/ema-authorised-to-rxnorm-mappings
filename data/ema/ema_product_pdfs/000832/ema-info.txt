@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000832
+Name of medicine: Pandemrix
+Medicine status: Expired
+International non-proprietary name (INN) / common name: influenza vaccine (H1N1)v (split virion, inactivated, adjuvanted)
+Active substance: split influenza virus inactivated, containing antigen equivalent to A/California/07/2009 (H1N1)-derived strain used NYMC X-179A
+Therapeutic area (MeSH): Influenza, Human;Immunization;Disease Outbreaks
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Influenza vaccines
+Therapeutic indication: Prophylaxis of influenza caused by A (H1N1)v 2009 virus. Pandemrix should only be used if the recommended annual seasonal trivalent / quadrivalent influenza vaccines are not available and if immunisation against (H1N1)v is considered necessary (see sections 4.4 and 4.8). Pandemrix should be used in accordance with Official Guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pandemrix

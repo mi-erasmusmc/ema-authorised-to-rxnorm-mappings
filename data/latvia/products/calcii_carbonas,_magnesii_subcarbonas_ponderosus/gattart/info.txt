@@ -1,0 +1,7 @@
+short_name: Gattart
+active_substance: Calcii carbonas, Magnesii subcarbonas ponderosus
+marketing_authorisation_holder: Alkaloid - INT d.o.o., Slovenia
+manufacturer: Alkaloid - INT d.o.o., Slovenia
+atc_code: A02AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0053/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0053/smpc

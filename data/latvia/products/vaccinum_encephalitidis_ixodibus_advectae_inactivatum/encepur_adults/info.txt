@@ -1,0 +1,7 @@
+short_name: Encepur adults
+active_substance: Vaccinum encephalitidis ixodibus advectae inactivatum
+marketing_authorisation_holder: Bavarian Nordic A/S, Denmark
+manufacturer: Bavarian Nordic A/S, Denmark; GSK Vaccines GmbH, Germany
+atc_code: J07BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0661/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0661/smpc

@@ -1,0 +1,7 @@
+short_name: Alpicort
+active_substance: Acidum salicylicum, Prednisolonum
+marketing_authorisation_holder: Dr. August Wolff GmbH & Co. KG Arzneimittel, Germany
+manufacturer: Dr. August Wolff GmbH & Co. Arzneimittel, Germany
+atc_code: D07XA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001165/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001165/smpc

@@ -1,0 +1,7 @@
+short_name: Coldrex MaxGrip Menthol & Berries
+active_substance: Paracetamolum, Phenylephrini hydrochloridum, Acidum ascorbicum
+marketing_authorisation_holder: Perrigo Poland Sp. z o.o., Poland
+manufacturer: Omega Pharma International NV, Belgium; Perrigo Supply Chain International Designated Activity Company, Ireland
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0130/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0130/smpc

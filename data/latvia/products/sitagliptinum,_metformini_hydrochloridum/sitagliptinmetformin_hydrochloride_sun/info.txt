@@ -1,0 +1,7 @@
+short_name: Sitagliptin/Metformin hydrochloride SUN
+active_substance: Sitagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Sun Pharmaceutical Industries Europe B.V., Netherlands
+manufacturer: Sun Pharmaceutical Industries Europe B.V., Netherlands; S.C. Terapia S.A., Romania
+atc_code: A10BD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1720/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1720/001/smpc

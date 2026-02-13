@@ -1,0 +1,7 @@
+short_name: Norvir
+active_substance: Ritonavirum
+marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG, Germany
+manufacturer: AbbVie Deutschland GmbH & Co. KG, Germany
+atc_code: J05AE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/016/005/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/016/005/smpc

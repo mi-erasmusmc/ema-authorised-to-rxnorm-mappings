@@ -1,0 +1,7 @@
+short_name: Cisplatin Accord
+active_substance: Cisplatinum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L01XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0441/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0441/smpc

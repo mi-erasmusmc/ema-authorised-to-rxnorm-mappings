@@ -1,0 +1,7 @@
+short_name: Trajenta
+active_substance: Linagliptinum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Dragenopharm  Apotheker Puschl GmbH, Germany; Boehringer Ingelheim Ellas A.E., Greece
+atc_code: A10BH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/707/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/707/001/smpc

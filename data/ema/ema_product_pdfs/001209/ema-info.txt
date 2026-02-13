@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001209
+Name of medicine: Silodyx
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: silodosin
+Active substance: silodosin
+Therapeutic area (MeSH): Prostatic Hyperplasia
+ATC code (human): G04CA04
+Pharmacotherapeutic group (human): Urologicals
+Therapeutic indication: Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH)
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/silodyx

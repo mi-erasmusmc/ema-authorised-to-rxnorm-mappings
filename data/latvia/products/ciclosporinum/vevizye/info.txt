@@ -1,0 +1,7 @@
+short_name: Vevizye
+active_substance: Ciclosporinum
+marketing_authorisation_holder: Laboratoires THEA, France
+manufacturer: HWI pharma services GmbH, Germany
+atc_code: S01XA18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1857/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1857/001/smpc

@@ -1,0 +1,7 @@
+short_name: Discus compositum
+active_substance: Discus intervertebralis suis, Acidum ascorbicum, Thiaminum hydrochloricum, Natrium riboflavinum phosphoricum, Pyridoxinum hydrochloricum, Nicotinamidum, Funiculus umbilicalis suis, Cartilago suis, Medulla ossis suis, Embryo suis, Glandula suprarenalis suis, Pulsatilla nigricans, Mercurius praecipitatus ruber, Sulfur, Cimicifuga racemosa, Ledum palustre, Pseudognaphalium obtusifolium, Citrullus colocynthis, Secale cornutum, Argentum metallicum, Zincum metallicum, Cuprum aceticum, Aesculus hippocastanum, Medorrhinum, nosode, Ranunculus bulbosus, Ammonium chloratum, Kalium carbonicum, Cinchona pubescens, Sepia officinalis, Acidum picrinicum, Berberis vulgaris, Acidum silicicum, Calcium phosphoricum, Acidum DL alfa-liponicum, Natrium diethyloxalaceticum, Nadidum, Coenzymum A
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0013/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0013/smpc

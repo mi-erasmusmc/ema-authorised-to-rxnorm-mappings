@@ -1,0 +1,7 @@
+short_name: Ambrisentan Viatris
+active_substance: Ambrisentanum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited, t/a Gerard Laboratories, t/a Mylan Dublin, Ireland; Mylan Germany GmbH, Germany
+atc_code: C02KX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1368/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1368/001/smpc

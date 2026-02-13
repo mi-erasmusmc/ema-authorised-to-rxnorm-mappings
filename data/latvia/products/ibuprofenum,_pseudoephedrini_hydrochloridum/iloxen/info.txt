@@ -1,0 +1,7 @@
+short_name: Iloxen
+active_substance: Ibuprofenum, Pseudoephedrini hydrochloridum
+marketing_authorisation_holder: PharmaSwiss Ceska republika s.r.o., Czech Republic
+manufacturer: Dragenopharm  Apotheker Puschl GmbH, Germany
+atc_code: R05X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0009/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0009/smpc

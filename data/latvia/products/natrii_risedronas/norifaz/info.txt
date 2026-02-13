@@ -1,0 +1,7 @@
+short_name: Norifaz
+active_substance: Natrii risedronas
+marketing_authorisation_holder: Adamed Pharma S.A., Poland
+manufacturer: Adamed Pharma S.A., Poland; Adamed Pharma S.A., Poland
+atc_code: M05BA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0308/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0308/smpc

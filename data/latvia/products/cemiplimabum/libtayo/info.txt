@@ -1,0 +1,7 @@
+short_name: LIBTAYO
+active_substance: Cemiplimabum
+marketing_authorisation_holder: Regeneron Ireland U.C., Ireland
+manufacturer: Regeneron Ireland Unlimited Company, Ireland
+atc_code: L01FF06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1376/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1376/001/smpc

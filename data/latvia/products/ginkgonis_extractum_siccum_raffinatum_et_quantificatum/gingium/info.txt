@@ -1,0 +1,7 @@
+short_name: Gingium
+active_substance: Ginkgonis extractum siccum raffinatum et quantificatum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Salutas Pharma GmbH, Germany; Lek S.A., Poland
+atc_code: N06DX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0440/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0440/smpc

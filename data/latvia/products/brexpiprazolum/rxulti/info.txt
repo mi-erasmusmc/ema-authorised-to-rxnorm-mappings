@@ -1,0 +1,7 @@
+short_name: Rxulti
+active_substance: Brexpiprazolum
+marketing_authorisation_holder: Otsuka Pharmaceutical Netherlands B.V., Netherlands
+manufacturer: H. Lundbeck A/S, Denmark; Elaiapharm - Valbonne, France
+atc_code: N05AX16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1294/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1294/001/smpc

@@ -1,0 +1,7 @@
+short_name: Dimethyl fumarate Stada
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta; Clonmel Healthcare Ltd., Ireland; KeVaRo Group Ltd., Bulgaria
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0035/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0035/smpc

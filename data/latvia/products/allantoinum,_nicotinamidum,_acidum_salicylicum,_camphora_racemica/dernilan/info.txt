@@ -1,0 +1,7 @@
+short_name: Dernilan
+active_substance: Allantoinum, Nicotinamidum, Acidum salicylicum, Camphora racemica
+marketing_authorisation_holder: Wroclawskie Zaklady Zielarskie Herbapol S.A., Poland
+manufacturer: Wroclaw Herb Factory "Herbapol" S.A., Poland
+atc_code: D11AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0265/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0265/smpc

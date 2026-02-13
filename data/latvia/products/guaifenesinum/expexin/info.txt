@@ -1,0 +1,7 @@
+short_name: Expexin
+active_substance: Guaifenesinum
+marketing_authorisation_holder: Wick Pharma, Germany
+manufacturer: Procter & Gamble Manufacturing GmbH, Germany
+atc_code: R05CA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0187/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0187/smpc

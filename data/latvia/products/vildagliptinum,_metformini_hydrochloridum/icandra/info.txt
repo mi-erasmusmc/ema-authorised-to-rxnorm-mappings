@@ -1,0 +1,7 @@
+short_name: Icandra
+active_substance: Vildagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Lek d.d., PE Proizvodnja Lendava, Slovenia; Novartis Pharmaceutical Manufacturing LLC, Slovenia
+atc_code: A10BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/484/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/484/001/smpc

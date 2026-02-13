@@ -1,0 +1,7 @@
+short_name: Arutimol
+active_substance: Timololi maleas
+marketing_authorisation_holder: Bausch + Lomb Ireland Limited, Ireland
+manufacturer: Dr.Gerhard Mann Chem.-pharm. Fabrik GmbH, Germany
+atc_code: S01ED01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0007/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0007/smpc

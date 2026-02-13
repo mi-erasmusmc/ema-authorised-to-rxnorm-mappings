@@ -1,0 +1,7 @@
+short_name: Afrin
+active_substance: Oxymetazolini hydrochloridum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: BerliMed S.A., Spain
+atc_code: R01AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0355/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0355/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003895
+Name of medicine: Pemetrexed Fresenius Kabi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pemetrexed
+Active substance: pemetrexed
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung;Mesothelioma
+ATC code (human): L01BA04
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Malignant pleural mesothelioma Pemetrexed Fresenius Kabi in combination with cisplatin is indicated for the treatment of chemotherapy naïve patients with unresectable malignant pleural mesothelioma. Non-small cell lung cancer Pemetrexed Fresenius Kabi in combination with cisplatin is indicated for the first line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology. Pemetrexed Fresenius Kabi is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy. Pemetrexed Fresenius Kabi is indicated as monotherapy for the second line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-fresenius-kabi

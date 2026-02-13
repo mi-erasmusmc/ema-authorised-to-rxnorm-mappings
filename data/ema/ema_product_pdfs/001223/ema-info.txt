@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001223
+Name of medicine: Ruconest
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: conestat alfa
+Active substance: recombinant human C1-inhibitor
+Therapeutic area (MeSH): Angioedemas, Hereditary
+ATC code (human): B06AC04
+Pharmacotherapeutic group (human): Drugs used in hereditary angioedema;Other hematological agents
+Therapeutic indication: Ruconest is indicated for treatment of acute angioedema attacks in adults with hereditary angioedema (HAE) due to C1-esterase-inhibitor deficiency.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ruconest

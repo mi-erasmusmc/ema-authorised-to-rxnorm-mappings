@@ -1,0 +1,7 @@
+short_name: Ramicor
+active_substance: Ramiprilum
+marketing_authorisation_holder: Hexal AG, Germany
+manufacturer: Lek S.A., Poland; Salutas Pharma GmbH, Germany; Sandoz GmbH, Austria; Lek S.A., Poland
+atc_code: C09AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0389/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0389/smpc

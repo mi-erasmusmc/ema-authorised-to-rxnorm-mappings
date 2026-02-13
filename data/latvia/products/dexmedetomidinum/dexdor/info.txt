@@ -1,0 +1,7 @@
+short_name: Dexdor
+active_substance: Dexmedetomidinum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation, Finland
+atc_code: N05CM18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/718/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/718/001/smpc

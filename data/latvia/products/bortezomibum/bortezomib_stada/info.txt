@@ -1,0 +1,7 @@
+short_name: Bortezomib Stada
+active_substance: Bortezomibum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany
+atc_code: L01XG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0020/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0020/smpc

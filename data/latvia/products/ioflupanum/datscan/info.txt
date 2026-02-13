@@ -1,0 +1,7 @@
+short_name: DaTSCAN
+active_substance: Ioflupanum
+marketing_authorisation_holder: GE Healthcare B.V, Netherlands
+manufacturer: GE Healthcare B.V, Netherlands
+atc_code: V09AB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/135/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/135/001/smpc

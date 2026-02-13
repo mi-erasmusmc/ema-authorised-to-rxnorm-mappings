@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002157
+Name of medicine: Skilarence
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dimethyl fumarate
+Active substance: dimethyl fumarate
+Therapeutic area (MeSH): Psoriasis
+ATC code (human): L04AX07
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Skilarence is indicated for the treatment of moderate to severe plaque psoriasis in adults in need of systemic medicinal therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/skilarence

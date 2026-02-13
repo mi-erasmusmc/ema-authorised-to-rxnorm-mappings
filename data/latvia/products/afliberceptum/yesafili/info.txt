@@ -1,0 +1,7 @@
+short_name: Yesafili
+active_substance: Afliberceptum
+marketing_authorisation_holder: Biosimilar Collaborations Ireland Limited, Ireland
+manufacturer: McDermott Laboratories Trading as Mylan Dublin Biologics, Ireland; Mylan Germany GmbH, Germany
+atc_code: S01LA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1751/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1751/001/smpc

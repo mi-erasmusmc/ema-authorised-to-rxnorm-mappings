@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002560
+Name of medicine: Nuedexta
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: dextromethorphan hydrobromide;quinidine sulfate
+Active substance: dextromethorphan;quinidine
+Therapeutic area (MeSH): Neurobehavioral Manifestations
+ATC code (human): N07XX59
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Nuedexta is indicated for the symptomatic treatment of pseudobulbar affect (PBA) in adults. Efficacy has only been studied in patients with underlying amyotrophic lateral sclerosis or multiple sclerosis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nuedexta

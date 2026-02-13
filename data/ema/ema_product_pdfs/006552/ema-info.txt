@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006552
+Name of medicine: Zvogra
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: denosumab
+Active substance: denosumab
+Therapeutic area (MeSH): Giant Cell Tumor of Bone;Neoplasms, Bone Tissue
+ATC code (human): M05BX04
+Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
+Therapeutic indication: Prevention of skeletal related events (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advanced malignancies involving bone (see section 5.1). Treatment of adults and skeletally mature adolescents with giant cell tumour of bone that is unresectable or where surgical resection is likely to result in severe morbidity.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zvogra

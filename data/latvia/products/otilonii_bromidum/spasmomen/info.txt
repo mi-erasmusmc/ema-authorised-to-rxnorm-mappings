@@ -1,0 +1,7 @@
+short_name: Spasmomen
+active_substance: Otilonii bromidum
+marketing_authorisation_holder: A. Menarini Industrie Farmaceutiche Riunite s.r.l., Italy
+manufacturer: Berlin-Chemie AG, Germany; A. Menarini Manufacturing Logistic and Services S.r.l., Italy; A. Menarini Manufacturing Logistic and Services s.r.l., Italy
+atc_code: A03AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0026/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0026/smpc

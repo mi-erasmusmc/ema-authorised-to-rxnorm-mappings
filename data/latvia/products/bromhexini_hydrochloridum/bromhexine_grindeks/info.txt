@@ -1,0 +1,7 @@
+short_name: Bromhexine Grindeks
+active_substance: Bromhexini hydrochloridum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: R05CB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0366/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0366/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005483
+Name of medicine: Pluvicto
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lutetium (177Lu) vipivotide tetraxetan
+Active substance: lutetium (177Lu) vipivotide tetraxetan
+Therapeutic area (MeSH): Prostatic Neoplasms, Castration-Resistant
+ATC code (human): V10XX
+Pharmacotherapeutic group (human): Therapeutic radiopharmaceuticals
+Therapeutic indication: Pluvicto in combination with androgen deprivation therapy (ADT) with or without androgen receptor (AR) pathway inhibition is indicated for the treatment of adult patients with progressive prostate-specific membrane antigen (PSMA)-positive metastatic castration-resistant prostate cancer (mCRPC) who have been treated with AR pathway inhibition and taxane based chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pluvicto

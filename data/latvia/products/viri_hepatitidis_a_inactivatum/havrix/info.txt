@@ -1,0 +1,7 @@
+short_name: Havrix
+active_substance: Viri hepatitidis A inactivatum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0026/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0026/smpc

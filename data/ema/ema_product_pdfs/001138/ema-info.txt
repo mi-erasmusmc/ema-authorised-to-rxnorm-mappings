@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001138
+Name of medicine: Clopidogrel BGR (previously Zylagren)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: clopidogrel
+Active substance: clopidogrel (as hydrogen sulfate)
+Therapeutic area (MeSH): Peripheral Vascular Diseases;Stroke;Myocardial Infarction
+ATC code (human): B01AC03
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Prevention of atherothrombotic events Clopidogrel is indicated in: Adult patients suffering from myocardial infarction (from a few days until less than 35 days), ischaemic stroke (from 7 days until less than 6 months) or established peripheral arterial disease.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-bgr

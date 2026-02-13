@@ -1,0 +1,7 @@
+short_name: Desloratadine Actavis
+active_substance: Desloratadinum
+marketing_authorisation_holder: Actavis Group PTC ehf, Iceland
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Ltd., Malta
+atc_code: R06AX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/745/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/745/001/smpc

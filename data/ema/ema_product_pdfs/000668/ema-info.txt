@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000668
+Name of medicine: Ganfort
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bimatoprost;timolol
+Active substance: bimatoprost;timolol
+Therapeutic area (MeSH): Glaucoma, Open-Angle;Ocular Hypertension
+ATC code (human): S01ED51
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Reduction of intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ganfort

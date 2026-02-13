@@ -1,0 +1,7 @@
+short_name: Rabeprazole ADOH
+active_substance: Rabeprazolum natricum
+marketing_authorisation_holder: ADOH B.V., Netherlands
+manufacturer: ADOH B.V., Netherlands
+atc_code: A02BC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0320/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0320/smpc

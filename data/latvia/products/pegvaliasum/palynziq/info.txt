@@ -1,0 +1,7 @@
+short_name: Palynziq
+active_substance: Pegvaliasum
+marketing_authorisation_holder: BioMarin International Limited, Ireland
+manufacturer: BioMarin International Limited, Ireland
+atc_code: A16AB19
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1362/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1362/001/smpc

@@ -1,0 +1,7 @@
+short_name: Panadol
+active_substance: Paracetamolum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: GlaxoSmithKline Dungarvan Ltd., Ireland; SmithKline Beecham  S.A., Spain; S.C. Europharm S.A., Romania
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0356/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0356/smpc

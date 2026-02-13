@@ -1,0 +1,7 @@
+short_name: Ondansetron Kabi
+active_substance: Ondansetronum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Polska Sp. z o.o., Poland
+atc_code: A04AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0075/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0075/smpc

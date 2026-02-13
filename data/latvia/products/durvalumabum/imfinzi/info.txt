@@ -1,0 +1,7 @@
+short_name: Imfinzi
+active_substance: Durvalumabum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca AB, Sweden; MedImmune, UK Limited, United Kingdom; MedImmune Pharma B.V., Netherlands
+atc_code: L01FF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1322/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1322/001/smpc

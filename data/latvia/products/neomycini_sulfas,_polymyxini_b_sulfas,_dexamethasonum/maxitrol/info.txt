@@ -1,0 +1,7 @@
+short_name: Maxitrol
+active_substance: Neomycini sulfas, Polymyxini B sulfas, Dexamethasonum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain
+atc_code: S01CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001790/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001790/smpc

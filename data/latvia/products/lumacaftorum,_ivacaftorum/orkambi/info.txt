@@ -1,0 +1,7 @@
+short_name: Orkambi
+active_substance: Lumacaftorum, Ivacaftorum
+marketing_authorisation_holder: Vertex Pharmaceuticals (Ireland) Limited, Ireland
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland; Almac Pharma Services Limited, Northern Ireland
+atc_code: R07AX30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1059/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1059/001/smpc

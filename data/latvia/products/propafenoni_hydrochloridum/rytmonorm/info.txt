@@ -1,0 +1,7 @@
+short_name: Rytmonorm
+active_substance: Propafenoni hydrochloridum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Mylan Hungary Kft., Hungary
+atc_code: C01BC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0739/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0739/smpc

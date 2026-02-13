@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004391
+Name of medicine: Symtuza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: darunavir;cobicistat;emtricitabine;tenofovir alafenamide
+Active substance: darunavir;cobicistat;emtricitabine;tenofovir alafenamide
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR22
+Pharmacotherapeutic group (human): Antivirals for systemic use;Antivirals for treatment of HIV infections, combinations
+Therapeutic indication: Symtuza is indicated for the treatment of human immunodeficiency virus type 1 (HIV?1) infection in adults and adolescents (aged 12 years and older with body weight at least 40 kg). Genotypic testing should guide the use of Symtuza.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/symtuza

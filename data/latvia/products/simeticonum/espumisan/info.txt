@@ -1,0 +1,7 @@
+short_name: Espumisan
+active_substance: Simeticonum
+marketing_authorisation_holder: Berlin-Chemie AG (Menarini Group), Germany
+manufacturer: Berlin-Chemie AG (Menarini Group), Germany
+atc_code: A03AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0539/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0539/smpc

@@ -1,0 +1,7 @@
+short_name: Coenzyme compositum
+active_substance: Coenzymum A, Acidum ascorbicum, Thiaminum hydrochloricum, Natrium riboflavinum phosphoricum, Pyridoxinum hydrochloricum, Nicotinamidum, Acidum cis-aconiticum, Acidum citricum, Acidum fumaricum, Acidum alfa-ketoglutaricum, Acidum malicum, Succinum Acidum, Barium oxalsuccinicum, Natrium diethyloxalaceticum, Natrium pyruvicum, Cysteinum, Pulsatilla nigricans, Hepar sulfuris, Sulfur, Adenosinum triphosphoricum, Nadidum, Manganum phosphoricum, Magnesium oroticum dihydricum, Cerium oxalicum, Acidum DL alfa-liponicum, Beta vulgaris ssp.rubra
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0112/smpc

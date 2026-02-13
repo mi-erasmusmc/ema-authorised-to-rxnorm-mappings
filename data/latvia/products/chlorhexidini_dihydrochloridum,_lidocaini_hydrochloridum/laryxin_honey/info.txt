@@ -1,0 +1,7 @@
+short_name: Laryxin Honey
+active_substance: Chlorhexidini dihydrochloridum, Lidocaini hydrochloridum
+marketing_authorisation_holder: Orifarm Healthcare A/S, Denmark
+manufacturer: Laboratoria Qualiphar NV, Belgium
+atc_code: R02AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0035/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0035/smpc

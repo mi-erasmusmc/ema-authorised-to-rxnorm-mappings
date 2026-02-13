@@ -1,0 +1,7 @@
+short_name: Kaptopril Krka
+active_substance: Captoprilum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA d.d., Novo mesto, Slovenia
+atc_code: C09AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0208/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0208/smpc

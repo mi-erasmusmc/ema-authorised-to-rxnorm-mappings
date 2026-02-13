@@ -1,0 +1,7 @@
+short_name: PROCYSBI
+active_substance: Mercaptaminum
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Chiesi Farmaceutici S.P.A., Italy
+atc_code: A16AA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/861/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/861/001/smpc

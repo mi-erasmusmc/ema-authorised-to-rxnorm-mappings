@@ -1,0 +1,7 @@
+short_name: Potassium Chloride Braun
+active_substance: Kalii chloridum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: B05XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-1013/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-1013/smpc

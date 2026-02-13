@@ -1,0 +1,7 @@
+short_name: Clopidogrel/Acetylsalicylic acid Mylan
+active_substance: Clopidogrelum, Acidum acetylsalicylicum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited, t/a Gerard Laboratories, t/a Mylan Dublin, Ireland
+atc_code: B01AC30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1395/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1395/001/smpc

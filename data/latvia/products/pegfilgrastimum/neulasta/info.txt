@@ -1,0 +1,7 @@
+short_name: Neulasta
+active_substance: Pegfilgrastimum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen Europe B.V., Netherlands; Amgen Technology Ireland (ADL), Ireland; Amgen NV, Belgium
+atc_code: L03AA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/227/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/227/001/smpc

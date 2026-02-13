@@ -1,0 +1,7 @@
+short_name: Iclusig
+active_substance: Ponatinibum
+marketing_authorisation_holder: Incyte Biosciences Distribution B.V., Netherlands
+manufacturer: Haupt Pharma Amareg GmbH, Germany; TjoaPack Netherlands B.V., Netherlands; Incyte Biosciences Distribution B.V., Netherlands
+atc_code: L01EA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/839/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/839/001/smpc

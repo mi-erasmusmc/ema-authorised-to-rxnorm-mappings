@@ -1,0 +1,7 @@
+short_name: Tamiflu
+active_substance: Oseltamivirum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: J05AH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/222/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/222/001/smpc

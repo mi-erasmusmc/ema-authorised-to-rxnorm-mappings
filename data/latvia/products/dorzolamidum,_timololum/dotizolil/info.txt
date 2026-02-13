@@ -1,0 +1,7 @@
+short_name: Dotizolil
+active_substance: Dorzolamidum, Timololum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Pharmathen S.A., Greece; Salutas Pharma GmbH, Germany; Famar A.V.E., Alimos Plant, Greece
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0119/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0119/smpc

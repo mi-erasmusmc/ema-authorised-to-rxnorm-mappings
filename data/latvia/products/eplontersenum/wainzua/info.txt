@@ -1,0 +1,7 @@
+short_name: Wainzua
+active_substance: Eplontersenum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca AB, Sweden
+atc_code: N07XX21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1875/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1875/001/smpc

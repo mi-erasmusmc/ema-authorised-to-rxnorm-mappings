@@ -1,0 +1,7 @@
+short_name: Prohance
+active_substance: Gadoteridolum
+marketing_authorisation_holder: Bracco Imaging s.p.a., Italy
+manufacturer: Bracco Imaging S.p.A, Italy; Bipso GmbH, Germany
+atc_code: V08CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0089/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0089/smpc

@@ -1,0 +1,7 @@
+short_name: Keppra
+active_substance: Levetiracetamum
+marketing_authorisation_holder: UCB Pharma SA, Belgium
+manufacturer: UCB Pharma S.A., Belgium; Aesica Pharmaceuticals S.r.l., Italy
+atc_code: N03AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/146/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/146/001/smpc

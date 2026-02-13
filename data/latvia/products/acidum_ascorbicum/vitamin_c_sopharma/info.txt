@@ -1,0 +1,7 @@
+short_name: Vitamin C Sopharma
+active_substance: Acidum ascorbicum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: A11GA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0444/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0444/smpc

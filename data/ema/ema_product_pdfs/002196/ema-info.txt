@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002196
+Name of medicine: Somatropin Biopartners
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: somatropin
+Active substance: somatropin
+Therapeutic area (MeSH): Growth
+ATC code (human): H01AC01
+Pharmacotherapeutic group (human): Somatropin and somatropin agonists;Pituitary and hypothalamic hormones and analogues
+Therapeutic indication: Somatropin Biopartners is indicated for the replacement therapy of endogenous growth hormone in adults with childhood- or adult-onset growth-hormone deficiency (GHD). Adult-onset: Patients with GHD in adulthood are defined as patients with known hypothalamic-pituitary pathology and at least one additional known deficiency of a pituitary hormone excluding prolactin. These patients should undergo a single dynamic test in order to diagnose or exclude a GHD. Childhood-onset: In patients with childhood-onset isolated GHD (no evidence of hypothalamic-pituitary disease or cranial irradiation), two dynamic tests should be performed after completion of growth, except for those having low insulin-like-growth-factor-I (IGF-I) concentrations (&lt; -2 standard-deviation score (SDS)), who may be considered for one test. The cut-off point of the dynamic test should be strict.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/somatropin-biopartners

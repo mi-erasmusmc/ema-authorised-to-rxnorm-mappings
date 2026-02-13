@@ -1,0 +1,7 @@
+short_name: Spasmalgon
+active_substance: Metamizolum natricum, Pitofenoni hydrochloridum, Fenpiverini bromidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria
+atc_code: A03DC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0777/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0777/smpc

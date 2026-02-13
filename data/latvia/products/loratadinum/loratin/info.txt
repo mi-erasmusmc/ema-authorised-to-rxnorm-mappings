@@ -1,0 +1,7 @@
+short_name: Loratin
+active_substance: Loratadinum
+marketing_authorisation_holder: Hexal AG, Germany
+manufacturer: Salutas Pharma GmbH, Germany; Lek S.A., Poland
+atc_code: R06AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0348/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0348/smpc

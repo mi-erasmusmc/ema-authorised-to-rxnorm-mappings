@@ -1,0 +1,7 @@
+short_name: Foscan
+active_substance: Temoporfinum
+marketing_authorisation_holder: biolitec Pharma Ltd., Germany
+manufacturer: biolitec Pharma Ltd., Germany
+atc_code: L01XD05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/197/003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/197/003/smpc

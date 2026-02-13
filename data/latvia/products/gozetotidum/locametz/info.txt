@@ -1,0 +1,7 @@
+short_name: Locametz
+active_substance: Gozetotidum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Advanced Accelerator Applications (Italy) S.r.l., Italy
+atc_code: V09IX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1692/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1692/001/smpc

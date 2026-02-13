@@ -1,0 +1,7 @@
+short_name: Valeriana
+active_substance: Valerianae extractum hydroalcoholicum siccum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: N05CM09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000351/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000351/smpc

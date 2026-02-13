@@ -1,0 +1,7 @@
+short_name: Bronchodual
+active_substance: Fenoteroli hydrobromidum, Ipratropii bromidum
+marketing_authorisation_holder: Boehringer Ingelheim France, France
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany
+atc_code: R03AL01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001822/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001822/smpc

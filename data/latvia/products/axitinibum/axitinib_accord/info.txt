@@ -1,0 +1,7 @@
+short_name: Axitinib Accord
+active_substance: Axitinibum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland; Apis Labor GmbH, Austria
+atc_code: L01EK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1847/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1847/001/smpc

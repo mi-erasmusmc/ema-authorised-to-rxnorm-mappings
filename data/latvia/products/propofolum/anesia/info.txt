@@ -1,0 +1,7 @@
+short_name: Anesia
+active_substance: Propofolum
+marketing_authorisation_holder: Baxter Holding B.V., Netherlands
+manufacturer: Bieffe Medital S.P.A, Italy; Unifarma, SIA, Latvia; Baxter S.A., Belgium
+atc_code: N01AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0316/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0316/smpc

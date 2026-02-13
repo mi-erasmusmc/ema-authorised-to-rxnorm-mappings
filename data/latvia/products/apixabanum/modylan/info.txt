@@ -1,0 +1,7 @@
+short_name: Modylan
+active_substance: Apixabanum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0022/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0022/smpc

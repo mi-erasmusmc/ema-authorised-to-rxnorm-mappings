@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005633
+Name of medicine: Ngenla
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: somatrogon
+Active substance: somatrogon
+Therapeutic area (MeSH): Growth and Development
+ATC code (human): H01AC08
+Pharmacotherapeutic group (human): PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES
+Therapeutic indication: Indicated for the long-term treatment of paediatric patients with growth disturbance due to insufficient secretion of growth hormone
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ngenla

@@ -1,0 +1,7 @@
+short_name: Savene
+active_substance: Dexrazoxanum
+marketing_authorisation_holder: CNX Therapeutics Ireland Limited, Ireland
+manufacturer: Cenexi-Laboratoires Thissen SA, Belgium
+atc_code: V03AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/350/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/350/001/smpc

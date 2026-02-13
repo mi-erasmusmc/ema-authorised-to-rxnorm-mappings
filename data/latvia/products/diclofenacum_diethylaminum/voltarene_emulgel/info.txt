@@ -1,0 +1,7 @@
+short_name: Voltarene Emulgel
+active_substance: Diclofenacum diethylaminum
+marketing_authorisation_holder: GlaxoSmithKline Sante Grand, Public, France
+manufacturer: GlaxoSmithKline Sante Grand, Public, France
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001183/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001183/smpc

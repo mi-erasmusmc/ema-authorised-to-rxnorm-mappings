@@ -1,0 +1,7 @@
+short_name: Thyrozol
+active_substance: Thiamazolum
+marketing_authorisation_holder: Merck Serono, SIA, Latvia
+manufacturer: Merck Healthcare KGaA, Germany; P&G Health Austria GmbH & Co. OG, Austria
+atc_code: H03BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0163/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0163/smpc

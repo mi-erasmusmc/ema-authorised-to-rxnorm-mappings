@@ -1,0 +1,7 @@
+short_name: Potassium Iodide
+active_substance: Kalii iodidum
+marketing_authorisation_holder: Unimed Pharma Ltd., Slovakia
+manufacturer: Unimed Pharma Ltd., Slovakia
+atc_code: S01XA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0286/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0286/smpc

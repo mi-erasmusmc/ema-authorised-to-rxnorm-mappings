@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006371
+Name of medicine: Austedo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: deutetrabenazine
+Active substance: deutetrabenazine
+Therapeutic area (MeSH): Tardive Dyskinesia
+ATC code (human): N07XX16
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Treatment of moderate to severe tardive dyskinesia in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/austedo

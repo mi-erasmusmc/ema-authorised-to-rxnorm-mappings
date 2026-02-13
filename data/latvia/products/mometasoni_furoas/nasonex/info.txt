@@ -1,0 +1,7 @@
+short_name: Nasonex
+active_substance: Mometasoni furoas
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: Organon Heist bv, Belgium
+atc_code: R01AD09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0820/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0820/smpc

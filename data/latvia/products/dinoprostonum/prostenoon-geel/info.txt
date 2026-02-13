@@ -1,0 +1,7 @@
+short_name: Prostenoon-Geel
+active_substance: Dinoprostonum
+marketing_authorisation_holder: Kevelt AS, Estonia
+manufacturer: AS Kevelt, Estonia
+atc_code: G02AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0627/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0627/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002653
+Name of medicine: Xofigo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: radium Ra223 dichloride
+Active substance: radium (223Ra) dichloride
+Therapeutic area (MeSH): Prostatic Neoplasms
+ATC code (human): V10XX03
+Pharmacotherapeutic group (human): Therapeutic radiopharmaceuticals
+Therapeutic indication: Xofigo is indicated for the treatment of adults with castration-resistant prostate cancer, symptomatic bone metastases and no known visceral metastases.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xofigo

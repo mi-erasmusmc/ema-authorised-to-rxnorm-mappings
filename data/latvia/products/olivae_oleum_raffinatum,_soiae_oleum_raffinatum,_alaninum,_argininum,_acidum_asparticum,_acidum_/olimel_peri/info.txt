@@ -1,0 +1,7 @@
+short_name: OLIMEL PERI
+active_substance: Olivae oleum raffinatum, Soiae oleum raffinatum, Alaninum, Argininum, Acidum asparticum, Acidum glutamicum, Glycinum, Histidinum, Isoleucinum, Leucinum, Lysinum, Methioninum, Phenylalaninum, Prolinum, Serinum, Threoninum, Tryptophanum, Tyrosinum, Valinum, Natrii acetas trihydricus, Natrii glycerophosphas, Kalii chloridum, Magnesii chloridum hexahydricum, Calcii chloridum dihydricum, Glucosum monohydricum
+marketing_authorisation_holder: Baxter S.A., Belgium
+manufacturer: Baxter S.A., Belgium
+atc_code: B05BA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0250/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0250/smpc

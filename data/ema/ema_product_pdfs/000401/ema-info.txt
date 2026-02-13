@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000401
+Name of medicine: Tracleer
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bosentan
+Active substance: bosentan (as monohydrate)
+Therapeutic area (MeSH): Scleroderma, Systemic;Hypertension, Pulmonary
+ATC code (human): C02KX01
+Pharmacotherapeutic group (human): Antihypertensives
+Therapeutic indication: Treatment of pulmonary arterial hypertension (PAH) to improve exercise capacity and symptoms in patients with WHO functional class III.Efficacy has been shown in:  Primary (idiopathic and familial) PAH; PAH secondary to scleroderma without significant interstitial pulmonary disease; PAH associated with congenital systemic-to-pulmonary shunts and Eisenmenger's physiology.  Some improvements have also been shown in patients with PAH WHO functional class II. Tracleer is also indicated to reduce the number of new digital ulcers in patients with systemic sclerosis and ongoing digital ulcer disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tracleer

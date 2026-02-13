@@ -1,0 +1,7 @@
+short_name: Betaklav
+active_substance: Amoxicillinum, Acidum clavulanicum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: J01CR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0236/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0236/smpc

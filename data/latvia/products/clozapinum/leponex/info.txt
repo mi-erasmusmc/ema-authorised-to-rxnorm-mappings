@@ -1,0 +1,7 @@
+short_name: Leponex
+active_substance: Clozapinum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Madaus GmbH, Germany; Mylan Hungary Kft., Hungary; McDermott Laboratories Limited t/a Gerard Laboratories t/a Mylan Dublin, Ireland
+atc_code: N05AH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0286/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0286/smpc

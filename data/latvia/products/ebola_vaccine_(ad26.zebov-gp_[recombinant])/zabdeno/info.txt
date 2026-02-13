@@ -1,0 +1,7 @@
+short_name: ZABDENO
+active_substance: Ebola vaccine (Ad26.ZEBOV-GP [recombinant])
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Janssen Biologics B.V., Netherlands
+atc_code: J07BX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1444/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1444/001/smpc

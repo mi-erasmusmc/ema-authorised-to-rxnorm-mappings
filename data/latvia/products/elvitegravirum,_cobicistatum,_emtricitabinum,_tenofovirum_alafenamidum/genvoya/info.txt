@@ -1,0 +1,7 @@
+short_name: Genvoya
+active_substance: Elvitegravirum, Cobicistatum, Emtricitabinum, Tenofovirum alafenamidum
+marketing_authorisation_holder: Gilead Sciences Ireland UC, Ireland
+manufacturer: Gilead Sciences Ireland UC, Ireland
+atc_code: J05AR18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1061/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1061/001/smpc

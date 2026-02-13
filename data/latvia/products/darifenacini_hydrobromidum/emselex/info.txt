@@ -1,0 +1,7 @@
+short_name: Emselex
+active_substance: Darifenacini hydrobromidum
+marketing_authorisation_holder: pharmaand GmbH, Austria
+manufacturer: DREHM Pharma GmbH, Austria
+atc_code: G04BD10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/294/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/294/001/smpc

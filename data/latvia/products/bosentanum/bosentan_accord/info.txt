@@ -1,0 +1,7 @@
+short_name: Bosentan Accord
+active_substance: Bosentanum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: C02KX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0258/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0258/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005776
+Name of medicine: Enjaymo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sutimlimab
+Active substance: sutimlimab
+Therapeutic area (MeSH): Hemolysis;Anemia, Hemolytic, Autoimmune
+ATC code (human): L04AJ04
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Enjaymo is indicated for the treatment of haemolytic anaemia in adult patients with cold agglutinin disease (CAD).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/enjaymo

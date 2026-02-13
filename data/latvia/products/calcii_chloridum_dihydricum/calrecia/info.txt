@@ -1,0 +1,7 @@
+short_name: Calrecia
+active_substance: Calcii chloridum dihydricum
+marketing_authorisation_holder: Fresenius Medical Care Deutschland GmbH, Germany
+manufacturer: Fresenius Medical Care Deutschland GmbH, Germany
+atc_code: B05XA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0186/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0186/smpc

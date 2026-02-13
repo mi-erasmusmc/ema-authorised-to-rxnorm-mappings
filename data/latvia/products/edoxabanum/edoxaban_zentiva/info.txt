@@ -1,0 +1,7 @@
+short_name: Edoxaban Zentiva
+active_substance: Edoxabanum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic; Labormed - Pharma S.A., Romania
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0060/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0060/smpc

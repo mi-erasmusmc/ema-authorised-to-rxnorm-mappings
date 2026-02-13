@@ -1,0 +1,7 @@
+short_name: Levetiracetam Hospira
+active_substance: Levetiracetamum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Hospira UK Limited, United Kingdom; Pfizer Service Company BVBA, Belgium
+atc_code: N03AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/889/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/889/001/smpc

@@ -1,0 +1,7 @@
+short_name: Zercepac
+active_substance: Trastuzumabum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: L01FD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1456/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1456/001/smpc

@@ -1,0 +1,7 @@
+short_name: Arsenic trioxide medac
+active_substance: Arsenii trioxidum
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+atc_code: L01XX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1475/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1475/001/smpc

@@ -1,0 +1,7 @@
+short_name: Fosinopril Actavis
+active_substance: Fosinoprilum natricum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria
+atc_code: C09AA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0616/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0616/smpc

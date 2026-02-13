@@ -1,0 +1,7 @@
+short_name: Benelyte
+active_substance: Natrii chloridum, Kalii chloridum, Calcii chloridum dihydricum, Magnesii chloridum hexahydricum, Natrii acetas trihydricus, Glucosum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Polska Sp. z o.o., Poland
+atc_code: B05BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0054/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0054/smpc

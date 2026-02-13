@@ -1,0 +1,7 @@
+short_name: Yttriga
+active_substance: Yttrium (90Y) chloridum
+marketing_authorisation_holder: Eckert & Ziegler Radiopharma GmbH, Germany
+manufacturer: Eckert & Ziegler Nuclitec GmbH, Germany
+atc_code: V10X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/322/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/322/001/smpc

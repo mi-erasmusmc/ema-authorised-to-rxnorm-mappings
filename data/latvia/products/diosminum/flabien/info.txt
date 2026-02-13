@@ -1,0 +1,7 @@
+short_name: Flabien
+active_substance: Diosminum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C05CA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0197/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0197/smpc

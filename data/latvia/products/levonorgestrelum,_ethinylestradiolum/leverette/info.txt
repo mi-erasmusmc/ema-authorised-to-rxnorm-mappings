@@ -1,0 +1,7 @@
+short_name: Leverette
+active_substance: Levonorgestrelum, Ethinylestradiolum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: Laboratorios Leon Farma S.A., Spain
+atc_code: G03AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0261/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0261/smpc

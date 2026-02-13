@@ -1,0 +1,7 @@
+short_name: Dermovate
+active_substance: Clobetasoli propionas
+marketing_authorisation_holder: GlaxoSmithKline (Ireland) Limited, Ireland
+manufacturer: GlaxoSmithKline Pharmaceuticals S.A., Poland; Glaxo Operations UK Ltd, T/A Glaxo Wellcome Operations, United Kingdom
+atc_code: D07AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001214/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001214/smpc

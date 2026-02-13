@@ -1,0 +1,7 @@
+short_name: Ivabradine Anpharm
+active_substance: Ivabradinum
+marketing_authorisation_holder: ANPHARM Przedsiebiorstwo Farmaceutyczne S.A., Poland
+manufacturer: Les Laboratoires Servier Industries, France; Servier (Ireland) Industries Ltd, Ireland; Laboratorios Servier S.L., Spain; ANPHARM Przedsiebiorstwo Farmaceutyczne S.A., Poland
+atc_code: C01EB17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1041/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1041/001/smpc

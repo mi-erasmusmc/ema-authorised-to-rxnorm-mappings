@@ -1,0 +1,7 @@
+short_name: Sanoral HCT
+active_substance: Olmesartanum medoxomilum, Amlodipinum, Hydrochlorothiazidum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: Berlin-Chemie AG, Germany; Daiichi Sankyo Europe GmbH, Germany; Menarini-Von Heyden GmbH, Germany
+atc_code: C09DX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0034/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0034/smpc

@@ -1,0 +1,7 @@
+short_name: Axetine
+active_substance: Cefuroximum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory C, Cyprus
+atc_code: J01DC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0291/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0291/smpc

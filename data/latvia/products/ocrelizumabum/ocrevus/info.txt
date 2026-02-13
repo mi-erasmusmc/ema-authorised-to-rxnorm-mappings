@@ -1,0 +1,7 @@
+short_name: Ocrevus
+active_substance: Ocrelizumabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L04AG08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1231/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1231/001/smpc

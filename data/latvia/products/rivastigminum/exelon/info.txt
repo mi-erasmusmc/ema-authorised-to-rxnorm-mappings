@@ -1,0 +1,7 @@
+short_name: Exelon
+active_substance: Rivastigminum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany
+atc_code: N06DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/066/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/066/001/smpc

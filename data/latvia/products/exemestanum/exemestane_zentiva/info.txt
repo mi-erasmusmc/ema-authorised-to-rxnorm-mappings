@@ -1,0 +1,7 @@
+short_name: Exemestane Zentiva
+active_substance: Exemestanum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: EirGen Pharma Limited, Ireland
+atc_code: L02BG06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0319/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0319/smpc

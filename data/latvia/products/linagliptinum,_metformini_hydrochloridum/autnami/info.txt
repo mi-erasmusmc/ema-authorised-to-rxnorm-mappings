@@ -1,0 +1,7 @@
+short_name: Autnami
+active_substance: Linagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: PharOS Pharmaceutical Oriented Services Ltd, Greece; Lek Pharmaceuticals d.d., Slovenia; PharOS MT Limited, Malta
+atc_code: A10BD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0262/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0262/smpc

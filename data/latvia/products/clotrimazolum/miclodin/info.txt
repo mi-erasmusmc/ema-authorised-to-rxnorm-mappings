@@ -1,0 +1,7 @@
+short_name: Miclodin
+active_substance: Clotrimazolum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Mako Pharma Sp. z o.o., Poland
+atc_code: G01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0198/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0198/smpc

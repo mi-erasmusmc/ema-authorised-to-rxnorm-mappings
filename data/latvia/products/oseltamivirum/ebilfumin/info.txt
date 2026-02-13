@@ -1,0 +1,7 @@
+short_name: Ebilfumin
+active_substance: Oseltamivirum
+marketing_authorisation_holder: Actavis Group PTC ehf., Iceland
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria
+atc_code: J05AH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/915/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/915/001/smpc

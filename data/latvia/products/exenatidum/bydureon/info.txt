@@ -1,0 +1,7 @@
+short_name: BYDUREON
+active_substance: Exenatidum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: Swords Laboratories T/A Lawrence Laboratories, Ireland; AstraZeneca UK Limited, United Kingdom; AstraZeneca AB, Sweden
+atc_code: A10BJ01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/696/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/696/001/smpc

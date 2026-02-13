@@ -1,0 +1,7 @@
+short_name: Perindopril arginine/Indapamide/Amlodipine TAD
+active_substance: Perindoprili argininum, Indapamidum, Amlodipinum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: C09BX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0104/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0104/smpc

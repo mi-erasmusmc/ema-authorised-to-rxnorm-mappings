@@ -1,0 +1,7 @@
+short_name: Indometacin Sopharma
+active_substance: Indometacinum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: M02AA23
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0003/smpc

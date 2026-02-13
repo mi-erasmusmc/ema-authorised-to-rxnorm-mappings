@@ -1,0 +1,7 @@
+short_name: Fercelan
+active_substance: Ferrosi fumaras, Acidum folicum, Acidum ascorbicum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: B03AE10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0196/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0196/smpc

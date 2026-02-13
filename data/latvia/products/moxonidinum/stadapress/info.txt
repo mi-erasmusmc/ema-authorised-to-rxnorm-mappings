@@ -1,0 +1,7 @@
+short_name: Stadapress
+active_substance: Moxonidinum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Sanico N.V., Belgium; Lamp San Prospero S.p.A., Italy; Stada M&D S.R.L, Romania
+atc_code: C02AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0020/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0020/smpc

@@ -1,0 +1,7 @@
+short_name: Contractubex
+active_substance: Cepae extractum, Heparinum natricum, Allantoinum
+marketing_authorisation_holder: Merz Pharmaceuticals GmbH, Germany
+manufacturer: Merz Pharma GmbH & Co. KgaA, Germany
+atc_code: D03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0175/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0175/smpc

@@ -1,0 +1,7 @@
+short_name: Irbesartan/Hydrochlorothiazide Teva
+active_substance: Irbesartanum, Hydrochlorothiazidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; Pharmachemie B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland
+atc_code: C09DA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/583/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/583/001/smpc

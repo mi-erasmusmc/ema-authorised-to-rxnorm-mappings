@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006024
+Name of medicine: Kisunla
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: donanemab
+Active substance: donanemab
+Therapeutic area (MeSH): Alzheimer Disease;Cognitive Dysfunction
+ATC code (human): N06DX05
+Pharmacotherapeutic group (human): Anti-dementia drugs;Other anti-dementia drugs
+Therapeutic indication: Donanemab is indicated for the treatment of adult patients with a clinical diagnosis of mild cognitive impairment and mild dementia due to Alzheimer’s disease (Early symptomatic Alzheimer’s disease) who are apolipoprotein&nbsp;E&nbsp;ε4 (ApoE&nbsp;ε4) heterozygotes or non-carriers with confirmed amyloid pathology (see section 4.4).&nbsp;
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kisunla

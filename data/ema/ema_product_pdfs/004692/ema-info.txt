@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004692
+Name of medicine: Lyvdelzi (previously Seladelpar Gilead)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: seladelpar lysine dihydrate
+Active substance: seladelpar lysine dihydrate
+Therapeutic area (MeSH): Liver Cirrhosis, Biliary
+ATC code (human): A05AX07
+Pharmacotherapeutic group (human): Bile and liver therapy
+Therapeutic indication: Lyvdelzi is indicated for the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults who have an inadequate response to UDCA alone, or as monotherapy in those unable to tolerate UDCA.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lyvdelzi

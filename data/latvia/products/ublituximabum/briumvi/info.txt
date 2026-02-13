@@ -1,0 +1,7 @@
+short_name: Briumvi
+active_substance: Ublituximabum
+marketing_authorisation_holder: Neuraxpharm Pharmaceuticals S.L., Spain
+manufacturer: Neuraxpharm Pharmaceuticals S.L., Spain
+atc_code: L04AG14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1730/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1730/001/smpc

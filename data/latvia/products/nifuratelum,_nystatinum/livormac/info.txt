@@ -1,0 +1,7 @@
+short_name: Livormac
+active_substance: Nifuratelum, Nystatinum
+marketing_authorisation_holder: UAB MRA, Lithuania
+manufacturer: Doppel Farmaceutici S.R.L., Italy
+atc_code: G01AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0142/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0142/smpc

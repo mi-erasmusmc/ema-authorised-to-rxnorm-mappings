@@ -1,0 +1,7 @@
+short_name: Sildenafil Teva
+active_substance: Sildenafilum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; TEVA Pharmaceutical Works Private Limited Company, Hungary; TEVA PHARMA S.L.U., Spain
+atc_code: G04BE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/584/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/584/002/smpc

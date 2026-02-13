@@ -1,0 +1,7 @@
+short_name: HEMANGIOL
+active_substance: Propranololum
+marketing_authorisation_holder: Pierre Fabre Medicament, France
+manufacturer: Pierre Fabre Medicament Production - Progipharm, France; Farmea, France
+atc_code: C07AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/919/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/919/001/smpc

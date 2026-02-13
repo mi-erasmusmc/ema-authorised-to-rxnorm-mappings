@@ -1,0 +1,51 @@
+product_id	original_name	authorisation_no	date_of_authorisation	inter_code	strength	pharmaceutical_form	product_strength	package_en	package_size
+EU/1/98/066/001	Exelon	EU/1/98/066/001	12-MAY-98	EMEA/H/C/000169	1.5 mg	Capsule, hard	1,5 mg	PVC/Al blister, N28	28
+EU/1/98/066/002	Exelon	EU/1/98/066/002	12-MAY-98	EMEA/H/C/000169	1.5 mg	Capsule, hard	1,5 mg	PVC/Al blister, N56	56
+EU/1/98/066/003	Exelon	EU/1/98/066/003	12-MAY-98	EMEA/H/C/000169	1.5 mg	Capsule, hard	1,5 mg	PVC/Al blister, N112	112
+EU/1/98/066/004	Exelon	EU/1/98/066/004	12-MAY-98	EMEA/H/C/000169	3 mg	Capsule, hard	3 mg	PVC/Al blister, N28	28
+EU/1/98/066/005	Exelon	EU/1/98/066/005	12-MAY-98	EMEA/H/C/000169	3 mg	Capsule, hard	3 mg	PVC/Al blister, N56	56
+EU/1/98/066/006	Exelon	EU/1/98/066/006	12-MAY-98	EMEA/H/C/000169	3 mg	Capsule, hard	3 mg	PVC/Al blister, N112	112
+EU/1/98/066/007	Exelon	EU/1/98/066/007	12-MAY-98	EMEA/H/C/000169	4.5 mg	Capsule, hard	4,5 mg	PVC/Al blister, N28	28
+EU/1/98/066/008	Exelon	EU/1/98/066/008	12-MAY-98	EMEA/H/C/000169	4.5 mg	Capsule, hard	4,5 mg	PVC/Al blister, N56	56
+EU/1/98/066/009	Exelon	EU/1/98/066/009	12-MAY-98	EMEA/H/C/000169	4.5 mg	Capsule, hard	4,5 mg	PVC/Al blister, N112	112
+EU/1/98/066/010	Exelon	EU/1/98/066/010	12-MAY-98	EMEA/H/C/000169	6 mg	Capsule, hard	6 mg	PVC/Al blister, N28	28
+EU/1/98/066/011	Exelon	EU/1/98/066/011	12-MAY-98	EMEA/H/C/000169	6 mg	Capsule, hard	6 mg	PVC/Al blister, N56	56
+EU/1/98/066/012	Exelon	EU/1/98/066/012	12-MAY-98	EMEA/H/C/000169	6 mg	Capsule, hard	6 mg	PVC/Al blister, N112	112
+EU/1/98/066/013	Exelon	EU/1/98/066/013	02-JUN-99	EMEA/H/C/000169	2 mg/ml	Oral solution	240 mg/120 ml	Glass bottle, N1	1
+EU/1/98/066/014	Exelon	EU/1/98/066/014	04-MAR-04	EMEA/H/C/000169	1.5 mg	Capsule, hard	1,5 mg	HDPE bottle, N250	250
+EU/1/98/066/015	Exelon	EU/1/98/066/015	04-MAR-04	EMEA/H/C/000169	3 mg	Capsule, hard	3 mg	HDPE bottle, N250	250
+EU/1/98/066/016	Exelon	EU/1/98/066/016	04-MAR-04	EMEA/H/C/000169	4.5 mg	Capsule, hard	4,5 mg	HDPE bottle, N250	250
+EU/1/98/066/017	Exelon	EU/1/98/066/017	04-MAR-04	EMEA/H/C/000169	6 mg	Capsule, hard	6 mg	HDPE bottle, N250	250
+EU/1/98/066/018	Exelon	EU/1/98/066/018	04-MAR-04	EMEA/H/C/000169	2 mg/ml	Oral solution	100 mg/50 ml	Glass bottle, N1	1
+EU/1/98/066/019	Exelon	EU/1/98/066/019	17-SEP-07	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/AL/PAN sachet, N7	7
+EU/1/98/066/020	Exelon	EU/1/98/066/020	17-SEP-07	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Carton box, Paper/PE/AL/PAN sachet, N30	30
+EU/1/98/066/021	Exelon	EU/1/98/066/021	17-SEP-07	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Carton box, Paper/PE/AL/PAN sachet, N60	60
+EU/1/98/066/022	Exelon	EU/1/98/066/022	17-SEP-07	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Carton box, Paper/PE/AL/PAN sachet, N90	90
+EU/1/98/066/023	Exelon	EU/1/98/066/023	17-SEP-07	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Carton box, Paper/PE/AL/PAN sachet, N7	7
+EU/1/98/066/024	Exelon	EU/1/98/066/024	17-SEP-07	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Carton box, Paper/PE/AL/PAN sachet, N30	30
+EU/1/98/066/025	Exelon	EU/1/98/066/025	17-SEP-07	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Carton box, Paper/PE/AL/PAN sachet, N60	60
+EU/1/98/066/026	Exelon	EU/1/98/066/026	17-SEP-07	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Carton box, Paper/PE/AL/PAN sachet, N90	90
+EU/1/98/066/027	Exelon	EU/1/98/066/027	12-MAY-98	EMEA/H/C/000169	13.3 mg/24 h	Transdermal patch	13,3 mg/24 h	Paper/PE/AL/PAN sachet, N7	7
+EU/1/98/066/028	Exelon	EU/1/98/066/028	12-MAY-98	EMEA/H/C/000169	13.3 mg/24 h	Transdermal patch	13,3 mg/24 h	Paper/PE/AL/PAN sachet, N30	30
+EU/1/98/066/029	Exelon	EU/1/98/066/029	12-MAY-98	EMEA/H/C/000169	13.3 mg/24 h	Transdermal patch	13,3 mg/24 h	Paper/PE/AL/PAN sachet, N60	60
+EU/1/98/066/030	Exelon	EU/1/98/066/030	12-MAY-98	EMEA/H/C/000169	13.3 mg/24 h	Transdermal patch	13,3 mg/24 h	Paper/PE/AL/PAN sachet, N90	90
+EU/1/98/066/031	Exelon	EU/1/98/066/031	12-MAY-98	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/AL/PAN sachet, N42	42
+EU/1/98/066/032	Exelon	EU/1/98/066/032	12-MAY-98	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/AL/PAN sachet, N84	84
+EU/1/98/066/033	Exelon	EU/1/98/066/033	12-MAY-98	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Paper/PE/AL/PAN sachet, N42	42
+EU/1/98/066/034	Exelon	EU/1/98/066/034	12-MAY-98	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Paper/PE/AL/PAN sachet, N84	84
+EU/1/98/066/035	Exelon	EU/1/98/066/035	12-MAY-98	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/Al/PE sachet, N7	7
+EU/1/98/066/036	Exelon	EU/1/98/066/036	12-MAY-98	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/Al/PE sachet, N30	30
+EU/1/98/066/037	Exelon	EU/1/98/066/037	12-MAY-98	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/Al/PE sachet, N60	60
+EU/1/98/066/038	Exelon	EU/1/98/066/038	12-MAY-98	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/Al/PE sachet, N90	90
+EU/1/98/066/039	Exelon	EU/1/98/066/039	12-MAY-98	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Paper/PE/Al/PE sachet, N7	7
+EU/1/98/066/040	Exelon	EU/1/98/066/040	12-MAY-98	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Paper/PE/Al/PE sachet, N30	30
+EU/1/98/066/041	Exelon	EU/1/98/066/041	12-MAY-98	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Paper/PE/Al/PE sachet, N60	60
+EU/1/98/066/042	Exelon	EU/1/98/066/042	12-MAY-98	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Paper/PE/Al/PE sachet, N90	90
+EU/1/98/066/043	Exelon	EU/1/98/066/043	12-MAY-98	EMEA/H/C/000169	13.3 mg/24 h	Transdermal patch	13,3 mg/24 h	Paper/PE/Al/PE sachet, N7	7
+EU/1/98/066/044	Exelon	EU/1/98/066/044	12-MAY-98	EMEA/H/C/000169	13.3 mg/24 h	Transdermal patch	13,3 mg/24 h	Paper/PE/Al/PE sachet, N30	30
+EU/1/98/066/045	Exelon	EU/1/98/066/045	12-MAY-98	EMEA/H/C/000169	13.3 mg/24 h	Transdermal patch	13,3 mg/24 h	Paper/PE/Al/PE sachet, N60	60
+EU/1/98/066/046	Exelon	EU/1/98/066/046	12-MAY-98	EMEA/H/C/000169	13.3 mg/24 h	Transdermal patch	13,3 mg/24 h	Paper/PE/Al/PE sachet, N90	90
+EU/1/98/066/047	Exelon	EU/1/98/066/047	12-MAY-98	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/Al/PE sachet, N41	41
+EU/1/98/066/048	Exelon	EU/1/98/066/048	12-MAY-98	EMEA/H/C/000169	4.6 mg/24 h	Transdermal patch	4,6 mg/24 h	Paper/PE/Al/PE sachet, N84	84
+EU/1/98/066/049	Exelon	EU/1/98/066/049	12-MAY-98	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Paper/PE/Al/PE sachet, N42	42
+EU/1/98/066/050	Exelon	EU/1/98/066/050	12-MAY-98	EMEA/H/C/000169	9.5 mg/24 h	Transdermal patch	9,5 mg/24 h	Paper/PE/Al/PE sachet, N84	84

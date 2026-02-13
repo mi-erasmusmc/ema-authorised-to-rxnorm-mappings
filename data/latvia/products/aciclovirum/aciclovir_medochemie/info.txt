@@ -1,0 +1,7 @@
+short_name: Aciclovir Medochemie
+active_substance: Aciclovirum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Sofarimex Industria Quimica e Farmaceutica SA, Portugal
+atc_code: J05AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0144/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0144/smpc

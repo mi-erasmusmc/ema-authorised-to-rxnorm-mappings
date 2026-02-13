@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000811
+Name of medicine: Celsentri
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: maraviroc
+Active substance: maraviroc
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AX09
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Celsentri, in combination with other antiretroviral medicinal products, is indicated for treatment experienced adults, adolescents and children of 2 years of age and older and weighing at least 10 kg infected with only CCR5-tropic HIV-1 detectable
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/celsentri

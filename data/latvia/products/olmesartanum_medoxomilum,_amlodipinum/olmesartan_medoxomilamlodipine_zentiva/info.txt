@@ -1,0 +1,7 @@
+short_name: Olmesartan medoxomil/Amlodipine Zentiva
+active_substance: Olmesartanum medoxomilum, Amlodipinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva S.A., Romania
+atc_code: C09DB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0258/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0258/smpc

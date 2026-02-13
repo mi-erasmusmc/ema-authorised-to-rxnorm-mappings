@@ -1,0 +1,7 @@
+short_name: Dasatinib Viatris
+active_substance: Dasatinibum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: L01EA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0162/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0162/smpc

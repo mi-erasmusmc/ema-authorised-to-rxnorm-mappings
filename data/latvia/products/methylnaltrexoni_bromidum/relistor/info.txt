@@ -1,0 +1,7 @@
+short_name: Relistor
+active_substance: Methylnaltrexoni bromidum
+marketing_authorisation_holder: Bausch Health Ireland Limited, Ireland
+manufacturer: Przedsiebiorstwo Farmaceutyczne Jelfa S.A., Poland
+atc_code: A06AH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/463/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/463/001/smpc

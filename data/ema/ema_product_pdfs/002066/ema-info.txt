@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002066
+Name of medicine: Ikervis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ciclosporin
+Active substance: ciclosporin
+Therapeutic area (MeSH): Corneal Diseases
+ATC code (human): S01XA18
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Treatment of severe keratitis in adult patients with dry eye disease, which has not improved despite treatment with tear substitutes.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ikervis

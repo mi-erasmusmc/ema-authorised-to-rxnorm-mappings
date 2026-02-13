@@ -1,0 +1,7 @@
+short_name: Sinupret
+active_substance: Gentianae radicis, Primulae floris, Rumicis herbae, Sambuci floris, Verbenae herbae extractum fluidum
+marketing_authorisation_holder: Bionorica SE, Germany
+manufacturer: Bionorica SE, Germany
+atc_code: R05X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0173/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0173/smpc

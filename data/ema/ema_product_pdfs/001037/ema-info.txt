@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001037
+Name of medicine: Cimzia
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: certolizumab pegol
+Active substance: certolizumab pegol
+Therapeutic area (MeSH): Arthritis, Rheumatoid
+ATC code (human): L04AB05
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Rheumatoid arthritis Cimzia, in combination with methotrexate (MTX), is indicated for:  the treatment of moderate to severe, active rheumatoid arthritis (RA) in adult patients when the response to disease-modifying antirheumatic drugs (DMARDs) including MTX, has been inadequate. Cimzia can be given as monotherapy in case of intolerance to MTX or when continued treatment with MTX is inappropriate the treatment of severe, active and progressive RA in adults not previously treated with MTX or other DMARDs.  Cimzia has been shown to reduce the rate of progression of joint damage as measured by X ray and to improve physical function, when given in combination with MTX. Axial spondyloarthritis  Cimzia is indicated for the treatment of adult patients with severe active axial spondyloarthritis, comprising: Ankylosing spondylitis (AS) Adults with severe active ankylosing spondylitis who have had an inadequate response to, or are intolerant to nonsteroidal anti-inflammatory drugs (NSAIDs). Axial spondyloarthritis without radiographic evidence of AS Adults with severe active axial spondyloarthritis without radiographic evidence of AS but with objective signs of inflammation by elevated C reactive protein (CRP) and /or magnetic resonance imaging (MRI), who have had an inadequate response to, or are intolerant to NSAIDs. Psoriatic arthritis  Cimzia, in combination with MTX, is indicated for the treatment of active psoriatic arthritis in adults when the response to previous DMARD therapy has been inadequate. Cimzia can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cimzia

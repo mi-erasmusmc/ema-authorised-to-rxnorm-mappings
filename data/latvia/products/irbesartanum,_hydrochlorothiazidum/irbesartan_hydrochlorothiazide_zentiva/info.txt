@@ -1,0 +1,7 @@
+short_name: Irbesartan Hydrochlorothiazide Zentiva
+active_substance: Irbesartanum, Hydrochlorothiazidum
+marketing_authorisation_holder: Zentiva k.s., Czech Republic
+manufacturer: Sanofi Winthrop Industrie, France; Sanofi Winthrop Industrie, France; Chinoin Pharmaceutical and Chemical Works Private Co.Ltd., Hungary; Sanofi-aventis, S.A., Spain
+atc_code: C09DA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/377/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/377/001/smpc

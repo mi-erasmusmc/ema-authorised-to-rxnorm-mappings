@@ -1,0 +1,7 @@
+short_name: Aripiprazole Sandoz
+active_substance: Aripiprazolum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; S.C. Sandoz S.R.L., Romania; Lek S.A., Poland
+atc_code: N05AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1029/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1029/001/smpc

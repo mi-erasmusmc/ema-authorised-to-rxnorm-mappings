@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004647
+Name of medicine: Zessly
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: infliximab
+Active substance: infliximab
+Therapeutic area (MeSH): Arthritis, Psoriatic;Psoriasis;Crohn Disease;Arthritis, Rheumatoid;Colitis, Ulcerative;Spondylitis, Ankylosing
+ATC code (human): L04AB02
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Treatment of rheumatoid arthritis, Crohn’s disease, ulcerative colitis, ankylosing spondylitis, psoriatic arthritis and psoriasis.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zessly

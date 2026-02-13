@@ -1,0 +1,7 @@
+short_name: Fotivda
+active_substance: Tivozanibi hydrochloridum monohydricum
+marketing_authorisation_holder: EUSA Pharma (Netherlands) B.V., Netherlands
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: L01EK03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1215/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1215/001/smpc

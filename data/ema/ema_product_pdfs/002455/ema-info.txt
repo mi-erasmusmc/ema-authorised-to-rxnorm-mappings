@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002455
+Name of medicine: Adcetris
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: brentuximab vedotin
+Active substance: Brentuximab vedotin
+Therapeutic area (MeSH): Lymphoma, Non-Hodgkin;Hodgkin Disease
+ATC code (human): L01FX05
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Hodgkin lymphomaAdcetris is indicated for adult patients with previously untreated CD30+ Stage IV Hodgkin lymphoma (HL) in combination with doxorubicin, vinblastine and dacarbazine (AVD).Adcetris is indicated for adult patients with previously untreated CD30+ Stage IIB with risk factors, Stage III or Stage IV HL in combination with etoposide, cyclophosphamide, doxorubicin, dacarbazine, dexamethasone (BrECADD).Adcetris is indicated for the treatment of adult patients with CD30+ HL at increased risk of relapse or progression following autologous stem cell transplant (ASCT).Adcetris is indicated for the treatment of adult patients with relapsed or refractory CD30+ Hodgkin lymphoma (HL):- following ASCT, or- following at least two prior therapies when ASCT or multi-agent chemotherapy is not a treatment option.Systemic anaplastic large cell lymphomaAdcetris in combination with cyclophosphamide, doxorubicin and prednisone (CHP) is indicated for adult patients with previously untreated systemic anaplastic large cell lymphoma (sALCL). Adcetris is indicated for the treatment of adult patients with relapsed or refractory sALCL.Cutaneous T-cell lymphomaAdcetris is indicated for the treatment of adult patients with CD30+ cutaneous T-cell lymphoma (CTCL) after at least 1 prior systemic therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/adcetris

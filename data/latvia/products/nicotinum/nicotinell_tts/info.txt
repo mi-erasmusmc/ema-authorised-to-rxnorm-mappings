@@ -1,0 +1,7 @@
+short_name: Nicotinell TTS
+active_substance: Nicotinum
+marketing_authorisation_holder: Dr. Reddy's Netherlands B.V., Netherlands
+manufacturer: LTS Lohmann Therapy Systems AG, Germany; Famar S.A. AVLONA-LIQUIDS- Production Site, Greece; GSK Consumer Healthcare GmbH & Co. KG, Germany
+atc_code: N07BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0331/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0331/smpc

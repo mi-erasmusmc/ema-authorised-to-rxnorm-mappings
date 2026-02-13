@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000231
+Name of medicine: Procomvax
+Medicine status: Expired
+International non-proprietary name (INN) / common name: haemophilus B conjugate (meningococcal protein conjugate) and hepatitis B (recombinant) vaccine
+Active substance: polyribosylribitol phosphate from Haemophilus influenzae type b as PRP-OMPC;outer membrane protein complex of Neisseria meningitidis (outer membrane protein complex of the B11 strain of Neisseria meningitidis subgroup B);adsorbed hepatitis B surface antigen produced in recombinant yeast cells (Saccharomyces cerevisiae)
+Therapeutic area (MeSH): Hepatitis B;Meningitis, Haemophilus;Immunization
+ATC code (human): J07CA
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: PROCOMVAX is indicated for vaccination against invasive disease caused by Haemophilus influenzae type b and against infection caused by all known subtypes of hepatitis B virus in infants 6 weeks to 15 months of age.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/procomvax

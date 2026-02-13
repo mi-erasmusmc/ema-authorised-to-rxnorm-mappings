@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006019
+Name of medicine: COVID-19 Vaccine (inactivated, adjuvanted) Valneva
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: COVID-19 vaccine (inactivated, adjuvanted, adsorbed)
+Active substance: COVID-19 vaccine (inactivated, adjuvanted, adsorbed)
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J07BX03
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: COVID-19 Vaccine (inactivated, adjuvanted) Valneva is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 18 to 50 years of age.&nbsp; The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/covid-19-vaccine-inactivated-adjuvanted-valneva

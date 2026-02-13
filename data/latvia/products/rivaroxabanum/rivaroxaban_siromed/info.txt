@@ -1,0 +1,7 @@
+short_name: Rivaroxaban Siromed
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: NVT UAB, Lithuania
+manufacturer: Laboratorios Liconsa, S.A., Spain
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0174/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0174/smpc

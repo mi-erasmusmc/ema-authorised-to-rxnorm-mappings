@@ -1,0 +1,7 @@
+short_name: Eurartesim
+active_substance: Piperaquine tetraphosphate, Artenimolum
+marketing_authorisation_holder: Alfasigma S.p.A, Italy
+manufacturer: Alfasigma S.p.A., Italy
+atc_code: P01BF05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/716/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/716/001/smpc

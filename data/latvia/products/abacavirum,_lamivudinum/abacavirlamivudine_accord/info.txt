@@ -1,0 +1,7 @@
+short_name: Abacavir/Lamivudine Accord
+active_substance: Abacavirum, Lamivudinum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Remedica Ltd., Cyprus
+atc_code: J05AR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0089/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0089/smpc

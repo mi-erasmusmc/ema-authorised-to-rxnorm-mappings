@@ -1,0 +1,7 @@
+short_name: Risendros
+active_substance: Natrii risedronas
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: M05BA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0271/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0271/smpc

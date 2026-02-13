@@ -1,0 +1,7 @@
+short_name: Sugammadex Amomed
+active_substance: Sugammadexum
+marketing_authorisation_holder: AOP Orphan Pharmaceuticals GmbH, Austria
+manufacturer: Biofactor GmbH, Germany
+atc_code: V03AB35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1708/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1708/001/smpc

@@ -1,0 +1,7 @@
+short_name: Paracetamol/Ibuprofen AFT Pharmaceuticals
+active_substance: Paracetamolum, Ibuprofenum
+marketing_authorisation_holder: Aft Pharmaceuticals (Eur) Limited, Ireland
+manufacturer: S.M. Farmaceutici S.R.L., Italy
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0103/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0103/smpc

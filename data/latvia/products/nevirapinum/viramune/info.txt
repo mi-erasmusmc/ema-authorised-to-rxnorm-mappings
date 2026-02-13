@@ -1,0 +1,7 @@
+short_name: Viramune
+active_substance: Nevirapinum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Boehringer Ingelheim Ellas A.E., Greece; Boehringer Ingelheim France, France
+atc_code: J05AG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/055/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/055/001/smpc

@@ -1,0 +1,7 @@
+short_name: Dupixent
+active_substance: Dupilumabum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi Winthrop Industrie, France; Genzyme Ireland Ltd., Ireland; Sanofi-Aventis Deutschland GmbH, Germany
+atc_code: D11AH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1229/005/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1229/005/smpc

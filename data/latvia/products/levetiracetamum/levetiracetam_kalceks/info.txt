@@ -1,0 +1,7 @@
+short_name: Levetiracetam Kalceks
+active_substance: Levetiracetamum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: Kalceks, A/S, Latvia
+atc_code: N03AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0310/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0310/smpc

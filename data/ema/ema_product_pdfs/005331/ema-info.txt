@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005331
+Name of medicine: Inpremzia
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: insulin human (rDNA)
+Active substance: insulin human (rDNA)
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AB01
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Inpremzia is indicated for the treatment of diabetes mellitus.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inpremzia

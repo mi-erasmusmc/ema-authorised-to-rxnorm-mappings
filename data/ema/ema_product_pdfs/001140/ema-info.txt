@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001140
+Name of medicine: Ozurdex
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dexamethasone
+Active substance: dexamethasone
+Therapeutic area (MeSH): Macular Edema;Uveitis
+ATC code (human): S01BA01
+Pharmacotherapeutic group (human): Ophthalmologicals;Other ophthalmologicals
+Therapeutic indication: Ozurdex is indicated for the treatment of adult patients with macular oedema following either branch retinal-vein occlusion (BRVO) or central retinal-vein occlusion (CRVO). Ozurdex is indicated for the treatment of adult patients with inflammation of the posterior segment of the eye presenting as noninfectious uveitis. Ozurdex is indicated for the treatment of adult patients with visual impairment due to diabetic macular oedema (DME) who are pseudophakic or who are considered insufficiently responsive to, or unsuitable for non-corticosteroid therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ozurdex

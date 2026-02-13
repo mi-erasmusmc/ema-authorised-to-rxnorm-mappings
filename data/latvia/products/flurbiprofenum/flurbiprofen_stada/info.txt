@@ -1,0 +1,7 @@
+short_name: Flurbiprofen Stada
+active_substance: Flurbiprofenum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; Lozy's Pharmaceuticals S.L., Spain; Stada Arzneimittel AG, Germany; Clonmel Healthcare Limited, Ireland
+atc_code: R02AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0205/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0205/smpc

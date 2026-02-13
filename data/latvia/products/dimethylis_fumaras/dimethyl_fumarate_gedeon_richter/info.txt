@@ -1,0 +1,7 @@
+short_name: Dimethyl fumarate Gedeon Richter
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary; Gedeon Richter Polska Sp.z o.o., Poland
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0091/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0091/smpc

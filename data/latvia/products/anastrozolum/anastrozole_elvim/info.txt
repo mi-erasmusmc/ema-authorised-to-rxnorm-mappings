@@ -1,0 +1,7 @@
+short_name: Anastrozole Elvim
+active_substance: Anastrozolum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Genepharm S.A., Greece
+atc_code: L02BG03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0202/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0202/smpc

@@ -1,0 +1,7 @@
+short_name: Rimmyrah
+active_substance: Ranibizumabum
+marketing_authorisation_holder: Qilu Pharma Spain S.L., Spain
+manufacturer: Kymos, S.L., Spain
+atc_code: S01LA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1779/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1779/001/smpc

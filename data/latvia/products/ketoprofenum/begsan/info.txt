@@ -1,0 +1,7 @@
+short_name: Begsan
+active_substance: Ketoprofenum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia; Tallinna Farmaatsiatehase AS, Estonia
+atc_code: M02AA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0012/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0012/smpc

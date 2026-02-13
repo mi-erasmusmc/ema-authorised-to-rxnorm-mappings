@@ -1,0 +1,7 @@
+short_name: Amelgen
+active_substance: Progesteronum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary; Fulton Medicinali S.p.A., Italy
+atc_code: G03DA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0216/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0216/smpc

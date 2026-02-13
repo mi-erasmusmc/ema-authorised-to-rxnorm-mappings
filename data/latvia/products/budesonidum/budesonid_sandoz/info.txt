@@ -1,0 +1,7 @@
+short_name: Budesonid Sandoz
+active_substance: Budesonidum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Lek Pharmaceuticals d.d., Slovenia
+atc_code: R01AD05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0043/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0043/smpc

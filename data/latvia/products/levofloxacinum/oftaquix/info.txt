@@ -1,0 +1,7 @@
+short_name: Oftaquix
+active_substance: Levofloxacinum
+marketing_authorisation_holder: Santen Oy, Finland
+manufacturer: Santen Oy, Finland
+atc_code: S01AE05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0196/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0196/smpc

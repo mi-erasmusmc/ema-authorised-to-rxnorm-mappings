@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000660
+Name of medicine: Inovelon
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rufinamide
+Active substance: rufinamide
+Therapeutic area (MeSH): Epilepsy
+ATC code (human): N03AF03
+Pharmacotherapeutic group (human): Antiepileptics
+Therapeutic indication: Inovelon is indicated as adjunctive therapy in the treatment of seizures associated with Lennox Gastaut syndrome in patients 4 years of age and older.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inovelon

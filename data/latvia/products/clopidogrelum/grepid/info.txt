@@ -1,0 +1,7 @@
+short_name: Grepid
+active_substance: Clopidogrelum
+marketing_authorisation_holder: Pharmathen S.A., Greece
+manufacturer: Pharmathen S.A., Greece; Orifarm Supply A/S, Denmark; Pharmathen International S.A., Greece
+atc_code: B01AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/535/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/535/001/smpc

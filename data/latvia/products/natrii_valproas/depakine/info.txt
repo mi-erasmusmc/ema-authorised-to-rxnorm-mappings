@@ -1,0 +1,7 @@
+short_name: Depakine
+active_substance: Natrii valproas
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: SANOFI-AVENTIS Zrt., Hungary; Sanofi Winthrop Industrie, France; Unither Liquid Manufacturing, France
+atc_code: N03AG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0149/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0149/smpc

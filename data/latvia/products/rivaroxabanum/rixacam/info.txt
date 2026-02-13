@@ -1,0 +1,7 @@
+short_name: Rixacam
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Adamed Pharma S.A., Poland
+manufacturer: Adamed Pharma S.A., Poland
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0045/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0045/smpc

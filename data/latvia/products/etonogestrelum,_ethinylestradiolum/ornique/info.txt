@@ -1,0 +1,7 @@
+short_name: Ornique
+active_substance: Etonogestrelum, Ethinylestradiolum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: Laboratorios Leon Farma S.A., Spain
+atc_code: G02BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0141/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0141/smpc

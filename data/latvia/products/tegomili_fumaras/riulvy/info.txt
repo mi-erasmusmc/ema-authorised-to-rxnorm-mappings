@@ -1,0 +1,7 @@
+short_name: Riulvy
+active_substance: Tegomili fumaras
+marketing_authorisation_holder: Neuraxpharm Pharmaceuticals S.L., Spain
+manufacturer: Neuraxpharm Pharmaceuticals S.L., Spain; Delorbis Pharmaceuticals Ltd, Cyprus
+atc_code: L04AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1947/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1947/001/smpc

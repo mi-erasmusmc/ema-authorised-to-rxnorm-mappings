@@ -1,0 +1,7 @@
+short_name: Dexmedetomidine Pharmidea
+active_substance: Dexmedetomidinum
+marketing_authorisation_holder: PharmIdea, SIA, Latvia
+manufacturer: PharmIdea, SIA, Latvia
+atc_code: N05CM18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0082/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0082/smpc

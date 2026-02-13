@@ -1,0 +1,7 @@
+short_name: Omeprazol Teva-ratio
+active_substance: Omeprazolum
+marketing_authorisation_holder: Teva Pharma S.L.U., Spain
+manufacturer: Teva Pharma, S.L.U., Spain
+atc_code: A02BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001691/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001691/smpc

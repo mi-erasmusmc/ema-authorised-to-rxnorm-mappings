@@ -1,0 +1,7 @@
+short_name: Eziclen
+active_substance: Natrii sulfas anhydricus, Magnesii sulfas heptahydricus, Kalii sulfas
+marketing_authorisation_holder: Mayoly Pharma France, France
+manufacturer: Mayoly Industrie, France
+atc_code: A06AD10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0037/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0037/smpc

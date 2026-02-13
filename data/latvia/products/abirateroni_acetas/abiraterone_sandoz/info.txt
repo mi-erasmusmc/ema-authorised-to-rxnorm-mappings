@@ -1,0 +1,7 @@
+short_name: Abiraterone Sandoz
+active_substance: Abirateroni acetas
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Remedica Ltd., Cyprus
+atc_code: L02BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0091/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0091/smpc

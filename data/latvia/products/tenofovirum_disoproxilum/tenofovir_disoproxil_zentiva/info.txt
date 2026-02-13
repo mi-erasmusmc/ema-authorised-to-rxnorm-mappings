@@ -1,0 +1,7 @@
+short_name: Tenofovir disoproxil Zentiva
+active_substance: Tenofovirum disoproxilum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: S.C. Zentiva S.A., Romania; Winthrop Arzneimittel GmbH, Germany
+atc_code: J05AF07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1127/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1127/001/smpc

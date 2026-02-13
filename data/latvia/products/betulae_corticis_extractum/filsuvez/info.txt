@@ -1,0 +1,7 @@
+short_name: Filsuvez
+active_substance: Betulae corticis extractum
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Amryt GmbH, Germany
+atc_code: D03AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1652/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1652/002/smpc

@@ -1,0 +1,7 @@
+short_name: Lacosamide Teva
+active_substance: Lacosamidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Operations Poland Sp.z o.o., Poland; Teva Gyogyszergyar Zrt., Hungary
+atc_code: N03AX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0129/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0129/smpc

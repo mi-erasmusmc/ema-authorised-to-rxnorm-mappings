@@ -1,0 +1,7 @@
+short_name: Physioneal 40 Clear-Flex Glucose
+active_substance: Glucosum anhydricum, Natrii chloridum, Calcii chloridum dihydricum, Magnesii chloridum hexahydricum, Natrii hydrogenocarbonas, Natrii (S)- lactatis solutio
+marketing_authorisation_holder: Vantive Belgium S.R.L., Belgium
+manufacturer: Bieffe Medital S.P.A, Italy; Vantive Manufacturing Limited, Ireland
+atc_code: B05DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0253/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0253/smpc

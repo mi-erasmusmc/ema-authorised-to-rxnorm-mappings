@@ -1,0 +1,7 @@
+short_name: Eksivo
+active_substance: Mebendazolum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: P02CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0173/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0173/smpc

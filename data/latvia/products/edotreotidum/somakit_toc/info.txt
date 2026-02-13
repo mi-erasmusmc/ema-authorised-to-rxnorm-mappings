@@ -1,0 +1,7 @@
+short_name: SomaKit TOC
+active_substance: Edotreotidum
+marketing_authorisation_holder: Advanced Accelerator Applications S.A., France
+manufacturer: Advanced Accelerator Applications (Italy) S.r.l., Italy
+atc_code: V09IX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1141/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1141/001/smpc

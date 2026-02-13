@@ -1,0 +1,7 @@
+short_name: Glucophage XR
+active_substance: Metformini hydrochloridum
+marketing_authorisation_holder: Merck Sante s.a.s., France
+manufacturer: Merck Sante s.a.s., Centre de Production de Semoy, France; Merck S.L., Spain; Merck Healthcare KGaA, Germany
+atc_code: A10BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0289/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0289/smpc

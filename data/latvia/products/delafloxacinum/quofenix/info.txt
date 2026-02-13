@@ -1,0 +1,7 @@
+short_name: Quofenix
+active_substance: Delafloxacinum
+marketing_authorisation_holder: A. Menarini Industrie Farmaceutiche Riunite s.r.l., Italy
+manufacturer: Patheon Italia S.p.A., Italy; Alfasigma S.p.A., Italy
+atc_code: J01MA23
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1393/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1393/001/smpc

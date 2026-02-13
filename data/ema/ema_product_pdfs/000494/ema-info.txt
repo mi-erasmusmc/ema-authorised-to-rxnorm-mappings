@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000494
+Name of medicine: Reyataz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: atazanavir sulfate
+Active substance: atazanavir (as sulfate)
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AE08
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Reyataz capsules, co-administered with low dose ritonavir, are indicated for the treatment of HIV-1 infected adults and paediatric patients 6 years of age and older in combination with other antiretroviral medicinal products (see section 4.2). Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (? 4 PI mutations). The choice of Reyataz in treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history (see sections 4.4 and 5.1). Reyataz oral powder, co-administered with low dose ritonavir, is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected paediatric patients at least 3 months of age and weighing at least 5 kg (see section 4.2). Based on available virological and clinical data from adult patients, no benefit is expected in patients with strains resistant to multiple protease inhibitors (? 4 PI mutations). The choice of Reyataz in treatment experienced adult and paediatric patients should be based on individual viral resistance testing and the patient’s treatment history (see sections 4.4 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/reyataz

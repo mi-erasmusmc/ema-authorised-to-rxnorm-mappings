@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004808
+Name of medicine: Recarbrio
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: imipenem;cilastatin;relebactam
+Active substance: imipenem monohydrate;cilastatin sodium;relebactam monohydrate
+Therapeutic area (MeSH): Gram-Negative Bacterial Infections
+ATC code (human): J01DH56
+Pharmacotherapeutic group (human): Antibacterials for systemic use;Carbapenems
+Therapeutic indication: Recarbrio is indicated for:- Treatment of hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP), in adults (see sections 4.4 and 5.1).- Treatment of bacteraemia that occurs in association with, or is suspected to be associated with HAP or VAP, in adults.- Treatment of infections due to aerobic Gram-negative organisms in adults with limited treatment options (see sections 4.2, 4.4, and 5.1). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/recarbrio

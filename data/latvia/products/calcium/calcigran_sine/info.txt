@@ -1,0 +1,7 @@
+short_name: Calcigran Sine
+active_substance: Calcium
+marketing_authorisation_holder: Orifarm Healthcare A/S, Denmark
+manufacturer: Asker Contract Manufacturing AS, Norway
+atc_code: A12AA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0157/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0157/smpc

@@ -1,0 +1,7 @@
+short_name: Apixaban Accord
+active_substance: Apixabanum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Pharmadox Healthcare Ltd., Malta; Laboratori Fundacio Dau, Spain; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1458/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1458/001/smpc

@@ -1,0 +1,7 @@
+short_name: Glurenorm
+active_substance: Gliquidonum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Hellas Single Member S.A., Greece
+atc_code: A10BB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0072/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0072/smpc

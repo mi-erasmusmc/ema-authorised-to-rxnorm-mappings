@@ -1,0 +1,7 @@
+short_name: Opatanol
+active_substance: Olopatadinum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Alcon Cusi S.A., Spain; S.A. Alcon-Couvreur N.V., Belgium
+atc_code: S01GX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/217/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/217/001/smpc

@@ -1,0 +1,7 @@
+short_name: Oxis Turbuhaler
+active_substance: Formoteroli fumaras dihydricus
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca AB, Sweden
+atc_code: R03AC13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0532/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0532/smpc

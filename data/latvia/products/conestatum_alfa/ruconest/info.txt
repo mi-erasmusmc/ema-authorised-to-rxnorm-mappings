@@ -1,0 +1,7 @@
+short_name: Ruconest
+active_substance: Conestatum alfa
+marketing_authorisation_holder: Pharming Group N.V., Netherlands
+manufacturer: Pharming Technologies B.V., Netherlands
+atc_code: B06AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/641/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/641/001/smpc

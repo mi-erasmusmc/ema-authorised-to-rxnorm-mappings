@@ -1,0 +1,7 @@
+short_name: Enstilar
+active_substance: Calcipotriolum, Betamethasonum
+marketing_authorisation_holder: LEO Pharma A/S, Denmark
+manufacturer: LEO Pharma A/S, Denmark; LEO Laboratories Ltd., Ireland
+atc_code: D05AX52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0088/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0088/smpc

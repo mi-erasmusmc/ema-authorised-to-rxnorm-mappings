@@ -1,0 +1,7 @@
+short_name: Rovasyn Duo
+active_substance: Rosuvastatinum, Ezetimibum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: ELPEN Pharmaceutical Co. Inc., Greece; Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
+atc_code: C10BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0282/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0282/smpc

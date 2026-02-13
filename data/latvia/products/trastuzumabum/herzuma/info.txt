@@ -1,0 +1,7 @@
+short_name: Herzuma
+active_substance: Trastuzumabum
+marketing_authorisation_holder: Celltrion Healthcare Hungary Kft., Hungary
+manufacturer: Millmount Healthcare Ltd., Ireland; Nuvisan GmbH, Germany; Nuvisan France SARL, France
+atc_code: L01FD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1257/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1257/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000332
+Name of medicine: Aranesp
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: darbepoetin alfa
+Active substance: darbepoetin alfa
+Therapeutic area (MeSH): Anemia;Cancer;Kidney Failure, Chronic
+ATC code (human): B03XA02
+Pharmacotherapeutic group (human): Other antianemic preparations
+Therapeutic indication: Treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adults and paediatric patients. Treatment of symptomatic anaemia in adult cancer patients with non-myeloid malignancies receiving chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aranesp

@@ -1,0 +1,7 @@
+short_name: Lamisil Uno
+active_substance: Terbinafinum
+marketing_authorisation_holder: Karo Healthcare AB, Sweden
+manufacturer: Novartis (Hellas) S.A.C.I., Greece; GSK-Gebro Consumer Healthcare GmbH, Austria; GlaxoSmithKline Sante Grand, Public, France; GlaxoSmithKline Consumer Healthcare GmbH & Co. KG, Germany; Haleon Denmark ApS, Denmark; Haleon Germany GmbH, Germany; N.V. Haleon Belgium S.A., Belgium; Karo Healthcare AB, Sweden
+atc_code: D01AE15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0178/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0178/smpc

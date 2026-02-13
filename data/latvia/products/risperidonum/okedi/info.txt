@@ -1,0 +1,7 @@
+short_name: Okedi
+active_substance: Risperidonum
+marketing_authorisation_holder: LABORATORIOS FARMACEUTICOS ROVI, S.A., Spain
+manufacturer: LABORATORIOS FARMACEUTICOS ROVI, S.A., Spain
+atc_code: N05AX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1621/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1621/001/smpc

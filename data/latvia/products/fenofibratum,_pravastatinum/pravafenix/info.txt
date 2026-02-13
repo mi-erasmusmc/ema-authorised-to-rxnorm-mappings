@@ -1,0 +1,7 @@
+short_name: Pravafenix
+active_substance: Fenofibratum, Pravastatinum
+marketing_authorisation_holder: Laboratoires SMB S.A., Belgium
+manufacturer: SMB Technology S.A., Belgium
+atc_code: C10BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/679/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/679/001/smpc

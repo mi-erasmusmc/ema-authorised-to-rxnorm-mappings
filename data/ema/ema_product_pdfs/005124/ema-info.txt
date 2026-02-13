@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005124
+Name of medicine: Enhertu
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: trastuzumab deruxtecan
+Active substance: trastuzumab deruxtecan
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L01FD04
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Breast cancerHER2-positive breast cancerEnhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic HER2-positive breast cancer who have received one or more prior anti-HER2-based regimens.HER2-low and HER2-ultralow breast cancerEnhertu as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic&nbsp;  hormone receptor (HR)-positive, HER2-low or HER2-ultralow breast cancer who have received at least one endocrine therapy in the metastatic setting and who are not considered suitable for endocrine therapy as the next line of treatment (see sections 4.2 and 5.1). HER2-low breast cancer who have received prior chemotherapy in the metastatic setting or developed disease recurrence during or within 6 months of completing adjuvant chemotherapy (see section 4.2).  Non-small cell lung cancer (NSCLC)Enhertu as monotherapy is indicated for the treatment of adult patients with advanced NSCLC whose tumours have an activating HER2 (ERBB2) mutation and who require systemic therapy following platinum-based chemotherapy with or without immunotherapy.Gastric cancer&nbsp;Enhertu as monotherapy is indicated for the treatment of adult patients with advanced HER2-positive gastric or gastroesophageal junction (GEJ) adenocarcinoma who have received a prior trastuzumab-based regimen.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/enhertu

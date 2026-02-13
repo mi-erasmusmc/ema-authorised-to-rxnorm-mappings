@@ -1,0 +1,7 @@
+short_name: Ilaris
+active_substance: Canakinumabum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany
+atc_code: L04AC08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/564/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/564/001/smpc

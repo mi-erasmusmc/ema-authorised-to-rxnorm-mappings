@@ -1,0 +1,7 @@
+short_name: Lilandor
+active_substance: Lavandulae aetheroleum
+marketing_authorisation_holder: Dr. Willmar Schwabe GmbH & Co. KG, Germany
+manufacturer: Dr. Willmar Schwabe GmbH & Co. KG, Germany
+atc_code: N05BX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0026/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0026/smpc

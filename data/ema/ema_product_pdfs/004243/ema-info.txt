@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004243
+Name of medicine: Suliqua
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin glargine;lixisenatide
+Active substance: insulin glargine;lixisenatide
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10AE54
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Suliqua is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control as an adjunct to diet and exercise in addition to metformin with or without SGLT-2 inhibitors.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/suliqua

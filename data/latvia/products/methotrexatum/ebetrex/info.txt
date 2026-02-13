@@ -1,0 +1,7 @@
+short_name: Ebetrex
+active_substance: Methotrexatum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Ebewe Pharma Ges.m.b.H Nfg.KG, Austria; Salutas Pharma GmbH, Germany; Fareva Unterach GmbH, Austria
+atc_code: L04AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0207/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0207/smpc

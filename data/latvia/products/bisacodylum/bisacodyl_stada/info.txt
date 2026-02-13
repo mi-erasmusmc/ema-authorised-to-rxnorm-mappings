@@ -1,0 +1,7 @@
+short_name: Bisacodyl Stada
+active_substance: Bisacodylum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Aniss SIA, Latvia
+atc_code: A06AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0344/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0344/smpc

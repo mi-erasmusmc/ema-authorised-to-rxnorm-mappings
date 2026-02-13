@@ -1,0 +1,7 @@
+short_name: Voraxaze
+active_substance: Glucarpidasum
+marketing_authorisation_holder: Serb S.A.S., France
+manufacturer: Almac Pharma Services Limited, Northern Ireland
+atc_code: V03AF09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1586/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1586/001/smpc

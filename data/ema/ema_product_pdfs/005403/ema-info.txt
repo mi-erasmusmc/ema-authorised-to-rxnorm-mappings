@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005403
+Name of medicine: Sugammadex Mylan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sugammadex
+Active substance: sugammadex sodium
+Therapeutic area (MeSH): Neuromuscular Blockade
+ATC code (human): V03AB35
+Pharmacotherapeutic group (human): All other therapeutic products
+Therapeutic indication: Reversal of neuromuscular blockade induced by&nbsp;&nbsp; rocuronium or vecuronium in adults. For the paediatric population: sugammadex is only recommended for routine reversal of rocuronium induced blockade in children and adolescents aged 2 to 17 years.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sugammadex-mylan

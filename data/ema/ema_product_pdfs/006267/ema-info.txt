@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006267
+Name of medicine: Capvaxive
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pneumococcal polysaccharide conjugate vaccine (21-valent)
+Active substance: pneumococcal polysaccharide serotype 3, 6A, 7F, 8, 9N, 10A, 11A, 12F, 15A, 15B de-O-acetylated, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F and 35B conjugated to CRM197 carrier protein
+Therapeutic area (MeSH): Pneumococcal Infections
+ATC code (human): J07AL02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Capvaxive is indicated for active immunisation for the prevention of invasive disease and pneumonia caused by Streptococcus pneumoniae in individuals 18 years of age and older.See sections 4.4 and 5.1 for information on protection against specific pneumococcal serotypes.The use of Capvaxive should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/capvaxive

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005159
+Name of medicine: Supemtek Tetra (previously Supemtek)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: quadrivalent influenza vaccine (recombinant, prepared in cell culture)
+Active substance: Influenza A virus subtype H1N1 haemagglutinin, recombinant;Influenza A virus subtype H3N2 haemagglutinin, recombinant;Influenza B virus Victoria lineage haemagglutinin, recombinant;Influenza B virus Yamagata lineage haemagglutinin, recombinant
+Therapeutic area (MeSH): Influenza, Human
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Supemtek Tetra is indicated for active immunization for the prevention of influenza disease in adults and children from 9 years of age and older.&nbsp;Supemtek Tetra should be used in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/supemtek-tetra

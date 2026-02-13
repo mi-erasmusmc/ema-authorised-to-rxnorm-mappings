@@ -1,0 +1,7 @@
+short_name: Emgality
+active_substance: Galcanezumabum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Eli Lilly Italia S.p.A., Italy
+atc_code: N02CD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1330/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1330/001/smpc

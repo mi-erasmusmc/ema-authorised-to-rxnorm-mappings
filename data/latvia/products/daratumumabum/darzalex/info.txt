@@ -1,0 +1,7 @@
+short_name: Darzalex
+active_substance: Daratumumabum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Biologics B.V., Netherlands
+atc_code: L01FC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1101/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1101/001/smpc

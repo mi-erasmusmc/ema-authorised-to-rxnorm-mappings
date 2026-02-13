@@ -1,0 +1,7 @@
+short_name: GlucaGen Hypokit
+active_substance: Glucagoni hydrochloridum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: H04AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0149/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0149/smpc

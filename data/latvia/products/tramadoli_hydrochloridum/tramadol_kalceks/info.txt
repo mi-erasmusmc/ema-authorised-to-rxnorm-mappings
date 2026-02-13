@@ -1,0 +1,7 @@
+short_name: Tramadol Kalceks
+active_substance: Tramadoli hydrochloridum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: N02AX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0115/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0115/smpc

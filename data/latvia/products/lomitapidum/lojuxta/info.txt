@@ -1,0 +1,7 @@
+short_name: Lojuxta
+active_substance: Lomitapidum
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Hälsa Pharma GmbH, Germany
+atc_code: C10AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/851/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/851/001/smpc

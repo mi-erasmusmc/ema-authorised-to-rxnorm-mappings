@@ -1,0 +1,7 @@
+short_name: Tonsilgon N
+active_substance: Althaeae radix, Matricariae flos, Equiseti herba, Juglandis folium, Millefolii herba, Quercus cortex, Taraxaci herba
+marketing_authorisation_holder: Bionorica SE, Germany
+manufacturer: Bionorica SE, Germany
+atc_code: R05X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0218/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0218/smpc

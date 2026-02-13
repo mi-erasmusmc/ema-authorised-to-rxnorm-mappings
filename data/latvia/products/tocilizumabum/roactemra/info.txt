@@ -1,0 +1,7 @@
+short_name: RoActemra
+active_substance: Tocilizumabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L04AC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/492/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/492/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000323
+Name of medicine: Prevenar
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: pneumococcal saccharide conjugated vaccine, adsorbed
+Active substance: pneumococcal oligosaccharide serotype 18C;Pneumococcal polysaccharide serotype 19F;Pneumococcal polysaccharide serotype 23F;Pneumococcal polysaccharide serotype 4;Pneumococcal polysaccharide serotype 6B;Pneumococcal polysaccharide serotype 9V;Pneumococcal polysaccharide serotype 14
+Therapeutic area (MeSH): Pneumococcal Infections;Immunization
+ATC code (human): J07AL02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Active immunisation against disease caused by Streptococcus pneumoniae serotypes 4, 6B, 9V, 14, 18C, 19F and 23F (including sepsis, meningitis, pneumonia, bacteraemia and acute otitis media) in infants and children from two months up to five years of age. The use of Prevenar should be determined on the basis of official recommendations taking into consideration the impact of invasive disease in different age groups as well as variability of serotype epidemiology in different geographical areas.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/prevenar

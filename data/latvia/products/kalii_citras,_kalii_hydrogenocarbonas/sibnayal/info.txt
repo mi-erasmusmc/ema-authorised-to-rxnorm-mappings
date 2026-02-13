@@ -1,0 +1,7 @@
+short_name: Sibnayal
+active_substance: Kalii citras, Kalii hydrogenocarbonas
+marketing_authorisation_holder: Advicenne, France
+manufacturer: Advicenne, France
+atc_code: A12BA30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1517/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1517/001/smpc

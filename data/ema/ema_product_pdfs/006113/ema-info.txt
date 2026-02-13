@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006113
+Name of medicine: Emblaveo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: aztreonam;avibactam
+Active substance: avibactam;aztreonam
+Therapeutic area (MeSH): Gram-Negative Bacterial Infections;Urinary Tract Infections;Healthcare-Associated Pneumonia;Soft Tissue Infections
+ATC code (human): J01DF51
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Emblaveo is indicated for the treatment of the following infections in adult patients (see sections 4.4 and 5.1):• Complicated intra-abdominal infection (cIAI)• Hospital-acquired pneumonia (HAP), including ventilator-associated pneumonia (VAP)&nbsp;• Complicated urinary tract infection (cUTI), including pyelonephritisEmblaveo is also indicated for the treatment of infections due to aerobic Gram-negative organisms in adult patients with limited treatment options (see sections 4.2, 4.4, and 5.1).Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emblaveo

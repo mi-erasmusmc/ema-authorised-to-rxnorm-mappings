@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004299
+Name of medicine: Alpivab
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: peramivir
+Active substance: peramivir
+Therapeutic area (MeSH): Influenza, Human
+ATC code (human): J05AH03
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Alpivab is indicated for the treatment of uncomplicated influenza in adults and children from the age of 2 years.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alpivab

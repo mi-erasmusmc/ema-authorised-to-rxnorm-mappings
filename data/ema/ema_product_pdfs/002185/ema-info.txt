@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002185
+Name of medicine: Plenadren
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hydrocortisone
+Active substance: hydrocortisone
+Therapeutic area (MeSH): Adrenal Insufficiency
+ATC code (human): H02AB09
+Pharmacotherapeutic group (human): Corticosteroids for systemic use
+Therapeutic indication: Treatment of adrenal insufficiency in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/plenadren

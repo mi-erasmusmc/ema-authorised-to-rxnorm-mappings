@@ -1,0 +1,7 @@
+short_name: Treclinac
+active_substance: Clindamycinum, Tretinoinum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Meda Pharma GmbH & Co.KG, Germany; Madaus GmbH, Germany
+atc_code: D10AF51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0090/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0090/smpc

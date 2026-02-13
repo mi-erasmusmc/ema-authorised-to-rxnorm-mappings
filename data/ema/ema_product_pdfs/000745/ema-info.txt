@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000745
+Name of medicine: Optimark
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: gadoversetamide
+Active substance: gadoversetamide
+Therapeutic area (MeSH): Magnetic Resonance Imaging
+ATC code (human): V08CA06
+Pharmacotherapeutic group (human): Contrast media
+Therapeutic indication: This medicinal product is for diagnostic use only. Optimark is indicated for use with magnetic resonance imaging (MRI) of the central nervous system (CNS) and liver. It provides contrast enhancement and facilitates visualisation and helps with the characterisation of focal lesions and abnormal structures in the CNS and liver in patients with known or highly suspected pathology.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/optimark

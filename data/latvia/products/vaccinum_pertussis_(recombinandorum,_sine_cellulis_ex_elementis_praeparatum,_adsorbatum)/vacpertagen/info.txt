@@ -1,0 +1,7 @@
+short_name: VacPertagen
+active_substance: Vaccinum pertussis (recombinandorum, sine cellulis ex elementis praeparatum, adsorbatum)
+marketing_authorisation_holder: BioNet Europe, France
+manufacturer: MIAS Pharma Limited, Ireland
+atc_code: J07AJ02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1999/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1999/001/smpc

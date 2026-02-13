@@ -1,0 +1,7 @@
+short_name: Zeel T
+active_substance: Cartilago suis, Funiculus umbilicalis suis, Embryo suis, Placenta suis, Rhus toxicodendron, Arnica montana, Solanum dulcamara, Sanguinaria canadensis, Sulfur, Acidum silicicum, Symphytum officinale, Nadidum, Coenzymum A, Natrium diethyloxalaceticum, Acidum DL alfa-liponicum
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0184/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0184/smpc

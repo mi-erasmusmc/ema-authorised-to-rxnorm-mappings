@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006380
+Name of medicine: Ziihera
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: zanidatamab
+Active substance: zanidatamab
+Therapeutic area (MeSH): Biliary Tract Neoplasms
+ATC code (human): L01FD07
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Ziihera as monotherapy is indicated for the treatment of adults with unresectable locally advanced or metastatic HER2-positive (IHC3+) biliary tract cancer (BTC) previously treated with at least one prior line of systemic therapy (for biomarker-based patient selection, see section 4.2).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ziihera

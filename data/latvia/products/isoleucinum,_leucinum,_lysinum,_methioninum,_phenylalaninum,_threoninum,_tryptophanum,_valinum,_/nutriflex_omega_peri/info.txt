@@ -1,0 +1,7 @@
+short_name: Nutriflex Omega peri
+active_substance: Isoleucinum, Leucinum, Lysinum, Methioninum, Phenylalaninum, Threoninum, Tryptophanum, Valinum, Argininum, Histidinum, Alaninum, Acidum asparticum, Acidum glutamicum, Glycinum, Prolinum, Serinum, Natrii hydroxidum, Natrii chloridum, Natrii acetas trihydricus, Kalii acetas, Magnesii acetas tetrahydricus, Calcii chloridum dihydricum, Glucosum monohydricum, Natrii dihydrogenophosphas dihydricus, Zinci acetas dihydricus, Triglycerida media, Soiae oleum raffinatum, Omega-3 acidorum triglycerida
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: B05BA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0161/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0161/smpc

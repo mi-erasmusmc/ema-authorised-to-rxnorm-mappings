@@ -1,0 +1,7 @@
+short_name: Amonjaka
+active_substance: Ammoniae solutio concentrata
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: D08AX;R07AB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0748/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0748/smpc

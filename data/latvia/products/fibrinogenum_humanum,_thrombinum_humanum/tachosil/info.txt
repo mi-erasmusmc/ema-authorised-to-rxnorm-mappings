@@ -1,0 +1,7 @@
+short_name: TachoSil
+active_substance: Fibrinogenum humanum, Thrombinum humanum
+marketing_authorisation_holder: Corza Medical GmbH, Germany
+manufacturer: Takeda Austria GmbH, Austria
+atc_code: B02BC30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/277/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/277/001/smpc

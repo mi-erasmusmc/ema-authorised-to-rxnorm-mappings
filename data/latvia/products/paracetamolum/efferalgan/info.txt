@@ -1,0 +1,7 @@
+short_name: Efferalgan
+active_substance: Paracetamolum
+marketing_authorisation_holder: UPSA SAS, France
+manufacturer: UPSA SAS, France; UPSA SAS, France
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0236/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0236/smpc

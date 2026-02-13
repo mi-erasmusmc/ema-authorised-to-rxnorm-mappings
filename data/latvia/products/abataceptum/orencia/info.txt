@@ -1,0 +1,7 @@
+short_name: Orencia
+active_substance: Abataceptum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories t/a Bristol-Myers Squibb Cruiserath Biologics, Ireland; Catalent Anagni S.R.L., Italy
+atc_code: L04AA24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/389/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/389/001/smpc

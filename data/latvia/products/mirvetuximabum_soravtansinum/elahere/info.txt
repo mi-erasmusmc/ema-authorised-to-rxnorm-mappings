@@ -1,0 +1,7 @@
+short_name: Elahere
+active_substance: Mirvetuximabum soravtansinum
+marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG, Germany
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: L01FX26
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1866/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1866/001/smpc

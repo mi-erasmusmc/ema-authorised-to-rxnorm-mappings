@@ -1,0 +1,7 @@
+short_name: Daivobet
+active_substance: Calcipotriolum, Betamethasonum
+marketing_authorisation_holder: LEO Pharma A/S, Denmark
+manufacturer: Leo Laboratories Ltd. (LEO Pharma), Ireland
+atc_code: D05AX52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0019/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0019/smpc

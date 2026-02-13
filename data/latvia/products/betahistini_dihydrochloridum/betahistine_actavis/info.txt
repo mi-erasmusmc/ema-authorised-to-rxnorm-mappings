@@ -1,0 +1,7 @@
+short_name: Betahistine Actavis
+active_substance: Betahistini dihydrochloridum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Catalent Germany Schorndorf GmbH, Germany
+atc_code: N07CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0220/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0220/smpc

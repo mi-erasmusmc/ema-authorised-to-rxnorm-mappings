@@ -1,0 +1,7 @@
+short_name: FRUZAQLA
+active_substance: Fruquintinibum
+marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+manufacturer: Takeda Ireland Limited, Ireland; Millmount Healthcare Limited, Ireland
+atc_code: L01EK04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1827/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1827/001/smpc

@@ -1,0 +1,7 @@
+short_name: Fibryga
+active_substance: Fibrinogenum humanum
+marketing_authorisation_holder: Octapharma (IP) SPRL, Belgium
+manufacturer: Octapharma AB, Sweden; Octapharma Pharmazeutika Produktionsges.m.b.H, Austria
+atc_code: B02BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0085/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0085/smpc

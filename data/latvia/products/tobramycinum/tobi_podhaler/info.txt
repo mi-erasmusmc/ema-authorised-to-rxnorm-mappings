@@ -1,0 +1,7 @@
+short_name: TOBI Podhaler
+active_substance: Tobramycinum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: McDermott Laboratories Limited, T/A Mylan Dublin Respiratory, Ireland; Mylan Germany GmbH, Germany
+atc_code: J01GB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/652/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/652/001/smpc

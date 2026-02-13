@@ -1,0 +1,7 @@
+short_name: Ziagen
+active_substance: Abacaviri sulfas
+marketing_authorisation_holder: Viiv Healthcare B.V., Netherlands
+manufacturer: Delpharm Poznan S.A., Poland
+atc_code: J05AF06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/112/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/112/001/smpc

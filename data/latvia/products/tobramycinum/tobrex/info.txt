@@ -1,0 +1,7 @@
+short_name: Tobrex
+active_substance: Tobramycinum
+marketing_authorisation_holder: Novartis Baltics, SIA, Latvia
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Siegfried El Masnou, S.A., Spain; Novartis Manufacturing NV, Belgium
+atc_code: S01AA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0268/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0268/smpc

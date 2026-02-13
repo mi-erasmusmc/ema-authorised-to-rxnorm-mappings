@@ -1,0 +1,7 @@
+short_name: Zoledronic acid Mylan
+active_substance: Acidum zoledronicum
+marketing_authorisation_holder: Mylan S.A.S, France
+manufacturer: Mylan S.A.S, France; Hikma Farmaceutica S.A, Portugal; Mylan Pharmaceuticals Sp. z o.o., Poland
+atc_code: M05BA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/786/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/786/001/smpc

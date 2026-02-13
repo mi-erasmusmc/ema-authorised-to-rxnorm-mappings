@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000870
+Name of medicine: Relistor
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: methylnaltrexone bromide
+Active substance: methylnaltrexone bromide
+Therapeutic area (MeSH): Opioid-Related Disorders;Constipation
+ATC code (human): A06AH01
+Pharmacotherapeutic group (human): Peripheral opioid receptor antagonists
+Therapeutic indication: Treatment of opioid-induced constipation in advanced-illness patients who are receiving palliative care when response to usual laxative therapy has not been sufficient.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/relistor

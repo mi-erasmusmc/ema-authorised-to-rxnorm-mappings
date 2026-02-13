@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006052
+Name of medicine: Celldemic
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: zoonotic influenza vaccine (H5N1) (surface antigen, inactivated, adjuvanted, prepared in cell cultures)
+Active substance: Influenza virus A/turkey/Turkey/1/2005 (H5N1) NIBRG-23 strain, HA surface antigen
+Therapeutic area (MeSH): Influenza, Human
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Celldemic is indicated for active immunisation against H5N1 subtype of Influenza A virus in adults and infants from 6 months of age and above. Celldemic should be used in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/celldemic

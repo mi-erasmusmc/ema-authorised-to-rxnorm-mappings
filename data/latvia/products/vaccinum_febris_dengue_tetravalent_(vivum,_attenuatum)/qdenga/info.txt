@@ -1,0 +1,7 @@
+short_name: Qdenga
+active_substance: Vaccinum febris dengue tetravalent (vivum, attenuatum)
+marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+manufacturer: Takeda GmbH, Germany
+atc_code: J07BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1699/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1699/001/smpc

@@ -1,0 +1,7 @@
+short_name: Ciplacef
+active_substance: Ceftriaxonum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Unifarma, SIA, Latvia
+atc_code: J01DD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0219/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0219/smpc

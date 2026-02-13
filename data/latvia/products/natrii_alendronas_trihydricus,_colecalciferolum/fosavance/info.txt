@@ -1,0 +1,7 @@
+short_name: Fosavance
+active_substance: Natrii alendronas trihydricus, Colecalciferolum
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands
+atc_code: M05BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/310/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/310/001/smpc

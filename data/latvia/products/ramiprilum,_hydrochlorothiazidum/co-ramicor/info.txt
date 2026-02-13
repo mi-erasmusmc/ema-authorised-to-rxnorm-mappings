@@ -1,0 +1,7 @@
+short_name: Co-Ramicor
+active_substance: Ramiprilum, Hydrochlorothiazidum
+marketing_authorisation_holder: Hexal AG, Germany
+manufacturer: Lek S.A., Poland; Hexal AG, Germany; Salutas Pharma GmbH, Germany; Lek S.A., Poland
+atc_code: C09BA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0184/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0184/smpc

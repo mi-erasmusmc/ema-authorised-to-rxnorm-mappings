@@ -1,0 +1,7 @@
+short_name: Vocabria
+active_substance: Cabotegravirum
+marketing_authorisation_holder: Viiv Healthcare B.V., Netherlands
+manufacturer: Glaxo Wellcome S.A., Spain
+atc_code: J05AJ04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1481/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1481/001/smpc

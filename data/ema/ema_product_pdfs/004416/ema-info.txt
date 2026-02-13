@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004416
+Name of medicine: Alkindi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hydrocortisone
+Active substance: hydrocortisone
+Therapeutic area (MeSH): Adrenal Insufficiency
+ATC code (human): H02AB09
+Pharmacotherapeutic group (human): Corticosteroids for systemic use
+Therapeutic indication: Replacement therapy of adrenal insufficiency in infants, children and adolescents (from birth to &lt; 18 years old).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alkindi

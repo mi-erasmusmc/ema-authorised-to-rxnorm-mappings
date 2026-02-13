@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004204
+Name of medicine: Mylotarg
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: gemtuzumab ozogamicin
+Active substance: gemtuzumab ozogamicin
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): 
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Mylotarg is indicated for combination therapy with daunorubicin (DNR) and cytarabine (AraC) for the treatment of patients age 15 years and above with previously untreated, de novo CD33-positive acute myeloid leukaemia (AML), except acute promyelocytic leukaemia (APL).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mylotarg

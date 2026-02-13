@@ -1,0 +1,7 @@
+short_name: Afrin Mentol
+active_substance: Oxymetazolini hydrochloridum
+marketing_authorisation_holder: Bayer S.R.L, Romania
+manufacturer: BerliMed S.A., Spain
+atc_code: R01AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001563/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001563/smpc

@@ -1,0 +1,7 @@
+short_name: Vegzelma
+active_substance: Bevacizumabum
+marketing_authorisation_holder: Celltrion Healthcare Hungary Kft., Hungary
+manufacturer: Nuvisan GmbH, Germany; Nuvisan France SARL, France; Millmount Healthcare Limited, Ireland
+atc_code: L01FG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1667/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1667/001/smpc

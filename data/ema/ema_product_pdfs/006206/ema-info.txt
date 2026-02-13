@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006206
+Name of medicine: Axitinib Accord
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: axitinib
+Active substance: axitinib
+Therapeutic area (MeSH): Carcinoma, Renal Cell
+ATC code (human): L01EK01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Axitinib Accord is indicated for the treatment of adult patients with advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/axitinib-accord

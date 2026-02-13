@@ -1,0 +1,7 @@
+short_name: Etomidate-Lipuro
+active_substance: Etomidatum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: N01AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0337/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0337/smpc

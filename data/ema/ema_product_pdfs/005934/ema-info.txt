@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005934
+Name of medicine: Yorvipath
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: palopegteriparatide
+Active substance: palopegteriparatide
+Therapeutic area (MeSH): Hypoparathyroidism
+ATC code (human): H05AA
+Pharmacotherapeutic group (human): Calcium homeostasis
+Therapeutic indication: Yorvipath is a parathyroid hormone (PTH) replacement therapy indicated for the treatment of adults with chronic hypoparathyroidism
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/yorvipath

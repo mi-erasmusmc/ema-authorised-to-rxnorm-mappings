@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005001
+Name of medicine: Yuvanci
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: macitentan;tadalafil
+Active substance: macitentan;tadalafil
+Therapeutic area (MeSH): Pulmonary Arterial Hypertension
+ATC code (human): C02KX54
+Pharmacotherapeutic group (human): Antihypertensives
+Therapeutic indication: Yuvanci is indicated as substitution therapy for the long-term treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Functional Class (FC) II to III, who are already treated with the combination of macitentan and tadalafil given concurrently as separate tablets.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/yuvanci

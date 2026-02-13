@@ -1,0 +1,7 @@
+short_name: Xermelo
+active_substance: Ethylis telotristas
+marketing_authorisation_holder: Serb S.A.S., France
+manufacturer: Beaufour Ipsen Industrie, France
+atc_code: A16AX15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1224/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1224/001/smpc

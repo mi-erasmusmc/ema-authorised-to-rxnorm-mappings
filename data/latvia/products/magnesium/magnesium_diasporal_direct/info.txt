@@ -1,0 +1,7 @@
+short_name: Magnesium Diasporal direct
+active_substance: Magnesium
+marketing_authorisation_holder: Protina Pharmazeutische GmbH, Germany
+manufacturer: Protina Pharmazeutische GmbH, Germany
+atc_code: A12CC30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0171/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0171/smpc

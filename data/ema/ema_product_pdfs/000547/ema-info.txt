@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000547
+Name of medicine: Zevalin
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: ibritumomab tiuxetan
+Active substance: ibritumomab tiuxetan
+Therapeutic area (MeSH): Lymphoma, Follicular
+ATC code (human): V10XX02
+Pharmacotherapeutic group (human): Therapeutic radiopharmaceuticals
+Therapeutic indication: Zevalin is indicated in adults. [90Y]-radiolabelled Zevalin is indicated as consolidation therapy after remission induction in previously untreated patients with follicular lymphoma. The benefit of Zevalin following rituximab in combination with chemotherapy has not been established. [90Y]-radiolabelled Zevalin is indicated for the treatment of adult patients with rituximab relapsedorrefractory CD20+ follicular B-cell non-Hodgkin's lymphoma (NHL).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zevalin

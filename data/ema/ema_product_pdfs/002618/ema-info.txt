@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002618
+Name of medicine: Nexium Control
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: esomeprazole
+Active substance: esomeprazole
+Therapeutic area (MeSH): Gastroesophageal Reflux
+ATC code (human): A02BC05
+Pharmacotherapeutic group (human): Proton pump inhibitors
+Therapeutic indication: Nexium Control is indicated for the short-term treatment of reflux symptoms (e.g. heartburn and acid regurgitation) in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control

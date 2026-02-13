@@ -1,0 +1,7 @@
+short_name: Cystadane
+active_substance: Betainum anhydricum
+marketing_authorisation_holder: Recordati Rare Diseases, France
+manufacturer: Recordati Rare Diseases, France; Recordati Rare Diseases, France
+atc_code: A16AA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/379/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/379/001/smpc

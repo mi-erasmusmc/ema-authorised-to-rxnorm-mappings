@@ -1,0 +1,7 @@
+short_name: Neurexan
+active_substance: Coffea arabica, Avena sativa, Passiflora incarnata, Zinci isovaleras
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: N07XX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0197/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0197/smpc

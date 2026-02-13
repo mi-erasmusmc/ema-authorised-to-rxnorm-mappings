@@ -1,0 +1,7 @@
+short_name: Everolimus Norameda
+active_substance: Everolimusum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: L01EG02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0091/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0091/smpc

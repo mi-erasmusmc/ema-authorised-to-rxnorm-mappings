@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002789
+Name of medicine: Quinsair
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: levofloxacin
+Active substance: levofloxacin
+Therapeutic area (MeSH): Cystic Fibrosis;Respiratory Tract Infections
+ATC code (human): J01MA12
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Quinsair is indicated for the management of chronic pulmonary infections due to Pseudomonas aeruginosa in adult patients with cystic fibrosis. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/quinsair

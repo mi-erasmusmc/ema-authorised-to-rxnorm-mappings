@@ -1,0 +1,7 @@
+short_name: Pergoveris
+active_substance: Follitropinum alfa, Lutropinum alfa
+marketing_authorisation_holder: Merck Europe B.V., Netherlands
+manufacturer: Merck Serono S.p.A. Modugno site, Italy
+atc_code: G03GA30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/396/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/396/001/smpc

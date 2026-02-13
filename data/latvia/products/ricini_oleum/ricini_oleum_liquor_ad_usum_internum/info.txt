@@ -1,0 +1,7 @@
+short_name: Ricini Oleum liquor ad usum internum
+active_substance: Ricini oleum
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: A06AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0362/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0362/smpc

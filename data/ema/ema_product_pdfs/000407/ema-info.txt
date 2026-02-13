@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000407
+Name of medicine: Opatanol
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: olopatadine
+Active substance: olopatadine hydrochloride
+Therapeutic area (MeSH): Conjunctivitis, Allergic
+ATC code (human): S01GX09
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Treatment of ocular signs and symptoms of seasonal allergic conjunctivitis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/opatanol

@@ -1,0 +1,7 @@
+short_name: Rivastigmine 1 A Pharma
+active_substance: Rivastigminum
+marketing_authorisation_holder: 1A Pharma GmbH, Germany
+manufacturer: Novartis Farmaceutica S.A., Spain
+atc_code: N06DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/585/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/585/001/smpc

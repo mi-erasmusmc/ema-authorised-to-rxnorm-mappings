@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000107
+Name of medicine: Epivir
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lamivudine
+Active substance: lamivudine
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AF05
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Epivir is indicated as part of antiretroviral combination therapy for the treatment of human-immunodeficiency-virus (HIV)-infected adults and children.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/epivir

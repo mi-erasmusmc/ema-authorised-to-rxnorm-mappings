@@ -1,0 +1,7 @@
+short_name: Loceryl
+active_substance: Amorolfinum
+marketing_authorisation_holder: Galderma International, France
+manufacturer: Laboratoires GALDERMA, France
+atc_code: D01AE16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0496/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0496/smpc

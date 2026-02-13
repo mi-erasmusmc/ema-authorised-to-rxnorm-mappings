@@ -1,0 +1,7 @@
+short_name: Irexime
+active_substance: Clindamycinum, Benzoylis peroxidum
+marketing_authorisation_holder: Orifarm Healthcare A/S, Denmark
+manufacturer: Jadran Galenski Laboratorij d.d., Croatia; Orifarm Generics A/S, Denmark
+atc_code: D10AF51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0167/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0167/smpc

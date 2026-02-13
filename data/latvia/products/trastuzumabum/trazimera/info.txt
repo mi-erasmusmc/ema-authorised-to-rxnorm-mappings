@@ -1,0 +1,7 @@
+short_name: Trazimera
+active_substance: Trastuzumabum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: L01FD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1295/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1295/001/smpc

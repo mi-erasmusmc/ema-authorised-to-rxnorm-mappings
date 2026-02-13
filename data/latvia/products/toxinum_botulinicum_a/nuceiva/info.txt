@@ -1,0 +1,7 @@
+short_name: Nuceiva
+active_substance: Toxinum botulinicum A
+marketing_authorisation_holder: Evolus Pharma Ltd, Ireland
+manufacturer: Baggerman Farmanet N.V., Netherlands
+atc_code: M03AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1364/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1364/001/smpc

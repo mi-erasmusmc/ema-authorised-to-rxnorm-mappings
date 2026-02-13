@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003855
+Name of medicine: Coagadex
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human coagulation factor X
+Active substance: human coagulation factor X
+Therapeutic area (MeSH): Factor X Deficiency
+ATC code (human): B02BD13
+Pharmacotherapeutic group (human): Vitamin K and other hemostatics;Antihemorrhagics;coagulation factor X
+Therapeutic indication: Coagadex is indicated for the treatment and prophylaxis of bleeding episodes and for perioperative management in patients with hereditary factor X deficiency. Coagadex is indicated in all age groups.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/coagadex

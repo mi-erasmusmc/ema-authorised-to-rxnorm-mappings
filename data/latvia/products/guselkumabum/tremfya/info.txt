@@ -1,0 +1,7 @@
+short_name: Tremfya
+active_substance: Guselkumabum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Biologics B.V., Netherlands
+atc_code: L04AC16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1234/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1234/001/smpc

@@ -1,0 +1,7 @@
+short_name: Depo-Medrol
+active_substance: Methylprednisoloni acetas
+marketing_authorisation_holder: Pfizer Croatia d.o.o., Croatia
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: H02AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000759/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000759/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002617
+Name of medicine: Fluenz Tetra
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: influenza vaccine (live attenuated, nasal)
+Active substance: A/Darwin/9/2021 (H3N2) - like strain (A/Norway/16606/2021, MEDI 355293) / A/Victoria/2570/2019 (H1N1)pdm09 - like strain (A/Victoria/1/2020, MEDI 340505) / B/Austria/1359417/2021 - like strain (B/Austria/1359417/2021, MEDI 355292) / B/Phuket/3073/2013 - like strain (B/Phuket/3073/2013, MEDI 306444)
+Therapeutic area (MeSH): Influenza, Human
+ATC code (human): J07BB03
+Pharmacotherapeutic group (human): Influenza vaccines;Influenza, live attenuated
+Therapeutic indication: Prophylaxis of influenza in children and adolescents from 24 months to less than 18 years of age. The use of Fluenz Tetra should be based on official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fluenz-tetra

@@ -1,0 +1,7 @@
+short_name: Ospen 400 000 IU/5 ml oral suspension
+active_substance: Phenoxymethylpenicillinum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: 
+atc_code: J01CE02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/RN006/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/RN006/smpc

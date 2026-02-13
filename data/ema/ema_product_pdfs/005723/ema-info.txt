@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005723
+Name of medicine: Lytenava
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bevacizumab
+Active substance: bevacizumab
+Therapeutic area (MeSH): Wet Macular Degeneration
+ATC code (human): S01LA08
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Lytenava is indicated in adults for treatment of neovascular (wet) age-related macular degeneration (nAMD).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lytenava

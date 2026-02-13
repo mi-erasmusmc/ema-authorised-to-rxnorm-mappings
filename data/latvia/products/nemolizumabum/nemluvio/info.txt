@@ -1,0 +1,7 @@
+short_name: Nemluvio
+active_substance: Nemolizumabum
+marketing_authorisation_holder: Galderma International, France
+manufacturer: Nuvisan France SARL, France; Q-Med AB, Sweden
+atc_code: D11AH12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1901/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1901/001/smpc

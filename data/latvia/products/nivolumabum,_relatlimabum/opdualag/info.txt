@@ -1,0 +1,7 @@
+short_name: Opdualag
+active_substance: Nivolumabum, Relatlimabum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories t/a Bristol-Myers Squibb Cruiserath Biologics, Ireland
+atc_code: L01FY02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1679/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1679/001/smpc

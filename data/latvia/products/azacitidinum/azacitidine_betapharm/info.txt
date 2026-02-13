@@ -1,0 +1,7 @@
+short_name: Azacitidine betapharm
+active_substance: Azacitidinum
+marketing_authorisation_holder: Betapharm Arzneimittel GmbH, Germany
+manufacturer: Betapharm Arzneimittel GmbH, Germany
+atc_code: L01BC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1416/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1416/001/smpc

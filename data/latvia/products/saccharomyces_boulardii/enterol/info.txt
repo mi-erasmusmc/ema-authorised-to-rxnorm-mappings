@@ -1,0 +1,7 @@
+short_name: Enterol
+active_substance: Saccharomyces boulardii
+marketing_authorisation_holder: Biocodex, France
+manufacturer: Biocodex, France
+atc_code: A07FA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0302/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0302/smpc

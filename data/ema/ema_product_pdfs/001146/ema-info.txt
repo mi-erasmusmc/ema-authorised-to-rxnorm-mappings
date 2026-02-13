@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001146
+Name of medicine: Telmisartan Teva
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: telmisartan
+Active substance: telmisartan
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09CA07
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of essential hypertension in adults
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/telmisartan-teva

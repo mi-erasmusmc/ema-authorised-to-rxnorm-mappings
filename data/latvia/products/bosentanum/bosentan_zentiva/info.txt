@@ -1,0 +1,7 @@
+short_name: Bosentan Zentiva
+active_substance: Bosentanum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic; Zentiva S.A., Romania; Winthrop Arzneimittel GmbH, Germany; ITC Production S.r.l., Italy
+atc_code: C02KX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0039/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0039/smpc

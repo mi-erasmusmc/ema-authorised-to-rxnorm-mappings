@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006421
+Name of medicine: Rezurock
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: Belumosudil
+Active substance: Belumosudil mesilate
+Therapeutic area (MeSH): Graft vs Host Disease
+ATC code (human): L04AA48
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Treatment of chronic graft-versus-host disease (cGVHD) after failure of at least two prior lines of systemic therapy.&nbsp;
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rezurock

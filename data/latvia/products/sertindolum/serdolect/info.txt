@@ -1,0 +1,7 @@
+short_name: Serdolect
+active_substance: Sertindolum
+marketing_authorisation_holder: H. Lundbeck A/S, Denmark
+manufacturer: H. Lundbeck A/S, Denmark
+atc_code: N05AE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0296/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0296/smpc

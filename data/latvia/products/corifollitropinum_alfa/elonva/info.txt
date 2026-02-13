@@ -1,0 +1,7 @@
+short_name: Elonva
+active_substance: Corifollitropinum alfa
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: N.V. Organon, Netherlands
+atc_code: G03GA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/609/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/609/001/smpc

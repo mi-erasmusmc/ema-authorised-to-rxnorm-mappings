@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000806
+Name of medicine: Cyanokit
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hydroxocobalamin
+Active substance: hydroxocobalamin
+Therapeutic area (MeSH): Poisoning
+ATC code (human): V03AB33
+Pharmacotherapeutic group (human): All other therapeutic products
+Therapeutic indication: Treatment of known or suspected cyanide poisoning. Cyanokit is to be administered together with appropriate decontamination and supportive measures.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cyanokit

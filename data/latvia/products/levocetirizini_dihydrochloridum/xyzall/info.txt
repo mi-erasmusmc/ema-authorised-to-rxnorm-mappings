@@ -1,0 +1,7 @@
+short_name: Xyzall
+active_substance: Levocetirizini dihydrochloridum
+marketing_authorisation_holder: UCB Pharma GmbH, Austria
+manufacturer: Aesica Pharmaceuticals S.r.l., Italy
+atc_code: R06AE09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001526/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001526/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001098
+Name of medicine: Somac Control
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pantoprazole
+Active substance: pantoprazole
+Therapeutic area (MeSH): Gastroesophageal Reflux
+ATC code (human): A02BC02
+Pharmacotherapeutic group (human): Proton pump inhibitors
+Therapeutic indication: Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/somac-control

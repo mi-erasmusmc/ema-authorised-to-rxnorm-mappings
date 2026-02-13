@@ -1,0 +1,7 @@
+short_name: Vasonit retard
+active_substance: Pentoxifyllinum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: C04AD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1100/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1100/smpc

@@ -1,0 +1,7 @@
+short_name: Muse
+active_substance: Alprostadilum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Meda Pharma GmbH & Co.KG, Germany; Viatris Sante, France
+atc_code: G04BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0131/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0131/smpc

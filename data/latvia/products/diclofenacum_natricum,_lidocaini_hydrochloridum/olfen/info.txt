@@ -1,0 +1,7 @@
+short_name: Olfen
+active_substance: Diclofenacum natricum, Lidocaini hydrochloridum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany
+atc_code: M01AB55
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/93-0565/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/93-0565/smpc

@@ -1,0 +1,7 @@
+short_name: Clopidogrel Teva
+active_substance: Clopidogrelum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; Galien LPS, France
+atc_code: B01AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/540/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/540/001/smpc

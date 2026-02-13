@@ -1,0 +1,7 @@
+short_name: Tenamid
+active_substance: Teriflunomidum
+marketing_authorisation_holder: LV System Service SIA, Latvia
+manufacturer: Genepharm S.A., Greece; Pharmacare Premium Ltd, Malta
+atc_code: L04AK02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0159/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0159/smpc

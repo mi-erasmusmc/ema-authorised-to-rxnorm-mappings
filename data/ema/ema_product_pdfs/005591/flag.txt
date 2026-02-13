@@ -1,0 +1,7 @@
+Metered dose vs delivered dose verification needed.
+
+BroPair Spiromax lists strengths as 12.75 μg salmeterol xinafoate / 100 μg fluticasone propionate and 12.75 μg / 202 μg (delivered dose). Standard RxNorm fluticasone/salmeterol DPI concepts use salmeterol 0.05 MG/ACTUAT (50 MCG) which does not match the 12.75 MCG delivered dose. The 202 μg fluticasone strength also has no RxNorm equivalent.
+
+Mapped BROAD to generic Clinical Drug Form (fluticasone / salmeterol Dry Powder Inhaler, concept 40144020). Verify via SmPC whether the Spiromax dosing convention (e.g. multiple actuations per dose) corresponds to a standard RxNorm strength before finalising.
+
+Sister product Seffalair Spiromax (004881) has the same strengths and the same issue.

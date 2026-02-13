@@ -1,0 +1,7 @@
+short_name: Hexalyse lozenges
+active_substance: Biclotymolum, Lysozymi hydrochloridum, Enoxolonum
+marketing_authorisation_holder: Laboratoires Bouchara Recordati, France
+manufacturer: Laboratoires Bouchara-Recordati, France
+atc_code: R02AA20
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0517/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0517/smpc

@@ -1,0 +1,7 @@
+short_name: Voriconazole Elpen
+active_substance: Voriconazolum
+marketing_authorisation_holder: ELPEN Pharmaceutical Co. Inc (SA), Greece
+manufacturer: ELPEN Pharmaceutical Co. Inc (SA), Greece
+atc_code: J02AC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0023/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0023/smpc

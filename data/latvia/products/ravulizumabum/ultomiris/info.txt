@@ -1,0 +1,7 @@
+short_name: Ultomiris
+active_substance: Ravulizumabum
+marketing_authorisation_holder: Alexion Europe SAS, France
+manufacturer: Alexion Pharma International Operations Unlimited Company, Ireland
+atc_code: L04AJ02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1371/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1371/001/smpc

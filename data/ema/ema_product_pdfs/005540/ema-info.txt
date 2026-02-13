@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005540
+Name of medicine: Pyrukynd
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: mitapivat
+Active substance: mitapivat sulfate
+Therapeutic area (MeSH): Genetic Diseases, Inborn;Anemia, Hemolytic
+ATC code (human): B06AX04
+Pharmacotherapeutic group (human): Other hematological agents
+Therapeutic indication: Pyrukynd is indicated for the treatment of pyruvate kinase deficiency (PK deficiency) in adult patients (see section 4.4).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pyrukynd

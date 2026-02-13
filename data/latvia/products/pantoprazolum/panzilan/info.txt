@@ -1,0 +1,7 @@
+short_name: Panzilan
+active_substance: Pantoprazolum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: GL Pharma GmbH, Austria
+atc_code: A02BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0046/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0046/smpc

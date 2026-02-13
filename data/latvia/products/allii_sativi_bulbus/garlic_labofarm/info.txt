@@ -1,0 +1,7 @@
+short_name: Garlic Labofarm
+active_substance: Allii sativi bulbus
+marketing_authorisation_holder: Labofarm Sp. z o.o., Poland
+manufacturer: Labofarm Sp. z o.o., Poland
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0796/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0796/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002221
+Name of medicine: Dacogen
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: decitabine
+Active substance: decitabine
+Therapeutic area (MeSH): Leukemia, Myeloid
+ATC code (human): L01BC08
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of adult patients with newly diagnosed de novo or secondary acute myeloid leukaemia (AML), according to the World Health Organization (WHO) classification, who are not candidates for standard induction chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dacogen

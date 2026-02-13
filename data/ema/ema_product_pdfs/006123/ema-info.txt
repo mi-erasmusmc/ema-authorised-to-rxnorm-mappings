@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006123
+Name of medicine: Gohibic
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vilobelimab
+Active substance: vilobelimab
+Therapeutic area (MeSH): Respiratory Distress Syndrome, Adult;COVID-19 virus infection
+ATC code (human): L04AJ10
+Pharmacotherapeutic group (human): Immunosuppressants, Complement inhibitors
+Therapeutic indication: Gohibic is indicated for the treatment of adult patients with SARS-CoV2-induced acute respiratory distress syndrome (ARDS) who are receiving systemic corticosteroids as part of Standard of Care and receiving invasive mechanical ventilation (IMV) (with or without extracorporeal membrane oxygenation (ECMO)).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gohibic

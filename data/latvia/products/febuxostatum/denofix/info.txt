@@ -1,0 +1,7 @@
+short_name: Denofix
+active_substance: Febuxostatum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: PharOS MT Ltd., Malta; Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
+atc_code: M04AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0124/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0124/smpc

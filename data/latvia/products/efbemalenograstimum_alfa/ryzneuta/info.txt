@@ -1,0 +1,7 @@
+short_name: Ryzneuta
+active_substance: Efbemalenograstimum alfa
+marketing_authorisation_holder: Evive Biotechnology Ireland Limited, Ireland
+manufacturer: Catalent Germany Schorndorf GmbH, Germany
+atc_code: L03AA18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1793/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1793/001/smpc

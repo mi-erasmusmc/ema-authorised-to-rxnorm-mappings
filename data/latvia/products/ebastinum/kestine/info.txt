@@ -1,0 +1,7 @@
+short_name: Kestine
+active_substance: Ebastinum
+marketing_authorisation_holder: Almirall, S.A., Spain
+manufacturer: Industrias Farmaceuticas Almirall, S.A., Spain
+atc_code: R06AX22
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0115/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0115/smpc

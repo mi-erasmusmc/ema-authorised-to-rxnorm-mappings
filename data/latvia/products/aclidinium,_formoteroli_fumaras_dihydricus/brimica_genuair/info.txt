@@ -1,0 +1,7 @@
+short_name: Brimica Genuair
+active_substance: Aclidinium, Formoteroli fumaras dihydricus
+marketing_authorisation_holder: Covis Pharma Europe B.V., Netherlands
+manufacturer: Industrias Farmaceuticas Almirall, S.A., Spain
+atc_code: R03AL05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/963/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/963/001/smpc

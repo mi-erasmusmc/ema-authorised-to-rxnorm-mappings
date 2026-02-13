@@ -1,0 +1,7 @@
+short_name: Latanoprost/Timolol ELVIM
+active_substance: Latanoprostum, Timololum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Rafarm SA, Greece
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0057/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0057/smpc

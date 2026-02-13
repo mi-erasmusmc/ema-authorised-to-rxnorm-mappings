@@ -1,0 +1,7 @@
+short_name: Ibuprofen Catalent
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Catalent Germany Eberbach GmbH, Germany
+manufacturer: Catalent Germany Eberbach GmbH, Germany; Catalent Germany Schorndorf GmbH, Germany
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0112/smpc

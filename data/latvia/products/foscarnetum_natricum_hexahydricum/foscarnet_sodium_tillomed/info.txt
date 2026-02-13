@@ -1,0 +1,7 @@
+short_name: Foscarnet sodium Tillomed
+active_substance: Foscarnetum natricum hexahydricum
+marketing_authorisation_holder: Tillomed Pharma GmbH, Germany
+manufacturer: Siegfried Hameln GmbH, Germany; MIAS Pharma Limited, Ireland; SGS Pharma Magyarorszag Kft., Hungary
+atc_code: J05AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0118/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0118/smpc

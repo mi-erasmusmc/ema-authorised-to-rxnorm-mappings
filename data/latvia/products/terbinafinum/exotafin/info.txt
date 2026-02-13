@@ -1,0 +1,7 @@
+short_name: Exotafin
+active_substance: Terbinafinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Alfasigma S.p.A., Italy; Salutas Pharma GmbH, Germany
+atc_code: D01AE15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0126/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0126/smpc

@@ -1,0 +1,7 @@
+short_name: Atorvastatin/Ezetimibe Teva
+active_substance: Atorvastatinum, Ezetimibum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Elpen Pharmaceutical Co. Inc., Greece; ELPEN Pharmaceutical Co. Inc., Greece
+atc_code: C10BA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0023/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0023/smpc

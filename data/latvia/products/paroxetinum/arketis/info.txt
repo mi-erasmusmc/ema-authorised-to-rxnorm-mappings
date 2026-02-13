@@ -1,0 +1,7 @@
+short_name: Arketis
+active_substance: Paroxetinum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: F.A.L. Duiven BV, Netherlands; Sanico N.V., Belgium; Medochemie Ltd., Factory AZ, Cyprus
+atc_code: N06AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0065/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0065/smpc

@@ -1,0 +1,7 @@
+short_name: Emla
+active_substance: Prilocainum, Lidocainum
+marketing_authorisation_holder: Aspen Pharma Trading Ltd., Ireland
+manufacturer: Recipharm Karlskoga AB, Sweden
+atc_code: N01BB52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000966/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000966/smpc

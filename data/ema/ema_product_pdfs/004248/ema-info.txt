@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004248
+Name of medicine: Alunbrig
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: brigatinib
+Active substance: brigatinib
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01XE43
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Alunbrig is indicated as monotherapy for the treatment of adult patients with anaplastic lymphoma kinase (ALK)?positive advanced non?small cell lung cancer (NSCLC) previously not treated with an ALK inhibitor. Alunbrig is indicated as monotherapy for the treatment of adult patients with anaplastic lymphoma kinase ALKpositive advanced NSCLC previously treated with crizotinib.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alunbrig

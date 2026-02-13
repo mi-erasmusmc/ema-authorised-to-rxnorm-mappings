@@ -1,0 +1,7 @@
+short_name: Kadcyla
+active_substance: Trastuzumabum emtansinum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01FD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/885/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/885/001/smpc

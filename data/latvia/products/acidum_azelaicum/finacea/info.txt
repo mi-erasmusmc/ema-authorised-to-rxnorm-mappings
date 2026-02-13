@@ -1,0 +1,7 @@
+short_name: Finacea
+active_substance: Acidum azelaicum
+marketing_authorisation_holder: LEO Pharma A/S, Denmark
+manufacturer: LEO Pharma Manufacturing Italy S.r.l., Italy
+atc_code: D10AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0055/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0055/smpc

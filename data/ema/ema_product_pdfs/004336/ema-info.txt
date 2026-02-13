@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004336
+Name of medicine: Shingrix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: herpes zoster vaccine (recombinant, adjuvanted)
+Active substance: recombinant varicella zoster virus glycoprotein E
+Therapeutic area (MeSH): Herpes Zoster
+ATC code (human): J07BK03
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Shingrix is indicated for prevention of herpes zoster (HZ) and post-herpetic neuralgia (PHN), in:  adults 50 years of age or older; adults 18 years of age or older at increased risk of HZ.  The use of Shingrix should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/shingrix

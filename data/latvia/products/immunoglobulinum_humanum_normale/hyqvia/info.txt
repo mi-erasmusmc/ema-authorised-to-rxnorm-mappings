@@ -1,0 +1,7 @@
+short_name: HyQvia
+active_substance: Immunoglobulinum humanum normale
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Baxalta Belgium Manufacturing SA, Belgium
+atc_code: J06BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/840/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/840/001/smpc

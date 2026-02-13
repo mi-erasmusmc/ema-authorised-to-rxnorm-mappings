@@ -1,0 +1,7 @@
+short_name: Cerdelga
+active_substance: Eliglustatum
+marketing_authorisation_holder: Sanofi B.V., Netherlands
+manufacturer: Sanofi Winthrop Industrie, France; Genzyme Ireland Ltd., Ireland; Sanofi Winthrop Industrie, France
+atc_code: A16AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/974/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/974/001/smpc

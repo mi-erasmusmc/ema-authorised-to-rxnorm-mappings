@@ -1,0 +1,7 @@
+short_name: Gelaspan
+active_substance: Gelatina, Natrii chloridum, Natrii acetas trihydricus, Kalii chloridum, Calcii chloridum dihydricum, Magnesii chloridum hexahydricum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: B05AA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0312/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0312/smpc

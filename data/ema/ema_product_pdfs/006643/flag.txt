@@ -1,0 +1,1 @@
+Orodispersible film dose form does not exist in RxNorm for rivaroxaban. Mapped BROAD to oral tablet concepts (same ingredient and strength, different oral dose form).

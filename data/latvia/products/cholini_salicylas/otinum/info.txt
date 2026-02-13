@@ -1,0 +1,7 @@
+short_name: Otinum
+active_substance: Cholini salicylas
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: ICN Polfa Rzeszow S.A., Poland
+atc_code: S02DC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0162/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0162/smpc

@@ -1,0 +1,7 @@
+short_name: Kalymin 60 N
+active_substance: Pyridostigmini bromidum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Merckle GmbH, Germany
+atc_code: N07AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0385/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0385/smpc

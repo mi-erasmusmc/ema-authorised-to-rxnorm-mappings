@@ -1,0 +1,7 @@
+short_name: Blenrep
+active_substance: Belantamabum mafodotinum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: GlaxoSmithKline Manufacturing S.p.A., Italy
+atc_code: L01FX15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1948/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1948/001/smpc

@@ -1,0 +1,7 @@
+short_name: Toviaz
+active_substance: Fesoterodinum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Deutschland GmbH, Germany; R-Pharm Germany GmbH, Germany
+atc_code: G04BD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/386/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/386/001/smpc

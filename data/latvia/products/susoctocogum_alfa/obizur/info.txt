@@ -1,0 +1,7 @@
+short_name: Obizur
+active_substance: Susoctocogum alfa
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B02BD14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1035/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1035/001/smpc

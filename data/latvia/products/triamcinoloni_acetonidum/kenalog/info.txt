@@ -1,0 +1,7 @@
+short_name: Kenalog
+active_substance: Triamcinoloni acetonidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: H02AB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0041/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0041/smpc

@@ -1,0 +1,7 @@
+short_name: Lorinden C
+active_substance: Flumetasoni pivalas, Clioquinolum
+marketing_authorisation_holder: PharmaSwiss Ceska republika s.r.o., Czech Republic
+manufacturer: Pharmaceutical Company Jelfa SA, Poland
+atc_code: D07BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0051/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0051/smpc

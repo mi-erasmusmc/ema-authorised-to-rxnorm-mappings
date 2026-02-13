@@ -1,0 +1,7 @@
+short_name: Neostigmine-Kalceks
+active_substance: Neostigmini methylsulfas
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: N07AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0068/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0068/smpc

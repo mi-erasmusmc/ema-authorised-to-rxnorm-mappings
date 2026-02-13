@@ -1,0 +1,7 @@
+short_name: Cetrotide
+active_substance: Cetrorelixum
+marketing_authorisation_holder: Merck Europe B.V., Netherlands
+manufacturer: Merck KGaA, Germany
+atc_code: H01CC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/100/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/100/001/smpc

@@ -1,0 +1,7 @@
+short_name: Filspari
+active_substance: Sparsentanum
+marketing_authorisation_holder: Vifor France SAS, France
+manufacturer: Vifor France SAS, France
+atc_code: C09XX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1788/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1788/001/smpc

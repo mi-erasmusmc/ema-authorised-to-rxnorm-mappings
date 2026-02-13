@@ -1,0 +1,7 @@
+short_name: Metoprolol-ratiopharm
+active_substance: Metoprololi tartras
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany
+atc_code: C07AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0223/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0223/smpc

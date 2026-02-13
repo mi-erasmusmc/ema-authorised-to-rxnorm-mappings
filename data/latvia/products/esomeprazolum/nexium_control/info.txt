@@ -1,0 +1,7 @@
+short_name: Nexium Control
+active_substance: Esomeprazolum
+marketing_authorisation_holder: GlaxoSmithKline Dungarvan Ltd., Ireland
+manufacturer: Pfizer Consumer Manufacturing Italy S.r.l., Italy
+atc_code: A02BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/860/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/860/001/smpc

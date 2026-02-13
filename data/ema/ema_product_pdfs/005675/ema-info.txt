@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005675
+Name of medicine: Vaxzevria (previously COVID-19 Vaccine AstraZeneca)
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: COVID-19 Vaccine (ChAdOx1-S [recombinant])
+Active substance: ChAdOx1-SARS-COV-2
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J07BN02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Vaxzevria is indicated for active immunisation to prevent COVID 19 caused by SARS CoV 2, in individuals 18 years of age and older. The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vaxzevria

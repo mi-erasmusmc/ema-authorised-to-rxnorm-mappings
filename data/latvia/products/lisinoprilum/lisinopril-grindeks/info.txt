@@ -1,0 +1,7 @@
+short_name: Lisinopril-Grindeks
+active_substance: Lisinoprilum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: A/S Grindeks, Latvia
+atc_code: C09AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0222/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0222/smpc

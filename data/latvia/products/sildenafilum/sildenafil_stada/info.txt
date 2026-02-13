@@ -1,0 +1,7 @@
+short_name: Sildenafil Stada
+active_substance: Sildenafilum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Centrafarm Services B.V., Netherlands; Clonmel Healthcare Limited, Ireland; Stada M&D S.R.L, Romania
+atc_code: G04BE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0201/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0201/smpc

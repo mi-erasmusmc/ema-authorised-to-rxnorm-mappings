@@ -1,0 +1,7 @@
+short_name: Alfacalcidol Strides Pharma
+active_substance: Alfacalcidolum
+marketing_authorisation_holder: Strides Pharma (Cyprus) Limited, Cyprus
+manufacturer: Fairmed Healthcare GmbH, Germany; Santa S.A., Romania
+atc_code: A11CC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0205/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0205/smpc

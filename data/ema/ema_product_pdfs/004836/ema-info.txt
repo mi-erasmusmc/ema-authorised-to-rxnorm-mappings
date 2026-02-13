@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004836
+Name of medicine: Riarify (previously CHF 5993 Chiesi Farmaceutici S.p.A.)
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: beclometasone;formoterol
+Active substance: formoterol fumarate dihydrate;glycopyrronium;beclometasone dipropionate
+Therapeutic area (MeSH): Pulmonary Disease, Chronic Obstructive
+ATC code (human): R03AL09
+Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
+Therapeutic indication: Maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2-agonist (for effects on symptoms control and prevention of exacerbations see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/riarify

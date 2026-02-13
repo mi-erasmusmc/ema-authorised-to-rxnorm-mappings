@@ -1,0 +1,7 @@
+short_name: Septabene lemon and elder flower
+active_substance: Benzydamini hydrochloridum, Cetylpyridinii chloridum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: R02AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0204/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0204/smpc

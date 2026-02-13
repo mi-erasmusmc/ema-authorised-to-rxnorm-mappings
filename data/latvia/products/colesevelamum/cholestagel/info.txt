@@ -1,0 +1,7 @@
+short_name: Cholestagel
+active_substance: Colesevelamum
+marketing_authorisation_holder: Cheplapharm Arzneimittel GmbH, Germany
+manufacturer: Genzyme Ireland Ltd., Ireland
+atc_code: C10AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/268/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/268/001/smpc

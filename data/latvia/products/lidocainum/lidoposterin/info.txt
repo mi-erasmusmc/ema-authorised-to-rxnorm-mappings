@@ -1,0 +1,7 @@
+short_name: Lidoposterin
+active_substance: Lidocainum
+marketing_authorisation_holder: Dr. Kade Pharmazeutische Fabrik GmbH, Germany
+manufacturer: Dr. Kade Pharmazeutische Fabrik GmbH, Germany
+atc_code: C05AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0106/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0106/smpc

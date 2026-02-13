@@ -1,0 +1,7 @@
+short_name: Etindros
+active_substance: Ethinylestradiolum, Drospirenonum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: Laboratorios Leon Farma S.A., Spain
+atc_code: G03AA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0038/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0038/smpc

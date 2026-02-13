@@ -1,0 +1,7 @@
+short_name: Ontozry
+active_substance: Cenobamatum
+marketing_authorisation_holder: Angelini Pharma S.p.A., Italy
+manufacturer: Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A., Italy
+atc_code: N03AX25
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1530/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1530/001/smpc

@@ -1,0 +1,7 @@
+short_name: Kreon
+active_substance: Pancreatis pulvis
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Abbott Laboratories GmbH, Germany
+atc_code: A09AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0148/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0148/smpc

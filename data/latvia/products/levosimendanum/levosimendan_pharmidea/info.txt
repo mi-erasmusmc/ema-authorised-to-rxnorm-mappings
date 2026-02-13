@@ -1,0 +1,7 @@
+short_name: Levosimendan Pharmidea
+active_substance: Levosimendanum
+marketing_authorisation_holder: PharmIdea, SIA, Latvia
+manufacturer: PharmIdea, SIA, Latvia
+atc_code: C01CX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0169/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0169/smpc

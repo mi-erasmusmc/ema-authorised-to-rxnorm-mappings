@@ -1,0 +1,7 @@
+short_name: INOmax
+active_substance: Nitrogenii oxidum
+marketing_authorisation_holder: Linde Healthcare AB, Sweden
+manufacturer: Linde France, France
+atc_code: R07AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/194/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/194/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005914
+Name of medicine: Briumvi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ublituximab
+Active substance: ublituximab
+Therapeutic area (MeSH): Multiple Sclerosis, Relapsing-Remitting;Multiple Sclerosis
+ATC code (human): L04
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Briumvi is indicated for the treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/briumvi

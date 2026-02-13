@@ -1,0 +1,7 @@
+short_name: Ipidacrine Grindeks
+active_substance: Ipidacrini hydrochloridum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: N07AA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0130/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0130/smpc

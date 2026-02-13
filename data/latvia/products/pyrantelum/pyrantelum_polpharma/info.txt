@@ -1,0 +1,7 @@
+short_name: Pyrantelum Polpharma
+active_substance: Pyrantelum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: P02CC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0460/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0460/smpc

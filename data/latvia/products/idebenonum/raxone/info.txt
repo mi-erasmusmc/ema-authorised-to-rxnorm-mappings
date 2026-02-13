@@ -1,0 +1,7 @@
+short_name: Raxone
+active_substance: Idebenonum
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Excella GmbH & Co. KG, Germany
+atc_code: N06BX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1020/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1020/001/smpc

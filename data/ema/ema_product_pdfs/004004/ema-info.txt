@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004004
+Name of medicine: Kanuma
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sebelipase alfa
+Active substance: sebelipase alfa
+Therapeutic area (MeSH): Lipid Metabolism, Inborn Errors
+ATC code (human): A16
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Kanuma is indicated for long-term enzyme replacement therapy (ERT) in patients of all ages with lysosomal acid lipase (LAL) deficiency.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kanuma

@@ -1,0 +1,7 @@
+short_name: Valsacombi
+active_substance: Valsartanum, Hydrochlorothiazidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: Krka Polska Sp. z o.o., Poland; KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: C09DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0515/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0515/smpc

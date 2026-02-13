@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004909
+Name of medicine: Dovato
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dolutegravir;lamivudine
+Active substance: dolutegravir sodium;lamivudine
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Dovato is indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and adolescents above 12 years of age weighing at least 40 kg, with no known or suspected resistance to the integrase inhibitor class, or lamivudine.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dovato

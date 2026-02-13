@@ -1,0 +1,7 @@
+short_name: Depo-Provera
+active_substance: Medroxyprogesteroni acetas
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium N.V., Belgium
+atc_code: G03DA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0481/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0481/smpc

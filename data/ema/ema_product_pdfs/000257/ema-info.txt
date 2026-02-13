@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000257
+Name of medicine: Synagis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: palivizumab
+Active substance: palivizumab
+Therapeutic area (MeSH): Respiratory Syncytial Virus Infections
+ATC code (human): J06BD01
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Synagis is indicated for the prevention of serious lower-respiratory-tract disease requiring hospitalisation caused by respiratory syncytial virus (RSV) in children at high risk for RSV disease:  children born at 35 weeks of gestation or less and less than six months of age at the onset of the RSV season; children less than two years of age and requiring treatment for bronchopulmonary dysplasia within the last six months; children less than two years of age and with haemodynamically significant congenital heart disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/synagis

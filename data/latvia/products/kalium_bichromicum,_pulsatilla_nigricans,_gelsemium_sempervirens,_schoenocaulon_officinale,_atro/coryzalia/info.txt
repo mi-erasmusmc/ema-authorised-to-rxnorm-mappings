@@ -1,0 +1,7 @@
+short_name: Coryzalia
+active_substance: Kalium bichromicum, Pulsatilla nigricans, Gelsemium sempervirens, Schoenocaulon officinale, Atropa belladonna, Allium cepa
+marketing_authorisation_holder: Boiron, France
+manufacturer: Boiron, France
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0369/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0369/smpc

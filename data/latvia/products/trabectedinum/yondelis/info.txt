@@ -1,0 +1,7 @@
+short_name: Yondelis
+active_substance: Trabectedinum
+marketing_authorisation_holder: Pharma Mar, S.A., Spain
+manufacturer: Pharma Mar, S.A., Spain
+atc_code: L01CX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/417/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/417/001/smpc

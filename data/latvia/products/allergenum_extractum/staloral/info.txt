@@ -1,0 +1,7 @@
+short_name: Staloral
+active_substance: Allergenum extractum
+marketing_authorisation_holder: Stallergenes, France
+manufacturer: Stallergenes, France
+atc_code: V01AA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0155/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0155/smpc

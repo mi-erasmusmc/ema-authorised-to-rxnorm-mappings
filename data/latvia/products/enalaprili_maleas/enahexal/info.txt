@@ -1,0 +1,7 @@
+short_name: EnaHexal
+active_substance: Enalaprili maleas
+marketing_authorisation_holder: Hexal AG, Germany
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Lek S.A., Poland; Salutas Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia
+atc_code: C09AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0452/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0452/smpc

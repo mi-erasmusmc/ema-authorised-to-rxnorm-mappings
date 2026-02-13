@@ -1,0 +1,7 @@
+short_name: Terizidon Fatol
+active_substance: Terizidonum
+marketing_authorisation_holder: Esteve Pharmaceuticals GmbH, Germany
+manufacturer: SW Pharma GmbH, Germany
+atc_code: J04AK03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0378/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0378/smpc

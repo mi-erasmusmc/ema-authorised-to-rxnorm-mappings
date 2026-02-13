@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002296
+Name of medicine: Sancuso
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: granisetron
+Active substance: granisetron
+Therapeutic area (MeSH): Vomiting;Cancer
+ATC code (human): A04AA02
+Pharmacotherapeutic group (human): Antiemetics and antinauseants;Serotonin (5HT3) antagonists
+Therapeutic indication: Prevention of nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy, with or without cisplatin, for up to five consecutive days. Sancuso may be used in patients receiving their first chemotherapy regimen or in patients who have previously received chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sancuso

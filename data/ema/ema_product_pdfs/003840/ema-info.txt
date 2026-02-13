@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003840
+Name of medicine: Nivolumab BMS
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: nivolumab
+Active substance: nivolumab
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01XC17
+Pharmacotherapeutic group (human): Antineoplastic and immunomodulating agents;Monoclonal antibodies
+Therapeutic indication: Nivolumab BMS is indicated for the treatment of locally advanced or metastatic squamous non-small cell lung cancer (NSCLC) after prior chemotherapy in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nivolumab-bms

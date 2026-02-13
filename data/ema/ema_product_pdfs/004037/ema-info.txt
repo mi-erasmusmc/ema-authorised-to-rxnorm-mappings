@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004037
+Name of medicine: Amlodipine  / Valsartan Mylan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: amlodipine;valsartan
+Active substance: amlodipine besilate;valsartan
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09DB01
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of essential hypertension. Amlodipine/Valsartan Mylan is indicated in adults whose blood pressure is not adequately controlled on amlodipine or valsartan monotherapy.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/amlodipine-valsartan-mylan

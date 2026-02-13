@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001177
+Name of medicine: Sycrest
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: asenapine
+Active substance: asenapine maleate
+Therapeutic area (MeSH): Bipolar Disorder
+ATC code (human): N05AH05
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Sycrest is indicated for the treatment of moderate to severe manic episodes associated with bipolar I disorder in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sycrest

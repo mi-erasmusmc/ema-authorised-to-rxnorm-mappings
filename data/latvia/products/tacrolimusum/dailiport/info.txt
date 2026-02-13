@@ -1,0 +1,7 @@
+short_name: Dailiport
+active_substance: Tacrolimusum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia
+atc_code: L04AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0154/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0154/smpc

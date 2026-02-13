@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002020
+Name of medicine: Bydureon
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: exenatide
+Active substance: exenatide
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BJ01
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Bydureon is indicated in adults 18 years and older with type 2 diabetes mellitus to improve glycaemic control in combination with other glucose lowering medicinal products when the therapy in use, together with diet and exercise, does not provide adequate glycaemic control (see section 4.4, 4.5 and 5.1 for available data on different combinations). Bydureon is indicated for treatment of type 2 diabetes mellitus in combination with:  Metformin Sulphonylurea Thiazolidinedione Metformin and sulphonylurea Metformin and thiazolidinedione  in adults who have not achieved adequate glycaemic control on maximally tolerated doses of these oral therapies.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bydureon

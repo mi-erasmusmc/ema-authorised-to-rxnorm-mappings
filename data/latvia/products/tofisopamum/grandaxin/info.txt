@@ -1,0 +1,7 @@
+short_name: Grandaxin
+active_substance: Tofisopamum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Egis Pharmaceuticals PLC, Hungary; Egis Pharmaceuticals PLC Site number 2, Hungary
+atc_code: N05BA23
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0939/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0939/smpc

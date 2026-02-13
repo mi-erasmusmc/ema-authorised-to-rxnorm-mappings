@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006324
+Name of medicine: Ryjunea
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: atropine sulfate
+Active substance: atropine sulfate
+Therapeutic area (MeSH): Myopia
+ATC code (human): S01FA01
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Ryjunea is indicated for slowing the progression of myopia in paediatric patients. Treatment may be initiated in children aged 3-14 years with a progression rate of 0.5 D or more per year and a severity of -0.5 D to -6.0 D.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ryjunea

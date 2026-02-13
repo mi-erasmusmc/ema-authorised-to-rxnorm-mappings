@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005828
+Name of medicine: Ryzneuta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: efbemalenograstim alfa
+Active substance: efbemalenograstim alfa
+Therapeutic area (MeSH): 
+ATC code (human): L03AA18
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Ryzneuta is indicated for the reduction in the duration of neutropenia and the incidence of febrile neutropenia in adult patients treated with cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ryzneuta

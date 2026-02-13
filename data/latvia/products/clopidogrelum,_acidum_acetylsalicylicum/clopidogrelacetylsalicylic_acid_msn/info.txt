@@ -1,0 +1,7 @@
+short_name: Clopidogrel/Acetylsalicylic acid MSN
+active_substance: Clopidogrelum, Acidum acetylsalicylicum
+marketing_authorisation_holder: MSN Labs Europe Limited, Malta
+manufacturer: Pharmadox Healthcare Ltd., Malta; MSN Labs Europe Limited, Malta
+atc_code: B01AC30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0279/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0279/smpc

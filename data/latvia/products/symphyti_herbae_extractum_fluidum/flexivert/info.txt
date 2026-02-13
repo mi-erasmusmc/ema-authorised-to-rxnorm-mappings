@@ -1,0 +1,7 @@
+short_name: Flexivert
+active_substance: Symphyti herbae extractum fluidum
+marketing_authorisation_holder: Dr. Theiss Naturwaren GmbH, Germany
+manufacturer: Dr. Theiss Naturwaren GmbH, Germany
+atc_code: M02AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0240/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0240/smpc

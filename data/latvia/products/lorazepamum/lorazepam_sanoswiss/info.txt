@@ -1,0 +1,7 @@
+short_name: Lorazepam SanoSwiss
+active_substance: Lorazepamum
+marketing_authorisation_holder: SanoSwiss UAB, Lithuania
+manufacturer: Pharmadox Healthcare Ltd., Malta
+atc_code: N05BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0001/smpc

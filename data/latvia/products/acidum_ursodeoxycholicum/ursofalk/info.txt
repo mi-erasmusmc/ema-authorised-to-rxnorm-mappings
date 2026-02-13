@@ -1,0 +1,7 @@
+short_name: Ursofalk
+active_substance: Acidum ursodeoxycholicum
+marketing_authorisation_holder: Dr. Falk Pharma GmbH, Germany
+manufacturer: Dr. Falk Pharma GmbH, Germany
+atc_code: A05AA02;A05B
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0013/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0013/smpc

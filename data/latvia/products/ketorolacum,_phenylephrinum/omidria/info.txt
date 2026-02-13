@@ -1,0 +1,7 @@
+short_name: Omidria
+active_substance: Ketorolacum, Phenylephrinum
+marketing_authorisation_holder: Rayner Surgical (Ireland) Limited, Ireland
+manufacturer: Manufacturing Packaging Farmaca (MPF) B.V., Netherlands
+atc_code: S01FB51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1018/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1018/001/smpc

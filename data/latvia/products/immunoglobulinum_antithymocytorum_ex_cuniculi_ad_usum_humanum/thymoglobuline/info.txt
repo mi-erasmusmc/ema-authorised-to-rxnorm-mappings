@@ -1,0 +1,7 @@
+short_name: Thymoglobuline
+active_substance: Immunoglobulinum antithymocytorum ex cuniculi ad usum humanum
+marketing_authorisation_holder: Sanofi B.V., Netherlands
+manufacturer: Genzyme Ireland Ltd., Ireland; Sanofi Winthrop Industrie S.A., France
+atc_code: L04AA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0045/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0045/smpc

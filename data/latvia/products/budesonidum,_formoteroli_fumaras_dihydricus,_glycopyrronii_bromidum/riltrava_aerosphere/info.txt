@@ -1,0 +1,7 @@
+short_name: Riltrava Aerosphere
+active_substance: Budesonidum, Formoteroli fumaras dihydricus, Glycopyrronii bromidum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca Dunkerque Production, France
+atc_code: R03AL11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1604/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1604/001/smpc

@@ -1,0 +1,7 @@
+short_name: Evotaz
+active_substance: Atazanavirum, Cobicistatum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories T/A Bristol-Myers Squibb Pharmaceutical Operations, External Manufacturing, Ireland; Catalent Anagni S.R.L., Italy
+atc_code: J05AR15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1025/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1025/001/smpc

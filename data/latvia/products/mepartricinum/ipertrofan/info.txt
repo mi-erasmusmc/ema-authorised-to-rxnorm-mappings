@@ -1,0 +1,7 @@
+short_name: Ipertrofan
+active_substance: Mepartricinum
+marketing_authorisation_holder: SPA - Societa Prodotti Antibiotici S.p.A., Italy
+manufacturer: Doppel Farmaceutici S.R.L., Italy
+atc_code: G04CX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0014/smpc

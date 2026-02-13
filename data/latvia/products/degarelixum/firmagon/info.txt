@@ -1,0 +1,7 @@
+short_name: Firmagon
+active_substance: Degarelixum
+marketing_authorisation_holder: Ferring Pharmaceuticals A/S, Denmark
+manufacturer: Ferring GmbH, Germany
+atc_code: L02BX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/504/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/504/001/smpc

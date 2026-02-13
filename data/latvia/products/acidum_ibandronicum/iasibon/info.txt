@@ -1,0 +1,7 @@
+short_name: Iasibon
+active_substance: Acidum ibandronicum
+marketing_authorisation_holder: Pharmathen S.A., Greece
+manufacturer: Pharmathen S.A., Greece; Pharmathen International S.A., Greece
+atc_code: M05BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/659/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/659/001/smpc

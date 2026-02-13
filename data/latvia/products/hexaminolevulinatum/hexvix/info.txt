@@ -1,0 +1,7 @@
+short_name: Hexvix
+active_substance: Hexaminolevulinatum
+marketing_authorisation_holder: PhotoCure ASA, Norway
+manufacturer: PhotoCure ASA, Norway
+atc_code: V04CX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0332/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0332/smpc

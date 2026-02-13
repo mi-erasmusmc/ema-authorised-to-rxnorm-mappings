@@ -1,0 +1,1 @@
+Concentration mismatch. Sialanar is glycopyrronium bromide 320 µg/mL (0.32 MG/ML) while the only RxNorm oral solution is glycopyrrolate 0.2 MG/ML (Cuvposa). Base/salt conversion does not reconcile the difference (0.32 × 318/398 = 0.256, not 0.2). Mapped BROAD to strength-agnostic concept glycopyrronium Oral Solution (999960).

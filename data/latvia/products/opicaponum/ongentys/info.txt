@@ -1,0 +1,7 @@
+short_name: Ongentys
+active_substance: Opicaponum
+marketing_authorisation_holder: Laboratorios Bial - Portela & Ca, S.A., Portugal
+manufacturer: Laboratorios Bial - Portela & Ca, S.A., Portugal
+atc_code: N04BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1066/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1066/001/smpc

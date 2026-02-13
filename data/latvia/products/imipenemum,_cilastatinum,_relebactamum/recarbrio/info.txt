@@ -1,0 +1,7 @@
+short_name: Recarbrio
+active_substance: Imipenemum, Cilastatinum, Relebactamum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Fareva Mirabel, France
+atc_code: J01DH56
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1420/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1420/001/smpc

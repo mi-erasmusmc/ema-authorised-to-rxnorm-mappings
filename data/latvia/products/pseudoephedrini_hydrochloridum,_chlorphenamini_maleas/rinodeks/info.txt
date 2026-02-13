@@ -1,0 +1,7 @@
+short_name: Rinodeks
+active_substance: Pseudoephedrini hydrochloridum, Chlorphenamini maleas
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: AS "Grindeks", Latvia
+atc_code: R01BA52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0466/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0466/smpc

@@ -1,0 +1,7 @@
+short_name: Deferasirox Mylan
+active_substance: Deferasiroxum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Generics [UK] Limited, United Kingdom; Mylan Hungary Kft., Hungary; McDermott Laboratories Limited, t/a Gerard Laboratories, t/a Mylan Dublin, Ireland
+atc_code: V03AC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1386/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1386/001/smpc

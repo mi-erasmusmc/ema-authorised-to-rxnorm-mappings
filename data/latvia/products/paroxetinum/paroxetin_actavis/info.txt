@@ -1,0 +1,7 @@
+short_name: Paroxetin Actavis
+active_substance: Paroxetinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Limited, Malta; Genericon Pharma Ges.m.b.H., Austria; Actavis Nordic A/ S, Denmark
+atc_code: N06AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0459/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0459/smpc

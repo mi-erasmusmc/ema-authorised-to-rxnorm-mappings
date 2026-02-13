@@ -1,0 +1,7 @@
+short_name: Paracetamol B.Braun
+active_substance: Paracetamolum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Medical S.A., Spain
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0052/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0052/smpc

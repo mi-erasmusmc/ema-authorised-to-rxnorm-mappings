@@ -1,0 +1,7 @@
+short_name: Flebogamma DIF
+active_substance: Immunoglobulinum humanum normale
+marketing_authorisation_holder: Instituto Grifols, S.A., Spain
+manufacturer: Instituto Grifols, S.A., Spain
+atc_code: J06BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/404/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/404/001/smpc

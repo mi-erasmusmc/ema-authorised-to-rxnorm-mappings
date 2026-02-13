@@ -1,0 +1,7 @@
+short_name: Topiramat Orion
+active_substance: Topiramatum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland
+atc_code: N03AX11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0283/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0283/smpc

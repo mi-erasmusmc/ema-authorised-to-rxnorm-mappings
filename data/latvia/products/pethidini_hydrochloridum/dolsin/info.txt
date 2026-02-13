@@ -1,0 +1,7 @@
+short_name: Dolsin
+active_substance: Pethidini hydrochloridum
+marketing_authorisation_holder: BB Pharma a.s., Czech Republic
+manufacturer: HBM Pharma s.r.o., Slovakia
+atc_code: N02AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001792/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001792/smpc

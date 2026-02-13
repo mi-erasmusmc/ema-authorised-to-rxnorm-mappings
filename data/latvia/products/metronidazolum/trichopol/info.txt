@@ -1,0 +1,7 @@
+short_name: Trichopol
+active_substance: Metronidazolum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Pharmaceutical Works Polpharma S.A., Poland; Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: P01AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0293/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0293/smpc

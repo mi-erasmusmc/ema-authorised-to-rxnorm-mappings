@@ -1,0 +1,7 @@
+short_name: Lysthenon
+active_substance: Suxamethonii chloridum
+marketing_authorisation_holder: Takeda Austria GmbH, Austria
+manufacturer: Takeda Austria GmbH, Austria
+atc_code: M03AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0023/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0023/smpc

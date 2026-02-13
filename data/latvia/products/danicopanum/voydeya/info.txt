@@ -1,0 +1,7 @@
+short_name: Voydeya
+active_substance: Danicopanum
+marketing_authorisation_holder: Alexion Europe SAS, France
+manufacturer: Alexion Pharma International Operations Unlimited Company, Ireland
+atc_code: L04AJ09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1792/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1792/001/smpc

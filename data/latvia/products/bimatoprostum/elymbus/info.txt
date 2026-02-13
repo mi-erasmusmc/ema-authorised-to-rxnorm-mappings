@@ -1,0 +1,7 @@
+short_name: Elymbus
+active_substance: Bimatoprostum
+marketing_authorisation_holder: Laboratoires THEA, France
+manufacturer: Laboratoire Unither, France; Laboratoires THEA, France
+atc_code: S01EE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0111/smpc

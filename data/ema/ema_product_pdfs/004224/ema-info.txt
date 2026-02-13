@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004224
+Name of medicine: Kisplyx
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lenvatinib
+Active substance: lenvatinib mesilate
+Therapeutic area (MeSH): Carcinoma, Renal Cell
+ATC code (human): L01XE29
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Kisplyx is indicated for the treatment of adults with advanced renal cell carcinoma (RCC):  in combination with pembrolizumab, as first-line treatment (see section 5.1). in combination with everolimus, following one prior vascular endothelial growth factor (VEGF)-targeted therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kisplyx

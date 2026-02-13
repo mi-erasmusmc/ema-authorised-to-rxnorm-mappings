@@ -1,0 +1,7 @@
+short_name: Voltinex
+active_substance: Diclofenacum natricum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Fidia Farmaceutici S.p.A., Italy; Haleon Germany GmbH, Germany
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0056/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0056/smpc

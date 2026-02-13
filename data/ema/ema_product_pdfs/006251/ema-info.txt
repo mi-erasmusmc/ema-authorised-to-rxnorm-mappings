@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006251
+Name of medicine: Dasatinib Accord Healthcare
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dasatinib
+Active substance: Dasatinib monohydrate
+Therapeutic area (MeSH): Precursor Cell Lymphoblastic Leukemia-Lymphoma;Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+ATC code (human): L01EA02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Dasatinib Accord Healthcare is indicated for the treatment of adult patients with:  newly diagnosed Philadelphia chromosome positive (Ph+) chronic myelogenous leukaemia (CML) in the chronic phase. chronic, accelerated or blast phase CML with resistance or intolerance to prior therapy including imatinib. Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance or intolerance to prior therapy.  &nbsp;Dasatinib Accord Healthcare is indicated for the treatment of paediatric patients with:  newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP) or Ph+ CML-CP resistant or intolerant to prior therapy including imatinib. newly diagnosed Ph+ ALL in combination with chemotherapy.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dasatinib-accord-healthcare

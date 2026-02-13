@@ -1,0 +1,7 @@
+short_name: Fingolimod Norameda
+active_substance: Fingolimodum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: L04AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0078/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0078/smpc

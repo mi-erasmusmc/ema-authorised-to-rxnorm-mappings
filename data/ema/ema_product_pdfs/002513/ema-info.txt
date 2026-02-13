@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002513
+Name of medicine: Provenge
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: autologous peripheral-blood mononuclear cells activated with prostatic acid phosphatase granulocyte-macrophage colony-stimulating factor (sipuleucel-T)
+Active substance: autologous peripheral-blood mononuclear cells including a minimum of 50 million autologous CD54+ cells activated with prostatic acid phosphatase granulocyte-macrophage colony-stimulating factor
+Therapeutic area (MeSH): Prostatic Neoplasms
+ATC code (human): L03AX17
+Pharmacotherapeutic group (human): Other immunostimulants
+Therapeutic indication: Provenge is indicated for treatment of asymptomatic or minimally symptomatic metastatic (non-visceral) castrate-resistant prostate cancer in male adults in whom chemotherapy is not yet clinically indicated.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/provenge

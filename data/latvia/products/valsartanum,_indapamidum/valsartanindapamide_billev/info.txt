@@ -1,0 +1,7 @@
+short_name: Valsartan/Indapamide Billev
+active_substance: Valsartanum, Indapamidum
+marketing_authorisation_holder: Billev Farmacija Vzhod d.o.o., Slovenia
+manufacturer: Gedeon Richter Polska Sp.z o.o., Poland
+atc_code: C09DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0312/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0312/smpc

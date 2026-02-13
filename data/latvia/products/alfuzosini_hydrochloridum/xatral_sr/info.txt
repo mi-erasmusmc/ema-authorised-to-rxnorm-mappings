@@ -1,0 +1,7 @@
+short_name: Xatral SR
+active_substance: Alfuzosini hydrochloridum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: SANOFI-AVENTIS Zrt., Hungary; Sanofi Winthrop Industrie, France
+atc_code: G04CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0702/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0702/smpc

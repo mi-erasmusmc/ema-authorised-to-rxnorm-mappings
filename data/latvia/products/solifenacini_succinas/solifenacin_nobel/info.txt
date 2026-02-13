@@ -1,0 +1,7 @@
+short_name: Solifenacin NOBEL
+active_substance: Solifenacini succinas
+marketing_authorisation_holder: Nobel L., UAB, Lithuania
+manufacturer: Nobel Pharma Ltd., Bulgaria
+atc_code: G04BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0202/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0202/smpc

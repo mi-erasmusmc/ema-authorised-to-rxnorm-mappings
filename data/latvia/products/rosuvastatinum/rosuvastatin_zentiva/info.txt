@@ -1,0 +1,7 @@
+short_name: Rosuvastatin Zentiva
+active_substance: Rosuvastatinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: C10AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0027/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0027/smpc

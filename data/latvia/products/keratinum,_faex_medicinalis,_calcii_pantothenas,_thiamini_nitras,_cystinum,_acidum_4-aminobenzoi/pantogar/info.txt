@@ -1,0 +1,7 @@
+short_name: Pantogar
+active_substance: Keratinum, Faex medicinalis, Calcii pantothenas, Thiamini nitras, Cystinum, Acidum 4-aminobenzoicum
+marketing_authorisation_holder: Merz Pharmaceuticals GmbH, Germany
+manufacturer: Merz Pharma GmbH & Co. KgaA, Germany
+atc_code: A11JC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0188/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0188/smpc

@@ -1,0 +1,7 @@
+short_name: Glucosamine Pharma Nord
+active_substance: Glucosaminum
+marketing_authorisation_holder: Pharma Nord ApS, Denmark
+manufacturer: Pharma Nord ApS, Denmark
+atc_code: M01AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0464/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0464/smpc

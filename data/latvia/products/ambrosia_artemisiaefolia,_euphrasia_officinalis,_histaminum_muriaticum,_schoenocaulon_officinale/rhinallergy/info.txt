@@ -1,0 +1,7 @@
+short_name: Rhinallergy
+active_substance: Ambrosia artemisiaefolia, Euphrasia officinalis, Histaminum muriaticum, Schoenocaulon officinale, Solidago virgaurea, Allium cepa
+marketing_authorisation_holder: Boiron, France
+manufacturer: Lab. BOIRON, France
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0246/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0246/smpc

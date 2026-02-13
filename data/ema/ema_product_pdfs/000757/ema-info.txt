@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000757
+Name of medicine: Altargo
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: retapamulin
+Active substance: retapamulin
+Therapeutic area (MeSH): Impetigo;Staphylococcal Skin Infections
+ATC code (human): D06AX13
+Pharmacotherapeutic group (human): Antibiotics and chemotherapeutics for dermatological use
+Therapeutic indication: Short term treatment of the following superficial skin infections:  impetigo; infected small lacerations, abrasions or sutured wounds.  See sections 4.4 and 5.1 for important information regarding the clinical activity of retapamulin against different types of Staphylococcus aureus. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/altargo

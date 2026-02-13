@@ -1,0 +1,7 @@
+short_name: Hydrocortisonum PharmaSwiss
+active_substance: Hydrocortisoni acetas
+marketing_authorisation_holder: Bausch Health Ireland Limited, Ireland
+manufacturer: Pharmaceutical Company Jelfa SA, Poland
+atc_code: S01BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0470/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0470/smpc

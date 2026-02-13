@@ -1,0 +1,7 @@
+short_name: Sunitinib Be Pharma
+active_substance: Sunitinibum
+marketing_authorisation_holder: BE Pharma d.o.o., Slovenia
+manufacturer: Tecnimede - Sociedade Tecnico-Medicinal, SA, Portugal
+atc_code: L01EX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0229/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0229/smpc

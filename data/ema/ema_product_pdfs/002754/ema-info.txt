@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002754
+Name of medicine: Triumeq
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: abacavir;dolutegravir;lamivudine
+Active substance: dolutegravir sodium;lamivudine;abacavir (as sulfate)
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR13
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Triumeq is indicated for the treatment of Human Immunodeficiency Virus type 1 (HIV-1) infected children of at least 3 months of age weighing at least 6 kg to less than 25 kg (see sections 4.4 and 5.1).&nbsp;Before initiating treatment with abacavir-containing products, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin (see section 4.4). Abacavir should not be used in patients known to carry the HLA-B*5701 allele. Triumeq is indicated for the treatment of Human Immunodeficiency Virus type 1 (HIV-1) infected adults, adolescents and children weighing at least 25 kg (see sections 4.4 and 5.1). Before initiating treatment with abacavir-containing products, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin (see section 4.4). Abacavir should not be used in patients known to carry the HLA-B*5701 allele.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/triumeq

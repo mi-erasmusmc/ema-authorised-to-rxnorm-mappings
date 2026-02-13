@@ -1,0 +1,7 @@
+short_name: SANCUSO
+active_substance: Granisetronum
+marketing_authorisation_holder: Grünenthal GmbH, Germany
+manufacturer: Pharbil Waltrop GmbH, Germany
+atc_code: A04AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/766/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/766/001/smpc

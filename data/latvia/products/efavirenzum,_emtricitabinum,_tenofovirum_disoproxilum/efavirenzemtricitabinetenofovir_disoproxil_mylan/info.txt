@@ -1,0 +1,7 @@
+short_name: Efavirenz/Emtricitabine/Tenofovir disoproxil Mylan
+active_substance: Efavirenzum, Emtricitabinum, Tenofovirum disoproxilum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited t/a Gerard Laboratories t/a Mylan Dublin, Ireland; Mylan Germany GmbH, Germany
+atc_code: J05AR06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1222/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1222/001/smpc

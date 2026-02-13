@@ -1,0 +1,7 @@
+short_name: Escitalopram-Teva
+active_substance: Escitalopramum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Pharmachemie B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland
+atc_code: N06AB10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0173/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0173/smpc

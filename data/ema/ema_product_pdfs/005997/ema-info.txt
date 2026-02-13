@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005997
+Name of medicine: Apexelsin
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: paclitaxel
+Active substance: paclitaxel
+Therapeutic area (MeSH): Breast Neoplasms;Pancreatic Neoplasms;Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01CD01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Apexelsin monotherapy is indicated for the treatment of metastatic breast cancer in adult patients who have failed first-line treatment for metastatic disease and for whom standard, anthracycline containing therapy is not indicated. Apexelsin in combination with gemcitabine is indicated for the first-line treatment of adult patients with metastatic adenocarcinoma of the pancreas. Apexelsin in combination with carboplatin is indicated for the first-line treatment of non-small cell lung cancer in adult patients who are not candidates for potentially curative surgery and/or radiation therapy.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/apexelsin

@@ -1,0 +1,7 @@
+short_name: VEYVONDI
+active_substance: Vonicogum alfa
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B02BD10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1298/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1298/001/smpc

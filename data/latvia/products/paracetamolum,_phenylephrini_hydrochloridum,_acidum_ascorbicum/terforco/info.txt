@@ -1,0 +1,7 @@
+short_name: Terforco
+active_substance: Paracetamolum, Phenylephrini hydrochloridum, Acidum ascorbicum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Haleon Alcala S.A, Spain
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0296/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0296/smpc

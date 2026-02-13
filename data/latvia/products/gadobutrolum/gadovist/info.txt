@@ -1,0 +1,7 @@
+short_name: Gadovist
+active_substance: Gadobutrolum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: V08CA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0070/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0070/smpc

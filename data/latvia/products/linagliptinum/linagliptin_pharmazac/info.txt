@@ -1,0 +1,7 @@
+short_name: Linagliptin Pharmazac
+active_substance: Linagliptinum
+marketing_authorisation_holder: Pharmazac S.A., Greece
+manufacturer: Remedica Ltd., Cyprus; Pharmazac S.A., Greece
+atc_code: A10BH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0284/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0284/smpc

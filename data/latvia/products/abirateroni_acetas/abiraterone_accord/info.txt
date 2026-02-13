@@ -1,0 +1,7 @@
+short_name: Abiraterone Accord
+active_substance: Abirateroni acetas
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain; Pharmadox Healthcare Ltd., Malta; Laboratori Fundacio Dau, Spain; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: L02BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1512/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1512/001/smpc

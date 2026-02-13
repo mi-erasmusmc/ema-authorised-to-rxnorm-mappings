@@ -1,0 +1,7 @@
+short_name: Ibandronic acid ratiopharm
+active_substance: Acidum ibandronicum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany; Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: M05BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0183/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0183/smpc

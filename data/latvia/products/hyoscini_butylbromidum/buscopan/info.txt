@@ -1,0 +1,7 @@
+short_name: Buscopan
+active_substance: Hyoscini butylbromidum
+marketing_authorisation_holder: Mayoly Pharma France, France
+manufacturer: Delpharm Reims, France
+atc_code: A03BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0330/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0330/smpc

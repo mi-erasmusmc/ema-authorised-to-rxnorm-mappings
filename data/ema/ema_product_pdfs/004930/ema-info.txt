@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004930
+Name of medicine: Giapreza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: angiotensin II
+Active substance: angiotensin II acetate
+Therapeutic area (MeSH): Hypotension;Shock
+ATC code (human): C09
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Giapreza is indicated for the treatment of refractory hypotension in adults with septic or other distributive shock who remain hypotensive despite adequate volume restitution and application of catecholamines and other available vasopressor therapies.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/giapreza

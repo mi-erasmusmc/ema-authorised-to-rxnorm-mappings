@@ -1,0 +1,7 @@
+short_name: Icatibant Accord
+active_substance: Icatibantum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: B06AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1567/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1567/001/smpc

@@ -1,0 +1,7 @@
+short_name: Kymbek
+active_substance: Edoxabanum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: PharOS Pharmaceutical Oriented Services Ltd, Greece; PharOS MT Limited, Malta
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0299/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0299/smpc

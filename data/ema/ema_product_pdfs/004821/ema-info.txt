@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004821
+Name of medicine: Isturisa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: osilodrostat
+Active substance: osilodrostat phosphate
+Therapeutic area (MeSH): Cushing Syndrome
+ATC code (human): H02CA02
+Pharmacotherapeutic group (human): Corticosteroids for systemic use
+Therapeutic indication: Isturisa is indicated for the treatment of endogenous Cushing’s syndrome in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/isturisa

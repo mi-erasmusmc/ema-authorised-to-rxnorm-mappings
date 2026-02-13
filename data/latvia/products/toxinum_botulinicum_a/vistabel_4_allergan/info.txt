@@ -1,0 +1,7 @@
+short_name: Vistabel 4 Allergan
+active_substance: Toxinum botulinicum A
+marketing_authorisation_holder: AbbVie, SIA, Latvia
+manufacturer: Allergan Pharmaceuticals Ireland, Ireland; AbbVie Deutschland GmbH & Co. KG, Germany
+atc_code: M03AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0144/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0144/smpc

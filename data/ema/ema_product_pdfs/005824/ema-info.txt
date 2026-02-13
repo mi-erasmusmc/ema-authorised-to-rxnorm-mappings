@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005824
+Name of medicine: Rystiggo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rozanolixizumab
+Active substance: rozanolixizumab
+Therapeutic area (MeSH): Myasthenia Gravis
+ATC code (human): L04AL02
+Pharmacotherapeutic group (human): Immunosuppressants;neonatal fragment crystallizable receptor (FcRn) inhibitors
+Therapeutic indication: Rystiggo is indicated as an add-on to standard therapy for the treatment of generalised myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) or anti-muscle-specific tyrosine kinase (MuSK) antibody positive.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rystiggo

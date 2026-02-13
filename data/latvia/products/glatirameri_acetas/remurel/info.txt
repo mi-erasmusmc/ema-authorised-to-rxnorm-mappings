@@ -1,0 +1,7 @@
+short_name: Remurel
+active_substance: Glatirameri acetas
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: L03AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0080/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0080/smpc

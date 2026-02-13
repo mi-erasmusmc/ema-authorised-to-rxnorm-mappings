@@ -1,0 +1,7 @@
+short_name: Abatixent
+active_substance: Apixabanum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Lek S.A., Poland
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0042/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0042/smpc

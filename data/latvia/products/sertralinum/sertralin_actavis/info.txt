@@ -1,0 +1,7 @@
+short_name: Sertralin Actavis
+active_substance: Sertralinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharma, S.L.U., Spain
+atc_code: N06AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0026/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0026/smpc

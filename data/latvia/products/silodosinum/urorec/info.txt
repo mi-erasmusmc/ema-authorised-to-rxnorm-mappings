@@ -1,0 +1,7 @@
+short_name: Urorec
+active_substance: Silodosinum
+marketing_authorisation_holder: Recordati Ireland Limited, Ireland
+manufacturer: Laboratoires Bouchara-Recordati, France; Recordati Industria Chimica e Farmaceutica S.p.A., Italy
+atc_code: G04CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/608/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/608/001/smpc

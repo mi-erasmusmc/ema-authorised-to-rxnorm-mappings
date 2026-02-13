@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004412
+Name of medicine: Duzallo
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: allopurinol;lesinurad
+Active substance: allopurinol;lesinurad
+Therapeutic area (MeSH): Gout
+ATC code (human): M04AA51
+Pharmacotherapeutic group (human): Antigout preparations
+Therapeutic indication: Duzallo is indicated in adults for the treatment of hyperuricaemia in gout patients who have not achieved target serum uric acid levels with an adequate dose of allopurinol alone.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/duzallo

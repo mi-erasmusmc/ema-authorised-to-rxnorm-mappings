@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004786
+Name of medicine: Inbrija
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: levodopa
+Active substance: levodopa
+Therapeutic area (MeSH): Parkinson Disease
+ATC code (human): N04BA01
+Pharmacotherapeutic group (human): Anti-Parkinson drugs
+Therapeutic indication: Inbrija is indicated for the intermittent treatment of episodic motor fluctuations (OFF episodes) in adult patients with Parkinson’s disease (PD) treated with a levodopa/dopa-decarboxylase inhibitor.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inbrija

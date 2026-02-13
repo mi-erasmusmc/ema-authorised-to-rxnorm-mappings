@@ -1,0 +1,7 @@
+short_name: Milgamma
+active_substance: Benfotiaminum, Cyanocobalaminum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Mauermann Arzneimittel KG, Germany
+atc_code: A11DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0005/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0005/smpc

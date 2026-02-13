@@ -1,0 +1,7 @@
+short_name: Clindamycin-MIP
+active_substance: Clindamycinum
+marketing_authorisation_holder: MIP Pharma GmbH, Germany
+manufacturer: Chephasaar Chem.-pharm. Fabrik GmbH, Germany
+atc_code: J01FF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0023/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0023/smpc

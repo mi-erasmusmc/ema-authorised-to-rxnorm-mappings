@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002605
+Name of medicine: Ecansya (previously Capecitabine Krka)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: capecitabine
+Active substance: capecitabine
+Therapeutic area (MeSH): Colonic Neoplasms;Breast Neoplasms;Colorectal Neoplasms;Stomach Neoplasms
+ATC code (human): L01BC06
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Ecansya is indicated for the adjuvant treatment of patients following surgery of stage-III (Dukes’ stage-C) colon cancer. Ecansya is indicated for the treatment of metastatic colorectal cancer. Ecansya is indicated for first-line treatment of advanced gastric cancer in combination with a platinum-based regimen. Ecansya in combination with docetaxel is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy. Previous therapy should have included an anthracycline. Ecansya is also indicated as monotherapy for the treatment of patients with locally advanced or metastatic breast cancer after failure of taxanes and an anthracycline containing chemotherapy regimen or for whom further anthracycline therapy is not indicated.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ecansya

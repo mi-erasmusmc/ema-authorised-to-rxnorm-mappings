@@ -1,0 +1,7 @@
+short_name: Sildenafil G.L. Pharma
+active_substance: Sildenafilum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: G04BE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0051/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0051/smpc

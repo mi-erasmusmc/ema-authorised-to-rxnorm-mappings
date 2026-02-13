@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005476
+Name of medicine: Lyfnua
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: gefapixant
+Active substance: gefapixant
+Therapeutic area (MeSH): Cough
+ATC code (human): R05DB29
+Pharmacotherapeutic group (human): Cough and cold preparations
+Therapeutic indication: Lyfnua is indicated in adults for the treatment of refractory or unexplained chronic cough.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lyfnua

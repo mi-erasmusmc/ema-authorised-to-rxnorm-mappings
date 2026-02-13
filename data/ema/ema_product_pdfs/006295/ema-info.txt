@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006295
+Name of medicine: Wainzua
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: eplontersen
+Active substance: eplontersen sodium
+Therapeutic area (MeSH): Amyloid Neuropathies, Familial
+ATC code (human): N07XX21
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Treatment of hereditary transthyretin-mediated amyloidosis (ATTRv) in adult patients with stage 1 or stage 2 polyneuropathy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/wainzua

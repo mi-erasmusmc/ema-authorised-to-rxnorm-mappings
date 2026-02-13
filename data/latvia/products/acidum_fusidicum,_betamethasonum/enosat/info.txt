@@ -1,0 +1,7 @@
+short_name: Enosat
+active_substance: Acidum fusidicum, Betamethasonum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Kymos, S.L., Spain
+atc_code: D07CC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0172/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0172/smpc

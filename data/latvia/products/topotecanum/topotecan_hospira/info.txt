@@ -1,0 +1,7 @@
+short_name: Topotecan Hospira
+active_substance: Topotecanum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Hospira UK Limited, United Kingdom; Hospira Enterprises B.V., Netherlands; Pfizer Service Company BVBA, Belgium
+atc_code: L01CE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/633/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/633/001/smpc

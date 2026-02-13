@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003756
+Name of medicine: Jylamvo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: methotrexate
+Active substance: methotrexate
+Therapeutic area (MeSH): Arthritis, Psoriatic;Precursor Cell Lymphoblastic Leukemia-Lymphoma;Psoriasis;Arthritis, Rheumatoid;Arthritis
+ATC code (human): L04AX03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: In rheumatological and dermatological diseases  Active rheumatoid arthritis in adult patients. Polyarthritic forms of active, severe juvenile idiopathic arthritis (JIA) in adolescents and children aged 3 years and over when the response to non-steroidal anti-inflammatory drugs (NSAIDs) has been inadequate. Severe, treatment-refractory, disabling psoriasis which does not respond sufficiently to other forms of treatment such as phototherapy, psoralen and ultraviolet A radiation (PUVA) therapy and retinoids, and severe psoriatic arthritis in adult patients.  In oncology  Maintenance treatment of acute lymphoblastic leukaemia (ALL) in adults, adolescents and children aged 3 years and over.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/jylamvo

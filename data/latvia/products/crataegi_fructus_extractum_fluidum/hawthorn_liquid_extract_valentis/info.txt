@@ -1,0 +1,7 @@
+short_name: Hawthorn Liquid Extract Valentis
+active_substance: Crataegi fructus extractum fluidum
+marketing_authorisation_holder: UAB Valentis, Lithuania
+manufacturer: UAB Valentis, Lithuania
+atc_code: C01EB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0241/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0241/smpc

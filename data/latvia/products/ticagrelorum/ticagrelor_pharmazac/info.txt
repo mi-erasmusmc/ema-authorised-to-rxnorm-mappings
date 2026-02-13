@@ -1,0 +1,7 @@
+short_name: Ticagrelor Pharmazac
+active_substance: Ticagrelorum
+marketing_authorisation_holder: Pharmazac S.A., Greece
+manufacturer: Remedica Ltd., Cyprus; Pharmazac S.A., Greece
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0112/smpc

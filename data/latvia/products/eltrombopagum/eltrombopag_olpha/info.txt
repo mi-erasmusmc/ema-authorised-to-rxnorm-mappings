@@ -1,0 +1,7 @@
+short_name: Eltrombopag Olpha
+active_substance: Eltrombopagum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: B02BX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0028/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0028/smpc

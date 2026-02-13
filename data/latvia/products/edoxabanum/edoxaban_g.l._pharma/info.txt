@@ -1,0 +1,7 @@
+short_name: Edoxaban G.L. Pharma
+active_substance: Edoxabanum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain; Synthon s.r.o., Czech Republic
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0244/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0244/smpc

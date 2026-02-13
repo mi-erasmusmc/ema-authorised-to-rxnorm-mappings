@@ -1,0 +1,7 @@
+short_name: Trimetop
+active_substance: Trimethoprimum
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: J01EA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0557/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0557/smpc

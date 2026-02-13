@@ -1,0 +1,7 @@
+short_name: Noxafil
+active_substance: Posaconazolum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: N.V. Organon, Netherlands; Schering-Plough Labo NV, Belgium; Cenexi HSC, France
+atc_code: J02AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/320/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/320/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000267
+Name of medicine: Azopt
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: brinzolamide
+Active substance: brinzolamide
+Therapeutic area (MeSH): Glaucoma, Open-Angle;Ocular Hypertension
+ATC code (human): S01EC04
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Azopt is indicated to decrease elevated intraocular pressure in:  ocular hypertension; open-angle glaucomaas monotherapy in adult patients unresponsive to beta-blockers or in adult patients in whom beta-blockers are contraindicated, or as adjunctive therapy to beta-blockers or prostaglandin analogues.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/azopt

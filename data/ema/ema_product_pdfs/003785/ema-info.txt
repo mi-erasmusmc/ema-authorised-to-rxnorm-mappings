@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003785
+Name of medicine: Tenkasi (previously Orbactiv)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: oritavancin
+Active substance: oritavancin (diphosphate)
+Therapeutic area (MeSH): Soft Tissue Infections;Skin Diseases, Bacterial
+ATC code (human): J01XA05
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Tenkasi is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults and paediatric patients aged 3 months and older (see sections 4.2, 4.4 and 5.1). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tenkasi

@@ -1,0 +1,7 @@
+short_name: Valganciclovir Accord
+active_substance: Valganciclovirum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Pharmadox Healthcare Ltd., Malta; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: J05AB14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0079/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0079/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000426
+Name of medicine: Ambirix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
+Active substance: hepatitis A virus (inactivated);hepatitis B surface antigen
+Therapeutic area (MeSH): Hepatitis B;Hepatitis A;Immunization
+ATC code (human): J07BC20
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Ambirix is for use in non-immune persons from one year up to and including 15 years of age for protection against hepatitis-A and hepatitis-B infection. Protection against hepatitis-B infections may not be obtained until after the second dose. Therefore:  Ambirix should be used only when there is a relatively low risk of hepatitis-B infection during the vaccination course; it is recommended that Ambirix should be administered in settings where completion of the two-dose vaccination course can be assured.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ambirix

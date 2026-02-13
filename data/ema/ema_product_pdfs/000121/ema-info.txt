@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000121
+Name of medicine: Vistide
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: cidofovir
+Active substance: cidofovir
+Therapeutic area (MeSH): Cytomegalovirus Retinitis
+ATC code (human): J05AB12
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Vistide is indicated for the treatment of cytomegalovirus retinitis in patients with acquired immunodeficiency syndrome (AIDS) and without renal dysfunction. Vistide should be used only when other agents are considered unsuitable.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vistide

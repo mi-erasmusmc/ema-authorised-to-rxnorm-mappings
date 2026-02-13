@@ -1,0 +1,7 @@
+short_name: Streptusol
+active_substance: Sisymbrii herbae extractum siccum
+marketing_authorisation_holder: Reckitt Benckiser (Poland) S.A., Poland
+manufacturer: Bolder Arzneimittel GmbH & Co. KG, Germany
+atc_code: R02A
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0204/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0204/smpc

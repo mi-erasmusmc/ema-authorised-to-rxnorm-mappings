@@ -1,0 +1,7 @@
+short_name: Tazepam
+active_substance: Oxazepamum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+atc_code: N05BA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0447/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0447/smpc

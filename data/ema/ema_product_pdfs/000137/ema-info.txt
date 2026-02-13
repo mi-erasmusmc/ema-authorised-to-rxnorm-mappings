@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000137
+Name of medicine: Teslascan
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: mangafodipir
+Active substance: mangafodipir trisodium
+Therapeutic area (MeSH): Magnetic Resonance Imaging
+ATC code (human): V08CA05
+Pharmacotherapeutic group (human): Contrast media
+Therapeutic indication: This medicinal product is for diagnostic use only. Contrast medium for diagnostic magnetic resonance imaging (MRI) for the detection of lesions of the liver suspected to be due to metastatic disease or hepatocellular carcinomas. As an adjunct to MRI to aid in the investigation of focal pancreatic lesions.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/teslascan

@@ -1,0 +1,7 @@
+short_name: Diflucan
+active_substance: Fluconazolum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Fareva Amboise, France
+atc_code: J02AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0251/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0251/smpc

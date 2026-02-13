@@ -1,0 +1,7 @@
+short_name: Sulfasalazine Krka
+active_substance: Sulfasalazinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: A07EC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0052/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0052/smpc

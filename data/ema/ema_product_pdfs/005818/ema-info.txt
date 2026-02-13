@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005818
+Name of medicine: Uplizna
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: inebilizumab
+Active substance: inebilizumab
+Therapeutic area (MeSH): Neuromyelitis Optica
+ATC code (human): L04AA
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Uplizna is indicated as monotherapy for the treatment of adult patients with neuromyelitis optica spectrum disorders (NMOSD) who are anti-aquaporin 4 immunoglobulin G (AQP4-IgG) seropositive (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/uplizna

@@ -1,0 +1,7 @@
+short_name: Fluanxol Depot
+active_substance: Flupentixoli decanoas
+marketing_authorisation_holder: H. Lundbeck A/S, Denmark
+manufacturer: H. Lundbeck A/S, Denmark
+atc_code: N05AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0794/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0794/smpc

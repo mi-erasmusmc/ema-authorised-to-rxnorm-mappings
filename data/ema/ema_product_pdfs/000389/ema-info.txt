@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000389
+Name of medicine: Invanz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ertapenem
+Active substance: ertapenem sodium
+Therapeutic area (MeSH): Community-Acquired Infections;Streptococcal Infections;Staphylococcal Infections;Gram-Negative Bacterial Infections;Surgical Wound Infection;Pneumonia, Bacterial
+ATC code (human): J01DH03
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Treatment Treatment of the following infections when caused by bacteria known or very likely to be susceptible to ertapenem and when parenteral therapy is required:  intra-abdominal infections; community-acquired pneumonia; acute gynaecological infections; diabetic foot infections of the skin and soft tissue.  Prevention Invanz is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/invanz

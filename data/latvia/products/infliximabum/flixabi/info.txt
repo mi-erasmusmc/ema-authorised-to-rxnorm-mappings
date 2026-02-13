@@ -1,0 +1,7 @@
+short_name: Flixabi
+active_substance: Infliximabum
+marketing_authorisation_holder: Samsung Bioepis NL B.V., Netherlands
+manufacturer: Biogen Manufacturing ApS, Denmark
+atc_code: L04AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1106/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1106/001/smpc

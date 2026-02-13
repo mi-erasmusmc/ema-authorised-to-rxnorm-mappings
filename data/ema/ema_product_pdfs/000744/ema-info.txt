@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000744
+Name of medicine: Gliolan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: 5-aminolevulinic acid hydrochloride
+Active substance: 5-aminolevulinic acid hydrochloride
+Therapeutic area (MeSH): Glioma
+ATC code (human): L01XD04
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Gliolan is indicated in adult patients for visualisation of malignant tissue during surgery for malignant glioma (World Health Organization grade III and IV).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gliolan

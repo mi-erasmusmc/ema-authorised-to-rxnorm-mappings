@@ -1,0 +1,7 @@
+short_name: Fulvestrant ALIUD
+active_substance: Fulvestrantum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: KeVaRo Group Ltd., Bulgaria; Stada Arzneimittel AG, Germany
+atc_code: L02BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0252/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0252/smpc

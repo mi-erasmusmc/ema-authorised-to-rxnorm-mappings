@@ -1,0 +1,7 @@
+short_name: Temozolomide Teva
+active_substance: Temozolomidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: NerPharMa S.R.L., Italy; Haupt Pharma Amareg GmbH, Germany; Pharmachemie B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland
+atc_code: L01AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/606/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/606/001/smpc

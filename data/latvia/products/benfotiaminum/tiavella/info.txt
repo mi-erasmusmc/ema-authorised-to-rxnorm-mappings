@@ -1,0 +1,7 @@
+short_name: Tiavella
+active_substance: Benfotiaminum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: A11DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0127/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0127/smpc

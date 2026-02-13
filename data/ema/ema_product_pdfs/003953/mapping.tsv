@@ -1,0 +1,3 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/14/950/001	42902748	budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1359861	BROAD	Strength matches (160 MCG=0.16 MG, 4.5 MCG=0.0045 MG) but EMA product is inhalation powder (DPI) while RxNorm concept is MDI		2026-02-12
+EU/1/14/950/002	40142910	budesonide / formoterol Metered Dose Inhaler	745797	BROAD	No RxNorm concept for 320/9 MCG strength; mapped to form-level combination concept; dose form also differs (DPI vs MDI)		2026-02-12

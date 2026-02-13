@@ -1,0 +1,7 @@
+short_name: Aquipta
+active_substance: Atogepantum
+marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG, Germany
+manufacturer: AbbVie S.r.l., Italy
+atc_code: N02CD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1750/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1750/001/smpc

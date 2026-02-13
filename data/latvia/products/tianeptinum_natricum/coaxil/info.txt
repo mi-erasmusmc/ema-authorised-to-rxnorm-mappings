@@ -1,0 +1,7 @@
+short_name: Coaxil
+active_substance: Tianeptinum natricum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France
+atc_code: N06AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0384/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0384/smpc

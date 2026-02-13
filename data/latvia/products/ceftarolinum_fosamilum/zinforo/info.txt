@@ -1,0 +1,7 @@
+short_name: Zinforo
+active_substance: Ceftarolinum fosamilum
+marketing_authorisation_holder: Pfizer Ireland Pharmaceuticals, Ireland
+manufacturer: ACS Dobfar S.P.A., Italy
+atc_code: J01DI02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/785/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/785/001/smpc

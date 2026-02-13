@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004140
+Name of medicine: SomaKit TOC
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: edotreotide
+Active substance: edotreotide
+Therapeutic area (MeSH): Neuroendocrine Tumors;Radionuclide Imaging
+ATC code (human): V09IX
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: This medicinal product is for diagnostic use only. After radiolabelling with gallium (68Ga) chloride solution, the solution of gallium (68Ga) edotreotide obtained is indicated for Positron Emission Tomography (PET) imaging of somatostatin receptor overexpression in adult patients with confirmed or suspected well-differentiated gastro-enteropancreatic neuroendocrine tumours (GEP-NET) for localizing primary tumours and their metastases.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/somakit-toc

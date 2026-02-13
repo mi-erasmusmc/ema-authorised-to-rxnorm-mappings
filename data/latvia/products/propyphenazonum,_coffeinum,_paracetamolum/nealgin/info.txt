@@ -1,0 +1,7 @@
+short_name: Nealgin
+active_substance: Propyphenazonum, Coffeinum, Paracetamolum
+marketing_authorisation_holder: Stirolbiofarm Baltikum, SIA, Latvia
+manufacturer: Marifarm d.o.o., Slovenia
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0650/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0650/smpc

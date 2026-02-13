@@ -1,0 +1,7 @@
+short_name: Accofil
+active_substance: Filgrastimum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare Ltd, United Kingdom; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: L03AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/946/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/946/001/smpc

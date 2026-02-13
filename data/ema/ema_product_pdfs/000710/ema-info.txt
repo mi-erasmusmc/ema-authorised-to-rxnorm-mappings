@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000710
+Name of medicine: Focetria
+Medicine status: Expired
+International non-proprietary name (INN) / common name: influenza vaccine H1N1v (surface antigen, inactivated, adjuvanted)
+Active substance: Influenza virus surface antigens (haemagglutinin and neuraminidase) of strain: A/California/7/2009 (H1N1)-derived strain used NYMC X-181
+Therapeutic area (MeSH): Influenza, Human;Immunization;Disease Outbreaks
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Influenza vaccines
+Therapeutic indication: Prophylaxis of influenza caused by A (H1N1v) 2009 virus. Focetria should be used in accordance with official guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/focetria

@@ -1,0 +1,7 @@
+short_name: Kapidin
+active_substance: Lercanidipini hydrochloridum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Limited, Malta; Zentiva, k.s., Czech Republic
+atc_code: C08CA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0142/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0142/smpc

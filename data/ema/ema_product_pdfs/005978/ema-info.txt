@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005978
+Name of medicine: Awiqli
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin icodec
+Active substance: insulin icodec
+Therapeutic area (MeSH): Diabetes Mellitus;Diabetes Mellitus, Type 2
+ATC code (human): A10AE07
+Pharmacotherapeutic group (human): Insulins and analogues for injection, long-acting
+Therapeutic indication: Treatment of diabetes mellitus in adults
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/awiqli

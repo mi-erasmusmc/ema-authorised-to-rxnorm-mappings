@@ -1,0 +1,7 @@
+short_name: Bronchipret TI
+active_substance: Thymi herbae extractum fluidum, Hederae helicis folii extractum fluidum
+marketing_authorisation_holder: Bionorica SE, Germany
+manufacturer: Bionorica SE, Germany
+atc_code: R05CA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0497/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0497/smpc

@@ -1,0 +1,7 @@
+short_name: Abiraterone G.L. Pharma
+active_substance: Abirateroni acetas
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain; G.L. Pharma GmbH, Austria
+atc_code: L02BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0059/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0059/smpc

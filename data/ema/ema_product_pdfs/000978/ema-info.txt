@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000978
+Name of medicine: Vidaza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: azacitidine
+Active substance: azacitidine
+Therapeutic area (MeSH): Myelodysplastic Syndromes;Leukemia, Myelomonocytic, Chronic;Leukemia, Myeloid, Acute
+ATC code (human): L01BC07
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Vidaza is indicated for the treatment of adult patients who are not eligible for haematopoietic stem cell transplantation (HSCT) with:&nbsp;  intermediate 2 and high-risk myelodysplastic syndromes (MDS) according to the International Prognostic Scoring System (IPSS), chronic myelomonocytic leukaemia (CMML) with 10 29 % marrow blasts without myeloproliferative disorder, acute myeloid leukaemia (AML) with 20 30 % blasts and multi-lineage dysplasia, according to World Health Organisation (WHO) classification.  Vidaza is indicated for the treatment of adult patients aged 65 years or older who are not eligible for HSCT with AML with &gt;30% marrow blasts according to the WHO classification.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vidaza

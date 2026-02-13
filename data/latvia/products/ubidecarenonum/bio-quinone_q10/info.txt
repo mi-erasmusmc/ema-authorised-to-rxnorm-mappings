@@ -1,0 +1,7 @@
+short_name: Bio-Quinone Q10
+active_substance: Ubidecarenonum
+marketing_authorisation_holder: Pharma Nord ApS, Denmark
+manufacturer: Pharma Nord ApS, Denmark
+atc_code: C01EB09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0138/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0138/smpc

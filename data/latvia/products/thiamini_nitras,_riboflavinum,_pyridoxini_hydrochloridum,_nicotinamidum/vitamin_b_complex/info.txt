@@ -1,0 +1,7 @@
+short_name: Vitamin B complex
+active_substance: Thiamini nitras, Riboflavinum, Pyridoxini hydrochloridum, Nicotinamidum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: A11EX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0101/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0101/smpc

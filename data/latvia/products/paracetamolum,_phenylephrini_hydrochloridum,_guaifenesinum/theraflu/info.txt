@@ -1,0 +1,7 @@
+short_name: Theraflu
+active_substance: Paracetamolum, Phenylephrini hydrochloridum, Guaifenesinum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Haleon Germany GmbH, Germany
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0072/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0072/smpc

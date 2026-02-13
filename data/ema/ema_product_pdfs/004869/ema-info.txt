@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004869
+Name of medicine: Oxbryta
+Medicine status: Suspended
+International non-proprietary name (INN) / common name: voxelotor
+Active substance: voxelotor
+Therapeutic area (MeSH): Anemia;Anemia, Hemolytic;Anemia, Sickle Cell
+ATC code (human): B06AX03
+Pharmacotherapeutic group (human): Other hematological agents
+Therapeutic indication: Oxbryta is indicated for the treatment of haemolytic anaemia due to sickle cell disease (SCD) in adults and paediatric patients 12 years of age and older as monotherapy or in combination with hydroxycarbamide.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/oxbryta

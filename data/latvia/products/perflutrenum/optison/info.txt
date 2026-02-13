@@ -1,0 +1,7 @@
+short_name: Optison
+active_substance: Perflutrenum
+marketing_authorisation_holder: GE Healthcare AS, Norway
+manufacturer: GE Healthcare AS, Norway
+atc_code: V08DA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/065/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/065/001/smpc

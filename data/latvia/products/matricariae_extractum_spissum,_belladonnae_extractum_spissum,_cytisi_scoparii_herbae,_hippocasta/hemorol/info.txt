@@ -1,0 +1,7 @@
+short_name: Hemorol
+active_substance: Matricariae extractum spissum, Belladonnae extractum spissum, Cytisi scoparii herbae, Hippocastani corticis, Tormetillae rhizomae, Millefolii herbae extractum spissum compositum, Benzocainum
+marketing_authorisation_holder: Wroclawskie Zaklady Zielarskie Herbapol S.A., Poland
+manufacturer: Wroclawskie Zaklady Zielarskie "Herbapol" S.A., Poland
+atc_code: C05AD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0546/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0546/smpc

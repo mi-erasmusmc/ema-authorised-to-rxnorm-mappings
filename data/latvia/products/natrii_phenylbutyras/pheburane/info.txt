@@ -1,0 +1,7 @@
+short_name: Pheburane
+active_substance: Natrii phenylbutyras
+marketing_authorisation_holder: Eurocept International BV, Netherlands
+manufacturer: Lucane Pharma, France; Eurocept International BV, Netherlands
+atc_code: A16AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/822/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/822/001/smpc

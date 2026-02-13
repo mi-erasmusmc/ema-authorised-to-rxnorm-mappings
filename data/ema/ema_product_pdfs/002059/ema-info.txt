@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002059
+Name of medicine: Komboglyze
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: saxagliptin;metformin hydrochloride
+Active substance: metformin hydrochloride;saxagliptin hydrochloride
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BD10
+Pharmacotherapeutic group (human): Drugs used in diabetes;Combinations of oral blood glucose lowering drugs
+Therapeutic indication: Komboglyze is indicated as an adjunct to diet and exercise to improve glycaemic control in adult patients aged 18 years and older with type-2 diabetes mellitus inadequately controlled on their maximally tolerated dose of metformin alone or those already being treated with the combination of saxagliptin and metformin as separate tablets. Komboglyze is also indicated in combination with insulin (i.e. triple combination therapy) as an adjunct to diet and exercise to improve glycaemic control in adult patients aged 18 years and older with type-2 diabetes mellitus when insulin and metformin alone do not provide adequate glycaemic control.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/komboglyze

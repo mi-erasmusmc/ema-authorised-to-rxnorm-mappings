@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000150
+Name of medicine: Quadramet
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: samarium [153Sm] lexidronam pentasodium
+Active substance: samarium (153Sm) lexidronam pentasodium
+Therapeutic area (MeSH): Pain;Cancer
+ATC code (human): V10BX02
+Pharmacotherapeutic group (human): Therapeutic radiopharmaceuticals
+Therapeutic indication: Quadramet is indicated for the relief of bone pain in patients with multiple painful osteoblastic skeletal metastases which take up technetium [99mTc]-labelled biphosphonates on bone scan. The presence of osteoblastic metastases which take up technetium [99mTc]-labelled biphosphonates should be confirmed prior to therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/quadramet

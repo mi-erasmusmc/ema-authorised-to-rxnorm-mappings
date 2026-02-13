@@ -1,0 +1,7 @@
+short_name: Xgeva
+active_substance: Denosumabum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen Europe B.V., Netherlands; Amgen Technology (Ireland) Unlimited Company, Ireland; Amgen NV, Belgium
+atc_code: M05BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/703/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/703/001/smpc

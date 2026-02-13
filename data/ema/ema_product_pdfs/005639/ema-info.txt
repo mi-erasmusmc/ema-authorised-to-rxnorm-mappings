@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005639
+Name of medicine: Dabigatran Etexilate Accord
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dabigatran etexilate
+Active substance: dabigatran etexilate mesilate
+Therapeutic area (MeSH): Venous Thromboembolism;Arthroplasty, Replacement
+ATC code (human): B01AE07
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Prevention of venous thromboembolic events
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dabigatran-etexilate-accord

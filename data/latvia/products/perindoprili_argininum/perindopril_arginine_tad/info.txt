@@ -1,0 +1,7 @@
+short_name: Perindopril arginine TAD
+active_substance: Perindoprili argininum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C09AA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0170/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0170/smpc

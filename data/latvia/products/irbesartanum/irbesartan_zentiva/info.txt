@@ -1,0 +1,7 @@
+short_name: Irbesartan Zentiva
+active_substance: Irbesartanum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Sanofi Winthrop Industrie, France; Chinoin Pharmaceutical and Chemical Works Private Co.Ltd., Hungary; Sanofi-aventis, S.A., Spain; Sanofi Winthrop Industrie, France
+atc_code: C09CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/376/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/376/001/smpc

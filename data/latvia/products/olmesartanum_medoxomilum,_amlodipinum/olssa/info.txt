@@ -1,0 +1,7 @@
+short_name: Olssa
+active_substance: Olmesartanum medoxomilum, Amlodipinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C09DB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0199/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0199/smpc

@@ -1,0 +1,7 @@
+short_name: Somac Control
+active_substance: Pantoprazolum
+marketing_authorisation_holder: Takeda GmbH, Germany
+manufacturer: Takeda GmbH, Germany
+atc_code: A02BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/516/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/516/001/smpc

@@ -1,0 +1,7 @@
+short_name: Byetta
+active_substance: Exenatidum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca UK Limited, United Kingdom; Swords Laboratories T/A Lawrence Laboratories, Ireland; AstraZeneca AB, Sweden
+atc_code: A10BJ01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/362/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/362/001/smpc

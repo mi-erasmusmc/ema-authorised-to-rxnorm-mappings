@@ -1,0 +1,7 @@
+short_name: Kirsty
+active_substance: Insulinum aspartum
+marketing_authorisation_holder: Biosimilar Collaborations Ireland Limited, Ireland
+manufacturer: Biosimilar Collaborations Ireland Limited, Ireland
+atc_code: A10AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1506/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1506/001/smpc

@@ -1,0 +1,7 @@
+short_name: Danengo
+active_substance: Dabigatranum etexilatum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: B01AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0187/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0187/smpc

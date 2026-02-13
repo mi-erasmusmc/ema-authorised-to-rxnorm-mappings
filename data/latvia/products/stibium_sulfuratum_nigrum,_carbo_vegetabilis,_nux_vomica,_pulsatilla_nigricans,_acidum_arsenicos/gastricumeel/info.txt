@@ -1,0 +1,7 @@
+short_name: Gastricumeel
+active_substance: Stibium sulfuratum nigrum, Carbo vegetabilis, Nux vomica, Pulsatilla nigricans, Acidum arsenicosum, Argenti nitras
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0104/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0104/smpc

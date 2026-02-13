@@ -1,0 +1,7 @@
+short_name: Xorafia
+active_substance: Sorafenibum
+marketing_authorisation_holder: LV System Service SIA, Latvia
+manufacturer: Genepharm S.A., Greece; Pharmacare Premium Ltd, Malta
+atc_code: L01EX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0020/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0020/smpc

@@ -1,0 +1,7 @@
+short_name: Rilutek
+active_substance: Riluzolum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Opella Healthcare International SAS, France
+atc_code: N07XX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/010/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/010/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000601
+Name of medicine: Ablavar (previously Vasovist)
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: gadofosveset trisodium
+Active substance: gadofosveset trisodium
+Therapeutic area (MeSH): Magnetic Resonance Angiography
+ATC code (human): V08CA
+Pharmacotherapeutic group (human): Contrast media
+Therapeutic indication: This medicinal product is for diagnostic use only. Ablavar is indicated for contrast-enhanced magnetic resonance angiography (CE-MRA) for visualisation of abdominal or limb vessels in adults only, with suspected or known vascular disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ablavar

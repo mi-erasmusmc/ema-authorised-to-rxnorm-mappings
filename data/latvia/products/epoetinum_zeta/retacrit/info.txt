@@ -1,0 +1,7 @@
+short_name: Retacrit
+active_substance: Epoetinum zeta
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Stada Arzneimittel AG, Germany; Hospira Zagreb d.o.o., Croatia
+atc_code: B03XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/431/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/431/001/smpc

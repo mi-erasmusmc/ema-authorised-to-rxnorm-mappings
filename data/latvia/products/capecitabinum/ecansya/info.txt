@@ -1,0 +1,7 @@
+short_name: Ecansya
+active_substance: Capecitabinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; Accord Healthcare Limited, United Kingdom; Pharmacare Premium Ltd, Malta
+atc_code: L01BC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/763/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/763/001/smpc

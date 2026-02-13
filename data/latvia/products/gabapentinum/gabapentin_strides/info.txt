@@ -1,0 +1,7 @@
+short_name: Gabapentin Strides
+active_substance: Gabapentinum
+marketing_authorisation_holder: Strides Pharma (Cyprus) Limited, Cyprus
+manufacturer: Fairmed Healthcare GmbH, Germany; Santa S.A., Romania
+atc_code: N02BF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0170/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0170/smpc

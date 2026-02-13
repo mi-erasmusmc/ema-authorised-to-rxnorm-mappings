@@ -1,0 +1,7 @@
+short_name: Novynette
+active_substance: Desogestrelum, Ethinylestradiolum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: G03AA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0012/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0012/smpc

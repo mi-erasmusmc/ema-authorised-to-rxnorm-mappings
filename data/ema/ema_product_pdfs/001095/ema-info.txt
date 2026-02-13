@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001095
+Name of medicine: Menveo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: meningococcal group A, C, W-135 and Y conjugate vaccine
+Active substance: meningococcal group A, C, W-135 and Y conjugate vaccine
+Therapeutic area (MeSH): Immunization;Meningitis, Meningococcal
+ATC code (human): J07AH08
+Pharmacotherapeutic group (human): Bacterial vaccines
+Therapeutic indication: Vials Menveo is indicated for active immunisation of children (from two years of age), adolescents and adults at risk of exposure to Neisseria meningitidis groups A, C, W135 and Y, to prevent invasive disease. The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/menveo

@@ -1,0 +1,7 @@
+short_name: Aciloc
+active_substance: Ranitidinum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Unifarma, SIA, Latvia
+atc_code: A02BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0323/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0323/smpc

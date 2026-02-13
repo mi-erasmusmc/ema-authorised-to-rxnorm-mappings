@@ -1,0 +1,7 @@
+short_name: Strepsils Intensive Honey & Lemon
+active_substance: Flurbiprofenum
+marketing_authorisation_holder: Reckitt Benckiser (Poland) S.A., Poland
+manufacturer: RB NL Brands B.V., Netherlands
+atc_code: R02AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0179/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0179/smpc

@@ -1,0 +1,7 @@
+short_name: Neo-angin Halstabletten
+active_substance: Alcohol 2,4-Dichlorobenzylicus, Amylmetacresolum, Levomentholum
+marketing_authorisation_holder: Divapharma GmbH, Germany
+manufacturer: Klosterfrau Berlin GmbH, Germany
+atc_code: R02AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0010/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0010/smpc

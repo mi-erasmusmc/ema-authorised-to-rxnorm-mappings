@@ -1,0 +1,7 @@
+short_name: Duphalac Fruit
+active_substance: Lactulosum
+marketing_authorisation_holder: Cooper Consumer Health B.V., Netherlands
+manufacturer: Abbott Biologicals B.V., Netherlands
+atc_code: A06AD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0375/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0375/smpc

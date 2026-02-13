@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005637
+Name of medicine: Amversio
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: betaine anhydrous
+Active substance: betaine
+Therapeutic area (MeSH): Homocystinuria
+ATC code (human): A16AA06
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Amversio is indicated as adjunctive treatment of homocystinuria, involving deficiencies or defects in:•         cystathionine beta-synthase (CBS),•         5,10 methylene tetrahydrofolate reductase (MTHFR),•         cobalamin cofactor metabolism (cbl).
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/amversio

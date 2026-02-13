@@ -1,0 +1,7 @@
+short_name: Almotriptan Zentiva
+active_substance: Almotriptani malas
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Saneca Pharmaceuticals A.S., Slovakia
+atc_code: N02CC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0101/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0101/smpc

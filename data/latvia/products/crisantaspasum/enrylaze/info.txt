@@ -1,0 +1,7 @@
+short_name: Enrylaze
+active_substance: Crisantaspasum
+marketing_authorisation_holder: Jazz Pharmaceuticals Ireland Ltd, Ireland
+manufacturer: Jazz Pharmaceuticals Ireland Ltd, Ireland
+atc_code: L01XX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1747/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1747/001/smpc

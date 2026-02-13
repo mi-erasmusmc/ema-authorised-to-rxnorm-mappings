@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/19/1364/001	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	EXACT			2025-12-04
+EU/1/19/1364/002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	INCORRECT		prabotulinumtoxinA-xvfs 50 UNT Injection [Nuceiva]	2025-12-04
+EU/1/19/1364/003	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	INCORRECT		prabotulinumtoxinA-xvfs 50 UNT Injection [Nuceiva]	2025-12-04
+EU/1/19/1364/004	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	INCORRECT		prabotulinumtoxinA-xvfs 50 UNT Injection [Nuceiva]	2025-12-04

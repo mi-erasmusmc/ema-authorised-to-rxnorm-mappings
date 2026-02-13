@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000819
+Name of medicine: Opgenra
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: eptotermin alfa
+Active substance: eptotermin alfa
+Therapeutic area (MeSH): Spondylolisthesis
+ATC code (human): M05BC02
+Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
+Therapeutic indication: Opgenra is indicated for posterolateral lumbar spinal fusion in adult patients with spondylolisthesis where autograft has failed or is contra-indicated.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/opgenra

@@ -1,0 +1,7 @@
+short_name: Sontilen
+active_substance: Sufentanilum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Cyprus
+atc_code: N01AH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0184/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0184/smpc

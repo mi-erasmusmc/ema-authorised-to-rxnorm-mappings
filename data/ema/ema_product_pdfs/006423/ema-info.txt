@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006423
+Name of medicine: Deqsiga
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human normal immunoglobulin
+Active substance: human normal immunoglobulin
+Therapeutic area (MeSH): Immunologic Deficiency Syndromes;Purpura, Thrombocytopenic, Idiopathic;Guillain-Barre Syndrome;Mucocutaneous Lymph Node Syndrome;Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
+ATC code (human): J06BA02
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Replacement therapy in adults, children and adolescents (0 to 18 years) in:&nbsp;- Primary immunodeficiency syndromes (PID) with impaired antibody production.&nbsp;&nbsp;- Secondary immunodeficiencies (SID) in patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment and either proven specific antibody failure (PSAF)* or serum IgG level of &lt; 4 g/L.*PSAF = failure to mount at least a 2-fold rise in IgG antibody titre to pneumococcal polysaccharide and polypeptide antigen vaccinesImmunomodulation in adults, children and adolescents (0 to 18 years) in:&nbsp;- Primary immune thrombocytopenia (ITP), in patients at high risk of bleeding or prior to surgery to correct the platelet count.&nbsp;- Guillain Barré syndrome.&nbsp;- Kawasaki disease (in conjunction with acetylsalicylic acid; see section 4.2).&nbsp;- Chronic inflammatory demyelinating polyradiculoneuropathy (CIDP).&nbsp;- Multifocal Motor Neuropathy (MMN).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/deqsiga

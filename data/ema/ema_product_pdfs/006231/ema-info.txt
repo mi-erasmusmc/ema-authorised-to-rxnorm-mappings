@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006231
+Name of medicine: Iqirvo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: elafibranor
+Active substance: Elafibranor
+Therapeutic area (MeSH): Liver Cirrhosis, Biliary
+ATC code (human): A05AX06
+Pharmacotherapeutic group (human): Bile and liver therapy
+Therapeutic indication: Iqirvo is indicated for the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in patients unable to tolerate UDCA.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/iqirvo

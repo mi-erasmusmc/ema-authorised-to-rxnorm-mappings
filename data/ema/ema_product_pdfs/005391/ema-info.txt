@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005391
+Name of medicine: Ogluo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: glucagon
+Active substance: Glucagon
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): H04AA01
+Pharmacotherapeutic group (human): Pancreatic hormones;Glycogenolytic hormones
+Therapeutic indication: Ogluo is indicated for the treatment of severe hypoglycaemia in adults, adolescents, and children aged 2 years and over with diabetes mellitus.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ogluo

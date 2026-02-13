@@ -1,0 +1,7 @@
+short_name: Krufton
+active_substance: Nilotinibum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: PharOS Pharmaceutical Oriented Services Ltd, Greece; PharOS MT Ltd., Malta
+atc_code: L01EA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0181/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0181/smpc

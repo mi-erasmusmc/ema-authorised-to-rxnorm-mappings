@@ -1,0 +1,7 @@
+short_name: Xospata
+active_substance: Gilteritinibum
+marketing_authorisation_holder: Astellas Pharma Europe B.V., Netherlands
+manufacturer: Astellas Pharma Europe B.V., Netherlands
+atc_code: L01EX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1399/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1399/001/smpc

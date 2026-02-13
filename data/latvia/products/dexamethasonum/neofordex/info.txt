@@ -1,0 +1,7 @@
+short_name: Neofordex
+active_substance: Dexamethasonum
+marketing_authorisation_holder: Laboratoires CTRS, France
+manufacturer: Laboratoires CTRS, France; Amatsi, France
+atc_code: H02AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1053/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1053/001/smpc

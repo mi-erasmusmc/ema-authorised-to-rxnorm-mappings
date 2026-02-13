@@ -1,0 +1,7 @@
+short_name: Corvalolum
+active_substance: Aethylii bromisovaleras, Phenobarbitalum, Menthae piperitae aetheroleum
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: N05CB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0568/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0568/smpc

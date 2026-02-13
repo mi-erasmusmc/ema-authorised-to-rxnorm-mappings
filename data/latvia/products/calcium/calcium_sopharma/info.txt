@@ -1,0 +1,7 @@
+short_name: Calcium Sopharma
+active_substance: Calcium
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: A12AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0279/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0279/smpc

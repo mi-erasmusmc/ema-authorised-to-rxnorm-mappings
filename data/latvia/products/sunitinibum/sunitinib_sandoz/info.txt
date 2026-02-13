@@ -1,0 +1,7 @@
+short_name: Sunitinib Sandoz
+active_substance: Sunitinibum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Remedica Ltd., Cyprus
+atc_code: L01EX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0062/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0062/smpc

@@ -1,0 +1,7 @@
+short_name: Ephedrine Sintetica
+active_substance: Ephedrini hydrochloridum
+marketing_authorisation_holder: Sintetica GmbH, Germany
+manufacturer: SIRTON Pharmaceuticals S.p.A, Italy; Sintetica GmbH, Germany
+atc_code: C01CA26
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0087/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0087/smpc

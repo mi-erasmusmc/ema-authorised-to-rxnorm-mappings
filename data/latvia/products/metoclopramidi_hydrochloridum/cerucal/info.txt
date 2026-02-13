@@ -1,0 +1,7 @@
+short_name: Cerucal
+active_substance: Metoclopramidi hydrochloridum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Pliva Hrvatska d.o.o., Croatia; Teva Operations Poland Sp.z o.o., Poland
+atc_code: A03FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0393/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0393/smpc

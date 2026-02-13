@@ -1,0 +1,7 @@
+short_name: GoResp Digihaler
+active_substance: Budesonidum, Formoteroli fumaras dihydricus
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Teva Operations Poland Sp.z o.o., Poland; Norton (Waterford) Limited T/A Teva Pharmaceuticals Ireland, Ireland; Norton (Waterford) Limited, Ireland
+atc_code: R03AK07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1403/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1403/001/smpc

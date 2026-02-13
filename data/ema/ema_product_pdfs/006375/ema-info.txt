@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006375
+Name of medicine: Zoonotic Influenza Vaccine Seqirus
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: zoonotic influenza vaccine (H5N8) (surface antigen, inactivated, adjuvanted)
+Active substance: A/Astrakhan/3212/2020 (H5N8)-like strain (CBER-RG8A) (clade 2.3.4.4b)
+Therapeutic area (MeSH): Influenza A Virus, H5N8 Subtype
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Zoonotic Influenza Vaccine Seqirus H5N8 is indicated for active immunisation against H5 subtype influenza A viruses in individuals 6 months of age and above. The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zoonotic-influenza-vaccine-seqirus

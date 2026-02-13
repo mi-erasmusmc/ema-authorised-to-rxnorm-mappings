@@ -1,0 +1,7 @@
+short_name: Alendronic acid/Colecalciferol Zentiva
+active_substance: Acidum alendronicum, Colecalciferolum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmathen S.A., Greece; Pharmathen International S.A., Greece
+atc_code: M05BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0140/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0140/smpc

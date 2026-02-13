@@ -1,0 +1,7 @@
+short_name: Mycophenolate mofetil Teva
+active_substance: Mycophenolas mofetil
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; Pharmachemie B.V., Netherlands
+atc_code: L04AA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/439/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/439/001/smpc

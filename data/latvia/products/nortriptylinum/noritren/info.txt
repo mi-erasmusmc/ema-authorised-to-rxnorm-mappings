@@ -1,0 +1,7 @@
+short_name: Noritren
+active_substance: Nortriptylinum
+marketing_authorisation_holder: H. Lundbeck A/S, Denmark
+manufacturer: H. Lundbeck A/S, Denmark
+atc_code: N06AA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0577/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0577/smpc

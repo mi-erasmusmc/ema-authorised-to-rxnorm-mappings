@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006304
+Name of medicine: VacPertagen
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pertussis vaccine (recombinant, acellular, component, adsorbed)
+Active substance: recombinant pertussis toxin;filamentous haemagglutinin
+Therapeutic area (MeSH): Whooping Cough;Infections
+ATC code (human): J07AJ02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: VacPertagen is indicated for:&nbsp;- booster immunisation against pertussis of individuals 12 years of age and older,- passive protection against pertussis in early infancy following maternal immunisation during pregnancy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vacpertagen

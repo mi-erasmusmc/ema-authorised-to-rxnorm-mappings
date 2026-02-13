@@ -1,0 +1,7 @@
+short_name: Afstyla
+active_substance: Lonoctocogum alfa
+marketing_authorisation_holder: CSL Behring GmbH, Germany
+manufacturer: CSL Behring GmbH, Germany
+atc_code: B02BD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1158/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1158/001/smpc

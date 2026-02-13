@@ -1,0 +1,7 @@
+short_name: Sitagliptin Olpha
+active_substance: Sitagliptinum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Galenicum Health S.L.U., Spain; SAG Manufacturing, S.L.U., Spain
+atc_code: A10BH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0067/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0067/smpc

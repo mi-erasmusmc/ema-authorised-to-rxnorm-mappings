@@ -1,0 +1,7 @@
+short_name: Medikinet
+active_substance: Methylphenidati hydrochloridum
+marketing_authorisation_holder: Medice Arzneimittel Putter GmbH & Co.KG, Germany
+manufacturer: Medice Arzneimittel Putter GmbH & Co.KG, Germany
+atc_code: N06BA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0447/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0447/smpc

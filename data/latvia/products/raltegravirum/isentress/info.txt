@@ -1,0 +1,7 @@
+short_name: Isentress
+active_substance: Raltegravirum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands
+atc_code: J05AJ01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/436/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/436/001/smpc

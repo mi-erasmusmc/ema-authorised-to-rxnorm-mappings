@@ -1,0 +1,1 @@
+VacPertagen is a standalone recombinant acellular pertussis vaccine with no RxNorm branded concept. Mapped BROAD to generic clinical drug form. EMA lists no specific strength. The RxNorm concept says "Injectable Solution" while EMA says "Suspension for injection" - verify dose form equivalence.

@@ -1,0 +1,7 @@
+short_name: Camzyos
+active_substance: Mavacamtenum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories T/A Bristol-Myers Squibb Pharmaceutical Operations, External Manufacturing, Ireland
+atc_code: C01EB24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1716/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1716/001/smpc

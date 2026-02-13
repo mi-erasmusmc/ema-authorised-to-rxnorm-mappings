@@ -1,0 +1,7 @@
+short_name: Calcium folinate Kalceks
+active_substance: Calcii folinas
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: Kalceks, A/S, Latvia
+atc_code: V03AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0205/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0205/smpc

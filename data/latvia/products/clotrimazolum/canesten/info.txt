@@ -1,0 +1,7 @@
+short_name: Canesten
+active_substance: Clotrimazolum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: GP Grenzach productions GmbH, Germany
+atc_code: G01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0214/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0214/smpc

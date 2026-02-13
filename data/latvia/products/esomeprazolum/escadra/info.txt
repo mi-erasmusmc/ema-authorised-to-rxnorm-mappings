@@ -1,0 +1,7 @@
+short_name: Escadra
+active_substance: Esomeprazolum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: A02BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0133/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0133/smpc

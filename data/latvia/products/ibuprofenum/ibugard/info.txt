@@ -1,0 +1,7 @@
+short_name: Ibugard
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0129/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0129/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004335
+Name of medicine: Dzuveo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sufentanil
+Active substance: sufentanil citrate
+Therapeutic area (MeSH): Pain
+ATC code (human): N01AH03
+Pharmacotherapeutic group (human): Anesthetics
+Therapeutic indication: Dzuveo is indicated for the management of acute moderate to severe pain in adult patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dzuveo

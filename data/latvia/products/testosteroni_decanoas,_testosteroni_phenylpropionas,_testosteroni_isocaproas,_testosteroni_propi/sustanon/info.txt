@@ -1,0 +1,7 @@
+short_name: Sustanon
+active_substance: Testosteroni decanoas, Testosteroni phenylpropionas, Testosteroni isocaproas, Testosteroni propionas
+marketing_authorisation_holder: Aspen Pharma Trading Ltd., Ireland
+manufacturer: Ever Pharma Jena GmbH, Germany; Ever Pharma Jena GmbH., Germany
+atc_code: G03BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0497/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0497/smpc

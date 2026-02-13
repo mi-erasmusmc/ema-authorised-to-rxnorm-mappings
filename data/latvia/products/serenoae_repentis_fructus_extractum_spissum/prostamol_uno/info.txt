@@ -1,0 +1,7 @@
+short_name: Prostamol uno
+active_substance: Serenoae repentis fructus extractum spissum
+marketing_authorisation_holder: Berlin-Chemie AG (Menarini Group), Germany
+manufacturer: Berlin-Chemie AG, Germany
+atc_code: G04CX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-1027/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-1027/smpc

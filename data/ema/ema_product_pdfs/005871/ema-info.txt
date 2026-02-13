@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005871
+Name of medicine: Aquipta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: atogepant
+Active substance: atogepant
+Therapeutic area (MeSH): Migraine Disorders
+ATC code (human): N02CD07
+Pharmacotherapeutic group (human): 
+Therapeutic indication: Aquipta is indicated for prophylaxis of migraine in adults who have at least 4 migraine days per month
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aquipta

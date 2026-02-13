@@ -1,0 +1,7 @@
+short_name: Ambrisentan Zentiva
+active_substance: Ambrisentanum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Genepharm S.A., Greece; Delorbis Pharmaceuticals Ltd, Cyprus; Prestige Promotion Verkaufsfoerderung & Werbeservice GmbH, Germany
+atc_code: C02KX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0141/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0141/smpc

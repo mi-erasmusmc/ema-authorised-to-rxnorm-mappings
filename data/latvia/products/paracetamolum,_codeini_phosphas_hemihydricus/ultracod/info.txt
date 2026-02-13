@@ -1,0 +1,7 @@
+short_name: Ultracod
+active_substance: Paracetamolum, Codeini phosphas hemihydricus
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic; Saneca Pharmaceuticals A.S., Slovakia
+atc_code: N02AJ06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0234/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0234/smpc

@@ -1,0 +1,7 @@
+short_name: Zlynda
+active_substance: Drospirenonum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: Laboratorios Leon Farma S.A., Spain
+atc_code: G03AC10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0082/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0082/smpc

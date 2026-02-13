@@ -1,0 +1,7 @@
+short_name: Caspofungin Pharmidea
+active_substance: Caspofunginum
+marketing_authorisation_holder: PharmIdea, SIA, Latvia
+manufacturer: PharmIdea, SIA, Latvia
+atc_code: J02AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0030/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0030/smpc

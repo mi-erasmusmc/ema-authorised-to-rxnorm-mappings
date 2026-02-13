@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000898
+Name of medicine: Evicel
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: human fibrinogen;human thrombin
+Active substance: human fibrinogen;human thrombin
+Therapeutic area (MeSH): Hemostasis, Surgical
+ATC code (human): B02BC
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Evicel is used as supportive treatment in surgery where standard surgical techniques are insufficient, for improvement of haemostasis. Evicel is also indicated as suture support for haemostasis in vascular surgery.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evicel

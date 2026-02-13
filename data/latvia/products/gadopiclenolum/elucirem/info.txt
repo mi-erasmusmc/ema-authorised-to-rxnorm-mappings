@@ -1,0 +1,7 @@
+short_name: Elucirem
+active_substance: Gadopiclenolum
+marketing_authorisation_holder: Guerbet, France
+manufacturer: Guerbet, France
+atc_code: V08CA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1772/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1772/001/smpc

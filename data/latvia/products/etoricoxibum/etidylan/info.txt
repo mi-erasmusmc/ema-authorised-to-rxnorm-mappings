@@ -1,0 +1,7 @@
+short_name: Etidylan
+active_substance: Etoricoxibum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria; Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
+atc_code: M01AH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0037/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0037/smpc

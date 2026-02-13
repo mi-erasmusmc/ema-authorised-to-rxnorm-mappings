@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001207
+Name of medicine: Cinryze
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: C1 inhibitor (human)
+Active substance: C1 inhibitor (human)
+Therapeutic area (MeSH): Angioedemas, Hereditary
+ATC code (human): B06AC01
+Pharmacotherapeutic group (human): c1-inhibitor, plasma derived;Drugs used in hereditary angioedema
+Therapeutic indication: Treatment and pre-procedure prevention of angioedema attacks in adults, adolescents and children (2 years old and above) with hereditary angioedema (HAE). Routine prevention of angioedema attacks in adults, adolescents and children (6 years old and above) with severe and recurrent attacks of hereditary angioedema (HAE), who are intolerant to or insufficiently protected by oral prevention treatments, or patients who are inadequately managed with repeated acute treatment.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cinryze

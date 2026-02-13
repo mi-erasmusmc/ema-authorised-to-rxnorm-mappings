@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003964
+Name of medicine: Elocta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: efmoroctocog alfa
+Active substance: efmoroctocog alfa
+Therapeutic area (MeSH): Hemophilia A
+ATC code (human): B02BD02
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency). Elocta can be used for all age groups.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/elocta

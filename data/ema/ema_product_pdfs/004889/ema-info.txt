@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004889
+Name of medicine: Zynquista
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: sotagliflozin
+Active substance: sotagliflozin
+Therapeutic area (MeSH): Diabetes Mellitus, Type 1
+ATC code (human): A10
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Zynquista is indicated as an adjunct to insulin therapy to improve glycaemic control in adults with type 1 diabetes mellitus with a Body Mass Index (BMI) ? 27 kg/m2, who have failed to achieve adequate glycaemic control despite optimal insulin therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zynquista

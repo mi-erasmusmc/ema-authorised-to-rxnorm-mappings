@@ -1,0 +1,7 @@
+short_name: Mucosa compositum
+active_substance: Mucosa nasalis suis, Mucosa oris suis, Mucosa pulmonis suis, Mucosa oculi suis, Mucosa vesicae felleae suis, Mucosa vesicae urinariae suis, Mucosa pylori suis, Mucosa duodeni suis, Mucosa oesophagi suis, Mucosa jejuni suis, Mucosa ilei suis, Mucosa coli suis, Mucosa recti suis, Mucosa ductus choledochi suis, Ventriculus suis, Pancreatis suis, Argenti nitras, Atropa belladonna, Oxalis acetosella, Semecarpus anacardium, Phosphorus, Lachesis mutus, Cephaelis ipecacuanha, Nux vomica, Veratrum album, Pulsatilla nigricans, Kreosotum, Sulfur, Natrium diethyloxalaceticum, Bacterium Coli-Nosode, Marsdenia condurango, Kalium bichromicum, Hydrastis canadensis, Mandragora e radice siccato, Momordica balsamina, Ceanothus americanus
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0241/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0241/smpc

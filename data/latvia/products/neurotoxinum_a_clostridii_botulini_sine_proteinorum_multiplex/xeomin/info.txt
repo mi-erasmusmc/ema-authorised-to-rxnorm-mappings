@@ -1,0 +1,7 @@
+short_name: Xeomin
+active_substance: Neurotoxinum A Clostridii botulini sine proteinorum multiplex
+marketing_authorisation_holder: Merz Pharmaceuticals GmbH, Germany
+manufacturer: Merz Pharma GmbH & Co. KGaA, Germany
+atc_code: M03AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0049/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0049/smpc

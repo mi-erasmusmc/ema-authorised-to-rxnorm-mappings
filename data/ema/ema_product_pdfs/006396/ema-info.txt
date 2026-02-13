@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006396
+Name of medicine: Tepezza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: teprotumumab
+Active substance: teprotumumab
+Therapeutic area (MeSH): Graves Ophthalmopathy
+ATC code (human): L04AG13
+Pharmacotherapeutic group (human): Immunosuppressants;Monoclonal antibodies
+Therapeutic indication: Treatment of moderate to severe thyroid eye disease (TED).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tepezza

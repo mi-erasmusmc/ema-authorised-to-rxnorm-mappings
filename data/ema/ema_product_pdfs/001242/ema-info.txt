@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001242
+Name of medicine: Teysuno
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tegafur;gimeracil;oteracil
+Active substance: tegafur;gimeracil;oteracil
+Therapeutic area (MeSH): Stomach Neoplasms
+ATC code (human): L01BC53
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Teysuno is indicated in adults: - for the treatment of advanced gastric cancer when given in combination with cisplatin (see section 5.1). - as monotherapy or in combination with oxaliplatin or irinotecan, with or without bevacizumab, for the treatment of patients with metastatic colorectal cancer for whom it is not possible to continue treatment with another fluoropyrimidine due to hand-foot syndrome or cardiovascular toxicity that developed in the adjuvant or metastatic setting.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/teysuno

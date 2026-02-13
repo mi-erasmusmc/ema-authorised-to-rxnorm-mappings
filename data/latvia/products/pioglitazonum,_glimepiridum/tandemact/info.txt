@@ -1,0 +1,7 @@
+short_name: Tandemact
+active_substance: Pioglitazonum, Glimepiridum
+marketing_authorisation_holder: Cheplapharm Arzneimittel GmbH, Germany
+manufacturer: Takeda Ireland Ltd., Ireland; Takeda GmbH, Germany; Delpharm Novara S.r.l, Italy
+atc_code: A10BD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/366/005/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/366/005/smpc

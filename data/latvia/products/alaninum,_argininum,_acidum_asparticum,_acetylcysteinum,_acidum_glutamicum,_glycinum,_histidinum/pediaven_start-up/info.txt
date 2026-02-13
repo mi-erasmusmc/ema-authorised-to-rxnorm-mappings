@@ -1,0 +1,7 @@
+short_name: Pediaven Start-Up
+active_substance: Alaninum, Argininum, Acidum asparticum, Acetylcysteinum, Acidum glutamicum, Glycinum, Histidinum, Isoleucinum, Leucinum, Lysini monohydricum, Methioninum, Phenylalaninum, Prolinum, Serinum, Taurinum, Threoninum, Tryptophanum, Tyrosinum, Valinum, Kalii dihydrogenophosphas, Kalii hydroxidum, Glucosum monohydricum, Calcii gluconas monohydricus, Magnesii lactas dihydricus, Natrii chloridum, Zinci acetas dihydricus, Cupri sulfas pentahydricus, Natrii fluoridum, Selenii dioxidum, Mangani chloridum tetrahydricum, Kalii iodidum, Chromii chloridum hexahydricum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Austria GmbH, Austria
+atc_code: B05BA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0246/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0246/smpc

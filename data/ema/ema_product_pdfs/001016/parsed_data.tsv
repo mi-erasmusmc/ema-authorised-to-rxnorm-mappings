@@ -1,0 +1,3 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name	display_name	eu_group_number	active_substance	international_non_proprietary_name	atc_code_human	marketing_authorisation_developer_applicant_holder	medicine_url	medicine_status
+EU/1/09/526/001	EMEA/H/C/001016	250 mg	Film-coated tablet	Oral use	perforated			iressa	Iressa	EU/1/09/526	gefitinib	gefitinib	L01XE02	AstraZeneca AB	https://www.ema.europa.eu/en/medicines/human/EPAR/iressa	Authorised
+EU/1/09/526/002	EMEA/H/C/001016	250 mg	Film-coated tablet	Oral use	blister (PVC/alu) non perforated	30 tablets		iressa	Iressa	EU/1/09/526	gefitinib	gefitinib	L01XE02	AstraZeneca AB	https://www.ema.europa.eu/en/medicines/human/EPAR/iressa	Authorised

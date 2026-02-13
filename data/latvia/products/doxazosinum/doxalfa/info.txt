@@ -1,0 +1,7 @@
+short_name: Doxalfa
+active_substance: Doxazosinum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Genus Pharmaceuticals Ltd, United Kingdom; Centrafarm Services B.V., Netherlands
+atc_code: C02CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0031/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0031/smpc

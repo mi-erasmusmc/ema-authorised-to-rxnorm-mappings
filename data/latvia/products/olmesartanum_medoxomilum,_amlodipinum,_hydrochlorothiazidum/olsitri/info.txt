@@ -1,0 +1,7 @@
+short_name: Olsitri
+active_substance: Olmesartanum medoxomilum, Amlodipinum, Hydrochlorothiazidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: C09DX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0070/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0070/smpc

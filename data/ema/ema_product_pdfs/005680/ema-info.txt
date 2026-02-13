@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005680
+Name of medicine: Lunsumio
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: mosunetuzumab
+Active substance: mosunetuzumab
+Therapeutic area (MeSH): Lymphoma, Follicular
+ATC code (human): L01FX25
+Pharmacotherapeutic group (human): Antineoplastic agents;monoclonal antibodies and antibody drug conjugates
+Therapeutic indication: Lunsumio as monotherapy is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL) who have received at least two prior systemic therapies.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lunsumio

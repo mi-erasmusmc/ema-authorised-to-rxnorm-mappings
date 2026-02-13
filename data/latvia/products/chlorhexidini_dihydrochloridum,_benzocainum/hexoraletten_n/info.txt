@@ -1,0 +1,7 @@
+short_name: Hexoraletten N
+active_substance: Chlorhexidini dihydrochloridum, Benzocainum
+marketing_authorisation_holder: McNeil Healthcare (Ireland) Limited, Ireland
+manufacturer: Godecke GmbH, Germany; Soldan Holding + Bonbonspezialitaten GmbH, Germany
+atc_code: R02AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0597/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0597/smpc

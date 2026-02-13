@@ -1,0 +1,7 @@
+short_name: Elevit Pronatal
+active_substance: Retinoli palmitas, Thiamini nitras, Riboflavinum, Pyridoxini hydrochloridum, Cyanocobalaminum, Alfa-tocopherylis acetas, Calcii pantothenas, Biotinum, Nicotinamidum, Acidum folicum, Calcium, Cuprum, Ferrum, Magnesium, Manganum, Phosphorus, Zincum, Acidum ascorbicum, Colecalciferolum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Dragenopharm  Apotheker Puschl GmbH, Germany
+atc_code: A11AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0052/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0052/smpc

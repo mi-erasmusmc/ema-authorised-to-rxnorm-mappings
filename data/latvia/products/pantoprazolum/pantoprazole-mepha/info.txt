@@ -1,0 +1,7 @@
+short_name: Pantoprazole-Mepha
+active_substance: Pantoprazolum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Advance Pharma GmbH, Germany; Sofarimex Industria Quimica e Farmaceutica SA, Portugal; Delorbis Pharmaceuticals Ltd, Cyprus
+atc_code: A02BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0125/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0125/smpc

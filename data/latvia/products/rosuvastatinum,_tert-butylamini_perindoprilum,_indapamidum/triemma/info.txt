@@ -1,0 +1,7 @@
+short_name: Triemma
+active_substance: Rosuvastatinum, Tert-butylamini perindoprilum, Indapamidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: C10BX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0133/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0133/smpc

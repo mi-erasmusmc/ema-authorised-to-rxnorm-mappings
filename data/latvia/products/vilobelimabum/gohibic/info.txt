@@ -1,0 +1,7 @@
+short_name: Gohibic
+active_substance: Vilobelimabum
+marketing_authorisation_holder: InflaRx GmbH, Germany
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: L04AJ10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1884/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1884/001/smpc

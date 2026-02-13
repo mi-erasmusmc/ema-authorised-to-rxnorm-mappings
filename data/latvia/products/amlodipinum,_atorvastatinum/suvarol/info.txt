@@ -1,0 +1,7 @@
+short_name: Suvarol
+active_substance: Amlodipinum, Atorvastatinum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Pharmaceutical Works Polpharma SA, Poland; Zakłady Farmaceutyczne Polpharma S.A., Poland
+atc_code: C10BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0257/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0257/smpc

@@ -1,0 +1,7 @@
+short_name: Tenofovir disoproxil Teva
+active_substance: Tenofovirum disoproxilum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Teva Operations Poland Sp.z o.o., Poland
+atc_code: J05AF07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0250/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0250/smpc

@@ -1,0 +1,7 @@
+short_name: Rawel SR
+active_substance: Indapamidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C03BA11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0457/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0457/smpc

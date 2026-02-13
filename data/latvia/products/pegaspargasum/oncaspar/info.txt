@@ -1,0 +1,7 @@
+short_name: Oncaspar
+active_substance: Pegaspargasum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France
+atc_code: L01XX24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1070/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1070/001/smpc

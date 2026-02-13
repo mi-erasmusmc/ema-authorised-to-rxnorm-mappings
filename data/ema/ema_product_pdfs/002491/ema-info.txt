@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002491
+Name of medicine: HyQvia
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human normal immunoglobulin
+Active substance: human normal immunoglobulin
+Therapeutic area (MeSH): Immunologic Deficiency Syndromes;Polyradiculoneuropathy;Polyradiculoneuropathy, Chronic Inflammatory Demyelinating
+ATC code (human): J06BA01
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Replacement therapy in adults, children and adolescents (0-18 years) in:  Primary immunodeficiency syndromes with impaired antibody production.  Secondary immunodeficiencies (SID) in patients who suffer from severe or recurrent infections, ineffective antimicrobial treatment and either proven specific antibody failure (PSAF)* or serum IgG level of &lt; 4 g/L. *PSAF = failure to mount at least a 2-fold rise in IgG antibody titre to pneumococcal polysaccharide and polypeptide antigen vaccines.   Immunomodulatory therapy in adults, children and adolescents (0 to 18 years) in:  Chronic inflammatory demyelinating polyneuropathy (CIDP) as maintenance therapy after stabilization with IVIg.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hyqvia

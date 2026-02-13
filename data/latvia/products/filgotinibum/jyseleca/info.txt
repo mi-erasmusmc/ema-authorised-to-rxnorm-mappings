@@ -1,0 +1,7 @@
+short_name: Jyseleca
+active_substance: Filgotinibum
+marketing_authorisation_holder: Alfasigma S.p.A, Italy
+manufacturer: Alfasigma S.p.A., Italy
+atc_code: L04AF04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1480/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1480/001/smpc

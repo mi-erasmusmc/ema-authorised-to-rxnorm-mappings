@@ -1,0 +1,7 @@
+short_name: Sorafenib Teva
+active_substance: Sorafenibum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Pliva Hrvatska d.o.o., Croatia; Teva Operations Poland Sp.z o.o., Poland; Actavis Group PTC ehf., Iceland
+atc_code: L01EX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0014/smpc

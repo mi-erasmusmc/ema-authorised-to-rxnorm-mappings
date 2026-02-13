@@ -1,0 +1,7 @@
+short_name: Bilastine Sandoz
+active_substance: Bilastinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Noucor Health, S.A., Spain
+atc_code: R06AX29
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0114/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0114/smpc

@@ -1,0 +1,7 @@
+short_name: Humalog Mix50
+active_substance: Insulinum lisprum
+marketing_authorisation_holder: Eli Lilly Nederland BV, Netherlands
+manufacturer: Lilly France S.A.S., France
+atc_code: A10AD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/007/006/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/007/006/smpc

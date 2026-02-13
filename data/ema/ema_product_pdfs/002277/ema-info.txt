@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002277
+Name of medicine: Pioglitazone Accord
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pioglitazone
+Active substance: pioglitazone hydrochloride
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BG03
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Pioglitazone is indicated in the treatment of type-2 diabetes mellitus: as monotherapy  in adult patients (particularly overweight patients) inadequately controlled by diet and exercise for whom metformin is inappropriate because of contraindications or intolerance.  After initiation of therapy with pioglitazone, patients should be reviewed after 3 to 6 months to assess adequacy of response to treatment (e.g. reduction in HbA1c). In patients who fail to show an adequate response, pioglitazone should be discontinued. In light of potential risks with prolonged therapy, prescribers should confirm at subsequent routine reviews that the benefit of pioglitazone is maintained.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pioglitazone-accord

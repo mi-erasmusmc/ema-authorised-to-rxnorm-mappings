@@ -1,0 +1,7 @@
+short_name: Ciprofloxacin Aurobindo
+active_substance: Ciprofloxacinum
+marketing_authorisation_holder: Aurobindo Pharma (Malta) Limited, Malta
+manufacturer: APL Swift Services (Malta) Limited, Malta
+atc_code: J01MA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0269/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0269/smpc

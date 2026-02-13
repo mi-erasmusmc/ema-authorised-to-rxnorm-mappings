@@ -1,0 +1,7 @@
+short_name: Onivyde pegylated liposomal
+active_substance: Irinotecani hydrochloridum trihydricum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France
+atc_code: L01CE02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1130/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1130/001/smpc

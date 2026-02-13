@@ -1,0 +1,7 @@
+short_name: Cholib
+active_substance: Fenofibratum, Simvastatinum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Mylan Laboratories SAS, France
+atc_code: C10BA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/866/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/866/001/smpc

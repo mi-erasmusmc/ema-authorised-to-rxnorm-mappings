@@ -1,0 +1,7 @@
+short_name: Linezolid Krka
+active_substance: Linezolidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: J01XX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0290/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0290/smpc

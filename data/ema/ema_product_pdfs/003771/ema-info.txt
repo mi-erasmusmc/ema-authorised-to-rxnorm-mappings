@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003771
+Name of medicine: Rixubis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: nonacog gamma
+Active substance: nonacog gamma
+Therapeutic area (MeSH): Hemophilia B
+ATC code (human): B02BD04
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rixubis

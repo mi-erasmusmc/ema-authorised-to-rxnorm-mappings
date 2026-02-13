@@ -1,0 +1,7 @@
+short_name: Cefazolin MIP
+active_substance: Cefazolinum
+marketing_authorisation_holder: MIP Pharma GmbH, Germany
+manufacturer: MIP Pharma GmbH, Germany
+atc_code: J01DB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0063/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0063/smpc

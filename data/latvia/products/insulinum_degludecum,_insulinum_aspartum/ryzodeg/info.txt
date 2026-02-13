@@ -1,0 +1,7 @@
+short_name: Ryzodeg
+active_substance: Insulinum degludecum, Insulinum aspartum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark; Novo Nordisk Production S.A.S., France
+atc_code: A10AD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/806/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/806/001/smpc

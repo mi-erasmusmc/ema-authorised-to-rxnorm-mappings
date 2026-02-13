@@ -1,0 +1,7 @@
+short_name: Revestive
+active_substance: Teduglutidum
+marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+manufacturer: Shire Pharmaceuticals Ireland Ltd., Ireland; Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+atc_code: A16AX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/787/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/787/001/smpc

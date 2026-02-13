@@ -1,0 +1,7 @@
+short_name: Memantine Accord
+active_substance: Memantinum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare Limited, United Kingdom; Delorbis Pharmaceuticals Ltd, Cyprus; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: N06DX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/880/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/880/001/smpc

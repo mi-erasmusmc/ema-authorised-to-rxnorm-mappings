@@ -1,0 +1,7 @@
+short_name: Sedalia
+active_substance: Matricaria chamomilla, Gelsemium, Hyoscyamus niger, Kalium bromatum, Passiflora incarnata, Datura stramonium
+marketing_authorisation_holder: Boiron, France
+manufacturer: Boiron, France
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0025/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0025/smpc

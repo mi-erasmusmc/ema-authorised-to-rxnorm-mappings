@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000675
+Name of medicine: Avaglim
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: rosiglitazone;glimepiride
+Active substance: rosiglitazone;glimepiride
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BD04
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: AVAGLIM is indicated in the treatment of type 2 diabetes mellitus patients who are unable to achieve sufficient glycaemic control on optimal dosage of sulphonylurea monotherapy, and for whom metformin is inappropriate because of contraindication or intolerance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/avaglim

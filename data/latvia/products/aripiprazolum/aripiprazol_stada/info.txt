@@ -1,0 +1,7 @@
+short_name: Aripiprazol STADA
+active_substance: Aripiprazolum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; Pharmathen International S.A., Greece; Stada Arzneimittel AG, Germany; Pharmathen S.A., Greece; Laboratori Fundacio Dau, Spain
+atc_code: N05AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0277/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0277/smpc

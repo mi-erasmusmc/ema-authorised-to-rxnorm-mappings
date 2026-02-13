@@ -1,0 +1,7 @@
+short_name: Cagynol
+active_substance: Sertaconazoli nitras
+marketing_authorisation_holder: Orivas UAB, Lithuania
+manufacturer: Unither Liquid Manufacturing, France
+atc_code: G01AF19
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0102/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0102/smpc

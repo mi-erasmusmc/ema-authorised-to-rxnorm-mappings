@@ -1,0 +1,7 @@
+short_name: Nasometin
+active_substance: Mometasoni furoas
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia
+atc_code: R01AD09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0099/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0099/smpc

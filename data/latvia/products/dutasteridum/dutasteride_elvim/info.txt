@@ -1,0 +1,7 @@
+short_name: Dutasteride ELVIM
+active_substance: Dutasteridum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: GAP S.A., Greece; Rafarm SA, Greece
+atc_code: G04CB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0014/smpc

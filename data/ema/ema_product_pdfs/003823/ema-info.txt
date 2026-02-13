@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003823
+Name of medicine: Dutrebis
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: lamivudine;raltegravir potassium
+Active substance: lamivudine;raltegravir potassium
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR16
+Pharmacotherapeutic group (human): Antivirals for systemic use;Antivirals for treatment of HIV infections, combinations
+Therapeutic indication: Dutrebis is indicated in combination with other anti?retroviral medicinal products for the treatment of human immunodeficiency virus (HIV?1) infection in adults, adolescents, and children from the age of 6 years and weighing at least 30 kg without present or past evidence of viral resistance to antiviral agents of the InSTI (Integrase Strand Transfer Inhibitor) and NRTI (Nucleoside Reverse Transcriptase Inhibitor) classes (see sections 4.2, 4.4 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dutrebis

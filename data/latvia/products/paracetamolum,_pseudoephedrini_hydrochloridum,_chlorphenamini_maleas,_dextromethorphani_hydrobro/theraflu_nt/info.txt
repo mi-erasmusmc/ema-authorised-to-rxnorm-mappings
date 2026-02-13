@@ -1,0 +1,7 @@
+short_name: Theraflu NT
+active_substance: Paracetamolum, Pseudoephedrini hydrochloridum, Chlorphenamini maleas, Dextromethorphani hydrobromidum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Delpharm Orleans, France; Haleon Germany GmbH, Germany
+atc_code: N02BE51;R05X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0869/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0869/smpc

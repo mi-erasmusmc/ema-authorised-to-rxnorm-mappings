@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003963
+Name of medicine: Pandemic influenza vaccine H5N1 AstraZeneca (previously Pandemic influenza vaccine H5N1 Medimmune)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pandemic influenza vaccine (H5N1) (live attenuated, nasal)
+Active substance: reassortant influenza virus (live attenuated) of the following strain: A/Vietnam/1203/2004 (H5N1) strain
+Therapeutic area (MeSH): Influenza, Human
+ATC code (human): J07BB03
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Prophylaxis of influenza in an officially declared pandemic situation in children and adolescents from 12 months to less than 18 years of age. Pandemic influenza vaccine H5N1 AstraZeneca should be used in accordance with official guidance
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pandemic-influenza-vaccine-h5n1-astrazeneca

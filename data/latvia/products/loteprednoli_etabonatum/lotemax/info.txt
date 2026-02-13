@@ -1,0 +1,7 @@
+short_name: Lotemax
+active_substance: Loteprednoli etabonatum
+marketing_authorisation_holder: Olympus Trading Medical Products, Greece
+manufacturer: Bausch Health Poland sp. z o.o., Poland; Bausch Health Poland sp. z o.o., Poland; Bausch + Lomb Ireland Limited, Ireland
+atc_code: S01BA14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001664/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001664/smpc

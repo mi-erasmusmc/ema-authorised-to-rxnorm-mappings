@@ -1,0 +1,7 @@
+short_name: Physiotens
+active_substance: Moxonidinum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Mylan Laboratories SAS, France
+atc_code: C02AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0562/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0562/smpc

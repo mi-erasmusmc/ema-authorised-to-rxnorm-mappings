@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000533
+Name of medicine: Emtriva
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: emtricitabine
+Active substance: emtricitabine
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AF09
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Emtriva is indicated for the treatment of HIV-1 infected adults and children in combination with other antiretroviral agents. This indication is based on studies in treatment-naive patients and treatment-experienced patients with stable virological control. There is no experience of the use of Emtriva in patients who are failing their current regimen or who have failed multiple regimens. When deciding on a new regimen for patients who have failed an antiretroviral regimen, careful consideration should be given to the patterns of mutations associated with different medicinal products and the treatment history of the individual patient. Where available, resistance testing may be appropriate.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emtriva

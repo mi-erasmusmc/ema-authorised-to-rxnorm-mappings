@@ -1,0 +1,7 @@
+short_name: Nyxoid
+active_substance: Naloxonum
+marketing_authorisation_holder: MundiPharma Pharmaceuticals Limited, Ireland
+manufacturer: Bard Pharmaceuticals Limited, United Kingdom; Mundipharma DC B.V., Netherlands
+atc_code: V03AB15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1238/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1238/001/smpc

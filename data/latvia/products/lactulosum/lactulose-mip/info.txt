@@ -1,0 +1,7 @@
+short_name: Lactulose-MIP
+active_substance: Lactulosum
+marketing_authorisation_holder: MIP Pharma GmbH, Germany
+manufacturer: Chephasaar Chem.-pharm. Fabrik GmbH, Germany
+atc_code: A06AD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0060/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0060/smpc

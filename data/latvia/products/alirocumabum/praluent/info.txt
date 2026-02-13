@@ -1,0 +1,7 @@
+short_name: Praluent
+active_substance: Alirocumabum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Deutschland GmbH, Germany
+atc_code: C10AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1031/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1031/001/smpc

@@ -1,0 +1,7 @@
+short_name: Pregabalin Mylan
+active_substance: Pregabalinum
+marketing_authorisation_holder: Mylan S.A.S, France
+manufacturer: McDermott Laboratories Ltd, Ireland; Mylan Hungary Kft., Hungary; Mylan BV, Netherlands; Logiters, Logistica Portugal S.A., Portugal
+atc_code: N02BF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/997/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/997/001/smpc

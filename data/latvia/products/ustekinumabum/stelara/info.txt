@@ -1,0 +1,7 @@
+short_name: Stelara
+active_substance: Ustekinumabum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Biologics B.V., Netherlands
+atc_code: L04AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/494/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/494/001/smpc

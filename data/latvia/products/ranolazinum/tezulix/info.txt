@@ -1,0 +1,7 @@
+short_name: Tezulix
+active_substance: Ranolazinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C01EB18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0032/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0032/smpc

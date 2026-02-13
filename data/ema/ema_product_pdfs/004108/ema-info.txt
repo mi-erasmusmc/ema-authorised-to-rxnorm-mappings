@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004108
+Name of medicine: Ondexxya
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: andexanet alfa
+Active substance: andexanet alfa
+Therapeutic area (MeSH): Drug-Related Side Effects and Adverse Reactions
+ATC code (human): V03AB
+Pharmacotherapeutic group (human): All other therapeutic products
+Therapeutic indication: For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ondexxya

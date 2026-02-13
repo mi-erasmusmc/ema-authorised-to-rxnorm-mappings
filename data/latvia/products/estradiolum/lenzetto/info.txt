@@ -1,0 +1,7 @@
+short_name: Lenzetto
+active_substance: Estradiolum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Romania S.A., Romania; Gedeon Richter Plc., Hungary
+atc_code: G03CA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0279/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0279/smpc

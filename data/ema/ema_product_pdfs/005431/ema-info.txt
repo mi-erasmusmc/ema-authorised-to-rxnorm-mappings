@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005431
+Name of medicine: Exblifep
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cefepime;enmetazobactam
+Active substance: cefepime dihydrochloride monohydrate;Enmetazobactam
+Therapeutic area (MeSH): Urinary Tract Infections;Pyelonephritis;Healthcare-Associated Pneumonia;Pneumonia, Ventilator-Associated
+ATC code (human): J01DE51
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Exblifep is indicated for the treatment of the following infections in adults (see sections 4.4 and 5.1): - Complicated urinary tract infections (cUTI), including pyelonephritis - Hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP) Treatment of patients with bacteraemia that occurs in association with, or is suspected to be associated with, any of the infections listed above. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/exblifep

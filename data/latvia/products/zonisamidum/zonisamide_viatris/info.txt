@@ -1,0 +1,7 @@
+short_name: Zonisamide Viatris
+active_substance: Zonisamidum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Noucor Health, S.A., Spain
+atc_code: N03AX15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1093/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1093/001/smpc

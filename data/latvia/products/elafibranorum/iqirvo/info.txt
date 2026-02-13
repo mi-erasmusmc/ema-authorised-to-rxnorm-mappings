@@ -1,0 +1,7 @@
+short_name: Iqirvo
+active_substance: Elafibranorum
+marketing_authorisation_holder: Ipsen Pharma SAS, France
+manufacturer: Delpharm Milano S.r.l, Italy
+atc_code: A05AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1855/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1855/001/smpc

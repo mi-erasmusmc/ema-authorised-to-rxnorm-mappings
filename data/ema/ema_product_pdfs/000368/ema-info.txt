@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000368
+Name of medicine: Kaletra
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lopinavir;ritonavir
+Active substance: lopinavir;ritonavir
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR10
+Pharmacotherapeutic group (human): Antivirals for systemic use;Protease inhibitors
+Therapeutic indication: Kaletra is indicated in combination with other antiretroviral medicinal products for the treatment of human immunodeficiency virus (HIV-1) infected adults, adolescents and children aged from 14 days and older. The choice of Kaletra to treat protease inhibitor experienced HIV-1 infected patients should be based on individual viral resistance testing and treatment history of patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kaletra

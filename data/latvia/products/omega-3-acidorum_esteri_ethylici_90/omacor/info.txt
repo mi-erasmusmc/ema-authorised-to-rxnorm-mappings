@@ -1,0 +1,7 @@
+short_name: Omacor
+active_substance: Omega-3-acidorum esteri ethylici 90
+marketing_authorisation_holder: BASF AS, Norway
+manufacturer: BASF AS, Norway; Pierre Fabre Médicament Production – Cahors, France
+atc_code: C10AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0465/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0465/smpc

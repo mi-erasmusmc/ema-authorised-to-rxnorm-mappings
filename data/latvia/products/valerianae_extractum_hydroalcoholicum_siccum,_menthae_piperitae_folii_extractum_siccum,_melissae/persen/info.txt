@@ -1,0 +1,7 @@
+short_name: Persen
+active_substance: Valerianae extractum hydroalcoholicum siccum, Menthae piperitae folii extractum siccum, Melissae folii extractum siccum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Sopharma AD, Bulgaria
+atc_code: N05CM09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0710/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0710/smpc

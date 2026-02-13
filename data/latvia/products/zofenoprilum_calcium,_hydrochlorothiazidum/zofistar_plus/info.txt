@@ -1,0 +1,7 @@
+short_name: Zofistar Plus
+active_substance: Zofenoprilum calcium, Hydrochlorothiazidum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: A. Menarini Manufacturing Logistic and Services s.r.l., Italy; Menarini-Von Heyden GmbH, Germany
+atc_code: C09BA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0177/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0177/smpc

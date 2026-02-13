@@ -1,0 +1,7 @@
+short_name: Venoruton
+active_substance: O-beta-hydroxyethylrutosidum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; GlaxoSmithKline Consumer Healthcare GmbH & Co. KG, Germany
+atc_code: C05CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0088/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0088/smpc

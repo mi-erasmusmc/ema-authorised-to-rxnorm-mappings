@@ -1,0 +1,7 @@
+short_name: Vectibix
+active_substance: Panitumumabum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen Europe B.V., Netherlands; Amgen Technology (Ireland) Unlimited Company, Ireland; Amgen NV, Belgium
+atc_code: L01FE02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/423/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/423/001/smpc

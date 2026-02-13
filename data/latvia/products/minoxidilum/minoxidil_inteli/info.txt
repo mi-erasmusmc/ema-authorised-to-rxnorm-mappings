@@ -1,0 +1,7 @@
+short_name: Minoxidil Inteli
+active_substance: Minoxidilum
+marketing_authorisation_holder: Inteli Generics Nord UAB, Lithuania
+manufacturer: Industrial Farmaceutica Cantabria, S.A., Spain
+atc_code: D11AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0135/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0135/smpc

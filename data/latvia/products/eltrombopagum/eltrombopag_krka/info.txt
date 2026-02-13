@@ -1,0 +1,7 @@
+short_name: Eltrombopag Krka
+active_substance: Eltrombopagum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany; ELPEN Pharmaceutical Co. Inc (SA), Greece
+atc_code: B02BX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0140/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0140/smpc

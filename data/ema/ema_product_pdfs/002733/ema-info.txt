@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002733
+Name of medicine: Feraccru
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ferric maltol
+Active substance: ferric maltol
+Therapeutic area (MeSH): Anemia, Iron-Deficiency
+ATC code (human): B03AB
+Pharmacotherapeutic group (human): Antianemic preparations
+Therapeutic indication: Feraccru is indicated in adults for the treatment of iron deficiency.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/feraccru

@@ -1,0 +1,7 @@
+short_name: Brinzolamide Elvim
+active_substance: Brinzolamidum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Balkanpharma-Razgrad AD, Bulgaria; Pharmathen S.A., Greece; Famar S.A. ALIMOS Production Site, Greece
+atc_code: S01EC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0137/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0137/smpc

@@ -1,0 +1,7 @@
+short_name: NutropinAq
+active_substance: Somatropinum
+marketing_authorisation_holder: Ipsen Pharma SAS, France
+manufacturer: Ipsen Pharma Biotech, France
+atc_code: H01AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/164/003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/164/003/smpc

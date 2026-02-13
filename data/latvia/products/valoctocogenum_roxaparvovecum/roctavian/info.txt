@@ -1,0 +1,7 @@
+short_name: Roctavian
+active_substance: Valoctocogenum roxaparvovecum
+marketing_authorisation_holder: BioMarin International Limited, Ireland
+manufacturer: BioMarin International Limited, Ireland
+atc_code: B02BD15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1668/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1668/001/smpc

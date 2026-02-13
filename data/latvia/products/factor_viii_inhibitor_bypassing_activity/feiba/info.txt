@@ -1,0 +1,7 @@
+short_name: Feiba
+active_substance: Factor VIII Inhibitor Bypassing Activity
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B02BD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0117/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0117/smpc

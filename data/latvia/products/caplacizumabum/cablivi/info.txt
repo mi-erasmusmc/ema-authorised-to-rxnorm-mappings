@@ -1,0 +1,7 @@
+short_name: Cablivi
+active_substance: Caplacizumabum
+marketing_authorisation_holder: Ablynx NV, Belgium
+manufacturer: Ablynx NV, Belgium
+atc_code: B01AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1305/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1305/001/smpc

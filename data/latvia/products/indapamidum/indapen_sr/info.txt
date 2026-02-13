@@ -1,0 +1,7 @@
+short_name: Indapen SR
+active_substance: Indapamidum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Pharmaceutical Works "Polpharma" S.A., Poland
+atc_code: C03BA11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0313/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0313/smpc

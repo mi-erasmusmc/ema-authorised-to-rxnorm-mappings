@@ -1,0 +1,7 @@
+short_name: Celecoxib Accord
+active_substance: Celecoxibum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: M01AH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0008/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0008/smpc

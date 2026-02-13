@@ -1,0 +1,7 @@
+short_name: Adynovi
+active_substance: Rurioctocogum alfa pegolum
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Baxalta Belgium Manufacturing SA, Belgium
+atc_code: B02BD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1247/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1247/001/smpc

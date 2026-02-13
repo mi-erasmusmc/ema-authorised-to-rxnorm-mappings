@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002381
+Name of medicine: Jetrea
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: ocriplasmin
+Active substance: ocriplasmin
+Therapeutic area (MeSH): Retinal Diseases
+ATC code (human): S01XA22
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Jetrea is indicated in adults for the treatment of vitreomacular traction (VMT), including when associated with macular hole of diameter less than or equal to 400 microns.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/jetrea

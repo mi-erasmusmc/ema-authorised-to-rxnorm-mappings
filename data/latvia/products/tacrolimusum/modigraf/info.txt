@@ -1,0 +1,7 @@
+short_name: Modigraf
+active_substance: Tacrolimusum
+marketing_authorisation_holder: Astellas Pharma Europe B.V., Netherlands
+manufacturer: Astellas Ireland Co., Ltd., Ireland
+atc_code: L04AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/523/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/523/001/smpc

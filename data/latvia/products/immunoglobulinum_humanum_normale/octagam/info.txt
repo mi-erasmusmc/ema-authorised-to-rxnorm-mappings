@@ -1,0 +1,7 @@
+short_name: Octagam
+active_substance: Immunoglobulinum humanum normale
+marketing_authorisation_holder: Octapharma AB, Sweden
+manufacturer: Octapharma Pharmazeutika Produktionsges.m.b.H, Austria; Octapharma AB, Sweden; Octapharma S.A.S., France
+atc_code: J06BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0293/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0293/smpc

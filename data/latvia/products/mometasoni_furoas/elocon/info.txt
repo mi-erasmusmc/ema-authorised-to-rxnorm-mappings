@@ -1,0 +1,7 @@
+short_name: Elocon
+active_substance: Mometasoni furoas
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: Organon Heist bv, Belgium
+atc_code: D07AC13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-1029/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-1029/smpc

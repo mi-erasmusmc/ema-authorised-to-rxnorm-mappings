@@ -1,0 +1,7 @@
+short_name: Olanzapine Glenmark Europe
+active_substance: Olanzapinum
+marketing_authorisation_holder: Glenmark Arzneimittel GmbH, Germany
+manufacturer: Glenmark Pharmaceuticals, Czech Republic; Glenmark Pharmaceuticals Europe Limited, United Kingdom
+atc_code: N05AH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/588/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/588/001/smpc

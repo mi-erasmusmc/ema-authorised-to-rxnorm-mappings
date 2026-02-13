@@ -1,0 +1,7 @@
+short_name: PROHANCE 279,3 mg/ml SOLUCION INYECTABLE
+active_substance: Gadoteridolum
+marketing_authorisation_holder: BRACCO IMAGING SpA, Italy
+manufacturer: 
+atc_code: V08CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/RN027/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/RN027/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000899
+Name of medicine: Firazyr
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: icatibant
+Active substance: icatibant
+Therapeutic area (MeSH): Angioedemas, Hereditary
+ATC code (human): B06AC02
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: Firazyr is indicated for symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults (with C1-esterase-inhibitor deficiency).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/firazyr

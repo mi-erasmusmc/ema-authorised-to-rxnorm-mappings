@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/02/236/001	40051340	ultralente insulin, human Injectable Suspension	378862	BROAD	40 IU/ml; no 40 UNT/ML ultralente concept in RxNorm	ultralente insulin, human 40 UNT/ML Injectable Suspension	2026-02-12
+EU/1/02/236/002	40051340	ultralente insulin, human Injectable Suspension	378862	BROAD	40 IU/ml, 5 vials; same strength as 001	ultralente insulin, human 40 UNT/ML Injectable Suspension	2026-02-12
+EU/1/02/236/003	1586370	ultralente insulin, human 100 UNT/ML Injectable Suspension	237528	EXACT	100 IU/ml = 100 UNT/ML		2026-02-12
+EU/1/02/236/004	1586370	ultralente insulin, human 100 UNT/ML Injectable Suspension	237528	EXACT	100 IU/ml, 5 vials; same strength as 003		2026-02-12

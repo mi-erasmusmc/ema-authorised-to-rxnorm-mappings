@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000682
+Name of medicine: Savene
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dexrazoxane
+Active substance: dexrazoxane hydrochloride
+Therapeutic area (MeSH): Extravasation of Diagnostic and Therapeutic Materials
+ATC code (human): V03AF02
+Pharmacotherapeutic group (human): All other therapeutic products
+Therapeutic indication: Savene is indicated for the treatment of anthracycline extravasation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/savene

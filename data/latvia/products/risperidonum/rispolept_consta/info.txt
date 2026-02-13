@@ -1,0 +1,7 @@
+short_name: Rispolept Consta
+active_substance: Risperidonum
+marketing_authorisation_holder: Johnson & Johnson, UAB, Lithuania
+manufacturer: Janssen Pharmaceutica N.V., Belgium
+atc_code: N05AX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0096/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0096/smpc

@@ -1,0 +1,7 @@
+short_name: Foziflum
+active_substance: Fosfomycinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Special Product's line S.p.A., Italy
+atc_code: J01XX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0004/smpc

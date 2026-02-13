@@ -1,0 +1,7 @@
+short_name: Lysodren
+active_substance: Mitotanum
+marketing_authorisation_holder: Esteve Pharmaceuticals, S.A., Spain
+manufacturer: Corden Pharma Latina S.p.A., Italy; Centre Spécialités Pharmaceutiques, France
+atc_code: L01XX23
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/273/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/273/001/smpc

@@ -1,0 +1,7 @@
+short_name: Risonate
+active_substance: Natrii risedronas
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Pharmachemie B.V., Netherlands; TEVA Czech Industries s.r.o., Czech Republic
+atc_code: M05BA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0339/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0339/smpc

@@ -1,0 +1,7 @@
+short_name: Amiptic
+active_substance: Dorzolamidum, Timololum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Pharmathen S.A., Greece; Pharmaceutical Works Polpharma S.A., Poland; Famar SA (PLANT A`- ALIMOS), Greece
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0099/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0099/smpc

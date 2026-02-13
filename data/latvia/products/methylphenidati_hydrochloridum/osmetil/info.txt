@@ -1,0 +1,7 @@
+short_name: Osmetil
+active_substance: Methylphenidati hydrochloridum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: Laboratorios Liconsa, S.A., Spain
+atc_code: N06BA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0265/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0265/smpc

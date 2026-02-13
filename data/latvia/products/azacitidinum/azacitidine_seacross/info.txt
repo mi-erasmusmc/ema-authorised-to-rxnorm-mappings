@@ -1,0 +1,7 @@
+short_name: Azacitidine Seacross
+active_substance: Azacitidinum
+marketing_authorisation_holder: Seacross Pharma (Europe) Limited, Ireland
+manufacturer: Seacross Pharma (Europe) Limited, Ireland
+atc_code: L01BC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0122/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0122/smpc

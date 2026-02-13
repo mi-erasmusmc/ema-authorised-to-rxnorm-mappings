@@ -1,0 +1,7 @@
+short_name: Inaqovi
+active_substance: Decitabinum, Cedazuridinum
+marketing_authorisation_holder: Otsuka Pharmaceutical Netherlands B.V., Netherlands
+manufacturer: R-Pharm Germany GmbH, Germany; BSP Pharmaceuticals S.p.A., Italy
+atc_code: L01BC58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1756/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1756/001/smpc

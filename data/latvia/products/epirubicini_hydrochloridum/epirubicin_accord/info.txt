@@ -1,0 +1,7 @@
+short_name: Epirubicin Accord
+active_substance: Epirubicini hydrochloridum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L01DB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0509/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0509/smpc

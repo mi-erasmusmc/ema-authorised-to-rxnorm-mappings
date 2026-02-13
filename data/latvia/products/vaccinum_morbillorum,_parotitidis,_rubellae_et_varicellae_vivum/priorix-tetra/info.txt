@@ -1,0 +1,7 @@
+short_name: Priorix-Tetra
+active_substance: Vaccinum morbillorum, parotitidis, rubellae et varicellae vivum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07BD54
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0308/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0308/smpc

@@ -1,0 +1,7 @@
+short_name: Toning-up
+active_substance: Crataegi folium cum flores, Crataegi fructus, Leonuri cardiacae herba, Meliloti herba
+marketing_authorisation_holder: Labofarm Sp. z o.o., Poland
+manufacturer: Labofarm Sp. z o.o., Poland
+atc_code: A13A
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0840/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0840/smpc

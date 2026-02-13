@@ -1,0 +1,7 @@
+short_name: Kevzara
+active_substance: Sarilumabum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi Winthrop Industrie, France; Genzyme Ireland Ltd., Ireland; Sanofi-Aventis Deutschland GmbH, Germany
+atc_code: L04AC14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1196/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1196/001/smpc

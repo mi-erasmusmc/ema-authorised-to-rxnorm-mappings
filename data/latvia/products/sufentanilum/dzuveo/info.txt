@@ -1,0 +1,7 @@
+short_name: Dzuveo
+active_substance: Sufentanilum
+marketing_authorisation_holder: FGK Representative Service GmbH, Germany
+manufacturer: Propak Health Ltd, Ireland
+atc_code: N01AH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1284/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1284/001/smpc

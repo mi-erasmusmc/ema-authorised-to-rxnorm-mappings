@@ -1,0 +1,7 @@
+short_name: Helixor A
+active_substance: Visci albi ssp. Abietis extractum aqueosum
+marketing_authorisation_holder: Helixor Heilmittel GmbH, Germany
+manufacturer: Helixor Heilmittel GmbH&Co. KG, Germany
+atc_code: L01CX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0534/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0534/smpc

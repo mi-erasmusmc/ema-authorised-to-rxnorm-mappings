@@ -1,0 +1,7 @@
+short_name: Scintimun
+active_substance: Besilesomabum
+marketing_authorisation_holder: Telix Innovations N.V., Belgium
+manufacturer: CIS bio international, France
+atc_code: V09HA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/602/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/602/001/smpc

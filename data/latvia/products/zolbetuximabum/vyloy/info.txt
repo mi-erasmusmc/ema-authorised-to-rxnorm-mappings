@@ -1,0 +1,7 @@
+short_name: Vyloy
+active_substance: Zolbetuximabum
+marketing_authorisation_holder: Astellas Pharma Europe B.V., Netherlands
+manufacturer: Astellas Ireland Co., Ltd., Ireland
+atc_code: L01FX31
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1856/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1856/001/smpc

@@ -1,0 +1,7 @@
+short_name: Sympathyl
+active_substance: Eschscholtziae californica extractum siccum, Crataegi floris extractum siccum, Magnesii oxidum
+marketing_authorisation_holder: Laboratoire Innotech International SAS, France
+manufacturer: Innothera Chouzy, France
+atc_code: N05CM
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0206/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0206/smpc

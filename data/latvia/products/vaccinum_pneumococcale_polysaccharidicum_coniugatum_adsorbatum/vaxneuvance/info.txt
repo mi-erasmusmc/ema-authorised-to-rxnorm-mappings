@@ -1,0 +1,7 @@
+short_name: Vaxneuvance
+active_substance: Vaccinum pneumococcale polysaccharidicum coniugatum adsorbatum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands
+atc_code: J07AL02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1591/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1591/001/smpc

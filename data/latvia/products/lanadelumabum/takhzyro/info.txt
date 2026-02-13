@@ -1,0 +1,7 @@
+short_name: Takhzyro
+active_substance: Lanadelumabum
+marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+manufacturer: Shire Pharmaceuticals Ireland Limited, Ireland; Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+atc_code: B06AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1340/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1340/001/smpc

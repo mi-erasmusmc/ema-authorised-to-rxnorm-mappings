@@ -1,0 +1,7 @@
+short_name: Rhokiinsa
+active_substance: Netarsudilum
+marketing_authorisation_holder: Santen Oy, Finland
+manufacturer: Aerie Pharmaceuticals Ireland Limited., Ireland; Santen Oy, Finland
+atc_code: S01EX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1400/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1400/001/smpc

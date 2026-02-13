@@ -1,0 +1,7 @@
+short_name: Velios
+active_substance: Diosminum
+marketing_authorisation_holder: PharmaSwiss Ceska republika s.r.o., Czech Republic
+manufacturer: ICN Polfa Rzeszow S.A., Poland
+atc_code: C05CA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0261/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0261/smpc

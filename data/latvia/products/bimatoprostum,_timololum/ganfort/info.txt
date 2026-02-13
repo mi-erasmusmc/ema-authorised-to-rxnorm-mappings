@@ -1,0 +1,7 @@
+short_name: Ganfort
+active_substance: Bimatoprostum, Timololum
+marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG, Germany
+manufacturer: Allergan Pharmaceuticals Ireland, Ireland
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/340/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/340/001/smpc

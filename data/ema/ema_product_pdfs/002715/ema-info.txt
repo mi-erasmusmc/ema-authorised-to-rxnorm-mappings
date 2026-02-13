@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002715
+Name of medicine: Ionsys
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: fentanyl
+Active substance: fentanyl hydrochloride
+Therapeutic area (MeSH): Pain, Postoperative
+ATC code (human): N02AB03
+Pharmacotherapeutic group (human): Analgesics
+Therapeutic indication: Ionsys is indicated for the management of acute moderate to severe post-operative pain in adult patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ionsys

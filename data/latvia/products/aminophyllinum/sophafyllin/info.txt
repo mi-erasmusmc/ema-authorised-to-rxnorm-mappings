@@ -1,0 +1,7 @@
+short_name: Sophafyllin
+active_substance: Aminophyllinum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: R03DA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0371/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0371/smpc

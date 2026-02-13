@@ -1,0 +1,7 @@
+short_name: Dolobene gel
+active_substance: Dimethylis sulfoxidum, Dexpanthenolum, Heparinum natricum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany
+atc_code: C05BA53
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0008/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0008/smpc

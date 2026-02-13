@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000822
+Name of medicine: Prepandrix
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: prepandemic influenza vaccine (H5N1) (split virion, inactivated, adjuvanted)
+Active substance: A/Indonesia/05/2005 (H5N1) like strain used (PR8-IBCDC-RG2)
+Therapeutic area (MeSH): Influenza, Human;Immunization;Disease Outbreaks
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Active immunisation against H5N1 subtype of influenza-A virus. This indication is based on immunogenicity data from healthy subjects from the age of 18 years onwards following administration of two doses of vaccine prepared with H5N1 subtype strains. Prepandrix should be used in accordance with official guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/prepandrix

@@ -1,0 +1,7 @@
+short_name: Ketoconazol-ratiopharm
+active_substance: Ketoconazolum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Laboratorios Feltor S.A., Spain
+atc_code: D01AC08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0030/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0030/smpc

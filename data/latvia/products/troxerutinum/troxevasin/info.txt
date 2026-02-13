@@ -1,0 +1,7 @@
+short_name: Troxevasin
+active_substance: Troxerutinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Troyan AD, Bulgaria
+atc_code: C05CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0338/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0338/smpc

@@ -1,0 +1,7 @@
+short_name: Bavencio
+active_substance: Avelumabum
+marketing_authorisation_holder: Merck Europe B.V., Netherlands
+manufacturer: Merck Serono S.p.A. Modugno site, Italy
+atc_code: L01FF04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1214/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1214/001/smpc

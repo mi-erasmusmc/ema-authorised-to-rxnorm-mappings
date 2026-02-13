@@ -1,0 +1,7 @@
+short_name: Galafold
+active_substance: Migalastatum
+marketing_authorisation_holder: Amicus Therapeutics Europe Limited, Ireland
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: A16AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1082/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1082/001/smpc

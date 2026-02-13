@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006165
+Name of medicine: Penbraya
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: meningococcal groups A, C, W, Y conjugate and group B vaccine (recombinant, adsorbed)
+Active substance: Neisseria meningitidis group A polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group C polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group W polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group Y polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group B fHBP protein subfamily A;Neisseria meningitidis group B fHBP protein subfamily B
+Therapeutic area (MeSH): Meningitis, Meningococcal
+ATC code (human): J07AH11
+Pharmacotherapeutic group (human): Vaccines, meningococcal vaccines&nbsp
+Therapeutic indication: Penbraya is indicated for active immunisation of individuals 10 years of age and older to prevent invasive disease caused by Neisseria meningitidis groups A, B, C, W, and Y. The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/penbraya

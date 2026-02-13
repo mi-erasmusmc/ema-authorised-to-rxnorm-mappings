@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002499
+Name of medicine: Ryzodeg
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin degludec;insulin aspart
+Active substance: insulin aspart;insulin degludec
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AD06
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of diabetes mellitus in adults, adolescents and children from the age of 2 years.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ryzodeg

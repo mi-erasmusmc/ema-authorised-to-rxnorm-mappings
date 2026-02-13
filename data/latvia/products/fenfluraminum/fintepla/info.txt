@@ -1,0 +1,7 @@
+short_name: Fintepla
+active_substance: Fenfluraminum
+marketing_authorisation_holder: UCB Pharma S.A., Belgium
+manufacturer: UCB Pharma S.A., Belgium; Millmount Healthcare Limited, Ireland
+atc_code: N03AX26
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1491/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1491/001/smpc

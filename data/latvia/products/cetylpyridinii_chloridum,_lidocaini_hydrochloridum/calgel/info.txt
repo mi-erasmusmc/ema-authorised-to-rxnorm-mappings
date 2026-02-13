@@ -1,0 +1,7 @@
+short_name: Calgel
+active_substance: Cetylpyridinii chloridum, Lidocaini hydrochloridum
+marketing_authorisation_holder: McNeil Healthcare (Ireland) Limited, Ireland
+manufacturer: Delpharm Orleans, France
+atc_code: A01AD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0249/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0249/smpc

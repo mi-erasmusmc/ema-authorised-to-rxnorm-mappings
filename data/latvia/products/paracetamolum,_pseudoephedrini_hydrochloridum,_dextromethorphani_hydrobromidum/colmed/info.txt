@@ -1,0 +1,7 @@
+short_name: Colmed
+active_substance: Paracetamolum, Pseudoephedrini hydrochloridum, Dextromethorphani hydrobromidum
+marketing_authorisation_holder: US Pharmacia Sp. z o.o., Poland
+manufacturer: US Pharmacia Sp. z o.o., Poland
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0174/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0174/smpc

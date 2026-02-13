@@ -1,0 +1,7 @@
+short_name: Qoyvolma
+active_substance: Ustekinumabum
+marketing_authorisation_holder: Celltrion Healthcare Hungary Kft., Hungary
+manufacturer: Kymos, S.L., Spain; Nuvisan France SARL, France; Midas Pharma GmbH, Germany
+atc_code: L04AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1925/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1925/001/smpc

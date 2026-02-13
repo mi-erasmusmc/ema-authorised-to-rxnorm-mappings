@@ -1,0 +1,7 @@
+short_name: Amiokordin
+active_substance: Amiodaroni hydrochloridum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C01BD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0558/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0558/smpc

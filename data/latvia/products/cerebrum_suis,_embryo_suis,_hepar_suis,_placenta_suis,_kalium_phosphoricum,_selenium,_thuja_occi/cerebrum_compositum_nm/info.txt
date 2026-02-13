@@ -1,0 +1,7 @@
+short_name: Cerebrum compositum NM
+active_substance: Cerebrum suis, Embryo suis, Hepar suis, Placenta suis, Kalium phosphoricum, Selenium, Thuja occidentalis, Strychnos ignatia, Phosphoricum acidum, Cinchona pubescens, Sulfur, Kalium bichromicum, Gelsemium sempervirens, Ruta graveolens, Arnica montana, Aesculus hippocastanum, Manganum phosphoricum, Magnesium phosphoricum, Semecarpus anacardium, Conium maculatum, Hyoscyamus niger, Aconitum napellus, Anamirta cocculus, Ambra grisea
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1093/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1093/smpc

@@ -1,0 +1,7 @@
+short_name: Telzir
+active_substance: Fosamprenavirum
+marketing_authorisation_holder: Viiv Healthcare B.V., Netherlands
+manufacturer: Glaxo Wellcome S.A., Spain
+atc_code: J05AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/282/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/282/001/smpc

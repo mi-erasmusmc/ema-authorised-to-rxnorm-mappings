@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000505
+Name of medicine: TachoSil
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human fibrinogen;human thrombin
+Active substance: human fibrinogen;human thrombin
+Therapeutic area (MeSH): Hemostasis, Surgical
+ATC code (human): B02BC30
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: TachoSil is indicated in adults and children from 1 month of age for supportive treatment in surgery for improvement of haemostasis, to promote tissue sealing and for suture support in vascular surgery where standard techniques are insufficient. TachoSil is indicated in adults for supportive sealing of the dura mater to prevent postoperative cerebrospinal leakage following neurological surgery (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tachosil

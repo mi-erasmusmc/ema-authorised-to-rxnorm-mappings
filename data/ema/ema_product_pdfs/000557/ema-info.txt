@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000557
+Name of medicine: Apidra
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin glulisine
+Active substance: insulin glulisine
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AB06
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of adults, adolescents and children, six years or older with diabetes mellitus, where treatment with insulin is required.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/apidra

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000909
+Name of medicine: Qutenza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: capsaicin
+Active substance: capsaicin
+Therapeutic area (MeSH): Neuralgia
+ATC code (human): N01BX04
+Pharmacotherapeutic group (human): Anesthetics
+Therapeutic indication: Qutenza is indicated for the treatment of peripheral neuropathic pain in adults either alone or in combination with other medicinal products for pain.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/qutenza

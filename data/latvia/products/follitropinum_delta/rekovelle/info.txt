@@ -1,0 +1,7 @@
+short_name: Rekovelle
+active_substance: Follitropinum delta
+marketing_authorisation_holder: Ferring Pharmaceuticals A/S, Denmark
+manufacturer: Ferring GmbH, Germany
+atc_code: G03GA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1150/004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1150/004/smpc

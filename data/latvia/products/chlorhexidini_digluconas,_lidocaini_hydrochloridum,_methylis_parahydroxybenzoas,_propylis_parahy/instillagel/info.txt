@@ -1,0 +1,7 @@
+short_name: Instillagel
+active_substance: Chlorhexidini digluconas, Lidocaini hydrochloridum, Methylis parahydroxybenzoas, Propylis parahydroxybenzoas
+marketing_authorisation_holder: Farco-Pharma GmbH, Germany
+manufacturer: Almed GmbH, Germany
+atc_code: N01BB52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001548/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001548/smpc

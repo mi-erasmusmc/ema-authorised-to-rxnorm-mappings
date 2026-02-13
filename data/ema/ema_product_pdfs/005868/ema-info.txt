@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005868
+Name of medicine: Vyloy
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: zolbetuximab
+Active substance: zolbetuximab
+Therapeutic area (MeSH): Stomach Neoplasms;Esophageal Neoplasms
+ATC code (human): L01FX31
+Pharmacotherapeutic group (human): 
+Therapeutic indication: Vyloy, in combination with fluoropyrimidine- and platinum-containing chemotherapy, is indicated for the first line treatment of adult patients with locally advanced unresectable or metastatic HER2 negative gastric or gastro-oesophageal junction (GEJ) adenocarcinoma whose tumours are Claudin (CLDN) 18.2 positive (see section 4.2).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vyloy

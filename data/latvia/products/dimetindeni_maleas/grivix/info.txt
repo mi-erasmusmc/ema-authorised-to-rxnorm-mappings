@@ -1,0 +1,7 @@
+short_name: Grivix
+active_substance: Dimetindeni maleas
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: D04AA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0348/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0348/smpc

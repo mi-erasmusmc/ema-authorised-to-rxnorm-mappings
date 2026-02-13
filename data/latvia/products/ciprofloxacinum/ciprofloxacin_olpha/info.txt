@@ -1,0 +1,7 @@
+short_name: Ciprofloxacin Olpha
+active_substance: Ciprofloxacinum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Pharmathen S.A., Greece
+atc_code: J01MA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0223/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0223/smpc

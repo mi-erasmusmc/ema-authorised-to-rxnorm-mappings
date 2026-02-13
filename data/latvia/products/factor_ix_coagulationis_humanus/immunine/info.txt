@@ -1,0 +1,7 @@
+short_name: Immunine
+active_substance: Factor IX coagulationis humanus
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B02BD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0322/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0322/smpc

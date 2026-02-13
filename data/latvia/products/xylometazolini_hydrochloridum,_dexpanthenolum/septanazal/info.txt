@@ -1,0 +1,7 @@
+short_name: Septanazal
+active_substance: Xylometazolini hydrochloridum, Dexpanthenolum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: R01AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0207/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0207/smpc

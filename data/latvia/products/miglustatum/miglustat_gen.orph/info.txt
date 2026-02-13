@@ -1,0 +1,7 @@
+short_name: Miglustat Gen.Orph
+active_substance: Miglustatum
+marketing_authorisation_holder: Gen.Orph, France
+manufacturer: Delpharm Reims, France
+atc_code: A16AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1232/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1232/001/smpc

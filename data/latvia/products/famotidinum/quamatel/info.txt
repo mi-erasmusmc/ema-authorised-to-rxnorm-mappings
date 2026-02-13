@@ -1,0 +1,7 @@
+short_name: Quamatel
+active_substance: Famotidinum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Ltd., Hungary
+atc_code: A02BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0489/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0489/smpc

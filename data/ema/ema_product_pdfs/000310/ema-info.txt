@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000310
+Name of medicine: Azomyr
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: desloratadine
+Active substance: desloratadine
+Therapeutic area (MeSH): Rhinitis, Allergic, Perennial;Urticaria;Rhinitis, Allergic, Seasonal
+ATC code (human): R06AX27
+Pharmacotherapeutic group (human): Antihistamines for systemic use
+Therapeutic indication: Azomyr is indicated for the relief of symptoms associated with:  allergic rhinitis (see section 5.1) urticaria (see section 5.1)
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/azomyr

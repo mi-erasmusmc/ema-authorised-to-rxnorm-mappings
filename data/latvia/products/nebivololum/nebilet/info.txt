@@ -1,0 +1,7 @@
+short_name: Nebilet
+active_substance: Nebivololum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: Berlin-Chemie AG, Germany; Menarini-Von Heyden GmbH, Germany
+atc_code: C07AB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0344/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0344/smpc

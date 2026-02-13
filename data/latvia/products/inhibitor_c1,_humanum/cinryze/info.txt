@@ -1,0 +1,7 @@
+short_name: Cinryze
+active_substance: Inhibitor C1, humanum
+marketing_authorisation_holder: Takeda Manufacturing Austria AG, Austria
+manufacturer: Shire International Licensing B.V., Netherlands; Takeda Manufacturing Austria AG, Austria
+atc_code: B06AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/688/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/688/001/smpc

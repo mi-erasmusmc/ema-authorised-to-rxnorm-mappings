@@ -1,0 +1,7 @@
+short_name: Isosorbide mononitrate Vitabalans
+active_substance: Isosorbidi mononitras
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: C01DA14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0301/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0301/smpc

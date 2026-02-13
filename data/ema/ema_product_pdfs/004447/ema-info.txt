@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004447
+Name of medicine: Aimovig
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: erenumab
+Active substance: erenumab
+Therapeutic area (MeSH): Migraine Disorders
+ATC code (human): N02CD01
+Pharmacotherapeutic group (human): Analgesics
+Therapeutic indication: Aimovig is indicated for prophylaxis of migraine in adults who have at least 4 migraine days per month when initiating treatment with Aimovig.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aimovig

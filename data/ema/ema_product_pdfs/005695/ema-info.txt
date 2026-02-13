@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005695
+Name of medicine: Opfolda
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: miglustat
+Active substance: miglustat
+Therapeutic area (MeSH): Glycogen Storage Disease Type II
+ATC code (human): A16AX06
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Opfolda (miglustat) is an enzyme stabiliser of cipaglucosidase alfa long-term enzyme replacement therapy in adults with late-onset Pompe disease (acid ?- glucosidase [GAA] deficiency).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/opfolda

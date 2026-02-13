@@ -1,0 +1,7 @@
+short_name: Dymista
+active_substance: Azelastini hydrochloridum, Fluticasoni propionas
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Meda Pharma GmbH & Co.KG, Germany; Haupt Pharma Amareg GmbH, Germany; Madaus GmbH, Germany; Mylan Hungary Kft., Hungary
+atc_code: R01AD58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0044/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0044/smpc

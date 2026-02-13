@@ -1,0 +1,7 @@
+short_name: Traumeel S ointment
+active_substance: Arnica montana, Hamamelis virginiana, Echinacea angustifolia, Echinacea purpurea, Matricaria chamomilla, Symphytum officinale, Bellis perennis, Hypericum perforatum, Achillea millefolium, Aconitum napellus, Atropa belladonna, Mercurius solubilis Hahnemanni, Hepar sulfuris, Calendula officinalis
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0088/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0088/smpc

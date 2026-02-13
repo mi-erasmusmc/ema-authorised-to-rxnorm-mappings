@@ -1,0 +1,7 @@
+short_name: Latuda
+active_substance: Lurasidonum
+marketing_authorisation_holder: Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A., Italy
+manufacturer: Millmount Healthcare Ltd., Ireland; AndersonBrecon (UK) Limited, United Kingdom; Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A., Italy
+atc_code: N05AE05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/913/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/913/001/smpc

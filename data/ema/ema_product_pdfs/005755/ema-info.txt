@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005755
+Name of medicine: Sotyktu
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: deucravacitinib
+Active substance: deucravacitinib
+Therapeutic area (MeSH): Psoriasis
+ATC code (human): L04AA
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Treatment of moderate-to-severe plaque psoriasis in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sotyktu

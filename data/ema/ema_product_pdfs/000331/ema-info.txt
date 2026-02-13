@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000331
+Name of medicine: Fasturtec
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rasburicase
+Active substance: rasburicase
+Therapeutic area (MeSH): Hyperuricemia
+ATC code (human): V03AF07
+Pharmacotherapeutic group (human): All other therapeutic products
+Therapeutic indication: Treatment and prophylaxis of acute hyperuricaemia, in order to prevent acute renal failure, in adults, children and adolescents (aged 0 to 17 years) with haematological malignancy with a high tumour burden and at risk of a rapid tumour lysis or shrinkage at initiation of chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fasturtec

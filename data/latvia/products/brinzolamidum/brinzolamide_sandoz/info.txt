@@ -1,0 +1,7 @@
+short_name: Brinzolamide Sandoz
+active_substance: Brinzolamidum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Novartis Farmaceutica S.A., Spain; S.A. Alcon-Couvreur N.V., Belgium; Salutas Pharma GmbH, Germany; Siegfried El Masnou, S.A., Spain; Novartis Pharma GmbH, Germany
+atc_code: S01EC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0024/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0024/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003986
+Name of medicine: Praxbind
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: idarucizumab
+Active substance: idarucizumab
+Therapeutic area (MeSH): Hemorrhage
+ATC code (human): V03AB
+Pharmacotherapeutic group (human): All other therapeutic products
+Therapeutic indication: Praxbind is a specific reversal agent for dabigatran and is indicated in adult patients treated with Pradaxa (dabigatran etexilate) when rapid reversal of its anticoagulant effects is required:  for emergency surgery/urgent procedures; in life-threatening or uncontrolled bleeding.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/praxbind

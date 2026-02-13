@@ -1,0 +1,7 @@
+short_name: Xofigo
+active_substance: Radii Ra 223 dichloridum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AS, Norway
+atc_code: V10XX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/873/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/873/001/smpc

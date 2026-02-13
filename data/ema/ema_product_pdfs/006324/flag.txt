@@ -1,0 +1,1 @@
+No RxNorm concept exists for atropine sulfate 0.1 MG/ML (0.01%) ophthalmic solution. This is a novel low-dose atropine product for myopia progression (Ryjunea). Mapped BROAD to "atropine Ophthalmic Solution" (clinical drug form). Lowest available RxNorm concentration is 0.31 MG/ML.

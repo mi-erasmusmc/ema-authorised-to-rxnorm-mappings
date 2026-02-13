@@ -1,0 +1,7 @@
+short_name: Cessolute
+active_substance: Lidocainum, Tetracainum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Industrial Farmaceutica Cantabria, S.A., Spain
+atc_code: N01BB52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0204/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0204/smpc

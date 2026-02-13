@@ -1,0 +1,7 @@
+short_name: Kanpiduo
+active_substance: Candesartanum cilexetilum, Indapamidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany; KRKA, d.d., Novo mesto, Slovenia
+atc_code: C09DA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0259/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0259/smpc

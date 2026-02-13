@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000680
+Name of medicine: Tandemact
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pioglitazone;glimepiride
+Active substance: pioglitazone;glimepiride
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BD06
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Tandemact is indicated for the treatment of patients with type-2 diabetes mellitus who show intolerance to metformin or for whom metformin is contraindicated and who are already treated with a combination of pioglitazone and glimepiride.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tandemact

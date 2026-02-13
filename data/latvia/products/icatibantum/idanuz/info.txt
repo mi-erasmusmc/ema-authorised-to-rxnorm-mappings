@@ -1,0 +1,7 @@
+short_name: Idanuz
+active_substance: Icatibantum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Pharmadox Healthcare Ltd., Malta; Eurofins PROXY Laboratories B.V., Netherlands
+atc_code: B06AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0198/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0198/smpc

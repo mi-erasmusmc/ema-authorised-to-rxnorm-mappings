@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005932
+Name of medicine: Akeega
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: niraparib;abiraterone acetate
+Active substance: abiraterone acetate;niraparib (tosilate monohydrate)
+Therapeutic area (MeSH): Prostatic Neoplasms, Castration-Resistant
+ATC code (human): L01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of adult patients with prostate cancer.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/akeega

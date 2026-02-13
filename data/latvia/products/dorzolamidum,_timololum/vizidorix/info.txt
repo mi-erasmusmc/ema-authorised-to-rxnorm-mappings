@@ -1,0 +1,7 @@
+short_name: Vizidorix
+active_substance: Dorzolamidum, Timololum
+marketing_authorisation_holder: Bausch + Lomb Ireland Limited, Ireland
+manufacturer: Pharmathen S.A., Greece; Excelvision, France
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0064/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0064/smpc

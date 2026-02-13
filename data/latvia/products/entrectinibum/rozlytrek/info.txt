@@ -1,0 +1,7 @@
+short_name: Rozlytrek
+active_substance: Entrectinibum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01EX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1460/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1460/001/smpc

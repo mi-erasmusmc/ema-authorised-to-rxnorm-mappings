@@ -1,0 +1,7 @@
+short_name: Persen forte
+active_substance: Menthae piperitae folii extractum siccum, Melissae folii extractum siccum, Valerianae extractum hydroalcoholicum siccum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Adipharm EAD, Bulgaria
+atc_code: N05CM
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0711/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0711/smpc

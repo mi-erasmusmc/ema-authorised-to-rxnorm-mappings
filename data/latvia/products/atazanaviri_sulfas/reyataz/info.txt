@@ -1,0 +1,7 @@
+short_name: Reyataz
+active_substance: Atazanaviri sulfas
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories T/A Lawrence Laboratories, Ireland; Swords Laboratories T/A Bristol-Myers Squibb Pharmaceutical Operations, External Manufacturing, Ireland; Catalent Anagni S.R.L., Italy
+atc_code: J05AE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/267/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/267/001/smpc

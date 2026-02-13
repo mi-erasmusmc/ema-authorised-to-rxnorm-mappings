@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005685
+Name of medicine: Zynlonta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: loncastuximab tesirine
+Active substance: loncastuximab tesirine
+Therapeutic area (MeSH): Lymphoma, Large B-Cell, Diffuse;Lymphoma, B-Cell
+ATC code (human): L01FX22
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Zynlonta as monotherapy is indicated for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) and high-grade B-cell lymphoma (HGBL), after two or more lines of systemic therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zynlonta

@@ -1,0 +1,7 @@
+short_name: Lupkynis
+active_substance: Voclosporinum
+marketing_authorisation_holder: Otsuka Pharmaceutical Netherlands B.V., Netherlands
+manufacturer: Millmount Healthcare Limited, Ireland
+atc_code: L04AD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1678/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1678/001/smpc

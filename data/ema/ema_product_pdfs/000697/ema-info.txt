@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000697
+Name of medicine: Suboxone
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: buprenorphine;naloxone
+Active substance: buprenorphine;naloxone
+Therapeutic area (MeSH): Opioid-Related Disorders
+ATC code (human): N07BC51
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment is intended for use in adults and adolescents over 15 years of age who have agreed to be treated for addiction.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/suboxone

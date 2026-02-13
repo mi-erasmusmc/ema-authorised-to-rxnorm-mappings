@@ -1,0 +1,7 @@
+short_name: Prezista
+active_substance: Darunavirum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen-Cilag SpA, Italy
+atc_code: J05AE10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/380/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/380/002/smpc

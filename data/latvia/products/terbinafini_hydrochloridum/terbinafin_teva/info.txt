@@ -1,0 +1,7 @@
+short_name: Terbinafin Teva
+active_substance: Terbinafini hydrochloridum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Actavis Ltd., Malta
+atc_code: D01BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001745/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001745/smpc

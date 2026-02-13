@@ -1,0 +1,7 @@
+short_name: Rasagiline Viatris
+active_substance: Rasagilinum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Synthon Hispania S.L., Spain; Mylan Hungary Kft., Hungary; Synthon s.r.o., Czech Republic
+atc_code: N04BD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1090/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1090/001/smpc

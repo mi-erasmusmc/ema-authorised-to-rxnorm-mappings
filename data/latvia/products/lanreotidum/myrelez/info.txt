@@ -1,0 +1,7 @@
+short_name: Myrelez
+active_substance: Lanreotidum
+marketing_authorisation_holder: Amdipharm Limited, Ireland
+manufacturer: Pharmathen S.A., Greece; Pharmathen International S.A., Greece
+atc_code: H01CB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0070/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0070/smpc

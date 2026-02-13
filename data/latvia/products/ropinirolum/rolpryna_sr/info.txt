@@ -1,0 +1,7 @@
+short_name: Rolpryna SR
+active_substance: Ropinirolum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: N04BC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0085/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0085/smpc

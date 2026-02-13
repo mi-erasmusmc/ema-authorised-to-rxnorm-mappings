@@ -1,0 +1,7 @@
+short_name: Okitask
+active_substance: Ketoprofenum
+marketing_authorisation_holder: Dompe Farmaceutici S.p.A., Italy
+manufacturer: Dompe Farmaceutici S.p.A., Italy
+atc_code: M01AE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0169/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0169/smpc

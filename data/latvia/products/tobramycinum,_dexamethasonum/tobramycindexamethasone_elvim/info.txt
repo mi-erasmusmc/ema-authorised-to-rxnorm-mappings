@@ -1,0 +1,7 @@
+short_name: Tobramycin/Dexamethasone ELVIM
+active_substance: Tobramycinum, Dexamethasonum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Rafarm SA, Greece
+atc_code: S01CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0216/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0216/smpc

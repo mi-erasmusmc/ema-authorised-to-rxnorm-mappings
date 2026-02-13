@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005614
+Name of medicine: Qinlock
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ripretinib
+Active substance: ripretinib
+Therapeutic area (MeSH): Gastrointestinal Stromal Tumors
+ATC code (human): L01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Qinlock is indicated for the treatment of adult patients with advanced gastrointestinal stromal tumour (GIST) who have received prior treatment with three or more kinase inhibitors, including imatinib.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/qinlock

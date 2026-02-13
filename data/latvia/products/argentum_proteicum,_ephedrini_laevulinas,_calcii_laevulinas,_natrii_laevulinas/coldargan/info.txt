@@ -1,0 +1,7 @@
+short_name: Coldargan
+active_substance: Argentum proteicum, Ephedrini laevulinas, Calcii laevulinas, Natrii laevulinas
+marketing_authorisation_holder: Sigmapharm Arzneimittel GmbH, Austria
+manufacturer: MoNo chem-pharm Produkte GmbH, Austria
+atc_code: R01AX30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0718/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0718/smpc

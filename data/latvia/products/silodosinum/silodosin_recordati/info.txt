@@ -1,0 +1,7 @@
+short_name: Silodosin Recordati
+active_substance: Silodosinum
+marketing_authorisation_holder: Recordati Ireland Limited, Ireland
+manufacturer: Recordati Industria Chimica e Farmaceutica S.p.A., Italy; Laboratoires Bouchara-Recordati, France
+atc_code: G04CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1343/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1343/001/smpc

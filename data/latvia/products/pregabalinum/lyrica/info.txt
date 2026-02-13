@@ -1,0 +1,7 @@
+short_name: Lyrica
+active_substance: Pregabalinum
+marketing_authorisation_holder: Upjohn EESV, Netherlands
+manufacturer: Pfizer Manufacturing Deutschland GmbH, Germany; Medis International a.s., Czech Republic; Mylan Hungary Kft., Hungary
+atc_code: N02BF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/279/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/279/001/smpc

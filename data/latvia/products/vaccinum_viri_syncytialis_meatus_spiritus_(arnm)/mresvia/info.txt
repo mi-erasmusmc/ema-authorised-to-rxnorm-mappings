@@ -1,0 +1,7 @@
+short_name: mRESVIA
+active_substance: Vaccinum viri syncytialis meatus spiritus (ARNm)
+marketing_authorisation_holder: Moderna Biotech Spain S.L., Spain
+manufacturer: Moderna Biotech Spain S.L., Spain
+atc_code: J07BX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1849/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1849/001/smpc

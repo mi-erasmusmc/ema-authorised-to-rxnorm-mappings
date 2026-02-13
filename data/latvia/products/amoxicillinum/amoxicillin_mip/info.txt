@@ -1,0 +1,7 @@
+short_name: Amoxicillin MIP
+active_substance: Amoxicillinum
+marketing_authorisation_holder: MIP Pharma GmbH, Germany
+manufacturer: MIP Pharma GmbH, Germany
+atc_code: J01CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0085/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0085/smpc

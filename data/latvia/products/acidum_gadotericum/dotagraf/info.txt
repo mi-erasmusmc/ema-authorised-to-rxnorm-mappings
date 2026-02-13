@@ -1,0 +1,7 @@
+short_name: Dotagraf
+active_substance: Acidum gadotericum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Sanochemia Pharmazeutika GmbH, Austria
+atc_code: V08CA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0205/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0205/smpc

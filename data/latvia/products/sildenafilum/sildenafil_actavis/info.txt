@@ -1,0 +1,7 @@
+short_name: Sildenafil Actavis
+active_substance: Sildenafilum
+marketing_authorisation_holder: Actavis Group PTC ehf., Iceland
+manufacturer: Actavis Limited, Malta
+atc_code: G04BE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/595/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/595/001/smpc

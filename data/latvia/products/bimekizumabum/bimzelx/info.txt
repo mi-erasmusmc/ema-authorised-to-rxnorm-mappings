@@ -1,0 +1,7 @@
+short_name: Bimzelx
+active_substance: Bimekizumabum
+marketing_authorisation_holder: UCB Pharma S.A., Belgium
+manufacturer: UCB Pharma S.A., Belgium
+atc_code: L04AC21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1575/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1575/001/smpc

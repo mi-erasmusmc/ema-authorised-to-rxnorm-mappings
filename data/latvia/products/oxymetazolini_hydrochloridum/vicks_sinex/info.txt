@@ -1,0 +1,7 @@
+short_name: Vicks Sinex
+active_substance: Oxymetazolini hydrochloridum
+marketing_authorisation_holder: PROCTER & GAMBLE HELLAS M.E.P.E, Greece
+manufacturer: Procter & Gamble Manufacturing GmbH, Germany
+atc_code: R01AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001697/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001697/smpc

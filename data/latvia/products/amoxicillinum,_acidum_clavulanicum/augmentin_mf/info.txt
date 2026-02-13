@@ -1,0 +1,7 @@
+short_name: Augmentin MF
+active_substance: Amoxicillinum, Acidum clavulanicum
+marketing_authorisation_holder: GlaxoSmithKline Single Member A.E.B.E., Greece
+manufacturer: Glaxo Wellcome Production, France
+atc_code: J01CR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001525/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001525/smpc

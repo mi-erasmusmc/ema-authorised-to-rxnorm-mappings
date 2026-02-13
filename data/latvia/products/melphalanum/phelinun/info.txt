@@ -1,0 +1,7 @@
+short_name: Phelinun
+active_substance: Melphalanum
+marketing_authorisation_holder: Adienne S.r.l S.U., Italy
+manufacturer: NerPharMa S.R.L., Italy; Adienne S.r.l S.U., Italy
+atc_code: L01AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1487/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1487/001/smpc

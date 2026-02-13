@@ -1,0 +1,7 @@
+short_name: Cohiber
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zaklady Farmaceutyczne Polpharma S.A., Poland; Zakłady Farmaceutyczne Polpharma S.A., Poland
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0121/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0121/smpc

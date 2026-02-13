@@ -1,0 +1,7 @@
+short_name: Sitagliptin Grindeks
+active_substance: Sitagliptinum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: A10BH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0006/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0006/smpc

@@ -1,0 +1,7 @@
+short_name: Amyvid
+active_substance: Florbetapirum (18F)
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Advanced Accelerator Applications-Bethune, France; Advanced Accelerator Applications (Italy). S.r.l., Italy; Advanced Accelerator Applications-Saint Genis-Poully, France; Advanced Accelerator Applications Iberica, Spain; PETNET solutions, United Kingdom; Advanced Accelerator Applications (Italy). S.r.l., Italy; Advanced Accelerator Applications Germany GmbH, Germany; Advanced Accelerator Applications (Italy), S.r.l. – Venafro, Italy; PETNET Solutions - Mt Vernon (Siemens Healthcare Limited), United Kingdom; Petnet Solutions S.A.S. – Lisses, France; Catalana de Dispensación SAU, Spain
+atc_code: V09AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/805/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/805/001/smpc

@@ -1,0 +1,7 @@
+short_name: Mirvaso
+active_substance: Brimonidinum
+marketing_authorisation_holder: Galderma International, France
+manufacturer: Laboratoires GALDERMA, France; Galderma Laboratorium GmbH, Germany
+atc_code: D11AX21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/904/004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/904/004/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000223
+Name of medicine: Emadine
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: emedastine
+Active substance: emedastine difumarate
+Therapeutic area (MeSH): Conjunctivitis, Allergic
+ATC code (human): S01GX06
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Symptomatic treatment of seasonal allergic conjunctivitis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emadine

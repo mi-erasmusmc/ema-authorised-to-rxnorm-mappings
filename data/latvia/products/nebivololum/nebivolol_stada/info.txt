@@ -1,0 +1,7 @@
+short_name: Nebivolol STADA
+active_substance: Nebivololum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany
+atc_code: C07AB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0316/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0316/smpc

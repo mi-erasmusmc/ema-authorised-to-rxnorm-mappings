@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001119
+Name of medicine: Nevirapine Teva
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: nevirapine
+Active substance: nevirapine
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AG01
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Nevirapine Teva is indicated in combination with other anti-retroviral medicinal products for the treatment of HIV 1 infected adults, adolescents, and children of any age. Most of the experience with nevirapine is in combination with nucleoside reverse transcriptase inhibitors (NRTIs). The choice of a subsequent therapy after nevirapine should be based on clinical experience and resistance testing.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nevirapine-teva

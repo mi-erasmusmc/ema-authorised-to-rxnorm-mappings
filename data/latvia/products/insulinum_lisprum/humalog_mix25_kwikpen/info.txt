@@ -1,0 +1,7 @@
+short_name: Humalog Mix25 KwikPen
+active_substance: Insulinum lisprum
+marketing_authorisation_holder: Eli Lilly Nederland BV, Netherlands
+manufacturer: Lilly France S.A.S., France; Lilly Pharma Fertigung und Distribution GmbH&Co.KG, Germany
+atc_code: A10AD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/007/033/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/007/033/smpc

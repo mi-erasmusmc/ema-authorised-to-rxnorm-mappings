@@ -1,0 +1,7 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/13/890/001	43012021	cabozantinib 20 MG Oral Capsule [Cometriq]	1363279	EXACT			2025-12-04
+EU/1/13/890/002	43011641	cabozantinib Oral Capsule [Cometriq]	1363276	BROAD			2025-12-04
+EU/1/13/890/003	43012062	{84 (cabozantinib 20 MG Oral Capsule [Cometriq]) / 28 (cabozantinib 80 MG Oral Capsule [Cometriq]) } Pack [Cometriq 140 MG Daily Dose Carton]	1363408	EXACT			2025-12-04
+EU/1/13/890/004	43012021	cabozantinib 20 MG Oral Capsule [Cometriq]	1363279	EXACT			2025-12-04
+EU/1/13/890/005	43012064	{28 (cabozantinib 20 MG Oral Capsule [Cometriq]) / 28 (cabozantinib 80 MG Oral Capsule [Cometriq]) } Pack [Cometriq 100 MG Daily Dose Carton]	1363410	EXACT			2025-12-04
+EU/1/13/890/006	43012062	{84 (cabozantinib 20 MG Oral Capsule [Cometriq]) / 28 (cabozantinib 80 MG Oral Capsule [Cometriq]) } Pack [Cometriq 140 MG Daily Dose Carton]	1363408	EXACT			2025-12-04

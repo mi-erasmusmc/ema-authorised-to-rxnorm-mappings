@@ -1,0 +1,7 @@
+short_name: Aldara
+active_substance: Imiquimodum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: 3M Health Care Limited, United Kingdom; Meda Pharma GmbH & Co.KG, Germany; Swiss Caps GmbH, Germany
+atc_code: D06BB10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/080/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/080/001/smpc

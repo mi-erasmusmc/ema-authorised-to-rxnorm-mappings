@@ -1,0 +1,7 @@
+short_name: Zimbus Breezhaler
+active_substance: Indacaterolum, Glycopyrronium, Mometasoni furoas
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Novartis Pharma GmbH, Germany
+atc_code: R03AL12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1440/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1440/001/smpc

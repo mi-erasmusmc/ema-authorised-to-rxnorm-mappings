@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004584
+Name of medicine: Namuscla
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: mexiletine hcl
+Active substance: Mexiletine hydrochloride
+Therapeutic area (MeSH): Myotonic Disorders
+ATC code (human): C01BB02
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: Namuscla is indicated for the symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/namuscla

@@ -1,0 +1,7 @@
+short_name: Briglafre
+active_substance: Brimonidini tartras
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Rafarm S.A., Greece
+atc_code: S01EA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0161/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0161/smpc

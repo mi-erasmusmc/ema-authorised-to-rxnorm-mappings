@@ -1,0 +1,7 @@
+short_name: Avtozma
+active_substance: Tocilizumabum
+marketing_authorisation_holder: Celltrion Healthcare Hungary Kft., Hungary
+manufacturer: Kymos, S.L., Spain; Nuvisan France SARL, France; Midas Pharma GmbH, Germany
+atc_code: L04AC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1896/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1896/001/smpc

@@ -1,0 +1,7 @@
+short_name: Linex forte
+active_substance: Lactobacillus acidophilus, Bifidobacterium animalis subsp. lactis
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia
+atc_code: A07FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0067/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0067/smpc

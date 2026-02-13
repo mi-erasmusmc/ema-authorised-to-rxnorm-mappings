@@ -1,0 +1,7 @@
+short_name: Entecavir Accord
+active_substance: Entecavirum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Pharmadox Healthcare Ltd., Malta; Accord Healthcare Ltd, United Kingdom; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: J05AF10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1211/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1211/001/smpc

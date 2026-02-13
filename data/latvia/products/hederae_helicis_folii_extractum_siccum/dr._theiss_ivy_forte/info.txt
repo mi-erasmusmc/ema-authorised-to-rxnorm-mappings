@@ -1,0 +1,7 @@
+short_name: Dr. Theiss ivy forte
+active_substance: Hederae helicis folii extractum siccum
+marketing_authorisation_holder: Dr. Theiss Naturwaren GmbH, Germany
+manufacturer: Dr. Theiss Naturwaren GmbH, Germany
+atc_code: R05CA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0029/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0029/smpc

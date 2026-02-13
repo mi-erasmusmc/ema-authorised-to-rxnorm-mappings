@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006284
+Name of medicine: Voranigo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vorasidenib
+Active substance: vorasidenib
+Therapeutic area (MeSH): Oligodendroglioma;Astrocytoma
+ATC code (human): L01XM04
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Voranigo as monotherapy is indicated for the treatment of predominantly non‑enhancing Grade&nbsp;2 astrocytoma or oligodendroglioma with an IDH1 R132 or IDH2 R172 mutation in adult and adolescent patients aged 12&nbsp;years and older and weighing at least 40&nbsp;kg who only had surgical intervention and are not in immediate need of radiotherapy or chemotherapy (see section&nbsp;5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/voranigo

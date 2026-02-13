@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002720
+Name of medicine: Translarna
+Medicine status: Expired
+International non-proprietary name (INN) / common name: ataluren
+Active substance: ataluren
+Therapeutic area (MeSH): Muscular Dystrophy, Duchenne
+ATC code (human): M09AX03
+Pharmacotherapeutic group (human): Other drugs for disorders of the musculo-skeletal system
+Therapeutic indication: Translarna is indicated for the treatment of Duchenne muscular dystrophy resulting from a nonsense mutation in the dystrophin gene, in ambulatory patients aged 2 years and older. Efficacy has not been demonstrated in non-ambulatory patients. The presence of a nonsense mutation in the dystrophin gene should be determined by genetic testing.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/translarna

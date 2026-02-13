@@ -1,0 +1,7 @@
+short_name: Bicalutamide Grindeks
+active_substance: Bicalutamidum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Tecnimede - Sociedade Tecnico-Medicinal, SA, Portugal
+atc_code: L02BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0042/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0042/smpc

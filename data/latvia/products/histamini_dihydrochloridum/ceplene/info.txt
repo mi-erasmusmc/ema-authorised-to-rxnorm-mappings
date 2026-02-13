@@ -1,0 +1,7 @@
+short_name: Ceplene
+active_substance: Histamini dihydrochloridum
+marketing_authorisation_holder: Laboratoires Delber, France
+manufacturer: Labiana Pharmaceuticals. S.L.U, Spain
+atc_code: L03AX14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/477/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/477/001/smpc

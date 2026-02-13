@@ -1,0 +1,7 @@
+short_name: Brukinsa
+active_substance: Zanubrutinibum
+marketing_authorisation_holder: BeOne Medicines Ireland Limited, Ireland
+manufacturer: BeOne Medicines I GmbH, Dutch Branch, Netherlands
+atc_code: L01EL03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1576/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1576/001/smpc

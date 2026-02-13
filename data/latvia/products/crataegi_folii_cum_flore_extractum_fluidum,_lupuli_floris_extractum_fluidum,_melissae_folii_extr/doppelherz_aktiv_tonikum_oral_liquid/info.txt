@@ -1,0 +1,7 @@
+short_name: Doppelherz Aktiv Tonikum oral liquid
+active_substance: Crataegi folii cum flore extractum fluidum, Lupuli floris extractum fluidum, Melissae folii extractum fluidum
+marketing_authorisation_holder: Queisser Pharma GmbH & Co. KG, Germany
+manufacturer: Queisser Pharma GmbH & Co, Germany
+atc_code: A13A
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0407/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0407/smpc

@@ -1,0 +1,7 @@
+short_name: Waylivra
+active_substance: Volanesorsenum
+marketing_authorisation_holder: Akcea Therapeutics Ireland Ltd., Ireland
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: C10AX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1360/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1360/001/smpc

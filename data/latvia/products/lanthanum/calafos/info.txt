@@ -1,0 +1,7 @@
+short_name: Calafos
+active_substance: Lanthanum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: V03AE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0163/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0163/smpc

@@ -1,0 +1,7 @@
+short_name: Mylotarg
+active_substance: Gemtuzumabum ozogamicinum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Ireland Pharmaceuticals, Ireland
+atc_code: L01FX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1277/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1277/001/smpc

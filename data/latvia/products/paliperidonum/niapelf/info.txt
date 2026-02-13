@@ -1,0 +1,7 @@
+short_name: Niapelf
+active_substance: Paliperidonum
+marketing_authorisation_holder: Neuraxpharm Pharmaceuticals S.L., Spain
+manufacturer: Neuraxpharm Arzneimittel GmbH, Germany; Neuraxpharm Pharmaceuticals S.L., Spain
+atc_code: N05AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1795/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1795/001/smpc

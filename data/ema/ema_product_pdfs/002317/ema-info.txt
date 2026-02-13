@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002317
+Name of medicine: Docetaxel Mylan
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: docetaxel
+Active substance: docetaxel
+Therapeutic area (MeSH): Head and Neck Neoplasms;Carcinoma, Non-Small-Cell Lung;Adenocarcinoma;Prostatic Neoplasms;Breast Neoplasms
+ATC code (human): L01CD02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of breast cancer, special forms of lung cancer (non-small-cell lung cancer), prostate cancer, gastric cancer, or head and neck cancer.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-mylan-0

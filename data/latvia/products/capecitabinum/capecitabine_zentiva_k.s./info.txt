@@ -1,0 +1,7 @@
+short_name: Capecitabine Zentiva k.s.
+active_substance: Capecitabinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Apis Labor GmbH, Austria
+atc_code: L01BC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0205/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0205/smpc

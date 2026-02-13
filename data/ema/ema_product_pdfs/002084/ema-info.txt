@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002084
+Name of medicine: Halaven
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: eribulin
+Active substance: Eribulin
+Therapeutic area (MeSH): Breast Neoplasms;Liposarcoma
+ATC code (human): L01XX41
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Halaven monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer who have progressed after at least one chemotherapeutic regimens for advanced disease (see section 5.1). Prior therapy should have included an anthracycline and a taxane unless patients were not suitable for these treatments. Halaven is indicated for the treatment of adult patients with unresectable liposarcoma who have received prior anthracycline containing therapy (unless unsuitable) for advanced or metastatic disease (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/halaven

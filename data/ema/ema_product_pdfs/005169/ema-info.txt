@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005169
+Name of medicine: Nyxthracis (previously Obiltoxaximab SFL)
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: obiltoxaximab
+Active substance: nyxthracis
+Therapeutic area (MeSH): Anthrax
+ATC code (human): J06BB22
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Obiltoxaximab SFL is indicated in combination with appropriate antibacterial drugs in all age groups for treatment of inhalational anthrax due to Bacillus anthracis (see section 5.1). Obiltoxaximab SFL is indicated in all age groups for post-exposure prophylaxis of inhalational anthrax when alternative therapies are not appropriate or are not available (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nyxthracis

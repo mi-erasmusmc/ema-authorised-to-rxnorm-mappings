@@ -1,0 +1,7 @@
+short_name: Copalia HCT
+active_substance: Amlodipinum, Valsartanum, Hydrochlorothiazidum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany; Novartis Farmaceutica S.A., Spain
+atc_code: C09DX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/575/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/575/001/smpc

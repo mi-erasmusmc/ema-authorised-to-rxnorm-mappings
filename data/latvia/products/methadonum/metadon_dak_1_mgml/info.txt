@@ -1,0 +1,7 @@
+short_name: Metadon DAK 1 mg/ml
+active_substance: Methadonum
+marketing_authorisation_holder: Orifarm Manufacturing Poland Sp. z o.o., Poland
+manufacturer: 
+atc_code: N07BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/RN002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/RN002/smpc

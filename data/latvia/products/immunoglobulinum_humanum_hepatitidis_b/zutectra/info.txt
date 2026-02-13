@@ -1,0 +1,7 @@
+short_name: Zutectra
+active_substance: Immunoglobulinum humanum hepatitidis B
+marketing_authorisation_holder: Biotest Pharma GmbH, Germany
+manufacturer: Biotest Pharma GmbH, Germany
+atc_code: J06BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/600/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/600/001/smpc

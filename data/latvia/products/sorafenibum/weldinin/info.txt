@@ -1,0 +1,7 @@
+short_name: Weldinin
+active_substance: Sorafenibum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Remedica Ltd., Cyprus; PharOS MT Ltd., Malta
+atc_code: L01EX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0172/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0172/smpc

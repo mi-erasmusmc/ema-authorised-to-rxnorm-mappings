@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005406
+Name of medicine: Okedi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: risperidone
+Active substance: risperidone
+Therapeutic area (MeSH): Schizophrenia
+ATC code (human): N05AX08
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Treatment of schizophrenia in adults for whom tolerability and effectiveness has been established with oral risperidone.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/okedi

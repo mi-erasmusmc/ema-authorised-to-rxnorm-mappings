@@ -1,0 +1,7 @@
+short_name: MicardisPlus
+active_substance: Telmisartanum, Hydrochlorothiazidum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Rottendorf Pharma GmbH, Germany; Boehringer Ingelheim Ellas A.E., Greece
+atc_code: C09DA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/213/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/213/001/smpc

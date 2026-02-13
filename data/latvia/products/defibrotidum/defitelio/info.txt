@@ -1,0 +1,7 @@
+short_name: Defitelio
+active_substance: Defibrotidum
+marketing_authorisation_holder: Gentium S.r.l., Italy
+manufacturer: Gentium S.r.l., Italy
+atc_code: B01AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/878/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/878/001/smpc

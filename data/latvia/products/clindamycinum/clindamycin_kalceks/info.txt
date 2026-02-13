@@ -1,0 +1,7 @@
+short_name: Clindamycin Kalceks
+active_substance: Clindamycinum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: J01FF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0193/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0193/smpc

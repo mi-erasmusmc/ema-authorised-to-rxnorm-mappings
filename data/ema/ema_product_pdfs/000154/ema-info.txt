@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000154
+Name of medicine: Xenical
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: orlistat
+Active substance: orlistat
+Therapeutic area (MeSH): Obesity
+ATC code (human): A08AB01
+Pharmacotherapeutic group (human): Antiobesity preparations, excl. diet products
+Therapeutic indication: Xenical is indicated in conjunction with a mildly hypocaloric diet for the treatment of obese patients with a body mass index (BMI) greater or equal to 30 kg/m2, or overweight patients (BMI &gt; 28 kg/m2) with associated risk factors. Treatment with orlistat should be discontinued after 12 weeks if patients have been unable to lose at least 5% of the body weight as measured at the start of therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xenical

@@ -1,0 +1,7 @@
+short_name: Paroxetine Teva
+active_substance: Paroxetinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharma, S.L.U., Spain
+atc_code: N06AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0099/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0099/smpc

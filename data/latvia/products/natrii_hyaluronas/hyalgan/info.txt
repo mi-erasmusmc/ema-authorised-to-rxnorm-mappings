@@ -1,0 +1,7 @@
+short_name: Hyalgan
+active_substance: Natrii hyaluronas
+marketing_authorisation_holder: Fidia Farmaceutici S.p.A., Italy
+manufacturer: Fidia Farmaceutici S.p.A., Italy
+atc_code: M09AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0496/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0496/smpc

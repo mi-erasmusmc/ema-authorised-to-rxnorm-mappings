@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004186
+Name of medicine: Mysildecard
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sildenafil
+Active substance: 
+Therapeutic area (MeSH): Hypertension, Pulmonary
+ATC code (human): G04BE03
+Pharmacotherapeutic group (human): Urologicals
+Therapeutic indication: AdultsTreatment of adult patients with pulmonary arterial hypertension classified as WHO functional class II and III, to improve exercise capacity. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease. Paediatric populationTreatment of paediatric patients aged 1 year to 17 years old with pulmonary arterial hypertension. Efficacy in terms of improvement of exercise capacity or pulmonary haemodynamics has been shown in primary pulmonary hypertension and pulmonary hypertension associated with congenital heart disease (see section 5.1).
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mysildecard

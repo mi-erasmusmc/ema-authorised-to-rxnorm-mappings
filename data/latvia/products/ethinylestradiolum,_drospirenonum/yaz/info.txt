@@ -1,0 +1,7 @@
+short_name: YAZ
+active_substance: Ethinylestradiolum, Drospirenonum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer Weimar GmbH und Co. KG, Germany; Bayer AG, Germany
+atc_code: G03AA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0167/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0167/smpc

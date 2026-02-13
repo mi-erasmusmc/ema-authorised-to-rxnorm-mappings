@@ -1,0 +1,7 @@
+short_name: Rosuvastatin Accord
+active_substance: Rosuvastatinum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: C10AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0283/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0283/smpc

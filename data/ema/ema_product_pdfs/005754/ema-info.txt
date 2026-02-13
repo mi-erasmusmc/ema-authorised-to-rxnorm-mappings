@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005754
+Name of medicine: VidPrevtyn Beta
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: COVID-19 Vaccine (recombinant, adjuvanted)
+Active substance: SARS-CoV-2 prefusion Spike delta TM protein, recombinant (B.1.351 strain)
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J07BN04
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: VidPrevtyn Beta is indicated as a booster for active immunisation to prevent COVID-19 in adults who have previously received an mRNA or adenoviral vector COVID-19 vaccine (see sections 4.2 and 5.1 in&nbsp;product information document). The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vidprevtyn-beta

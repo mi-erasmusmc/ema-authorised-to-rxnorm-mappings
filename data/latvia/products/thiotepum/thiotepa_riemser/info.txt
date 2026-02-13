@@ -1,0 +1,7 @@
+short_name: Thiotepa Riemser
+active_substance: Thiotepum
+marketing_authorisation_holder: Esteve Pharmaceuticals GmbH, Germany
+manufacturer: HWI pharma services GmbH, Germany
+atc_code: L01AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1536/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1536/001/smpc

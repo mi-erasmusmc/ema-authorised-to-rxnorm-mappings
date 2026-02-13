@@ -1,0 +1,7 @@
+short_name: Hydrogenium peroxydatum Hasco
+active_substance: Hydrogenii peroxidum
+marketing_authorisation_holder: P.P.F. Hasco-Lek S.A., Poland
+manufacturer: P.P.F. Hasco-Lek S.A., Poland; P.P.F. Hasco-Lek S.A., Poland
+atc_code: D08AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0767/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0767/smpc

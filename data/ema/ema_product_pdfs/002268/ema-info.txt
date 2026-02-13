@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002268
+Name of medicine: Dexdor
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dexmedetomidine
+Active substance: Dexmedetomidine hydrochloride
+Therapeutic area (MeSH): Conscious Sedation
+ATC code (human): N05CM18
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: For sedation of adult intensive care unit patients requiring a sedation level not deeper than arousal in response to verbal stimulation (corresponding to Richmond Agitation-Sedation Scale (RASS) 0 to -3).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dexdor

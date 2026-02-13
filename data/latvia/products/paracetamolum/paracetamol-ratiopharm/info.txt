@@ -1,0 +1,7 @@
+short_name: Paracetamol-ratiopharm
+active_substance: Paracetamolum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0063/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0063/smpc

@@ -1,0 +1,7 @@
+short_name: Aqumeldi
+active_substance: Enalaprili maleas
+marketing_authorisation_holder: Proveca Pharma Limited, Ireland
+manufacturer: Pharbil Waltrop GmbH, Germany
+atc_code: C09AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1717/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1717/001/smpc

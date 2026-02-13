@@ -1,0 +1,7 @@
+short_name: Diclovit
+active_substance: Diclofenacum natricum, Thiamini hydrochloridum, Pyridoxini hydrochloridum, Cyanocobalaminum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: M01AB55
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0236/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0236/smpc

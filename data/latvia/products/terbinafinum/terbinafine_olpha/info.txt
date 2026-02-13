@@ -1,0 +1,7 @@
+short_name: Terbinafine Olpha
+active_substance: Terbinafinum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Laboratorios Liconsa, S.A., Spain
+atc_code: D01BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0044/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0044/smpc

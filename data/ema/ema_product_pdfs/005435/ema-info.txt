@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005435
+Name of medicine: Gencebok
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: caffeine citrate
+Active substance: Caffeine citrate
+Therapeutic area (MeSH): Apnea
+ATC code (human): N06BC01
+Pharmacotherapeutic group (human): Psychoanaleptics
+Therapeutic indication: Treatment of primary apnoea of premature newborns.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gencebok

@@ -1,0 +1,7 @@
+short_name: Amaryl
+active_substance: Glimepiridum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi Winthrop Industrie, France; Sanofi-Aventis Deutschland GmbH, Germany; Sanofi S.r.l., Italy
+atc_code: A10BB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0324/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0324/smpc

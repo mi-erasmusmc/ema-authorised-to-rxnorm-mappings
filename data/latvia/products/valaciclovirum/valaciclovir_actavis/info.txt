@@ -1,0 +1,7 @@
+short_name: Valaciclovir Actavis
+active_substance: Valaciclovirum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria
+atc_code: J05AB11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0349/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0349/smpc

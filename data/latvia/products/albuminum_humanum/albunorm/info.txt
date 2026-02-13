@@ -1,0 +1,7 @@
+short_name: Albunorm
+active_substance: Albuminum humanum
+marketing_authorisation_holder: Octapharma (IP) SPRL, Belgium
+manufacturer: Octapharma Pharmazeutika Produktionsges.m.b.H, Austria; Octapharma S.A., France; Octapharma Produktionsgesellschaft Deutschland GmbH, Germany; Octapharma AB, Sweden
+atc_code: B05AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0106/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0106/smpc

@@ -1,0 +1,7 @@
+short_name: Saflutin
+active_substance: Salmeterolum, Fluticasoni propionas
+marketing_authorisation_holder: Inteli Generics Nord UAB, Lithuania
+manufacturer: Celon Pharma S.A., Poland
+atc_code: R03AK06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0175/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0175/smpc

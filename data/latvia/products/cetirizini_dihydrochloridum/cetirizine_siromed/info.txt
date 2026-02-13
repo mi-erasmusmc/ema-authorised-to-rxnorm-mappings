@@ -1,0 +1,7 @@
+short_name: Cetirizine Siromed
+active_substance: Cetirizini dihydrochloridum
+marketing_authorisation_holder: Sanus24, MB, Lithuania
+manufacturer: Pharmadox Healthcare Ltd., Malta; Interpharma Services Ltd., Bulgaria
+atc_code: R06AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0327/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0327/smpc

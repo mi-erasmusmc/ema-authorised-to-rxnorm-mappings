@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002654
+Name of medicine: Vipdomet
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: alogliptin;metformin
+Active substance: alogliptin benzoate;metformin hydrochloride
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BD13
+Pharmacotherapeutic group (human): Drugs used in diabetes;Combinations of oral blood glucose lowering drugs
+Therapeutic indication: Vipdomet is indicated in the treatment of adult patients aged 18 years and older with type-2 diabetes mellitus:  as an adjunct to diet and exercise to improve glycaemic control in adult patients, inadequately controlled on their maximal tolerated dose of metformin alone, or those already being treated with the combination of alogliptin and metformin; in combination with pioglitazone (i.e. triple combination therapy) as an adjunct to diet and exercise in adult patients inadequately controlled on their maximal tolerated dose of metformin and pioglitazone; in combination with insulin (i.e. triple combination therapy) as an adjunct to diet and exercise to improve glycaemic control in patients when insulin at a stable dose and metformin alone do not provide adequate glycaemic control.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vipdomet

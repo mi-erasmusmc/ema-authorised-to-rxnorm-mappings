@@ -1,0 +1,7 @@
+short_name: Enzalutamide Accordpharma
+active_substance: Enzalutamidum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Pharmadox Healthcare Ltd., Malta; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece; Laboratori Fundacio Dau, Spain
+atc_code: L02BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1990/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1990/001/smpc

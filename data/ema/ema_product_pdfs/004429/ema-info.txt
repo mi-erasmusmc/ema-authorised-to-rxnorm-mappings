@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004429
+Name of medicine: Hulio
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: adalimumab
+Active substance: adalimumab
+Therapeutic area (MeSH): Hidradenitis Suppurativa;Psoriasis;Uveitis;Arthritis, Rheumatoid;Spondylitis, Ankylosing;Crohn Disease;Colitis, Ulcerative;Arthritis, Psoriatic
+ATC code (human): L04AB04
+Pharmacotherapeutic group (human): Immunosuppressants;Tumor necrosis factor alpha (TNF-α) inhibitors
+Therapeutic indication: 
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hulio

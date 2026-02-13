@@ -1,0 +1,7 @@
+short_name: Ilpio
+active_substance: Telmisartanum, Indapamidum
+marketing_authorisation_holder: PRO.MED.CS Praha a.s., Czech Republic
+manufacturer: PRO.MED.CS Praha a.s., Czech Republic
+atc_code: C09DA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0198/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0198/smpc

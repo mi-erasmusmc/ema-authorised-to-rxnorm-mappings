@@ -1,0 +1,7 @@
+short_name: Enspryng
+active_substance: Satralizumabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L04AC19
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1559/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1559/001/smpc

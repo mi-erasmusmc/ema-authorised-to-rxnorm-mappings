@@ -1,0 +1,7 @@
+short_name: Aceterin
+active_substance: Cetirizini dihydrochloridum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Salutas Pharma GmbH, Germany; Lek S.A., Poland
+atc_code: R06AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0256/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0256/smpc

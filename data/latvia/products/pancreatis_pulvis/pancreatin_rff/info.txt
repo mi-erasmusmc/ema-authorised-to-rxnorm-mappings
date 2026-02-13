@@ -1,0 +1,7 @@
+short_name: Pancreatin RFF
+active_substance: Pancreatis pulvis
+marketing_authorisation_holder: Eletis Pharma UAB, Lithuania
+manufacturer: Eletis Medica UAB, Lithuania; Eletis Pharma UAB, Lithuania
+atc_code: A09AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0068/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0068/smpc

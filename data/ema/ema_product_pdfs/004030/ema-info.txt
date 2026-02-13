@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004030
+Name of medicine: Nerlynx
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: neratinib
+Active substance: neratinib
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L01EH02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Nerlynx is indicated for the extended adjuvant treatment of adult patients with early stage hormone receptor positive HER2-overexpressed/amplified breast cancer and who are less than one year from the completion of prior adjuvant trastuzumab based therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nerlynx

@@ -1,0 +1,7 @@
+short_name: Aknefug Oxid Mild
+active_substance: Benzoylis peroxidum
+marketing_authorisation_holder: Dr. August Wolff GmbH & Co. Arzneimittel, Germany
+manufacturer: Dr. August Wolff GmbH & Co. Arzneimittel, Germany
+atc_code: D10AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000557/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000557/smpc

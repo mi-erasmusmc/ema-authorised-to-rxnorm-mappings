@@ -1,0 +1,7 @@
+short_name: Haixa
+active_substance: Acidum tranexamicum
+marketing_authorisation_holder: Cemag Care S.A.S.U., France
+manufacturer: Inpharmasci, France
+atc_code: B02AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0216/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0216/smpc

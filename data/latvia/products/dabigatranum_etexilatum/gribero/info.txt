@@ -1,0 +1,7 @@
+short_name: Gribero
+active_substance: Dabigatranum etexilatum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Pharmadox Healthcare Ltd., Malta; Salutas Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia
+atc_code: B01AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0146/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0146/smpc

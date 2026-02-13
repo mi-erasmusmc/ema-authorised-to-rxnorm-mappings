@@ -1,0 +1,7 @@
+short_name: Lacosamide Grindeks
+active_substance: Lacosamidum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia; Siegfried Barbera S.L., Spain
+atc_code: N03AX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0261/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0261/smpc

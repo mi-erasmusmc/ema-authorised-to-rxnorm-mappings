@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005255
+Name of medicine: Adtralza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tralokinumab
+Active substance: tralokinumab
+Therapeutic area (MeSH): Dermatitis, Atopic
+ATC code (human): D11
+Pharmacotherapeutic group (human): Other dermatological preparations
+Therapeutic indication: Adtralza is indicated for the treatment of moderate to severe atopic dermatitis in adult and adolescent patients 12 years and older who are candidates for systemic therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/adtralza

@@ -1,0 +1,7 @@
+short_name: Mixtard 40 Penfill
+active_substance: Insulinum humanum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark; Novo Nordisk Production SAS, France
+atc_code: A10AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/231/014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/231/014/smpc

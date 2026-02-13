@@ -1,0 +1,7 @@
+short_name: Yasminelle
+active_substance: Ethinylestradiolum, Drospirenonum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer Weimar GmbH und Co. KG, Germany; Bayer AG, Germany
+atc_code: G03AA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0161/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0161/smpc

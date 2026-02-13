@@ -1,0 +1,7 @@
+short_name: Adobil
+active_substance: Paracetamolum, Ibuprofenum
+marketing_authorisation_holder: Swixx Biopharma Kft, Hungary
+manufacturer: SAG Manufacturing, S.L.U., Spain
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0074/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0074/smpc

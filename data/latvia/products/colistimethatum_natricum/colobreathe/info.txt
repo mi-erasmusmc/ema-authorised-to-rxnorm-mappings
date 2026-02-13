@@ -1,0 +1,7 @@
+short_name: Colobreathe
+active_substance: Colistimethatum natricum
+marketing_authorisation_holder: Essential Pharma Limited, Malta
+manufacturer: Penn Pharmaceutical Services Ltd., United Kingdom; Teva Pharmaceuticals Europe BV, Netherlands; Millmount Healthcare Ltd., Ireland
+atc_code: J01XB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/747/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/747/001/smpc

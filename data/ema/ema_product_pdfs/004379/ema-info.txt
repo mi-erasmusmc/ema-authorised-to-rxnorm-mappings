@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004379
+Name of medicine: Amglidia
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: glibenclamide
+Active substance: glibenclamide
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10BB01
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Amglidia is indicated for the treatment of neonatal diabetes mellitus, for use in newborns, infants and children. Sulphonylureas like Amglidia have been shown to be effective in patients with mutations in the genes coding for the ?-cell ATP-sensitive potassium channel and chromosome 6q24-related transient neonatal diabetes mellitus.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/amglidia

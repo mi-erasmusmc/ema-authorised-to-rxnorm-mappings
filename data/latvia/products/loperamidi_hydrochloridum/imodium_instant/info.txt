@@ -1,0 +1,7 @@
+short_name: Imodium Instant
+active_substance: Loperamidi hydrochloridum
+marketing_authorisation_holder: McNeil Healthcare (Ireland) Limited, Ireland
+manufacturer: Janssen Cilag S.p.A., Italy; JNTL Consumer Health (France) SAS, France
+atc_code: A07DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0131/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0131/smpc

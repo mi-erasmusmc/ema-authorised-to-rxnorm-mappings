@@ -1,0 +1,7 @@
+short_name: Heplisav B
+active_substance: Hepatitidis B ex corticis antigenis
+marketing_authorisation_holder: Dynavax GmbH, Germany
+manufacturer: Dynavax GmbH, Germany
+atc_code: J07BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1503/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1503/001/smpc

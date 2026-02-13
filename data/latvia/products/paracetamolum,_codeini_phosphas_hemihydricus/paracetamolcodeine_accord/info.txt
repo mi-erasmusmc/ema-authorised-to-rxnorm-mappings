@@ -1,0 +1,7 @@
+short_name: Paracetamol/codeine Accord
+active_substance: Paracetamolum, Codeini phosphas hemihydricus
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: N02AJ06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0100/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0100/smpc

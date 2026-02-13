@@ -1,0 +1,7 @@
+short_name: Febuxostat Zentiva
+active_substance: Febuxostatum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Laboratorios Liconsa, S.A., Spain
+atc_code: M04AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0053/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0053/smpc

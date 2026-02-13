@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003724
+Name of medicine: Cerdelga
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: eliglustat
+Active substance: Eliglustat (tartrate)
+Therapeutic area (MeSH): Gaucher Disease
+ATC code (human): A16AX10
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: AdultsCerdelga is indicated for the long-term treatment of adult patients with Gaucher disease type 1 (GD1), who are CYP2D6 poor metabolisers (PMs), intermediate metabolisers (IMs) or extensive metabolisers (EMs).Paediatric population (from 6 to &lt; 18 years of age) weighing ≥ 15 kgCerdelga is indicated for paediatric patients with GD1 who are 6 years and older with a minimum body weight of 15 kg, who are stable on enzyme replacement therapy (ERT), and who are CYP2D6 PMs, IMs or EMs.&nbsp;
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cerdelga

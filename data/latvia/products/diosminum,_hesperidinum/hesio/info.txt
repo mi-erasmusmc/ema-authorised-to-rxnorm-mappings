@@ -1,0 +1,7 @@
+short_name: Hesio
+active_substance: Diosminum, Hesperidinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Extractum Pharma zrt., Hungary
+atc_code: C05CA53
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0042/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0042/smpc

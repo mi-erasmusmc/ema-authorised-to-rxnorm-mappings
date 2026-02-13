@@ -1,0 +1,7 @@
+short_name: Mekinist
+active_substance: Trametinibum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany; Glaxo Wellcome S.A., Spain; Lek Pharmaceuticals d.d., Slovenia
+atc_code: L01EE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/931/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/931/001/smpc

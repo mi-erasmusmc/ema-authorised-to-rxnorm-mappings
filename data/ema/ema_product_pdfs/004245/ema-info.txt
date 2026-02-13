@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004245
+Name of medicine: Bevespi Aerosphere
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: glycopyrronium;formoterol fumarate dihydrate
+Active substance: glycopyrronium;formoterol fumarate dihydrate
+Therapeutic area (MeSH): Pulmonary Disease, Chronic Obstructive
+ATC code (human): R03AL07
+Pharmacotherapeutic group (human): formoterol and glycopyrronium bromide
+Therapeutic indication: Bevespi Aerosphere is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bevespi-aerosphere

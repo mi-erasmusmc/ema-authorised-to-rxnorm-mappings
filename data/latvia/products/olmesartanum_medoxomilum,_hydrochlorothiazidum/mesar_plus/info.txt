@@ -1,0 +1,7 @@
+short_name: Mesar Plus
+active_substance: Olmesartanum medoxomilum, Hydrochlorothiazidum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: Berlin-Chemie AG, Germany; Menarini-Von Heyden GmbH, Germany; Daiichi Sankyo Europe GmbH, Germany; Qualiphar N.V., Belgium
+atc_code: C09DA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0631/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0631/smpc

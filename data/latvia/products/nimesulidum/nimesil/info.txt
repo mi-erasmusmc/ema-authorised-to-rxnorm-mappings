@@ -1,0 +1,7 @@
+short_name: Nimesil
+active_substance: Nimesulidum
+marketing_authorisation_holder: Laboratori Guidotti S.p.A., Italy
+manufacturer: Laboratorios Menarini S.A., Spain; Fine Foods and Pharmaceuticals N.T.M.S.p.A., Italy
+atc_code: M01AX17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0460/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0460/smpc

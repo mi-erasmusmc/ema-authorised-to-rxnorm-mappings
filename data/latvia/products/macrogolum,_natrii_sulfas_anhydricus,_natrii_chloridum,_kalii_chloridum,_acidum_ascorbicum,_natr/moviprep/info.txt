@@ -1,0 +1,7 @@
+short_name: Moviprep
+active_substance: Macrogolum, Natrii sulfas anhydricus, Natrii chloridum, Kalii chloridum, Acidum ascorbicum, Natrii ascorbas
+marketing_authorisation_holder: Norgine B.V., Netherlands
+manufacturer: Norgine B.V., Netherlands; Sophartex, France; Norgine Limited, United Kingdom; Recipharm Höganäs AB, Sweden
+atc_code: A06AD65
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0626/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0626/smpc

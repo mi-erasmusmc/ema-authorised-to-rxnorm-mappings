@@ -1,0 +1,7 @@
+short_name: Cirrus
+active_substance: Cetirizini dihydrochloridum, Pseudoephedrini hydrochloridum
+marketing_authorisation_holder: UCB Pharma Oy Finland, Finland
+manufacturer: Aesica Pharmaceuticals S.r.l., Italy
+atc_code: R01BA52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0345/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0345/smpc

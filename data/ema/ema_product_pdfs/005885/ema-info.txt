@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005885
+Name of medicine: Finlee
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dabrafenib
+Active substance: dabrafenib mesilate
+Therapeutic area (MeSH): Glioma
+ATC code (human): L01EC02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Low-grade glioma Finlee in combination with trametinib is indicated for the treatment of paediatric patients aged 1 year and older with low-grade glioma (LGG) with a BRAF V600E mutation who require systemic therapy. High-grade glioma Finlee in combination with trametinib is indicated for the treatment of paediatric patients aged 1 year and older with high-grade glioma (HGG) with a BRAF V600E mutation who have received at least one prior radiation and/or chemotherapy treatment.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/finlee

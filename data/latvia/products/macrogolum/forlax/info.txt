@@ -1,0 +1,7 @@
+short_name: Forlax
+active_substance: Macrogolum
+marketing_authorisation_holder: Mayoly Pharma France, France
+manufacturer: Mayoly Industrie, France
+atc_code: A06AD15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0155/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0155/smpc

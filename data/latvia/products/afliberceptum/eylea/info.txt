@@ -1,0 +1,7 @@
+short_name: Eylea
+active_substance: Afliberceptum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: S01LA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/797/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/797/001/smpc

@@ -1,0 +1,7 @@
+short_name: Urografin
+active_substance: Natrii amidotrizoas, Meglumini amidotrizoas
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: BerliMed S.A., Spain
+atc_code: V08A
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0117/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0117/smpc

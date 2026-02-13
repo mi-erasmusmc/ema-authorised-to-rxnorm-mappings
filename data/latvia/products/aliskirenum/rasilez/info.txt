@@ -1,0 +1,7 @@
+short_name: Rasilez
+active_substance: Aliskirenum
+marketing_authorisation_holder: Noden Pharma DAC, Ireland
+manufacturer: Novartis Farma S.p.A., Italy; Noden Pharma DAC, Ireland
+atc_code: C09XA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/405/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/405/001/smpc

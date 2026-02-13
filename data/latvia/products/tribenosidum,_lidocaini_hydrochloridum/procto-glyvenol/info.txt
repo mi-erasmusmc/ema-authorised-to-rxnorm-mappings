@@ -1,0 +1,7 @@
+short_name: Procto-Glyvenol
+active_substance: Tribenosidum, Lidocaini hydrochloridum
+marketing_authorisation_holder: Recordati Ireland Limited, Ireland
+manufacturer: Recordati Industria Chimica e Farmaceutica S.p.A., Italy; Vamfarma S.r.l., Italy
+atc_code: C05AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0567/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0567/smpc

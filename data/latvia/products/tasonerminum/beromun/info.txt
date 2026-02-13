@@ -1,0 +1,7 @@
+short_name: Beromun
+active_substance: Tasonerminum
+marketing_authorisation_holder: BELPHARMA s.a., Luxembourg
+manufacturer: Eumedica N.V., Belgium
+atc_code: L03AX11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/097/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/097/001/smpc

@@ -1,0 +1,7 @@
+short_name: Milgamma N
+active_substance: Pyridoxini hydrochloridum, Benfotiaminum, Cyanocobalaminum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Worwag Pharma GmbH & Co.KG, Germany; Wörwag Pharma Operations Sp. z o.o., Poland
+atc_code: A11DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-1028/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-1028/smpc

@@ -1,0 +1,7 @@
+short_name: Vildagliptin Unifarma
+active_substance: Vildagliptinum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: SAG Manufacturing, S.L.U., Spain; Galenicum Health S.L.U., Spain
+atc_code: A10BH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0080/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0080/smpc

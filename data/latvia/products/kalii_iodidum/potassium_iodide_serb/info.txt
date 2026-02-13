@@ -1,0 +1,7 @@
+short_name: Potassium iodide SERB
+active_substance: Kalii iodidum
+marketing_authorisation_holder: SERB S.A., Belgium
+manufacturer: Astrea Fontaine, France
+atc_code: V03AB21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0183/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0183/smpc

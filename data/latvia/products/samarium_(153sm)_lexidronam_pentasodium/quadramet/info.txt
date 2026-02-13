@@ -1,0 +1,7 @@
+short_name: Quadramet
+active_substance: Samarium (153Sm) lexidronam pentasodium
+marketing_authorisation_holder: CIS bio international, France
+manufacturer: CIS bio international, France
+atc_code: V10BX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/057/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/057/001/smpc

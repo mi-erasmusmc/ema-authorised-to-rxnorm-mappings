@@ -1,0 +1,7 @@
+short_name: Travatan
+active_substance: Travoprostum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; S.A. Alcon-Couvreur N.V., Belgium; Siegfried El Masnou, S.A., Spain
+atc_code: S01EE04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/199/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/199/001/smpc

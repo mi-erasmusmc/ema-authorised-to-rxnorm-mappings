@@ -1,0 +1,7 @@
+short_name: Ovitrelle
+active_substance: Choriogonadotropinum alfa
+marketing_authorisation_holder: Merck Europe B.V., Netherlands
+manufacturer: Merck Serono S.p.A., Italy
+atc_code: G03GA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/165/007/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/165/007/smpc

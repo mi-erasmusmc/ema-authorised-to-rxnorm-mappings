@@ -1,0 +1,7 @@
+short_name: Dentinox N
+active_substance: Matricariae tinctura, Lidocaini hydrochloridum, Lauromacrogolum 400
+marketing_authorisation_holder: Dentinox Gesselschaft fur pharmazeutische Praparate Lenk & Schuppan, Germany
+manufacturer: Dentinox Gesselschaft fur pharmazeutische Praparate Lenk & Schuppan, Germany
+atc_code: A01AD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0124/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0124/smpc

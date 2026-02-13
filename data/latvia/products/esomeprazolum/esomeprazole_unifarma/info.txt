@@ -1,0 +1,7 @@
+short_name: Esomeprazole Unifarma
+active_substance: Esomeprazolum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Anfarm Hellas S.A., Greece
+atc_code: A02BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0160/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0160/smpc

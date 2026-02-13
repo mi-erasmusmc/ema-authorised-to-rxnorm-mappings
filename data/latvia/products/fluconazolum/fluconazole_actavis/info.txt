@@ -1,0 +1,7 @@
+short_name: Fluconazole Actavis
+active_substance: Fluconazolum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: PharmaPath S.A., Greece
+atc_code: J02AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0050/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0050/smpc

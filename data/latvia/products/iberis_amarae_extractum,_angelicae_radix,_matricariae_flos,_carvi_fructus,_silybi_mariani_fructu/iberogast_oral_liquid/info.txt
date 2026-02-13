@@ -1,0 +1,7 @@
+short_name: Iberogast oral liquid
+active_substance: Iberis amarae extractum, Angelicae radix, Matricariae flos, Carvi fructus, Silybi mariani fructus, Melissae folium, Menthae piperitae folium, Chelidonii herba, Liquiritiae radix
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Steigerwald Arzneimittelwerk GmbH, Germany
+atc_code: A03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0274/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0274/smpc

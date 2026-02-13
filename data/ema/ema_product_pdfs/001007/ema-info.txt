@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001007
+Name of medicine: Duloxetine Boehringer Ingelheim
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: duloxetine
+Active substance: duloxetine
+Therapeutic area (MeSH): Diabetic Neuropathies
+ATC code (human): N06AX21
+Pharmacotherapeutic group (human): Psychoanaleptics
+Therapeutic indication: Treatment of diabetic peripheral neuropathic pain in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/duloxetine-boehringer-ingelheim

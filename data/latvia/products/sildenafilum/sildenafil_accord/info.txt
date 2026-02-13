@@ -1,0 +1,7 @@
+short_name: Sildenafil Accord
+active_substance: Sildenafilum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: G04BE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0112/smpc

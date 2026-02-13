@@ -1,0 +1,7 @@
+short_name: Ratiograstim
+active_substance: Filgrastimum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle Biotec GmbH, Germany; Teva Biotech GmbH, Germany
+atc_code: L03AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/444/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/444/001/smpc

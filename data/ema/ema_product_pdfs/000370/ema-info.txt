@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000370
+Name of medicine: Fabrazyme
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: agalsidase beta
+Active substance: agalsidase beta
+Therapeutic area (MeSH): Fabry Disease
+ATC code (human): A16AB04
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Fabrazyme is indicated for long-term enzyme replacement therapy in patients with a confirmed diagnosis of Fabry disease (?-galactosidase-A deficiency).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fabrazyme

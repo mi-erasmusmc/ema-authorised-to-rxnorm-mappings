@@ -1,0 +1,7 @@
+short_name: Octenisept
+active_substance: Octenidini dihydrochloridum, Phenoxyethanolum
+marketing_authorisation_holder: Interlux, SIA, Latvia
+manufacturer: Schülke & Mayr GmbH, Germany
+atc_code: D08AJ57
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0171/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0171/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001065
+Name of medicine: Enyglid
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: repaglinide
+Active substance: repaglinide
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BX02
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Repaglinide is indicated in patients with type-2 diabetes (non-insulin-dependent diabetes mellitus (NIDDM)) whose hyperglycaemia can no longer be controlled satisfactorily by diet, weight reduction and exercise. Repaglinide is also indicated in combination with metformin in type-2 diabetes patients who are not satisfactorily controlled on metformin alone. Treatment should be initiated as an adjunct to diet and exercise to lower the blood glucose in relation to meals.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/enyglid

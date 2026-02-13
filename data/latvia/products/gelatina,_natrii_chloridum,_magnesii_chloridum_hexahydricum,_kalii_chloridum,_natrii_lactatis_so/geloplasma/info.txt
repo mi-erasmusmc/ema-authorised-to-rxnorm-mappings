@@ -1,0 +1,7 @@
+short_name: Geloplasma
+active_substance: Gelatina, Natrii chloridum, Magnesii chloridum hexahydricum, Kalii chloridum, Natrii lactatis solutio
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi France, France
+atc_code: B05AA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0168/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0168/smpc

@@ -1,0 +1,7 @@
+short_name: Hynica
+active_substance: Empagliflozinum
+marketing_authorisation_holder: AdAlvo Limited, Malta
+manufacturer: Misom Labs Ltd., Malta
+atc_code: A10BK03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0328/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0328/smpc

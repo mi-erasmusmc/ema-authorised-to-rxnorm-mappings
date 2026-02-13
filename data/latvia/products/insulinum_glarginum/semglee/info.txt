@@ -1,0 +1,7 @@
+short_name: Semglee
+active_substance: Insulinum glarginum
+marketing_authorisation_holder: Biosimilar Collaborations Ireland Limited, Ireland
+manufacturer: Biosimilar Collaborations Ireland Limited, Ireland
+atc_code: A10AE04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1270/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1270/001/smpc

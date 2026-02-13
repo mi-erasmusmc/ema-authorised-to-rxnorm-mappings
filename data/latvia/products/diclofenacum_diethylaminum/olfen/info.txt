@@ -1,0 +1,7 @@
+short_name: Olfen
+active_substance: Diclofenacum diethylaminum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0086/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0086/smpc

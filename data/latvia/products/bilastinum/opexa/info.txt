@@ -1,0 +1,7 @@
+short_name: Opexa
+active_substance: Bilastinum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: A. Menarini Manufacturing Logistic and Services s.r.l., Italy; Menarini-Von Heyden GmbH, Germany; FAES FARMA, S.A., Spain; Faes Farma S.A., Spain
+atc_code: R06AX29
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0602/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0602/smpc

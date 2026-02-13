@@ -1,0 +1,7 @@
+short_name: Betadine
+active_substance: Povidonum iodinatum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: EGIS Pharmaceuticals Ltd. Lacta Plant, Hungary
+atc_code: G01AX11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0483/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0483/smpc

@@ -1,0 +1,7 @@
+short_name: Boostrix
+active_substance: Vaccinum diphtheriae, tetani, pertussis sine cellulis ex elementis praeparatum, antigeni-o(-is) minutum, adsorbatum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07AJ52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0236/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0236/smpc

@@ -1,0 +1,7 @@
+short_name: Tadalafil STADA
+active_substance: Tadalafilum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; Clonmel Healthcare Limited, Ireland; Stada Arzneimittel AG, Germany; Stada M&D S.R.L, Romania
+atc_code: G04BE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0085/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0085/smpc

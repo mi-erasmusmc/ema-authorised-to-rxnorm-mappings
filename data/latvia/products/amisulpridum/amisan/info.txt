@@ -1,0 +1,7 @@
+short_name: Amisan
+active_substance: Amisulpridum
+marketing_authorisation_holder: PRO.MED.CS Praha a.s., Czech Republic
+manufacturer: PRO.MED.CS Praha a.s., Czech Republic
+atc_code: N05AL05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0354/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0354/smpc

@@ -1,0 +1,7 @@
+short_name: Raloxifene Teva
+active_substance: Raloxifenum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; Pharmachemie B.V., Netherlands; Galien LPS, France
+atc_code: G03XC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/627/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/627/001/smpc

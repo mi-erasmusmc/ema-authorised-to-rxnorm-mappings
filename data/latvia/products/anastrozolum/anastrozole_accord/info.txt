@@ -1,0 +1,7 @@
+short_name: Anastrozole Accord
+active_substance: Anastrozolum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L02BG03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0336/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0336/smpc

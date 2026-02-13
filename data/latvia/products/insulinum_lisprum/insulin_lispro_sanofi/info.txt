@@ -1,0 +1,7 @@
+short_name: Insulin lispro Sanofi
+active_substance: Insulinum lisprum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Deutschland GmbH, Germany; Sanofi-Aventis Private Co. Ltd., Hungary
+atc_code: A10AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1203/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1203/001/smpc

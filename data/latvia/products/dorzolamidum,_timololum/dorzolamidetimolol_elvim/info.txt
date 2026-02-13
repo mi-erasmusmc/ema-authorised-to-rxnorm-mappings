@@ -1,0 +1,7 @@
+short_name: Dorzolamide/Timolol ELVIM
+active_substance: Dorzolamidum, Timololum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Pharmathen S.A., Greece; Famar S.A. ALIMOS Production Site, Greece
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0062/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0062/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000285
+Name of medicine: Actos
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pioglitazone
+Active substance: pioglitazone hydrochloride
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BG03
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Pioglitazone is indicated in the treatment of type-2 diabetes mellitus:  as monotherapy:  in patients (particularly overweight patients) inadequately controlled by diet and exercise for whom metformin is inappropriate because of contraindications or intolerance;   as dual oral therapy in combination with:  metformin, in patients (particularly overweight patients) with insufficient glycaemic control despite maximal tolerated dose of monotherapy with metformin; a sulphonylurea, only in patients who show intolerance to metformin or for whom metformin is contraindicated, with insufficient glycaemic control despite maximal tolerated dose of monotherapy with a sulphonylurea;   as triple oral therapy in combination with:  metformin and a sulphonylurea, in patients (particularly overweight patients) with insufficient glycaemic control despite dual oral therapy.    Pioglitazone is also indicated for combination with insulin in type-2 diabetes mellitus patients with insufficient glycaemic control on insulin for whom metformin is inappropriate because of contraindications or intolerance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/actos

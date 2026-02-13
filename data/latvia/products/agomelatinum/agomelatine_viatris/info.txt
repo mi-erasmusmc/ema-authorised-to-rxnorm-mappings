@@ -1,0 +1,7 @@
+short_name: Agomelatine Viatris
+active_substance: Agomelatinum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Medis International a.s., Czech Republic
+atc_code: N06AX22
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0130/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0130/smpc

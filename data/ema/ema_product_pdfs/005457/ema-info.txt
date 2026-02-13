@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005457
+Name of medicine: Camzyos
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: mavacamten
+Active substance: Mavacamten
+Therapeutic area (MeSH): Cardiomyopathy, Hypertrophic
+ATC code (human): C01EB
+Pharmacotherapeutic group (human): Other cardiac preparations
+Therapeutic indication: Treatment of symptomatic obstructive hypertrophic cardiomyopathy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/camzyos

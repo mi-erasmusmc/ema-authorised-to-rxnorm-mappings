@@ -1,0 +1,3 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/24/1888/001	1466462	0.05 ML aflibercept-mrbb 40 MG/ML Injection [Ahzantive]	2706541	EXACT	Vial presentation; 0.05 ML is the delivered intravitreal dose		2026-02-11
+EU/1/24/1888/002	1735855	0.05 ML aflibercept 40 MG/ML Prefilled Syringe	2693564	BROAD	No branded Ahzantive Prefilled Syringe concept in RxNorm	0.05 ML aflibercept-mrbb 40 MG/ML Prefilled Syringe [Ahzantive]	2026-02-11

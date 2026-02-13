@@ -1,0 +1,7 @@
+short_name: Thiogamma Turbo-Set
+active_substance: Acidum thiocticum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Solupharm Pharmazeutische Erzeugnisse GmbH, Germany
+atc_code: A16AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0167/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0167/smpc

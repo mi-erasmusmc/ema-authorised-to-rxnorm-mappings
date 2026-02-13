@@ -1,0 +1,7 @@
+short_name: Rolcya
+active_substance: Denosumabum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Novartis Pharmaceutical Manufacturing GmbH, Austria
+atc_code: M05BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1958/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1958/001/smpc

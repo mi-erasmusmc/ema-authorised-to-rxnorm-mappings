@@ -1,0 +1,7 @@
+short_name: Tadustix
+active_substance: Dutasteridum, Tamsulosini hydrochloridum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; Laboratorios Leon Farma S.A., Spain
+atc_code: G04CA52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0121/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0121/smpc

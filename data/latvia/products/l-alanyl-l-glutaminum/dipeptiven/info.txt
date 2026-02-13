@@ -1,0 +1,7 @@
+short_name: Dipeptiven
+active_substance: L-alanyl-L-glutaminum
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi Austria GmbH, Austria
+atc_code: B05XB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0261/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0261/smpc

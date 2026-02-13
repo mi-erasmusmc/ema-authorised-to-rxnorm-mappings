@@ -1,0 +1,7 @@
+short_name: Adaptol
+active_substance: Temgicolurilum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: N06BX21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0001/smpc

@@ -1,0 +1,7 @@
+short_name: Ticagrelor TAD
+active_substance: Ticagrelorum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0126/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0126/smpc

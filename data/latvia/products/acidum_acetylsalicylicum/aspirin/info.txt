@@ -1,0 +1,7 @@
+short_name: Aspirin
+active_substance: Acidum acetylsalicylicum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Bayer Bitterfeld GmbH, Germany
+atc_code: N02BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0312/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0312/smpc

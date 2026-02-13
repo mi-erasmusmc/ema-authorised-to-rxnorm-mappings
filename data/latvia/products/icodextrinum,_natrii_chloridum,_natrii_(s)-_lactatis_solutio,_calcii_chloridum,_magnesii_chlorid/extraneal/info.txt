@@ -1,0 +1,7 @@
+short_name: Extraneal
+active_substance: Icodextrinum, Natrii chloridum, Natrii (S)- lactatis solutio, Calcii chloridum, Magnesii chloridum
+marketing_authorisation_holder: Vantive Belgium S.R.L., Belgium
+manufacturer: Vantive Manufacturing Limited, Ireland
+atc_code: B05DA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0401/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0401/smpc

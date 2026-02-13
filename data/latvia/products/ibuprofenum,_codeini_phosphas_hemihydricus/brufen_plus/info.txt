@@ -1,0 +1,7 @@
+short_name: Brufen Plus
+active_substance: Ibuprofenum, Codeini phosphas hemihydricus
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Farmasierra Manufacturing S.L., Spain
+atc_code: N02AJ08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0009/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0009/smpc

@@ -1,0 +1,7 @@
+short_name: Imreplys
+active_substance: Sargramostimum
+marketing_authorisation_holder: Partner Therapeutics Ltd., Ireland
+manufacturer: Paesel + Lorei GmbH & Co. KG, Germany
+atc_code: L03AA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1924/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1924/001/smpc

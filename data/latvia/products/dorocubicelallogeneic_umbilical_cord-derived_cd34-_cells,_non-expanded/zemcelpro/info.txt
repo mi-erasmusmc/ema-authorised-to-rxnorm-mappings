@@ -1,0 +1,7 @@
+short_name: Zemcelpro
+active_substance: Dorocubicel/allogeneic umbilical cord-derived CD34- cells, non-expanded
+marketing_authorisation_holder: Cordex Biologics International Limited, Ireland
+manufacturer: Cordex Biologics International Limited, Ireland
+atc_code: B05AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1960/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1960/001/smpc

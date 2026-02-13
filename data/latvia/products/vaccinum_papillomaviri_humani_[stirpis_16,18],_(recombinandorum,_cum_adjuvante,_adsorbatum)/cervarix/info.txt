@@ -1,0 +1,7 @@
+short_name: Cervarix
+active_substance: Vaccinum papillomaviri humani [stirpis 16,18], (recombinandorum, cum adjuvante, adsorbatum)
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07BM02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/419/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/419/001/smpc

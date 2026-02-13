@@ -1,0 +1,7 @@
+short_name: Tysabri
+active_substance: Natalizumabum
+marketing_authorisation_holder: Biogen Netherlands B.V., Netherlands
+manufacturer: Biogen Manufacturing ApS, Denmark; FUJIFILM Diosynth Biotechnologies Denmark ApS, Denmark
+atc_code: L04AG03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/346/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/346/001/smpc

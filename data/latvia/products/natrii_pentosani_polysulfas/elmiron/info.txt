@@ -1,0 +1,7 @@
+short_name: Elmiron
+active_substance: Natrii pentosani polysulfas
+marketing_authorisation_holder: bene-Arzneimittel GmbH, Germany
+manufacturer: bene-Arzneimittel GmbH, Germany
+atc_code: G04BX15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1189/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1189/001/smpc

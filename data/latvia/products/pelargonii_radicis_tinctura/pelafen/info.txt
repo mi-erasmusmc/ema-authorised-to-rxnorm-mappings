@@ -1,0 +1,7 @@
+short_name: Pelafen
+active_substance: Pelargonii radicis tinctura
+marketing_authorisation_holder: Phytopharm Kleka S.A., Poland
+manufacturer: Phytopharm Kleka S.A., Poland
+atc_code: R05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0257/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0257/smpc

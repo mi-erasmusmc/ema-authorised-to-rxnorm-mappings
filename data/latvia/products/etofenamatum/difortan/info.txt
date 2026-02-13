@@ -1,0 +1,7 @@
+short_name: Difortan
+active_substance: Etofenamatum
+marketing_authorisation_holder: US Pharmacia Sp. z o.o., Poland
+manufacturer: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+atc_code: M02AA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0013/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0013/smpc

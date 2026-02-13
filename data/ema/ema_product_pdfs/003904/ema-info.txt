@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003904
+Name of medicine: Evotaz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: atazanavir;cobicistat
+Active substance: cobicistat;atazanavir
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR15
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: EVOTAZ is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected adults and adolescents (aged 12 years and older weighing at least 35 kg) without known mutations associated with resistance to atazanavir (see sections 4.4 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evotaz

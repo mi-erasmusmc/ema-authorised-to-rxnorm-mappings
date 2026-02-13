@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001215
+Name of medicine: Brinavess
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vernakalant hydrochloride
+Active substance: vernakalant hydrochloride
+Therapeutic area (MeSH): Atrial Fibrillation
+ATC code (human): C01BG11
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults:  for non-surgery patients: atrial fibrillation&nbsp;&lt;/= 7 days duration; for post-cardiac surgery patients: atrial fibrillation&nbsp;&lt;/= 3 days duration.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/brinavess

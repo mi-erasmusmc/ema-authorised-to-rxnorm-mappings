@@ -1,0 +1,7 @@
+short_name: Brimonidine tartrate ELVIM
+active_substance: Brimonidini tartras
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Rafarm SA, Greece
+atc_code: S01EA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0126/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0126/smpc

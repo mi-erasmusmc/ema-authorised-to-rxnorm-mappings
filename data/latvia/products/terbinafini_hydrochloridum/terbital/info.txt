@@ -1,0 +1,7 @@
+short_name: Terbital
+active_substance: Terbinafini hydrochloridum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia; Tallinna Farmaatsiatehase AS, Estonia
+atc_code: D01AE15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0424/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0424/smpc

@@ -1,0 +1,7 @@
+short_name: Betaloc ZOK
+active_substance: Metoprololi succinas
+marketing_authorisation_holder: Recordati Ireland Limited, Ireland
+manufacturer: Savio Industrial S.r.l., Italy; Recordati Industria Chimica e Farmaceutica S.p.A., Italy; AstraZeneca AB, Sweden
+atc_code: C07AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0074/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0074/smpc

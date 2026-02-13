@@ -1,0 +1,7 @@
+short_name: Bilastine Stada
+active_substance: Bilastinum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Noucor Health, S.A., Spain
+atc_code: R06AX29
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0086/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0086/smpc

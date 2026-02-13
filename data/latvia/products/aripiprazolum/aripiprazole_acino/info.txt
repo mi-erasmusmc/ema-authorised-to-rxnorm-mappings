@@ -1,0 +1,7 @@
+short_name: Aripiprazole Acino
+active_substance: Aripiprazolum
+marketing_authorisation_holder: Acino AG, Germany
+manufacturer: Elvim, SIA, Latvia; Acino AG, Germany
+atc_code: N05AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0060/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0060/smpc

@@ -1,0 +1,7 @@
+short_name: Sunitinib Viatris
+active_substance: Sunitinibum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Pharmacare Premium Ltd, Malta; Remedica Ltd., Cyprus
+atc_code: L01EX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0060/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0060/smpc

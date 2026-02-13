@@ -1,0 +1,7 @@
+short_name: Enarenal
+active_substance: Enalaprili maleas
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Pharmaceutical Works "Polpharma" S.A., Poland
+atc_code: C09AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0580/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0580/smpc

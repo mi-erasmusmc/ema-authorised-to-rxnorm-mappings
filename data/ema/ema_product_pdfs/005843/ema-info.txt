@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005843
+Name of medicine: Opzelura
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ruxolitinib
+Active substance: ruxolitinib phosphate
+Therapeutic area (MeSH): Vitiligo
+ATC code (human): D11AH
+Pharmacotherapeutic group (human): Other dermatological preparations
+Therapeutic indication: Opzelura is indicated for the treatment of non-segmental vitiligo with facial involvement in adults and adolescents from 12 years of age.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/opzelura

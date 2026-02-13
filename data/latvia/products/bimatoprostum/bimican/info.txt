@@ -1,0 +1,7 @@
+short_name: Bimican
+active_substance: Bimatoprostum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Pharmaceutical Works Polpharma S.A., Poland; Rompharm Company S.R.L., Romania
+atc_code: S01EE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0001/smpc

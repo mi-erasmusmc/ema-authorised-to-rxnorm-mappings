@@ -1,0 +1,7 @@
+short_name: Afinitor
+active_substance: Everolimusum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany
+atc_code: L01EG02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/538/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/538/001/smpc

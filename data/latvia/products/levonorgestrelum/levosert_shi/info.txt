@@ -1,0 +1,7 @@
+short_name: Levosert SHI
+active_substance: Levonorgestrelum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary; Odyssea Pharma S.R.L., Belgium
+atc_code: G02BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0182/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0182/smpc

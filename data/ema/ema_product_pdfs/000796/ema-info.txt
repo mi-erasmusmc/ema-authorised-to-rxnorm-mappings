@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000796
+Name of medicine: Ceplene
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: histamine dihydrochloride
+Active substance: histamine dihydrochloride
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): L03AX14
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Ceplene maintenance therapy is indicated for adult patients with acute myeloid leukaemia in first remission concomitantly treated with interleukin-2 (IL-2). The efficacy of Ceplene has not been fully demonstrated in patients older than age 60.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ceplene

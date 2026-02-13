@@ -1,0 +1,7 @@
+short_name: Mycamine
+active_substance: Micafunginum
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: Haupt Pharma Wolfratshausen GmbH, Germany; Astellas Ireland Co., Ltd., Ireland
+atc_code: J02AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/448/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/448/001/smpc

@@ -1,0 +1,7 @@
+short_name: Telmisartan-ratiopharm
+active_substance: Telmisartanum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Teva Operations Poland Sp.z o.o., Poland; Actavis Ltd, Malta
+atc_code: C09CA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0505/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0505/smpc

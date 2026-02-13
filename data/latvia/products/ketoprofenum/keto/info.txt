@@ -1,0 +1,7 @@
+short_name: Keto
+active_substance: Ketoprofenum
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: M01AE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0388/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0388/smpc

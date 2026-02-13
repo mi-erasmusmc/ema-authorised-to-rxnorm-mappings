@@ -1,0 +1,7 @@
+short_name: Seroxat
+active_substance: Paroxetinum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Delpharm Poznań Spółka Akcyjna, Poland
+atc_code: N06AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-1041/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-1041/smpc

@@ -1,0 +1,7 @@
+short_name: Tecfidera
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Biogen Netherlands B.V., Netherlands
+manufacturer: Biogen Manufacturing ApS, Denmark; FUJIFILM Diosynth Biotechnologies Denmark ApS, Denmark
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/837/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/837/001/smpc

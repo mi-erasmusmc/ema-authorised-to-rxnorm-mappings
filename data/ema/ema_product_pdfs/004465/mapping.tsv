@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/19/1411/001	2903586	1.17 ML romosozumab 89.7 MG/ML Pen Injector	OMOP5120428	EXACT			2025-12-04
+EU/1/19/1411/002	2903586	1.17 ML romosozumab 89.7 MG/ML Pen Injector	OMOP5120428	EXACT			2025-12-04
+EU/1/19/1411/003	1511436	1.17 ML romosozumab-aqqg 89.7 MG/ML Prefilled Syringe [Evenity]	2123190	EXACT			2025-12-04
+EU/1/19/1411/004	1511436	1.17 ML romosozumab-aqqg 89.7 MG/ML Prefilled Syringe [Evenity]	2123190	EXACT			2025-12-04

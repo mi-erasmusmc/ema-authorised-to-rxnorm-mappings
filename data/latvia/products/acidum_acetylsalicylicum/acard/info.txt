@@ -1,0 +1,7 @@
+short_name: Acard
+active_substance: Acidum acetylsalicylicum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Pharmaceutical Works Polpharma SA, Poland; Pharmaceutical Works Polpharma S.A., Poland
+atc_code: B01AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0238/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0238/smpc

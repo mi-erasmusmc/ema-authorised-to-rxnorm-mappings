@@ -1,0 +1,7 @@
+short_name: Analgin
+active_substance: Metamizolum natricum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: N02BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0363/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0363/smpc

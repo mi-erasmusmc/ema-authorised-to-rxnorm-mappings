@@ -1,0 +1,7 @@
+short_name: Pulmicort Turbuhaler
+active_substance: Budesonidum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca AB, Sweden
+atc_code: R03BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0645/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0645/smpc

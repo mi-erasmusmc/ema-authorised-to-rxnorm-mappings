@@ -1,0 +1,7 @@
+short_name: Grippostad C
+active_substance: Paracetamolum, Acidum ascorbicum, Coffeinum, Chlorphenamini maleas
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0336/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0336/smpc

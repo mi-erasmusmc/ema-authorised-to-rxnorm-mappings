@@ -1,0 +1,7 @@
+short_name: Cetirizin Actavis
+active_substance: Cetirizini dihydrochloridum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Pharma, S.L.U., Spain
+atc_code: R06AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0294/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0294/smpc

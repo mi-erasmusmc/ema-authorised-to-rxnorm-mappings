@@ -1,0 +1,7 @@
+short_name: Coagadex
+active_substance: Factor X coagulationis humanus
+marketing_authorisation_holder: Kedrion S.p.A., Italy
+manufacturer: PharmaKorell GmbH, Germany
+atc_code: B02BD13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1087/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1087/001/smpc

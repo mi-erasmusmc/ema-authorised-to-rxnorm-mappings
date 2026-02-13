@@ -1,0 +1,7 @@
+short_name: Pomalidomide Teva
+active_substance: Pomalidomidum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Merckle GmbH, Germany; Actavis Group PTC ehf., Iceland
+atc_code: L04AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1868/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1868/001/smpc

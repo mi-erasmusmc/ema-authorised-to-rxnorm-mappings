@@ -1,0 +1,7 @@
+short_name: Wilzin
+active_substance: Zincum
+marketing_authorisation_holder: Recordati Rare Diseases, France
+manufacturer: Recordati Rare Diseases, France; Recordati Rare Diseases, France
+atc_code: A16AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/286/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/286/001/smpc

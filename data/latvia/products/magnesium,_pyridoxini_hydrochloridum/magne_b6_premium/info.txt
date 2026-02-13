@@ -1,0 +1,7 @@
+short_name: Magne B6 Premium
+active_substance: Magnesium, Pyridoxini hydrochloridum
+marketing_authorisation_holder: Opella Healthcare France S.A.S., France
+manufacturer: Opella Healthcare International SAS, France; Opella Healthcare Hungary Limited Liability Company (Opella Healthcare Hungary Ltd.), Hungary
+atc_code: A12CC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0179/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0179/smpc

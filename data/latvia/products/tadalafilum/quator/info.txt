@@ -1,0 +1,7 @@
+short_name: Quator
+active_substance: Tadalafilum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Teva Pharma, S.L.U., Spain
+atc_code: G04BE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0083/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0083/smpc

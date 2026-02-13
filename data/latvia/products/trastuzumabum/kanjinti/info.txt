@@ -1,0 +1,7 @@
+short_name: Kanjinti
+active_substance: Trastuzumabum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen Europe B.V., Netherlands; Amgen NV, Belgium
+atc_code: L01FD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1281/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1281/001/smpc

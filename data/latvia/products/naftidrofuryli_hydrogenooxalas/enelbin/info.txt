@@ -1,0 +1,7 @@
+short_name: Enelbin
+active_substance: Naftidrofuryli hydrogenooxalas
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: C04AX21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0188/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0188/smpc

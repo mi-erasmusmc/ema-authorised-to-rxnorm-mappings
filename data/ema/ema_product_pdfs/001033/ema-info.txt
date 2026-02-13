@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001033
+Name of medicine: Eporatio
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: epoetin theta
+Active substance: epoetin theta
+Therapeutic area (MeSH): Kidney Failure, Chronic;Anemia;Cancer
+ATC code (human): B03XA01
+Pharmacotherapeutic group (human): Other antianemic preparations
+Therapeutic indication: Treatment of symptomatic anaemia associated with chronic renal failure in adult patients. Treatment of symptomatic anaemia in adult cancer patients with non-myeloid malignancies receiving chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/eporatio

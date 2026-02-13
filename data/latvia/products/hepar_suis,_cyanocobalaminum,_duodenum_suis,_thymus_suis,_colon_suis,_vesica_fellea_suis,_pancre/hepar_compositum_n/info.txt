@@ -1,0 +1,7 @@
+short_name: Hepar compositum N
+active_substance: Hepar suis, Cyanocobalaminum, Duodenum suis, Thymus suis, Colon suis, Vesica fellea suis, Pancreatis suis, Taraxacum officinale, Lycopodium clavatum, Chelidonium majus, Acidum oroticum monohydricum, Cinchona pubescens, Silybum marianum, Histaminum, Sulfur, Avena sativa, Natrium diethyloxalaceticum, Acidum alfa-ketoglutaricum, Acidum malicum, Acidum fumaricum, Calcium carbonicum Hahnemanni, Acidum DL alfa-liponicum, Cynara scolymus, Veratrum album
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0111/smpc

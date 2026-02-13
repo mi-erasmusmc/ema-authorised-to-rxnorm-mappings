@@ -1,0 +1,7 @@
+short_name: Ofloxin
+active_substance: Ofloxacinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: J01MA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0852/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0852/smpc

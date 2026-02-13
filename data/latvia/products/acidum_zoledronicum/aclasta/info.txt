@@ -1,0 +1,7 @@
+short_name: Aclasta
+active_substance: Acidum zoledronicum
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: Novartis Pharma GmbH, Germany
+atc_code: M05BA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/308/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/308/001/smpc

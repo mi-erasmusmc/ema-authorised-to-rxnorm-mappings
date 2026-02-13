@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000442
+Name of medicine: Protaphane
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin human (rDNA)
+Active substance: Insulin human
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AC01
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of diabetes mellitus.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/protaphane

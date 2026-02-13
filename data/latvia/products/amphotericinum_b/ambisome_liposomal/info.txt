@@ -1,0 +1,7 @@
+short_name: AmBisome Liposomal
+active_substance: Amphotericinum B
+marketing_authorisation_holder: Gilead Sciences Hellas M.EPE., Greece
+manufacturer: Gilead Sciences Ireland UC, Ireland
+atc_code: J02AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001675/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001675/smpc

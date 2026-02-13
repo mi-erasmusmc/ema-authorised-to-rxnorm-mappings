@@ -1,0 +1,7 @@
+short_name: Rixathon
+active_substance: Rituximabum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Sandoz GmbH, Austria
+atc_code: L01FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1185/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1185/001/smpc

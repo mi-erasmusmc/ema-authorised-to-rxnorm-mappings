@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004644
+Name of medicine: Prasugrel Viatris (previously Prasugrel Mylan)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: prasugrel
+Active substance: prasugrel besilate
+Therapeutic area (MeSH): Myocardial Infarction;Acute Coronary Syndrome;Angina, Unstable
+ATC code (human): B01AC22
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Prasugrel Viatris, co administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with acute coronary syndrome (i.e. unstable angina, non-ST segment elevation myocardial infarction [UA/NSTEMI] or ST segment elevation myocardial infarction [STEMI]) undergoing primary or delayed percutaneous coronary intervention (PCI).
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/prasugrel-viatris

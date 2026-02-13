@@ -1,0 +1,7 @@
+short_name: Iplaceh
+active_substance: Carvi fructus extractum fluidum, Iberis amarae extractum fluidum, Melissae folii extractum fluidum, Liquiritiae radicis extractum fluidum, Matricariae extractum fluidum, Menthae piperitae folii extractum fluidum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Steigerwald Arzneimittelwerk GmbH, Germany
+atc_code: A03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0094/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0094/smpc

@@ -1,0 +1,7 @@
+short_name: SOTYKTU
+active_substance: Deucravacitinibum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories T/A Bristol-Myers Squibb Pharmaceutical Operations, External Manufacturing, Ireland
+atc_code: L04AF07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1718/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1718/001/smpc

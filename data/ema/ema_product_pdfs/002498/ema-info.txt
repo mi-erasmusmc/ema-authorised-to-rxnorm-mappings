@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002498
+Name of medicine: Tresiba
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin degludec
+Active substance: insulin degludec
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AE06
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of diabetes mellitus in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tresiba

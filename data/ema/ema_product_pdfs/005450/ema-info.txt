@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005450
+Name of medicine: Zilbrysq
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: zilucoplan
+Active substance: zilucoplan
+Therapeutic area (MeSH): Myasthenia Gravis
+ATC code (human): L04AJ06
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Zilbrysq is indicated as an add-on to standard therapy for the treatment of generalised myasthenia gravis (gMG) in adult patients who are anti-acetylcholine receptor (AChR) antibody positive.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zilbrysq

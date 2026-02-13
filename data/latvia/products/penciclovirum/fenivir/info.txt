@@ -1,0 +1,7 @@
+short_name: Fenivir
+active_substance: Penciclovirum
+marketing_authorisation_holder: Perrigo Poland Sp. z o.o., Poland
+manufacturer: Omega Pharma International NV, Belgium; Medgenix Benelux NV, Belgium
+atc_code: D06BB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0037/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0037/smpc

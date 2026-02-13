@@ -1,0 +1,7 @@
+short_name: Doppelherz Cardioherbal
+active_substance: Crataegi fructus extractum fluidum, Crataegi fructus extractum fluidum, Melissae folii extractum fluidum, Rosmarini folii extractum fluidum, Valerianae radicis extractum liquidum
+marketing_authorisation_holder: Queisser Pharma GmbH & Co. KG, Germany
+manufacturer: Queisser Pharma GmbH & Co, Germany
+atc_code: A13A
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0208/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0208/smpc

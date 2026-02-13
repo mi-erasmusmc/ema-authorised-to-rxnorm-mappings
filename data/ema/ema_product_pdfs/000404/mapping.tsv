@@ -1,0 +1,21 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/02/207/001	40163946	0.5 ML fondaparinux sodium 5 MG/ML Prefilled Syringe	861360	EXACT			2025-12-04
+EU/1/02/207/002	40163946	0.5 ML fondaparinux sodium 5 MG/ML Prefilled Syringe	861360	EXACT			2025-12-04
+EU/1/02/207/003	40163946	0.5 ML fondaparinux sodium 5 MG/ML Prefilled Syringe	861360	EXACT			2025-12-04
+EU/1/02/207/004	40163946	0.5 ML fondaparinux sodium 5 MG/ML Prefilled Syringe	861360	EXACT			2025-12-04
+EU/1/02/207/005	21039509	0.3 ML fondaparinux 5 MG/ML Prefilled Syringe	OMOP285833	EXACT		0.3 ML fondaparinux sodium 5 MG/ML Prefilled Syringe	2025-12-04
+EU/1/02/207/006	21039509	0.3 ML fondaparinux 5 MG/ML Prefilled Syringe	OMOP285833	EXACT		0.3 ML fondaparinux sodium 5 MG/ML Prefilled Syringe	2025-12-04
+EU/1/02/207/007	21039509	0.3 ML fondaparinux 5 MG/ML Prefilled Syringe	OMOP285833	EXACT		0.3 ML fondaparinux sodium 5 MG/ML Prefilled Syringe	2025-12-04
+EU/1/02/207/008	21039509	0.3 ML fondaparinux 5 MG/ML Prefilled Syringe	OMOP285833	EXACT		0.3 ML fondaparinux sodium 5 MG/ML Prefilled Syringe	2025-12-04
+EU/1/02/207/009	40163944	0.4 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861363	EXACT			2025-12-04
+EU/1/02/207/010	40163944	0.4 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861363	EXACT			2025-12-04
+EU/1/02/207/011	40163944	0.4 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861363	EXACT			2025-12-04
+EU/1/02/207/012	40163975	0.6 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861365	EXACT			2025-12-04
+EU/1/02/207/013	40163975	0.6 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861365	EXACT			2025-12-04
+EU/1/02/207/014	40163975	0.6 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861365	EXACT			2025-12-04
+EU/1/02/207/015	40163990	0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861356	EXACT			2025-12-04
+EU/1/02/207/016	40163990	0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861356	EXACT			2025-12-04
+EU/1/02/207/017	40163990	0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861356	EXACT			2025-12-04
+EU/1/02/207/018	40163944	0.4 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861363	EXACT			2025-12-04
+EU/1/02/207/019	40163975	0.6 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861365	EXACT			2025-12-04
+EU/1/02/207/020	40163990	0.8 ML fondaparinux sodium 12.5 MG/ML Prefilled Syringe	861356	EXACT			2025-12-04

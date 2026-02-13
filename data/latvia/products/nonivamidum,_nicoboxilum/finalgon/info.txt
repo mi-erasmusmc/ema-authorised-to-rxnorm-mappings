@@ -1,0 +1,7 @@
+short_name: Finalgon
+active_substance: Nonivamidum, Nicoboxilum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Globopharm Pharmazeutische Produktion und Handelsgesellschaft GmbH, Austria
+atc_code: M02AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001701/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001701/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000699
+Name of medicine: Champix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: varenicline
+Active substance: varenicline
+Therapeutic area (MeSH): Tobacco Use Cessation
+ATC code (human): N07BA03
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Champix is indicated for smoking cessation in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/champix

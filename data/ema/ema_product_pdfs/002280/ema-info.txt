@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002280
+Name of medicine: Giotrif
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: afatinib
+Active substance: afatinib
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01XE13
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Giotrif as monotherapy is indicated for the treatment of  Epidermal Growth Factor Receptor (EGFR) TKI-naïve adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with activating EGFR mutation(s); locally advanced or metastatic NSCLC of squamous histology progressing on or after platinum-based chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/giotrif

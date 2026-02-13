@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005574
+Name of medicine: Avzivi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bevacizumab
+Active substance: bevacizumab
+Therapeutic area (MeSH): Colorectal Neoplasms;Carcinoma, Non-Small-Cell Lung;Carcinoma, Renal Cell;Ovarian Neoplasms;Fallopian Tube Neoplasms;Peritoneal Neoplasms;Uterine Cervical Neoplasms
+ATC code (human): L01XC07
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of metastatic carcinoma of the colon or rectum, metastatic breast cancer and recurrence of platinum-sensitive epithelial ovarian, fallopian tube or primary peritoneal cancer first-line treatment of patients with unresectable advanced, metastatic or recurrent non-small cell lung cancer. first line treatment of patients with advanced and/or metastatic renal cell cancer.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/avzivi

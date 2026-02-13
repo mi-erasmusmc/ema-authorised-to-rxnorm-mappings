@@ -1,0 +1,7 @@
+short_name: Sevorane inhalation
+active_substance: Sevofluranum
+marketing_authorisation_holder: AbbVie, SIA, Latvia
+manufacturer: AbbVie S.r.l., Italy
+atc_code: N01AB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1001/smpc

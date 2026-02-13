@@ -1,0 +1,7 @@
+short_name: Cinie
+active_substance: Sumatriptanum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Saneca Pharmaceuticals A.S., Slovakia
+atc_code: N02CC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0189/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0189/smpc

@@ -1,0 +1,7 @@
+short_name: Obgemsa
+active_substance: Vibegronum
+marketing_authorisation_holder: Pierre Fabre Medicament, France
+manufacturer: Patheon France, France
+atc_code: G04BD15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1822/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1822/001/smpc

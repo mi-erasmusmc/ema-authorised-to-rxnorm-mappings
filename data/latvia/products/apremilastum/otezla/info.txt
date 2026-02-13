@@ -1,0 +1,7 @@
+short_name: Otezla
+active_substance: Apremilastum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Celgene Distribution B.V., Netherlands
+atc_code: L04AA32
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/981/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/981/001/smpc

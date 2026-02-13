@@ -1,0 +1,7 @@
+short_name: Vinorelbine Accord
+active_substance: Vinorelbinum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L01CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0230/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0230/smpc

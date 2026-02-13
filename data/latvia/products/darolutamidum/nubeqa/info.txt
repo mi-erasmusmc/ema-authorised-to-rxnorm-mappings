@@ -1,0 +1,7 @@
+short_name: NUBEQA
+active_substance: Darolutamidum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Orion Corporation Orion Pharma, Finland
+atc_code: L02BB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1432/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1432/001/smpc

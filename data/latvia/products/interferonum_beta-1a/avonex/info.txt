@@ -1,0 +1,7 @@
+short_name: Avonex
+active_substance: Interferonum beta-1a
+marketing_authorisation_holder: Biogen Netherlands B.V., Netherlands
+manufacturer: Biogen Manufacturing ApS, Denmark
+atc_code: L03AB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/033/003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/033/003/smpc

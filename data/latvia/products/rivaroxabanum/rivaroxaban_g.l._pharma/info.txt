@@ -1,0 +1,7 @@
+short_name: Rivaroxaban G.L. Pharma
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria; Saneca Pharmaceuticals A.S., Slovakia; Labormed - Pharma S.A., Romania; AdAlvo Limited, Malta
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0108/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0108/smpc

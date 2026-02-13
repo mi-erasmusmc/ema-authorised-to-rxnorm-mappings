@@ -1,0 +1,7 @@
+short_name: Brintellix
+active_substance: Vortioxetinum
+marketing_authorisation_holder: H. Lundbeck A/S, Denmark
+manufacturer: H. Lundbeck A/S, Denmark
+atc_code: N06AX26
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/891/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/891/001/smpc

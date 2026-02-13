@@ -1,0 +1,7 @@
+short_name: Ituxredi
+active_substance: Rituximabum
+marketing_authorisation_holder: Reddy Holding GmbH, Germany
+manufacturer: Betapharm Arzneimittel GmbH, Germany
+atc_code: L01FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1861/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1861/001/smpc

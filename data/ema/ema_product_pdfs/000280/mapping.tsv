@@ -1,0 +1,46 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/00/131/001	19131809	peginterferon alfa-2b 0.05 MG Injection [Pegintron]	805007	EXACT			2025-12-04
+EU/1/00/131/002	19131809	peginterferon alfa-2b 0.05 MG Injection [Pegintron]	805007	EXACT			2025-12-04
+EU/1/00/131/003	19131809	peginterferon alfa-2b 0.05 MG Injection [Pegintron]	805007	EXACT			2025-12-04
+EU/1/00/131/004	19131809	peginterferon alfa-2b 0.05 MG Injection [Pegintron]	805007	EXACT			2025-12-04
+EU/1/00/131/005	19131809	peginterferon alfa-2b 0.05 MG Injection [Pegintron]	805007	EXACT			2025-12-04
+EU/1/00/131/006	19131810	peginterferon alfa-2b 0.08 MG Injection [Pegintron]	805008	EXACT			2025-12-04
+EU/1/00/131/007	19131810	peginterferon alfa-2b 0.08 MG Injection [Pegintron]	805008	EXACT			2025-12-04
+EU/1/00/131/008	19131810	peginterferon alfa-2b 0.08 MG Injection [Pegintron]	805008	EXACT			2025-12-04
+EU/1/00/131/009	19131810	peginterferon alfa-2b 0.08 MG Injection [Pegintron]	805008	EXACT			2025-12-04
+EU/1/00/131/010	19131810	peginterferon alfa-2b 0.08 MG Injection [Pegintron]	805008	EXACT			2025-12-04
+EU/1/00/131/011	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/131/012	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/131/013	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/131/014	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/131/015	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/131/016	19131811	peginterferon alfa-2b 0.12 MG Injection [Pegintron]	805009	EXACT			2025-12-04
+EU/1/00/131/017	19131811	peginterferon alfa-2b 0.12 MG Injection [Pegintron]	805009	EXACT			2025-12-04
+EU/1/00/131/018	19131811	peginterferon alfa-2b 0.12 MG Injection [Pegintron]	805009	EXACT			2025-12-04
+EU/1/00/131/019	19131811	peginterferon alfa-2b 0.12 MG Injection [Pegintron]	805009	EXACT			2025-12-04
+EU/1/00/131/020	19131811	peginterferon alfa-2b 0.12 MG Injection [Pegintron]	805009	EXACT			2025-12-04
+EU/1/00/131/021	19131812	peginterferon alfa-2b 0.15 MG Injection [Pegintron]	805010	EXACT			2025-12-04
+EU/1/00/131/022	19131812	peginterferon alfa-2b 0.15 MG Injection [Pegintron]	805010	EXACT			2025-12-04
+EU/1/00/131/023	19131812	peginterferon alfa-2b 0.15 MG Injection [Pegintron]	805010	EXACT			2025-12-04
+EU/1/00/131/024	19131812	peginterferon alfa-2b 0.15 MG Injection [Pegintron]	805010	EXACT			2025-12-04
+EU/1/00/131/025	19131812	peginterferon alfa-2b 0.15 MG Injection [Pegintron]	805010	EXACT			2025-12-04
+EU/1/00/131/026	19131809	peginterferon alfa-2b 0.05 MG Injection [Pegintron]	805007	EXACT			2025-12-04
+EU/1/00/131/027	19131810	peginterferon alfa-2b 0.08 MG Injection [Pegintron]	805008	EXACT			2025-12-04
+EU/1/00/131/028	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
+EU/1/00/131/029	19131811	peginterferon alfa-2b 0.12 MG Injection [Pegintron]	805009	EXACT			2025-12-04
+EU/1/00/131/030	19131812	peginterferon alfa-2b 0.15 MG Injection [Pegintron]	805010	EXACT			2025-12-04
+EU/1/00/131/031	35606670	peginterferon alfa-2b 0.05 MG [Pegintron]	1720778	BROAD			2025-12-04
+EU/1/00/131/032	35606670	peginterferon alfa-2b 0.05 MG [Pegintron]	1720778	BROAD			2025-12-04
+EU/1/00/131/034	35606670	peginterferon alfa-2b 0.05 MG [Pegintron]	1720778	BROAD			2025-12-04
+EU/1/00/131/035	35606673	peginterferon alfa-2b 0.08 MG [Pegintron]	1720787	BROAD			2025-12-04
+EU/1/00/131/036	35606673	peginterferon alfa-2b 0.08 MG [Pegintron]	1720787	BROAD			2025-12-04
+EU/1/00/131/038	35606673	peginterferon alfa-2b 0.08 MG [Pegintron]	1720787	BROAD			2025-12-04
+EU/1/00/131/039	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
+EU/1/00/131/040	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
+EU/1/00/131/042	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
+EU/1/00/131/043	35606675	peginterferon alfa-2b 0.12 MG [Pegintron]	1720797	BROAD			2025-12-04
+EU/1/00/131/044	35606675	peginterferon alfa-2b 0.12 MG [Pegintron]	1720797	BROAD			2025-12-04
+EU/1/00/131/046	35606675	peginterferon alfa-2b 0.12 MG [Pegintron]	1720797	BROAD			2025-12-04
+EU/1/00/131/047	35606677	peginterferon alfa-2b 0.15 MG [Pegintron]	1720801	BROAD			2025-12-04
+EU/1/00/131/048	35606677	peginterferon alfa-2b 0.15 MG [Pegintron]	1720801	BROAD			2025-12-04
+EU/1/00/131/050	35606677	peginterferon alfa-2b 0.15 MG [Pegintron]	1720801	BROAD			2025-12-04

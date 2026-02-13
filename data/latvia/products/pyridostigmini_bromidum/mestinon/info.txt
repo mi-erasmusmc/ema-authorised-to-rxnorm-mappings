@@ -1,0 +1,7 @@
+short_name: Mestinon
+active_substance: Pyridostigmini bromidum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Labiana Pharmaceuticals. S.L.U, Spain; ICN Polfa Rzeszow S.A., Poland
+atc_code: N07AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0042/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0042/smpc

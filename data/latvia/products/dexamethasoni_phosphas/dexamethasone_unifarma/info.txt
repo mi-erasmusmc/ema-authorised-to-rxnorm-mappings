@@ -1,0 +1,7 @@
+short_name: Dexamethasone Unifarma
+active_substance: Dexamethasoni phosphas
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: S.C. Rompharm Company S.R.L., Romania
+atc_code: H02AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0151/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0151/smpc

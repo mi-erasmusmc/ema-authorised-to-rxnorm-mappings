@@ -1,0 +1,7 @@
+short_name: Effentora
+active_substance: Fentanylum
+marketing_authorisation_holder: Phoenix Labs Unlimited Company, Ireland
+manufacturer: Merckle GmbH, Germany
+atc_code: N02AB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/441/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/441/001/smpc

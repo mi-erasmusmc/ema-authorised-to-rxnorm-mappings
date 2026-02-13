@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001055
+Name of medicine: ImmunoGam
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: human hepatitis B immunoglobulin
+Active substance: human hepatitis B immunoglobulin
+Therapeutic area (MeSH): Immunization, Passive;Hepatitis B
+ATC code (human): J06BB04
+Pharmacotherapeutic group (human): Specific immunoglobulins
+Therapeutic indication: Immunoprophylaxis of Hepatitis B  - In case of accidental exposure in non-immunised subjects (including persons whose vaccination isincomplete or status unknown). - In haemodialysed patients, until vaccination has become effective. - In the newborn of a hepatitis B virus carrier-mother. - In subjects who did not show an immune response (no measurable hepatitis B antibodies) after vaccination and for whom a continuous prevention is necessary due to the continuous risk of being infected with hepatitis B. Consideration should also be given to other official guidance on the appropriate use of human hepatitis B immunoglobulin for intramuscular use.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/immunogam

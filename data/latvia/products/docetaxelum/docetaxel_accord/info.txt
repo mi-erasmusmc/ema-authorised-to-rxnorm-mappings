@@ -1,0 +1,7 @@
+short_name: Docetaxel Accord
+active_substance: Docetaxelum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare Limited, United Kingdom; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: L01CD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/769/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/769/001/smpc

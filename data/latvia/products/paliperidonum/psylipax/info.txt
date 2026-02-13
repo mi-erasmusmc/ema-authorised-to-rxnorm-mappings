@@ -1,0 +1,7 @@
+short_name: Psylipax
+active_substance: Paliperidonum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: Universal Farma S.L., Spain; Pharmascience International Limited, Cyprus
+atc_code: N05AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0167/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0167/smpc

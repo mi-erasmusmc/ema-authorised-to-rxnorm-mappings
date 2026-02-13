@@ -1,0 +1,7 @@
+short_name: Avamys
+active_substance: Fluticasoni furoas
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome S.A., Spain
+atc_code: R01AD12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/434/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/434/001/smpc

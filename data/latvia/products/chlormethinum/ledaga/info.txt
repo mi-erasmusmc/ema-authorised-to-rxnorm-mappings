@@ -1,0 +1,7 @@
+short_name: Ledaga
+active_substance: Chlormethinum
+marketing_authorisation_holder: Helsinn Birex Pharmaceutical Ltd., Ireland
+manufacturer: Helsinn Birex Pharmaceutical Ltd., Ireland
+atc_code: L01AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1171/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1171/001/smpc

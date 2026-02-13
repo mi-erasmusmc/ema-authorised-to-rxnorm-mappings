@@ -1,0 +1,7 @@
+short_name: Alyftrek
+active_substance: Deutivacaftorum, Tezacaftorum, Vanzacaftorum
+marketing_authorisation_holder: Vertex Pharmaceuticals (Ireland) Limited, Ireland
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland; Almac Pharma Services Limited, Northern Ireland
+atc_code: R07AX33
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1943/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1943/001/smpc

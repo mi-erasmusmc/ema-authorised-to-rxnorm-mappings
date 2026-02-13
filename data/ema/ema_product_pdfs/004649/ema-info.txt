@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004649
+Name of medicine: Fulvestrant Mylan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fulvestrant
+Active substance: fulvestrant
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L02BA03
+Pharmacotherapeutic group (human): Endocrine therapy
+Therapeutic indication: Fulvestrant is indicated for the treatment of estrogen receptor positive, locally advanced or metastatic breast cancer in postmenopausal women:  not previously treated with endocrine therapy, or with disease relapse on or after adjuvant anti-estrogen therapy, or disease progression on antiestrogen therapy.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fulvestrant-mylan

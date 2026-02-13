@@ -1,0 +1,7 @@
+short_name: Xanirva
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmadox Healthcare Ltd., Malta; S.C. Zentiva S.A., Romania
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0001/smpc

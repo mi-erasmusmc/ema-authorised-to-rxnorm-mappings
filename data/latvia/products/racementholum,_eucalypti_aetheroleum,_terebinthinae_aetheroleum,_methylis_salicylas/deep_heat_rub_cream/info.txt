@@ -1,0 +1,7 @@
+short_name: Deep Heat Rub Cream
+active_substance: Racementholum, Eucalypti aetheroleum, Terebinthinae aetheroleum, Methylis salicylas
+marketing_authorisation_holder: Colep Laupheim GmbH & Co.KG, Germany
+manufacturer: The Mentholatum Company Limited, United Kingdom; Colep Laupheim GmbH & Co.KG, Germany
+atc_code: M02AC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1176/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1176/smpc

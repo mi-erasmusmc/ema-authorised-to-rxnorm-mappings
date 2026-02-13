@@ -1,0 +1,7 @@
+short_name: NovoRapid FlexTouch
+active_substance: Insulinum aspartum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: A10AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/119/019/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/119/019/smpc

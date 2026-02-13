@@ -1,0 +1,7 @@
+short_name: Sephience
+active_substance: Sepiapterinum
+marketing_authorisation_holder: PTC Therapeutics International Limited, Ireland
+manufacturer: PTC Therapeutics International Limited, Ireland
+atc_code: A16AX28
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1939/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1939/001/smpc

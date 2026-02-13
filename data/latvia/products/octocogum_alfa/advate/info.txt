@@ -1,0 +1,7 @@
+short_name: Advate
+active_substance: Octocogum alfa
+marketing_authorisation_holder: Takeda Manufacturing Austria AG, Austria
+manufacturer: Baxalta Belgium Manufacturing SA, Belgium
+atc_code: B02BD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/271/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/271/001/smpc

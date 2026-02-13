@@ -1,0 +1,7 @@
+short_name: Octaplasma
+active_substance: Proteinum plasmatis humanum
+marketing_authorisation_holder: Octapharma (IP) SPRL, Belgium
+manufacturer: Octapharma AB, Sweden
+atc_code: B05AA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0256/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0256/smpc

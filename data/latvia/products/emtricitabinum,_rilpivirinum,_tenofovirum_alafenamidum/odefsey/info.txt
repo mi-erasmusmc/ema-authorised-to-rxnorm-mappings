@@ -1,0 +1,7 @@
+short_name: Odefsey
+active_substance: Emtricitabinum, Rilpivirinum, Tenofovirum alafenamidum
+marketing_authorisation_holder: Gilead Sciences Ireland UC, Ireland
+manufacturer: Gilead Sciences Ireland UC, Ireland
+atc_code: J05AR19
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1112/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1112/001/smpc

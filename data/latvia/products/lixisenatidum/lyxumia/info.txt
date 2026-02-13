@@ -1,0 +1,7 @@
+short_name: Lyxumia
+active_substance: Lixisenatidum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Deutschland GmbH, Germany
+atc_code: A10BJ03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/811/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/811/001/smpc

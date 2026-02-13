@@ -1,0 +1,7 @@
+short_name: Polcortolon
+active_substance: Triamcinolonum
+marketing_authorisation_holder: Adamed Pharma S.A., Poland
+manufacturer: Adamed Pharma S.A., Poland
+atc_code: H02AB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0439/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0439/smpc

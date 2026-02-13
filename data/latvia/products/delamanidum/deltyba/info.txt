@@ -1,0 +1,7 @@
+short_name: Deltyba
+active_substance: Delamanidum
+marketing_authorisation_holder: Otsuka Novel Products GmbH, Germany
+manufacturer: Otsuka Novel Products GmbH, Germany; R-Pharm Germany GmbH, Germany
+atc_code: J04AK06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/875/004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/875/004/smpc

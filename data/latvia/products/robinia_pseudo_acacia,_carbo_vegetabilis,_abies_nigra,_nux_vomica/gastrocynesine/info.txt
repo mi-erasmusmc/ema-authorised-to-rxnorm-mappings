@@ -1,0 +1,7 @@
+short_name: Gastrocynesine
+active_substance: Robinia pseudo acacia, Carbo vegetabilis, Abies nigra, Nux vomica
+marketing_authorisation_holder: Boiron, France
+manufacturer: Boiron, France
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1116/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1116/smpc

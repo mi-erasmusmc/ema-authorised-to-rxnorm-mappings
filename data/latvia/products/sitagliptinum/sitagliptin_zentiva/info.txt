@@ -1,0 +1,7 @@
+short_name: Sitagliptin Zentiva
+active_substance: Sitagliptinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: A10BH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0189/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0189/smpc

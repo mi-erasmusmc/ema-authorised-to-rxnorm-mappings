@@ -1,0 +1,7 @@
+short_name: Egoropal
+active_substance: Paliperidonum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Pharmathen S.A., Greece; Pharmathen International S.A., Greece
+atc_code: N05AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0075/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0075/smpc

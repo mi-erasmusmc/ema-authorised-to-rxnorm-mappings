@@ -1,0 +1,7 @@
+short_name: Travoprost/Timolol ELVIM
+active_substance: Travoprostum, Timololum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Pharmathen S.A., Greece; Balkanpharma-Razgrad AD, Bulgaria; Jadran Galenski Laboratorij d.d., Croatia
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0107/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0107/smpc

@@ -1,0 +1,7 @@
+short_name: Plecard
+active_substance: Eplerenonum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Synthon BV, Netherlands; Salutas Pharma GmbH, Germany; Synthon Hispania S.L., Spain
+atc_code: C03DA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0021/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0021/smpc

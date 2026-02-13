@@ -1,0 +1,7 @@
+short_name: Yellox
+active_substance: Bromfenacum
+marketing_authorisation_holder: Bausch + Lomb Ireland Limited, Ireland
+manufacturer: Dr. Gerhard Mann, Germany
+atc_code: S01BC11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/692/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/692/001/smpc

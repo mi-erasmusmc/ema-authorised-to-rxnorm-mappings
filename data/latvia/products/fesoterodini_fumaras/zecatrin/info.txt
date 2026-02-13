@@ -1,0 +1,7 @@
+short_name: Zecatrin
+active_substance: Fesoterodini fumaras
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
+atc_code: G04BD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0083/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0083/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004128
+Name of medicine: Besremi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ropeginterferon alfa-2b
+Active substance: ropeginterferon alfa-2b
+Therapeutic area (MeSH): Polycythemia Vera
+ATC code (human): L03AB15
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/besremi

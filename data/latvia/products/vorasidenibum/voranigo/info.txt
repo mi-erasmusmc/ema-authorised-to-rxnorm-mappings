@@ -1,0 +1,7 @@
+short_name: Voranigo
+active_substance: Vorasidenibum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Servier (Ireland) Industries Ltd, Ireland
+atc_code: L01XM04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1912/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1912/001/smpc

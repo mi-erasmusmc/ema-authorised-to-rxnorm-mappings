@@ -1,0 +1,7 @@
+short_name: Idafer
+active_substance: Ferrum
+marketing_authorisation_holder: Vifor France SAS, France
+manufacturer: Vifor France, France
+atc_code: B03AC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001193/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001193/smpc

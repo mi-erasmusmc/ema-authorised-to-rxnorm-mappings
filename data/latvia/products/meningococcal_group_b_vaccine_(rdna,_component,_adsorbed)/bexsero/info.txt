@@ -1,0 +1,7 @@
+short_name: Bexsero
+active_substance: Meningococcal group B Vaccine (rDNA, component, adsorbed)
+marketing_authorisation_holder: GSK Vaccines S.r.l., Italy
+manufacturer: GSK Vaccines S.r.l., Italy
+atc_code: J07AH09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/812/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/812/001/smpc

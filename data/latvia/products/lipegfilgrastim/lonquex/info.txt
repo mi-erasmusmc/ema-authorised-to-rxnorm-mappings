@@ -1,0 +1,7 @@
+short_name: Lonquex
+active_substance: Lipegfilgrastim
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Biotech GmbH, Germany; Merckle GmbH, Germany
+atc_code: L03AA14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/856/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/856/001/smpc

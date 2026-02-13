@@ -1,0 +1,7 @@
+short_name: Alyostal Prick
+active_substance: Allergenum extractum
+marketing_authorisation_holder: Stallergenes, France
+manufacturer: Stallergenes, France
+atc_code: V04CL
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0154/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0154/smpc

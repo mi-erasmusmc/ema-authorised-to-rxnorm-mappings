@@ -1,0 +1,7 @@
+short_name: Helex
+active_substance: Alprazolamum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; KRKA-FARMA d.o.o., Croatia
+atc_code: N05BA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0149/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0149/smpc

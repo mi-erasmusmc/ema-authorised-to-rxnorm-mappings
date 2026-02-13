@@ -1,0 +1,7 @@
+short_name: Tempier
+active_substance: Paracetamolum, Pseudoephedrini sulfas, Dextromethorphani hydrobromidum
+marketing_authorisation_holder: NVT UAB, Lithuania
+manufacturer: Laboratorios Alcala Farma S.L., Spain; Toll Manufacturing Services S.L., Spain; Farmalider, S.A., Spain
+atc_code: N02BE51;R05X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0233/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0233/smpc

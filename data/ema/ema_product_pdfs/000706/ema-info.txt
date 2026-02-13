@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000706
+Name of medicine: Daronrix
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: pandemic influenza vaccine (whole virion, inactivated, adjuvanted)
+Active substance: whole virion, inactivated, containing antigen*: A/Vietnam/1194/2004 (H5N1)* produced in eggs
+Therapeutic area (MeSH): Influenza, Human;Immunization;Disease Outbreaks
+ATC code (human): J07BB01
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Prophylaxis of influenza in an officially declared pandemic situation. Pandemic influenza vaccine should be used in accordance with official guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/daronrix

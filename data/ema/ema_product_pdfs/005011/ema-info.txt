@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005011
+Name of medicine: Rukobia
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fostemsavir
+Active substance: fostemsavir trometamol
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AX
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Rukobia, in combination with other antiretrovirals, is indicated for the treatment of adults with multidrug resistant HIV-1 infection for whom it is otherwise not possible to construct a suppressive anti-viral regimen.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rukobia

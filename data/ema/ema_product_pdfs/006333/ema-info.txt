@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006333
+Name of medicine: Beyonttra
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: acoramidis
+Active substance: acoramidis hydrochloride
+Therapeutic area (MeSH): Amyloid Neuropathies, Familial
+ATC code (human): C01EB25
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: For the treatment of wild-type or variant transthyretin amyloidosis in adult patients with cardiomyopathy (ATTR-CM).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/beyonttra

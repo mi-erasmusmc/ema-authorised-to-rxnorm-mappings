@@ -1,0 +1,7 @@
+short_name: Datroway
+active_substance: Datopotamabum deruxtecanum
+marketing_authorisation_holder: Daiichi Sankyo Europe GmbH, Germany
+manufacturer: Daiichi Sankyo Europe GmbH, Germany
+atc_code: L01FX35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1915/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1915/001/smpc

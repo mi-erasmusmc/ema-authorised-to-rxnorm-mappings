@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000404
+Name of medicine: Quixidar
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: fondaparinux sodium
+Active substance: fondaparinux sodium
+Therapeutic area (MeSH): Venous Thrombosis;Pulmonary Embolism;Myocardial Infarction;Angina, Unstable
+ATC code (human): B01AX05
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: 1.5 mg/0.3 ml and 2.5 mg/0.5 ml, solution for injection:  Prevention of Venous Thromboembolic Events (VTE) in patients undergoing major orthopaedic surgery of the lower limbs such as hip fracture, major knee surgery or hip replacement surgery. Prevention of Venous Thromboembolic Events (VTE) in patients undergoing abdominal surgery who are judged to be at high risk of thromboembolic complications, such as patients undergoing abdominal cancer surgery (see section 5.1). Prevention of Venous Thromboembolic Events (VTE) in medical patients who are judged to be at high risk for VTE and who are immobilised due to acute illness such as cardiac insufficiency and/or acute respiratory disorders, and/or acute infectious or inflammatory disease.  2.5 mg/0.5 ml, solution for injection:  Treatment of unstable angina or non-ST segment elevation myocardial infarction (UA/NSTEMI) in patients for whom urgent (&lt; 120 mins) invasive management (PCI) is not indicated (see sections 4.4 and 5.1). Treatment of ST segment elevation myocardial infarction (STEMI) in patients who are managed with thrombolytics or who initially are to receive no other form of reperfusion therapy.  5 mg/0.4 ml, 7.5 mg/0.6 ml and 10 mg/0.8 ml solution for injection:  Treatment of acute Deep Vein Thrombosis (DVT) and treatment of acute Pulmonary Embolism (PE), except in haemodynamically unstable patients or patients who require thrombolysis or pulmonary embolectomy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/quixidar

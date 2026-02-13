@@ -1,0 +1,7 @@
+short_name: Velsipity
+active_substance: Etrasimodum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Almac Pharma Services Limited, United Kingdom; Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: L04AE05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1790/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1790/001/smpc

@@ -1,0 +1,7 @@
+short_name: Striverdi Respimat
+active_substance: Olodaterolum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Boehringer Ingelheim France, France
+atc_code: R03AC19
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0232/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0232/smpc

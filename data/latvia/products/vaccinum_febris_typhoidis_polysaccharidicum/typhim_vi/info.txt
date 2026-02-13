@@ -1,0 +1,7 @@
+short_name: Typhim Vi
+active_substance: Vaccinum febris typhoidis polysaccharidicum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Zrt., Hungary; Sanofi Winthrop Industrie, France; Sanofi Winthrop Industrie, France
+atc_code: J07AP03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0552/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0552/smpc

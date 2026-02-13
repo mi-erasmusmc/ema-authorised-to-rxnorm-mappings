@@ -1,0 +1,7 @@
+short_name: BeneFIX
+active_substance: Nonacogum alfa
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Wyeth Farma S.A., Spain
+atc_code: B02BD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/047/004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/047/004/smpc

@@ -1,0 +1,7 @@
+short_name: Progit
+active_substance: Itopridi hydrochloridum
+marketing_authorisation_holder: PRO.MED.CS Praha a.s., Czech Republic
+manufacturer: PRO.MED.CS Praha a.s., Czech Republic
+atc_code: A03FA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0211/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0211/smpc

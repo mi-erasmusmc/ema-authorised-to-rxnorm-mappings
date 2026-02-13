@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004257
+Name of medicine: Trimbow
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: beclometasone;formoterol;glycopyrronium bromide
+Active substance: beclometasone dipropionate;formoterol fumarate dihydrate;glycopyrronium bromide
+Therapeutic area (MeSH): Pulmonary Disease, Chronic Obstructive
+ATC code (human): R03AL09
+Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
+Therapeutic indication: Maintenance treatment of asthma, in adults not adequately controlled with a maintenance combination of a long-acting beta2-agonist and high dose of inhaled corticosteroid, and who experienced one or more asthma exacerbations in the previous year. COPDMaintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long-acting beta2-agonist or a combination of a long-acting beta2-agonist and a long-acting muscarinic antagonist (for effects on symptoms control and prevention of exacerbations see section 5.1). AsthmaMaintenance treatment of asthma, in adults not adequately controlled with a maintenance combination of a long-acting beta2-agonist and medium dose of inhaled corticosteroid, and who experienced one or more asthma exacerbations in the previous year.  
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trimbow

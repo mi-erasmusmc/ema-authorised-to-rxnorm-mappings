@@ -1,0 +1,7 @@
+short_name: Zolpidem Vitabalans
+active_substance: Zolpidemi tartras
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: N05CF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0277/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0277/smpc

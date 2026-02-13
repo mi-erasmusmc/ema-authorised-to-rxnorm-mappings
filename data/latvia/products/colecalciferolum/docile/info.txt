@@ -1,0 +1,7 @@
+short_name: Docile
+active_substance: Colecalciferolum
+marketing_authorisation_holder: Abiogen Pharma S.p.A, Italy
+manufacturer: Abiogen Pharma S.p.A, Italy
+atc_code: A11CC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0187/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0187/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000987
+Name of medicine: Exalief
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: eslicarbazepine acetate
+Active substance: eslicarbazepine acetate
+Therapeutic area (MeSH): Epilepsy
+ATC code (human): N03AF04
+Pharmacotherapeutic group (human): Antiepileptics
+Therapeutic indication: Exalief is indicated as adjunctive therapy in adults with partial-onset seizures with or without secondary generalisation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/exalief

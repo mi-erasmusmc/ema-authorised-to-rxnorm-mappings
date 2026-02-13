@@ -1,0 +1,7 @@
+short_name: Corlentor
+active_substance: Ivabradinum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France; Przedsiebiorstwo Farmaceutyczne ANPHARM S.A., Poland; Servier (Ireland) Industries Ltd, Ireland; Laboratorios Servier S.L., Spain
+atc_code: C01EB17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/317/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/317/001/smpc

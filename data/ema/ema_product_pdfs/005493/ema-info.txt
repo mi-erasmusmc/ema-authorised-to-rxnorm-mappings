@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005493
+Name of medicine: Qalsody
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tofersen
+Active substance: tofersen
+Therapeutic area (MeSH): Amyotrophic Lateral Sclerosis
+ATC code (human): N07XX22
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Qalsody is indicated for the treatment of adults with&nbsp;amyotrophic lateral sclerosis (ALS), associated with a mutation in the superoxide dismutase 1 (SOD1) gene.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/qalsody

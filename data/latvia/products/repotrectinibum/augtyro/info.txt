@@ -1,0 +1,7 @@
+short_name: Augtyro
+active_substance: Repotrectinibum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories T/A Bristol-Myers Squibb Pharmaceutical Operations, External Manufacturing, Ireland
+atc_code: L01EX28
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1883/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1883/001/smpc

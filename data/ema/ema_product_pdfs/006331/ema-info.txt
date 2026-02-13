@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006331
+Name of medicine: Sephience
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sepiapterin
+Active substance: sepiapterin
+Therapeutic area (MeSH): Phenylketonurias
+ATC code (human): A16A
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Treatment of hyperphenylalaninaemia (HPA) in adult and paediatric patients with phenylketonuria (PKU)
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sephience

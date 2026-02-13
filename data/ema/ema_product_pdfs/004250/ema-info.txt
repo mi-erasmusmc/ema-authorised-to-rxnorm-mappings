@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004250
+Name of medicine: Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: efavirenz;emtricitabine;tenofovir disoproxil
+Active substance: efavirenz;emtricitabine;tenofovir disoproxil phosphate
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR06
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva is a fixed-dose combination of efavirenz, emtricitabine and tenofovir disoproxil. It is indicated for the treatment of human immunodeficiency virus-1 (HIV-1) infection in adults aged 18 years and over with virologic suppression to HIV-1 RNA levels of &lt; 50 copies/ml on their current combination antiretroviral therapy for more than three months. Patients must not have experienced virological failure on any prior antiretroviral therapy and must be known not to have harboured virus strains with mutations conferring significant resistance to any of the three components contained in Efavirenz/Emtricitabine/Tenofovir disoproxil Zentiva prior to initiation of their first antiretroviral treatment regimen. The demonstration of the benefit of the combination efavirenz/emtricitabine/tenofovir disoproxil is primarily based on 48-week data from a clinical study in which patients with stable virologic suppression on a combination antiretroviral therapy changed to efavirenz/emtricitabine/tenofovir disoproxil. No data are currently available from clinical studies with combination efavirenz/emtricitabine/tenofovir disoproxil in treatment-naïve or in heavily pretreated patients. No data are available to support the combination of efavirenz/emtricitabine/tenofovir disoproxil and other antiretroviral agents.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/efavirenz-emtricitabine-tenofovir-disoproxil-zentiva

@@ -1,0 +1,7 @@
+short_name: Rivastigmine Actavis
+active_substance: Rivastigminum
+marketing_authorisation_holder: Actavis Group PTC ehf., Iceland
+manufacturer: Specifar S.A., Greece; TjoaPack Netherlands B.V., Netherlands; Actavis Group PTC ehf., Iceland; Actavis ehf., Iceland
+atc_code: N06DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/693/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/693/001/smpc

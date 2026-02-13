@@ -1,0 +1,7 @@
+short_name: Vaborem
+active_substance: Meropenemum, Vaborbactamum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: ACS Dobfar S.P.A., Italy
+atc_code: J01DH52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1334/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1334/001/smpc

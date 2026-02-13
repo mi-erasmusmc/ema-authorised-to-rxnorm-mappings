@@ -1,0 +1,7 @@
+short_name: Abacavir/Lamivudine Mylan
+active_substance: Abacavirum, Lamivudinum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan S.A.S, France; Mylan Hungary Kft., Hungary; Gerard Laboratories, Ireland
+atc_code: J05AR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0056/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0056/smpc

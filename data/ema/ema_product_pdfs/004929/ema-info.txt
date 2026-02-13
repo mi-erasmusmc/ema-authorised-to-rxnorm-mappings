@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004929
+Name of medicine: Kimmtrak
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tebentafusp
+Active substance: tebentafusp
+Therapeutic area (MeSH): Uveal Neoplasms
+ATC code (human): L01XX75
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Kimmtrak is indicated as monotherapy for the treatment of human leukocyte antigen (HLA)-A*02:01-positive adult patients with unresectable or metastatic uveal melanoma.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kimmtrak

@@ -1,0 +1,7 @@
+short_name: Hirudoid
+active_substance: Chondroitini polysulfas
+marketing_authorisation_holder: UAB "STADA Baltics", Lithuania
+manufacturer: Stada Arzneimittel AG, Germany; Wagener & Co. GmbH, Germany
+atc_code: C05BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0014/smpc

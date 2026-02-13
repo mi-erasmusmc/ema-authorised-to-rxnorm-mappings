@@ -1,0 +1,7 @@
+short_name: Epidyolex
+active_substance: Cannabidiolum
+marketing_authorisation_holder: Jazz Pharmaceuticals Ireland Ltd, Ireland
+manufacturer: GW Pharma (International) B.V., Netherlands
+atc_code: N03AX24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1389/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1389/001/smpc

@@ -1,0 +1,7 @@
+short_name: Tarceva
+active_substance: Erlotinibum
+marketing_authorisation_holder: Cheplapharm Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01EB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/311/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/311/001/smpc

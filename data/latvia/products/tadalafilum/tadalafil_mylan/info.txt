@@ -1,0 +1,7 @@
+short_name: Tadalafil Mylan
+active_substance: Tadalafilum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited t/a Gerard Laboratories t/a Mylan Dublin, Ireland; Mylan Germany GmbH, Germany
+atc_code: G04BE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/961/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/961/001/smpc

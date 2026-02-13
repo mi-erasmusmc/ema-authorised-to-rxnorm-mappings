@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000687
+Name of medicine: Sutent
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sunitinib
+Active substance: sunitinib
+Therapeutic area (MeSH): Gastrointestinal Stromal Tumors;Carcinoma, Renal Cell;Neuroendocrine Tumors
+ATC code (human): L01EX01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Gastrointestinal stromal tumour (GIST) Sutent is indicated for the treatment of unresectable and/or metastatic malignant gastrointestinal stromal tumour (GIST) in adults after failure of imatinib mesilate treatment due to resistance or intolerance. Metastatic renal cell carcinoma (MRCC) Sutent is indicated for the treatment of advanced/metastatic renal cell carcinoma (MRCC) in adults. Pancreatic neuroendocrine tumours (pNET) Sutent is indicated for the treatment of unresectable or metastatic, well-differentiated pancreatic neuroendocrine tumours with disease progression in adults. Experience with Sutent as first-line treatment is limited (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sutent

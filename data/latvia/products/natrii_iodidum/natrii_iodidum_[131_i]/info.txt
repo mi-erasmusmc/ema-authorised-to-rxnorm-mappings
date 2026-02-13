@@ -1,0 +1,7 @@
+short_name: Natrii iodidum [131 I]
+active_substance: Natrii iodidum
+marketing_authorisation_holder: GE Healthcare Buchler GmbH & Co. KG, Germany
+manufacturer: GE Healthcare Buchler GmbH & Co. KG, Germany
+atc_code: V09FX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0282/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0282/smpc

@@ -1,0 +1,7 @@
+short_name: Ketoconazole Esteve
+active_substance: Ketoconazolum
+marketing_authorisation_holder: Esteve Pharmaceuticals, S.A., Spain
+manufacturer: Polfarmex S.A., Poland; Centre Spécialités Pharmaceutiques, France
+atc_code: J02AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/965/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/965/001/smpc

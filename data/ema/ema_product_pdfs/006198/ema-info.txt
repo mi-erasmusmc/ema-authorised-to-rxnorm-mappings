@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006198
+Name of medicine: Adzynma
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rADAMTS13
+Active substance: rADAMTS13
+Therapeutic area (MeSH): Purpura, Thrombotic Thrombocytopenic
+ATC code (human): B01AD13
+Pharmacotherapeutic group (human): Antithrombotic agents;Enzymes
+Therapeutic indication: Treatment of congenital thrombotic thrombocytopenic purpura (cTTP) due to ADAMTS13 deficiency
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/adzynma

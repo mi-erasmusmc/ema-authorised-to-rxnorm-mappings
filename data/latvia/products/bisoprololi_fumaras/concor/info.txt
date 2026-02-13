@@ -1,0 +1,7 @@
+short_name: Concor
+active_substance: Bisoprololi fumaras
+marketing_authorisation_holder: Merck Serono, SIA, Latvia
+manufacturer: Merck Healthcare KGaA, Germany; Merck S.L., Spain
+atc_code: C07AB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0010/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0010/smpc

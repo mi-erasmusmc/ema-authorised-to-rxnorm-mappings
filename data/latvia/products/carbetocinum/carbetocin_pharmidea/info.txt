@@ -1,0 +1,7 @@
+short_name: Carbetocin Pharmidea
+active_substance: Carbetocinum
+marketing_authorisation_holder: PharmIdea, SIA, Latvia
+manufacturer: PharmIdea, SIA, Latvia
+atc_code: H01BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0093/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0093/smpc

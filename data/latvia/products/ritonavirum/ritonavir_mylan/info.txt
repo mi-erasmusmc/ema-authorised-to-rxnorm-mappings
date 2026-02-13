@@ -1,0 +1,7 @@
+short_name: Ritonavir Mylan
+active_substance: Ritonavirum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: McDermott Laboratories Ltd, Ireland; Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: J05AE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1242/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1242/001/smpc

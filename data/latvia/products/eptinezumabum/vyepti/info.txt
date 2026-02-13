@@ -1,0 +1,7 @@
+short_name: Vyepti
+active_substance: Eptinezumabum
+marketing_authorisation_holder: H. Lundbeck A/S, Denmark
+manufacturer: H. Lundbeck A/S, Denmark
+atc_code: N02CD05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1599/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1599/001/smpc

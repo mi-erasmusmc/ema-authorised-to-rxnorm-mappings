@@ -1,0 +1,7 @@
+short_name: ABILIFY MAINTENA
+active_substance: Aripiprazolum
+marketing_authorisation_holder: Otsuka Pharmaceutical Netherlands B.V., Netherlands
+manufacturer: H. Lundbeck A/S, Denmark
+atc_code: N05AX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/882/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/882/001/smpc

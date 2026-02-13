@@ -1,0 +1,7 @@
+short_name: Everio Airmaster
+active_substance: Salmeterolum, Fluticasoni propionas
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmaprogress S.R.L., Italy; Eurofins BioPharma Product Testing Finland Oy, Finland; Kymos S.L., Spain
+atc_code: R03AK06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0001/smpc

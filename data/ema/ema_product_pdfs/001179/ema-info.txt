@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001179
+Name of medicine: Daxas
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: roflumilast
+Active substance: roflumilast
+Therapeutic area (MeSH): Pulmonary Disease, Chronic Obstructive
+ATC code (human): R03DX07
+Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
+Therapeutic indication: Daxas is indicated for maintenance treatment of severe chronic obstructive pulmonary disease (COPD) (FEV1 post-bronchodilator less than 50% predicted) associated with chronic bronchitis in adult patients with a history of frequent exacerbations as add-on to bronchodilator treatment.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/daxas

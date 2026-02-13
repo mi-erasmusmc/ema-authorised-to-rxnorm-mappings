@@ -1,0 +1,7 @@
+short_name: Meriofert
+active_substance: Menotropinum
+marketing_authorisation_holder: IBSA Farmaceutici Italia S.r.l., Italy
+manufacturer: IBSA Farmaceutici Italia srl, Italy
+atc_code: G03GA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0250/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0250/smpc

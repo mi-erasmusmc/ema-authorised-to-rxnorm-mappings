@@ -1,0 +1,7 @@
+short_name: Foclivia
+active_substance: Vaccinum influenzae (A/Viet Nam/1194/2004 (H5N1)) inactivatum
+marketing_authorisation_holder: Seqirus S.r.l., Italy
+manufacturer: Seqirus Netherlands B.V., Netherlands
+atc_code: J07BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/577/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/577/001/smpc

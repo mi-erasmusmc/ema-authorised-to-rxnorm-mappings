@@ -1,0 +1,7 @@
+short_name: Conoxia
+active_substance: Oxygenium
+marketing_authorisation_holder: Linde Gas, Sweden
+manufacturer: Linde Gas AB, Sweden; Linde Gas AS, Norway; Linde Gas ehf, Iceland; OY Linde Gas AB, Finland; Linde Gas SIA, Latvia
+atc_code: V03AN01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0221/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0221/smpc

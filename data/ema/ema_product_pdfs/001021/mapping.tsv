@@ -1,0 +1,4 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/08/476/005	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2025-12-04
+EU/1/08/476/006	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2025-12-04
+EU/1/08/476/007	741670	tadalafil Oral Suspension	2613562	BROAD	No 2 MG/ML oral suspension in RxNorm; only 4 MG/ML exists	tadalafil 2 MG/ML Oral Suspension [Adcirca]	2026-02-12

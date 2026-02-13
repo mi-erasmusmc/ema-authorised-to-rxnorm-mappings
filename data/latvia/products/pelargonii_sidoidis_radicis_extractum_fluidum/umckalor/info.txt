@@ -1,0 +1,7 @@
+short_name: Umckalor
+active_substance: Pelargonii sidoidis radicis extractum fluidum
+marketing_authorisation_holder: Deutsche Homöopathie-Union DHU-Arzneimittel GmbH & Co.KG, Germany
+manufacturer: Dr. Willmar Schwabe Arzneimittel GmbH & Co.KG, Germany
+atc_code: R05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0808/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0808/smpc

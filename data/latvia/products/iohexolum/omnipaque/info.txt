@@ -1,0 +1,7 @@
+short_name: Omnipaque
+active_substance: Iohexolum
+marketing_authorisation_holder: GE Healthcare AS, Norway
+manufacturer: GE Healthcare Ireland Limited, Ireland
+atc_code: V08AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0196/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0196/smpc

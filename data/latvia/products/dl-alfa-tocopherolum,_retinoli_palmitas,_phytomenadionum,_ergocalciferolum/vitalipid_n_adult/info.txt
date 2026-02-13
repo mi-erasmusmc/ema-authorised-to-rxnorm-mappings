@@ -1,0 +1,7 @@
+short_name: Vitalipid N Adult
+active_substance: DL-alfa-tocopherolum, Retinoli palmitas, Phytomenadionum, Ergocalciferolum
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi AB, Sweden
+atc_code: B05XC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0076/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0076/smpc

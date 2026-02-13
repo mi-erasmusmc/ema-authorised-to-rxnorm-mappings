@@ -1,0 +1,7 @@
+short_name: Archifar
+active_substance: Meropenemum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory C, Cyprus
+atc_code: J01DH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0125/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0125/smpc

@@ -1,0 +1,7 @@
+short_name: Hydrocortisonum Jelfa
+active_substance: Hydrocortisonum
+marketing_authorisation_holder: Bausch Health Ireland Limited, Ireland
+manufacturer: Pharmaceutical Company Jelfa SA, Poland
+atc_code: H02AB09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001815/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001815/smpc

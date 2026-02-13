@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002682
+Name of medicine: Imnovid (previously Pomalidomide Celgene)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pomalidomide
+Active substance: Pomalidomide
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): L04AX06
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Imnovid in combination with bortezomib and dexamethasone is indicated in the treatment of adult patients with multiple myeloma who have received at least one prior treatment regimen including lenalidomide. Imnovid in combination with dexamethasone is indicated in the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least two prior treatment regimens, including both lenalidomide and bortezomib, and have demonstrated disease progression on the last therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/imnovid

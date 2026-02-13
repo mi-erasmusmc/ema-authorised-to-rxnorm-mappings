@@ -1,0 +1,7 @@
+short_name: Neuraceq
+active_substance: Florbetabenum (18F)
+marketing_authorisation_holder: Life Radiopharma Berlin GmbH, Germany
+manufacturer: BV CYCLOTRON VU, Netherlands; CIS BIO INTERNATIONAL, France; IBA MOLECULAR ITALY S.R.L., Italy; Alliance Medical Radiopharmacy Ltd, United Kingdom; Seibersdorf Labor GmbH, Austria; Life Radiopharma Berlin GmbH, Germany; Life Radiopharma Warszawa Sp. z o.o., Poland; CIS BIO INTERNATIONAL, France; CIS BIO INTERNATIONAL, France; CIS BIO INTERNATIONAL, France; CIS BIO INTERNATIONAL, France; Life Radiopharma Bonn GmbH, Germany; IBA MOLECULAR ITALY S.R.L., Italy; IBA MOLECULAR ITALY S.R.L., Italy; BetaPlus Pharma SA, Belgium; Curium Pharma Spain S.A., Spain; Curium Pharma Spain S.A., Spain; Institut Radiofarmacia Aplicada Barcelona-IRAB, Spain
+atc_code: V09AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/906/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/906/001/smpc

@@ -1,0 +1,7 @@
+short_name: Gyno-Pevaryl
+active_substance: Econazoli nitras
+marketing_authorisation_holder: Karo Pharma AB, Sweden
+manufacturer: Lusomedicamenta Sociedade Tecnica Farmaceutica S.A., Portugal
+atc_code: G01AF05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0411/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0411/smpc

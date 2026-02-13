@@ -1,0 +1,7 @@
+short_name: Silungo
+active_substance: Sildenafilum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Norameda UAB, Lithuania
+atc_code: G04BE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0001/smpc

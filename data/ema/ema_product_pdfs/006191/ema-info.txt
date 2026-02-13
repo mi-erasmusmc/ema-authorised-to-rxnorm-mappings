@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006191
+Name of medicine: Eribulin Baxter
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: eribulin
+Active substance: Eribulin mesylate
+Therapeutic area (MeSH): Breast Neoplasms;Liposarcoma
+ATC code (human): L01XX41
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Eribulin Baxter is indicated for the treatment of adult patients with locally advanced or metastatic breast cancer who have progressed after at least one chemotherapeutic regimen for advanced disease. Prior therapy should have included an anthracycline and a taxane in either the adjuvant or metastatic setting unless patients were not suitable for these treatments. Eribulin Baxter is indicated for the treatment of adult patients with unresectable liposarcoma who have received prior anthracycline containing therapy (unless unsuitable) for advanced or metastatic disease
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/eribulin-baxter

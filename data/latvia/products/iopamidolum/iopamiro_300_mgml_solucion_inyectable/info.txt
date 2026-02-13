@@ -1,0 +1,7 @@
+short_name: IOPAMIRO 300 mg/ml SOLUCION INYECTABLE
+active_substance: Iopamidolum
+marketing_authorisation_holder: Patheon Italia S.p.A., Italy
+manufacturer: 
+atc_code: V08AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/RN023/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/RN023/smpc

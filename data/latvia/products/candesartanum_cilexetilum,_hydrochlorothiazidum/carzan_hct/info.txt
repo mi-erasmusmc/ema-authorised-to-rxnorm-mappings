@@ -1,0 +1,7 @@
+short_name: Carzan HCT
+active_substance: Candesartanum cilexetilum, Hydrochlorothiazidum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: C09DA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0020/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0020/smpc

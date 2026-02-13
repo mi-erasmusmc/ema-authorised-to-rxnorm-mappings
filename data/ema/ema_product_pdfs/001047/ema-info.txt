@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001047
+Name of medicine: Rilonacept Regeneron (previously Arcalyst)
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: rilonacept
+Active substance: rilonacept
+Therapeutic area (MeSH): Cryopyrin-Associated Periodic Syndromes
+ATC code (human): L04AC08
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Rilonacept Regeneron is indicated for the treatment of cryopyrin-associated periodic syndromes (CAPS) with severe symptoms, including familial cold auto-inflammatory syndrome (FCAS) and Muckle-Wells syndrome (MWS), in adults and children aged 12 years and older.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rilonacept-regeneron

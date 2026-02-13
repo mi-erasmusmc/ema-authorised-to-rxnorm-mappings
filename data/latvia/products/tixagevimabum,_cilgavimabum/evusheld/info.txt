@@ -1,0 +1,7 @@
+short_name: Evusheld
+active_substance: Tixagevimabum, Cilgavimabum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca AB, Sweden
+atc_code: J06BD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1651/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1651/001/smpc

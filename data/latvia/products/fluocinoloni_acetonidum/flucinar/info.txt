@@ -1,0 +1,7 @@
+short_name: Flucinar
+active_substance: Fluocinoloni acetonidum
+marketing_authorisation_holder: PharmaSwiss Ceska republika s.r.o., Czech Republic
+manufacturer: Pharmaceutical Company Jelfa SA, Poland
+atc_code: D07AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0468/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0468/smpc

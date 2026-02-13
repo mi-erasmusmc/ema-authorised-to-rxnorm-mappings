@@ -1,0 +1,7 @@
+short_name: Stayveer
+active_substance: Bosentani monohydras
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen-Cilag International NV, Belgium
+atc_code: C02KX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/832/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/832/001/smpc

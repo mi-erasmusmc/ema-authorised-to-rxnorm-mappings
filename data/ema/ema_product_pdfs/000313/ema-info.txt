@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000313
+Name of medicine: Aerius
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: desloratadine
+Active substance: desloratadine
+Therapeutic area (MeSH): Rhinitis, Allergic, Perennial;Urticaria;Rhinitis, Allergic, Seasonal
+ATC code (human): R06AX27
+Pharmacotherapeutic group (human): Antihistamines for systemic use
+Therapeutic indication: Aerius is indicated for the relief of symptoms associated with:  allergic rhinitis; urticaria.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aerius

@@ -1,0 +1,7 @@
+short_name: Ambrisentan Inteli
+active_substance: Ambrisentanum
+marketing_authorisation_holder: Inteli Generics Nord UAB, Lithuania
+manufacturer: Chanelle Medical Unlimited Company, Ireland
+atc_code: C02KX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0289/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0289/smpc

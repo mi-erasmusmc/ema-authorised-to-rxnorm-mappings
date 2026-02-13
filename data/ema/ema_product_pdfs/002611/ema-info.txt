@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002611
+Name of medicine: Numient
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: levodopa;carbidopa
+Active substance: levodopa;carbidopa
+Therapeutic area (MeSH): Parkinson Disease
+ATC code (human): N04BA02
+Pharmacotherapeutic group (human): Anti-Parkinson drugs
+Therapeutic indication: Symptomatic treatment of adult patients with Parkinson’s disease
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/numient

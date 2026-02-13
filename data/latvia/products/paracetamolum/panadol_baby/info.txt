@@ -1,0 +1,7 @@
+short_name: Panadol Baby
+active_substance: Paracetamolum
+marketing_authorisation_holder: GlaxoSmithKline Dungarvan Ltd., Ireland
+manufacturer: Farmaclair, France; GlaxoSmithKline Consumer Healthcare GmbH & Co. KG, Germany
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001196/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001196/smpc

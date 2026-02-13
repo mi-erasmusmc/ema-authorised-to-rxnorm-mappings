@@ -1,0 +1,7 @@
+short_name: Esomeprazole Stada
+active_substance: Esomeprazolum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Laboratorios Liconsa, S.A., Spain; Stada Arzneimittel AG, Germany
+atc_code: A02BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0215/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0215/smpc

@@ -1,0 +1,7 @@
+short_name: Tonzirin
+active_substance: Flurbiprofenum
+marketing_authorisation_holder: Inteli Generics Nord UAB, Lithuania
+manufacturer: Laboratorios Cinfa S.A., Spain; Przedsiebiorstwo Produkcyjne-Handlowe "EWA" S.A., Poland; Lozy's Pharmaceuticals S.L., Spain; Dexcel Pharma GmbH, Germany
+atc_code: R02AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0095/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0095/smpc

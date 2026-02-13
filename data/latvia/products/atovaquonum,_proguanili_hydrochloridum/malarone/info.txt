@@ -1,0 +1,7 @@
+short_name: Malarone
+active_substance: Atovaquonum, Proguanili hydrochloridum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Aspen Bad Oldesloe GmbH, Germany; Glaxo Wellcome S.A., Spain
+atc_code: P01BB51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0013/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0013/smpc

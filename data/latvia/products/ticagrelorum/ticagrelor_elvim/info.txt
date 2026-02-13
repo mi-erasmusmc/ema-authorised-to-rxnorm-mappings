@@ -1,0 +1,7 @@
+short_name: Ticagrelor Elvim
+active_substance: Ticagrelorum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Genepharm S.A., Greece
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0101/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0101/smpc

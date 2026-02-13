@@ -1,0 +1,7 @@
+short_name: Senade
+active_substance: Sennae extractum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Unifarma, SIA, Latvia
+atc_code: A06AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0155/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0155/smpc

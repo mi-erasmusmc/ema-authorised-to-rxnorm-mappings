@@ -1,0 +1,7 @@
+short_name: Diltiazem Lannacher
+active_substance: Diltiazemi hydrochloridum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: Lannacher Heilmittel Ges.m.b.H., Austria
+atc_code: C08DB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0515/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0515/smpc

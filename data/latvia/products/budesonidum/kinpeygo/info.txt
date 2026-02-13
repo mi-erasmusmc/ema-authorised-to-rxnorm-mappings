@@ -1,0 +1,7 @@
+short_name: Kinpeygo
+active_substance: Budesonidum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: TjoaPack Netherlands B.V., Netherlands
+atc_code: A07EA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1657/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1657/001/smpc

@@ -1,0 +1,7 @@
+short_name: Tecartus
+active_substance: Autologous anti-CD19 transduced CD3+ cells
+marketing_authorisation_holder: Kite Pharma EU B.V., Netherlands
+manufacturer: Kite Pharma EU B.V., Netherlands
+atc_code: L01XL06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1492/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1492/001/smpc

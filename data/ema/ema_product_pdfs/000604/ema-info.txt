@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000604
+Name of medicine: M-M-RVaxPro
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: measles, mumps and rubella vaccine (live)
+Active substance: measles virus Enders’ Edmonston strain (live, attenuated);mumps virus Jeryl Lynn (level B) strain (live, attenuated);rubella virus Wistar RA 27/3 strain (live, attenuated)
+Therapeutic area (MeSH): Rubella;Mumps;Immunization;Measles
+ATC code (human): J07BD52
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: M-M-RVaxPro is indicated for simultaneous vaccination against measles, mumps, and rubella in individuals 12 months or older. For use in measles outbreaks, or for post-exposure vaccination, or for use in previously unvaccinated children older than 12 months who are in contact with susceptible pregnant women, and persons likely to be susceptible to mumps and rubella.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/m-m-rvaxpro

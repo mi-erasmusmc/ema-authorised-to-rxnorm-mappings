@@ -1,0 +1,7 @@
+short_name: Piperacillin/Tazobactam Kalceks
+active_substance: Piperacillinum, Tazobactamum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: J01CR05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0014/smpc

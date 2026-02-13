@@ -1,0 +1,7 @@
+short_name: Scenesse
+active_substance: Afamelanotidum
+marketing_authorisation_holder: Clinuvel Europe Limited, Ireland
+manufacturer: Clinuvel Europe Limited, Ireland
+atc_code: D02BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/969/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/969/001/smpc

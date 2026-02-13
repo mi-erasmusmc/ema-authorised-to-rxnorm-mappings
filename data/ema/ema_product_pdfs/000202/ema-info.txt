@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000202
+Name of medicine: Viagra
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sildenafil
+Active substance: sildenafil
+Therapeutic area (MeSH): Erectile Dysfunction
+ATC code (human): G04BE03
+Pharmacotherapeutic group (human): Urologicals
+Therapeutic indication: Treatment of men with erectile dysfunction, which is the inability to achieve or maintain a penile erection sufficient for satisfactory sexual performance. In order for Viagra to be effective, sexual stimulation is required.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/viagra

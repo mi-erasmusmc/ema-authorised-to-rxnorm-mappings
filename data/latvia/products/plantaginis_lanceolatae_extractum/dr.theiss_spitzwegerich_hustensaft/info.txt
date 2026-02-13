@@ -1,0 +1,7 @@
+short_name: Dr.Theiss Spitzwegerich Hustensaft
+active_substance: Plantaginis lanceolatae extractum
+marketing_authorisation_holder: Dr. Theiss Naturwaren GmbH, Germany
+manufacturer: Dr. Theiss Naturwaren GmbH, Germany
+atc_code: R05X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0063/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0063/smpc

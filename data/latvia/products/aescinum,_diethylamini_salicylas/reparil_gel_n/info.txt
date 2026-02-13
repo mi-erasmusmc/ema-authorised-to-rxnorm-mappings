@@ -1,0 +1,7 @@
+short_name: Reparil Gel N
+active_substance: Aescinum, Diethylamini salicylas
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Madaus GmbH, Germany
+atc_code: M02AC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0112/smpc

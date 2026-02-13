@@ -1,0 +1,7 @@
+short_name: Ferriprox
+active_substance: Deferipronum
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Eurofins PROXY Laboratories B.V., Netherlands
+atc_code: V03AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/108/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/108/001/smpc

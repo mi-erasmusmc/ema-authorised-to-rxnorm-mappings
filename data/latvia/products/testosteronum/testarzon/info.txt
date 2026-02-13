@@ -1,0 +1,7 @@
+short_name: Testarzon
+active_substance: Testosteronum
+marketing_authorisation_holder: The Simple Pharma Company Limited, Ireland
+manufacturer: Copea Pharma Europe Limited, Ireland
+atc_code: G03BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0062/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0062/smpc

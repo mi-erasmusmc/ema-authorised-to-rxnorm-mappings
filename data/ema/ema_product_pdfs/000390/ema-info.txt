@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000390
+Name of medicine: Travatan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: travoprost
+Active substance: travoprost
+Therapeutic area (MeSH): Glaucoma, Open-Angle;Ocular Hypertension
+ATC code (human): S01EE04
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Decrease of elevated intraocular pressure in adult patients with ocular hypertension or open-angle glaucoma (see section 5.1). Decrease of elevated intraocular pressure in paediatric patients aged 2 months to &lt; 18 years with ocular hypertension or paediatric glaucoma (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/travatan

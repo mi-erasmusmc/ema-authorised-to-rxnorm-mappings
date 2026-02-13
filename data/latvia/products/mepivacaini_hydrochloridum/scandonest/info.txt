@@ -1,0 +1,7 @@
+short_name: Scandonest
+active_substance: Mepivacaini hydrochloridum
+marketing_authorisation_holder: Septodont, France
+manufacturer: Septodont SAS, France
+atc_code: N01BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0447/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0447/smpc

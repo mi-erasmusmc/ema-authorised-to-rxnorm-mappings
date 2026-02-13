@@ -1,0 +1,7 @@
+short_name: Sobycor
+active_substance: Bisoprololi fumaras
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: C07AB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0033/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0033/smpc

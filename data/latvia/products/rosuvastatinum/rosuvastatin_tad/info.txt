@@ -1,0 +1,7 @@
+short_name: Rosuvastatin TAD
+active_substance: Rosuvastatinum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C10AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0269/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0269/smpc

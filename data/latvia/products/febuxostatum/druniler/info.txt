@@ -1,0 +1,7 @@
+short_name: Druniler
+active_substance: Febuxostatum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Salutas Pharma GmbH, Germany; Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
+atc_code: M04AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0151/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0151/smpc

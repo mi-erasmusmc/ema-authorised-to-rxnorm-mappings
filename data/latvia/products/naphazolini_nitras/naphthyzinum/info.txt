@@ -1,0 +1,7 @@
+short_name: Naphthyzinum
+active_substance: Naphazolini nitras
+marketing_authorisation_holder: AG Farm Baltic, SIA, Latvia
+manufacturer: AG Farm Baltic, SIA, Latvia
+atc_code: R01AA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0835/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0835/smpc

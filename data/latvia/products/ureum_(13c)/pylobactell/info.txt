@@ -1,0 +1,7 @@
+short_name: Pylobactell
+active_substance: Ureum (13C)
+marketing_authorisation_holder: Richen Europe S.r.l., Italy
+manufacturer: Idifarma Desarollo Farmaceutico, S.L., Spain
+atc_code: V04CX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/064/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/064/001/smpc

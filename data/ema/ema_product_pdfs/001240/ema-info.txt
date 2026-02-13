@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001240
+Name of medicine: Vibativ
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: telavancin
+Active substance: telavancin
+Therapeutic area (MeSH): Pneumonia, Bacterial;Cross Infection
+ATC code (human): J01XA03
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Vibativ is indicated for the treatment of adults with nosocomial pneumonia including ventilator-associated pneumonia, known or suspected to be caused by methicillin-resistant Staphylococcus aureus (MRSA). Vibativ should be used only in situations where it is known or suspected that other alternatives are not suitable. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vibativ-0

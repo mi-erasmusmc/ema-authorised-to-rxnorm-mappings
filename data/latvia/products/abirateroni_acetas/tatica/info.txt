@@ -1,0 +1,7 @@
+short_name: Tatica
+active_substance: Abirateroni acetas
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Remedica Ltd., Cyprus
+atc_code: L02BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0108/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0108/smpc

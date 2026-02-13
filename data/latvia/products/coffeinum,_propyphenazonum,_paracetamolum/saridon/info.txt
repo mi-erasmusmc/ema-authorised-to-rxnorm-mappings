@@ -1,0 +1,7 @@
+short_name: Saridon
+active_substance: Coffeinum, Propyphenazonum, Paracetamolum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Delpharm Gaillard, France
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0309/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0309/smpc

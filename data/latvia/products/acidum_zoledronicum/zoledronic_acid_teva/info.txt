@@ -1,0 +1,7 @@
+short_name: Zoledronic acid Teva
+active_substance: Acidum zoledronicum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Pharmachemie B.V., Netherlands; Pliva Croatia Ltd., Croatia
+atc_code: M05BA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/771/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/771/001/smpc

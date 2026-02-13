@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004976
+Name of medicine: Vocabria
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cabotegravir
+Active substance: cabotegavir sodium;cabotegravir
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AX
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Vocabria tablets are indicated in combination with rilpivirine tablets for the short-term treatment of Human Immunodeficiency Virus type 1 (HIV-1) infection in adults and adolescents (at least 12 years of age and weighing at least 35 kg) who are virologically suppressed (HIV-1 RNA &lt;50 copies/mL) on a stable antiretroviral regimen without present or past evidence of viral resistance to, and no prior virological failure with agents of the non-nucleoside reverse transcriptase inhibitor (NNRTI) and integrase inhibitor (INI) class for:  Oral lead in to assess tolerability of Vocabria and rilpivirine prior to administration of long acting cabotegravir injection plus long acting rilpivirine injection. Oral therapy for adults and adolescents who will miss planned dosing with cabotegravir injection plus rilpivirine injection.  Vocabria injection is indicated, in combination with rilpivirine injection, for the treatment of Human Immunodeficiency Virus type 1 (HIV-1) infection in adults and adoloscents (at least 12 years of age and weighing at least 35 kg) who are virologically suppressed (HIV-1 RNA &lt;50 copies/mL) on a stable antiretroviral regimen without present or past evidence of viral resistance to, and no prior virological failure with agents of the non-nucleoside reverse trascriptase.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vocabria

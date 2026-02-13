@@ -1,0 +1,7 @@
+short_name: Alprolix
+active_substance: Eftrenonacogum alfa
+marketing_authorisation_holder: Swedish Orphan Biovitrum AB (publ), Sweden
+manufacturer: Swedish Orphan Biovitrum AB (publ), Sweden
+atc_code: B02BD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1098/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1098/001/smpc

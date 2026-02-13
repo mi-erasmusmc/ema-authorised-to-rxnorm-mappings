@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000829
+Name of medicine: Pradaxa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dabigatran etexilate
+Active substance: dabigatran etexilate mesilate
+Therapeutic area (MeSH): Arthroplasty, Replacement;Venous Thromboembolism
+ATC code (human): B01AE07
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Pradaxa 75 mg  Primary prevention of venous thromboembolic events in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery.  Pradaxa 110 mg  Primary prevention of venous thromboembolic events in adult patients who have undergone elective total hip replacement surgery or total knee replacement surgery. Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age ≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension. Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.  Pradaxa 150 mg  Prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as prior stroke or transient ischemic attack (TIA); age ≥ 75 years; heart failure (NYHA Class ≥ II); diabetes mellitus; hypertension. Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pradaxa

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004373
+Name of medicine: Solymbic
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: adalimumab
+Active substance: adalimumab
+Therapeutic area (MeSH): Arthritis, Psoriatic;Spondylitis, Ankylosing;Crohn Disease;Colitis, Ulcerative;Hidradenitis Suppurativa;Psoriasis;Arthritis, Rheumatoid
+ATC code (human): L04AB04
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Please refer to section 4.1 of the Summary of product characteristics in the product information document.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/solymbic

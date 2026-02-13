@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000996
+Name of medicine: Cayston
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: aztreonam
+Active substance: aztreonam lysine
+Therapeutic area (MeSH): Cystic Fibrosis;Respiratory Tract Infections
+ATC code (human): J01DF01
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Cayston is indicated for the suppressive therapy of chronic pulmonary infections due to Pseudomonas aeruginosa in patients with cystic fibrosis (CF) aged 6 years and older. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cayston

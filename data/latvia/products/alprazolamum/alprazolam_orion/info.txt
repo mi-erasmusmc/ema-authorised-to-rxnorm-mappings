@@ -1,0 +1,7 @@
+short_name: Alprazolam Orion
+active_substance: Alprazolamum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland; Orion Corporation Orion Pharma, Finland
+atc_code: N05BA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0076/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0076/smpc

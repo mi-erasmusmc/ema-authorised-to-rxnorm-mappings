@@ -1,0 +1,7 @@
+short_name: Repaglinide Teva
+active_substance: Repaglinidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Teva UK Ltd., United Kingdom; TEVA Pharmaceutical Works Private Limited Company, Hungary; Pharmachemie B.V., Netherlands; Teva Pharma, S.L.U., Spain; Galien LPS, France
+atc_code: A10BX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/530/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/530/001/smpc

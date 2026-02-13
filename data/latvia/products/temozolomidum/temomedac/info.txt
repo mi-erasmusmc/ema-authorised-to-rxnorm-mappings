@@ -1,0 +1,7 @@
+short_name: Temomedac
+active_substance: Temozolomidum
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+atc_code: L01AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/605/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/605/001/smpc

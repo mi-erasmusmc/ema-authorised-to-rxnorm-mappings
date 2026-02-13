@@ -1,0 +1,7 @@
+short_name: Doloproct
+active_substance: Fluocortoloni pivalas, Lidocaini hydrochloridum
+marketing_authorisation_holder: Karo Pharma AB, Sweden
+manufacturer: Instituto De Angeli S.r.l., Italy
+atc_code: C05AA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0258/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0258/smpc

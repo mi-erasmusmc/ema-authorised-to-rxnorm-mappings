@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000954
+Name of medicine: Modigraf
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tacrolimus
+Active substance: tacrolimus
+Therapeutic area (MeSH): Graft Rejection
+ATC code (human): L04AD02
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Prophylaxis of transplant rejection in adult and paediatric, kidney, liver or heart allograft recipients. Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products in adult and paediatric patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/modigraf

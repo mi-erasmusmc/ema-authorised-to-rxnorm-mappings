@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001213
+Name of medicine: Zoely
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: nomegestrol;estradiol
+Active substance: nomegestrol acetate;estradiol
+Therapeutic area (MeSH): Contraception
+ATC code (human): G03AA14
+Pharmacotherapeutic group (human): Sex hormones and modulators of the genital system
+Therapeutic indication: Oral contraception
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zoely

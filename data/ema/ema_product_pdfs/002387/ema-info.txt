@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002387
+Name of medicine: Zyclara
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: imiquimod
+Active substance: imiquimod
+Therapeutic area (MeSH): Keratosis;Keratosis, Actinic
+ATC code (human): D06BB10
+Pharmacotherapeutic group (human): Antibiotics and chemotherapeutics for dermatological use
+Therapeutic indication: Zyclara is indicated for the topical treatment of clinically typical, non-hyperkeratotic, non-hypertrophic, visible or palpable actinic keratosis of the full face or balding scalp in immunocompetent adults when other topical treatment options are contraindicated or less appropriate.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zyclara

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000132
+Name of medicine: Tasmar
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tolcapone
+Active substance: tolcapone
+Therapeutic area (MeSH): Parkinson Disease
+ATC code (human): N04BX01
+Pharmacotherapeutic group (human): Anti-Parkinson drugs;Other dopaminergic agents
+Therapeutic indication: Tasmar is indicated in combination with levodopa / benserazide or levodopa / carbidopa for use in patients with levodopa-responsive idiopathic Parkinson’s disease and motor fluctuations, who failed to respond to or are intolerant of other catechol-O-methyltransferase (COMT) inhibitors. Because of the risk of potentially fatal, acute liver injury, Tasmar should not be considered as a first-line adjunct therapy to levodopa / benserazide or levodopa / carbidopa. Since Tasmar should be used only in combination with levodopa / benserazide and levodopa / carbidopa, the prescribing information for these levodopa preparations is also applicable to their concomitant use with Tasmar.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tasmar

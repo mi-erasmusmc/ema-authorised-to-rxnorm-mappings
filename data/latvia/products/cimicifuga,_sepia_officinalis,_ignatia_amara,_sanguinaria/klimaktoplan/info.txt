@@ -1,0 +1,7 @@
+short_name: Klimaktoplan
+active_substance: Cimicifuga, Sepia officinalis, Ignatia amara, Sanguinaria
+marketing_authorisation_holder: Alpen Pharma GmbH, Germany
+manufacturer: Dr. Gustav Klein GmbH & Co. KG, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0266/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0266/smpc

@@ -1,0 +1,7 @@
+short_name: Abacavir/Lamivudine Zentiva
+active_substance: Abacavirum, Lamivudinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmadox Healthcare Ltd., Malta; Zentiva k.s., Czech Republic
+atc_code: J05AR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0080/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0080/smpc

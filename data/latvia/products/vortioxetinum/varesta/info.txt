@@ -1,0 +1,7 @@
+short_name: Varesta
+active_substance: Vortioxetinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: N06AX26
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0054/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0054/smpc

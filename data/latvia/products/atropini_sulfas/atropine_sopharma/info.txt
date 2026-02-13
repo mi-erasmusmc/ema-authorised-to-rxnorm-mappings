@@ -1,0 +1,7 @@
+short_name: Atropine Sopharma
+active_substance: Atropini sulfas
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma PLC, Bulgaria
+atc_code: A03BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0442/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0442/smpc

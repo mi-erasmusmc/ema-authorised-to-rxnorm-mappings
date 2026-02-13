@@ -1,0 +1,7 @@
+short_name: Tygacil
+active_substance: Tigecyclinum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Wyeth Lederle S.r.l., Italy
+atc_code: J01AA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/336/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/336/001/smpc

@@ -1,0 +1,7 @@
+short_name: Sugammadex Fresenius Kabi
+active_substance: Sugammadexum
+marketing_authorisation_holder: Fresenius Kabi Deutschland GmbH, Germany
+manufacturer: Labesfal-Laboratorios Almiro, S.A., Portugal
+atc_code: V03AB35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1663/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1663/001/smpc

@@ -1,0 +1,7 @@
+short_name: Pantoprazole Unifarma
+active_substance: Pantoprazolum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Anfarm Hellas S.A., Greece
+atc_code: A02BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0065/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0065/smpc

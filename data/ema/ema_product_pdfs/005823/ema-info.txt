@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005823
+Name of medicine: Inaqovi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cedazuridine;decitabine
+Active substance: cedazuridine;decitabine
+Therapeutic area (MeSH): Leukemia, Myeloid
+ATC code (human): L01BC58
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Inaqovi is indicated as monotherapy for the treatment of adult patients with newly diagnosed acute myeloid leukaemia (AML) who are ineligible for standard induction chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inaqovi

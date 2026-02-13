@@ -1,0 +1,7 @@
+short_name: Pedismof Pre
+active_substance: Alaninum, Argininum, Acidum asparticum, Cysteinum, Acidum glutamicum, Glycinum, Histidinum, Isoleucinum, Leucinum, Lysinum, Methioninum, Phenylalaninum, Prolinum, Serinum, Taurinum, Threoninum, Tryptophanum, Tyrosinum, Valinum, Triglycerida media, Glucosum, Soiae oleum raffinatum, Olivae oleum raffinatum, Piscis oleum omega-3 acidis abundans
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi AB, Sweden
+atc_code: B05BA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0217/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0217/smpc

@@ -1,0 +1,7 @@
+short_name: Ebglyss
+active_substance: Lebrikizumabum
+marketing_authorisation_holder: Almirall, S.A., Spain
+manufacturer: Industrias Farmaceuticas Almirall, S.A., Spain
+atc_code: D11AH10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1765/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1765/001/smpc

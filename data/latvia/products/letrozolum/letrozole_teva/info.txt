@@ -1,0 +1,7 @@
+short_name: Letrozole Teva
+active_substance: Letrozolum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary
+atc_code: L02BG04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0160/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0160/smpc

@@ -1,0 +1,7 @@
+short_name: Celsentri
+active_substance: Maravirocum
+marketing_authorisation_holder: Viiv Healthcare B.V., Netherlands
+manufacturer: Pfizer Service Company BVBA, Belgium
+atc_code: J05AX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/418/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/418/001/smpc

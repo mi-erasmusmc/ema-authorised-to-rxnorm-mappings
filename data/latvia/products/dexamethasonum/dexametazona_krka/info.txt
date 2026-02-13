@@ -1,0 +1,7 @@
+short_name: Dexametazona Krka
+active_substance: Dexamethasonum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: H02AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001642/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001642/smpc

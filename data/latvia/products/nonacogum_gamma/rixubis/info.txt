@@ -1,0 +1,7 @@
+short_name: Rixubis
+active_substance: Nonacogum gamma
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Baxalta Belgium Manufacturing SA, Belgium
+atc_code: B02BD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/970/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/970/001/smpc

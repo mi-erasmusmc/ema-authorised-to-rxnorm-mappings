@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001144
+Name of medicine: Clopidogrel/Acetylsalicylic acid Zentiva (previously DuoCover)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: clopidogrel;acetylsalicylic acid
+Active substance: clopidogrel;acetylsalicylic acid
+Therapeutic area (MeSH): Acute Coronary Syndrome;Myocardial Infarction
+ATC code (human): B01AC30
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Acute Coronary Syndrome Myocardial Infarction
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-acetylsalicylic-acid-zentiva

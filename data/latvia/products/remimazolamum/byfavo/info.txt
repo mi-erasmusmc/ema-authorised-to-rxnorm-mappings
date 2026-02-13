@@ -1,0 +1,7 @@
+short_name: Byfavo
+active_substance: Remimazolamum
+marketing_authorisation_holder: PAION Deutschland GmbH, Germany
+manufacturer: PAION Deutschland GmbH, Germany; PAION Pharma GmbH, Germany
+atc_code: N05CD14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1505/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1505/001/smpc

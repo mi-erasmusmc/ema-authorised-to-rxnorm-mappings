@@ -1,0 +1,7 @@
+short_name: CADUET
+active_substance: Amlodipinum, Atorvastatinum
+marketing_authorisation_holder: Upjohn EESV, Netherlands
+manufacturer: Mylan Hungary Kft., Hungary; Klocke Pharma-Service GmbH, Germany; Pfizer Manufacturing Deutschland GmbH, Germany
+atc_code: C10BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0020/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0020/smpc

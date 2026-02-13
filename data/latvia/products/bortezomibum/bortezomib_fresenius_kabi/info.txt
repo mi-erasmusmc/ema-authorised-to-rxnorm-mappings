@@ -1,0 +1,7 @@
+short_name: Bortezomib Fresenius Kabi
+active_substance: Bortezomibum
+marketing_authorisation_holder: Fresenius Kabi Deutschland GmbH, Germany
+manufacturer: Fresenius Kabi Oncology Plc., United Kingdom; Fresenius Kabi Deutschland GmbH, Germany
+atc_code: L01XG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1397/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1397/001/smpc

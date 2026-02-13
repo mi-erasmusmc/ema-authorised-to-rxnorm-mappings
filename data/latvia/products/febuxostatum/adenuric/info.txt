@@ -1,0 +1,7 @@
+short_name: Adenuric
+active_substance: Febuxostatum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: Menarini-Von Heyden GmbH, Germany; Patheon France, France
+atc_code: M04AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/447/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/447/001/smpc

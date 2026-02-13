@@ -1,0 +1,7 @@
+short_name: Prothromplex Total
+active_substance: Prothrombinum multiplex humanum
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B02BD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0208/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0208/smpc

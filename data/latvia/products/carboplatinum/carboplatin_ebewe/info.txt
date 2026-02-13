@@ -1,0 +1,7 @@
+short_name: Carboplatin "Ebewe"
+active_substance: Carboplatinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Ebewe Pharma Ges.m.b.H Nfg.KG, Austria; Fareva Unterach GmbH, Austria
+atc_code: L01XA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0604/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0604/smpc

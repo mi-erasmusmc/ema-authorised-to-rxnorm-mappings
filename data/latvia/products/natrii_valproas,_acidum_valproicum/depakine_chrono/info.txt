@@ -1,0 +1,7 @@
+short_name: Depakine Chrono
+active_substance: Natrii valproas, Acidum valproicum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi Winthrop Industrie, France; Sanofi-aventis, S.A., Spain
+atc_code: N03AG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0324/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0324/smpc

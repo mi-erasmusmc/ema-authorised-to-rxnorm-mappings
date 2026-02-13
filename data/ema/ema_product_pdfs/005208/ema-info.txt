@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005208
+Name of medicine: Ayvakyt
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: avapritinib
+Active substance: avapritinib
+Therapeutic area (MeSH): Gastrointestinal Stromal Tumors
+ATC code (human): L01EX18
+Pharmacotherapeutic group (human): Other antineoplastic agents;Protein kinase inhibitors
+Therapeutic indication: Unresectable or metastatic gastrointestinal stromal tumour (GIST) AYVAKYT is indicated as monotherapy for the treatment of adult patients with unresectable or metastatic gastrointestinal stromal tumours (GIST) harbouring the platelet-derived growth factor receptor alpha (PDGFRA) D842V mutation. Advanced systemic mastocytosis (AdvSM) AYVAKYT is indicated as monotherapy for the treatment of adult patients with aggressive systemic mastocytosis (ASM), systemic mastocytosis with an associated haematological neoplasm (SM-AHN) or mast cell leukaemia (MCL), after at least one systemic therapy. Indolent systemic mastocytosis (ISM) AYVAKYT is indicated for the treatment of adult patients with indolent systemic mastocytosis (ISM) with moderate to severe symptoms inadequately controlled on symptomatic treatment (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ayvakyt

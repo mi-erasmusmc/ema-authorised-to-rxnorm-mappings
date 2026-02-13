@@ -1,0 +1,7 @@
+short_name: Caverject
+active_substance: Alprostadilum
+marketing_authorisation_holder: Pfizer Corporation Austria Ges.m.b.H., Austria
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: G04BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000718/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000718/smpc

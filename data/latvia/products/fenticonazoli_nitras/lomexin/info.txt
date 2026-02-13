@@ -1,0 +1,7 @@
+short_name: Lomexin
+active_substance: Fenticonazoli nitras
+marketing_authorisation_holder: Recordati Industria Chimica e Farmaceutica S.p.A., Italy
+manufacturer: Catalent Italy S.p.A., Italy
+atc_code: G01AF12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0143/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0143/smpc

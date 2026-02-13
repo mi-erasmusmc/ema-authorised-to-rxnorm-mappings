@@ -1,0 +1,7 @@
+short_name: Ciprofloxacin Norameda
+active_substance: Ciprofloxacinum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: VIOSER S.A. Parenteral Solutions Industry, Greece
+atc_code: J01MA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0094/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0094/smpc

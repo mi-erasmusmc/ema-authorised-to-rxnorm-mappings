@@ -1,0 +1,7 @@
+short_name: Flixonase
+active_substance: Fluticasoni propionas
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Glaxo Wellcome S.A., Spain; Haleon Germany GmbH, Germany
+atc_code: R01AD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0221/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0221/smpc

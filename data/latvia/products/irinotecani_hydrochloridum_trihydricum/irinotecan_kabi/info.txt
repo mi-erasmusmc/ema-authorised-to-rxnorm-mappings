@@ -1,0 +1,7 @@
+short_name: Irinotecan Kabi
+active_substance: Irinotecani hydrochloridum trihydricum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Deutschland GmbH, Germany
+atc_code: L01CE02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0260/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0260/smpc

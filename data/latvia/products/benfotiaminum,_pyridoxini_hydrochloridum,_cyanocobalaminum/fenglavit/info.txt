@@ -1,0 +1,7 @@
+short_name: Fenglavit
+active_substance: Benfotiaminum, Pyridoxini hydrochloridum, Cyanocobalaminum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: A11DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0197/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0197/smpc

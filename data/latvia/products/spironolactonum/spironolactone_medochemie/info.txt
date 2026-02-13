@@ -1,0 +1,7 @@
+short_name: Spironolactone Medochemie
+active_substance: Spironolactonum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus
+atc_code: C03DA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0267/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0267/smpc

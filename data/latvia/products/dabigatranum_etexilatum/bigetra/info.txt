@@ -1,0 +1,7 @@
+short_name: Bigetra
+active_substance: Dabigatranum etexilatum
+marketing_authorisation_holder: Adamed Pharma S.A., Poland
+manufacturer: Adamed Pharma S.A., Poland
+atc_code: B01AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0095/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0095/smpc

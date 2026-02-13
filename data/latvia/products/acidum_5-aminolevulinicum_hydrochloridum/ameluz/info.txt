@@ -1,0 +1,7 @@
+short_name: Ameluz
+active_substance: Acidum 5-aminolevulinicum hydrochloridum
+marketing_authorisation_holder: Biofrontera Bioscience GmbH, Germany
+manufacturer: Biofrontera Pharma GmbH, Germany
+atc_code: L01XD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/740/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/740/001/smpc

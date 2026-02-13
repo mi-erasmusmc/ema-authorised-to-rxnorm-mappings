@@ -1,0 +1,15 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/20/1520/001	42707968	lenalidomide 2.5 MG Oral Capsule	1242231	EXACT			2025-12-04
+EU/1/20/1520/002	42707968	lenalidomide 2.5 MG Oral Capsule	1242231	EXACT			2025-12-04
+EU/1/20/1520/003	19122475	lenalidomide 5 MG Oral Capsule	602912	EXACT			2025-12-04
+EU/1/20/1520/004	19122475	lenalidomide 5 MG Oral Capsule	602912	EXACT			2025-12-04
+EU/1/20/1520/005	21164052	lenalidomide 7.5 MG Oral Capsule	OMOP261819	EXACT			2025-12-04
+EU/1/20/1520/006	21164052	lenalidomide 7.5 MG Oral Capsule	OMOP261819	EXACT			2025-12-04
+EU/1/20/1520/007	19122473	lenalidomide 10 MG Oral Capsule	602910	EXACT			2025-12-04
+EU/1/20/1520/008	19122473	lenalidomide 10 MG Oral Capsule	602910	EXACT			2025-12-04
+EU/1/20/1520/009	19026980	lenalidomide 15 MG Oral Capsule	643712	EXACT			2025-12-04
+EU/1/20/1520/010	19026980	lenalidomide 15 MG Oral Capsule	643712	EXACT			2025-12-04
+EU/1/20/1520/011	43532833	lenalidomide 20 MG Oral Capsule	1428947	EXACT			2025-12-04
+EU/1/20/1520/012	43532833	lenalidomide 20 MG Oral Capsule	1428947	EXACT			2025-12-04
+EU/1/20/1520/013	19124417	lenalidomide 25 MG Oral Capsule	643720	EXACT			2025-12-04
+EU/1/20/1520/014	19124417	lenalidomide 25 MG Oral Capsule	643720	EXACT			2025-12-04

@@ -1,0 +1,7 @@
+short_name: Melox
+active_substance: Meloxicamum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Cyprus
+atc_code: M01AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0079/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0079/smpc

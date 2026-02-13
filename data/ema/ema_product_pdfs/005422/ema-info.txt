@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005422
+Name of medicine: Wegovy
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: semaglutide
+Active substance: semaglutide
+Therapeutic area (MeSH): Obesity;Overweight
+ATC code (human): A10BJ06
+Pharmacotherapeutic group (human): Antiobesity preparations, excl. diet products
+Therapeutic indication: Adults Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of• ≥30 kg/m2 (obesity), or• ≥27 kg/m2 to &lt;30 kg/m2 (overweight) in the presence of at least one weight-related comorbidity e.g. dysglycaemia (prediabetes or type 2 diabetes mellitus), hypertension, dyslipidaemia, obstructive sleep apnoea or cardiovascular disease. For trial results with respect to cardiovascular risk reduction and populations studied, see section 5.1. Adolescents (≥12 years) Wegovy is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management in adolescents ages 12 years and above with• obesity* and• body weight above 60 kg. Treatment with Wegovy should be discontinued and re-evaluated if adolescent patients have not reduced their BMI by at least 5% after 12 weeks on the 2.4 mg or maximum tolerated dose. *Obesity (BMI ≥95th percentile) as defined on sex- and age-specific BMI growth charts (CDC.gov) (see Table 1 in 4.1 of SmPC). Table 1 BMI cut-off points for obesity (≥95th percentile) by sex and age for paediatric patients aged 12 and older (CDC criteria)
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy

@@ -1,0 +1,7 @@
+short_name: Cresemba
+active_substance: Isavuconazolum
+marketing_authorisation_holder: Basilea Pharmaceutica Deutschland GmbH, Germany
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland; Almac Pharma Services Limited, Northern Ireland
+atc_code: J02AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1036/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1036/001/smpc

@@ -1,0 +1,7 @@
+short_name: Polygynax
+active_substance: Neomycini sulfas, Polymyxini B sulfas, Nystatinum
+marketing_authorisation_holder: Laboratoire Innotech International SAS, France
+manufacturer: Innothera Chouzy, France
+atc_code: G01AA51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0654/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0654/smpc

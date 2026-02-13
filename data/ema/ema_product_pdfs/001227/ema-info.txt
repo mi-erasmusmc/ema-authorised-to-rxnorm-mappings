@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001227
+Name of medicine: Leflunomide medac
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: leflunomide
+Active substance: leflunomide
+Therapeutic area (MeSH): Arthritis, Rheumatoid
+ATC code (human): L04AK01
+Pharmacotherapeutic group (human): Selective immunosuppressants
+Therapeutic indication: Leflunomide is indicated for the treatment of adult patients with:  active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD).  Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions, therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects. Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-medac

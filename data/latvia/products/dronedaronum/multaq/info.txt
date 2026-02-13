@@ -1,0 +1,7 @@
+short_name: Multaq
+active_substance: Dronedaronum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi Winthrop Industrie, France; Sanofi-Aventis Deutschland GmbH, Germany
+atc_code: C01BD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/591/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/591/001/smpc

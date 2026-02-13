@@ -1,0 +1,7 @@
+short_name: Nebido
+active_substance: Testosteroni undecanoas
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: G03BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001659/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001659/smpc

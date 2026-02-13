@@ -1,0 +1,22 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/02/231/001	1596977	insulin, regular, human	253182	BROAD			2025-12-04
+EU/1/02/231/002	1596977	insulin, regular, human	253182	BROAD			2025-12-04
+EU/1/02/231/003	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04
+EU/1/02/231/004	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04
+EU/1/02/231/011	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/231/012	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/231/013	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/231/014							2025-12-04
+EU/1/02/231/015							2025-12-04
+EU/1/02/231/016							2025-12-04
+EU/1/02/231/017	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/231/018	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/231/019	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/231/030	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/231/031	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/231/032	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/231/033	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/231/034	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/231/035	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/231/036	1596977	insulin, regular, human	253182	BROAD			2025-12-04
+EU/1/02/231/037	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04

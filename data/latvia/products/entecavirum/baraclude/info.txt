@@ -1,0 +1,7 @@
+short_name: Baraclude
+active_substance: Entecavirum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories T/A Bristol-Myers Squibb Pharmaceutical Operations, External Manufacturing, Ireland; Catalent Anagni S.R.L., Italy
+atc_code: J05AF10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/343/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/343/001/smpc

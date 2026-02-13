@@ -1,0 +1,7 @@
+short_name: Recreol
+active_substance: Dexpanthenolum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: D03AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0075/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0075/smpc

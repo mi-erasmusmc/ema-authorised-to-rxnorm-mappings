@@ -1,0 +1,7 @@
+short_name: Jeraygo
+active_substance: Aprocitentanum
+marketing_authorisation_holder: Idorsia Pharmaceuticals Deutschland GmbH, Germany
+manufacturer: Idorsia Pharmaceuticals Deutschland GmbH, Germany
+atc_code: C02KN01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1818/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1818/001/smpc

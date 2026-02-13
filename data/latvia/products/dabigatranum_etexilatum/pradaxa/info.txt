@@ -1,0 +1,7 @@
+short_name: Pradaxa
+active_substance: Dabigatranum etexilatum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Boehringer Ingelheim Pharma GmbH & Co. KG, Germany
+atc_code: B01AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/442/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/442/001/smpc

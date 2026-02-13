@@ -1,0 +1,7 @@
+short_name: CitraFleet
+active_substance: Natrii picosulfas, Magnesii oxidum leve, Acidum citricum
+marketing_authorisation_holder: Casen Recordati, S.L., Spain
+manufacturer: Casen Recordati, S.L., Spain
+atc_code: A06AB58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0143/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0143/smpc

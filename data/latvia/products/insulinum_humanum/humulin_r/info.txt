@@ -1,0 +1,7 @@
+short_name: Humulin R
+active_substance: Insulinum humanum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly France S.A.S., France; Eli Lilly Italia S.p.A., Italy
+atc_code: A10AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0012/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0012/smpc

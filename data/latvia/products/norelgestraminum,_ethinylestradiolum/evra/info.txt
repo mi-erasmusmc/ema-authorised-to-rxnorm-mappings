@@ -1,0 +1,7 @@
+short_name: Evra
+active_substance: Norelgestraminum, Ethinylestradiolum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Gedeon Richter Plc., Hungary
+atc_code: G03AA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/223/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/223/001/smpc

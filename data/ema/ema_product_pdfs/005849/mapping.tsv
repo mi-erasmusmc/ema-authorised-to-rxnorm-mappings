@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/22/1674/001	702654	20 ML efgartigimod alfa-fcab 20 MG/ML Injection [Vyvgart]	2587729	EXACT			2025-12-04
+EU/1/22/1674/002	747697	5.6 ML efgartigimod alfa-qvfc 180 MG/ML / hyaluronidase-qvfc 2000 UNT/ML Injection	2639951	EXACT	841966 is redudant RxE concept product contains also hyaluronidase stated in docs		2025-12-04
+EU/1/22/1674/003	1466506	5 ML efgartigimod alfa-qvfc 200 MG/ML / hyaluronidase-qvfc 2000 UNT/ML Prefilled Syringe	2712083	EXACT			2025-12-04
+EU/1/22/1674/004	1466506	5 ML efgartigimod alfa-qvfc 200 MG/ML / hyaluronidase-qvfc 2000 UNT/ML Prefilled Syringe	2712083	EXACT			2025-12-04

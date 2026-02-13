@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002749
+Name of medicine: Lumark
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: lutetium (177Lu) chloride
+Active substance: lutetium (177Lu) chloride
+Therapeutic area (MeSH): Radionuclide Imaging
+ATC code (human): V10
+Pharmacotherapeutic group (human): Therapeutic radiopharmaceuticals
+Therapeutic indication: Lumark is a radiopharmaceutical precursor. It is not intended for direct use in patients. This medicinal must be used only for the radiolabelling of carrier molecules, which have been specifically developed and authorised for radiolabelling with this radionuclide.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lumark

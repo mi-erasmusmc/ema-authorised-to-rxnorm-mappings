@@ -1,0 +1,7 @@
+short_name: Grazax
+active_substance: Phlei pratensis pollinum extractum
+marketing_authorisation_holder: ALK-Abello A/S, Denmark
+manufacturer: ALK-Abello S.A., Spain
+atc_code: V01AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0115/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0115/smpc

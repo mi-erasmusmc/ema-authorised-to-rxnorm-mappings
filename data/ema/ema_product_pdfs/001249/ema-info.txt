@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001249
+Name of medicine: Vpriv
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: velaglucerase alfa
+Active substance: velaglucerase alfa
+Therapeutic area (MeSH): Gaucher Disease
+ATC code (human): A16AB10
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Vpriv is indicated for long-term enzyme-replacement therapy (ERT) in patients with type-1 Gaucher disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vpriv

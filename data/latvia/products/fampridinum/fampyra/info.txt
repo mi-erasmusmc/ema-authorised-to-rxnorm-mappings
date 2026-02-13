@@ -1,0 +1,7 @@
+short_name: Fampyra
+active_substance: Fampridinum
+marketing_authorisation_holder: Merz Therapeutics GmbH, Germany
+manufacturer: Patheon France, France; Novo Nordisk Production Ireland Limited, Ireland
+atc_code: N07XX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/699/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/699/001/smpc

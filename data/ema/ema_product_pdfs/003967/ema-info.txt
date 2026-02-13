@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003967
+Name of medicine: Empliciti
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: elotuzumab
+Active substance: Elotuzumab
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): L01FX08
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Empliciti is indicated in combination with lenalidomide and dexamethasone for the treatment of multiple myeloma in adult patients who have received at least one prior therapy (see sections 4.2 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/empliciti

@@ -1,0 +1,7 @@
+short_name: Rupafin
+active_substance: Rupatadinum
+marketing_authorisation_holder: Noucor Health, S.A., Spain
+manufacturer: Noucor Health, S.A., Spain
+atc_code: R06AX28
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0302/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0302/smpc

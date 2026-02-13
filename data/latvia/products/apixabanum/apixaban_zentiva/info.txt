@@ -1,0 +1,7 @@
+short_name: Apixaban Zentiva
+active_substance: Apixabanum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmadox Healthcare Ltd., Malta
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0191/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0191/smpc

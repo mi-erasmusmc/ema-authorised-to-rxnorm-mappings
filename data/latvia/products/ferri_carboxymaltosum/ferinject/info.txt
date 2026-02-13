@@ -1,0 +1,7 @@
+short_name: Ferinject
+active_substance: Ferri carboxymaltosum
+marketing_authorisation_holder: Vifor France SAS, France
+manufacturer: Vifor France SAS, France
+atc_code: B03AC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0017/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0017/smpc

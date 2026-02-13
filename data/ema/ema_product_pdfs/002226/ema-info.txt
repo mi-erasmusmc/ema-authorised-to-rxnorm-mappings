@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002226
+Name of medicine: Nimenrix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: meningococcal groups A, C, W-135 and Y conjugate vaccine
+Active substance: Neisseria meningitidis group A polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group C polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group W-135 polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group Y polysaccharide conjugated to tetanus toxoid
+Therapeutic area (MeSH): Meningitis, Meningococcal
+ATC code (human): J07AH08
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Nimenrix is indicated for active immunisation of individuals from the age of 6 weeks against invasive meningococcal diseases caused by Neisseria meningitidis group A, C, W-135, and Y.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nimenrix

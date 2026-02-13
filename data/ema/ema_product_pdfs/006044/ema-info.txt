@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006044
+Name of medicine: Neoatricon
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dopamine hydrochloride
+Active substance: dopamine hydrochloride;Dopamine
+Therapeutic area (MeSH): Hypotension
+ATC code (human): C01CA04
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: Treatment of hypotension in haemodynamically unstable neonates, infants and children &lt; 18 years
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/neoatricon

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005048
+Name of medicine: Xenleta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lefamulin
+Active substance: lefamulin acetate
+Therapeutic area (MeSH): Pneumonia, Bacterial;Community-Acquired Infections
+ATC code (human): J01XX
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Xenleta is indicated for the treatment of community-acquired pneumonia (CAP) in adults when it is considered inappropriate to use antibacterial agents that are commonly recommended for the initial treatment of CAP or when these have failed. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xenleta

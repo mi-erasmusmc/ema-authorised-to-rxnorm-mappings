@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/99/111/005	19102184	efavirenz 30 MG/ML Oral Solution	402008	EXACT			2025-12-04
+EU/1/99/111/008	1738165	efavirenz 600 MG Oral Tablet	349477	EXACT			2025-12-04
+EU/1/99/111/010	35860794	efavirenz 50 MG Oral Tablet	OMOP5017754	EXACT			2025-12-04
+EU/1/99/111/011	40236068	efavirenz 200 MG Oral Tablet	1088481	EXACT			2025-12-04

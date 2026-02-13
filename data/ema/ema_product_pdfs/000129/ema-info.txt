@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000129
+Name of medicine: Twinrix Paediatric
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine (adsorbed)
+Active substance: hepatitis A virus (inactivated);hepatitis B surface antigen
+Therapeutic area (MeSH): Immunization;Hepatitis B;Hepatitis A
+ATC code (human): J07BC20
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Twinrix Paediatric is indicated for use in non-immune infants, children and adolescents from one year up to and including 15 years who are at risk of both hepatitis-A and hepatitis-B infection.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-paediatric

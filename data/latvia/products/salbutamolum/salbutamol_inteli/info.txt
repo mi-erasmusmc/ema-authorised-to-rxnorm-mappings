@@ -1,0 +1,7 @@
+short_name: Salbutamol Inteli
+active_substance: Salbutamolum
+marketing_authorisation_holder: Inteli Generics Nord UAB, Lithuania
+manufacturer: LABORATORIO ALDO-UNION, S.L., Spain
+atc_code: R03AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0170/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0170/smpc

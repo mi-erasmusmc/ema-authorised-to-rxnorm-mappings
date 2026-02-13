@@ -1,0 +1,7 @@
+short_name: Spiriva Respimat
+active_substance: Tiotropium
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Boehringer Ingelheim Espana, S.A., Spain; Boehringer Ingelheim France, France
+atc_code: R03BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0241/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0241/smpc

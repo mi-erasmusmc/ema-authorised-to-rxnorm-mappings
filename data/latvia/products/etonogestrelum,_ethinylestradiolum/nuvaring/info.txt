@@ -1,0 +1,7 @@
+short_name: NuvaRing
+active_substance: Etonogestrelum, Ethinylestradiolum
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: N.V. Organon, Netherlands
+atc_code: G02BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0290/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0290/smpc

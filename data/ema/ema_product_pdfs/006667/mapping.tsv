@@ -1,0 +1,6 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/25/1987/001	46234168	0.5 ML ustekinumab 90 MG/ML Injection	1654077	BROAD	Biosimilar; no EU brand in RxNorm; vial presentation	0.5 ML ustekinumab-xxxx 90 MG/ML Injection [Usgena]	2026-02-11
+EU/1/25/1987/002	40160987	0.5 ML ustekinumab 90 MG/ML Prefilled Syringe	853350	BROAD	Biosimilar; no EU brand in RxNorm	0.5 ML ustekinumab-xxxx 90 MG/ML Prefilled Syringe [Usgena]	2026-02-11
+EU/1/25/1987/003	40160959	1 ML ustekinumab 90 MG/ML Prefilled Syringe	853355	BROAD	Biosimilar; no EU brand in RxNorm	1 ML ustekinumab-xxxx 90 MG/ML Prefilled Syringe [Usgena]	2026-02-11
+EU/1/25/1987/004	40160959	1 ML ustekinumab 90 MG/ML Prefilled Syringe	853355	BROAD	Biosimilar; no EU brand in RxNorm	1 ML ustekinumab-xxxx 90 MG/ML Prefilled Syringe [Usgena]	2026-02-11
+EU/1/25/1987/005	1718931	26 ML ustekinumab 5 MG/ML Injection	1811255	BROAD	Biosimilar; no EU brand in RxNorm; IV infusion concentrate	26 ML ustekinumab-xxxx 5 MG/ML Injection [Usgena]	2026-02-11

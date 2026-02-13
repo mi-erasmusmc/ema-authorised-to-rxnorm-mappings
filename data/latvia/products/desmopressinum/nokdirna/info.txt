@@ -1,0 +1,7 @@
+short_name: Nokdirna
+active_substance: Desmopressinum
+marketing_authorisation_holder: Ferring GmbH, Germany
+manufacturer: Ferring GmbH, Germany
+atc_code: H01BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0169/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0169/smpc

@@ -1,0 +1,7 @@
+short_name: Metoclopramid Basi
+active_substance: Metoclopramidi hydrochloridum anhydricus
+marketing_authorisation_holder: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+manufacturer: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+atc_code: A03FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0096/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0096/smpc

@@ -1,0 +1,7 @@
+short_name: Actovegin Forte
+active_substance: Haemoderivatum deproteinatum sanguinis vituli
+marketing_authorisation_holder: Takeda Austria GmbH, Austria
+manufacturer: Takeda GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0030/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0030/smpc

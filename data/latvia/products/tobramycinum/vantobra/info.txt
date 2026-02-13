@@ -1,0 +1,7 @@
+short_name: Vantobra
+active_substance: Tobramycinum
+marketing_authorisation_holder: Pari Pharma GmbH, Germany
+manufacturer: Pari Pharma GmbH, Germany
+atc_code: J01GB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1350/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1350/001/smpc

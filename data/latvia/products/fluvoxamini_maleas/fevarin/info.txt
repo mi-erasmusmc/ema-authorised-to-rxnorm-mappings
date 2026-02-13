@@ -1,0 +1,7 @@
+short_name: Fevarin
+active_substance: Fluvoxamini maleas
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Mylan Laboratories SAS, France
+atc_code: N06AB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0054/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0054/smpc

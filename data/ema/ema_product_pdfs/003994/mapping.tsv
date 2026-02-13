@@ -1,0 +1,4 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/16/1150/004	2901736	0.36 ML Follitropin Delta 0.0333 MG/ML Pen Injector	OMOP5118619	EXACT			2025-12-04
+EU/1/16/1150/005	2903032	1.08 ML Follitropin Delta 0.0333 MG/ML Pen Injector	OMOP5119882	EXACT			2025-12-04
+EU/1/16/1150/006	2905262	2.16 ML Follitropin Delta 0.0333 MG/ML Pen Injector	OMOP5122068	EXACT			2025-12-04

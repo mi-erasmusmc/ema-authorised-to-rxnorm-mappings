@@ -1,0 +1,7 @@
+short_name: Bozilos
+active_substance: Teriflunomidum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta; KeVaRo Group Ltd., Bulgaria
+atc_code: L04AK02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0186/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0186/smpc

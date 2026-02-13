@@ -1,0 +1,7 @@
+short_name: Odomzo
+active_substance: Sonidegibum
+marketing_authorisation_holder: Sun Pharmaceutical Industries Europe B.V., Netherlands
+manufacturer: Sun Pharmaceutical Industries Europe B.V., Netherlands
+atc_code: L01XJ02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1030/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1030/001/smpc

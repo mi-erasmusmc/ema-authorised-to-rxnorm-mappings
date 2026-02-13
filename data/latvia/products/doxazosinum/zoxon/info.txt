@@ -1,0 +1,7 @@
+short_name: Zoxon
+active_substance: Doxazosinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: C02CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0097/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0097/smpc

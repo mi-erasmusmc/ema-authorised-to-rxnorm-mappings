@@ -1,0 +1,7 @@
+short_name: Magnesium sulfate heptahydrate Kalceks
+active_substance: Magnesii sulfas
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: Kalceks, A/S, Latvia
+atc_code: B05XA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001441/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001441/smpc

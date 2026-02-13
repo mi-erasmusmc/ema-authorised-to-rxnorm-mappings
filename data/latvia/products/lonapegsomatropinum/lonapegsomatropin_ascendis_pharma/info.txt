@@ -1,0 +1,7 @@
+short_name: Lonapegsomatropin Ascendis Pharma
+active_substance: Lonapegsomatropinum
+marketing_authorisation_holder: Ascendis Pharma Endocrinology Division A/S, Denmark
+manufacturer: Ascendis Pharma A/S, Denmark
+atc_code: H01AC09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1607/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1607/001/smpc

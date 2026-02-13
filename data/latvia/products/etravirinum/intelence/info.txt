@@ -1,0 +1,7 @@
+short_name: Intelence
+active_substance: Etravirinum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen-Cilag SpA, Italy
+atc_code: J05AG04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/468/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/468/001/smpc

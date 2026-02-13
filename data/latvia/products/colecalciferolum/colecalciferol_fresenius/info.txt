@@ -1,0 +1,7 @@
+short_name: Colecalciferol Fresenius
+active_substance: Colecalciferolum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Austria GmbH, Austria
+atc_code: A11CC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0038/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0038/smpc

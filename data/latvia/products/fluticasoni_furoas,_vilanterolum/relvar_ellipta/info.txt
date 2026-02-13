@@ -1,0 +1,7 @@
+short_name: Relvar Ellipta
+active_substance: Fluticasoni furoas, Vilanterolum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome Production, France
+atc_code: R03AK10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/886/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/886/001/smpc

@@ -1,0 +1,7 @@
+short_name: Civaron
+active_substance: Natrii citras
+marketing_authorisation_holder: Fresenius Medical Care Deutschland GmbH, Germany
+manufacturer: Fresenius Medical Care Deutschland GmbH, Germany
+atc_code: B05ZB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0180/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0180/smpc

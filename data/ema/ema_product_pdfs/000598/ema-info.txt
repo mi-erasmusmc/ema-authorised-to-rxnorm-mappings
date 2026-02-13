@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000598
+Name of medicine: Corlentor
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ivabradine
+Active substance: ivabradine hydrochloride
+Therapeutic area (MeSH): Angina Pectoris;Heart Failure
+ATC code (human): C01EB17
+Pharmacotherapeutic group (human): 
+Therapeutic indication: Symptomatic treatment of chronic stable angina pectoris Ivabradine is indicated for the symptomatic treatment of chronic stable angina pectoris in coronary artery disease adults with normal sinus rhythm and heart rate ? 70 bpm. Ivabradine is indicated:  in adults unable to tolerate or with a contraindication to the use of beta-blockers or in combination with beta-blockers in patients inadequately controlled with an optimal beta-blocker dose.  Treatment of chronic heart failure Ivabradine is indicated in chronic heart failure NYHA II to IV class with systolic dysfunction, in patients in sinus rhythm and whose heart rate is ? 75 bpm, in combination with standard therapy including beta-blocker therapy or when beta-blocker therapy is contraindicated or not tolerated.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/corlentor

@@ -1,0 +1,7 @@
+short_name: Ajovy
+active_substance: Fremanezumabum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Teva Pharmaceuticals Europe BV, Netherlands; Merckle GmbH, Germany
+atc_code: N02CD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1358/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1358/001/smpc

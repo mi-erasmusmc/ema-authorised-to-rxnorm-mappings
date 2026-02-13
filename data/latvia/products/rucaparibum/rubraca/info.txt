@@ -1,0 +1,7 @@
+short_name: Rubraca
+active_substance: Rucaparibum
+marketing_authorisation_holder: pharmaand GmbH, Austria
+manufacturer: Almac Pharma Services Limited, United Kingdom; Almac Pharma Services (Ireland) Limited, Ireland
+atc_code: L01XK03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1250/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1250/001/smpc

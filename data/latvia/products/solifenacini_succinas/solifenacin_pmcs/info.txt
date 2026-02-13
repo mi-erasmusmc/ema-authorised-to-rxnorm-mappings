@@ -1,0 +1,7 @@
+short_name: Solifenacin PMCS
+active_substance: Solifenacini succinas
+marketing_authorisation_holder: PRO.MED.CS Praha a.s., Czech Republic
+manufacturer: PRO.MED.CS Praha a.s., Czech Republic
+atc_code: G04BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0036/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0036/smpc

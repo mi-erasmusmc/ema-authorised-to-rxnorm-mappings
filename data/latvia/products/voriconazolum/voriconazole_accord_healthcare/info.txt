@@ -1,0 +1,7 @@
+short_name: Voriconazole Accord Healthcare
+active_substance: Voriconazolum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Pharmadox Healthcare Ltd., Malta; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: J02AC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0118/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0118/smpc

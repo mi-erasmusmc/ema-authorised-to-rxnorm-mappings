@@ -1,0 +1,23 @@
+{
+  "name": "ema-products-backend",
+  "version": "1.0.0",
+  "description": "Backend service for EMA authorized products public page",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "init-db": "node src/db/init.js",
+    "refresh-data": "node src/services/manualRefresh.js"
+  },
+  "keywords": ["ema", "rxnorm", "drug-mapping"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.2.1",
+    "cors": "^2.8.6",
+    "better-sqlite3": "^12.6.2",
+    "node-cron": "^4.2.1",
+    "csv-parse": "^6.1.0"
+  }
+}

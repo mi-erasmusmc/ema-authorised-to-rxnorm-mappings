@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002252
+Name of medicine: Zinforo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ceftaroline fosamil
+Active substance: ceftaroline fosamil
+Therapeutic area (MeSH): Community-Acquired Infections;Skin Diseases, Infectious;Pneumonia
+ATC code (human): J01DI02
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Zinforo is indicated for the treatment of the following infections in neonates, infants, children, adolescents and adults:  Complicated skin and soft tissue infections (cSSTI) Community-acquired pneumonia (CAP)  Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zinforo

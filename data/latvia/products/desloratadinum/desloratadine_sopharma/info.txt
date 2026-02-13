@@ -1,0 +1,7 @@
+short_name: Desloratadine Sopharma
+active_substance: Desloratadinum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: R06AX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0132/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0132/smpc

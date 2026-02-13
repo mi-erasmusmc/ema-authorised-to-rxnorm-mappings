@@ -1,0 +1,7 @@
+short_name: Fulsed
+active_substance: Midazolamum
+marketing_authorisation_holder: Sun Pharmaceutical Industries Europe B.V., Netherlands
+manufacturer: Terapia S.A., Romania
+atc_code: N05CD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0192/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0192/smpc

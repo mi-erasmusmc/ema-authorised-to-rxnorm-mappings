@@ -1,0 +1,7 @@
+short_name: Infanrix hexa
+active_substance: Vaccinum diphtheriae, tetani, pertussis sine cellulis ex elementis praeparatum, hepatitidis B (ADNr), poliomyelitidis inactivatum et haemophili stirpis b coniugatum adsorbatum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07CA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/152/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/152/001/smpc

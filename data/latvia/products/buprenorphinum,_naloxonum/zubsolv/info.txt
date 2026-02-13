@@ -1,0 +1,7 @@
+short_name: Zubsolv
+active_substance: Buprenorphinum, Naloxonum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Orexo AB, Sweden
+atc_code: N07BC51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1233/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1233/001/smpc

@@ -1,0 +1,7 @@
+short_name: Prospan
+active_substance: Hederae helicis folii extractum siccum
+marketing_authorisation_holder: Engelhard Arzneimittel GmbH & Co.KG, Germany
+manufacturer: Engelhard Arzneimittel GmbH & Co.KG, Germany
+atc_code: R05CA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0128/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0128/smpc

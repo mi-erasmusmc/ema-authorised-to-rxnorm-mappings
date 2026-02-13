@@ -1,0 +1,7 @@
+short_name: Octostim
+active_substance: Desmopressini acetas
+marketing_authorisation_holder: Ferring GmbH, Germany
+manufacturer: Ferring GmbH, Germany
+atc_code: H01BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0611/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0611/smpc

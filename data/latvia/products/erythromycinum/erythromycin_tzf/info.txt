@@ -1,0 +1,7 @@
+short_name: Erythromycin TZF
+active_substance: Erythromycinum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+atc_code: J01FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0341/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0341/smpc

@@ -1,0 +1,20 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/09/510/001	EMEA/H/C/001042	50 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (100 IU/ml)	1 vial	Fertavid
+EU/1/09/510/002	EMEA/H/C/001042	50 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (100 IU/ml)	5 vials	Fertavid
+EU/1/09/510/003	EMEA/H/C/001042	50 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (100 IU/ml)	10 vials	Fertavid
+EU/1/09/510/004	EMEA/H/C/001042	75 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (150 IU/ml)	1 vial	Fertavid
+EU/1/09/510/005	EMEA/H/C/001042	75 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (150 IU/ml)	5 vials	Fertavid
+EU/1/09/510/006	EMEA/H/C/001042	75 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (150 IU/ml)	10 vials	Fertavid
+EU/1/09/510/007	EMEA/H/C/001042	100 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (200 IU/ml)	1 vial	Fertavid
+EU/1/09/510/008	EMEA/H/C/001042	100 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (200 IU/ml)	5 vials	Fertavid
+EU/1/09/510/009	EMEA/H/C/001042	100 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (200 IU/ml)	10 vials	Fertavid
+EU/1/09/510/010	EMEA/H/C/001042	150 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (300 IU/ml)	1 vial	Fertavid
+EU/1/09/510/011	EMEA/H/C/001042	150 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (300 IU/ml)	5 vials	Fertavid
+EU/1/09/510/012	EMEA/H/C/001042	150 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (300 IU/ml)	10 vials	Fertavid
+EU/1/09/510/013	EMEA/H/C/001042	200 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (400 IU/ml)	1 vial	Fertavid
+EU/1/09/510/014	EMEA/H/C/001042	200 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (400 IU/ml)	5 vials	Fertavid
+EU/1/09/510/015	EMEA/H/C/001042	200 IU/0.5 ml	Solution for injection	Subcutaneous and intramuscular use	vial (glass)	0.5 ml (400 IU/ml)	10 vials	Fertavid
+EU/1/09/510/016	EMEA/H/C/001042	150 IU/0.18 ml	Solution for injection	Subcutaneous use	cartridge (glass)	0.270 ml (833 IU/ml)	1 cartridge + 1 pack with 3 pen needles	Fertavid
+EU/1/09/510/017	EMEA/H/C/001042	300 IU/0.36 ml	Solution for injection	Subcutaneous use	cartridge (glass)	0.480 ml (833 IU/ml)	1 cartridge + 2 packs with 3 pen needles	Fertavid
+EU/1/09/510/018	EMEA/H/C/001042	600 IU/0.72 ml	Solution for injection	Subcutaneous use	cartridge (glass)	0.840 ml (833 IU/ml)	1 cartridge + 2 packs with 3 pen needles	Fertavid
+EU/1/09/510/019	EMEA/H/C/001042	900 IU/1.08 ml	Solution for injection	Subcutaneous use	cartridge (glass)	1.230 ml (833 IU/ml)	1 cartridge + 3 packs with 3 pen needles	Fertavid

@@ -1,0 +1,7 @@
+short_name: Insulin aspart Sanofi
+active_substance: Insulinum aspartum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Deutschland GmbH, Germany
+atc_code: A10AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1447/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1447/001/smpc

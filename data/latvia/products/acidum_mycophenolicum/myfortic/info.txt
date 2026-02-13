@@ -1,0 +1,7 @@
+short_name: Myfortic
+active_substance: Acidum mycophenolicum
+marketing_authorisation_holder: Novartis Baltics, SIA, Latvia
+manufacturer: Novartis Farmaceutica S.A., Spain; Lek Pharmaceuticals d.d., Slovenia; Novartis Pharmaceutical Manufacturing LLC, Slovenia; Novartis Pharma GmbH, Austria
+atc_code: L04AA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0270/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0270/smpc

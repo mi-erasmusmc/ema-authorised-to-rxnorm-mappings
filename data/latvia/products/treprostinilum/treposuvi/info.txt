@@ -1,0 +1,7 @@
+short_name: Treposuvi
+active_substance: Treprostinilum
+marketing_authorisation_holder: Orpha-Devel Handels und Vertriebs GmbH, Austria
+manufacturer: AOP Orphan Pharmaceuticals GmbH, Austria
+atc_code: B01AC21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0028/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0028/smpc

@@ -1,0 +1,7 @@
+short_name: Inovelon
+active_substance: Rufinamidum
+marketing_authorisation_holder: Eisai GmbH, Germany
+manufacturer: Eisai Manufacturing Ltd., United Kingdom; Eisai GmbH, Germany
+atc_code: N03AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/378/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/378/001/smpc

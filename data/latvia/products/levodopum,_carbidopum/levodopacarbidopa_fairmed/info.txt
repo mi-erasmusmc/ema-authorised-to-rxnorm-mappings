@@ -1,0 +1,7 @@
+short_name: Levodopa/Carbidopa Fairmed
+active_substance: Levodopum, Carbidopum
+marketing_authorisation_holder: Fairmed Healthcare GmbH, Germany
+manufacturer: Fairmed Healthcare GmbH, Germany
+atc_code: N04BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0024/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0024/smpc

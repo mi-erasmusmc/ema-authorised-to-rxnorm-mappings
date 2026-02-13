@@ -1,0 +1,7 @@
+short_name: EDURANT
+active_substance: Rilpivirinum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Cilag S.p.A., Italy
+atc_code: J05AG05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/736/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/736/001/smpc

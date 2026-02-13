@@ -1,0 +1,7 @@
+short_name: Onkotrone
+active_substance: Mitoxantroni hydrochloridum
+marketing_authorisation_holder: Baxter Latvia, SIA, Latvia
+manufacturer: Baxter Oncology GmbH, Germany
+atc_code: L01DB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0260/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0260/smpc

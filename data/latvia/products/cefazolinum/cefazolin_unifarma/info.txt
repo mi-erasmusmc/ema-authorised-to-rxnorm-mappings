@@ -1,0 +1,7 @@
+short_name: Cefazolin Unifarma
+active_substance: Cefazolinum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Unifarma, SIA, Latvia
+atc_code: J01DB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0174/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0174/smpc

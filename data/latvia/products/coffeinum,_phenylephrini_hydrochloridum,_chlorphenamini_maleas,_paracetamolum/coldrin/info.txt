@@ -1,0 +1,7 @@
+short_name: Coldrin
+active_substance: Coffeinum, Phenylephrini hydrochloridum, Chlorphenamini maleas, Paracetamolum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Elvim, SIA, Latvia
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0599/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0599/smpc

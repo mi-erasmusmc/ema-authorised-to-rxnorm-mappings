@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005851
+Name of medicine: Veoza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fezolinetant
+Active substance: fezolinetant
+Therapeutic area (MeSH): Menopause;Hot Flashes
+ATC code (human): G02CX06
+Pharmacotherapeutic group (human): Other gynecologicals
+Therapeutic indication: Veoza is indicated for the treatment of moderate to severe vasomotor symptoms (VMS) associated with menopause.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/veoza

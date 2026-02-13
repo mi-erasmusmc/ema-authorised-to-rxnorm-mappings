@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002333
+Name of medicine: Bexsero
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: meningococcal group B Vaccine (rDNA, component, adsorbed)
+Active substance: outer membrane vesicles from neisseria meningitidis group b (strain nz 98/254);recombinant Neisseria meningitidis group B fHbp fusion protein;recombinant Neisseria meningitidis group B NadA protein;recombinant Neisseria meningitidis group B NHBA fusion protein
+Therapeutic area (MeSH): Meningitis, Meningococcal
+ATC code (human): J07AH09
+Pharmacotherapeutic group (human): Meningococcal vaccines
+Therapeutic indication: Active immunisation against invasive disease caused by Neisseria meningitidis serogroup-B strains.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bexsero

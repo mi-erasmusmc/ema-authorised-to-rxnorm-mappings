@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005182
+Name of medicine: Trodelvy
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sacituzumab govitecan
+Active substance: sacituzumab govitecan
+Therapeutic area (MeSH): Breast Neoplasms;Triple Negative Breast Neoplasms
+ATC code (human): L01FX06
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Trodelvy as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic triple-negative breast cancer (mTNBC) who have received two or more prior systemic therapies, including at least one of them for advanced disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trodelvy

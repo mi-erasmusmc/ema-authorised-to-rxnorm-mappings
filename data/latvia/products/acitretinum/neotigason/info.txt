@@ -1,0 +1,7 @@
+short_name: Neotigason
+active_substance: Acitretinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Cenexi, France; Cenexi, France
+atc_code: D05BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0595/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0595/smpc

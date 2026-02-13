@@ -1,0 +1,7 @@
+short_name: Onglyza
+active_substance: Saxagliptinum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca UK Limited, United Kingdom; AstraZeneca AB, Sweden
+atc_code: A10BH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/545/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/545/001/smpc

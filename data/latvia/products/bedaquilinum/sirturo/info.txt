@@ -1,0 +1,7 @@
+short_name: SIRTURO
+active_substance: Bedaquilinum
+marketing_authorisation_holder: Janssen-Cilag International N.V., Belgium
+manufacturer: Janssen Pharmaceutica N.V., Belgium
+atc_code: J04AK05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/901/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/901/001/smpc

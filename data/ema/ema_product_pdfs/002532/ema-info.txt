@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002532
+Name of medicine: Zaltrap
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: aflibercept
+Active substance: aflibercept
+Therapeutic area (MeSH): Colorectal Neoplasms
+ATC code (human): L01XX44
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of metastatic colorectal cancer (MCRC).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zaltrap

@@ -1,0 +1,7 @@
+short_name: Solian
+active_substance: Amisulpridum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: SANOFI-AVENTIS Zrt., Hungary; Delpharm Dijon, France
+atc_code: N05AL05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0276/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0276/smpc

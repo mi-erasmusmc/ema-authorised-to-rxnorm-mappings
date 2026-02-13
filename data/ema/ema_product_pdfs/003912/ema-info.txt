@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003912
+Name of medicine: Cinqaero
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: reslizumab
+Active substance: reslizumab
+Therapeutic area (MeSH): Asthma
+ATC code (human): R03DX08
+Pharmacotherapeutic group (human): Other systemic drugs for obstructive airway diseases
+Therapeutic indication: Cinqaero is indicated as add-on therapy in adult patients with severe eosinophilic asthma inadequately controlled despite high dose inhaled corticosteroids plus another medicinal product for maintenance treatment.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cinqaero

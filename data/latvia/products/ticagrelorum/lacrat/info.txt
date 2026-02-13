@@ -1,0 +1,7 @@
+short_name: Lacrat
+active_substance: Ticagrelorum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0100/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0100/smpc

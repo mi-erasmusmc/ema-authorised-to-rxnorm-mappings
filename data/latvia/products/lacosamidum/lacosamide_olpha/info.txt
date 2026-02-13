@@ -1,0 +1,7 @@
+short_name: Lacosamide Olpha
+active_substance: Lacosamidum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: N03AX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0206/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0206/smpc

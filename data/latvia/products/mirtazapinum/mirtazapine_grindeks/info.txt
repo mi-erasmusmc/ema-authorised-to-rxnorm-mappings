@@ -1,0 +1,7 @@
+short_name: Mirtazapine Grindeks
+active_substance: Mirtazapinum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia; PharmaEstica Manufacturing, Estonia
+atc_code: N06AX11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0201/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0201/smpc

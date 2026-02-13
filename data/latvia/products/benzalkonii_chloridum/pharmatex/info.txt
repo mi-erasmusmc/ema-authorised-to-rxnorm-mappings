@@ -1,0 +1,7 @@
+short_name: Pharmatex
+active_substance: Benzalkonii chloridum
+marketing_authorisation_holder: Laboratoire Innotech International SAS, France
+manufacturer: Innothera Chouzy, France
+atc_code: G02BB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0201/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0201/smpc

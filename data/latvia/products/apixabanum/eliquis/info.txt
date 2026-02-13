@@ -1,0 +1,7 @@
+short_name: Eliquis
+active_substance: Apixabanum
+marketing_authorisation_holder: Bristol-Myers Squibb/Pfizer EEIG, Ireland
+manufacturer: Pfizer Ireland Pharmaceuticals, Ireland; Swords Laboratories T/A Bristol-Myers Squibb Pharmaceutical Operations, External Manufacturing, Ireland; Catalent Anagni S.R.L., Italy; Pfizer Manufacturing Deutschland GmbH, Germany
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/691/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/691/001/smpc

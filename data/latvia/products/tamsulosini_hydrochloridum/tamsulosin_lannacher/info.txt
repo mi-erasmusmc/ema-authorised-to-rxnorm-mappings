@@ -1,0 +1,7 @@
+short_name: Tamsulosin Lannacher
+active_substance: Tamsulosini hydrochloridum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain; G.L. Pharma GmbH, Austria
+atc_code: G04CA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0109/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0109/smpc

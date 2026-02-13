@@ -1,0 +1,7 @@
+short_name: Silseq
+active_substance: Adapalenum, Benzoylis peroxidum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: AdAlvo Limited, Malta; Beltapharm S.p.A., Italy
+atc_code: D10AD53
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0007/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0007/smpc

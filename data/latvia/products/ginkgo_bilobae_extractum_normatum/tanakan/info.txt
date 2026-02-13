@@ -1,0 +1,7 @@
+short_name: Tanakan
+active_substance: Ginkgo bilobae extractum normatum
+marketing_authorisation_holder: Mayoly Pharma France, France
+manufacturer: Mayoly Industrie, France
+atc_code: N06DX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/93-0432/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/93-0432/smpc

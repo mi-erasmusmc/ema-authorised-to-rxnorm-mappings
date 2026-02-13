@@ -1,0 +1,7 @@
+short_name: Anoro Ellipta
+active_substance: Umeclidinii bromidum, Vilanterolum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome Production, France
+atc_code: R03AL03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/898/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/898/001/smpc

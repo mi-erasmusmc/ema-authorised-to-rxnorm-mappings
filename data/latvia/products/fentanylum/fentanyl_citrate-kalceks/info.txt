@@ -1,0 +1,7 @@
+short_name: Fentanyl citrate-Kalceks
+active_substance: Fentanylum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: N01AH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0232/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0232/smpc

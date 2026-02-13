@@ -1,0 +1,7 @@
+short_name: Colecalciferol Polpharma
+active_substance: Colecalciferolum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Farmaprojects S.A.U., Spain
+atc_code: A11CC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0073/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0073/smpc

@@ -1,0 +1,7 @@
+short_name: Ecalta
+active_substance: Anidulafunginum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: J02AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/416/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/416/002/smpc

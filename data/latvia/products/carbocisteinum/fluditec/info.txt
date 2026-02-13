@@ -1,0 +1,7 @@
+short_name: Fluditec
+active_substance: Carbocisteinum
+marketing_authorisation_holder: Laboratoire Innotech International SAS, France
+manufacturer: Innothera Chouzy, France
+atc_code: R05CB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0571/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0571/smpc

@@ -1,0 +1,7 @@
+short_name: Isoprinosine
+active_substance: Inosini acedobeni dimepranolum
+marketing_authorisation_holder: Ewopharma International, s.r.o., Slovakia
+manufacturer: Lusomedicamenta Sociedade Tecnica Farmaceutica S.A., Portugal
+atc_code: J05AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0358/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0358/smpc

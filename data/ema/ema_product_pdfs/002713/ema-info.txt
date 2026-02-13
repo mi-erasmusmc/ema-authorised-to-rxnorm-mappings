@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002713
+Name of medicine: Latuda
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lurasidone
+Active substance: lurasidone
+Therapeutic area (MeSH): Schizophrenia
+ATC code (human): N05AE05
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Treatment of schizophrenia in adults aged 18 years and over.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/latuda

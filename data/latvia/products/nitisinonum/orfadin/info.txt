@@ -1,0 +1,7 @@
+short_name: Orfadin
+active_substance: Nitisinonum
+marketing_authorisation_holder: Swedish Orphan Biovitrum International AB, Sweden
+manufacturer: Apotek Produktion & Laboratorier AB, Sweden
+atc_code: A16AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/303/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/303/001/smpc

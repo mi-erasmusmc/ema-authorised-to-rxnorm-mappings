@@ -1,0 +1,7 @@
+short_name: Arthryl
+active_substance: Glucosamini sulfas
+marketing_authorisation_holder: Cooper Consumer Health B.V., Netherlands
+manufacturer: Rottapharm Ltd., Ireland; Sigmar Italia S.p.A., Italy
+atc_code: M01AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0145/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0145/smpc

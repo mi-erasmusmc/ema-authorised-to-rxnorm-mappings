@@ -1,0 +1,7 @@
+short_name: Levosimendan Kalceks
+active_substance: Levosimendanum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: C01CX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0034/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0034/smpc

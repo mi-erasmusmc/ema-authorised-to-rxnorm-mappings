@@ -1,0 +1,7 @@
+short_name: Versatis
+active_substance: Lidocainum
+marketing_authorisation_holder: Grünenthal GmbH, Germany
+manufacturer: Grünenthal GmbH, Germany
+atc_code: N01BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0176/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0176/smpc

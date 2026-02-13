@@ -1,0 +1,7 @@
+short_name: Metalyse
+active_substance: Tenecteplasum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Boehringer Ingelheim France, France
+atc_code: B01AD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/169/005/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/169/005/smpc

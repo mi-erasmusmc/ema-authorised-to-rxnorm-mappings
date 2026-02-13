@@ -1,0 +1,7 @@
+short_name: Imlygic
+active_substance: Talimogenum laherparepvecum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen Europe B.V., Netherlands; Amgen NV, Belgium
+atc_code: L01XL02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1064/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1064/001/smpc

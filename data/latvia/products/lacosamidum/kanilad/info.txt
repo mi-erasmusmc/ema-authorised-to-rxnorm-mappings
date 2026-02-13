@@ -1,0 +1,7 @@
+short_name: Kanilad
+active_substance: Lacosamidum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus
+atc_code: N03AX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0223/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0223/smpc

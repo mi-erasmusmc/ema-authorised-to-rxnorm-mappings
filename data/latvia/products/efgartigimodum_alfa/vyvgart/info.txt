@@ -1,0 +1,7 @@
+short_name: Vyvgart
+active_substance: Efgartigimodum alfa
+marketing_authorisation_holder: Argenx B.V., Belgium
+manufacturer: Argenx B.V., Belgium; Propharma Group The Netherlands B.V., Netherlands
+atc_code: L04AL01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1674/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1674/001/smpc

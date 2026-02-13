@@ -1,0 +1,7 @@
+short_name: Vertirosan
+active_substance: Dimenhydrinatum
+marketing_authorisation_holder: UMIP Limited, Ireland
+manufacturer: MoNo chem-pharm Produkte GmbH, Austria
+atc_code: N07CA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0130/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0130/smpc

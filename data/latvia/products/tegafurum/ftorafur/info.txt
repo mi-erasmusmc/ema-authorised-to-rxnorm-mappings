@@ -1,0 +1,7 @@
+short_name: Ftorafur
+active_substance: Tegafurum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: A/S Grindeks, Latvia
+atc_code: L01BC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0258/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0258/smpc

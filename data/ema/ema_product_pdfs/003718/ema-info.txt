@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003718
+Name of medicine: Lemtrada
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: alemtuzumab
+Active substance: alemtuzumab
+Therapeutic area (MeSH): Multiple Sclerosis
+ATC code (human): L04AA34
+Pharmacotherapeutic group (human): Selective immunosuppressants
+Therapeutic indication: Lemtrada is indicated for adult patients with relapsing-remitting multiple sclerosis (RRMS) with active disease defined by clinical or imaging features.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lemtrada

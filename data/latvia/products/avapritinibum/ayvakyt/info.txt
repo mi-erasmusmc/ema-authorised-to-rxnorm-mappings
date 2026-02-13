@@ -1,0 +1,7 @@
+short_name: Ayvakyt
+active_substance: Avapritinibum
+marketing_authorisation_holder: Blueprint Medicines (Netherlands) B.V., Netherlands
+manufacturer: Blueprint Medicines (Netherlands) B.V., Netherlands
+atc_code: L01EX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1473/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1473/001/smpc

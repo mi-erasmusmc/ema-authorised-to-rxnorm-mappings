@@ -1,0 +1,7 @@
+short_name: Dexketoprofen Kalceks
+active_substance: Dexketoprofenum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: M01AE17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0265/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0265/smpc

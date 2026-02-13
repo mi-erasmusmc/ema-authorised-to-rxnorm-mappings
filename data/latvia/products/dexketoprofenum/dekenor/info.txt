@@ -1,0 +1,7 @@
+short_name: Dekenor
+active_substance: Dexketoprofenum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: M01AE17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0004/smpc

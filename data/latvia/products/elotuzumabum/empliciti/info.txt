@@ -1,0 +1,7 @@
+short_name: Empliciti
+active_substance: Elotuzumabum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Bristol-Myers Squibb S.r.l., France; Swords Laboratories t/a Bristol-Myers Squibb Cruiserath Biologics, Ireland
+atc_code: L01FX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1088/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1088/001/smpc

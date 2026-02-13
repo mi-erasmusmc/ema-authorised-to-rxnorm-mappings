@@ -1,0 +1,7 @@
+short_name: Sorafenib Sandoz
+active_substance: Sorafenibum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Remedica Ltd., Cyprus; PharOS MT Ltd., Malta
+atc_code: L01EX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0084/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0084/smpc

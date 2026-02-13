@@ -1,0 +1,7 @@
+short_name: Docetaxel Kabi
+active_substance: Docetaxelum
+marketing_authorisation_holder: Fresenius Kabi Deutschland GmbH, Germany
+manufacturer: Fresenius Kabi Oncology Plc., United Kingdom; Fresenius Kabi Deutschland GmbH, Germany
+atc_code: L01CD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/770/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/770/001/smpc

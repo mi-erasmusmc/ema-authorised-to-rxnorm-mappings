@@ -1,0 +1,7 @@
+short_name: Fluconazole Baxter
+active_substance: Fluconazolum
+marketing_authorisation_holder: Baxter Holding B.V., Netherlands
+manufacturer: Bieffe Medital S.P.A, Italy; Norameda UAB, Lithuania; Tramco Sp. z o.o., Wolskie, Poland
+atc_code: J02AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0328/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0328/smpc

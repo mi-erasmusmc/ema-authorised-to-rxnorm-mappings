@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005102
+Name of medicine: Tecartus
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: brexucabtagene autoleucel
+Active substance: autologous peripheral blood T cells CD4 and CD8 selected and CD3 and CD28 activated transduced with retroviral vector expressing anti-CD19 CD28/CD3-zeta chimeric antigen receptor and cultured (brexucabtagene autoleucel)
+Therapeutic area (MeSH): Lymphoma, Mantle-Cell
+ATC code (human): L01X
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Mantle cell lymphoma Tecartus is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL) after two or more lines of systemic therapy including a Bruton’s tyrosine kinase (BTK) inhibitor. Acute lymphoblastic leukaemia Tecartus is indicated for the treatment of adult patients 26 years of age and above with relapsed or refractory B-cell precursor acute lymphoblastic leukaemia (ALL).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tecartus

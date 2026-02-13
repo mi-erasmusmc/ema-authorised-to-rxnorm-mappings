@@ -1,0 +1,7 @@
+short_name: Diane
+active_substance: Cyproteroni acetas, Ethinylestradiolum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer Weimar GmbH und Co. KG, Germany; Bayer AG, Germany
+atc_code: G03HB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0169/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0169/smpc

@@ -1,0 +1,7 @@
+short_name: Jeanine
+active_substance: Ethinylestradiolum, Dienogestum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer Weimar GmbH und Co. KG, Germany
+atc_code: G03FA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001391/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001391/smpc

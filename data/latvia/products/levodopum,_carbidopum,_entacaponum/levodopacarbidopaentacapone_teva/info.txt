@@ -1,0 +1,7 @@
+short_name: Levodopa/Carbidopa/Entacapone Teva
+active_substance: Levodopum, Carbidopum, Entacaponum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Gyogyszergyar Zrt., Hungary
+atc_code: N04BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0201/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0201/smpc

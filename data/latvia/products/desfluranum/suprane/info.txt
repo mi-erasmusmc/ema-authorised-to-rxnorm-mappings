@@ -1,0 +1,7 @@
+short_name: Suprane
+active_substance: Desfluranum
+marketing_authorisation_holder: Baxter Latvia, SIA, Latvia
+manufacturer: Baxter S.A., Belgium
+atc_code: N01AB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0203/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0203/smpc

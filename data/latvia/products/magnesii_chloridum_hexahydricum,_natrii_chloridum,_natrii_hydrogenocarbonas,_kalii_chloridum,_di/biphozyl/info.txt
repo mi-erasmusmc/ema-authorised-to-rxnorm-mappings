@@ -1,0 +1,7 @@
+short_name: Biphozyl
+active_substance: Magnesii chloridum hexahydricum, Natrii chloridum, Natrii hydrogenocarbonas, Kalii chloridum, Dinatrii phosphas dihydricus
+marketing_authorisation_holder: Vantive Belgium S.R.L., Belgium
+manufacturer: Bieffe Medital S.p.A., Italy
+atc_code: B05ZB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0002/smpc

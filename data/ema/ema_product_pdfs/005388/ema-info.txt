@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005388
+Name of medicine: Qutavina
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: teriparatide
+Active substance: teriparatide
+Therapeutic area (MeSH): Osteoporosis
+ATC code (human): H05AA02
+Pharmacotherapeutic group (human): Calcium homeostasis
+Therapeutic indication: Qutavina is indicated in adults. Treatment of osteoporosis in postmenopausal women and in men at increased risk of fracture. In postmenopausal women, a significant reduction in the incidence of vertebral and non-vertebral fractures but not hip fractures have been demonstrated. Treatment of osteoporosis associated with sustained systemic glucocorticoid therapy in women and men at increased risk for fracture.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/qutavina

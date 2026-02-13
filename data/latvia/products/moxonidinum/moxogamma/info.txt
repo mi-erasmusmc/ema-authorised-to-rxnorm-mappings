@@ -1,0 +1,7 @@
+short_name: Moxogamma
+active_substance: Moxonidinum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Artesan Pharma GmbH & Co. KG, Germany; Cenexi, France; Worwag Pharma GmbH & Co.KG, Germany
+atc_code: C02AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0014/smpc

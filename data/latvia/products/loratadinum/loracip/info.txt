@@ -1,0 +1,7 @@
+short_name: Loracip
+active_substance: Loratadinum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Unifarma, SIA, Latvia
+atc_code: R06AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0226/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0226/smpc

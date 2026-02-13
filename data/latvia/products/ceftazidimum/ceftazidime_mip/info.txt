@@ -1,0 +1,7 @@
+short_name: Ceftazidime MIP
+active_substance: Ceftazidimum
+marketing_authorisation_holder: MIP Pharma GmbH, Germany
+manufacturer: MIP Pharma GmbH, Germany
+atc_code: J01DD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0100/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0100/smpc

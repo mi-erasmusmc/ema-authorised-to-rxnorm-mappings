@@ -1,0 +1,7 @@
+short_name: Pramipexole ELVIM
+active_substance: Pramipexolum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Pharmathen S.A., Greece
+atc_code: N04BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0165/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0165/smpc

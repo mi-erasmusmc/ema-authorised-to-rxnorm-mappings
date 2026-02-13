@@ -1,0 +1,7 @@
+short_name: Polovox
+active_substance: Flurbiprofenum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Laboratorio Bohm, S.A., Spain; Industria Quimica y Farmaceutica VIR, S.A. (VIR), Spain; S.C. Terapia S.A., Romania; Laboratorium Sanitatis, S.L., Spain
+atc_code: R02AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0015/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0015/smpc

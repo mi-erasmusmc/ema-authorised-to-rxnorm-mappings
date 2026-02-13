@@ -1,0 +1,7 @@
+short_name: Galvus
+active_substance: Vildagliptinum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia; Novartis Pharmaceutical Manufacturing LLC, Slovenia
+atc_code: A10BH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/414/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/414/001/smpc

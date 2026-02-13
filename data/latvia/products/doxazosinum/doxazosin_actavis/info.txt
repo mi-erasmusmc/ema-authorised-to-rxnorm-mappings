@@ -1,0 +1,7 @@
+short_name: Doxazosin Actavis
+active_substance: Doxazosinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Actavis Group PTC ehf., Iceland
+atc_code: C02CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0214/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0214/smpc

@@ -1,0 +1,7 @@
+short_name: Regaine
+active_substance: Minoxidilum
+marketing_authorisation_holder: McNeil Healthcare (Ireland) Limited, Ireland
+manufacturer: JNTL Consumer Health (France) SAS, France
+atc_code: D11AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0480/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0480/smpc

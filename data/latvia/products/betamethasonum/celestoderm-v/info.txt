@@ -1,0 +1,7 @@
+short_name: Celestoderm-V
+active_substance: Betamethasonum
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: Organon Heist bv, Belgium
+atc_code: D07AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0066/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0066/smpc

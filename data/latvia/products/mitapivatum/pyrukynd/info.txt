@@ -1,0 +1,7 @@
+short_name: Pyrukynd
+active_substance: Mitapivatum
+marketing_authorisation_holder: Agios Netherlands B.V., Netherlands
+manufacturer: Almac Pharma Services Limited, Northern Ireland
+atc_code: B06AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1662/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1662/001/smpc

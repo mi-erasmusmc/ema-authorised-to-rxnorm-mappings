@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000252
+Name of medicine: Ziagen
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: abacavir
+Active substance: abacavir
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AF06
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Ziagen is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults, adolescents and children. The demonstration of the benefit of Ziagen is mainly based on results of studies performed with a twice daily regimen, in treatment-naïve adult patients on combination therapy. Before initiating treatment with abacavir, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin. Abacavir should not be used in patients known to carry the HLA-B*5701 allele.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ziagen

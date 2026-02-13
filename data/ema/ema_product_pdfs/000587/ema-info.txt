@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000587
+Name of medicine: ATryn
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: antithrombin alfa
+Active substance: antithrombin alfa
+Therapeutic area (MeSH): Antithrombin III Deficiency
+ATC code (human): B01AB02
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: ATryn is indicated for the prophylaxis of venous thromboembolism in surgery of patients with congenital antithrombin deficiency. ATryn is normally given in association with heparin or low molecular weight heparin.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/atryn

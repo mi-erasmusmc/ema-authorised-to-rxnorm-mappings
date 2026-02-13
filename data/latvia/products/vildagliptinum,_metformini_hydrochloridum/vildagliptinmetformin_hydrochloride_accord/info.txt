@@ -1,0 +1,7 @@
+short_name: Vildagliptin/Metformin hydrochloride Accord
+active_substance: Vildagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Pharmadox Healthcare Ltd., Malta; Laboratori Fundacio Dau, Spain; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: A10BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1611/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1611/001/smpc

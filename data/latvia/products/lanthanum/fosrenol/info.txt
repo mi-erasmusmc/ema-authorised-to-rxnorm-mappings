@@ -1,0 +1,7 @@
+short_name: Fosrenol
+active_substance: Lanthanum
+marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+manufacturer: RB NL Brands B.V., Netherlands
+atc_code: V03AE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0025/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0025/smpc

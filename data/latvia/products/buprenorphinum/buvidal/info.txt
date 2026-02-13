@@ -1,0 +1,7 @@
+short_name: Buvidal
+active_substance: Buprenorphinum
+marketing_authorisation_holder: Camurus AB, Sweden
+manufacturer: Rechon Life Science AB, Sweden
+atc_code: N07BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1336/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1336/001/smpc

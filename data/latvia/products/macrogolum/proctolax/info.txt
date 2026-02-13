@@ -1,0 +1,7 @@
+short_name: Proctolax
+active_substance: Macrogolum
+marketing_authorisation_holder: Casen Recordati, S.L., Spain
+manufacturer: Casen Recordati, S.L., Spain
+atc_code: A06AD15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0043/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0043/smpc

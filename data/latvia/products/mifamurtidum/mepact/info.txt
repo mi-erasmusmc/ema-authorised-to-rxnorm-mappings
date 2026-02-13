@@ -1,0 +1,7 @@
+short_name: Mepact
+active_substance: Mifamurtidum
+marketing_authorisation_holder: Esteve Pharmaceuticals, S.A., Spain
+manufacturer: Takeda Austria GmbH, Austria
+atc_code: L03AX15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/502/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/502/001/smpc

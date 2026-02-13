@@ -1,0 +1,7 @@
+short_name: Pylclari
+active_substance: Piflufolastatum (18F)
+marketing_authorisation_holder: Curium Pet France, France
+manufacturer: Argos Zyklotron Betriebs GesmbH, Austria; Curium Pharma Spain S.A., Spain; Curium Pharma Spain S.A., Spain; Curium Pet France, France; Curium Pet France, France; Curium Pet France, France; Curium Pet France, France; Curium Italy S.r.l., Italy; Argos Zyklotron Betriebs GmbH, Austria; Syn Innovation Laboratories S.A., Greece
+atc_code: V09IX16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1746/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1746/001/smpc

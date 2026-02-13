@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002373
+Name of medicine: Bosulif
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bosutinib
+Active substance: bosutinib (as monohydrate)
+Therapeutic area (MeSH): Leukemia, Myeloid
+ATC code (human): L01EA04
+Pharmacotherapeutic group (human): Antineoplastic agents;Protein kinase inhibitors
+Therapeutic indication: Bosulif is indicated for the treatment of:• Adult and paediatric patients aged 6 years and older with newly-diagnosed (ND) chronic phase (CP) Philadelphia chromosome-positive chronic myelogenous leukaemia (Ph+ CML).• Adult and paediatric patients aged 6 years and older with CP Ph+ CML previously treated with one or more tyrosine kinase inhibitor(s) [TKI(s)] and for whom imatinib, nilotinib and dasatinib are not considered appropriate treatment options.• Adult patients with accelerated phase (AP), and blast phase (BP) Ph+ CML previously treated with one or more tyrosine kinase inhibitor(s) [TKI(s)] and for whom imatinib, nilotinib and dasatinib are not considered appropriate treatment options.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bosulif

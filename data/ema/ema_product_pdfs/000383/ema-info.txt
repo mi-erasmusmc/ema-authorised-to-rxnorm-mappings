@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000383
+Name of medicine: Trazec
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: nateglinide
+Active substance: nateglinide
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BX03
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Nateglinide is indicated for combination therapy with metformin in type 2 diabetic patients inadequately controlled despite a maximally tolerated dose of metformin alone.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trazec

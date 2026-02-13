@@ -1,0 +1,7 @@
+short_name: Amglidia
+active_substance: Glibenclamidum
+marketing_authorisation_holder: AMMTeK, France
+manufacturer: Centre Specialites Pharmaceutiques, France; Unither Pharmaceutical, France; Colca MS, France
+atc_code: A10BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1279/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1279/001/smpc

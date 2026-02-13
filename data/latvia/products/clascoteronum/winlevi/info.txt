@@ -1,0 +1,7 @@
+short_name: Winlevi
+active_substance: Clascoteronum
+marketing_authorisation_holder: Cassiopea S.p.A., Italy
+manufacturer: Cosmo S.p.A., Italy
+atc_code: D10AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1927/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1927/001/smpc

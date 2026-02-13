@@ -1,0 +1,7 @@
+short_name: Ibuliq
+active_substance: Ibuprofenum
+marketing_authorisation_holder: NVT UAB, Lithuania
+manufacturer: Laboratorios Liconsa, S.A., Spain
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0146/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0146/smpc

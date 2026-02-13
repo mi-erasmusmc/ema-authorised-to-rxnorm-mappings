@@ -1,0 +1,7 @@
+short_name: Alka-Seltzer
+active_substance: Acidum acetylsalicylicum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Bayer Bitterfeld GmbH, Germany
+atc_code: N02BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0685/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0685/smpc

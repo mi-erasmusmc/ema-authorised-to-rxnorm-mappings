@@ -1,0 +1,7 @@
+short_name: Gemcitabine Accord
+active_substance: Gemcitabinum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L01BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0114/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0114/smpc

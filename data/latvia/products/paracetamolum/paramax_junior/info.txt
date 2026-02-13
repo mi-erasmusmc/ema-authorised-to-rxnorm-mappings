@@ -1,0 +1,7 @@
+short_name: Paramax Junior
+active_substance: Paracetamolum
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0303/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0303/smpc

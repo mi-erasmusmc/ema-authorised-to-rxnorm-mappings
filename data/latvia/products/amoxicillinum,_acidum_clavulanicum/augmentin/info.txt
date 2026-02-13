@@ -1,0 +1,7 @@
+short_name: Augmentin
+active_substance: Amoxicillinum, Acidum clavulanicum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Wellcome Production, France
+atc_code: J01CR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0034/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0034/smpc

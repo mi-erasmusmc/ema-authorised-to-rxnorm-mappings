@@ -1,0 +1,7 @@
+short_name: Adacel
+active_substance: Vaccinum diphtheriae, tetani, pertussis sine cellulis ex elementis praeparatum, antigeni-o(-is) minutum, adsorbatum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: SANOFI-AVENTIS Zrt., Hungary; Sanofi Winthrop Industrie, France
+atc_code: J07AJ52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0098/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0098/smpc

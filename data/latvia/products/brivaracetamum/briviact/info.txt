@@ -1,0 +1,7 @@
+short_name: Briviact
+active_substance: Brivaracetamum
+marketing_authorisation_holder: UCB Pharma SA, Belgium
+manufacturer: UCB Pharma S.A., Belgium
+atc_code: N03AX23
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1073/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1073/001/smpc

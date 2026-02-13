@@ -1,0 +1,7 @@
+short_name: Rennie
+active_substance: Calcii carbonas, Magnesii carbonas
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Bayer Bitterfeld GmbH, Germany; Delpharm Gaillard, France
+atc_code: A02AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0084/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0084/smpc

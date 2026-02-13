@@ -1,0 +1,7 @@
+short_name: FERVEX
+active_substance: Paracetamolum, Acidum ascorbicum, Pheniramini maleas
+marketing_authorisation_holder: UPSA SAS, France
+manufacturer: UPSA SAS, France; UPSA SAS, France
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001688/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001688/smpc

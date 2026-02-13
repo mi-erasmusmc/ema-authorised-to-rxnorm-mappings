@@ -1,0 +1,7 @@
+short_name: Vilspox
+active_substance: Vildagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Salutas Pharma GmbH, Germany; Lek d.d., PE Proizvodnja Lendava, Slovenia; Novartis Pharmaceutical Manufacturing LLC, Slovenia
+atc_code: A10BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0118/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0118/smpc

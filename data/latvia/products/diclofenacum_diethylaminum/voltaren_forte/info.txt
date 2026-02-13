@@ -1,0 +1,7 @@
+short_name: Voltaren Forte
+active_substance: Diclofenacum diethylaminum
+marketing_authorisation_holder: Haleon Romania S.R.L., Romania
+manufacturer: GlaxoSmithKline Consumer Healthcare GmbH & Co. KG, Germany; Haleon Germany GmbH, Germany
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001785/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001785/smpc

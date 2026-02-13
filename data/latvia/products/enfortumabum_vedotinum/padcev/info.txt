@@ -1,0 +1,7 @@
+short_name: Padcev
+active_substance: Enfortumabum vedotinum
+marketing_authorisation_holder: Astellas Pharma Europe B.V., Netherlands
+manufacturer: Astellas Ireland Co., Ltd., Ireland
+atc_code: L01FX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1615/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1615/001/smpc

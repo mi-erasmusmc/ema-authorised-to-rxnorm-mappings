@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005410
+Name of medicine: Kesimpta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ofatumumab
+Active substance: ofatumumab
+Therapeutic area (MeSH): Multiple Sclerosis, Relapsing-Remitting
+ATC code (human): L04AA52
+Pharmacotherapeutic group (human): Immunosuppressant
+Therapeutic indication: Kesimpta is indicated for the treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features (see section&nbsp;5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kesimpta

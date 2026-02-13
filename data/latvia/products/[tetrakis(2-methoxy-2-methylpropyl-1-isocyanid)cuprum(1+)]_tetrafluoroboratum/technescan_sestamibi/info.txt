@@ -1,0 +1,7 @@
+short_name: Technescan Sestamibi
+active_substance: [Tetrakis(2-methoxy-2-methylpropyl-1-isocyanid)cuprum(1+)] tetrafluoroboratum
+marketing_authorisation_holder: Curium Netherlands B.V., Netherlands
+manufacturer: Curium Netherlands B.V., Netherlands
+atc_code: V09GA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0306/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0306/smpc

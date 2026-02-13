@@ -1,0 +1,7 @@
+short_name: Baclofen Sintetica
+active_substance: Baclofenum
+marketing_authorisation_holder: Sintetica GmbH, Germany
+manufacturer: SIRTON Pharmaceuticals S.p.A, Italy; Sintetica GmbH, Germany; Laboratorie Aguettant, France
+atc_code: M03BX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0001/smpc

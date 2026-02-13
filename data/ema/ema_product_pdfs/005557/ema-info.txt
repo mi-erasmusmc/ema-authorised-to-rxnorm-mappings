@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005557
+Name of medicine: Maapliv
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: amino acids
+Active substance: glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride monohydrate,L-histidine,L-methionine,L-phenylalanine,L-proline,L-serine,L-threonine,L-tryptophan,L-tyrosine,L-glutamic acid,L-lysine monohydrate,taurine
+Therapeutic area (MeSH): Maple Syrup Urine Disease
+ATC code (human): B05BA01
+Pharmacotherapeutic group (human): Blood substitutes and perfusion solutions
+Therapeutic indication: Maapliv is indicated for the treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral branched-chain amino acids free (BCAA- free) formulation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/maapliv

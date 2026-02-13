@@ -1,0 +1,7 @@
+short_name: Etoricoxib Teva
+active_substance: Etoricoxibum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Nederland B.V., Netherlands; TEVA Czech Industries s.r.o., Czech Republic; Pliva Hrvatska d.o.o., Croatia; Teva Operations Poland Sp.z o.o., Poland; Teva Pharma, S.L.U., Spain; Teva Gyogyszergyar Zrt., Hungary
+atc_code: M01AH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0061/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0061/smpc

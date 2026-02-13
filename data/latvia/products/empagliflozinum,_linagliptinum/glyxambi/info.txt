@@ -1,0 +1,7 @@
+short_name: Glyxambi
+active_substance: Empagliflozinum, Linagliptinum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Rottendorf Pharma GmbH, Germany
+atc_code: A10BD19
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1146/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1146/001/smpc

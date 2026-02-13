@@ -1,0 +1,7 @@
+short_name: Propoven
+active_substance: Propofolum
+marketing_authorisation_holder: Fresenius Kabi Deutschland GmbH, Germany
+manufacturer: Fresenius Kabi AB, Sweden; Fresenius Kabi Austria GmbH, Austria
+atc_code: N01AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0045/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0045/smpc

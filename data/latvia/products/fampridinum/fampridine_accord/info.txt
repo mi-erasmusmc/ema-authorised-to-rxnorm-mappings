@@ -1,0 +1,7 @@
+short_name: Fampridine Accord
+active_substance: Fampridinum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Pharmadox Healthcare Ltd., Malta; Laboratori Fundacio Dau, Spain; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: N07XX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1477/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1477/001/smpc

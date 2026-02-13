@@ -1,0 +1,38 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/00/134/001	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	5 ml vial		2026-02-12
+EU/1/00/134/002	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	5 ml vial; same as 001		2026-02-12
+EU/1/00/134/003	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	5 ml vial; same as 001		2026-02-12
+EU/1/00/134/004	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	5 ml vial; same as 001		2026-02-12
+EU/1/00/134/005	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge for reusable pen; no glargine Cartridge concept in RxNorm, Pen Injector is closest		2026-02-12
+EU/1/00/134/006	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/007	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/008	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/009	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial		2026-02-12
+EU/1/00/134/010	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/011	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/012	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/013	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/014	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/015	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/016	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/017	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/018	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/019	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/020	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/021	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/022	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/023	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/024	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/025	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/026	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/027	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	10 ml vial; same as 009		2026-02-12
+EU/1/00/134/028	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/029	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml cartridge; same as 005		2026-02-12
+EU/1/00/134/030	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml SoloStar pre-filled pen		2026-02-12
+EU/1/00/134/031	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml SoloStar; same as 030		2026-02-12
+EU/1/00/134/032	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml SoloStar; same as 030		2026-02-12
+EU/1/00/134/033	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml SoloStar; same as 030		2026-02-12
+EU/1/00/134/034	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml SoloStar; same as 030		2026-02-12
+EU/1/00/134/035	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml SoloStar; same as 030		2026-02-12
+EU/1/00/134/036	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml SoloStar; same as 030		2026-02-12
+EU/1/00/134/037	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT	3 ml SoloStar; same as 030		2026-02-12

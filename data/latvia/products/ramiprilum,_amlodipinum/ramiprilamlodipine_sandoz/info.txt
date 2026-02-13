@@ -1,0 +1,7 @@
+short_name: Ramipril/Amlodipine Sandoz
+active_substance: Ramiprilum, Amlodipinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Zaklady Farmaceutyczne Polpharma S.A., Poland
+atc_code: C09BB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0121/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0121/smpc

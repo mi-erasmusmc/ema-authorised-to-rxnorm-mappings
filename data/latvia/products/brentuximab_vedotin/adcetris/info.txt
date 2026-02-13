@@ -1,0 +1,7 @@
+short_name: Adcetris
+active_substance: Brentuximab vedotin
+marketing_authorisation_holder: Takeda Pharma A/S, Denmark
+manufacturer: Takeda Austria GmbH, Austria
+atc_code: L01FX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/794/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/794/001/smpc

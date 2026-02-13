@@ -1,0 +1,7 @@
+short_name: Usymro
+active_substance: Ustekinumabum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Cilatus Manufacturing Services Limited, Ireland
+atc_code: L04AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1957/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1957/001/smpc

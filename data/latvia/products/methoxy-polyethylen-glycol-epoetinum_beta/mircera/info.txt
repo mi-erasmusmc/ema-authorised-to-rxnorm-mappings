@@ -1,0 +1,7 @@
+short_name: Mircera
+active_substance: Methoxy-polyethylen-glycol-epoetinum beta
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: B03XA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/400/008/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/400/008/smpc

@@ -1,0 +1,7 @@
+short_name: Atazanavir Krka
+active_substance: Atazanavirum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: J05AE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1353/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1353/001/smpc

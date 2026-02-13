@@ -1,0 +1,7 @@
+short_name: Twynsta
+active_substance: Telmisartanum, Amlodipinum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Rottendorf Pharma GmbH, Germany; Boehringer Ingelheim France, France
+atc_code: C09DB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/648/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/648/001/smpc

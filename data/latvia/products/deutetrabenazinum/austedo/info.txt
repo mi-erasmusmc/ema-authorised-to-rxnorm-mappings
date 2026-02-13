@@ -1,0 +1,7 @@
+short_name: Austedo
+active_substance: Deutetrabenazinum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Teva Operations Poland Sp.z o.o., Poland; TEVA Czech Industries s.r.o., Czech Republic
+atc_code: N07XX16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1956/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1956/001/smpc

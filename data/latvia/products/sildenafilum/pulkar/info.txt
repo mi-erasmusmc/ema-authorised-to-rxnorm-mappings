@@ -1,0 +1,7 @@
+short_name: Pulkar
+active_substance: Sildenafilum
+marketing_authorisation_holder: Nobel L., UAB, Lithuania
+manufacturer: Nobel Pharma Ltd., Bulgaria
+atc_code: C02KX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0120/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0120/smpc

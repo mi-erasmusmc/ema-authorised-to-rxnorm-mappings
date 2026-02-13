@@ -1,0 +1,7 @@
+short_name: Pramipexole Teva
+active_substance: Pramipexolum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Merckle GmbH, Germany; Teva UK Ltd., United Kingdom; Pharmachemie B.V., Netherlands; TEVA Czech Industries s.r.o., Czech Republic; TEVA Pharmaceutical Works Private Limited Company, Hungary; Teva Pharmaceutical Works Co. Ltd, Hungary; Galien LPS, France
+atc_code: N04BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/490/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/490/001/smpc

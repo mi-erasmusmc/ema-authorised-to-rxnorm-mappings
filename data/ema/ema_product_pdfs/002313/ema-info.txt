@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002313
+Name of medicine: Incivo
+Medicine status: Expired
+International non-proprietary name (INN) / common name: telaprevir
+Active substance: telaprevir
+Therapeutic area (MeSH): Hepatitis C, Chronic
+ATC code (human): J05AE
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Incivo, in combination with peginterferon alfa and ribavirin, is indicated for the treatment of genotype-1 chronic hepatitis C in adult patients with compensated liver disease (including cirrhosis):  who are treatment naïve; who have previously been treated with interferon alfa (pegylated or non-pegylated) alone or in combination with ribavirin, including relapsers, partial responders and null responders.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/incivo

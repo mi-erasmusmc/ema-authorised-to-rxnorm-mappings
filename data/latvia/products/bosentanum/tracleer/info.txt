@@ -1,0 +1,7 @@
+short_name: Tracleer
+active_substance: Bosentanum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Actelion Manufacturing GmbH, Germany
+atc_code: C02KX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/220/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/220/001/smpc

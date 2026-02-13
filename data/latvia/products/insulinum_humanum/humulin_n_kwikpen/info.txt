@@ -1,0 +1,7 @@
+short_name: Humulin N KwikPen
+active_substance: Insulinum humanum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly France S.A.S., France
+atc_code: A10AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0014/smpc

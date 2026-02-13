@@ -1,0 +1,7 @@
+short_name: Ipraalox
+active_substance: Pantoprazolum
+marketing_authorisation_holder: Opella Healthcare France S.A.S., France
+manufacturer: Opella Healthcare Poland Sp. z o.o., Poland
+atc_code: A02BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0064/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0064/smpc

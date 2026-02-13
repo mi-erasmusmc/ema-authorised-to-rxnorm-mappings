@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005488
+Name of medicine: Locametz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: gozetotide
+Active substance: gozetotide
+Therapeutic area (MeSH): Radionuclide Imaging
+ATC code (human): V09I
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: This medicinal product is for diagnostic use only. Locametz, after radiolabelling with gallium 68, is indicated for the detection of prostate specific membrane antigen (PSMA) positive lesions with positron emission tomography (PET) in adults with prostate cancer (PCa) in the following clinical settings:  Primary staging of patients with high risk PCa prior to primary curative therapy, Suspected PCa recurrence in patients with increasing levels of serum prostate specific antigen (PSA) after primary curative therapy, Identification of patients with PSMA positive progressive metastatic castration resistant prostate cancer (mCRPC) for whom PSMA targeted therapy is indicated (see section 4.4).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/locametz

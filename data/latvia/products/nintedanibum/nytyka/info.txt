@@ -1,0 +1,7 @@
+short_name: Nytyka
+active_substance: Nintedanibum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Pharmadox Healthcare Ltd., Malta; QualiMetrix SA, Greece; AdAlvo Limited, Malta
+atc_code: L01EX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0209/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0209/smpc

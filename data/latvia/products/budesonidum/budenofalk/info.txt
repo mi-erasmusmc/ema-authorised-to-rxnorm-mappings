@@ -1,0 +1,7 @@
+short_name: Budenofalk
+active_substance: Budesonidum
+marketing_authorisation_holder: Dr. Falk Pharma GmbH, Germany
+manufacturer: Dr. Falk Pharma GmbH, Germany
+atc_code: A07EA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1222/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1222/smpc

@@ -1,0 +1,7 @@
+short_name: Salicylic acid Valentis
+active_substance: Acidum salicylicum
+marketing_authorisation_holder: UAB Valentis, Lithuania
+manufacturer: UAB Valentis, Lithuania; UAB Valentis, Lithuania
+atc_code: D02AF
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0364/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0364/smpc

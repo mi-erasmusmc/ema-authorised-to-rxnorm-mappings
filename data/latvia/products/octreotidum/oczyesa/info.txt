@@ -1,0 +1,7 @@
+short_name: Oczyesa
+active_substance: Octreotidum
+marketing_authorisation_holder: Camurus AB, Sweden
+manufacturer: Rechon Life Science AB, Sweden
+atc_code: H01CB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1938/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1938/001/smpc

@@ -1,0 +1,7 @@
+short_name: Ringer acetate Fresenius
+active_substance: Magnesii chloridum hexahydricum, Kalii chloridum, Natrii chloridum, Natrii acetas trihydricus, Calcii chloridum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Polska, Poland
+atc_code: B05BB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0091/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0091/smpc

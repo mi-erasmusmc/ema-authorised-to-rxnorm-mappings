@@ -1,0 +1,7 @@
+short_name: Travoprost ELVIM
+active_substance: Travoprostum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Rafarm SA, Greece
+atc_code: S01EE04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0048/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0048/smpc

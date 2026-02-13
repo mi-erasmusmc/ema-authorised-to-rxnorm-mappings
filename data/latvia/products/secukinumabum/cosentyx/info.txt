@@ -1,0 +1,7 @@
+short_name: Cosentyx
+active_substance: Secukinumabum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany
+atc_code: L04AC10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/980/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/980/001/smpc

@@ -1,0 +1,7 @@
+short_name: Livtencity
+active_substance: Maribavirum
+marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland Branch, Ireland
+manufacturer: Takeda Ireland Limited, Ireland
+atc_code: J05AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1672/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1672/001/smpc

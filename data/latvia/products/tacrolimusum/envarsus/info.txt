@@ -1,0 +1,7 @@
+short_name: Envarsus
+active_substance: Tacrolimusum
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Rottendorf Pharma GmbH, Germany; Chiesi Pharmaceuticals GmbH, Austria; Chiesi Farmaceutici S.P.A., Italy
+atc_code: L04AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/935/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/935/001/smpc

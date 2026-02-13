@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000216
+Name of medicine: Paxene
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: paclitaxel
+Active substance: paclitaxel
+Therapeutic area (MeSH): Sarcoma, Kaposi;Carcinoma, Non-Small-Cell Lung;Ovarian Neoplasms;Breast Neoplasms
+ATC code (human): L01CD01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Paxene is indicated for the treatment of patients with:  advanced AIDS-related Kaposi's sarcoma (AIDS-KS) who have failed prior liposomal anthracycline therapy; metastatic carcinoma of the breast (MBC) who have failed, or are not candidates for standard anthracycline-containing therapy; advanced carcinoma of the ovary (AOC) or with residual disease (&gt; 1 cm) after initial laparotomy, in combination with cisplatin as first-line treatment; metastatic carcinoma of the ovary (MOC) after failure of platinum-containing combination therapy without taxanes as second-line treatment; non-small cell lung carcinoma (NSCLC) who are not candidates for potentially curative surgery and/or radiation therapy, in combination with cisplatin. Limited efficacy data supports this indication (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/paxene

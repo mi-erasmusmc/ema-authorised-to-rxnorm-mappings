@@ -1,0 +1,7 @@
+short_name: Hydrocortisone Renata
+active_substance: Hydrocortisonum
+marketing_authorisation_holder: Renata Pharmaceuticals (Ireland) Limited, Ireland
+manufacturer: Alterno Labs d.o.o., Slovenia
+atc_code: H02AB09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0303/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0303/smpc

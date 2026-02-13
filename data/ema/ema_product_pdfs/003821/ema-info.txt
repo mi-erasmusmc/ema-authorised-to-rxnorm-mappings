@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003821
+Name of medicine: Ofev
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: nintedanib
+Active substance: nintedanib
+Therapeutic area (MeSH): Idiopathic Pulmonary Fibrosis;Lung Diseases, Interstitial;Pulmonary Fibrosis;Scleroderma, Systemic
+ATC code (human): L01EX09
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Ofev is indicated in adults for the treatment of Idiopathic Pulmonary Fibrosis (IPF).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ofev

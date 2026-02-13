@@ -1,0 +1,7 @@
+short_name: Alvesco
+active_substance: Ciclesonidum
+marketing_authorisation_holder: Covis Pharma Europe B.V., Netherlands
+manufacturer: Covis Pharma Europe B.V., Netherlands
+atc_code: R03BA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0018/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0018/smpc

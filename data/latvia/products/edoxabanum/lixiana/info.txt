@@ -1,0 +1,7 @@
+short_name: Lixiana
+active_substance: Edoxabanum
+marketing_authorisation_holder: Daiichi Sankyo Europe GmbH, Germany
+manufacturer: Daiichi Sankyo Europe GmbH, Germany
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/993/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/993/001/smpc

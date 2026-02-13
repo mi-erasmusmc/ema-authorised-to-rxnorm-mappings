@@ -1,0 +1,7 @@
+short_name: Lenalidomide Zentiva
+active_substance: Lenalidomidum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmadox Healthcare Ltd., Malta; Labormed - Pharma S.A., Romania
+atc_code: L04AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0080/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0080/smpc

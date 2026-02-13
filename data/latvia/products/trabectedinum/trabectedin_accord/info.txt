@@ -1,0 +1,7 @@
+short_name: Trabectedin Accord
+active_substance: Trabectedinum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Pharmadox Healthcare Ltd., Malta; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L01CX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1902/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1902/001/smpc

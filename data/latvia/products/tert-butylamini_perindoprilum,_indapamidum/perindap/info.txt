@@ -1,0 +1,7 @@
+short_name: Perindap
+active_substance: Tert-butylamini perindoprilum, Indapamidum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany
+atc_code: C09BA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0016/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0016/smpc

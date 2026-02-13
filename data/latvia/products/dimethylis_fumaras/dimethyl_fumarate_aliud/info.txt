@@ -1,0 +1,7 @@
+short_name: Dimethyl fumarate ALIUD
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta; KeVaRo Group Ltd., Bulgaria; Clonmel Healthcare Limited, Ireland; Stada Arzneimittel AG, Germany
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0082/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0082/smpc

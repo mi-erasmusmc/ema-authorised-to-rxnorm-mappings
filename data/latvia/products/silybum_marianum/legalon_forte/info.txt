@@ -1,0 +1,7 @@
+short_name: Legalon forte
+active_substance: Silybum marianum
+marketing_authorisation_holder: Cooper Consumer Health B.V., Netherlands
+manufacturer: Madaus GmbH, Germany
+atc_code: A05BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0569/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0569/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004027
+Name of medicine: Zavicefta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ceftazidime;avibactam
+Active substance: avibactam sodium;ceftazidime pentahydrate
+Therapeutic area (MeSH): Pneumonia, Bacterial;Soft Tissue Infections;Pneumonia;Urinary Tract Infections;Gram-Negative Bacterial Infections
+ATC code (human): J01DD52
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Zavicefta is indicated in adults and paediatric patients aged 3 months and older for the treatment of the following infections:  Complicated intra-abdominal infection (cIAI) Complicated urinary tract infection (cUTI), including pyelonephritis Hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP)  Treatment of patients with bacteraemia that occurs in association with, or is suspected to be associated with, any of the infections listed above. Zavicefta is also indicated for the treatment of infections due to aerobic Gram-negative organisms in adults and paediatric patients aged 3 months and older with limited treatment options. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zavicefta

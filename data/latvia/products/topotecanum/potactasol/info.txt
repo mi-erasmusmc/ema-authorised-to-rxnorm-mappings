@@ -1,0 +1,7 @@
+short_name: Potactasol
+active_substance: Topotecanum
+marketing_authorisation_holder: Actavis Group PTC ehf, Iceland
+manufacturer: S.C. Sindan - Pharma S.R.L., Romania
+atc_code: L01CE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/660/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/660/001/smpc

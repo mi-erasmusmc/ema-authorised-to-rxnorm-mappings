@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000636
+Name of medicine: Myozyme
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: alglucosidase alfa
+Active substance: alglucosidase alfa
+Therapeutic area (MeSH): Glycogen Storage Disease Type II
+ATC code (human): A16AB07
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Myozyme is indicated for long-term enzyme-replacement therapy (ERT) in patients with a confirmed diagnosis of Pompe disease (acid-?-glucosidase deficiency). In patients with late-onset Pompe disease the evidence of efficacy is limited.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/myozyme

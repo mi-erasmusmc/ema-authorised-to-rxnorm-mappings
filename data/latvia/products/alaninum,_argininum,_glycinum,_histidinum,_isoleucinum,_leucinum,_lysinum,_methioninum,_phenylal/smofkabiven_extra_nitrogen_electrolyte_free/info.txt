@@ -1,0 +1,7 @@
+short_name: SmofKabiven extra Nitrogen Electrolyte free
+active_substance: Alaninum, Argininum, Glycinum, Histidinum, Isoleucinum, Leucinum, Lysinum, Methioninum, Phenylalaninum, Prolinum, Serinum, Taurinum, Threoninum, Tryptophanum, Tyrosinum, Valinum, Glucosum, Soiae oleum raffinatum, Triglycerida media, Olivae oleum raffinatum, Piscis oleum omega-3 acidis abundans
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi AB, Sweden
+atc_code: B05BA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0168/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0168/smpc

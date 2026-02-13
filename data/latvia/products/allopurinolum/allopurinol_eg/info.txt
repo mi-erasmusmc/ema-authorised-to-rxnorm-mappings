@@ -1,0 +1,7 @@
+short_name: Allopurinol EG
+active_substance: Allopurinolum
+marketing_authorisation_holder: EG LABO - Laboratoires EuroGenerics, France
+manufacturer: Laboratoires BTT, France
+atc_code: M04AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000290/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000290/smpc

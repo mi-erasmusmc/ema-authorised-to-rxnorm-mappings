@@ -1,0 +1,7 @@
+short_name: Klimadynon
+active_substance: Cimicifugae rhizomae extractum siccum
+marketing_authorisation_holder: Bionorica SE, Germany
+manufacturer: Bionorica SE, Germany
+atc_code: G02CX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0094/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0094/smpc

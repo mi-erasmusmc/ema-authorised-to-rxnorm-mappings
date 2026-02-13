@@ -1,0 +1,7 @@
+short_name: Olmesartan medoxomil/Amlodipine/Hydrochlorothiazide Teva
+active_substance: Olmesartanum medoxomilum, Amlodipinum, Hydrochlorothiazidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Teva Operations Poland Sp.z o.o., Poland
+atc_code: C09DX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0146/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0146/smpc

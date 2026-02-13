@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004936
+Name of medicine: Rozlytrek
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: entrectinib
+Active substance: Entrectinib
+Therapeutic area (MeSH): Cancer;Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01EX14
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Rozlytrek as monotherapy is indicated for the treatment of adult and paediatric patients 12 years of age and older with solid tumours expressing a neurotrophic tyrosine receptor kinase (NTRK) gene fusion,  who have a disease that is locally advanced, metastatic or where surgical resection is likely to result in severe morbidity, and who have not received a prior NTRK inhibitor who have no satisfactory treatment options.  Rozlytrek as monotherapy is indicated for the treatment of adult patients with ROS1 positive, advanced non small cell lung cancer (NSCLC) not previously treated with ROS1 inhibitors.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rozlytrek

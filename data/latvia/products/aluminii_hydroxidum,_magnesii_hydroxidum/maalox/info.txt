@@ -1,0 +1,7 @@
+short_name: Maalox
+active_substance: Aluminii hydroxidum, Magnesii hydroxidum
+marketing_authorisation_holder: Opella Healthcare France S.A.S., France
+manufacturer: Sanofi S.r.l., Italy
+atc_code: A02AB10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0503/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0503/smpc

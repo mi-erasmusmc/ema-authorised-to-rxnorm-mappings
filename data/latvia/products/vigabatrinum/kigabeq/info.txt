@@ -1,0 +1,7 @@
+short_name: KIGABEQ
+active_substance: Vigabatrinum
+marketing_authorisation_holder: Orphelia Pharma SAS, France
+manufacturer: Farmea, France; Biocodex, France; Centre Spécialités Pharmaceutiques, France
+atc_code: N03AG04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1302/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1302/001/smpc

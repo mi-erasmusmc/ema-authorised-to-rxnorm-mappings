@@ -1,0 +1,7 @@
+short_name: Co-Diovan
+active_substance: Valsartanum, Hydrochlorothiazidum
+marketing_authorisation_holder: Novartis Baltics, SIA, Latvia
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Farma S.p.A., Italy
+atc_code: C09DA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0393/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0393/smpc

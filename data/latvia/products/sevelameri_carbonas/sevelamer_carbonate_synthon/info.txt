@@ -1,0 +1,7 @@
+short_name: Sevelamer carbonate Synthon
+active_substance: Sevelameri carbonas
+marketing_authorisation_holder: Synthon BV, Netherlands
+manufacturer: Synthon Hispania S.L., Spain; PHARMAKAPOTHIKI ALFA-OMEGA S.A., Greece
+atc_code: V03AE02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0152/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0152/smpc

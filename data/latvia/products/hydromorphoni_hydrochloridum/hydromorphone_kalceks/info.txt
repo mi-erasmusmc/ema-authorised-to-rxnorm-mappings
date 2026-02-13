@@ -1,0 +1,7 @@
+short_name: Hydromorphone Kalceks
+active_substance: Hydromorphoni hydrochloridum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: N02AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0005/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0005/smpc

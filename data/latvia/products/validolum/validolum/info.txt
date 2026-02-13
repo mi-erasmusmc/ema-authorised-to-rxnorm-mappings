@@ -1,0 +1,7 @@
+short_name: Validolum
+active_substance: Validolum
+marketing_authorisation_holder: AG Farm Baltic, SIA, Latvia
+manufacturer: AG Farm Baltic, SIA, Latvia
+atc_code: C01EX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0569/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0569/smpc

@@ -1,0 +1,7 @@
+short_name: Bekemv
+active_substance: Eculizumabum
+marketing_authorisation_holder: Amgen Technology (Ireland) Unlimited Company, Ireland
+manufacturer: Amgen Technology (Ireland) Unlimited Company, Ireland
+atc_code: L04AJ01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1727/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1727/001/smpc

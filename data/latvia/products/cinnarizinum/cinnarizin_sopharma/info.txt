@@ -1,0 +1,7 @@
+short_name: Cinnarizin Sopharma
+active_substance: Cinnarizinum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: N07CA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0844/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0844/smpc

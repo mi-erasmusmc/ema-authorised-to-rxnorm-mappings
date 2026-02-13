@@ -1,0 +1,7 @@
+short_name: Fenkarol
+active_substance: Quifenadini hydrochloridum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: R06AX31
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0293/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0293/smpc

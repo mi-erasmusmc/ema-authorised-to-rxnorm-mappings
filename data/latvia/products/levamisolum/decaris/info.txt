@@ -1,0 +1,7 @@
+short_name: Decaris
+active_substance: Levamisolum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: P02CE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0327/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0327/smpc

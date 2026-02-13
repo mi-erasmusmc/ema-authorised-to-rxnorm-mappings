@@ -1,0 +1,7 @@
+short_name: FludeoMAP
+active_substance: Fludeoxyglucosum (18F)
+marketing_authorisation_holder: Curium Finland Oy, Finland
+manufacturer: Curium Finland Oy, Finland; Curium Finland Oy, Finland; Curium Finland Oy, Finland
+atc_code: V09IX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0024/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0024/smpc

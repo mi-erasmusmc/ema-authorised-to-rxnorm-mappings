@@ -1,0 +1,7 @@
+short_name: Priorix
+active_substance: Virus rubellae, vivum, attenuatum, Virus morbilli (stirps Schwarzi), vivum, attenuatum, Virus parotitidis epidemici, vivum, attenuatum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07BD52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0657/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0657/smpc

@@ -1,0 +1,7 @@
+short_name: Tadalafil Zentiva
+active_substance: Tadalafilum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Ltd, Malta; Special Product's line S.p.A., Italy
+atc_code: G04BE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0184/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0184/smpc

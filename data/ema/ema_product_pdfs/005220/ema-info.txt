@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005220
+Name of medicine: Emcitate
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tiratricol
+Active substance: tiratricol
+Therapeutic area (MeSH): Thyrotoxicosis;Heredodegenerative Disorders, Nervous System
+ATC code (human): H03AA04
+Pharmacotherapeutic group (human): Thyroid therapy
+Therapeutic indication: Emcitate is indicated for the treatment of peripheral thyrotoxicosis in patients with monocarboxylate transporter 8 (MCT8) deficiency (Allan-Herndon-Dudley Syndrome), from birth.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emcitate

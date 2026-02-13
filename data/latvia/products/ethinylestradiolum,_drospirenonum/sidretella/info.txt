@@ -1,0 +1,7 @@
+short_name: Sidretella
+active_substance: Ethinylestradiolum, Drospirenonum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Laboratorios Leon Farma S.A., Spain
+atc_code: G03AA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0026/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0026/smpc

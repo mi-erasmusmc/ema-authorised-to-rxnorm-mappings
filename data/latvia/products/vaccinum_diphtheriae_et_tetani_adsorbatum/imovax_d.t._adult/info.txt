@@ -1,0 +1,7 @@
+short_name: Imovax d.T. Adult
+active_substance: Vaccinum diphtheriae et tetani adsorbatum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi Winthrop Industrie, France; Sanofi Winthrop Industrie, France
+atc_code: J07AM51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0098/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0098/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005306
+Name of medicine: Lenalidomide Mylan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lenalidomide
+Active substance: lenalidomide
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): L04AX07
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Multiple myeloma Lenalidomide Mylan as monotherapy is indicated for the maintenance treatment of adult patients with newly diagnosed multiple myeloma who have undergone autologous stem cell transplantation. Lenalidomide Mylan as combination therapy with dexamethasone, or bortezomib and dexamethasone, or melphalan and prednisone is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for transplant. Lenalidomide Mylan in combination with dexamethasone is indicated for the treatment of multiple myeloma in adult patients who have received at least one prior therapy. Follicular lymphoma Lenalidomide Mylan in combination with rituximab (anti-CD20 antibody) is indicated for the treatment of adult patients with previously treated follicular lymphoma (Grade 1-3a).
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-mylan

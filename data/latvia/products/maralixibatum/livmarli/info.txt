@@ -1,0 +1,7 @@
+short_name: Livmarli
+active_substance: Maralixibatum
+marketing_authorisation_holder: Mirum Pharmaceuticals International B.V., Netherlands
+manufacturer: Millmount Healthcare Limited, Ireland
+atc_code: A05AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1704/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1704/001/smpc

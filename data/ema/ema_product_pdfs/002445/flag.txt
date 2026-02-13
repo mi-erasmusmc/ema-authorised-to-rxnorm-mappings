@@ -1,0 +1,3 @@
+Previous mapping had EU/1/12/811/001 (10 µg pen) incorrectly mapped to lixisenatide 0.1 MG/ML. Corrected to 0.05 MG/ML (10 µg/dose pen has concentration ~0.05 mg/ml).
+
+EU/1/12/811/005 is a treatment initiation pack with one 10 µg pen and one 20 µg pen. Mapped BROAD to the general lixisenatide Pen Injector form since no single RxNorm concept covers both strengths in one pack.

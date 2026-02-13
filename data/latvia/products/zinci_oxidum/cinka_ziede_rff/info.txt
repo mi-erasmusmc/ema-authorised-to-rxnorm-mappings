@@ -1,0 +1,7 @@
+short_name: Cinka ziede RFF
+active_substance: Zinci oxidum
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: D02AB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0750/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0750/smpc

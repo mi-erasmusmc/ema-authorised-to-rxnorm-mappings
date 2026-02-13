@@ -1,0 +1,7 @@
+short_name: Dalacin C
+active_substance: Clindamycinum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Fareva Amboise, France
+atc_code: J01FF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0397/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0397/smpc

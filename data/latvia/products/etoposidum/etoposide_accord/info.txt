@@ -1,0 +1,7 @@
+short_name: Etoposide Accord
+active_substance: Etoposidum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L01CB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0169/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0169/smpc

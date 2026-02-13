@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000520
+Name of medicine: Advate
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: octocog alfa
+Active substance: octocog alfa
+Therapeutic area (MeSH): Hemophilia A
+ATC code (human): B02BD02
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor-VIII deficiency). Advate does not contain von Willebrand factor in pharmacologically effective quantities and is therefore not indicated in von Willebrand disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/advate

@@ -1,0 +1,7 @@
+short_name: Senebactum
+active_substance: Povidonum iodinatum
+marketing_authorisation_holder: UAB Valentis, Lithuania
+manufacturer: UAB Valentis, Lithuania; UAB Valentis, Lithuania
+atc_code: D08AG02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0047/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0047/smpc

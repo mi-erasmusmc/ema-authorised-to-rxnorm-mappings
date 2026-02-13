@@ -1,0 +1,7 @@
+short_name: Betaferon
+active_substance: Interferonum beta-1b
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: L03AB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/95/003/003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/95/003/003/smpc

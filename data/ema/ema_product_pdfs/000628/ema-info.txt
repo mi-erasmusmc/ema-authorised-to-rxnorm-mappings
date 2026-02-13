@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000628
+Name of medicine: Kiovig
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human normal immunoglobulin
+Active substance: human normal immunoglobulin (IVIg)
+Therapeutic area (MeSH): Purpura, Thrombocytopenic, Idiopathic;Bone Marrow Transplantation;Immunologic Deficiency Syndromes;Guillain-Barre Syndrome;Mucocutaneous Lymph Node Syndrome
+ATC code (human): J06BA02
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Replacement therapy in adults, and children and adolescents (0-18 years) in:  primary immunodeficiency syndromes with impaired antibody production; hypogammaglobulinaemia and recurrent bacterial infections in patients with chronic lymphocytic leukaemia, in whom prophylactic antibiotics have failed; hypogammaglobulinaemia and recurrent bacterial infections in plateau-phase-multiple-myeloma patients who have failed to respond to pneumococcal immunisation; hypogammaglobulinaemia in patients after allogeneic haematopoietic-stem-cell transplantation (HSCT); congenital AIDS and recurrent bacterial infections.  Immunomodulation in adults, and children and adolescents (0-18 years) in:  primary immune thrombocytopenia (ITP), in patients at high risk of bleeding or prior to surgery to correct the platelet count; Guillain Barré syndrome; Kawasaki disease; multifocal motor neuropathy (MMN).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kiovig

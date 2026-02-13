@@ -1,0 +1,7 @@
+short_name: Liprolog Mix25
+active_substance: Insulinum lisprum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly France S.A.S., France; Eli Lilly Italia S.p.A., Italy
+atc_code: A10AD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/195/003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/01/195/003/smpc

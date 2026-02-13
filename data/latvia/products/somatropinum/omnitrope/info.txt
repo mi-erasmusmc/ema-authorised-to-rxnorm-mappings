@@ -1,0 +1,7 @@
+short_name: Omnitrope
+active_substance: Somatropinum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Sandoz GmbH, Austria
+atc_code: H01AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/332/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/332/001/smpc

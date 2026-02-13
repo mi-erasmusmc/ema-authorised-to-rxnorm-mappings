@@ -1,0 +1,7 @@
+short_name: Lacosamide Adroiq
+active_substance: Lacosamidum
+marketing_authorisation_holder: Extrovis EU Kft., Hungary
+manufacturer: Pharma Pack Hungary Kft., Hungary
+atc_code: N03AX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1732/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1732/001/smpc

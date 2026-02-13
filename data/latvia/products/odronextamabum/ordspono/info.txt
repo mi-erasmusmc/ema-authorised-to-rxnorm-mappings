@@ -1,0 +1,7 @@
+short_name: Ordspono
+active_substance: Odronextamabum
+marketing_authorisation_holder: Regeneron Ireland Designated Activity Company (DAC), Ireland
+manufacturer: Regeneron Ireland Designated Activity Company, Ireland
+atc_code: L01FX34
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1843/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1843/001/smpc

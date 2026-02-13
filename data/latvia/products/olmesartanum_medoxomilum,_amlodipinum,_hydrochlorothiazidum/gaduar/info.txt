@@ -1,0 +1,7 @@
+short_name: Gaduar
+active_substance: Olmesartanum medoxomilum, Amlodipinum, Hydrochlorothiazidum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Laboratori Fundacio Dau, Spain; Zentiva S.A., Romania
+atc_code: C09DX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0053/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0053/smpc

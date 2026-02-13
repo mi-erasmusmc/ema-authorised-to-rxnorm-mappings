@@ -1,0 +1,7 @@
+short_name: Levemir
+active_substance: Insulinum detemirum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark; Novo Nordisk A/S, Denmark
+atc_code: A10AE05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/278/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/278/001/smpc

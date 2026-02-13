@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000558
+Name of medicine: Erbitux
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: cetuximab
+Active substance: cetuximab
+Therapeutic area (MeSH): Head and Neck Neoplasms;Colorectal Neoplasms
+ATC code (human): L01FE01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Erbitux is indicated for the treatment of patients with epidermal growth factor receptor (EGFR)-expressing, RAS wild-type metastatic colorectal cancer:  in combination with irinotecan-based chemotherapy; in first-line in combination with FOLFOX; as a single agent in patients who have failed oxaliplatin- and irinotecan-based therapy and who are intolerant to irinotecan.  For details, see section 5.1. Erbitux is indicated for the treatment of patients with squamous cell cancer of the head and neck:  in combination with radiation therapy for locally advanced disease; in combination with platinum-based chemotherapy for recurrent and/or metastatic disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/erbitux

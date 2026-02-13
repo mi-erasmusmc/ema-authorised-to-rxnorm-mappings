@@ -1,0 +1,7 @@
+short_name: Saizen
+active_substance: Somatropinum
+marketing_authorisation_holder: Merck Serono S.p.A., Italy
+manufacturer: Merck Serono S.p.A. Modugno site, Italy
+atc_code: H01AC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0024/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0024/smpc

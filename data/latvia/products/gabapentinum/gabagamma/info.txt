@@ -1,0 +1,7 @@
+short_name: Gabagamma
+active_substance: Gabapentinum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Wörwag Pharma GmbH & Co.KG, Germany; Wörwag Pharma Operations Sp. z o.o., Poland
+atc_code: N02BF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0384/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0384/smpc

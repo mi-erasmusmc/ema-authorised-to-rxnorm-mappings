@@ -1,0 +1,7 @@
+short_name: Teysuno
+active_substance: Tegafurum, Gimeracilum, Oteracilum
+marketing_authorisation_holder: Nordic Group B.V., Netherlands
+manufacturer: Nordic Pharma B.V., Netherlands; Millmount Healthcare Ltd., Ireland
+atc_code: L01BC53
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/669/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/669/001/smpc

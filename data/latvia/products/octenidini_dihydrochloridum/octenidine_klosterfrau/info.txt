@@ -1,0 +1,7 @@
+short_name: Octenidine Klosterfrau
+active_substance: Octenidini dihydrochloridum
+marketing_authorisation_holder: M.C.M. Klosterfrau Vertriebsgesellschaft GmbH, Germany
+manufacturer: Klosterfrau Berlin GmbH, Germany
+atc_code: R02AA21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0104/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0104/smpc

@@ -1,0 +1,7 @@
+short_name: Fingolimod Mylan
+active_substance: Fingolimodum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: L04AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1573/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1573/001/smpc

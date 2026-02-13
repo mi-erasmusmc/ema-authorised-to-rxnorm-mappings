@@ -1,0 +1,7 @@
+short_name: Broncholytin
+active_substance: Glaucini hydrobromidum, Ephedrini hydrochloridum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: R05DB20
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0787/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0787/smpc

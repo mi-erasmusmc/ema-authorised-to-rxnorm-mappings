@@ -1,0 +1,7 @@
+short_name: Izba
+active_substance: Travoprostum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: S.A. Alcon-Couvreur N.V., Belgium
+atc_code: S01EE04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/905/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/905/001/smpc

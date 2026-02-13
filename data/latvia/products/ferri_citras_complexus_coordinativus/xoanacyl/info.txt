@@ -1,0 +1,7 @@
+short_name: Xoanacyl
+active_substance: Ferri citras complexus coordinativus
+marketing_authorisation_holder: Averoa S.A.S., France
+manufacturer: Patheon France, France
+atc_code: V03AE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1923/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1923/001/smpc

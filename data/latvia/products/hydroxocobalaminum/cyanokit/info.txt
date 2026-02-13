@@ -1,0 +1,7 @@
+short_name: Cyanokit
+active_substance: Hydroxocobalaminum
+marketing_authorisation_holder: SERB S.A., Belgium
+manufacturer: Merck Sante s.a.s., Centre de Production de Semoy, France; SERB S.A., Belgium; Serb S.A.S., France
+atc_code: V03AB33
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/420/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/420/001/smpc

@@ -1,0 +1,7 @@
+short_name: Asacol
+active_substance: Mesalazinum
+marketing_authorisation_holder: Tillotts Pharma AB, Sweden
+manufacturer: Haupt Pharma Wulfing GmbH, Germany
+atc_code: A07EC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0434/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0434/smpc

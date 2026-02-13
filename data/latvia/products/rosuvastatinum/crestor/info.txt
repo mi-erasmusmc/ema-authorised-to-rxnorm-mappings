@@ -1,0 +1,7 @@
+short_name: Crestor
+active_substance: Rosuvastatinum
+marketing_authorisation_holder: Grünenthal GmbH, Germany
+manufacturer: Grünenthal GmbH, Germany; AstraZeneca AB, Sweden; Farmaceutici Formenti S.p.A., Italy
+atc_code: C10AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0167/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0167/smpc

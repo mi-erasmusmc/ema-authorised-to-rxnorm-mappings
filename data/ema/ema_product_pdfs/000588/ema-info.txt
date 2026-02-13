@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000588
+Name of medicine: Exubera
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: insulin human
+Active substance: Insulin human
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AF01
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: EXUBERA is indicated for the treatment of adult patients with type 2 diabetes mellitus notadequately controlled with oral antidiabetic agents and requiring insulin therapy.EXUBERA is also indicated for the treatment of adult patients with type 1 diabetes mellitus, inaddition to long or intermediate acting subcutaneous insulin, for whom the potential benefits ofadding inhaled insulin outweigh the potential safety concerns (see section 4.4).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/exubera

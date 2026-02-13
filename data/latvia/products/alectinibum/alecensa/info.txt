@@ -1,0 +1,7 @@
+short_name: Alecensa
+active_substance: Alectinibum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01ED03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1169/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1169/001/smpc

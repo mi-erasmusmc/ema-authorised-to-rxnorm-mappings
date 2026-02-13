@@ -1,0 +1,7 @@
+short_name: Emtricitabine/Rilpivirine/Tenofovir Alafenamide Viatris
+active_substance: Emtricitabinum, Rilpivirinum, Tenofovirum alafenamidum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: J05AR19
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1966/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1966/001/smpc

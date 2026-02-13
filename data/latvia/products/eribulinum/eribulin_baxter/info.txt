@@ -1,0 +1,7 @@
+short_name: Eribulin Baxter
+active_substance: Eribulinum
+marketing_authorisation_holder: Baxter Holding B.V., Netherlands
+manufacturer: Baxter Oncology GmbH, Germany
+atc_code: L01XX41
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1819/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1819/001/smpc

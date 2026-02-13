@@ -1,0 +1,7 @@
+short_name: Zoely
+active_substance: Nomegestrolum, Estradiolum
+marketing_authorisation_holder: Theramex Ireland Limited, Ireland
+manufacturer: N.V. Organon, Netherlands; Merck Sharp & Dohme B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland; Delpharm Lille SAS, France
+atc_code: G03AA14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/690/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/690/001/smpc

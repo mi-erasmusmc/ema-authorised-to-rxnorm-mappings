@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006064
+Name of medicine: Tauvid
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: flortaucipir (18F)
+Active substance: Flortaucipir (18F)
+Therapeutic area (MeSH): Radionuclide Imaging
+ATC code (human): V09AX07
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: This medicinal product is for diagnostic use only. Flortaucipir (18F) is a radiopharmaceutical indicated for positron emission tomography (PET) imaging of the brain to assess the neocortical distribution of aggregated tau neurofibrillary tangles (NFTs) in adult patients with cognitive impairment who are being evaluated for Alzheimer’s disease (AD). Flortaucipir (18F) is an adjunct to clinical and other diagnostic evaluations. For limitations of use, see sections 4.4 and 5.1.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tauvid

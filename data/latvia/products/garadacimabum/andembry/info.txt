@@ -1,0 +1,7 @@
+short_name: Andembry
+active_substance: Garadacimabum
+marketing_authorisation_holder: CSL Behring GmbH, Germany
+manufacturer: CSL Behring GmbH, Germany
+atc_code: B06AC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1885/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1885/001/smpc

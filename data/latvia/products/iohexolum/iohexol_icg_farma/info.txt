@@ -1,0 +1,7 @@
+short_name: Iohexol ICG farma
+active_substance: Iohexolum
+marketing_authorisation_holder: UAB ICG farma, Lithuania
+manufacturer: Wessling GmbH, Germany; Eurofins Analytical Services Hungary Kft., Hungary
+atc_code: V08AB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0134/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0134/smpc

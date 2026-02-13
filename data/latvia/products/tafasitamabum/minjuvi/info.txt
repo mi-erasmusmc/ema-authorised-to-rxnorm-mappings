@@ -1,0 +1,7 @@
+short_name: Minjuvi
+active_substance: Tafasitamabum
+marketing_authorisation_holder: Incyte Biosciences Distribution B.V., Netherlands
+manufacturer: Incyte Biosciences Distribution B.V., Netherlands
+atc_code: L01FX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1570/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1570/001/smpc

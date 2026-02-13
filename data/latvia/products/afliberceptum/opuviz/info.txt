@@ -1,0 +1,7 @@
+short_name: Opuviz
+active_substance: Afliberceptum
+marketing_authorisation_holder: Samsung Bioepis NL B.V., Netherlands
+manufacturer: Samsung Bioepis NL B.V., Netherlands
+atc_code: S01LA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1865/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1865/001/smpc

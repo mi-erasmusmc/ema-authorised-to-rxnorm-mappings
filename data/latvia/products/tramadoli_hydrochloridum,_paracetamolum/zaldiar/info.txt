@@ -1,0 +1,7 @@
+short_name: Zaldiar
+active_substance: Tramadoli hydrochloridum, Paracetamolum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany
+atc_code: N02AJ13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0185/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0185/smpc

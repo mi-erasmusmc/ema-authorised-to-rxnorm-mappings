@@ -1,0 +1,1 @@
+No exact RxNorm hexavalent vaccine concept matching Hexavac. Mapped BROAD to Vaxelis-based Clinical Drug Form (concept 1366348) which covers the same 6 diseases (DTaP-IPV-HepB-Hib) but uses a different Hib conjugate (Ross strain meningococcal protein vs Hexavac's tetanus toxoid conjugate). Hexavac was withdrawn in 2005.

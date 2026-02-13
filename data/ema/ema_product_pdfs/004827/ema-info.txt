@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004827
+Name of medicine: Hemgenix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: etranacogene dezaparvovec
+Active substance: Etranacogene dezaparvovec
+Therapeutic area (MeSH): Hemophilia B
+ATC code (human): B02BD
+Pharmacotherapeutic group (human): Blood coagulation factors
+Therapeutic indication: Treatment of severe and moderately severe Haemophilia B (congenital Factor IX deficiency) in adult patients without a history of Factor IX inhibitors.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hemgenix

@@ -1,0 +1,7 @@
+short_name: Beclometasone/Formoterol Genetic
+active_substance: Beclometasoni dipropionas, Formoteroli fumaras dihydricus
+marketing_authorisation_holder: Genetic S.p.A., Italy
+manufacturer: Genetic S.p.A, Italy
+atc_code: R03AK08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0309/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0309/smpc

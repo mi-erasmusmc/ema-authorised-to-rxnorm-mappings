@@ -1,0 +1,1 @@
+Changed 10-0573-01 mapping from branded concept "bromhexine 8 MG Oral Tablet [Bisolvon]" (19011445) to unbranded "bromhexine 8 MG Oral Tablet" (19030494). Bisolvon is not the EMA product name for this product (Bromhexin Sopharma), so per mapping rules the unbranded concept should be used.

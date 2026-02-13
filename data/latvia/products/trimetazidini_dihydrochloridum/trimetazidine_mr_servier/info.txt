@@ -1,0 +1,7 @@
+short_name: Trimetazidine MR Servier
+active_substance: Trimetazidini dihydrochloridum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Anpharm SA, Poland; Les Laboratoires Servier Industries, France; Servier (Ireland) Industries Ltd, Ireland
+atc_code: C01EB15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0065/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0065/smpc

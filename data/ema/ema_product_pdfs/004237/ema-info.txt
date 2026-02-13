@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004237
+Name of medicine: Xerava
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: eravacycline
+Active substance: eravacycline
+Therapeutic area (MeSH): Infection;Bacterial Infections
+ATC code (human): J01AA13
+Pharmacotherapeutic group (human): Tetracyclines
+Therapeutic indication: Xerava is indicated in adolescents from the age of 12 years weighing at least 50 kg, and in adults, for the treatment of complicated intra-abdominal infections (cIAI). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xerava

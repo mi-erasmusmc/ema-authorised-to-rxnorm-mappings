@@ -1,0 +1,7 @@
+short_name: Monkasta
+active_substance: Montelukastum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: Krka Polska Sp. z o.o., Poland; KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: R03DC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0473/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0473/smpc

@@ -1,0 +1,7 @@
+short_name: Linagliptin Olpha
+active_substance: Linagliptinum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Galenicum Health S.L.U., Spain; SAG Manufacturing, S.L.U., Spain
+atc_code: A10BH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0001/smpc

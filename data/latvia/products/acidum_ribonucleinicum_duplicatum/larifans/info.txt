@@ -1,0 +1,7 @@
+short_name: Larifans
+active_substance: Acidum ribonucleinicum duplicatum
+marketing_authorisation_holder: Larifāns, SIA, Latvia
+manufacturer: Kevelt AS, Estonia
+atc_code: L03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0230/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0230/smpc

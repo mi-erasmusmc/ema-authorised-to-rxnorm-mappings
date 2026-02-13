@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004779
+Name of medicine: Vizimpro
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dacomitinib
+Active substance: dacomitinib monohydrate
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01EB07
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Vizimpro, as monotherapy, is indicated for the first-line treatment of adult patients with locally advanced or metastatic non small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) activating mutations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vizimpro

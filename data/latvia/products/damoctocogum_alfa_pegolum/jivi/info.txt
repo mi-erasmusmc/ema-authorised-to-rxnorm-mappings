@@ -1,0 +1,7 @@
+short_name: Jivi
+active_substance: Damoctocogum alfa pegolum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: B02BD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1324/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1324/001/smpc

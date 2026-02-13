@@ -1,0 +1,7 @@
+short_name: Symtuza
+active_substance: Darunavirum, Cobicistatum, Emtricitabinum, Tenofovirum alafenamidum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Cilag S.p.A., Italy
+atc_code: J05AR22
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1225/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1225/001/smpc

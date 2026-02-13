@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004731
+Name of medicine: Breyanzi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: lisocabtagene maraleucel
+Active substance: lisocabtagene maraleucel
+Therapeutic area (MeSH): Lymphoma, Large B-Cell, Diffuse;Lymphoma, Follicular;Mediastinal Neoplasms
+ATC code (human): L01XL08
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Breyanzi is indicated for the treatment of adult patients with diffuse large B-cell lymphoma (DLBCL), high grade B-cell lymphoma (HGBCL), primary mediastinal large B-cell lymphoma (PMBCL) and follicular lymphoma grade 3B (FL3B), who relapsed within 12 months from completion of, or are refractory to, first-line chemoimmunotherapy.&nbsp;&nbsp;   Breyanzi is indicated for the treatment of adult patients with relapsed or refractory DLBCL, PMBCL and FL3B, after two or more lines of systemic therapy.&nbsp; Breyanzi is indicated for the treatment of adult patients with relapsed or refractory follicular lymphoma (FL) after two or more lines of systemic therapy.&nbsp;&nbsp;   Breyanzi is indicated for the treatment of adult patients with relapsed or refractory mantle cell lymphoma (MCL) after at least two lines of systemic therapy including a Bruton’s tyrosine kinase (BTK) inhibitor.&nbsp;
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/breyanzi

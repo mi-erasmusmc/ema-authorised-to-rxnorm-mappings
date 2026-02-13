@@ -1,0 +1,7 @@
+short_name: Berotec N
+active_substance: Fenoteroli hydrobromidum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany
+atc_code: R03AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0611/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0611/smpc

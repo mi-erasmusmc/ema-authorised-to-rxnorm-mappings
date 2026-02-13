@@ -1,0 +1,7 @@
+short_name: Kauliv
+active_substance: Teriparatidum
+marketing_authorisation_holder: Strides Pharma (Cyprus) Limited, Cyprus
+manufacturer: Fairmed Healthcare GmbH, Germany
+atc_code: H05AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1710/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1710/001/smpc

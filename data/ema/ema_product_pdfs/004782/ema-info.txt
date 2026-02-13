@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004782
+Name of medicine: Tegsedi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: inotersen
+Active substance: inotersen sodium
+Therapeutic area (MeSH): Amyloidosis
+ATC code (human): N07
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tegsedi

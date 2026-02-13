@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000127
+Name of medicine: Norvir
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ritonavir
+Active substance: ritonavir
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AE03
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Ritonavir is indicated in combination with other antiretroviral agents for the treatment of HIV-1-infected patients (adults and children of two years of age and older).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/norvir

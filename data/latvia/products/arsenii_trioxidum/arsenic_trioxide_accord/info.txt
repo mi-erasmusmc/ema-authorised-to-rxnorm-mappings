@@ -1,0 +1,7 @@
+short_name: Arsenic trioxide Accord
+active_substance: Arsenii trioxidum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: L01XX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1398/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1398/001/smpc

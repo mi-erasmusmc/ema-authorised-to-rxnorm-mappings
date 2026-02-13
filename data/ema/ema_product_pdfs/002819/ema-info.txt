@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002819
+Name of medicine: Rezolsta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: darunavir;cobicistat
+Active substance: darunavir;cobicistat
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR14
+Pharmacotherapeutic group (human): Antivirals for systemic use;Antivirals for treatment of HIV infections, combinations
+Therapeutic indication: Rezolsta is indicated, in combination with other antiretroviral medicinal products, for the treatment of human immunodeficiency virus 1 (HIV 1) infection in adults and paediatric patients (aged 6years and older, weighing at least 25 kg).Genotypic testing should guide the use of Rezolsta.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rezolsta

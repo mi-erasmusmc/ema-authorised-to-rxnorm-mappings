@@ -1,0 +1,7 @@
+short_name: Bronchial Balsam
+active_substance: Mentholum, Anisi aetheroleum, Capsici tinctura
+marketing_authorisation_holder: AG Farm Baltic, SIA, Latvia
+manufacturer: AG Farm Baltic, SIA, Latvia
+atc_code: R05X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0930/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0930/smpc

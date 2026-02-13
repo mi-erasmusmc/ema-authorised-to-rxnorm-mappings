@@ -1,0 +1,7 @@
+short_name: Raploc
+active_substance: Landiololi hydrochloridum
+marketing_authorisation_holder: Amomed Pharma GmbH, Austria
+manufacturer: AOP Orphan Pharmaceuticals GmbH, Austria
+atc_code: C07AB14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0019/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0019/smpc

@@ -1,0 +1,7 @@
+short_name: Oxaliplatin Kalceks
+active_substance: Oxaliplatinum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: Kalceks, A/S, Latvia
+atc_code: L01XA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0221/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0221/smpc

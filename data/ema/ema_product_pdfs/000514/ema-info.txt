@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000514
+Name of medicine: Fuzeon
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: enfuvirtide
+Active substance: enfuvirtide
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AX07
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Fuzeon is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1-infected patients who have received treatment with and failed on regimens containing at least one medicinal product from each of the following antiretroviral classes: protease inhibitors, non-nucleoside reverse-transcriptase inhibitors and nucleoside reverse-transcriptase inhibitors, or who have intolerance to previous antiretroviral regimens. In deciding on a new regimen for patients who have failed an antiretroviral regimen, careful consideration should be given to the treatment history of the individual patient and the patterns of mutations associated with different medicinal products. Where available, resistance testing may be appropriate.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fuzeon

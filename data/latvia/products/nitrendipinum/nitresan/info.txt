@@ -1,0 +1,7 @@
+short_name: Nitresan
+active_substance: Nitrendipinum
+marketing_authorisation_holder: PRO.MED.CS Praha a.s., Czech Republic
+manufacturer: PRO.MED.CS Praha a.s., Czech Republic
+atc_code: C08CA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0093/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0093/smpc

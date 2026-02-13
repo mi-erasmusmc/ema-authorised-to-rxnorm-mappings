@@ -1,0 +1,7 @@
+short_name: Spikevax JN.1
+active_substance: COVID-19 mRNA vaccine (nucleoside modified)
+marketing_authorisation_holder: Moderna Biotech Spain S.L., Spain
+manufacturer: Patheon Italia S.p.A., Italy; Patheon Italia S.p.A., Italy; ROVI Pharma Industrial Services, S.A., Spain; ROVI Pharma Industrial Services, S.A., Spain; Recipharm Monts, France; Moderna Biotech Spain S.L., Spain
+atc_code: J07BN01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1507/019/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1507/019/smpc

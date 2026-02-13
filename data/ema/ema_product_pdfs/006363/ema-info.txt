@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006363
+Name of medicine: Romvimza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vimseltinib
+Active substance: vimseltinib dihydrate
+Therapeutic area (MeSH): Giant Cell Tumor of Tendon Sheath
+ATC code (human): L01EX
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Romvimza is indicated for treatment of adult patients with symptomatic tenosynovial giant cell tumour (TGCT) associated with clinically relevant physical function deterioration and in whom surgical options have been exhausted or would induce unacceptable morbidity or disability.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/romvimza

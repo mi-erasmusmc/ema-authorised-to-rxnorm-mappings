@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004043
+Name of medicine: Ocrevus
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ocrelizumab
+Active substance: 
+Therapeutic area (MeSH): Multiple Sclerosis
+ATC code (human): L04AG08
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features. Treatment of adult patients with early primary progressive multiple sclerosis (PPMS) in terms of disease duration and level of disability, and with imaging features characteristic of inflammatory activity.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ocrevus

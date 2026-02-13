@@ -1,0 +1,7 @@
+short_name: Vaxelis
+active_substance: Vaccinum diphtheriae, tetani, pertussis sine cellulis ex elementis praeparatum, hepatitidis B (ADNr), poliomyelitidis inactivatum et haemophili stirpis b coniugatum adsorbatum
+marketing_authorisation_holder: MCM Vaccine B.V., Netherlands
+manufacturer: MCM Vaccine B.V., Netherlands
+atc_code: J07CA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1079/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1079/001/smpc

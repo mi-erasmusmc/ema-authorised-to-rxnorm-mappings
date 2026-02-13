@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004210
+Name of medicine: Epclusa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sofosbuvir;velpatasvir
+Active substance: sofosbuvir;velpatasvir
+Therapeutic area (MeSH): Hepatitis C, Chronic
+ATC code (human): J05A
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Epclusa is indicated for the treatment of chronic hepatitis C virus (HCV) infection in patients 3 years of age and older (see sections 4.2, 4.4 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/epclusa

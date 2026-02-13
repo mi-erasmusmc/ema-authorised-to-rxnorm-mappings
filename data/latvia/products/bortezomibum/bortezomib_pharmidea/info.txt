@@ -1,0 +1,7 @@
+short_name: Bortezomib PharmIdea
+active_substance: Bortezomibum
+marketing_authorisation_holder: PharmIdea, SIA, Latvia
+manufacturer: PharmIdea, SIA, Latvia
+atc_code: L01XG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0170/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0170/smpc

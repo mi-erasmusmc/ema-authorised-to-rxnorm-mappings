@@ -1,0 +1,7 @@
+short_name: VaxigripTetra
+active_substance: Vaccinum influenzae inactivatum ex virorum fragmentis praeparatum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Zrt., Hungary; Sanofi Winthrop Industrie, France; Sanofi Winthrop Industrie, France
+atc_code: J07BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0141/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0141/smpc

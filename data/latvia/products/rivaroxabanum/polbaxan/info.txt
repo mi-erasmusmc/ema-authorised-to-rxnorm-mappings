@@ -1,0 +1,7 @@
+short_name: Polbaxan
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zaklady Farmaceutyczne Polpharma S.A., Poland
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0057/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0057/smpc

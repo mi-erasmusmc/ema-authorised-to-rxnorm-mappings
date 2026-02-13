@@ -1,0 +1,7 @@
+short_name: Doptelet
+active_substance: Avatrombopagum
+marketing_authorisation_holder: Swedish Orphan Biovitrum AB (publ), Sweden
+manufacturer: Swedish Orphan Biovitrum AB (publ), Sweden
+atc_code: B02BX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1373/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1373/001/smpc

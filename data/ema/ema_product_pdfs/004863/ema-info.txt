@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004863
+Name of medicine: Staquis
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: crisaborole
+Active substance: Crisaborole
+Therapeutic area (MeSH): Dermatitis, Atopic
+ATC code (human): D11AH06
+Pharmacotherapeutic group (human): Other dermatological preparations
+Therapeutic indication: Staquis is indicated for treatment of mild to moderate atopic dermatitis in adults and paediatric patients from 2 years of age with ? 40% body surface area (BSA) affected.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/staquis

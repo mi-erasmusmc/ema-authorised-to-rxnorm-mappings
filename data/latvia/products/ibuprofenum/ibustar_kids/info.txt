@@ -1,0 +1,7 @@
+short_name: Ibustar Kids
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Berlin-Chemie AG (Menarini Group), Germany
+manufacturer: Berlin-Chemie AG, Germany; Laboratorios Alcala Farma S.L., Spain
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0290/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0290/smpc

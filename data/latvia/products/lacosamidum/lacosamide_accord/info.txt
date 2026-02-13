@@ -1,0 +1,7 @@
+short_name: Lacosamide Accord
+active_substance: Lacosamidum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare Ltd, United Kingdom; Wessling Hungary Ltd, Hungary; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: N03AX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1230/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1230/001/smpc

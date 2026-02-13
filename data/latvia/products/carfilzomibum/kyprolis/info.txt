@@ -1,0 +1,7 @@
+short_name: Kyprolis
+active_substance: Carfilzomibum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen Europe B.V., Netherlands; Amgen Technology Ireland (ADL), Ireland; Amgen NV, Belgium
+atc_code: L01XG02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1060/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1060/001/smpc

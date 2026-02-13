@@ -1,0 +1,7 @@
+short_name: Nizoral
+active_substance: Ketoconazolum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Stada Arzneimittel AG, Germany
+atc_code: D01AC08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0554/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0554/smpc

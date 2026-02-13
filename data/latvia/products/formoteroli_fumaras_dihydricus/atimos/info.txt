@@ -1,0 +1,7 @@
+short_name: Atimos
+active_substance: Formoteroli fumaras dihydricus
+marketing_authorisation_holder: Chiesi Pharmaceuticals GmbH, Austria
+manufacturer: Chiesi Pharmaceuticals GmbH, Austria; Chiesi Farmaceutici S.P.A., Italy
+atc_code: R03AC13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0102/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0102/smpc

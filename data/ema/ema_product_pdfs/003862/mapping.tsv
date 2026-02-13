@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/16/1107/001	36249698	1 ML daclizumab 150 MG/ML Prefilled Syringe [Zinbryta]	1795339	EXACT			2025-12-04
+EU/1/16/1107/002	36249698	1 ML daclizumab 150 MG/ML Prefilled Syringe [Zinbryta]	1795339	EXACT			2025-12-04
+EU/1/16/1107/003	2904266	1 ML daclizumab 150 MG/ML Pen Injector	OMOP5121093	EXACT			2025-12-04
+EU/1/16/1107/004	2904266	1 ML daclizumab 150 MG/ML Pen Injector	OMOP5121093	EXACT			2025-12-04

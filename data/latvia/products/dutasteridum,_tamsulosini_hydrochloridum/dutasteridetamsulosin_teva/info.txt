@@ -1,0 +1,7 @@
+short_name: Dutasteride/Tamsulosin Teva
+active_substance: Dutasteridum, Tamsulosini hydrochloridum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Laboratorios Leon Farma S.A., Spain
+atc_code: G04CA52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0120/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0120/smpc

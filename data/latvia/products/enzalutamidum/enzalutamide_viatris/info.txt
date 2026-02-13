@@ -1,0 +1,7 @@
+short_name: Enzalutamide Viatris
+active_substance: Enzalutamidum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: PharOS MT Ltd., Malta
+atc_code: L02BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1842/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1842/001/smpc

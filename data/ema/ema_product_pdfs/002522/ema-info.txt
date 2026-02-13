@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002522
+Name of medicine: Maci
+Medicine status: Expired
+International non-proprietary name (INN) / common name: matrix-applied characterised autologous cultured chondrocytes
+Active substance: autologous cultured chondrocytes
+Therapeutic area (MeSH): Fractures, Cartilage
+ATC code (human): M09AX02
+Pharmacotherapeutic group (human): Other drugs for disorders of the musculo-skeletal system
+Therapeutic indication: Repair of symptomatic cartilage defects of the knee.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/maci

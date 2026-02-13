@@ -1,0 +1,7 @@
+short_name: Telmisartan/Hydrochlorothiazide TAD
+active_substance: Telmisartanum, Hydrochlorothiazidum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: Krka Polska Sp. z o.o., Poland; KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: C09DA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0191/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0191/smpc

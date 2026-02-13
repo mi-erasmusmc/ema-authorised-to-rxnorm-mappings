@@ -1,0 +1,7 @@
+short_name: Betoptic
+active_substance: Betaxololum
+marketing_authorisation_holder: Immedica Pharma AB, Sweden
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Siegfried El Masnou, S.A., Spain; Alcon-Couvreur N.V., Belgium; Immedica Pharma AB, Sweden
+atc_code: S01ED02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-1056/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-1056/smpc

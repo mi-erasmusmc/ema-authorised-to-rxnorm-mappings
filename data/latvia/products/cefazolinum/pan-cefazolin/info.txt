@@ -1,0 +1,7 @@
+short_name: Pan-Cefazolin
+active_substance: Cefazolinum
+marketing_authorisation_holder: Panpharma, France
+manufacturer: Biopharma S.r.l., Italy; Panpharma, France
+atc_code: J01DB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0621/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0621/smpc

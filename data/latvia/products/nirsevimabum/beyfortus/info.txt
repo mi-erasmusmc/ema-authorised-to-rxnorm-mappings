@@ -1,0 +1,7 @@
+short_name: Beyfortus
+active_substance: Nirsevimabum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: AstraZeneca AB, Sweden
+atc_code: J06BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1689/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1689/001/smpc

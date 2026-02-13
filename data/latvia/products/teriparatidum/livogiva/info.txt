@@ -1,0 +1,7 @@
+short_name: LIVOGIVA
+active_substance: Teriparatidum
+marketing_authorisation_holder: Theramex Ireland Limited, Ireland
+manufacturer: Eurofins PROXY Laboratories B.V., Netherlands
+atc_code: H05AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1462/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1462/001/smpc

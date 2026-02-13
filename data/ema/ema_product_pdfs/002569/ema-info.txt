@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002569
+Name of medicine: Vargatef
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: nintedanib
+Active substance: nintedanib
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01XE3
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Vargatef is indicated in combination with docetaxel for the treatment of adult patients with locally advanced, metastatic or locally recurrent non-small cell lung cancer (NSCLC) of adenocarcinoma tumour histology after first line chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vargatef

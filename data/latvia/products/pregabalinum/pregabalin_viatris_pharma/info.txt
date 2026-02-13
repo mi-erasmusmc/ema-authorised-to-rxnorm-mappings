@@ -1,0 +1,7 @@
+short_name: Pregabalin Viatris Pharma
+active_substance: Pregabalinum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Pfizer Manufacturing Deutschland GmbH, Germany; Mylan Hungary Kft., Hungary
+atc_code: N02BF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/916/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/916/001/smpc

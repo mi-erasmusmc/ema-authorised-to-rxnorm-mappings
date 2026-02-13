@@ -1,0 +1,7 @@
+short_name: Exblifep
+active_substance: Cefepimum, Enmetazobactamum
+marketing_authorisation_holder: Advanz Pharma Limited, Ireland
+manufacturer: Infosaude-Instituto de Formacao e Inovacao em Saude, S.A., Portugal
+atc_code: J01DE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1794/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1794/001/smpc

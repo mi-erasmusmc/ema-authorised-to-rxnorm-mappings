@@ -1,0 +1,7 @@
+short_name: Dacepton
+active_substance: Apomorphini hydrochloridum hemihydricum
+marketing_authorisation_holder: EVER Neuro Pharma GmbH, Austria
+manufacturer: EVER Neuro Pharma GmbH, Austria
+atc_code: N04BC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0308/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0308/smpc

@@ -1,0 +1,7 @@
+short_name: Clopidogrel Zentiva
+active_substance: Clopidogrelum
+marketing_authorisation_holder: Zentiva k.s., Czech Republic
+manufacturer: Sanofi Winthrop Industrie, France; Delpharm Dijon, France; Zentiva S.A., Romania; Zentiva Pharma UK Limited, United Kingdom
+atc_code: B01AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/465/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/465/001/smpc

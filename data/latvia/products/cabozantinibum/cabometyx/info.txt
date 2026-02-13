@@ -1,0 +1,7 @@
+short_name: Cabometyx
+active_substance: Cabozantinibum
+marketing_authorisation_holder: Ipsen Pharma SAS, France
+manufacturer: Patheon France, France; TjoaPack Netherlands B.V., Netherlands
+atc_code: L01EX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1136/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1136/001/smpc

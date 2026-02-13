@@ -1,0 +1,7 @@
+short_name: Plegridy
+active_substance: Peginterferonum beta-1a
+marketing_authorisation_holder: Biogen Netherlands B.V., Netherlands
+manufacturer: Biogen Netherlands B.V., Netherlands; FUJIFILM Diosynth Biotechnologies Denmark ApS, Denmark
+atc_code: L03AB13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/934/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/934/001/smpc

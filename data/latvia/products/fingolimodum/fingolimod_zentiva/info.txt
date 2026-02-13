@@ -1,0 +1,7 @@
+short_name: Fingolimod Zentiva
+active_substance: Fingolimodum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: S.C. Zentiva S.A., Romania; Labormed - Pharma S.A., Romania
+atc_code: L04AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0145/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0145/smpc

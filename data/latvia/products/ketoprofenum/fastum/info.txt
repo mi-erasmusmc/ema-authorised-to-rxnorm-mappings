@@ -1,0 +1,7 @@
+short_name: Fastum
+active_substance: Ketoprofenum
+marketing_authorisation_holder: A. Menarini Industrie Farmaceutiche Riunite s.r.l., Italy
+manufacturer: A.Menarini Manufacturing Logistics and Services, Italy
+atc_code: M02AA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0244/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0244/smpc

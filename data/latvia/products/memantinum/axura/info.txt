@@ -1,0 +1,7 @@
+short_name: Axura
+active_substance: Memantinum
+marketing_authorisation_holder: Merz Pharmaceuticals GmbH, Germany
+manufacturer: Merz Pharma GmbH & Co. KGaA, Germany
+atc_code: N06DX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/218/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/218/001/smpc

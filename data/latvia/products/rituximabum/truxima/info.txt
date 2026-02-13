@@ -1,0 +1,7 @@
+short_name: Truxima
+active_substance: Rituximabum
+marketing_authorisation_holder: Celltrion Healthcare Hungary Kft., Hungary
+manufacturer: Millmount Healthcare Ltd., Ireland; Nuvisan GmbH, Germany; Kymos, S.L., Spain; Nuvisan France SARL, France; Midas Pharma GmbH, Germany
+atc_code: L01FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1167/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1167/001/smpc

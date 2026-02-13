@@ -1,0 +1,7 @@
+short_name: Fitolizyn
+active_substance: Graminis rhizomae extractum, Allii cepae squamae extractum, Betulae folii extractum, Foenugraeci seminis extractum, Petroselini radicis extractum, Solidaginis herbae extractum, Equiseti herbae extractum, Levistici radicis extractum, Polygoni avicularis herbae extractum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Herbapol Warszawa Sp.z o.o., Poland
+atc_code: G04BX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0547/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0547/smpc

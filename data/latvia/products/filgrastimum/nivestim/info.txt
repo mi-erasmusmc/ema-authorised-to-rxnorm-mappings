@@ -1,0 +1,7 @@
+short_name: Nivestim
+active_substance: Filgrastimum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Hospira Zagreb d.o.o., Croatia
+atc_code: L03AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/631/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/631/001/smpc

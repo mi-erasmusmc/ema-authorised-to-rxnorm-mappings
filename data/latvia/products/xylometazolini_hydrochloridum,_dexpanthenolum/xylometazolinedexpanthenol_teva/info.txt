@@ -1,0 +1,7 @@
+short_name: Xylometazoline/Dexpanthenol Teva
+active_substance: Xylometazolini hydrochloridum, Dexpanthenolum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Pliva Hrvatska d.o.o., Croatia
+atc_code: R01AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0004/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0004/smpc

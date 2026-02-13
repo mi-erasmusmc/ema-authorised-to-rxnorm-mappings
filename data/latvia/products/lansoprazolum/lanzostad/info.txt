@@ -1,0 +1,7 @@
+short_name: Lanzostad
+active_substance: Lansoprazolum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Doppel Farmaceutici S.R.L., Italy; Stada Arzneimittel AG, Germany; Laboratorios Liconsa, S.A., Spain; Cosmo S.p.A., Italy; Lamp San Prospero S.p.A., Italy; Clonmel Healthcare Ltd., Ireland
+atc_code: A02BC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0376/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0376/smpc

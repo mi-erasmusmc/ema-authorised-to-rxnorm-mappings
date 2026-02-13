@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004197
+Name of medicine: Axumin
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fluciclovine (18F)
+Active substance: fluciclovine (18F)
+Therapeutic area (MeSH): Prostatic Neoplasms;Radionuclide Imaging
+ATC code (human): V09IX12
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: This medicinal product is for diagnostic use only. Axumin is indicated for Positron Emission Tomography (PET) imaging to detect recurrence of prostate cancer in adult men with a suspected recurrence based on elevated blood prostate specific antigen (PSA) levels after primary curative treatment.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/axumin

@@ -1,0 +1,7 @@
+short_name: Cinnabsin N
+active_substance: Cinnabaris, Hydrastis, Kalium bichromicum, Echinacea angustifolia
+marketing_authorisation_holder: Alpen Pharma GmbH, Germany
+manufacturer: Dr. Gustav Klein GmbH & Co. KG, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0013/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0013/smpc

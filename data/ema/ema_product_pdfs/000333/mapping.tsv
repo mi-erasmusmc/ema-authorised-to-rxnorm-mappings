@@ -1,0 +1,72 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/01/184/001	46221595	0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe	1605171	EXACT			2025-12-04
+EU/1/01/184/002	46221595	0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe	1605171	EXACT			2025-12-04
+EU/1/01/184/003	21050012	0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286062	EXACT			2025-12-04
+EU/1/01/184/004	21050012	0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286062	EXACT			2025-12-04
+EU/1/01/184/005	42902492	darbepoetin alfa 0.2 MG/ML Prefilled Syringe	1359605	EXACT			2025-12-04
+EU/1/01/184/006	21049381	0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286717	EXACT			2025-12-04
+EU/1/01/184/007	21049324	0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	OMOP285675	EXACT			2025-12-04
+EU/1/01/184/008	21049324	0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	OMOP285675	EXACT			2025-12-04
+EU/1/01/184/009	1304792	0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	731181	EXACT			2025-12-04
+EU/1/01/184/010	1304792	0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	731181	EXACT			2025-12-04
+EU/1/01/184/011	21069063	0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	OMOP286701	EXACT			2025-12-04
+EU/1/01/184/012	21069063	0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	OMOP286701	EXACT			2025-12-04
+EU/1/01/184/013	1304767	0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	731167	EXACT			2025-12-04
+EU/1/01/184/014	1304767	0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	731167	EXACT			2025-12-04
+EU/1/01/184/015	21098415	0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	OMOP286270	EXACT			2025-12-04
+EU/1/01/184/016	21098415	0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	OMOP286270	EXACT			2025-12-04
+EU/1/01/184/018	19127380	0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	730044	EXACT			2025-12-04
+EU/1/01/184/019	1304768	0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731171	EXACT			2025-12-04
+EU/1/01/184/020	1304768	0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731171	EXACT			2025-12-04
+EU/1/01/184/021	1304771	0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731179	EXACT			2025-12-04
+EU/1/01/184/022	1304771	0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731179	EXACT			2025-12-04
+EU/1/01/184/023							2025-12-04
+EU/1/01/184/024	35156253	1 ML darbepoetin alfa 0.015 MG/ML Prefilled Syringe	OMOP4813263	EXACT			2025-12-04
+EU/1/01/184/025	1304644	1 ML darbepoetin alfa 0.025 MG/ML Injection	349273	EXACT			2025-12-04
+EU/1/01/184/026	1304644	1 ML darbepoetin alfa 0.025 MG/ML Injection	349273	EXACT			2025-12-04
+EU/1/01/184/027	1304645	1 ML darbepoetin alfa 0.04 MG/ML Injection	349274	EXACT			2025-12-04
+EU/1/01/184/028	1304645	1 ML darbepoetin alfa 0.04 MG/ML Injection	349274	EXACT			2025-12-04
+EU/1/01/184/029	1304646	1 ML darbepoetin alfa 0.06 MG/ML Injection	349275	EXACT			2025-12-04
+EU/1/01/184/030	1304646	1 ML darbepoetin alfa 0.06 MG/ML Injection	349275	EXACT			2025-12-04
+EU/1/01/184/031	1304793	1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731184	EXACT			2025-12-04
+EU/1/01/184/032	1304793	1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731184	EXACT			2025-12-04
+EU/1/01/184/033	46221595	0.4 ML darbepoetin alfa 0.025 MG/ML Prefilled Syringe	1605171	EXACT			2025-12-04
+EU/1/01/184/034	46234266	darbepoetin alfa 0.15 MG Injection	1654952	NARROW			2025-12-04
+EU/1/01/184/035							2025-12-04
+EU/1/01/184/036	21049324	0.3 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	OMOP285675	EXACT			2025-12-04
+EU/1/01/184/037	1304792	0.4 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	731181	EXACT			2025-12-04
+EU/1/01/184/038	21069063	0.5 ML darbepoetin alfa 0.1 MG/ML Prefilled Syringe	OMOP286701	EXACT			2025-12-04
+EU/1/01/184/039	1304767	0.3 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	731167	EXACT			2025-12-04
+EU/1/01/184/040	21098415	0.4 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	OMOP286270	EXACT			2025-12-04
+EU/1/01/184/041	19127380	0.5 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	730044	EXACT			2025-12-04
+EU/1/01/184/042	1304768	0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731171	EXACT			2025-12-04
+EU/1/01/184/043	1304771	0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731179	EXACT			2025-12-04
+EU/1/01/184/044	1304793	1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe	731184	EXACT			2025-12-04
+EU/1/01/184/045	2901922	0.4 ML darbepoetin alfa 0.025 MG/ML Pen Injector	OMOP5118799	EXACT			2025-12-04
+EU/1/01/184/046	21050012	0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286062	BROAD			2025-12-04
+EU/1/01/184/047	2902054	0.5 ML darbepoetin alfa 0.04 MG/ML Pen Injector	OMOP5118927	EXACT			2025-12-04
+EU/1/01/184/048	2901856	0.3 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118737	EXACT			2025-12-04
+EU/1/01/184/049	2901917	0.4 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118795	EXACT			2025-12-04
+EU/1/01/184/050	2902050	0.5 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118923	EXACT			2025-12-04
+EU/1/01/184/051	2901851	0.3 ML darbepoetin alfa 0.2 MG/ML Pen Injector	OMOP5118733	EXACT			2025-12-04
+EU/1/01/184/052	2901913	0.4 ML darbepoetin alfa 0.2 MG/ML Pen Injector	OMOP5118791	EXACT			2025-12-04
+EU/1/01/184/053	2902046	0.5 ML darbepoetin alfa 0.2 MG/ML Pen Injector	OMOP5118919	EXACT			2025-12-04
+EU/1/01/184/054	36280959	0.3 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3131834	EXACT			2025-12-04
+EU/1/01/184/055	36281257	0.6 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3132132	EXACT			2025-12-04
+EU/1/01/184/056	36278018	1 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3128893	EXACT			2025-12-04
+EU/1/01/184/057	2901922	0.4 ML darbepoetin alfa 0.025 MG/ML Pen Injector	OMOP5118799	EXACT			2025-12-04
+EU/1/01/184/058	21050012	0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286062	BROAD			2025-12-04
+EU/1/01/184/059	2902054	0.5 ML darbepoetin alfa 0.04 MG/ML Pen Injector	OMOP5118927	EXACT			2025-12-04
+EU/1/01/184/060	2901856	0.3 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118737	EXACT			2025-12-04
+EU/1/01/184/061	2901917	0.4 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118795	EXACT			2025-12-04
+EU/1/01/184/062	2902050	0.5 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118923	EXACT			2025-12-04
+EU/1/01/184/063	2901851	0.3 ML darbepoetin alfa 0.2 MG/ML Pen Injector	OMOP5118733	EXACT			2025-12-04
+EU/1/01/184/064	2901913	0.4 ML darbepoetin alfa 0.2 MG/ML Pen Injector	OMOP5118791	EXACT			2025-12-04
+EU/1/01/184/065	2902046	0.5 ML darbepoetin alfa 0.2 MG/ML Pen Injector	OMOP5118919	EXACT			2025-12-04
+EU/1/01/184/066	36280959	0.3 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3131834	EXACT			2025-12-04
+EU/1/01/184/067	36281257	0.6 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3132132	EXACT			2025-12-04
+EU/1/01/184/068	36278018	1 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3128893	EXACT			2025-12-04
+EU/1/01/184/069	21128432	0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	OMOP287679	EXACT			2025-12-04
+EU/1/01/184/071	1304795	0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp]	731229	NARROW			2025-12-04
+EU/1/01/184/072	21128432	0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	OMOP287679	EXACT			2025-12-04
+EU/1/01/184/073	21128432	0.65 ML darbepoetin alfa 0.2 MG/ML Prefilled Syringe	OMOP287679	BROAD			2025-12-04

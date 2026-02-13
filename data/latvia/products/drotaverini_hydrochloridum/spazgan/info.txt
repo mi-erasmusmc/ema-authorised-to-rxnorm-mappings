@@ -1,0 +1,7 @@
+short_name: Spazgan
+active_substance: Drotaverini hydrochloridum
+marketing_authorisation_holder: Stirolbiofarm Baltikum, SIA, Latvia
+manufacturer: BRIZ, SIA, Latvia
+atc_code: A03AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0277/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0277/smpc

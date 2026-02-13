@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000758
+Name of medicine: Optaflu
+Medicine status: Expired
+International non-proprietary name (INN) / common name: influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
+Active substance: influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of the following strains:A/California/7/2009 (H1N1)pdm09 - like strain(A/Brisbane/10/2010, wild type)A/Switzerland/9715293/2013 (H3N2) - like strain(A/South Australia/55/2014, wild type)B/Phuket/3073/2013–like strain(B/Utah/9/2014, wild type)
+Therapeutic area (MeSH): Influenza, Human;Immunization
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Prophylaxis of influenza for adults, especially in those who run an increased risk of associated complications. Optaflu should be used in accordance to official guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/optaflu

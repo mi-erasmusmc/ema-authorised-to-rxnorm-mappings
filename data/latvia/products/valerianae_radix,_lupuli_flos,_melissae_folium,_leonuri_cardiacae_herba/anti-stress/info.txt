@@ -1,0 +1,7 @@
+short_name: Anti-stress
+active_substance: Valerianae radix, Lupuli flos, Melissae folium, Leonuri cardiacae herba
+marketing_authorisation_holder: Labofarm Sp. z o.o., Poland
+manufacturer: Labofarm Sp. z o.o., Poland
+atc_code: N05CM
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0839/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0839/smpc

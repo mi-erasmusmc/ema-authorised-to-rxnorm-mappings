@@ -1,0 +1,7 @@
+short_name: Almiral
+active_substance: Diclofenacum diethylaminum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Cyprus
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0123/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0123/smpc

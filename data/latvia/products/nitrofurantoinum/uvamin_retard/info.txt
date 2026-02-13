@@ -1,0 +1,7 @@
+short_name: Uvamin retard
+active_substance: Nitrofurantoinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany
+atc_code: J01XE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1183/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1183/smpc

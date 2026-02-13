@@ -1,0 +1,7 @@
+short_name: Vimkunya
+active_substance: Vaccinum Chikungunya (recombinandorum, adsorbatum)
+marketing_authorisation_holder: Bavarian Nordic A/S, Denmark
+manufacturer: Bavarian Nordic A/S, Denmark
+atc_code: Nav_piešķirts
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1916/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1916/001/smpc

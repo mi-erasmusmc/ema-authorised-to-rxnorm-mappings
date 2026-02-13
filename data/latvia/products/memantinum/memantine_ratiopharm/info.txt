@@ -1,0 +1,7 @@
+short_name: Memantine ratiopharm
+active_substance: Memantinum
+marketing_authorisation_holder: Ratiopharm GmbH, Germany
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; HBM Pharma s.r.o., Slovakia
+atc_code: N06DX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/836/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/836/001/smpc

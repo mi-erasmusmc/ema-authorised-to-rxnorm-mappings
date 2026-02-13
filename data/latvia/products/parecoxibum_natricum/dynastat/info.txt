@@ -1,0 +1,7 @@
+short_name: Dynastat
+active_substance: Parecoxibum natricum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: M01AH04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/209/005/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/209/005/smpc

@@ -1,0 +1,7 @@
+short_name: Miglustat Dipharma
+active_substance: Miglustatum
+marketing_authorisation_holder: Dipharma Arzneimittel GmbH, Germany
+manufacturer: Doppel Farmaceutici S.R.L., Italy
+atc_code: A16AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1346/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1346/001/smpc

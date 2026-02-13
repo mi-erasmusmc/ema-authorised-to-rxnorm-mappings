@@ -1,0 +1,7 @@
+short_name: Calvinia
+active_substance: Rizatriptanum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Laboratorios Normon S.A., Spain
+atc_code: N02CC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0040/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0040/smpc

@@ -1,0 +1,7 @@
+short_name: Onytec
+active_substance: Ciclopiroxum
+marketing_authorisation_holder: Polichem SA, Luxembourg
+manufacturer: Almirall Hermal GmbH, Germany; Doppel Farmaceutici S.R.L., Italy; Alfasigma S.p.A., Italy
+atc_code: D01AE14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0140/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0140/smpc

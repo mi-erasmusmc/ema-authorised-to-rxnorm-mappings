@@ -1,0 +1,7 @@
+short_name: Otipax
+active_substance: Phenazonum, Lidocaini hydrochloridum
+marketing_authorisation_holder: Biocodex, France
+manufacturer: Biocodex, France
+atc_code: S02DA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0222/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0222/smpc

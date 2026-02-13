@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004878
+Name of medicine: Daurismo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: glasdegib
+Active substance: Glasdegib maleate
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): L01XX63
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Daurismo is indicated, in combination with low-dose cytarabine, for the treatment of newly diagnosed de novo or secondary acute myeloid leukaemia (AML) in adult patients who are not candidates for standard induction chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/daurismo

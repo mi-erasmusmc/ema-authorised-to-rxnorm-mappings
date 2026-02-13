@@ -1,0 +1,7 @@
+short_name: Riluzole Zentiva
+active_substance: Riluzolum
+marketing_authorisation_holder: Zentiva k.s., Czech Republic
+manufacturer: Sanofi Winthrop Industrie, France; Winthrop Arzneimittel GmbH, Germany
+atc_code: N07XX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/768/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/768/001/smpc

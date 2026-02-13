@@ -1,0 +1,7 @@
+short_name: Silapo
+active_substance: Epoetinum zeta
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany
+atc_code: B03XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/432/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/432/001/smpc

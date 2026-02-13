@@ -1,0 +1,7 @@
+short_name: Bimervax LP.8.1
+active_substance: COVID-19 Vaccine (recombinant, adjuvanted)
+marketing_authorisation_holder: Hipra Human Health S.L., Spain
+manufacturer: Laboratorios Hipra  S.A., Spain
+atc_code: J07BN04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1709/008/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1709/008/smpc

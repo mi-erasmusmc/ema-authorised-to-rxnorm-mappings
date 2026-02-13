@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005963
+Name of medicine: Dimethyl fumarate Teva
+Medicine status: Revoked
+International non-proprietary name (INN) / common name: dimethyl fumarate
+Active substance: dimethyl fumarate
+Therapeutic area (MeSH): Multiple Sclerosis, Relapsing-Remitting;Multiple Sclerosis
+ATC code (human): L04AX07
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Dimethyl fumarate Teva is indicated for the treatment of adult and paediatric patients aged 13 years and older with relapsing remitting multiple sclerosis (RRMS).
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-teva

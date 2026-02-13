@@ -1,0 +1,7 @@
+short_name: Pramipexole Orion
+active_substance: Pramipexolum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation, Finland; Orion Corporation Orion Pharma, Finland
+atc_code: N04BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0053/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0053/smpc

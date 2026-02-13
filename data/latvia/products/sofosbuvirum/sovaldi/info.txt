@@ -1,0 +1,7 @@
+short_name: Sovaldi
+active_substance: Sofosbuvirum
+marketing_authorisation_holder: Gilead Sciences Ireland UC, Ireland
+manufacturer: Gilead Sciences Ireland UC, Ireland
+atc_code: J05AP08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/894/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/894/001/smpc

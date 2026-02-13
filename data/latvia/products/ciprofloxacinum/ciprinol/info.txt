@@ -1,0 +1,7 @@
+short_name: Ciprinol
+active_substance: Ciprofloxacinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: J01MA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0164/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0164/smpc

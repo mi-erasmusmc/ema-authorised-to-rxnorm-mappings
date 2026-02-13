@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005898
+Name of medicine: Orserdu
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: elacestrant
+Active substance: elacestrant
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L02BA
+Pharmacotherapeutic group (human): Endocrine therapy
+Therapeutic indication: Orserdu monotherapy is indicated for the treatment of postmenopausal women, and men, with estrogen receptor (ER) positive, HER2-negative, locally advanced or metastatic breast cancer with an activating ESR1 mutation who have disease progression following at least one line of endocrine therapy including a CDK 4/6 inhibitor.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/orserdu

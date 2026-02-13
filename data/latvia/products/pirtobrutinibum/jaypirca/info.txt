@@ -1,0 +1,7 @@
+short_name: Jaypirca
+active_substance: Pirtobrutinibum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly S.A., Spain
+atc_code: L01EL05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1738/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1738/001/smpc

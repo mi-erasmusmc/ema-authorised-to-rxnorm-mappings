@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005127
+Name of medicine: Nexpovio
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: selinexor
+Active substance: selinexor
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): L01XX66
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: NEXPOVIO is indicated  in combination with bortezomib and dexamethasone for the treatment of adult patients with multiple myeloma who have received at least one prior therapy. in combination with dexamethasone for the treatment of multiple myeloma in adult patients who have received at least four prior therapies and whose disease is refractory to at least two proteasome inhibitors, two immunomodulatory agents and an anti-CD38 monoclonal antibody, and who have demonstrated disease progression on the last therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nexpovio

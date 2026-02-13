@@ -1,0 +1,7 @@
+short_name: Voltaren Akti
+active_substance: Diclofenacum kalicum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Doppel Farmaceutici S.R.L., Italy; Delpharm L' Aigle, France; Haleon Germany GmbH, Germany
+atc_code: M01AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0291/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0291/smpc

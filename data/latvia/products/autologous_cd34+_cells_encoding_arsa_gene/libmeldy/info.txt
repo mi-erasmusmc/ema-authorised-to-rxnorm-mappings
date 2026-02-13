@@ -1,0 +1,7 @@
+short_name: Libmeldy
+active_substance: Autologous CD34+ cells encoding ARSA gene
+marketing_authorisation_holder: Orchard Therapeutics (Netherlands) BV, Netherlands
+manufacturer: AGC Biologics S.p.A., Italy; AGC Biologics S.p.A., Italy
+atc_code: A16AB21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1493/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1493/001/smpc

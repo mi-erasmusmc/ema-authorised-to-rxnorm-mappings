@@ -1,0 +1,7 @@
+short_name: Praxbind
+active_substance: Idarucizumabum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany
+atc_code: V03AB37
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1056/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1056/001/smpc

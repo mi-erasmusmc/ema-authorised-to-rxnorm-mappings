@@ -1,0 +1,7 @@
+short_name: Nurofen Express
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Reckitt Benckiser (Poland) S.A., Poland
+manufacturer: SIA Elvim, Latvia; RB NL Brands B.V., Netherlands
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0056/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0056/smpc

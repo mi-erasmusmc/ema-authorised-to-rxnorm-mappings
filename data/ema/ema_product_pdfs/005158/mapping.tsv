@@ -1,0 +1,6 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/19/1357/001	19098170	0.8 ML adalimumab 50 MG/ML Injection	351290	EXACT			2025-12-04
+EU/1/19/1357/002	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
+EU/1/19/1357/003	42922664	0.8 ML adalimumab 50 MG/ML Pen Injector	OMOP4649471	EXACT			2025-12-04
+EU/1/19/1357/004	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
+EU/1/19/1357/005	42922664	0.8 ML adalimumab 50 MG/ML Pen Injector	OMOP4649471	EXACT			2025-12-04

@@ -1,0 +1,7 @@
+short_name: Plategra
+active_substance: Ticagrelorum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: AdAlvo Limited, Malta; KeVaRo Group Ltd., Bulgaria; PGF Pharma International d.o.o., Croatia
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0030/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0030/smpc

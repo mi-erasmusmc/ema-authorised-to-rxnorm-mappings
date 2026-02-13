@@ -1,0 +1,7 @@
+short_name: Elfabrio
+active_substance: Pegunigalsidasum alfa
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Chiesi Farmaceutici S.P.A., Italy
+atc_code: A16AB20
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1724/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1724/001/smpc

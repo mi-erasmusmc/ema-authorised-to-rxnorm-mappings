@@ -1,0 +1,7 @@
+short_name: Hycamtin
+active_substance: Topotecanum
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: GlaxoSmithKline Manufacturing S.p.A., Italy; Novartis Pharma GmbH, Germany; Novartis Farmaceutica S.A., Spain; Novartis Pharmaceuticals UK Limited, United Kingdom
+atc_code: L01CE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/027/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/027/001/smpc

@@ -1,0 +1,7 @@
+short_name: Valdoxan
+active_substance: Agomelatinum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France; Przedsiebiorstwo Farmaceutyczne ANPHARM S.A., Poland; Servier (Ireland) Industries Ltd, Ireland; Laboratorios Servier S.L., Spain
+atc_code: N06AX22
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/499/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/499/002/smpc

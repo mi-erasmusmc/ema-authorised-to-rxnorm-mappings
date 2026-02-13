@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000962
+Name of medicine: Ifirmasta (previously Irbesartan Krka)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: irbesartan
+Active substance: irbesartan hydrochloride
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09CA04
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of essential hypertension. Treatment of renal disease in patients with hypertension and type 2 diabetes mellitus as part of an antihypertensive medicinal product regimen.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ifirmasta

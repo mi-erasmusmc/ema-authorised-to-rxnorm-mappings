@@ -1,0 +1,7 @@
+short_name: Zovirax Duo
+active_substance: Aciclovirum, Hydrocortisonum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Haleon Denmark ApS, Denmark; Haleon Germany GmbH, Germany; N.V. Haleon Belgium S.A., Belgium; Haleon-Gebro Consumer Health GmbH, Austria
+atc_code: D06BB53
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0081/smpc

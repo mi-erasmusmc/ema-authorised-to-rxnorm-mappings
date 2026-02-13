@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000982
+Name of medicine: Celvapan
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: influenza vaccine (H1N1)v (whole virion, Vero cell derived, inactivated)
+Active substance: whole virion influenza vaccine, inactivated containing antigen of strain A/California/07/2009 (H1N1)v
+Therapeutic area (MeSH): Disease Outbreaks;Influenza, Human;Immunization
+ATC code (human): J07BB01
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Prophylaxis of influenza caused by A(H1N1)v 2009 virus. Celvapan should be used in accordance with official guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/celvapan

@@ -1,0 +1,7 @@
+short_name: Ferrola
+active_substance: Ferrosi sulfas desiccatus, Acidum folicum
+marketing_authorisation_holder: Wörwag Pharma GmbH & Co.KG, Germany
+manufacturer: Lomapharm GmbH, Germany
+atc_code: B03AD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0111/smpc

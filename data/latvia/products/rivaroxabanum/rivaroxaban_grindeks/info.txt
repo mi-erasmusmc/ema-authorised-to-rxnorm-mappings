@@ -1,0 +1,7 @@
+short_name: Rivaroxaban Grindeks
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia; Pharmaceutical Works Polpharma SA, Poland
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0152/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0152/smpc

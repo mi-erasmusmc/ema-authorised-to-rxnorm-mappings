@@ -1,0 +1,7 @@
+short_name: Solpadeine
+active_substance: Coffeinum, Codeini phosphas hemihydricus, Paracetamolum
+marketing_authorisation_holder: Perrigo Romania SRL, Romania
+manufacturer: GlaxoSmithKline Dungarvan Ltd., Ireland; Swiss Caps GmbH, Germany
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001667/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001667/smpc

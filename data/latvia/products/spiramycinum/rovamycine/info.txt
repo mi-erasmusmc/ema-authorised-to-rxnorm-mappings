@@ -1,0 +1,7 @@
+short_name: Rovamycine
+active_substance: Spiramycinum
+marketing_authorisation_holder: The Simple Pharma Company Limited, Ireland
+manufacturer: SANOFI-AVENTIS Zrt., Hungary; Sanofi S.r.l., Italy
+atc_code: J01FA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0284/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0284/smpc

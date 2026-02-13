@@ -1,0 +1,7 @@
+short_name: Lenalidomide Krka
+active_substance: Lenalidomidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany; KRKA-FARMA d.o.o., Croatia
+atc_code: L04AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1519/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1519/001/smpc

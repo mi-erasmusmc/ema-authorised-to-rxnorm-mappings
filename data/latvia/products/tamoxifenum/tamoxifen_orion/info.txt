@@ -1,0 +1,7 @@
+short_name: Tamoxifen Orion
+active_substance: Tamoxifenum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma Espoo plant, Finland; Orion Corporation Orion Pharma, Finland
+atc_code: L02BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0191/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0191/smpc

@@ -1,0 +1,7 @@
+short_name: Normosang
+active_substance: Haeminum humanum
+marketing_authorisation_holder: Recordati Rare Diseases, France
+manufacturer: Recordati Rare Diseases, France; Recordati Rare Diseases, France
+atc_code: B06AB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0218/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0218/smpc

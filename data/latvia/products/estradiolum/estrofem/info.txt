@@ -1,0 +1,7 @@
+short_name: Estrofem
+active_substance: Estradiolum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: G03CA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0579/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0579/smpc

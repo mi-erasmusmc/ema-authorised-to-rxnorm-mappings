@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005130
+Name of medicine: Pedmarqsi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sodium thiosulfate
+Active substance: sodium thiosulfate
+Therapeutic area (MeSH): Ear Diseases;Ototoxicity
+ATC code (human): 
+Pharmacotherapeutic group (human): All other therapeutic products
+Therapeutic indication: Pedmarqsi is indicated for the prevention of ototoxicity induced by cisplatin chemotherapy in patients 1 month to &lt; 18 years of age with localised, non-metastatic, solid tumours.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pedmarqsi

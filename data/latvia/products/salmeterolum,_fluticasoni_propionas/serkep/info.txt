@@ -1,0 +1,7 @@
+short_name: Serkep
+active_substance: Salmeterolum, Fluticasoni propionas
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: McDermott Laboratories Limited, T/A Mylan Dublin Respiratory, Ireland; McDermott Laboratories Limited, T/A Gerard Laboratories, Ireland; Mylan Germany GmbH, Germany
+atc_code: R03AK06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0255/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0255/smpc

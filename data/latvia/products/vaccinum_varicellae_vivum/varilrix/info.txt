@@ -1,0 +1,7 @@
+short_name: Varilrix
+active_substance: Vaccinum varicellae vivum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07BK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0553/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0553/smpc

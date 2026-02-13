@@ -1,0 +1,7 @@
+short_name: Vinpocetine Covex S.A.
+active_substance: Vinpocetinum
+marketing_authorisation_holder: COVEX S.A., Spain
+manufacturer: COVEX S.A., Spain
+atc_code: N06BX18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0128/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0128/smpc

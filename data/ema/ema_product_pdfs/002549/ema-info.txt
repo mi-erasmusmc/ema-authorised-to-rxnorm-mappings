@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002549
+Name of medicine: Tolucombi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: telmisartan;hydrochlorothiazide
+Active substance: telmisartan;hydrochlorothiazide
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09DA07
+Pharmacotherapeutic group (human): telmisartan and diuretics
+Therapeutic indication: Tolucombi fixed-dose combination (80 mg telmisartan/25 mg hydrochlorothiazide) is indicated in adults whose blood pressure is not adequately controlled on Tolucombi 80 mg/12.5 mg (80 mg telmisartan/12.5 mg hydrochlorothiazide) or adults who have been previously stabilised on telmisartan and hydrochlorothiazide given separately.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tolucombi

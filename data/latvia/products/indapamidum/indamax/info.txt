@@ -1,0 +1,7 @@
+short_name: Indamax
+active_substance: Indapamidum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Teva Pharmaceutical Works Private Limited Company, Hungary; Pharmachemie B.V., Netherlands
+atc_code: C03BA11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0006/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0006/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006322
+Name of medicine: Oczyesa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: octreotide
+Active substance: octreotide hydrochloride
+Therapeutic area (MeSH): Acromegaly
+ATC code (human): H01CB02
+Pharmacotherapeutic group (human): Pituitary and hypothalamic hormones and analogues
+Therapeutic indication: Oczyesa is indicated for maintenance treatment in adult patients with acromegaly who have responded to and tolerated treatment with somatostatin analogues.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/oczyesa

@@ -1,0 +1,7 @@
+short_name: Ondansetron Baxter
+active_substance: Ondansetronum
+marketing_authorisation_holder: Baxter Holding B.V., Netherlands
+manufacturer: Bieffe Medital S.P.A, Italy; Baxter S.A., Belgium
+atc_code: A04AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0367/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0367/smpc

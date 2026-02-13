@@ -1,0 +1,7 @@
+short_name: Klacid i.v.
+active_substance: Clarithromycinum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Delpharm Saint Remy, France
+atc_code: J01FA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/94-0306/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/94-0306/smpc

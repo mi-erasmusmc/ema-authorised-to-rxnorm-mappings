@@ -1,0 +1,7 @@
+short_name: Meropenem Qilu
+active_substance: Meropenemum
+marketing_authorisation_holder: Qilu Pharma Spain S.L., Spain
+manufacturer: Unifarma, SIA, Latvia; Kymos, S.L., Spain; Eurofins Analytical Services Hungary Kft., Hungary
+atc_code: J01DH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0228/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0228/smpc

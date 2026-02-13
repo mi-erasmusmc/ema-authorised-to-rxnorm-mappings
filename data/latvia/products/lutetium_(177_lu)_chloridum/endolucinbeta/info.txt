@@ -1,0 +1,7 @@
+short_name: EndolucinBeta
+active_substance: Lutetium (177 Lu) chloridum
+marketing_authorisation_holder: ITG Isotope Technologies Garching GmbH, Germany
+manufacturer: ITG Isotope Technologies Garching GmbH, Germany
+atc_code: V10X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1105/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1105/001/smpc

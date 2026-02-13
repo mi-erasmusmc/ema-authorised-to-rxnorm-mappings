@@ -1,0 +1,7 @@
+short_name: CellCept
+active_substance: Mycophenolas mofetil
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L04AA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/005/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/005/001/smpc

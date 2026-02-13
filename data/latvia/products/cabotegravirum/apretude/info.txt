@@ -1,0 +1,7 @@
+short_name: Apretude
+active_substance: Cabotegravirum
+marketing_authorisation_holder: ViiV Healthcare BV, Netherlands
+manufacturer: Glaxo Wellcome S.A., Spain
+atc_code: J05AJ04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1760/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1760/001/smpc

@@ -1,0 +1,7 @@
+short_name: Duphaston
+active_substance: Dydrogesteronum
+marketing_authorisation_holder: MagnaPharm SK s.r.o., Slovakia
+manufacturer: Abbott Biologicals B.V., Netherlands
+atc_code: G03DB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0501/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0501/smpc

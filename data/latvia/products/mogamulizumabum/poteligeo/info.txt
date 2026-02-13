@@ -1,0 +1,7 @@
+short_name: Poteligeo
+active_substance: Mogamulizumabum
+marketing_authorisation_holder: Kyowa Kirin Holdings B.V., Netherlands
+manufacturer: Allphamed Pharbil Arzneimittel GmbH, Germany; Piramal Healthcare UK Limited, United Kingdom
+atc_code: L01FX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1335/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1335/001/smpc

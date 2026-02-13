@@ -1,0 +1,7 @@
+short_name: Ramipril TAD
+active_substance: Ramiprilum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C09AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0200/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0200/smpc

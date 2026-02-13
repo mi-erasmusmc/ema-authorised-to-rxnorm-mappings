@@ -1,0 +1,7 @@
+short_name: Dectova
+active_substance: Zanamivirum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: GlaxoSmithKline Manufacturing S.p.A., Italy
+atc_code: J05AH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1349/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1349/001/smpc

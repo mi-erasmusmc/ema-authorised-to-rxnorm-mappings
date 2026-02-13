@@ -1,0 +1,7 @@
+short_name: Ibuprofen Nutra Essential
+active_substance: Ibuprofenum
+marketing_authorisation_holder: NUTRA ESSENTIAL OTC, S.L., Spain
+manufacturer: Farmasierra Manufacturing S.L., Spain; Farmalider, S.A., Spain; Edefarm, S.L., Spain; Delpharm Bladel B.V., Netherlands
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0060/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0060/smpc

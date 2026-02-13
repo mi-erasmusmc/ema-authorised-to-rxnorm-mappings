@@ -1,0 +1,7 @@
+short_name: Inluriyo
+active_substance: Imlunestrantum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Recipharm Leganes S.L.U., Spain
+atc_code: L02BA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2003/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2003/001/smpc

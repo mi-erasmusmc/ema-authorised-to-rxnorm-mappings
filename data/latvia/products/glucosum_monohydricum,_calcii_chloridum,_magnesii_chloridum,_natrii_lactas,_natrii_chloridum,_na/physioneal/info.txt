@@ -1,0 +1,7 @@
+short_name: Physioneal
+active_substance: Glucosum monohydricum, Calcii chloridum, Magnesii chloridum, Natrii lactas, Natrii chloridum, Natrii hydrogenocarbonas
+marketing_authorisation_holder: Vantive Belgium S.R.L., Belgium
+manufacturer: Vantive Manufacturing Limited, Ireland
+atc_code: B05DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0084/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0084/smpc

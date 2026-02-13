@@ -1,0 +1,7 @@
+short_name: Mikanisal
+active_substance: Ketoconazolum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Tallinna Farmaatsiatehase AS, Estonia
+atc_code: D01AC08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0356/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0356/smpc

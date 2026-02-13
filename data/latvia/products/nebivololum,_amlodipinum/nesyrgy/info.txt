@@ -1,0 +1,7 @@
+short_name: Nesyrgy
+active_substance: Nebivololum, Amlodipinum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: Saneca Pharmaceuticals A.S., Slovakia
+atc_code: C07FB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0313/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0313/smpc

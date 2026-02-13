@@ -1,0 +1,7 @@
+short_name: Eucarbon herbal
+active_substance: Sennae folii pulvis, Rhei radicis extractum siccum, Carbo ligni pulvis
+marketing_authorisation_holder: F. Trenka chem.-pharm. Fabrik GmbH, Austria
+manufacturer: F. Trenka chem.-pharm. Fabrik GmbH, Austria
+atc_code: A06AB56
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0442/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0442/smpc

@@ -1,0 +1,7 @@
+short_name: Methyluracil Stada
+active_substance: Methyluracilum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Aniss SIA, Latvia
+atc_code: D03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0994/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0994/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004059
+Name of medicine: Galafold
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: migalastat
+Active substance: migalastat hydrochloride
+Therapeutic area (MeSH): Fabry Disease
+ATC code (human): A16AX
+Pharmacotherapeutic group (human): migalastat
+Therapeutic indication: Galafold is indicated for long-term treatment of adults and adolescents aged 16 years and older with a confirmed diagnosis of Fabry disease (?-galactosidase A deficiency) and who have an amenable mutation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/galafold

@@ -1,0 +1,7 @@
+short_name: Levodopa/Carbidopa Orion
+active_substance: Levodopum, Carbidopum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland
+atc_code: N04BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0115/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0115/smpc

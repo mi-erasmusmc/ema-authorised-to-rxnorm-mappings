@@ -1,0 +1,7 @@
+short_name: Meropenem Venus Pharma
+active_substance: Meropenemum
+marketing_authorisation_holder: Venus Pharma GmbH, Germany
+manufacturer: Venus Pharma GmbH, Germany; European Pharma Hub Ltd., Hungary
+atc_code: J01DH02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0023/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0023/smpc

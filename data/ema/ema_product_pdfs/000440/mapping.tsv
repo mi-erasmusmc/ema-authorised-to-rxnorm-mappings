@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/02/235/001	1513851	lente insulin, human 40 UNT/ML Injectable Suspension	249297	EXACT	40 IU/ml = 40 UNT/ML; no branded 40 UNT/ML [Human Monotard] in RxNorm		2026-02-12
+EU/1/02/235/002	1513851	lente insulin, human 40 UNT/ML Injectable Suspension	249297	EXACT	40 IU/ml, 5 vials; same strength as 001		2026-02-12
+EU/1/02/235/003	19012680	lente insulin, human 100 UNT/ML Injectable Suspension [Human Monotard]	150975	EXACT	100 IU/ml = 100 UNT/ML; branded match		2026-02-12
+EU/1/02/235/004	19012680	lente insulin, human 100 UNT/ML Injectable Suspension [Human Monotard]	150975	EXACT	100 IU/ml, 5 vials; same strength as 003		2026-02-12

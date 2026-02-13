@@ -1,0 +1,7 @@
+short_name: No-Spa forte
+active_substance: Drotaverini hydrochloridum
+marketing_authorisation_holder: Opella Healthcare France S.A.S., France
+manufacturer: Opella Healthcare Hungary Limited Liability Company (Opella Healthcare Hungary Ltd.), Hungary
+atc_code: A03AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0157/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0157/smpc

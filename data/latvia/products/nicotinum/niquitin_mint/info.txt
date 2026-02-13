@@ -1,0 +1,7 @@
+short_name: NiQuitin Mint
+active_substance: Nicotinum
+marketing_authorisation_holder: Perrigo Poland Sp. z o.o., Poland
+manufacturer: Fertin Pharma A/S, Denmark; Logiters, Logistica Portugal S.A., Portugal
+atc_code: N07BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0110/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0110/smpc

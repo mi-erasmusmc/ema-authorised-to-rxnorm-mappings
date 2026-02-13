@@ -1,0 +1,7 @@
+short_name: Sufentanil Kalceks
+active_substance: Sufentanilum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: N01AH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0179/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0179/smpc

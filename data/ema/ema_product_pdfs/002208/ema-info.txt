@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002208
+Name of medicine: Krystexxa
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: pegloticase
+Active substance: pegloticase
+Therapeutic area (MeSH): Gout
+ATC code (human): M04AX02
+Pharmacotherapeutic group (human): Antigout preparations
+Therapeutic indication: Krystexxa is indicated for the treatment of severe debilitating chronic tophaceous gout in adult patients who may also have erosive joint involvement and who have failed to normalize serum uric acid with xanthine oxidase inhibitors at the maximum medically appropriate dose or for whom these medicines are contraindicated.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/krystexxa

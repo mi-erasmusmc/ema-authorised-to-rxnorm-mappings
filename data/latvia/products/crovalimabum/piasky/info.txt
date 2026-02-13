@@ -1,0 +1,7 @@
+short_name: Piasky
+active_substance: Crovalimabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L04AJ07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1848/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1848/001/smpc

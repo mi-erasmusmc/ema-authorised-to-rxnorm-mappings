@@ -1,0 +1,7 @@
+short_name: Macitentan Norameda
+active_substance: Macitentanum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Pharmadox Healthcare Ltd., Malta; KeVaRo Group Ltd., Bulgaria
+atc_code: C02KX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0076/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0076/smpc

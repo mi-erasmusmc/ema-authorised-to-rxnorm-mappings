@@ -1,0 +1,7 @@
+short_name: Bonaxon
+active_substance: Fingolimodum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Pharmathen S.A., Greece; Pharmathen International S.A., Greece
+atc_code: L04AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0011/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0011/smpc

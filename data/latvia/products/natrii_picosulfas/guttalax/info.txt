@@ -1,0 +1,7 @@
+short_name: Guttalax
+active_substance: Natrii picosulfas
+marketing_authorisation_holder: Opella Healthcare France S.A.S., France
+manufacturer: Instituto De Angeli S.r.l., Italy
+atc_code: A06AB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0168/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0168/smpc

@@ -1,0 +1,1 @@
+EU/1/11/695/055 is a titration multipack containing 4 strengths (7x 2mg/24h + 7x 4mg/24h + 7x 6mg/24h + 7x 8mg/24h). Mapped BROAD to the closest RxNorm pack which only contains 2 strengths (2+4 mg/24h).

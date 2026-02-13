@@ -1,0 +1,7 @@
+short_name: Dalacin
+active_substance: Clindamycinum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Service Company BV, Belgium
+atc_code: G01AA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0034/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0034/smpc

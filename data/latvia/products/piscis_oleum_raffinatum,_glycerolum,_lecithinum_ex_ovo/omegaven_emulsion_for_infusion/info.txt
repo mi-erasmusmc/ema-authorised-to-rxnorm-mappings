@@ -1,0 +1,7 @@
+short_name: Omegaven emulsion for infusion
+active_substance: Piscis oleum raffinatum, Glycerolum, Lecithinum ex ovo
+marketing_authorisation_holder: Fresenius Kabi Deutschland GmbH, Germany
+manufacturer: Fresenius Kabi Austria GmbH, Austria
+atc_code: B05BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0058/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0058/smpc

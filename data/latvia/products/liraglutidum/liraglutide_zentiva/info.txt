@@ -1,0 +1,7 @@
+short_name: Liraglutide Zentiva
+active_substance: Liraglutidum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmadox Healthcare Ltd., Malta
+atc_code: A10BJ02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0028/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0028/smpc

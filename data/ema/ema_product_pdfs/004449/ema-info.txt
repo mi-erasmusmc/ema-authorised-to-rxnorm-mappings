@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004449
+Name of medicine: Biktarvy
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bictegravir;emtricitabine;tenofovir alafenamide
+Active substance: bictegravir;emtricitabine;tenofovir alafenamide;fumarate
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR20
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Biktarvy is indicated for the treatment of human immunodeficiency virus 1 (HIV 1) infection in adults and paediatric patients at least 2 years of age and weighing at least 14 kg i without present or past evidence of viral resistance to the integrase inhibitor class, emtricitabine or tenofovir.(see section 5.1)
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/biktarvy

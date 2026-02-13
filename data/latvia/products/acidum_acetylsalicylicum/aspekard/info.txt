@@ -1,0 +1,7 @@
+short_name: Aspekard
+active_substance: Acidum acetylsalicylicum
+marketing_authorisation_holder: Stirolbiofarm Baltikum, SIA, Latvia
+manufacturer: Marifarm d.o.o., Slovenia
+atc_code: B01AC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0086/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0086/smpc

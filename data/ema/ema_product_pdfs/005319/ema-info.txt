@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005319
+Name of medicine: Verquvo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vericiguat
+Active substance: vericiguat
+Therapeutic area (MeSH): Heart Failure
+ATC code (human): C01
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: Treatment of symptomatic chronic heart failure
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/verquvo

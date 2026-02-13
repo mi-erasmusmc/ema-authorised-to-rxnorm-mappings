@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006056
+Name of medicine: Opuviz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: aflibercept
+Active substance: aflibercept
+Therapeutic area (MeSH): Wet Macular Degeneration;Macular Edema;Diabetes Complications;Retinal Vein Occlusion
+ATC code (human): S01LA05
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Opuviz is indicated for adults for the treatment of:  neovascular (wet) age-related macular degeneration (AMD) visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO) visual impairment due to diabetic macular oedema (DME) visual impairment due to myopic choroidal neovascularisation (myopic CNV)
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/opuviz

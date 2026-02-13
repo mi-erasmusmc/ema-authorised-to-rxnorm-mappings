@@ -1,0 +1,7 @@
+short_name: Fluoxetine
+active_substance: Fluoxetinum
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: N06AB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0245/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0245/smpc

@@ -1,0 +1,7 @@
+short_name: Homeovox
+active_substance: Bryonia dioica, Populus candicans, Kalium bichromicum, Calendula officinalis, Hepar sulfuris, Mercurius solubilis Hahnemanni, Atropa belladonna, Spongia tosta, Ferrum phosphoricum, Arum triphyllum, Aconitum napellus
+marketing_authorisation_holder: Boiron, France
+manufacturer: Boiron, France
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1117/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1117/smpc

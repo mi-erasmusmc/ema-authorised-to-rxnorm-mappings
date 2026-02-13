@@ -1,0 +1,7 @@
+short_name: Adasuve
+active_substance: Loxapinum
+marketing_authorisation_holder: Ferrer Internacional, SA., Spain
+manufacturer: Ferrer Internacional, SA, Spain
+atc_code: N05AH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/823/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/823/001/smpc

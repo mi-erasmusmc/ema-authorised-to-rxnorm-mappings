@@ -1,0 +1,7 @@
+short_name: Nebivolol Orion
+active_substance: Nebivololum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland; Orion Corporation Orion Pharma, Finland
+atc_code: C07AB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0383/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0383/smpc

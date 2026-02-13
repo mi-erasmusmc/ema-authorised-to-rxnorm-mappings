@@ -1,0 +1,7 @@
+short_name: Orfarin
+active_substance: Warfarinum natricum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma Espoo plant, Finland; Orion Corporation Orion Pharma, Finland
+atc_code: B01AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0042/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0042/smpc

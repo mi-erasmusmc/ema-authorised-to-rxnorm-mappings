@@ -1,0 +1,7 @@
+short_name: Quinsair
+active_substance: Levofloxacinum
+marketing_authorisation_holder: Chiesi Farmaceutici S.p.A., Italy
+manufacturer: Adare Pharmaceuticals S.r.l., Italy
+atc_code: J01MA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/973/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/973/001/smpc

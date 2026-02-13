@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000102
+Name of medicine: Avonex
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: interferon beta-1a
+Active substance: interferon beta-1a
+Therapeutic area (MeSH): Multiple Sclerosis
+ATC code (human): L03AB07
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Avonex is indicated for the treatment of:  patients diagnosed with relapsing multiple sclerosis (MS). In clinical trials, this was characterised by two or more acute exacerbations (relapses) in the previous three years without evidence of continuous progression between relapses; Avonex slows the progression of disability and decreases the frequency of relapses; patients with a single demyelinating event with an active inflammatory process, if it is severe enough to warrant treatment with intravenous corticosteroids, if alternative diagnoses have been excluded, and if they are determined to be at high risk of developing clinically definite MS.  Avonex should be discontinued in patients who develop progressive MS.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/avonex

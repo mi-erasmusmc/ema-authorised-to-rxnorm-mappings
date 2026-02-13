@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000212
+Name of medicine: Regranex
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: becaplermin
+Active substance: becaplermin
+Therapeutic area (MeSH): Wound Healing;Skin Ulcer
+ATC code (human): D03AX06
+Pharmacotherapeutic group (human): Preparations for treatment of wounds and ulcers
+Therapeutic indication: Regranex is indicated, in association with other good wound care measures, to promote granulation and thereby the healing of full-thickness, neuropathic, chronic, diabetic ulcers less than or equal to 5 cm2.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/regranex

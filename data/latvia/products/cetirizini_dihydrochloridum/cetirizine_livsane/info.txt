@@ -1,0 +1,7 @@
+short_name: Cetirizine Livsane
+active_substance: Cetirizini dihydrochloridum
+marketing_authorisation_holder: PXG Pharma GmbH, Germany
+manufacturer: Pharmazet Group s.r.o., Czech Republic; PXG Pharma GmbH, Germany
+atc_code: R06AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0175/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0175/smpc

@@ -1,0 +1,7 @@
+short_name: Romvimza
+active_substance: Vimseltinibum
+marketing_authorisation_holder: Deciphera Pharmaceuticals (Netherlands) B.V., Netherlands
+manufacturer: Deciphera Pharmaceuticals (Netherlands) B.V., Netherlands
+atc_code: L01EX29
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1968/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1968/001/smpc

@@ -1,0 +1,7 @@
+short_name: Dengvaxia
+active_substance: Vaccinum febris dengue tetravalent (vivum, attenuatum)
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi Pasteur, France; Sanofi Pasteur NVL, France
+atc_code: J07BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1338/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1338/001/smpc

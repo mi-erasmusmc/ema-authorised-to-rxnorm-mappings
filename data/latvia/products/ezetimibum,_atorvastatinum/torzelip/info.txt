@@ -1,0 +1,7 @@
+short_name: Torzelip
+active_substance: Ezetimibum, Atorvastatinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Bluepharma - Industria Farmaceutica S.A., Portugal; Hennig Arzneimittel GmbH & Co.KG, Germany
+atc_code: C10BA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0131/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0131/smpc

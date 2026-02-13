@@ -1,0 +1,7 @@
+short_name: Olumiant
+active_substance: Baricitinibum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly S.A., Spain
+atc_code: L04AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1170/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1170/001/smpc

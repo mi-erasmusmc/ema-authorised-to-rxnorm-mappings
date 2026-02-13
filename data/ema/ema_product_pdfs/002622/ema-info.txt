@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002622
+Name of medicine: Riluzole Zentiva
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: riluzole
+Active substance: riluzole
+Therapeutic area (MeSH): Amyotrophic Lateral Sclerosis
+ATC code (human): N07XX02
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Riluzole Zentiva is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials have demonstrated that Riluzole Zentiva extends survival for patients with ALS. Survival was defined as patients who were alive, not intubated for mechanical ventilation and tracheotomy-free. There is no evidence that Riluzole Zentiva exerts a therapeutic effect on motor function, lung function, fasciculations, muscle strength and motor symptoms. Riluzole Zentiva has not been shown to be effective in the late stages of ALS. Safety and efficacy of Riluzole Zentiva has only been studied in ALS. Therefore, Riluzole Zentiva should not be used in patients with any other form of motor-neurone disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/riluzole-zentiva

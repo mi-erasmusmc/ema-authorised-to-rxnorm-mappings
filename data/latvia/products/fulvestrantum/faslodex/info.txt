@@ -1,0 +1,7 @@
+short_name: Faslodex
+active_substance: Fulvestrantum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca UK Limited, United Kingdom; AstraZeneca AB, Sweden
+atc_code: L02BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/269/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/269/001/smpc

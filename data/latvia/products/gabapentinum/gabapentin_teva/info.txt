@@ -1,0 +1,7 @@
+short_name: Gabapentin Teva
+active_substance: Gabapentinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Nederland B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland; Teva Gyogyszergyar Zrt., Hungary
+atc_code: N02BF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0014/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0014/smpc

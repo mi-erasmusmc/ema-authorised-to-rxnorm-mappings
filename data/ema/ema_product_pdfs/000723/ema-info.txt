@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000723
+Name of medicine: Toviaz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: fesoterodine
+Active substance: fesoterodine fumarate
+Therapeutic area (MeSH): Urinary Bladder, Overactive
+ATC code (human): G04BD11
+Pharmacotherapeutic group (human): Urologicals
+Therapeutic indication: Treatment of the symptoms (increased urinary frequency and / or urgency and / or urgency incontinence) that may occur in patients with overactive-bladder syndrome.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/toviaz

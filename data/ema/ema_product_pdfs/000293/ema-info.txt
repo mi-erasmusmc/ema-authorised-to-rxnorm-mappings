@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000293
+Name of medicine: Osigraft
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: eptotermin alfa
+Active substance: eptotermin alfa
+Therapeutic area (MeSH): Tibial Fractures
+ATC code (human): M05BC02
+Pharmacotherapeutic group (human): Drugs for treatment of bone diseases;Bone morphogenetic proteins
+Therapeutic indication: Treatment of nonunion of tibia of at least 9 month duration, secondary to trauma, in skeletally mature patients, in cases where previous treatment with autograft has failed or use of autograft is unfeasible.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/osigraft

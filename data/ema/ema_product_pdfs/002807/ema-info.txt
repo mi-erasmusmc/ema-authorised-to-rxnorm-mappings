@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002807
+Name of medicine: Raplixa
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: human fibrinogen;human thrombin
+Active substance: human fibrinogen;human thrombin
+Therapeutic area (MeSH): Hemostasis, Surgical
+ATC code (human): B02BC30
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Supportive treatment where standard surgical techniques are insufficient for improvement of haemostasis. Raplixa must be used in combination with an approved gelatin sponge. Raplixa is indicated in adults over 18 years of age.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/raplixa

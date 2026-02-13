@@ -1,0 +1,7 @@
+short_name: Truxal
+active_substance: Chlorprothixenum
+marketing_authorisation_holder: H. Lundbeck A/S, Denmark
+manufacturer: H. Lundbeck A/S, Denmark
+atc_code: N05AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0671/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0671/smpc

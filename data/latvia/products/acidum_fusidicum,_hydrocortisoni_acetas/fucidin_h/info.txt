@@ -1,0 +1,7 @@
+short_name: Fucidin H
+active_substance: Acidum fusidicum, Hydrocortisoni acetas
+marketing_authorisation_holder: LEO Pharma A/S, Denmark
+manufacturer: Leo Laboratories Ltd. (LEO Pharma), Ireland; LEO Pharma Manufacturing Italy S.r.l., Italy
+atc_code: D07CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0326/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0326/smpc

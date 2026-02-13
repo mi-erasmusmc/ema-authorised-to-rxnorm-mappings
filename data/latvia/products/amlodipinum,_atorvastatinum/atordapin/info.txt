@@ -1,0 +1,7 @@
+short_name: Atordapin
+active_substance: Amlodipinum, Atorvastatinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C10BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0059/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0059/smpc

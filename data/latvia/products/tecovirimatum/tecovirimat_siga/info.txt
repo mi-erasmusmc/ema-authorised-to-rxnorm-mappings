@@ -1,0 +1,7 @@
+short_name: Tecovirimat SIGA
+active_substance: Tecovirimatum
+marketing_authorisation_holder: SIGA Technologies Netherlands B.V., Netherlands
+manufacturer: Millmount Healthcare Limited, Ireland
+atc_code: J05AX24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1600/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1600/001/smpc

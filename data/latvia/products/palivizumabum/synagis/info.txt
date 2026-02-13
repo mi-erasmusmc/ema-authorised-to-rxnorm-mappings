@@ -1,0 +1,7 @@
+short_name: Synagis
+active_substance: Palivizumabum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AbbVie S.r.l., Italy
+atc_code: J06BD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/117/003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/99/117/003/smpc

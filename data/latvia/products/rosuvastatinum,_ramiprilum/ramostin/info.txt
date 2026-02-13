@@ -1,0 +1,7 @@
+short_name: Ramostin
+active_substance: Rosuvastatinum, Ramiprilum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Egis Pharmaceuticals PLC, Hungary; Egis Pharmaceuticals PLC, Hungary
+atc_code: C10BX17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0103/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0103/smpc

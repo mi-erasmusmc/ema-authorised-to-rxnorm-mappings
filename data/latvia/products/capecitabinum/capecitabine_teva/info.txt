@@ -1,0 +1,7 @@
+short_name: Capecitabine Teva
+active_substance: Capecitabinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; TEVA Czech Industries s.r.o., Czech Republic; Pharmachemie B.V., Netherlands; Teva Operations Poland Sp.z o.o., Poland
+atc_code: L01BC06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/761/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/761/001/smpc

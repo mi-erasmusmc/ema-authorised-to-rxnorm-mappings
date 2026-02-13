@@ -1,0 +1,7 @@
+short_name: Eladynos
+active_substance: Abaloparatidum
+marketing_authorisation_holder: Theramex Ireland Limited, Ireland
+manufacturer: Cilatus Manufacturing Services Limited, Ireland
+atc_code: H05AA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1706/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1706/001/smpc

@@ -1,0 +1,7 @@
+short_name: Azofix
+active_substance: Azelastini hydrochloridum, Fluticasoni propionas
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: TEVA Czech Industries s.r.o., Czech Republic
+atc_code: R01AD58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0166/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0166/smpc

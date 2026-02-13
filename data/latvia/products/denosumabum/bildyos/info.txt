@@ -1,0 +1,7 @@
+short_name: Bildyos
+active_substance: Denosumabum
+marketing_authorisation_holder: SciencePharma Sp. z o.o., Poland
+manufacturer: Cilatus Manufacturing Services Limited, Ireland
+atc_code: M05BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1978/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1978/001/smpc

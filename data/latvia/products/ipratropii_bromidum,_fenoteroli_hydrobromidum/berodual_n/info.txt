@@ -1,0 +1,7 @@
+short_name: Berodual N
+active_substance: Ipratropii bromidum, Fenoteroli hydrobromidum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany
+atc_code: R03AL01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0176/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0176/smpc

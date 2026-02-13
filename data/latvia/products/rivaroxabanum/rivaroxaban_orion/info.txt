@@ -1,0 +1,7 @@
+short_name: Rivaroxaban Orion
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland; Saneca Pharmaceuticals A.S., Slovakia; Orion Corporation Orion Pharma, Finland; AdAlvo Limited, Malta
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0063/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0063/smpc

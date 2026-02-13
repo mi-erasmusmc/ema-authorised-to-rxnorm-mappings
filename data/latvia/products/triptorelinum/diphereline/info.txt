@@ -1,0 +1,7 @@
+short_name: Diphereline
+active_substance: Triptorelinum
+marketing_authorisation_holder: Ipsen Pharma SAS, France
+manufacturer: Ipsen Pharma Biotech, France
+atc_code: L02AE04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0240/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0240/smpc

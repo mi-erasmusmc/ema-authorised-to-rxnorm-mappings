@@ -1,0 +1,7 @@
+short_name: Kapsikam
+active_substance: Camphora racemica, Dimethylis sulfoxidum, Terebinthinae aetheroleum, Benzylis nicotinas, Nonivamidum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia; Tallinna Farmaatsiatehase AS, Estonia
+atc_code: M02AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0571/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0571/smpc

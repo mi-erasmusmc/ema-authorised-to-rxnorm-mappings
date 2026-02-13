@@ -1,0 +1,7 @@
+short_name: Dimethyl fumarate Neuraxpharm
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Neuraxpharm Pharmaceuticals S.L., Spain
+manufacturer: Zaklady Farmaceutyczne Polpharma S.A., Poland; Neuraxpharm Arzneimittel GmbH, Germany; Zakłady Farmaceutyczne Polpharma S.A., Poland; Neuraxpharm Pharmaceuticals S.L., Spain
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1810/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1810/001/smpc

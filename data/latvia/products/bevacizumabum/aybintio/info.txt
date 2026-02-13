@@ -1,0 +1,7 @@
+short_name: Aybintio
+active_substance: Bevacizumabum
+marketing_authorisation_holder: Samsung Bioepis NL B.V., Netherlands
+manufacturer: Samsung Bioepis NL B.V., Netherlands
+atc_code: L01FG01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1454/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1454/001/smpc

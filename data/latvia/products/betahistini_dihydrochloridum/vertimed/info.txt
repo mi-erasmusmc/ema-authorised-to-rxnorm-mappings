@@ -1,0 +1,7 @@
+short_name: Vertimed
+active_substance: Betahistini dihydrochloridum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Farmaceutisch Analytisch Laboratorium Duiven B.V., Netherlands; Medochemie Ltd., Factory AZ, Cyprus
+atc_code: N07CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0388/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0388/smpc

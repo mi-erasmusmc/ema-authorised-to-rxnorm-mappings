@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001016
+Name of medicine: Iressa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: gefitinib
+Active substance: gefitinib
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01XE02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Iressa is indicated for the treatment of adult patients with locally advanced or metastatic non-small-cell lung cancer with activating mutations of epidermal-growth-factor-receptor tyrosine kinase.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/iressa

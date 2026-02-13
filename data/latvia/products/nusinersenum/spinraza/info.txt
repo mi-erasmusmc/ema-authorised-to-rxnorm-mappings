@@ -1,0 +1,7 @@
+short_name: Spinraza
+active_substance: Nusinersenum
+marketing_authorisation_holder: Biogen Netherlands B.V., Netherlands
+manufacturer: Biogen Netherlands B.V., Netherlands
+atc_code: M09AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1188/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1188/001/smpc

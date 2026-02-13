@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005337
+Name of medicine: Zabdeno
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ebola vaccine (Ad26.ZEBOV-GP [recombinant])
+Active substance: recombinant adenovirus type 26 (Ad26) encoding the glycoprotein (GP) of the Ebola virus Zaire (ZEBOV) Mayinga strain
+Therapeutic area (MeSH): Hemorrhagic Fever, Ebola
+ATC code (human): J07
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Active immunization for prevention of disease caused by Ebola virus (Zaire ebolavirus species) in individuals ? 1 year of age.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zabdeno

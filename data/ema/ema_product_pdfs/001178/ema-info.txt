@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001178
+Name of medicine: Olanzapine Apotex
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: olanzapine
+Active substance: olanzapine
+Therapeutic area (MeSH): Schizophrenia;Bipolar Disorder
+ATC code (human): N05AH03
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Olanzapine is indicated for the treatment of schizophrenia. Olanzapine is effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response. Olanzapine is indicated for the treatment of moderate to severe manic episode. In patients whose manic episode has responded to olanzapine treatment, olanzapine is indicated for the prevention of recurrence in patients with bipolar disorder.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/olanzapine-apotex

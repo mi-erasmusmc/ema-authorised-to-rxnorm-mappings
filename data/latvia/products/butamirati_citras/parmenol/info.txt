@@ -1,0 +1,7 @@
+short_name: Parmenol
+active_substance: Butamirati citras
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., COGOLS Factory, Cyprus
+atc_code: R05DB13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0129/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0129/smpc

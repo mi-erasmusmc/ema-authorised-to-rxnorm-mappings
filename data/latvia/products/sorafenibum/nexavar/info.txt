@@ -1,0 +1,7 @@
+short_name: Nexavar
+active_substance: Sorafenibum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer HealthCare Manufacturing S.r.l., Italy; Bayer AG, Germany
+atc_code: L01EX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/342/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/342/001/smpc

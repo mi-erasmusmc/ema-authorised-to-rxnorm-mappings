@@ -1,0 +1,7 @@
+short_name: Elebrato Ellipta
+active_substance: Fluticasoni furoas, Umeclidinium, Vilanterolum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: Glaxo Operations UK Ltd., United Kingdom; Glaxo Wellcome Production, France
+atc_code: R03AL08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1237/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1237/001/smpc

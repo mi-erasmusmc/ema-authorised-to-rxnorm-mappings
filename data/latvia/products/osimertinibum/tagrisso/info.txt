@@ -1,0 +1,7 @@
+short_name: TAGRISSO
+active_substance: Osimertinibum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca AB, Sweden
+atc_code: L01EB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1086/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1086/001/smpc

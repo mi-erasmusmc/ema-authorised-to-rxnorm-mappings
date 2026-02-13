@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005095
+Name of medicine: Carvykti
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ciltacabtagene autoleucel
+Active substance: ciltacabtagene autoleucel
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): L01XL05
+Pharmacotherapeutic group (human): 
+Therapeutic indication: Carvykti is indicated for the treatment of adult patients with relapsed and refractory multiple myeloma, who have received at least one prior therapy, including an immunomodulatory agent and a proteasome inhibitor have demonstrated disease progression on the last therapy, and are refractory to lenalidomide.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/carvykti

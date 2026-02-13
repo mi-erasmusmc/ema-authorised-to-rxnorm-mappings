@@ -1,0 +1,7 @@
+short_name: Fluorouracil Accord
+active_substance: Fluorouracilum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L01BC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0458/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0458/smpc

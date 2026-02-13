@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001245
+Name of medicine: Trobalt
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: retigabine
+Active substance: retigabine
+Therapeutic area (MeSH): Epilepsy
+ATC code (human): N03AX21
+Pharmacotherapeutic group (human): Antiepileptics
+Therapeutic indication: Trobalt is indicated as adjunctive treatment of drug-resistant partial-onset seizures with or without secondary generalisation in patients aged 18 years or older with epilepsy, where other appropriate drug combinations have proved inadequate or have not been tolerated.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trobalt

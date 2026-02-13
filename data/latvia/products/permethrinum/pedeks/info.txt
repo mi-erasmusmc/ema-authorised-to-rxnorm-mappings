@@ -1,0 +1,7 @@
+short_name: Pedeks
+active_substance: Permethrinum
+marketing_authorisation_holder: LMP, SIA, Latvia
+manufacturer: LMP, SIA, Latvia
+atc_code: P03AC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/93-0572/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/93-0572/smpc

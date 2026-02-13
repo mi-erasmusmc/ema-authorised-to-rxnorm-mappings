@@ -1,0 +1,7 @@
+short_name: Tepezza
+active_substance: Teprotumumabum
+marketing_authorisation_holder: Amgen Europe B.V., Netherlands
+manufacturer: Amgen NV, Belgium; Horizon Therapeutics Ireland DAC, Ireland
+atc_code: L04AG13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1941/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1941/001/smpc

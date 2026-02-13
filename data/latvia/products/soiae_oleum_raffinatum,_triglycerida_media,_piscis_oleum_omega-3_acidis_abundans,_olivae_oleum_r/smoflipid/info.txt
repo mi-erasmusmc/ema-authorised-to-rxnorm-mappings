@@ -1,0 +1,7 @@
+short_name: SMOFlipid
+active_substance: Soiae oleum raffinatum, Triglycerida media, Piscis oleum omega-3 acidis abundans, Olivae oleum raffinatum
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi AB, Sweden; Fresenius Kabi Austria GmbH, Austria
+atc_code: B05BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0116/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0116/smpc

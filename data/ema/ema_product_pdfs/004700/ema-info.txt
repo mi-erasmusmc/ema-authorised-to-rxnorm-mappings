@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004700
+Name of medicine: Pelmeg
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pegfilgrastim
+Active substance: pegfilgrastim
+Therapeutic area (MeSH): 
+ATC code (human): L03AA13
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: To reduce the duration of neutropenia and the incidence of febrile neutropenia due to chemotherapy.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pelmeg

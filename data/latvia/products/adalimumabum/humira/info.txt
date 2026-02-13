@@ -1,0 +1,7 @@
+short_name: Humira
+active_substance: Adalimumabum
+marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG, Germany
+manufacturer: AbbVie Biotechnology GmbH, Germany
+atc_code: L04AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/256/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/256/001/smpc

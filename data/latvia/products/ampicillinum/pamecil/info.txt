@@ -1,0 +1,7 @@
+short_name: Pamecil
+active_substance: Ampicillinum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory B, Cyprus
+atc_code: J01CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0046/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0046/smpc

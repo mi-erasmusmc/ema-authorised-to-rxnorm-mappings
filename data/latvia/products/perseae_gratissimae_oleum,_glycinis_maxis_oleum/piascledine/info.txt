@@ -1,0 +1,7 @@
+short_name: Piascledine
+active_substance: Perseae gratissimae oleum, Glycinis maxis oleum
+marketing_authorisation_holder: Laboratoires Expanscience, France
+manufacturer: Laboratoires EXPANSCIENCE, France
+atc_code: M01AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000762/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000762/smpc

@@ -1,0 +1,7 @@
+short_name: Addaven
+active_substance: Chromii chloridum hexahydricum, Cupri chloridum dihydricum, Ferri chloridum hexahydricum, Mangani chloridum tetrahydricum, Kalii iodidum, Natrii fluoridum, Natrii molybdas dihydricus, Natrii selenis anhydricus, Zinci chloridum
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: HP Halden Pharma AS, Norway
+atc_code: B05XA31
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0110/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0110/smpc

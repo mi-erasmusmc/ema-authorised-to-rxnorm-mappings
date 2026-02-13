@@ -1,0 +1,7 @@
+short_name: Medoclav
+active_substance: Amoxicillinum, Acidum clavulanicum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory B, Cyprus
+atc_code: J01CR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0324/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0324/smpc

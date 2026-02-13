@@ -1,0 +1,7 @@
+short_name: Hadorta
+active_substance: Hederae helicis folii extractum siccum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: R05CA12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0023/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0023/smpc

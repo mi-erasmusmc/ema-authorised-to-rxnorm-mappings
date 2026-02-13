@@ -1,0 +1,7 @@
+short_name: Ezetimibe/Atorvastatin Sandoz
+active_substance: Ezetimibum, Atorvastatinum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; ELPEN Pharmaceutical Co. Inc (SA), Greece; Elpen Pharmaceutical Co. Inc., Greece
+atc_code: C10BA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0177/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0177/smpc

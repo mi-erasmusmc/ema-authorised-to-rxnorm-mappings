@@ -1,0 +1,7 @@
+short_name: Tranexamic acid Baxter
+active_substance: Acidum tranexamicum
+marketing_authorisation_holder: Baxter Holding B.V., Netherlands
+manufacturer: Bieffe Medital S.P.A, Italy
+atc_code: B02AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0061/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0061/smpc

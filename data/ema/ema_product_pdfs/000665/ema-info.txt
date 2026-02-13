@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000665
+Name of medicine: DuoTrav
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: travoprost;timolol
+Active substance: travoprost;timolol
+Therapeutic area (MeSH): Glaucoma, Open-Angle;Ocular Hypertension
+ATC code (human): S01ED51
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Decrease of intraocular pressure (IOP) in adult patients with open-angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/duotrav

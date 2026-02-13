@@ -1,0 +1,7 @@
+short_name: Ranolazine Accord
+active_substance: Ranolazinum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Pharmadox Healthcare Ltd., Malta; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: C01EB18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0170/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0170/smpc

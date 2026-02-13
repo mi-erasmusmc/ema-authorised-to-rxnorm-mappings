@@ -1,0 +1,7 @@
+short_name: Brinzolamide/Timolol Zentiva
+active_substance: Brinzolamidum, Timololum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmathen S.A., Greece; Balkanpharma-Razgrad AD, Bulgaria
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0161/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0161/smpc

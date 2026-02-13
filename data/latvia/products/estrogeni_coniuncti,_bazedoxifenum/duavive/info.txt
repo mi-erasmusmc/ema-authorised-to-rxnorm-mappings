@@ -1,0 +1,7 @@
+short_name: Duavive
+active_substance: Estrogeni coniuncti, Bazedoxifenum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Ireland Pharmaceuticals, Ireland
+atc_code: G03CC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/960/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/960/001/smpc

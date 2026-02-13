@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003841
+Name of medicine: Rxulti
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: brexpiprazole
+Active substance: brexpiprazole
+Therapeutic area (MeSH): Schizophrenia
+ATC code (human): N05AX16
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Rxulti is indicated for the treatment of schizophrenia in adult and adolescents aged 13 years and older.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rxulti

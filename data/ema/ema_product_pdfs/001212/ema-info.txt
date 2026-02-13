@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001212
+Name of medicine: Pumarix
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: pandemic influenza vaccine (H5N1) (split virion, inactivated, adjuvanted)
+Active substance: pandemic influenza vaccine (H5N1) (split virion, inactivated, adjuvanted) 
+Therapeutic area (MeSH): Influenza, Human;Immunization;Disease Outbreaks
+ATC code (human): J07BB02
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Prophylaxis of influenza in an officially declared pandemic situation. Pandemic-influenza vaccine should be used in accordance with official guidance.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pumarix

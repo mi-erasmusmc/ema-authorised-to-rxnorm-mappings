@@ -1,0 +1,7 @@
+short_name: Micafungin Accord
+active_substance: Micafunginum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: J02AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0046/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0046/smpc

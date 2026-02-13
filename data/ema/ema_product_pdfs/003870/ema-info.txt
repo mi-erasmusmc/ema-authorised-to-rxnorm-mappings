@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003870
+Name of medicine: Hetlioz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tasimelteon
+Active substance: tasimelteon
+Therapeutic area (MeSH): Sleep Disorders, Circadian Rhythm
+ATC code (human): N05CH
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Hetlioz is indicated for the treatment of Non-24-Hour Sleep-Wake Disorder (Non-24) in totally blind adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hetlioz

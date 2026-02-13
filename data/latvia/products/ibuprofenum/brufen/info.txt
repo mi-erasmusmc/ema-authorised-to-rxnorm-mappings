@@ -1,0 +1,7 @@
+short_name: Brufen
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Famar A.V.E. Avlon Plant, Greece; Famar A.V.E., Anthoussa Plant, Greece
+atc_code: M01AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0251/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0251/smpc

@@ -1,0 +1,7 @@
+short_name: Escitalopram Accord
+active_substance: Escitalopramum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: N06AB10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0500/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0500/smpc

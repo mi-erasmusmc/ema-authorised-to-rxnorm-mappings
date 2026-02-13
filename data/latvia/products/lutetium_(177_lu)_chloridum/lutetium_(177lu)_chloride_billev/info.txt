@@ -1,0 +1,7 @@
+short_name: Lutetium (177Lu) chloride Billev
+active_substance: Lutetium (177 Lu) chloridum
+marketing_authorisation_holder: Billev Pharma Aps, Denmark
+manufacturer: Cilatus Manufacturing Services Limited, Ireland
+atc_code: V10X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1680/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1680/001/smpc

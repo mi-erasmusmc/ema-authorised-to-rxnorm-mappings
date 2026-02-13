@@ -1,0 +1,7 @@
+short_name: Fulvestrant Mylan
+active_substance: Fulvestrantum
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
+manufacturer: Mylan Teoranta, Ireland
+atc_code: L02BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1253/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1253/001/smpc

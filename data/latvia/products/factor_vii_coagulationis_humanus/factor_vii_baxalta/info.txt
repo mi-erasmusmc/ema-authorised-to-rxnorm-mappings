@@ -1,0 +1,7 @@
+short_name: Factor VII Baxalta
+active_substance: Factor VII coagulationis humanus
+marketing_authorisation_holder: Baxalta Innovations GmbH, Austria
+manufacturer: Takeda Manufacturing Austria AG, Austria
+atc_code: B02BD05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0302/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0302/smpc

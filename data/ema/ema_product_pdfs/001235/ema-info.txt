@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001235
+Name of medicine: Ristfor
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sitagliptin;metformin hydrochloride
+Active substance: sitagliptin;metformin hydrochloride
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BD07
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: For patients with type-2 diabetes mellitus:  Ristfor is indicated as an adjunct to diet and exercise to improve glycaemic control in patients inadequately controlled on their maximal tolerated dose of metformin alone or those already being treated with the combination of sitagliptin and metformin. Ristfor is indicated in combination with a sulphonylurea (i.e. triple combination therapy) as an adjunct to diet and exercise in patients inadequately controlled on their maximal tolerated dose of metformin and a sulphonylurea. Ristfor is indicated as triple combination therapy with a peroxisome proliferator-activated-receptor-gamma (PPAR?) agonist (i.e. a thiazolidinedione) as an adjunct to diet and exercise in patients inadequately controlled on their maximal tolerated dose of metformin and a PPAR? agonist. Ristfor is also indicated as add-on to insulin (i.e. triple combination therapy) as an adjunct to diet and exercise to improve glycaemic control in patients when stable dose of insulin and metformin alone do not provide adequate glycaemic control.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ristfor

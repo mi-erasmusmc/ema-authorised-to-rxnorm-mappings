@@ -1,0 +1,7 @@
+short_name: Tifay
+active_substance: Teriflunomidum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta; KeVaRo Group Ltd., Bulgaria; Stada Arzneimittel AG, Germany
+atc_code: L04AK02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0193/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0193/smpc

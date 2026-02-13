@@ -1,0 +1,7 @@
+short_name: Polmatine
+active_substance: Memantini hydrochloridum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Pharmaceutical Works Polpharma SA, Poland
+atc_code: N06DX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0178/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0178/smpc

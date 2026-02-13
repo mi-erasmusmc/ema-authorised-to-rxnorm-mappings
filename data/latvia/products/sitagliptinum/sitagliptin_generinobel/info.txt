@@ -1,0 +1,7 @@
+short_name: Sitagliptin GeneriNobel
+active_substance: Sitagliptinum
+marketing_authorisation_holder: GeneriNobel GmbH, Germany
+manufacturer: GeneriNobel GmbH, Germany
+atc_code: A10BH01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0009/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0009/smpc

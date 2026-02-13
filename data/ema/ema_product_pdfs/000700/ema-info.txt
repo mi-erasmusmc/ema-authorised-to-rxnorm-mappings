@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000700
+Name of medicine: Elaprase
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: idursulfase
+Active substance: idursulfase
+Therapeutic area (MeSH): Mucopolysaccharidosis II
+ATC code (human): A16AB09
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Elaprase is indicated for the long-term treatment of patients with Hunter syndrome (mucopolysaccharidosis II, MPS II). Heterozygous females were not studied in the clinical trials.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/elaprase

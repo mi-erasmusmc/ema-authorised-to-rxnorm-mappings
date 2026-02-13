@@ -1,0 +1,7 @@
+short_name: Allergosan
+active_substance: Chloropyramini hydrochloridum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: D04AA09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0278/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0278/smpc

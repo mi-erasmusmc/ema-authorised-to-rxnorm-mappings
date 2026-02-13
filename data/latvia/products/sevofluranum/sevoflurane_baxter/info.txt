@@ -1,0 +1,7 @@
+short_name: Sevoflurane Baxter
+active_substance: Sevofluranum
+marketing_authorisation_holder: Baxter S.A., Belgium
+manufacturer: Baxter S.A., Belgium
+atc_code: N01AB08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0196/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0196/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004154
+Name of medicine: Apealea
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: paclitaxel
+Active substance: paclitaxel
+Therapeutic area (MeSH): Ovarian Neoplasms
+ATC code (human): L01CD01
+Pharmacotherapeutic group (human): Antineoplastic agents;Taxanes
+Therapeutic indication: Apealea in combination with carboplatin is indicated for the treatment of adult patients with first relapse of platinum?sensitive epithelial ovarian cancer, primary peritoneal cancer and fallopian tube cancer.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/apealea

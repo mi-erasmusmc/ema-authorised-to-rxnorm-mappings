@@ -1,0 +1,7 @@
+short_name: Romazic
+active_substance: Rosuvastatinum
+marketing_authorisation_holder: Pharmaceutical Works Polpharma SA, Poland
+manufacturer: Pharmaceutical Works Polpharma S.A., Poland
+atc_code: C10AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0351/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0351/smpc

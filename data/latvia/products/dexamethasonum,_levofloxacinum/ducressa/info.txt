@@ -1,0 +1,7 @@
+short_name: Ducressa
+active_substance: Dexamethasonum, Levofloxacinum
+marketing_authorisation_holder: Santen Oy, Finland
+manufacturer: Santen Oy, Finland
+atc_code: S01CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0081/smpc

@@ -1,0 +1,7 @@
+short_name: Eleber
+active_substance: Cabazitaxelum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmadox Healthcare Ltd., Malta
+atc_code: L01CD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0077/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0077/smpc

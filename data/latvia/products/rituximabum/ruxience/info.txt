@@ -1,0 +1,7 @@
+short_name: Ruxience
+active_substance: Rituximabum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: L01FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1431/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1431/001/smpc

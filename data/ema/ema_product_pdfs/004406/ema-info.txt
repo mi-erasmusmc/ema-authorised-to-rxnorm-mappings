@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004406
+Name of medicine: Hemlibra
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: emicizumab
+Active substance: emicizumab
+Therapeutic area (MeSH): Hemophilia A
+ATC code (human): B02BX06
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Hemlibra is indicated for routine prophylaxis of bleeding episodes in patients with haemophilia A (congenital factor VIII deficiency):  with factor VIII inhibitors without factor VIII inhibitors who have:  severe disease (FVIII &lt; 1%) moderate disease (FVIII ? 1% and ? 5%) with severe bleeding phenotype.    Hemlibra can be used in all age groups.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hemlibra

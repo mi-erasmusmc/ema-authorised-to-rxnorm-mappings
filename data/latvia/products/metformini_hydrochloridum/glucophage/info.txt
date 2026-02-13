@@ -1,0 +1,7 @@
+short_name: Glucophage
+active_substance: Metformini hydrochloridum
+marketing_authorisation_holder: Merck Sante s.a.s., France
+manufacturer: Merck Sante s.a.s., Centre de Production de Semoy, France; Merck S.L., Spain
+atc_code: A10BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0335/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0335/smpc

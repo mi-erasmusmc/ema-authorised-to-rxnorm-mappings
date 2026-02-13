@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003861
+Name of medicine: Natpar
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: parathyroid hormone
+Active substance: parathyroid hormone
+Therapeutic area (MeSH): Hypoparathyroidism
+ATC code (human): H05AA03
+Pharmacotherapeutic group (human): Calcium homeostasis
+Therapeutic indication: Natpar is indicated as adjunctive treatment of adult patients with chronic hypoparathyroidism who cannot be adequately controlled with standard therapy alone.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/natpar

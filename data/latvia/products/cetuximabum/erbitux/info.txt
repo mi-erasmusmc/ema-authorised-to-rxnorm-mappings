@@ -1,0 +1,7 @@
+short_name: Erbitux
+active_substance: Cetuximabum
+marketing_authorisation_holder: Merck Europe B.V., Netherlands
+manufacturer: Merck KGaA, Germany
+atc_code: L01FE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/281/003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/281/003/smpc

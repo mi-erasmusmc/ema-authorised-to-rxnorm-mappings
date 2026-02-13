@@ -1,0 +1,7 @@
+short_name: Carbalex
+active_substance: Carbamazepinum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria
+atc_code: N03AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0470/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0470/smpc

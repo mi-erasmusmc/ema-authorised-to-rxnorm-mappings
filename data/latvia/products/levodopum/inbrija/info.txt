@@ -1,0 +1,7 @@
+short_name: Inbrija
+active_substance: Levodopum
+marketing_authorisation_holder: Merz Therapeutics GmbH, Germany
+manufacturer: ADOH B.V., Netherlands
+atc_code: N04BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1390/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1390/001/smpc

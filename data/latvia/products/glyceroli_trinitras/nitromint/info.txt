@@ -1,0 +1,7 @@
+short_name: Nitromint
+active_substance: Glyceroli trinitras
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Egis Pharmaceuticals PLC, Hungary
+atc_code: C01DA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0660/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0660/smpc

@@ -1,0 +1,7 @@
+short_name: Pazopanib Auxilia
+active_substance: Pazopanibum
+marketing_authorisation_holder: Auxilia Pharma OÜ, Estonia
+manufacturer: Alvogen Malta (Out-licensing) Ltd, Malta
+atc_code: L01EX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0081/smpc

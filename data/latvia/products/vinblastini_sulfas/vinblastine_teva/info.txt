@@ -1,0 +1,7 @@
+short_name: Vinblastine Teva
+active_substance: Vinblastini sulfas
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Pharmachemie B.V., Netherlands
+atc_code: L01CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0248/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0248/smpc

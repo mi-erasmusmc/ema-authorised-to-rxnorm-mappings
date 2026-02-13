@@ -1,0 +1,7 @@
+short_name: Mucopret
+active_substance: Primulae radicis extractum siccum, Thymi herbae extractum siccum
+marketing_authorisation_holder: Bionorica SE, Germany
+manufacturer: Bionorica SE, Germany
+atc_code: R05C
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0006/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0006/smpc

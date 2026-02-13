@@ -1,0 +1,7 @@
+short_name: Erlotinib Sandoz
+active_substance: Erlotinibum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Remedica Ltd., Cyprus
+atc_code: L01EB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0122/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0122/smpc

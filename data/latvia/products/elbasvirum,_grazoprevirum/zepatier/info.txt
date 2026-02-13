@@ -1,0 +1,7 @@
+short_name: Zepatier
+active_substance: Elbasvirum, Grazoprevirum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Organon Heist bv, Belgium
+atc_code: J05AP54
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1119/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1119/001/smpc

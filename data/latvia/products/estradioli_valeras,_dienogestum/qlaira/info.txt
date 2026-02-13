@@ -1,0 +1,7 @@
+short_name: Qlaira
+active_substance: Estradioli valeras, Dienogestum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer Weimar GmbH und Co. KG, Germany; Bayer AG, Germany
+atc_code: G03AB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0347/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0347/smpc

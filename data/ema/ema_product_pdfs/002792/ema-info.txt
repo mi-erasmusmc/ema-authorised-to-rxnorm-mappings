@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002792
+Name of medicine: Obizur
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: susoctocog alfa
+Active substance: susoctocog alfa
+Therapeutic area (MeSH): Hemophilia A
+ATC code (human): B02
+Pharmacotherapeutic group (human): Antihemorrhagics
+Therapeutic indication: Treatment of bleeding episodes in patients with acquired haemophilia caused by antibodies to Factor VIII. Obizur is indicated in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/obizur

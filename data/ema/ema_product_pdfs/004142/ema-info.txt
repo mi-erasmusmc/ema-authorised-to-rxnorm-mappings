@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004142
+Name of medicine: Alprolix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: eftrenonacog alfa
+Active substance: eftrenonacog alfa
+Therapeutic area (MeSH): Hemophilia B
+ATC code (human): B02BD04
+Pharmacotherapeutic group (human): Vitamin K and other hemostatics;Blood coagulation factors
+Therapeutic indication: Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor IX deficiency).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alprolix

@@ -1,0 +1,7 @@
+short_name: Emtricitabine/Tenofovir disoproxil Zentiva
+active_substance: Emtricitabinum, Tenofovirum disoproxilum
+marketing_authorisation_holder: Zentiva k.s., Czech Republic
+manufacturer: S.C. Zentiva S.A., Romania
+atc_code: J05AR03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1148/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1148/001/smpc

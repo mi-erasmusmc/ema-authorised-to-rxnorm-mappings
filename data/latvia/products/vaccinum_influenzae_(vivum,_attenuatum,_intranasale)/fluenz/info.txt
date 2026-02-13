@@ -1,0 +1,7 @@
+short_name: Fluenz
+active_substance: Vaccinum influenzae (vivum, attenuatum, intranasale)
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca Nijmegen B.V., Netherlands
+atc_code: J07BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1816/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1816/001/smpc

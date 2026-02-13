@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000326
+Name of medicine: Targretin
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bexarotene
+Active substance: bexarotene
+Therapeutic area (MeSH): Lymphoma, T-Cell, Cutaneous
+ATC code (human): L01XF03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Targretin capsules are indicated for the treatment of skin manifestations of advanced stage cutaneous T-cell lymphoma (CTCL) patients refractory to at least one systemic treatment.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/targretin

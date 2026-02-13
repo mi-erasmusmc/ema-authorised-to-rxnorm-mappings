@@ -1,0 +1,7 @@
+short_name: Detralex
+active_substance: Diosminum, Hesperidinum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France; Servier (Ireland) Industries Ltd, Ireland
+atc_code: C05CA53
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0377/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0377/smpc

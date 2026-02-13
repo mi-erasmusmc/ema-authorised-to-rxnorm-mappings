@@ -1,0 +1,7 @@
+short_name: Nebivolol Unifarma
+active_substance: Nebivololum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Unifarma, SIA, Latvia
+atc_code: C07AB12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0176/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0176/smpc

@@ -1,0 +1,7 @@
+short_name: Lenalidomide Grindeks
+active_substance: Lenalidomidum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: L04AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0135/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0135/smpc

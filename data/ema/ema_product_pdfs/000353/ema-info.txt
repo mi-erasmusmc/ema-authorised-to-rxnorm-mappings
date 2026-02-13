@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000353
+Name of medicine: MabCampath
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: alemtuzumab
+Active substance: alemtuzumab
+Therapeutic area (MeSH): Leukemia, Lymphocytic, Chronic, B-Cell
+ATC code (human): L01XC04
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: MabCampath is indicated for the treatment of patients with B-cell chronic lymphocytic leukaemia (BCLL) for whom fludarabine combination chemotherapy is not appropriate.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mabcampath

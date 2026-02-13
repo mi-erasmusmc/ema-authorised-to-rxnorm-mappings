@@ -1,0 +1,7 @@
+short_name: Axumin
+active_substance: Fluciclovinum (18F)
+marketing_authorisation_holder: Blue Earth Diagnostics Ireland Ltd, Ireland
+manufacturer: GE Healthcare Limited, United Kingdom; Seibersdorf Labor GmbH, Austria; Norsk medisinsk syklotronsenter AS, Norway; Advanced Accelerator Applications (Italy). S.r.l., Italy; Advanced Accelerator Applications Iberica, S.L., Spain; Nucleis SA, Belgium; Advanced Accelerator Applications, France; Advanced Accelerator Applications, France
+atc_code: V09IX12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1186/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1186/001/smpc

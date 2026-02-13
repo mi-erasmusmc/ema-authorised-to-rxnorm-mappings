@@ -1,0 +1,7 @@
+short_name: Phesgo
+active_substance: Pertuzumabum, Trastuzumabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01FY01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1497/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1497/001/smpc

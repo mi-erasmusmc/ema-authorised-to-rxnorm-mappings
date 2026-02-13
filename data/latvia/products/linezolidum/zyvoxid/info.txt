@@ -1,0 +1,7 @@
+short_name: Zyvoxid
+active_substance: Linezolidum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: HP Halden Pharma AS, Norway
+atc_code: J01XX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0288/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0288/smpc

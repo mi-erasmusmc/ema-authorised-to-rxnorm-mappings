@@ -1,0 +1,7 @@
+short_name: Nitrospray
+active_substance: Glyceroli trinitras
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: BRIZ, SIA, Latvia
+atc_code: C01DA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0434/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0434/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004093
+Name of medicine: Ocaliva
+Medicine status: Revoked
+International non-proprietary name (INN) / common name: obeticholic acid
+Active substance: obeticholic acid
+Therapeutic area (MeSH): Liver Cirrhosis, Biliary
+ATC code (human): A05AA04
+Pharmacotherapeutic group (human): Bile and liver therapy
+Therapeutic indication: Ocaliva is indicated for the treatment of primary biliary cholangitis (also known as primary biliary cirrhosis) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA or as monotherapy in adults unable to tolerate UDCA.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ocaliva

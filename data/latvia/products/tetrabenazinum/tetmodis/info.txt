@@ -1,0 +1,7 @@
+short_name: Tetmodis
+active_substance: Tetrabenazinum
+marketing_authorisation_holder: Walter Ritter GmbH & Co. KG, Germany
+manufacturer: AOP Orphan Pharmaceuticals GmbH, Austria; Walter Ritter GmbH & Co. KG, Germany
+atc_code: N07XX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0499/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0499/smpc

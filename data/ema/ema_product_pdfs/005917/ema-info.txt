@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005917
+Name of medicine: Enrylaze
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: crisantaspase
+Active substance: crisantaspase
+Therapeutic area (MeSH): Precursor Cell Lymphoblastic Leukemia-Lymphoma
+ATC code (human): L01XX02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Enrylaze is indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of acute lymphoblastic leukaemia (ALL) and lymphoblastic lymphoma (LBL) in adult and paediatric patients (1 month and older) who developed hypersensitivity or silent inactivation to E. coli-derived asparaginase.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/enrylaze

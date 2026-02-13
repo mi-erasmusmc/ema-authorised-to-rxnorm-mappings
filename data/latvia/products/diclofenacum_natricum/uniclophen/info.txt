@@ -1,0 +1,7 @@
+short_name: Uniclophen
+active_substance: Diclofenacum natricum
+marketing_authorisation_holder: Unimed Pharma Ltd., Slovakia
+manufacturer: Unimed Pharma Ltd., Slovakia
+atc_code: S01BC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0108/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0108/smpc

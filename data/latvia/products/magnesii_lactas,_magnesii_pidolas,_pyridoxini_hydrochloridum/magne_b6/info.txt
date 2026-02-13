@@ -1,0 +1,7 @@
+short_name: Magne B6
+active_substance: Magnesii lactas, Magnesii pidolas, Pyridoxini hydrochloridum
+marketing_authorisation_holder: Opella Healthcare France S.A.S., France
+manufacturer: Cooperation Pharmaceutique Francaise, France
+atc_code: A12CC30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0253/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0253/smpc

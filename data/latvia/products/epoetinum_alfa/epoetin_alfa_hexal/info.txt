@@ -1,0 +1,7 @@
+short_name: Epoetin alfa Hexal
+active_substance: Epoetinum alfa
+marketing_authorisation_holder: Hexal AG, Germany
+manufacturer: Sandoz GmbH, Austria
+atc_code: B03XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/411/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/411/001/smpc

@@ -1,0 +1,7 @@
+short_name: Dapagliflozin Stada
+active_substance: Dapagliflozinum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; Centrafarm Services B.V., Netherlands; Clonmel Healthcare Limited, Ireland; Stada Arzneimittel AG, Germany; Laboratori Fundacio Dau, Spain
+atc_code: A10BK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0305/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0305/smpc

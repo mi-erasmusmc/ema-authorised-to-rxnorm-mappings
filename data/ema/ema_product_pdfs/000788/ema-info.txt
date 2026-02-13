@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000788
+Name of medicine: Ecalta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: anidulafungin
+Active substance: anidulafungin
+Therapeutic area (MeSH): Candidiasis
+ATC code (human): J02AX06
+Pharmacotherapeutic group (human): Antimycotics for systemic use
+Therapeutic indication: Treatment of invasive candidiasis in adults and paediatric patients aged 1 month to &lt; 18 years.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ecalta

@@ -1,0 +1,7 @@
+short_name: Sugammadex Piramal
+active_substance: Sugammadexum
+marketing_authorisation_holder: Piramal Critical Care B.V., Netherlands
+manufacturer: Piramal Critical Care B.V., Netherlands
+atc_code: V03AB35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1739/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1739/001/smpc

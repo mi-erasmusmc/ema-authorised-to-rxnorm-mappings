@@ -1,0 +1,7 @@
+short_name: Actifed
+active_substance: Triprolidini hydrochloridum, Pseudoephedrini hydrochloridum
+marketing_authorisation_holder: McNeil Healthcare (Ireland) Limited, Ireland
+manufacturer: JNTL Consumer Health (France) SAS, France
+atc_code: R01BA52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0623/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0623/smpc

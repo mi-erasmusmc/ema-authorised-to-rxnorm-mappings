@@ -1,0 +1,7 @@
+short_name: Xadago
+active_substance: Safinamidum
+marketing_authorisation_holder: Zambon S.p.A., Italy
+manufacturer: Catalent Germany Schorndorf GmbH, Germany; Zambon S.p.A., Italy
+atc_code: N04BD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/984/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/984/001/smpc

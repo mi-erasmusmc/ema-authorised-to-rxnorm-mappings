@@ -1,0 +1,7 @@
+short_name: Lonsurf
+active_substance: Trifluridinum, Tipiracilum
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: Les Laboratoires Servier Industries, France; Servier (Ireland) Industries Ltd, Ireland
+atc_code: L01BC59
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1096/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1096/001/smpc

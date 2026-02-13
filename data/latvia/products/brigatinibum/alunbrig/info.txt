@@ -1,0 +1,7 @@
+short_name: Alunbrig
+active_substance: Brigatinibum
+marketing_authorisation_holder: Takeda Pharma A/S, Denmark
+manufacturer: Takeda Austria GmbH, Austria; Takeda Ireland Limited, Ireland
+atc_code: L01ED04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1264/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1264/001/smpc

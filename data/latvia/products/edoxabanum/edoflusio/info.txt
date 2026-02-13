@@ -1,0 +1,7 @@
+short_name: Edoflusio
+active_substance: Edoxabanum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0331/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0331/smpc

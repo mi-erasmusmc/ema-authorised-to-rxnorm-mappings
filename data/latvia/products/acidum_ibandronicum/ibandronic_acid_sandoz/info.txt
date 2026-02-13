@@ -1,0 +1,7 @@
+short_name: Ibandronic acid Sandoz
+active_substance: Acidum ibandronicum
+marketing_authorisation_holder: Sandoz GmbH, Austria
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Pharmathen S.A., Greece; Salutas Pharma GmbH, Germany; S.C. Sandoz S.R.L., Romania; Pharmathen International S.A., Greece; Lek S.A., Poland; Salutas Pharma GmbH, Germany
+atc_code: M05BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/685/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/685/001/smpc

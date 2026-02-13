@@ -1,0 +1,7 @@
+short_name: Menopur
+active_substance: Menotropinum
+marketing_authorisation_holder: Ferring GmbH, Germany
+manufacturer: Ferring GmbH, Germany
+atc_code: G03GA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0136/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0136/smpc

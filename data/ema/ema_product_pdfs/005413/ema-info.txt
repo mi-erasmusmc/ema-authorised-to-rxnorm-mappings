@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005413
+Name of medicine: Gavreto
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: pralsetinib
+Active substance: pralsetinib
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01EX23
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Gavreto is indicated as monotherapy for the treatment of adult patients with rearranged during transfection (RET) fusion-positive advanced non-small cell lung cancer (NSCLC) not previously treated with a RET inhibitor.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gavreto

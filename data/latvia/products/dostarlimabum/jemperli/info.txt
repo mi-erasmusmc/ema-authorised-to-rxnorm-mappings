@@ -1,0 +1,7 @@
+short_name: Jemperli
+active_substance: Dostarlimabum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: GlaxoSmithKline Manufacturing S.p.A., Italy; GlaxoSmithKline Trading Services Limited, Ireland
+atc_code: L01FF07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1538/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1538/001/smpc

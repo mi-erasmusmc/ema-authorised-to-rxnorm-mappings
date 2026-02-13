@@ -1,0 +1,7 @@
+short_name: Norepinephrine Kalceks
+active_substance: Norepinephrinum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: C01CA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0064/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0064/smpc

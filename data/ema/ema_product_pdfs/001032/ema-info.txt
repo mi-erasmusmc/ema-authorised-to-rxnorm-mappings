@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001032
+Name of medicine: Firdapse (previously Zenas)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: amifampridine
+Active substance: amifampridine
+Therapeutic area (MeSH): Lambert-Eaton Myasthenic Syndrome
+ATC code (human): N07XX05
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Symptomatic treatment of Lambert-Eaton myasthenic syndrome (LEMS) in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/firdapse

@@ -1,0 +1,7 @@
+short_name: Lodoz
+active_substance: Bisoprololi fumaras, Hydrochlorothiazidum
+marketing_authorisation_holder: Merck Serono, SIA, Latvia
+manufacturer: Merck Sante s.a.s., Centre de Production de Semoy, France; Merck Healthcare KGaA, Germany; P&G Health Austria GmbH & Co. OG, Austria
+atc_code: C07BB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0488/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0488/smpc

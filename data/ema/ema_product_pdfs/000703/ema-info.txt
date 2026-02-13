@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000703
+Name of medicine: Gardasil
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human papillomavirus vaccine [types 6, 11, 16, 18] (recombinant, adsorbed)
+Active substance: human papillomavirus type 6 L1 protein;human papillomavirus type 11 L1 protein;human papillomavirus type 16 L1 protein;human papillomavirus type 18 L1 protein
+Therapeutic area (MeSH): Papillomavirus Infections;Uterine Cervical Dysplasia;Condylomata Acuminata;Immunization
+ATC code (human): J07BM01
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Gardasil is a vaccine for use from the age of 9 years for the prevention of:  premalignant genital lesions (cervical, vulvar and vaginal), premalignant anal lesions, cervical cancers and anal cancers causally related to certain oncogenic Human Papillomavirus (HPV) types; genital warts (condyloma acuminata) causally related to specific HPV types.  See sections 4.4 and 5.1 for important information on the data that support this indication. The use of Gardasil should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gardasil

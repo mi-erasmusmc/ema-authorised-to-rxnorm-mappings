@@ -1,0 +1,7 @@
+short_name: Vasostenoon
+active_substance: Alprostadilum
+marketing_authorisation_holder: Kevelt AS, Estonia
+manufacturer: A/S Kevelt, Estonia
+atc_code: C01EA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0228/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0228/smpc

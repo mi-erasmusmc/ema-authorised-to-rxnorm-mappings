@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005814
+Name of medicine: Ronapreve
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: casirivimab;imdevimab
+Active substance: casirivimab;imdevimab
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J06BD07
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Ronapreve is indicated for:- Treatment of COVID-19 in adults, adolescents and children aged 2 years and older weighing at least 10 kg who do not require supplemental oxygen and who are at increased risk of progressing to severe COVID-19.- Treatment of COVID-19 in adults and adolescents aged 12 years and older weighing at least 40 kg and receiving supplemental oxygen, who have a negative SARS-CoV-2 antibody test result.&nbsp;- Prevention of COVID-19 in adults and adolescents aged 12 years and older weighing at least 40 kg.Ronapreve should be used in accordance with official recommendations where available and based on information on the activity of casirivimab and imdevimab against presently circulating viral variants.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ronapreve

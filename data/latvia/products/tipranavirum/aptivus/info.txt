@@ -1,0 +1,7 @@
+short_name: Aptivus
+active_substance: Tipranavirum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Boehringer Ingelheim France, France
+atc_code: J05AE09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/315/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/315/001/smpc

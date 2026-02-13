@@ -1,0 +1,7 @@
+short_name: Asolfena
+active_substance: Solifenacini succinas
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA d.d., Slovenia; TAD Pharma GmbH, Germany
+atc_code: G04BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0654/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0654/smpc

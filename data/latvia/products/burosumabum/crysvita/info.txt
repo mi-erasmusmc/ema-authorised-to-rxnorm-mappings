@@ -1,0 +1,7 @@
+short_name: CRYSVITA
+active_substance: Burosumabum
+marketing_authorisation_holder: Kyowa Kirin Holdings B.V., Netherlands
+manufacturer: Allphamed Pharbil Arzneimittel GmbH, Germany; Piramal Healthcare UK Limited, United Kingdom
+atc_code: M05BX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1262/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1262/001/smpc

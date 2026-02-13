@@ -1,0 +1,7 @@
+short_name: Tadalafil AOP
+active_substance: Tadalafilum
+marketing_authorisation_holder: AOP Orphan Pharmaceuticals GmbH, Austria
+manufacturer: Genepharm S.A., Greece; Pharmadox Healthcare Ltd., Malta
+atc_code: G04BE08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0025/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0025/smpc

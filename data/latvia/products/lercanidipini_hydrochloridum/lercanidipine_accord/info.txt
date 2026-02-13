@@ -1,0 +1,7 @@
+short_name: Lercanidipine Accord
+active_substance: Lercanidipini hydrochloridum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: C08CA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0022/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0022/smpc

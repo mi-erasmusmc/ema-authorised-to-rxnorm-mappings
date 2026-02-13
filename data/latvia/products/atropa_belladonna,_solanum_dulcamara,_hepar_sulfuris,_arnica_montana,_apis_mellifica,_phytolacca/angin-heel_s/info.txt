@@ -1,0 +1,7 @@
+short_name: Angin-Heel S
+active_substance: Atropa belladonna, Solanum dulcamara, Hepar sulfuris, Arnica montana, Apis mellifica, Phytolacca americana, Mercurius cyanatus
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0101/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0101/smpc

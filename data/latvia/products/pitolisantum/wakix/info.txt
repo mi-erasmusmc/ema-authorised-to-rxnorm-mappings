@@ -1,0 +1,7 @@
+short_name: Wakix
+active_substance: Pitolisantum
+marketing_authorisation_holder: Bioprojet Pharma, France
+manufacturer: Patheon France, France
+atc_code: N07XX11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1068/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1068/001/smpc

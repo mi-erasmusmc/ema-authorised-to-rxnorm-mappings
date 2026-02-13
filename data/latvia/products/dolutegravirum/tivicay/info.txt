@@ -1,0 +1,7 @@
+short_name: Tivicay
+active_substance: Dolutegravirum
+marketing_authorisation_holder: ViiV Healthcare BV, Netherlands
+manufacturer: GlaxoSmithKline Pharmaceuticals S.A., Poland; Glaxo Wellcome S.A., Spain
+atc_code: J05AJ03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/892/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/892/001/smpc

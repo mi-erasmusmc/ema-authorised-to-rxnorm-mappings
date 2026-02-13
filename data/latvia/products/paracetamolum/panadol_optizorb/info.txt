@@ -1,0 +1,7 @@
+short_name: Panadol optizorb
+active_substance: Paracetamolum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: GlaxoSmithKline Dungarvan Ltd., Ireland; SmithKline Beecham  S.A., Spain; Haleon Italy Manufacturing S.r.l., Italy
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0114/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0114/smpc

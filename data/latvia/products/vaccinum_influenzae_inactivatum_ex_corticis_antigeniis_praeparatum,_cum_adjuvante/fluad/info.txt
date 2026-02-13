@@ -1,0 +1,7 @@
+short_name: Fluad
+active_substance: Vaccinum influenzae inactivatum ex corticis antigeniis praeparatum, cum adjuvante
+marketing_authorisation_holder: Seqirus Netherlands B.V., Netherlands
+manufacturer: Seqirus Netherlands B.V., Netherlands
+atc_code: J07BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1878/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1878/001/smpc

@@ -1,0 +1,7 @@
+short_name: Trittico
+active_substance: Trazodoni hydrochloridum
+marketing_authorisation_holder: Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A., Italy
+manufacturer: Instituto De Angeli S.r.l., Italy; Aziende Chimiche Riunite Angelini Francesco - A.C.R.A.F. S.p.A., Italy
+atc_code: N06AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001469/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001469/smpc

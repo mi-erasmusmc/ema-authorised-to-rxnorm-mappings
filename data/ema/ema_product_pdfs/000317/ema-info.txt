@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000317
+Name of medicine: DepoCyte
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: cytarabine
+Active substance: cytarabine
+Therapeutic area (MeSH): Meningeal Neoplasms
+ATC code (human): L01BC01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Intrathecal treatment of lymphomatous meningitis. In the majority of patients such treatment will be part of symptomatic palliation of the disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/depocyte

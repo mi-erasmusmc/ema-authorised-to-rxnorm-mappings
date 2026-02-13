@@ -1,0 +1,7 @@
+short_name: Ximluci
+active_substance: Ranibizumabum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany
+atc_code: S01LA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1691/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1691/001/smpc

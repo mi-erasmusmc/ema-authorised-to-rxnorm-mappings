@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000669
+Name of medicine: RotaTeq
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rotavirus vaccine, live
+Active substance: rotavirus serotype G1;rotavirus serotype G2;rotavirus serotype G3;rotavirus serotype G4;rotavirus serotype P1
+Therapeutic area (MeSH): Immunization;Rotavirus Infections
+ATC code (human): J07BH02
+Pharmacotherapeutic group (human): Vaccines;Viral vaccines
+Therapeutic indication: RotaTeq is indicated for the active immunisation of infants from the age of six weeks to 32 weeks for prevention of gastroenteritis due to rotavirus infection. RotaTeq is to be used on the basis of official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rotateq

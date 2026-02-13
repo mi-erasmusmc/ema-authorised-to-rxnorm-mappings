@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000890
+Name of medicine: Zypadhera
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: olanzapine
+Active substance: olanzapine pamoate
+Therapeutic area (MeSH): Schizophrenia
+ATC code (human): N05AH03
+Pharmacotherapeutic group (human): Psycholeptics
+Therapeutic indication: Maintenance treatment of adult patients with schizophrenia sufficiently stabilised during acute treatment with oral olanzapine.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zypadhera

@@ -1,0 +1,7 @@
+short_name: Efavirenz Teva
+active_substance: Efavirenzum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Pliva Hrvatska d.o.o., Croatia
+atc_code: J05AG03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/742/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/742/001/smpc

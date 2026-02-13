@@ -1,0 +1,7 @@
+short_name: Dutasteride Teva
+active_substance: Dutasteridum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; TEVA Czech Industries s.r.o., Czech Republic; Pharmachemie B.V., Netherlands
+atc_code: G04CB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0336/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0336/smpc

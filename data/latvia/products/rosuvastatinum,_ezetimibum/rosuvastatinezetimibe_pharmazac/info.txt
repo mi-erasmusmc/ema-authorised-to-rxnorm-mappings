@@ -1,0 +1,7 @@
+short_name: Rosuvastatin/Ezetimibe Pharmazac
+active_substance: Rosuvastatinum, Ezetimibum
+marketing_authorisation_holder: Pharmazac S.A., Greece
+manufacturer: ELPEN Pharmaceutical Co. Inc (SA), Greece; Medicair Bioscience Laboratories S.A, Greece
+atc_code: C10BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0077/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0077/smpc

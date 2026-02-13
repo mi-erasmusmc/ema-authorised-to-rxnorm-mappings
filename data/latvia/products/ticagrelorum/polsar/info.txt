@@ -1,0 +1,7 @@
+short_name: Polsar
+active_substance: Ticagrelorum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zaklady Farmaceutyczne Polpharma S.A., Poland
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0075/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0075/smpc

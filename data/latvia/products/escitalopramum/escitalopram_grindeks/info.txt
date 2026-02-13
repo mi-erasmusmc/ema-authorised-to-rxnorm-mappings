@@ -1,0 +1,7 @@
+short_name: Escitalopram Grindeks
+active_substance: Escitalopramum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: HBM Pharma s.r.o., Slovakia; Grindeks, AS, Latvia
+atc_code: N06AB10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0105/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0105/smpc

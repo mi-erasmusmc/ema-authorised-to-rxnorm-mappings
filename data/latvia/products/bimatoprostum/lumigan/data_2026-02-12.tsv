@@ -1,0 +1,8 @@
+product_id	original_name	authorisation_no	date_of_authorisation	inter_code	strength	pharmaceutical_form	product_strength	package_en	package_size
+EU/1/02/205/001	Lumigan	EU/1/02/205/001	08-MAR-02	EMEA/H/C/000391	0.3 mg/ml	Eye drops, solution	0,9 mg/3 ml	Carton box, LDPE bottle, N1	1
+EU/1/02/205/002	Lumigan	EU/1/02/205/002	09-JUL-02	EMEA/H/C/000391	0.3 mg/ml	Eye drops, solution	0,9 mg/3 ml	Carton box, LDPE bottle, N3	3
+EU/1/02/205/003	Lumigan	EU/1/02/205/003	07-JAN-10	EMEA/H/C/000391	0.1 mg/ml	Eye drops, solution	0,3 mg/3 ml	Carton box, LDPE bottle, N1	1
+EU/1/02/205/004	Lumigan	EU/1/02/205/004	07-JAN-10	EMEA/H/C/000391	0.1 mg/ml	Eye drops, solution	0,3 mg/3 ml	Carton box, LDPE bottle, N3	3
+EU/1/02/205/005	Lumigan	EU/1/02/205/005	08-MAR-02	EMEA/H/C/000391	0.3 mg/ml	Eye drops, solution	0,12 mg/0,4 ml	LDPE single-dose container, N5	5
+EU/1/02/205/006	Lumigan	EU/1/02/205/006	08-MAR-02	EMEA/H/C/000391	0.3 mg/ml	Eye drops, solution	0,12 mg/0,4 ml	LDPE single-dose container, N30	30
+EU/1/02/205/007	Lumigan	EU/1/02/205/007	08-MAR-02	EMEA/H/C/000391	0.3 mg/ml	Eye drops, solution	0,12 mg/0,4 ml	LDPE single-dose container, N90	90

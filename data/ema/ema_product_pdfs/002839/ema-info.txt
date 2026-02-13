@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002839
+Name of medicine: Odomzo
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sonidegib
+Active substance: sonidegib diphosphate
+Therapeutic area (MeSH): Carcinoma, Basal Cell
+ATC code (human): L01XJ02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Odomzo is indicated for the treatment of adult patients with locally advanced basal cell carcinoma (BCC) who are not amenable to curative surgery or radiation therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/odomzo

@@ -1,0 +1,7 @@
+short_name: Arcoxia
+active_substance: Etoricoxibum
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands; Organon Heist bv, Belgium
+atc_code: M01AH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0003/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0003/smpc

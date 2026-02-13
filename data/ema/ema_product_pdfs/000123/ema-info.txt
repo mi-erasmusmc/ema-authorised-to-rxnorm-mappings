@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000123
+Name of medicine: Hycamtin
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: topotecan
+Active substance: topotecan
+Therapeutic area (MeSH): Ovarian Neoplasms;Uterine Cervical Neoplasms;Small Cell Lung Carcinoma
+ATC code (human): L01CE01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Hycamtin capsules are indicated as monotherapy for the treatment of adult patients with relapsed small cell lung cancer (SCLC) for whom re-treatment with the first-line regimen is not considered appropriate. Topotecan is indicated for the treatment of patients with metastatic carcinoma of the ovary after failure of first-line or subsequent therapy. Hycamtin capsules are indicated as monotherapy for the treatment of adult patients with relapsed small cell lung cancer (SCLC) for whom re-treatment with the first-line regimen is not considered appropriate.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hycamtin

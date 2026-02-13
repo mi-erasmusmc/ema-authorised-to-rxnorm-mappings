@@ -1,0 +1,7 @@
+short_name: Komboglyze
+active_substance: Saxagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: AstraZeneca AB, Sweden
+manufacturer: AstraZeneca UK Limited, United Kingdom; AstraZeneca AB, Sweden
+atc_code: A10BD10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/731/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/731/001/smpc

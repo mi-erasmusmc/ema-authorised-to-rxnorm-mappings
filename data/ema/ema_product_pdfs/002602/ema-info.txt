@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002602
+Name of medicine: Erivedge
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vismodegib
+Active substance: vismodegib
+Therapeutic area (MeSH): Carcinoma, Basal Cell
+ATC code (human): L01XX43
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Erivedge is indicated for the treatment of adult patients with:- symptomatic metastatic basal cell carcinoma- locally advanced basal cell carcinoma inappropriate for surgery or radiotherapy
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/erivedge

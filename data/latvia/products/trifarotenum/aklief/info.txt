@@ -1,0 +1,7 @@
+short_name: Aklief
+active_substance: Trifarotenum
+marketing_authorisation_holder: Galderma International, France
+manufacturer: Laboratoires GALDERMA, France; Galderma Laboratorium GmbH, Germany
+atc_code: D10AD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0205/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0205/smpc

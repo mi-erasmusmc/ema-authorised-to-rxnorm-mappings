@@ -1,0 +1,7 @@
+short_name: Androcur
+active_substance: Cyproteroni acetas
+marketing_authorisation_holder: Advanz Pharma Limited, Ireland
+manufacturer: Bayer Weimar GmbH und Co. KG, Germany; Bayer AG, Germany
+atc_code: G03HA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0266/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0266/smpc

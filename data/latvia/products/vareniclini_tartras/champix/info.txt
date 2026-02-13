@@ -1,0 +1,7 @@
+short_name: Champix
+active_substance: Vareniclini tartras
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Deutschland GmbH, Germany; Pfizer Italia s.r.l., Italy; R-Pharm Germany GmbH, Germany
+atc_code: N07BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/360/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/06/360/001/smpc

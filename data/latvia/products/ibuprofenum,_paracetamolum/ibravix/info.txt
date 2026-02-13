@@ -1,0 +1,7 @@
+short_name: Ibravix
+active_substance: Ibuprofenum, Paracetamolum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0218/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0218/smpc

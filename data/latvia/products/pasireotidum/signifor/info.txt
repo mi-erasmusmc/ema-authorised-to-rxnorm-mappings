@@ -1,0 +1,7 @@
+short_name: Signifor
+active_substance: Pasireotidum
+marketing_authorisation_holder: Recordati Rare Diseases, France
+manufacturer: Novartis Pharma GmbH, Germany
+atc_code: H01CB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/753/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/753/001/smpc

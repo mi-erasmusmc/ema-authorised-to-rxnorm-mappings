@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005956
+Name of medicine: Dimethyl fumarate Mylan
+Medicine status: Revoked
+International non-proprietary name (INN) / common name: dimethyl fumarate
+Active substance: dimethyl fumarate
+Therapeutic area (MeSH): Multiple Sclerosis, Relapsing-Remitting
+ATC code (human): L04AX07
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Dimethyl fumarate Mylan is indicated for the treatment of adult patients with relapsing remitting multiple sclerosis.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-mylan-0

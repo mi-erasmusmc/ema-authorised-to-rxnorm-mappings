@@ -1,0 +1,7 @@
+short_name: Vagisan
+active_substance: Acidum lacticum, Natrii (S)- lactatis solutio
+marketing_authorisation_holder: Dr. August Wolff GmbH & Co. KG Arzneimittel, Germany
+manufacturer: Dr. August Wolff GmbH & Co. KG Arzneimittel, Germany
+atc_code: G01AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0455/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0455/smpc

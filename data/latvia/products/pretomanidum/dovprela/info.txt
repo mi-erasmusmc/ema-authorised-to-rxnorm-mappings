@@ -1,0 +1,7 @@
+short_name: Dovprela
+active_substance: Pretomanidum
+marketing_authorisation_holder: Mylan IRE Healthcare Ltd, Ireland
+manufacturer: Mylan Hungary Kft., Hungary; Rottapharm Limited, Ireland
+atc_code: J04AK08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1437/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1437/001/smpc

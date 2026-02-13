@@ -1,0 +1,5 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/12/812/001	EMEA/H/C/002333	--1	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe with needles	Bexsero
+EU/1/12/812/002	EMEA/H/C/002333	--1	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe without needles	Bexsero
+EU/1/12/812/003	EMEA/H/C/002333	--1	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes with needles	Bexsero
+EU/1/12/812/004	EMEA/H/C/002333	--1	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes without needles	Bexsero

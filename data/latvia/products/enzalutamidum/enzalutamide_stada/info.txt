@@ -1,0 +1,7 @@
+short_name: Enzalutamide STADA
+active_substance: Enzalutamidum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Clonmel Healthcare Limited, Ireland; Stada Arzneimittel GmbH, Austria; PharOS MT Ltd., Malta
+atc_code: L02BB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0196/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0196/smpc

@@ -1,0 +1,7 @@
+short_name: Fenistil
+active_substance: Dimetindeni maleas
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Haleon Germany GmbH, Germany
+atc_code: D04AA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0564/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0564/smpc

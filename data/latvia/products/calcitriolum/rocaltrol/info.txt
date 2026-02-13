@@ -1,0 +1,7 @@
+short_name: Rocaltrol
+active_substance: Calcitriolum
+marketing_authorisation_holder: Atnahs Pharma Netherlands B.V., Denmark
+manufacturer: Allphamed Pharbil Arzneimittel GmbH, Germany; IL CSM Clinical Supplies Management GmbH, Germany
+atc_code: A11CC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0336/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0336/smpc

@@ -1,0 +1,7 @@
+short_name: Kisqali
+active_substance: Ribociclibum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia
+atc_code: L01EF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1221/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1221/001/smpc

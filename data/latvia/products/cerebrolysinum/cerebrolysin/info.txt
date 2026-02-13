@@ -1,0 +1,7 @@
+short_name: Cerebrolysin
+active_substance: Cerebrolysinum
+marketing_authorisation_holder: EVER Neuro Pharma GmbH, Austria
+manufacturer: EVER Neuro Pharma GmbH, Austria
+atc_code: N07XX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0065/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0065/smpc

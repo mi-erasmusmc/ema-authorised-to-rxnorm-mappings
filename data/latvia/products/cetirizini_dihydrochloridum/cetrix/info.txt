@@ -1,0 +1,7 @@
+short_name: Cetrix
+active_substance: Cetirizini dihydrochloridum
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: R06AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0576/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0576/smpc

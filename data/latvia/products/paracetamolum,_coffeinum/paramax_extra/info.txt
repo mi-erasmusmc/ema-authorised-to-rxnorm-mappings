@@ -1,0 +1,7 @@
+short_name: Paramax Extra
+active_substance: Paracetamolum, Coffeinum
+marketing_authorisation_holder: Vitabalans Oy, Finland
+manufacturer: Vitabalans Oy, Finland
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0322/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0322/smpc

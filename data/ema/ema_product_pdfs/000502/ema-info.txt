@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000502
+Name of medicine: Bondenza (previously Ibandronic Acid Roche)
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: ibandronic acid
+Active substance: ibandronic acid
+Therapeutic area (MeSH): Osteoporosis, Postmenopausal
+ATC code (human): M05BA06
+Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
+Therapeutic indication: Treatment of osteoporosis in post-menopausal women at increased risk of fracture. A reduction in the risk of vertebral fractures has been demonstrated. Efficacy on femoral-neck fractures has not been established.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bondenza

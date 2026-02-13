@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005928
+Name of medicine: Eladynos
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: abaloparatide
+Active substance: abaloparatide
+Therapeutic area (MeSH): Osteoporosis, Postmenopausal;Osteoporosis
+ATC code (human): H05AA04
+Pharmacotherapeutic group (human): Calcium homeostasis
+Therapeutic indication: Treatment of osteoporosis in postmenopausal women at increased risk of fracture.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/eladynos

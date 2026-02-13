@@ -1,0 +1,7 @@
+short_name: Prialt
+active_substance: Ziconotidum
+marketing_authorisation_holder: Riemser Pharma GmbH, Germany
+manufacturer: Riemser Pharma GmbH, Germany
+atc_code: N02BG08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/302/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/302/001/smpc

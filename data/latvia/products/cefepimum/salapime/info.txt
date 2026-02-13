@@ -1,0 +1,7 @@
+short_name: Salapime
+active_substance: Cefepimum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Laboratorio Reig Jofre S.A., Spain
+atc_code: J01DE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0175/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0175/smpc

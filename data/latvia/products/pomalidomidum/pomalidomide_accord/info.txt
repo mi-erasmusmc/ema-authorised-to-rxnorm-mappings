@@ -1,0 +1,7 @@
+short_name: Pomalidomide Accord
+active_substance: Pomalidomidum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Synthon BV, Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Synthon Hispania S.L., Spain
+atc_code: L04AX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1831/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1831/001/smpc

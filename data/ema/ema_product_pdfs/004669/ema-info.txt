@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004669
+Name of medicine: Vaborem
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: meropenem;vaborbactam
+Active substance: meropenem trihydrate;vaborbactam
+Therapeutic area (MeSH): Urinary Tract Infections;Bacteremia;Bacterial Infections;Respiratory Tract Infections;Pneumonia;Pneumonia, Ventilator-Associated
+ATC code (human): J01DH
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Vaborem is indicated for the treatment of the following infections in adults:  Complicated urinary tract infection (cUTI), including pyelonephritis Complicated intra-abdominal infection (cIAI) Hospital-acquired pneumonia (HAP), including ventilator associated pneumonia (VAP).  Treatment of patients with bacteraemia that occurs in association with, or is suspected to be associated with, any of the infections listed above. Vaborem is also indicated for the treatment of infections due to aerobic Gram-negative organisms in adults with limited treatment options. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vaborem

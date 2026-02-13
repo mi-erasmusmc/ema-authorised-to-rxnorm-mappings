@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006172
+Name of medicine: Vueway
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: gadopiclenol
+Active substance: Gadopiclenol
+Therapeutic area (MeSH): Magnetic Resonance Imaging
+ATC code (human): V08CA12
+Pharmacotherapeutic group (human): Paramagnetic contrast media
+Therapeutic indication: This medicinal product is for diagnostic use only.Vueway is indicated in adults and children from birth for contrast-enhanced magnetic resonance imaging (MRI) to improve detection and visualization of pathologies with disruption of the blood-brain-barrier (BBB) and/or abnormal vascularity of:- the brain, spine, and associated tissues of the central nervous system (CNS);- the liver, kidney, pancreas, breast, lung, prostate, and musculoskeletal system.It should be used only when diagnostic information is essential and not available with unenhanced MRI.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vueway

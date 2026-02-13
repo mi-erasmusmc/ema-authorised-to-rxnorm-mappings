@@ -1,0 +1,7 @@
+short_name: Veklury
+active_substance: Remdesivirum
+marketing_authorisation_holder: Gilead Sciences Ireland UC, Ireland
+manufacturer: Gilead Sciences Ireland UC, Ireland
+atc_code: J05AB16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1459/002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1459/002/smpc

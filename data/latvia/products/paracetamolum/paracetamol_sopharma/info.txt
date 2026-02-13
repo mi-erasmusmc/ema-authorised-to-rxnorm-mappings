@@ -1,0 +1,7 @@
+short_name: Paracetamol Sopharma
+active_substance: Paracetamolum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0661/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0661/smpc

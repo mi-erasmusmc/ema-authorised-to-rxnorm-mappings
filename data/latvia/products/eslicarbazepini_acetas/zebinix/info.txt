@@ -1,0 +1,7 @@
+short_name: Zebinix
+active_substance: Eslicarbazepini acetas
+marketing_authorisation_holder: Laboratorios Bial - Portela & Ca, S.A., Portugal
+manufacturer: Laboratorios Bial - Portela & Ca, S.A., Portugal
+atc_code: N03AF04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/514/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/514/001/smpc

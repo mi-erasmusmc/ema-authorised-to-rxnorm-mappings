@@ -1,0 +1,7 @@
+short_name: Rennie Orange
+active_substance: Calcii carbonas, Magnesii subcarbonas ponderosus
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: Delpharm Gaillard, France
+atc_code: A02AD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0100/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0100/smpc

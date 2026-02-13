@@ -1,0 +1,7 @@
+short_name: Ifirmasta
+active_substance: Irbesartanum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: C09CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/480/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/480/001/smpc

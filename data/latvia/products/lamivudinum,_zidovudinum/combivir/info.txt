@@ -1,0 +1,7 @@
+short_name: Combivir
+active_substance: Lamivudinum, Zidovudinum
+marketing_authorisation_holder: Viiv Healthcare B.V., Netherlands
+manufacturer: Delpharm Poznań Spółka Akcyjna, Poland
+atc_code: J05AR01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/058/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/058/001/smpc

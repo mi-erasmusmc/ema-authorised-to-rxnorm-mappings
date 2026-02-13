@@ -1,0 +1,7 @@
+short_name: Gentamicin KRKA
+active_substance: Gentamicinum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: J01GB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1028/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1028/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003824
+Name of medicine: Rivastigmine 3M Health Care Ltd
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: rivastigmine
+Active substance: rivastigmine
+Therapeutic area (MeSH): Alzheimer Disease
+ATC code (human): N06DA03
+Pharmacotherapeutic group (human): Psychoanaleptics;Anticholinesterases
+Therapeutic indication: Symptomatic treatment of mild to moderately severe Alzheimer's dementia.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-3m-health-care-ltd

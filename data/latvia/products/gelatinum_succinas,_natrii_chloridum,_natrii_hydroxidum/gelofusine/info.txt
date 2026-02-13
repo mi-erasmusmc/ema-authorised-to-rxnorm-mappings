@@ -1,0 +1,7 @@
+short_name: Gelofusine
+active_substance: Gelatinum succinas, Natrii chloridum, Natrii hydroxidum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: B05AA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0631/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0631/smpc

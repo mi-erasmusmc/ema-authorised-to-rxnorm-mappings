@@ -1,0 +1,7 @@
+short_name: Fludrocortisone Acetate Renata
+active_substance: Fludrocortisoni acetas
+marketing_authorisation_holder: Renata Pharmaceuticals (Ireland) Limited, Ireland
+manufacturer: Alterno Labs d.o.o., Slovenia
+atc_code: H02AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0159/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0159/smpc

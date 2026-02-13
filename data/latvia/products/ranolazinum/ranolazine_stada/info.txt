@@ -1,0 +1,7 @@
+short_name: Ranolazine Stada
+active_substance: Ranolazinum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Adamed Pharma S.A., Poland
+atc_code: C01EB18
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0120/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0120/smpc

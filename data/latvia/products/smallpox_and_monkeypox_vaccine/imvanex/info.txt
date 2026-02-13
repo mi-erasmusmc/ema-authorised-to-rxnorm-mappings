@@ -1,0 +1,7 @@
+short_name: IMVANEX
+active_substance: Smallpox and monkeypox vaccine
+marketing_authorisation_holder: Bavarian Nordic A/S, Denmark
+manufacturer: Bavarian Nordic A/S, Denmark
+atc_code: J07BX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/855/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/855/001/smpc

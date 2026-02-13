@@ -1,0 +1,7 @@
+short_name: Cevenfacta
+active_substance: Eptacogum beta activatum
+marketing_authorisation_holder: Laboratoire Francais du Fractionnement et des Biotechnologies, France
+manufacturer: LFB Biotechnologies, France
+atc_code: B02BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1664/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1664/001/smpc

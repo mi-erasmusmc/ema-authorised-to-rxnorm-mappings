@@ -1,0 +1,7 @@
+short_name: Calcium/Colecalciferol Beres
+active_substance: Calcium, Colecalciferolum
+marketing_authorisation_holder: Beres Pharmaceuticals Ltd., Hungary
+manufacturer: Beres Pharmaceuticals Ltd., Hungary
+atc_code: A12AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0107/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0107/smpc

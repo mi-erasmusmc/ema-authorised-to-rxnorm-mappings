@@ -1,0 +1,7 @@
+short_name: Remodulin
+active_substance: Treprostinilum
+marketing_authorisation_holder: Ferrer Internacional, SA., Spain
+manufacturer: Ferrer Internacional, SA, Spain; Kwizda Pharmadistribution GmbH, Austria
+atc_code: B01AC21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0201/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0201/smpc

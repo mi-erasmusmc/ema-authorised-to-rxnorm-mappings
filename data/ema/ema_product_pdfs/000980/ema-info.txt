@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000980
+Name of medicine: Samsca
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tolvaptan
+Active substance: tolvaptan
+Therapeutic area (MeSH): Inappropriate ADH Syndrome
+ATC code (human): C03XA01
+Pharmacotherapeutic group (human): Diuretics
+Therapeutic indication: Treatment of adult patients with hyponatraemia secondary to syndrome of inappropriate antidiuretic-hormone secretion (SIADH).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/samsca

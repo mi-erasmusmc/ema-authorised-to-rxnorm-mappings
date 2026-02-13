@@ -1,0 +1,7 @@
+short_name: Benepali
+active_substance: Etanerceptum
+marketing_authorisation_holder: Samsung Bioepis NL B.V., Netherlands
+manufacturer: Biogen Netherlands B.V., Netherlands; Samsung Bioepis NL B.V., Netherlands
+atc_code: L04AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1074/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1074/001/smpc

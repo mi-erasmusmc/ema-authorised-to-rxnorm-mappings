@@ -1,0 +1,7 @@
+short_name: EpiPen
+active_substance: Epinephrinum
+marketing_authorisation_holder: Viatris Healthcare, Belgium
+manufacturer: Meda Pharma GmbH & Co.KG, Germany
+atc_code: C01CA24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001676/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001676/smpc

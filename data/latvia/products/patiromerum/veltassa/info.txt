@@ -1,0 +1,7 @@
+short_name: Veltassa
+active_substance: Patiromerum
+marketing_authorisation_holder: Vifor Fresenius Medical Care Renal Pharma France, France
+manufacturer: Vifor France SAS, France; OM Pharma S.A., Portugal
+atc_code: V03AE09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1179/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1179/001/smpc

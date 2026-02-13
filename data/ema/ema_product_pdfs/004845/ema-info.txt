@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004845
+Name of medicine: Tabrecta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: capmatinib
+Active substance: capmatinib dihydrochloride monohydrate
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01EX17
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Tabrecta as monotherapy is indicated for the treatment of adult patients with advanced non small cell lung cancer (NSCLC) harbouring alterations leading to mesenchymal epithelial transition factor gene exon 14 (METex14) skipping, who require systemic therapy following prior treatment with immunotherapy and/or platinum based chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tabrecta

@@ -1,0 +1,7 @@
+short_name: Skilarence
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Almirall, S.A., Spain
+manufacturer: Industrias Farmaceuticas Almirall, S.A., Spain
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1201/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1201/001/smpc

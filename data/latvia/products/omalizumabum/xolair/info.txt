@@ -1,0 +1,7 @@
+short_name: Xolair
+active_substance: Omalizumabum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia; Novartis Pharma GmbH, Germany
+atc_code: R03DX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/319/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/319/001/smpc

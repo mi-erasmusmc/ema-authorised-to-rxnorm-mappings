@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000436
+Name of medicine: Cialis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tadalafil
+Active substance: tadalafil
+Therapeutic area (MeSH): Erectile Dysfunction
+ATC code (human): G04BE08
+Pharmacotherapeutic group (human): Urologicals
+Therapeutic indication: Treatment of erectile dysfunction. In order for tadalafil to be effective, sexual stimulation is required. Cialis is not indicated for use by women.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cialis

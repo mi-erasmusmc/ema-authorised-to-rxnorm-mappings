@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000209
+Name of medicine: Micardis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: telmisartan
+Active substance: telmisartan
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09CA07
+Pharmacotherapeutic group (human): Angiotensin II antagonists, plain
+Therapeutic indication: Hypertension Treatment of essential hypertension in adults. Cardiovascular prevention Reduction of cardiovascular morbidity in patients with:  manifest atherothrombotic cardiovascular disease (history of coronary heart disease, stroke, or peripheral arterial disease) or; type-2 diabetes mellitus with documented target-organ damage.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/micardis

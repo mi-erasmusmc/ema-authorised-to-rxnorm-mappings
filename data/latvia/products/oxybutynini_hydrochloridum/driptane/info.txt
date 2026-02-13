@@ -1,0 +1,7 @@
+short_name: Driptane
+active_substance: Oxybutynini hydrochloridum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Astrea Fontaine, France
+atc_code: G04BD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0871/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0871/smpc

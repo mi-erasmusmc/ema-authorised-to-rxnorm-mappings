@@ -1,0 +1,6 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/08/451/001	1337103	ambrisentan 5 MG Oral Tablet	722122	EXACT			2025-12-04
+EU/1/08/451/002	1337103	ambrisentan 5 MG Oral Tablet	722122	EXACT			2025-12-04
+EU/1/08/451/003	1337070	ambrisentan 10 MG Oral Tablet	722116	EXACT			2025-12-04
+EU/1/08/451/004	1337070	ambrisentan 10 MG Oral Tablet	722116	EXACT			2025-12-04
+EU/1/08/451/005	35161032	ambrisentan 2.5 MG Oral Tablet	OMOP4818005	EXACT			2025-12-04

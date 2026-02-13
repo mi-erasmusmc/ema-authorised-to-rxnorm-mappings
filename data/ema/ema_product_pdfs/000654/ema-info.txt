@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000654
+Name of medicine: Luminity
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: perflutren
+Active substance: perflutren
+Therapeutic area (MeSH): Echocardiography
+ATC code (human): V08DA04
+Pharmacotherapeutic group (human): Contrast media
+Therapeutic indication: This medicinal product is for diagnostic use only. Luminity is an ultrasound contrast-enhancing agent for use in patients in whom non-contrast echocardiography was suboptimal (suboptimal is considered to indicate that at least two of six segments in the 4- or 2-chamber view of the ventricular border were not evaluable) and who have suspected or established coronary artery disease, to provide opacification of cardiac chambers and improvement of left ventricular endocardial border delineation at both rest and stress.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/luminity

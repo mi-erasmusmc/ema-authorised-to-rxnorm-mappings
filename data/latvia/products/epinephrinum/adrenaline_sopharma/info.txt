@@ -1,0 +1,7 @@
+short_name: Adrenaline Sopharma
+active_substance: Epinephrinum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: C01CA24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0362/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0362/smpc

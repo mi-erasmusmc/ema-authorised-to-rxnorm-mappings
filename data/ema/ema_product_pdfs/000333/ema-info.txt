@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000333
+Name of medicine: Nespo
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: darbepoetin alfa
+Active substance: darbepoetin alfa
+Therapeutic area (MeSH): Kidney Failure, Chronic;Anemia;Cancer
+ATC code (human): B03XA02
+Pharmacotherapeutic group (human): Antianemic preparations
+Therapeutic indication: Treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adults and paediatric patients.Treatment of symptomatic anaemia in adult cancer patients with non-myeloid malignancies receiving chemotherapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nespo

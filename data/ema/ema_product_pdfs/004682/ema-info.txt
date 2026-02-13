@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004682
+Name of medicine: Symkevi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tezacaftor;ivacaftor
+Active substance: tezacaftor;ivacaftor
+Therapeutic area (MeSH): Cystic Fibrosis
+ATC code (human): R07AX31
+Pharmacotherapeutic group (human): Other respiratory system products
+Therapeutic indication: Symkevi is indicated in a combination regimen with ivacaftor tablets for the treatment of patients with cystic fibrosis (CF) aged 6 years and older who are homozygous for the F508del mutation or who are heterozygous for the F508del mutation and have one of the following mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene: P67L, R117C, L206W, R352Q, A455E, D579G, 711+3A?G, S945L, S977F, R1070W, D1152H, 2789+5G?A, 3272 26A?G, and 3849+10kbC?T.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/symkevi

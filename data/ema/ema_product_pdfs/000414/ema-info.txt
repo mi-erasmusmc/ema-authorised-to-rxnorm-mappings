@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000414
+Name of medicine: PritorPlus
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: telmisartan;hydrochlorothiazide
+Active substance: telmisartan;hydrochlorothiazide
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09DA07
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of essential hypertension. PritorPlus fixed-dose combination (40 mg telmisartan / 12.5 mg hydrochlorothiazide, 80mg telmisartan / 12.5 mg hydrochlorothiazide) is indicated in patients whose blood pressure is not adequately controlled on telmisartan alone. PritorPlus fixed-dose combination (80 mg telmisartan / 25 mg hydrochlorothiazide) is indicated in patients whose blood pressure is not adequately controlled on PritorPlus (80 mg telmisartan / 12.5 mg hydrochlorothiazide) or patients who have been previously stabilised on telmisartan and hydrochlorothiazide given separately.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pritorplus

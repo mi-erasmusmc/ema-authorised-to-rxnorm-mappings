@@ -1,0 +1,7 @@
+short_name: Foradil Aerolizer
+active_substance: Formoteroli fumaras dihydricus
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Salutas Pharma GmbH, Germany
+atc_code: R03AC13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0742/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0742/smpc

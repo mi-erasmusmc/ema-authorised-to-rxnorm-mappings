@@ -1,0 +1,7 @@
+short_name: Vizamyl
+active_substance: Flutemetamolum (18F)
+marketing_authorisation_holder: GE Healthcare AS, Norway
+manufacturer: Advanced Accelerator Applications (Italy). S.r.l., Italy; Seibersdorf Labor GmbH, Austria; Advanced Accelerator Applications, France; Map Medical Technologies Oy, Finland; Advanced Accelerator Applications Iberica, S.L., Spain; Advanced Accelerator Applications (Italy). S.r.l., Italy; Nucleis SA, Belgium; ITEL Telecomunicazioni S.r.l., Italy; Helmholtz-Zentrum Dresden-Rossendorf e.V., Germany; Curium Pharma Spain S.A., Spain
+atc_code: V09AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/941/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/14/941/001/smpc

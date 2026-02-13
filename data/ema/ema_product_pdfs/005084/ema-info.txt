@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005084
+Name of medicine: MenQuadfi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: meningococcal group A, C, W-135 and Y conjugate vaccine
+Active substance: Neisseria meningitidis group C polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group A polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group Y polysaccharide conjugated to tetanus toxoid;Neisseria meningitidis group W-135 polysaccharide conjugated to tetanus toxoid
+Therapeutic area (MeSH): Meningitis, Meningococcal
+ATC code (human): J07AH08
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: MenQuadfi is indicated for active immunisation of individuals from the age of 12 months and older against invasive meningococcal disease caused by Neisseria meningitidis serogroups A, C, W, and Y. The use of this vaccine should be in accordance with available official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/menquadfi

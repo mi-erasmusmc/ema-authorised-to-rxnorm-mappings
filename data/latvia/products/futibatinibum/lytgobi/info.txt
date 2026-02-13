@@ -1,0 +1,7 @@
+short_name: Lytgobi
+active_substance: Futibatinibum
+marketing_authorisation_holder: Taiho Pharma Netherlands B.V., Netherlands
+manufacturer: Millmount Healthcare Limited, Ireland
+atc_code: L01EN04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1741/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1741/001/smpc

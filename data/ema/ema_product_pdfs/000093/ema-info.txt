@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000093
+Name of medicine: Tritanrix HepB
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: diphtheria (D), tetanus (T), pertussis (whole cell) (Pw) and hepatitis B (rDNA) (HBV) vaccine (adsorbed)
+Active substance: Diphtheria toxoid;hepatitis B surface antigen;Bordetella pertussis (inactivated);tetanus toxoid
+Therapeutic area (MeSH): Hepatitis B;Tetanus;Immunization;Whooping Cough;Diphtheria
+ATC code (human): J07CA05
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Tritanrix HepB is indicated for active immunisation against diphtheria, tetanus, pertussis and hepatitis B (HBV) in infants from six weeks onwards (see section 4.2).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tritanrix-hepb

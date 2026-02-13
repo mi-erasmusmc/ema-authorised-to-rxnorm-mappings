@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003790
+Name of medicine: Kyprolis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: carfilzomib
+Active substance: carfilzomib
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): L01XX45
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Kyprolis in combination with daratumumab and dexamethasone, with lenalidomide and dexamethasone, or with dexamethasone alone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kyprolis

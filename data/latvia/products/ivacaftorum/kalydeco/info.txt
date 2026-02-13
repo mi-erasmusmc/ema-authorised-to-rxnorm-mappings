@@ -1,0 +1,7 @@
+short_name: Kalydeco
+active_substance: Ivacaftorum
+marketing_authorisation_holder: Vertex Pharmaceuticals (Ireland) Limited, Ireland
+manufacturer: Almac Pharma Services (Ireland) Limited, Ireland; Millmount Healthcare Limited, Ireland; Almac Pharma Services Limited, Northern Ireland
+atc_code: R07AX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/782/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/782/001/smpc

@@ -1,0 +1,7 @@
+short_name: Entresto
+active_substance: Sacubitrilum, Valsartanum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharma GmbH, Germany; Novartis Farma S.p.A., Italy; Lek Pharmaceuticals d.d., Slovenia; Novartis Pharmaceutical Manufacturing LLC, Slovenia; Novartis Pharma GmbH, Germany
+atc_code: C09DX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1058/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1058/001/smpc

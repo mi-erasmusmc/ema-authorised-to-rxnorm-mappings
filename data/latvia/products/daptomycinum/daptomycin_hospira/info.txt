@@ -1,0 +1,7 @@
+short_name: Daptomycin Hospira
+active_substance: Daptomycinum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Hospira UK Limited, United Kingdom; Pfizer Service Company BVBA, Belgium
+atc_code: J01XX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1175/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1175/001/smpc

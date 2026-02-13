@@ -1,0 +1,7 @@
+short_name: Twinrix Adult
+active_substance: Vaccinum hepatitidis A inactivatum et hepatitidis B (ADNr) adsorbatum
+marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A., Belgium
+manufacturer: GlaxoSmithKline Biologicals S.A., Belgium
+atc_code: J07BC20
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/020/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/020/001/smpc

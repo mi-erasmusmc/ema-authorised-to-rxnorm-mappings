@@ -1,0 +1,7 @@
+short_name: Prismasol
+active_substance: Calcii chloridum dihydricum, Magnesii chloridum hexahydricum, Glucosum anhydricum, Acidum lacticum, Natrii chloridum, Natrii hydrogenocarbonas, Kalii chloridum
+marketing_authorisation_holder: Vantive Belgium S.R.L., Belgium
+manufacturer: Bieffe Medital S.p.A., Italy; Vantive Manufacturing Limited, Ireland
+atc_code: B05ZB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0310/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0310/smpc

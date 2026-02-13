@@ -1,0 +1,7 @@
+short_name: ELOCTA
+active_substance: Efmoroctocogum alfa
+marketing_authorisation_holder: Swedish Orphan Biovitrum AB (publ), Sweden
+manufacturer: Swedish Orphan Biovitrum AB (publ), Sweden
+atc_code: B02BD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1046/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1046/001/smpc

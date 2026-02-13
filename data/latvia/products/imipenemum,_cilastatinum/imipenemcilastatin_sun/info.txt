@@ -1,0 +1,7 @@
+short_name: Imipenem/Cilastatin Sun
+active_substance: Imipenemum, Cilastatinum
+marketing_authorisation_holder: Sun Pharmaceutical Industries Europe B.V., Netherlands
+manufacturer: Terapia S.A., Romania; Sun Pharmaceutical Industries Europe B.V., Netherlands
+atc_code: J01DH51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0360/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0360/smpc

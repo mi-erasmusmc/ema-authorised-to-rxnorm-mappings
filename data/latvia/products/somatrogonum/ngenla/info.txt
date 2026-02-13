@@ -1,0 +1,7 @@
+short_name: Ngenla
+active_substance: Somatrogonum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: H01AC08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1617/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1617/001/smpc

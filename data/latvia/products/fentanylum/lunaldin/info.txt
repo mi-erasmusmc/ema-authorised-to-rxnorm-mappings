@@ -1,0 +1,7 @@
+short_name: Lunaldin
+active_substance: Fentanylum
+marketing_authorisation_holder: Grünenthal GmbH, Germany
+manufacturer: Gedeon Richter Plc., Hungary; RECIPHARM LEGANÉS S.L.U., Spain
+atc_code: N02AB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0096/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0096/smpc

@@ -1,0 +1,7 @@
+short_name: Ogluo
+active_substance: Glucagonum
+marketing_authorisation_holder: Strongbridge Dublin Limited, Ireland
+manufacturer: AcertiPharma B.V., Netherlands
+atc_code: H04AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1523/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1523/001/smpc

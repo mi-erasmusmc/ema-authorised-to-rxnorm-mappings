@@ -1,0 +1,7 @@
+short_name: Ezetimibe Accord
+active_substance: Ezetimibum
+marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland
+atc_code: C10AX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0093/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0093/smpc

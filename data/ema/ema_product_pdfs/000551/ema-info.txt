@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000551
+Name of medicine: Prialt
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ziconotide
+Active substance: ziconotide
+Therapeutic area (MeSH): Injections, Spinal;Pain
+ATC code (human): N02BG08
+Pharmacotherapeutic group (human): Analgesics
+Therapeutic indication: Ziconotide is indicated for the treatment of severe, chronic pain in patients who require intrathecal (IT) analgesia.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/prialt

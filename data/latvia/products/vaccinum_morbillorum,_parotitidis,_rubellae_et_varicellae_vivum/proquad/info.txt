@@ -1,0 +1,7 @@
+short_name: ProQuad
+active_substance: Vaccinum morbillorum, parotitidis, rubellae et varicellae vivum
+marketing_authorisation_holder: Merck Sharp & Dohme B.V., Netherlands
+manufacturer: Merck Sharp & Dohme B.V., Netherlands
+atc_code: J07BD54
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/323/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/05/323/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004180
+Name of medicine: Veltassa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: patiromer
+Active substance: patiromer sorbitex calcium
+Therapeutic area (MeSH): Hyperkalemia
+ATC code (human): V03AE09
+Pharmacotherapeutic group (human): Drugs for treatment of hyperkalemia and hyperphosphatemia
+Therapeutic indication: Veltassa is indicated for the treatment of hyperkalaemia in adults and adolescents aged 12 to 17 years.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/veltassa

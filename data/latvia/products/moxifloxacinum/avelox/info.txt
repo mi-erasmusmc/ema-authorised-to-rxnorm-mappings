@@ -1,0 +1,7 @@
+short_name: Avelox
+active_substance: Moxifloxacinum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: J01MA14
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0395/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0395/smpc

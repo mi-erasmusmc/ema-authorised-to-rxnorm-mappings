@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005060
+Name of medicine: Rekambys
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rilpivirine
+Active substance: rilpivirine
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AG05
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: REKAMBYS is indicated, in combination with cabotegravir injection, for the treatment of human immunodeficiency virus type 1 (HIV 1) infection in adults and adolescents (at least 12 years of age and weighing at least 35 kg) who are virologically suppressed (HIV-1 RNA &lt; 50 copies/mL) on a stable antiretroviral regimen without present or past evidence of viral resistance to, and no prior virological failure with, agents of the non-nucleoside reverse transcriptase inhibitor (NNRTI) and integrase inhibitor (INI) class.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rekambys

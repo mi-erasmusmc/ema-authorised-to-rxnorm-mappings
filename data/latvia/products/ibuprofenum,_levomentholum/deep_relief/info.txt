@@ -1,0 +1,7 @@
+short_name: Deep Relief
+active_substance: Ibuprofenum, Levomentholum
+marketing_authorisation_holder: The Mentholatum Company (Ireland) Limited, Ireland
+manufacturer: The Mentholatum Company (Ireland) Limited, Ireland
+atc_code: M02AA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-1177/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-1177/smpc

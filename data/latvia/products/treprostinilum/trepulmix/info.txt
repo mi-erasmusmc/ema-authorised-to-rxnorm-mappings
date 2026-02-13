@@ -1,0 +1,7 @@
+short_name: Trepulmix
+active_substance: Treprostinilum
+marketing_authorisation_holder: SciPharm Sarl, Luxembourg
+manufacturer: AOP Orphan Pharmaceuticals GmbH, Austria
+atc_code: B01AC21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1419/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1419/001/smpc

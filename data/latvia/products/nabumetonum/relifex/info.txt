@@ -1,0 +1,7 @@
+short_name: Relifex
+active_substance: Nabumetonum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Haupt Pharma Wulfing GmbH, Germany
+atc_code: M01AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0504/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0504/smpc

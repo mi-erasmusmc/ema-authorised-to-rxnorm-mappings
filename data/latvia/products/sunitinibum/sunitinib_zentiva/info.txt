@@ -1,0 +1,7 @@
+short_name: Sunitinib Zentiva
+active_substance: Sunitinibum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmacare Premium Ltd, Malta; Remedica Ltd., Cyprus
+atc_code: L01EX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0138/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0138/smpc

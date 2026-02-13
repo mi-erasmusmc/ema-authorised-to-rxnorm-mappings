@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004167
+Name of medicine: Lifmior
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: etanercept
+Active substance: etanercept
+Therapeutic area (MeSH): Arthritis, Psoriatic;Spondylitis, Ankylosing;Psoriasis
+ATC code (human): L04AB01
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Rheumatoid arthritis; Juvenile idiopathic arthritis Psoriatic arthritis; Axial spondyloarthritis; Plaque psoriasis; Paediatric plaque psoriasis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lifmior

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000972
+Name of medicine: Removab
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: catumaxomab
+Active substance: catumaxomab
+Therapeutic area (MeSH): Ascites;Cancer
+ATC code (human): L01XC09
+Pharmacotherapeutic group (human): Other antineoplastic agents
+Therapeutic indication: Removab is indicated for the intraperitoneal treatment of malignant ascites in patients with EpCAM-positive carcinomas where standard therapy is not available or no longer feasible.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/removab

@@ -1,0 +1,7 @@
+short_name: Scandivin
+active_substance: Mepivacaini hydrochloridum
+marketing_authorisation_holder: Laboratorios Inibsa, S.A., Spain
+manufacturer: Laboratorios Inibsa, S.A., Spain
+atc_code: N01BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0150/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0150/smpc

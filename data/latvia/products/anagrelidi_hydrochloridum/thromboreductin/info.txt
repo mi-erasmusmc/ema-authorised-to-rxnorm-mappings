@@ -1,0 +1,7 @@
+short_name: Thromboreductin
+active_substance: Anagrelidi hydrochloridum
+marketing_authorisation_holder: AOP Orphan Pharmaceuticals GmbH, Austria
+manufacturer: AOP Orphan Pharmaceuticals GmbH, Austria
+atc_code: L01XX35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0076/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0076/smpc

@@ -1,0 +1,7 @@
+short_name: Metamizole Sodium-Kalceks
+active_substance: Metamizolum natricum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: N02BB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0172/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0172/smpc

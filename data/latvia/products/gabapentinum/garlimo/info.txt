@@ -1,0 +1,7 @@
+short_name: Garlimo
+active_substance: Gabapentinum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland; Orion Corporation Orion Pharma, Finland
+atc_code: N02BF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0265/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0265/smpc

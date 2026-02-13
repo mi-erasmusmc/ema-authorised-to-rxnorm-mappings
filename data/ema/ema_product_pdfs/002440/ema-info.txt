@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002440
+Name of medicine: Entacapone Orion
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: entacapone
+Active substance: entacapone
+Therapeutic area (MeSH): Parkinson Disease
+ATC code (human): N04BX02
+Pharmacotherapeutic group (human): Anti-Parkinson drugs
+Therapeutic indication: Entacapone is indicated as an adjunct to standard preparations of levodopa / benserazide or levodopa / carbidopa for use in adult patients with Parkinson's disease and end-of-dose motor fluctuations, who cannot be stabilised on those combinations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/entacapone-orion

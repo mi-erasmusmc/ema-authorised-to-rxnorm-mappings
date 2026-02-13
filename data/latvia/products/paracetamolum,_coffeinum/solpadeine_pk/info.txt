@@ -1,0 +1,7 @@
+short_name: Solpadeine PK
+active_substance: Paracetamolum, Coffeinum
+marketing_authorisation_holder: Perrigo Poland Sp. z o.o., Poland
+manufacturer: Famar A.V.E., Anthoussa Plant, Greece
+atc_code: N02BE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0038/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0038/smpc

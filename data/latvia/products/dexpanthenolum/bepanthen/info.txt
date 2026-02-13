@@ -1,0 +1,7 @@
+short_name: Bepanthen
+active_substance: Dexpanthenolum
+marketing_authorisation_holder: UAB Bayer, Lithuania
+manufacturer: GP Grenzach productions GmbH, Germany
+atc_code: D03AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0026/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0026/smpc

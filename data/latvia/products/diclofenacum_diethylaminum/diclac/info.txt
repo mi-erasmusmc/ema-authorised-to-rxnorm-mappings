@@ -1,0 +1,7 @@
+short_name: Diclac
+active_substance: Diclofenacum diethylaminum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Kern Pharma S.L., Spain; Lek Pharmaceuticals d.d., Slovenia
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0084/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0084/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004977
+Name of medicine: Sarclisa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: isatuximab
+Active substance: Isatuximab
+Therapeutic area (MeSH): Multiple Myeloma
+ATC code (human): L01XC38
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: SARCLISA is indicated:&nbsp;  In combination with pomalidomide and dexamethasone, for the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor and have demonstrated disease progression on the last therapy. In combination with carfilzomib and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least one prior therapy. In combination with bortezomib, lenalidomide, and dexamethasone, for the treatment of adult patients with newly diagnosed multiple myeloma who are ineligible for autologous stem cell transplant. In combination with bortezomib, lenalidomide, and dexamethasone, for the induction treatment of adult patients with newly diagnosed multiple myeloma who are eligible for autologous stem cell transplant.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sarclisa

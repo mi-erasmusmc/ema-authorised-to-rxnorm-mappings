@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002601
+Name of medicine: Tecfidera
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: dimethyl fumarate
+Active substance: 
+Therapeutic area (MeSH): Multiple Sclerosis
+ATC code (human): L04AX07
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Tecfidera is indicated for the treatment of adult and paediatric patients aged 13 years and older with relapsing remitting multiple sclerosis (RRMS).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tecfidera

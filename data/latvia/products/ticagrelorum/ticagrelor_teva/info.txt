@@ -1,0 +1,7 @@
+short_name: Ticagrelor Teva
+active_substance: Ticagrelorum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Pliva Hrvatska d.o.o., Croatia
+atc_code: B01AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0211/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0211/smpc

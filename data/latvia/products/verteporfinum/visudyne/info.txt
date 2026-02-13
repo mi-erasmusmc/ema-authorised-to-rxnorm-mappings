@@ -1,0 +1,7 @@
+short_name: Visudyne
+active_substance: Verteporfinum
+marketing_authorisation_holder: Cheplapharm Arzneimittel GmbH, Germany
+manufacturer: Delpharm Huningue SAS, France; Cheplapharm Arzneimittel GmbH, Germany
+atc_code: S01LA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/140/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/140/001/smpc

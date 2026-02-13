@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006053
+Name of medicine: GalliaPharm
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: gallium (68Ga) chloride;germanium (68Ge) chloride
+Active substance: gallium (68Ga) chloride;germanium (68Ge) chloride
+Therapeutic area (MeSH): Radionuclide Imaging
+ATC code (human): V09X
+Pharmacotherapeutic group (human): Other diagnostic radiopharmaceuticals
+Therapeutic indication: This radionuclide generator is not intended for direct use in patients. The sterile eluate (gallium (68Ga) chloride solution) from the radionuclide generator GalliaPharm is indicated for in vitro radiolabelling of various kits for radiopharmaceutical preparation developed and approved for radiolabelling with such eluate, to be used for positron emission tomography (PET) imaging.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/galliapharm

@@ -1,0 +1,7 @@
+short_name: Rivaroxaban Viatris
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Medis International a.s., Czech Republic; Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1588/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1588/001/smpc

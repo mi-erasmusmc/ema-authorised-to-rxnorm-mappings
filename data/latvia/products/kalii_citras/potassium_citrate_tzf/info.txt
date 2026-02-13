@@ -1,0 +1,7 @@
+short_name: Potassium citrate TZF
+active_substance: Kalii citras
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchominskie Zaklady Farmaceutyczne ''Polfa'' S.A., Poland
+atc_code: A12BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0096/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0096/smpc

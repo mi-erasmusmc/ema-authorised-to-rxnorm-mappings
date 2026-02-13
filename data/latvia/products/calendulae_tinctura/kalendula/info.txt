@@ -1,0 +1,7 @@
+short_name: Kalendula
+active_substance: Calendulae tinctura
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: D03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0679/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0679/smpc

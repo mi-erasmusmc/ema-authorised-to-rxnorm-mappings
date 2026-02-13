@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000983
+Name of medicine: Javlor
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vinflunine
+Active substance: vinflunine
+Therapeutic area (MeSH): Carcinoma, Transitional Cell;Urologic Neoplasms
+ATC code (human): L01CA05
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Javlor is indicated in monotherapy for the treatment of adult patients with advanced or metastatic transitional-cell carcinoma of the urothelial tract after failure of a prior platinum-containing regimen. Efficacy and safety of vinflunine have not been studied in patients with performance status ? 2.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/javlor

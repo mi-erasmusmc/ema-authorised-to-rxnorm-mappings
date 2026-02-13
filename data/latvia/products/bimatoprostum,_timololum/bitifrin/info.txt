@@ -1,0 +1,7 @@
+short_name: Bitifrin
+active_substance: Bimatoprostum, Timololum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Rafarm S.A., Greece
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0110/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0110/smpc

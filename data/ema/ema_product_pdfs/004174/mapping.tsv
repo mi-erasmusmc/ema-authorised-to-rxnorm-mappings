@@ -1,0 +1,12 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/17/1251/002	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2025-12-04
+EU/1/17/1251/003	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2025-12-04
+EU/1/17/1251/004	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2025-12-04
+EU/1/17/1251/005	37003617	3 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	2398842	EXACT			2025-12-04
+EU/1/17/1251/006	37003617	3 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	2398842	EXACT			2025-12-04
+EU/1/17/1251/010	780249	3 ML semaglutide 2.68 MG/ML Pen Injector [Ozempic]	2599365	EXACT			2025-12-04
+EU/1/17/1251/011	780249	3 ML semaglutide 2.68 MG/ML Pen Injector [Ozempic]	2599365	EXACT			2025-12-04
+EU/1/17/1251/012	741834	0.25 MG, 0.5 MG Dose 3 ML semaglutide 0.68 MG/ML Pen Injector [Ozempic]	2619154	EXACT			2025-12-04
+EU/1/17/1251/013	741834	0.25 MG, 0.5 MG Dose 3 ML semaglutide 0.68 MG/ML Pen Injector [Ozempic]	2619154	EXACT			2025-12-04
+EU/1/17/1251/014	37003617	3 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	2398842	BROAD		0.25 MG, 0.5 MG Dose 3 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	2025-12-04
+EU/1/17/1251/015	780249	3 ML semaglutide 2.68 MG/ML Pen Injector [Ozempic]	2599365	EXACT			2025-12-04

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000128
+Name of medicine: Crixivan
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: indinavir
+Active substance: indinavir sulfate ethanolate
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AE02
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Crixivan is indicated in combination with antiretroviral nucleoside analogues for the treatment of HIV-1 infected adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/crixivan

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000593
+Name of medicine: Xyrem
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sodium oxybate
+Active substance: sodium oxybate
+Therapeutic area (MeSH): Cataplexy;Narcolepsy
+ATC code (human): N07XX04
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Treatment of narcolepsy with cataplexy in adult patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xyrem

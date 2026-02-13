@@ -1,0 +1,7 @@
+short_name: Ramipril Actavis
+active_substance: Ramiprilum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Limited, Malta
+atc_code: C09AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0572/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0572/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002303
+Name of medicine: Possia
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: ticagrelor
+Active substance: ticagrelor
+Therapeutic area (MeSH): Peripheral Vascular Diseases;Acute Coronary Syndrome
+ATC code (human): B01AC24
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Possia, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with acute coronary syndromes (unstable angina, non-ST-elevation myocardial infarction [NSTEMI] or ST-elevation myocardial infarction [STEMI]); including patients managed medically, and those who are managed with percutaneous coronary intervention (PCI) or coronary artery by-pass grafting (CABG).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/possia

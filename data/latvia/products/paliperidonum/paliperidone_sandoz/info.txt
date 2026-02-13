@@ -1,0 +1,7 @@
+short_name: Paliperidone Sandoz
+active_substance: Paliperidonum
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Pharmascience International Limited, Cyprus
+atc_code: N05AX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0210/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0210/smpc

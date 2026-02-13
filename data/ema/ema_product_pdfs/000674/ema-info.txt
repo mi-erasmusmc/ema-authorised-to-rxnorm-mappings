@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000674
+Name of medicine: Zostavax
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: shingles (herpes zoster) vaccine (live)
+Active substance: varicella-zoster virus (live, attenuated)
+Therapeutic area (MeSH): Herpes Zoster;Immunization
+ATC code (human): J07BK02
+Pharmacotherapeutic group (human): Viral vaccines
+Therapeutic indication: Zostavax is indicated for prevention of herpes zoster ('zoster' or shingles) and herpes-zoster-related post-herpetic neuralgia. Zostavax is indicated for immunisation of individuals 50 years of age or older.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zostavax

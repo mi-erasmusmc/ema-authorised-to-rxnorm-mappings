@@ -1,0 +1,7 @@
+short_name: Suphrex
+active_substance: Sunitinibum
+marketing_authorisation_holder: LV System Service, Latvia
+manufacturer: Genepharm S.A., Greece; Pharmacare Premium Ltd, Malta
+atc_code: L01EX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0163/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0163/smpc

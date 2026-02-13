@@ -1,0 +1,7 @@
+short_name: Uroflow
+active_substance: Tolterodini hydrogenotartras
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic
+atc_code: G04BD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0079/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0079/smpc

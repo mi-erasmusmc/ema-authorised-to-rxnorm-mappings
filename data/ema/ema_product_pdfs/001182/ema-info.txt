@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001182
+Name of medicine: Rivastigmine Hexal
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rivastigmine
+Active substance: rivastigmine
+Therapeutic area (MeSH): Dementia;Alzheimer Disease;Parkinson Disease
+ATC code (human): N06DA03
+Pharmacotherapeutic group (human): Psychoanaleptics
+Therapeutic indication: Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-hexal

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006013
+Name of medicine: Krazati
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: adagrasib
+Active substance: adagrasib
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01XX77
+Pharmacotherapeutic group (human): Other antineoplastic agents
+Therapeutic indication: Krazati as monotherapy is indicated for the treatment of adult patients with advanced non-small cell lung cancer (NSCLC) with KRAS G12C mutation and disease progression after at least one prior systemic therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/krazati

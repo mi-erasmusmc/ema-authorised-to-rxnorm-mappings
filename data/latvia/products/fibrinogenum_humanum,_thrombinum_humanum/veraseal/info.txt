@@ -1,0 +1,7 @@
+short_name: VeraSeal
+active_substance: Fibrinogenum humanum, Thrombinum humanum
+marketing_authorisation_holder: Instituto Grifols, S.A., Spain
+manufacturer: Instituto Grifols, S.A., Spain
+atc_code: B02BC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1239/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1239/001/smpc

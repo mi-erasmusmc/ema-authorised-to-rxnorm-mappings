@@ -1,0 +1,7 @@
+short_name: Nomex
+active_substance: Xylometazolini hydrochloridum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: ICN Polfa Rzeszow S.A., Poland
+atc_code: R01AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0370/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0370/smpc

@@ -1,0 +1,7 @@
+short_name: Sunitinib G.L. Pharma
+active_substance: Sunitinibum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria; Pharmacare Premium Ltd, Malta; Remedica Ltd., Cyprus
+atc_code: L01EX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0135/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0135/smpc

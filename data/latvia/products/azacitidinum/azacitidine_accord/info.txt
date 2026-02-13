@@ -1,0 +1,7 @@
+short_name: Azacitidine Accord
+active_substance: Azacitidinum
+marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
+manufacturer: Laboratori Fundacio Dau, Spain; Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
+atc_code: L01BC07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1413/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1413/001/smpc

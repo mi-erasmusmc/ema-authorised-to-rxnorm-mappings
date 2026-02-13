@@ -1,0 +1,13 @@
+product_id	original_name	authorisation_no	date_of_authorisation	inter_code	strength	pharmaceutical_form	product_strength	package_en	package_size
+EU/1/17/1234/001	Tremfya	EU/1/17/1234/001	10-NOV-17	EMEA/H/C/004271	100 mg	Solution for injection	100 mg/1 ml	Glass pre-filled syringe, N1	1
+EU/1/17/1234/002	Tremfya	EU/1/17/1234/002	10-NOV-17	EMEA/H/C/004271	100 mg	Solution for injection	100 mg/1 ml	Glass pre-filled syringe in pre-filled pen, N1	1
+EU/1/17/1234/003	Tremfya	EU/1/17/1234/003	10-NOV-17	EMEA/H/C/004271	100 mg	Solution for injection	100 mg/1 ml	Glass pre-filled syringe in pre-filled pen, N2	2
+EU/1/17/1234/004	Tremfya	EU/1/17/1234/004	10-NOV-17	EMEA/H/C/004271	100 mg	Solution for injection	100 mg/1 ml	Glass pre-filled syringe, N2	2
+EU/1/17/1234/005	Tremfya	EU/1/17/1234/005	10-NOV-17	EMEA/H/C/004271	200 mg	Concentrate for solution for infusion	200 mg/20 ml	Carton box, Glass vial, N1	1
+EU/1/17/1234/006	Tremfya	EU/1/17/1234/006	10-NOV-17	EMEA/H/C/004271	200 mg	Solution for injection	200 mg/2 ml	Carton box, Glass pre-filled syringe, N1	1
+EU/1/17/1234/007	Tremfya	EU/1/17/1234/007	10-NOV-17	EMEA/H/C/004271	200 mg	Solution for injection	200 mg/2 ml	Carton box, Glass pre-filled syringe, N2	2
+EU/1/17/1234/008	Tremfya	EU/1/17/1234/008	10-NOV-17	EMEA/H/C/004271	200 mg	Solution for injection	200 mg/2 ml	Carton box, Glass pre-filled syringe in pre-filled pen (PushPen), N1	1
+EU/1/17/1234/009	Tremfya	EU/1/17/1234/009	10-NOV-17	EMEA/H/C/004271	200 mg	Solution for injection	200 mg/2 ml	Carton box, Glass pre-filled syringe in pre-filled pen (PushPen), N2	2
+EU/1/17/1234/010	Tremfya	EU/1/17/1234/010	10-NOV-17	EMEA/H/C/004271	100 mg	Solution for injection	100 mg/1 ml	Carton box, Glass pre-filled syringe in pre-filled pen (PushPen), N1	1
+EU/1/17/1234/011	Tremfya	EU/1/17/1234/011	10-NOV-17	EMEA/H/C/004271	100 mg	Solution for injection	100 mg/1 ml	Carton box, Glass pre-filled syringe in pre-filled pen (PushPen), N2	2
+EU/1/17/1234/012	Tremfya	EU/1/17/1234/012	10-NOV-17	EMEA/H/C/004271	45 mg/0.45 ml	Solution for injection in pre-filled pen	45 mg/0,45 ml	Carton box, Glass pre-filled syringe in pre-filled pen, N1	1

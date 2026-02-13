@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002517
+Name of medicine: Ipreziv
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: azilsartan medoxomil
+Active substance: azilsartan medoxomil
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09CA09
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Ipreziv is indicated for the treatment of essential hypertension in adults.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ipreziv

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005481
+Name of medicine: Opdualag
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: relatlimab;nivolumab
+Active substance: nivolumab;relatlimab
+Therapeutic area (MeSH): Melanoma
+ATC code (human): L01FY02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Opdualag is indicated for the first line treatment of advanced (unresectable or metastatic) melanoma in adults and adolescents 12 years of age and older with tumour cell PD L1 expression &lt; 1%.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/opdualag

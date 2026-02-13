@@ -1,0 +1,7 @@
+short_name: Vyndaqel
+active_substance: Tafamidisum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Penn Pharmaceutical Services Ltd., United Kingdom; Millmount Healthcare Ltd., Ireland
+atc_code: N07XX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/717/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/717/001/smpc

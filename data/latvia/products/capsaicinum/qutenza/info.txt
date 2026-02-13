@@ -1,0 +1,7 @@
+short_name: Qutenza
+active_substance: Capsaicinum
+marketing_authorisation_holder: Grünenthal GmbH, Germany
+manufacturer: Grünenthal GmbH, Germany
+atc_code: N01BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/524/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/524/001/smpc

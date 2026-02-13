@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002435
+Name of medicine: Desloratadine Actavis
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: desloratadine
+Active substance: desloratadine
+Therapeutic area (MeSH): Rhinitis, Allergic, Perennial;Urticaria;Rhinitis, Allergic, Seasonal
+ATC code (human): R06AX27
+Pharmacotherapeutic group (human): Antihistamines for systemic use
+Therapeutic indication: Treatment of allergic rhinitis and urticaria.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-actavis

@@ -1,0 +1,7 @@
+short_name: Alcaine
+active_substance: Proxymetacaini hydrochloridum
+marketing_authorisation_holder: Alcon Farmaceutika d.o.o., Croatia
+manufacturer: Alcon Laboratories Belgium BVBA, Belgium
+atc_code: S01HA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001574/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001574/smpc

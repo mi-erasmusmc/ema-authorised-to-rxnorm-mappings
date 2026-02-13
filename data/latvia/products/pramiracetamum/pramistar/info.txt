@@ -1,0 +1,7 @@
+short_name: Pramistar
+active_substance: Pramiracetamum
+marketing_authorisation_holder: F.I.R.M.A. S.p.A., Italy
+manufacturer: Cosmo S.p.A., Italy
+atc_code: N06BX16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0911/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0911/smpc

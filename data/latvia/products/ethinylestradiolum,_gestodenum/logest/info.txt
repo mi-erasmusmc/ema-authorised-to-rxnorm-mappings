@@ -1,0 +1,7 @@
+short_name: Logest
+active_substance: Ethinylestradiolum, Gestodenum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: Bayer AG, Germany
+atc_code: G03AA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000460/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000460/smpc

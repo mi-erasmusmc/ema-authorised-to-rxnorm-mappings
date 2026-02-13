@@ -1,0 +1,7 @@
+short_name: Ropinirole Orion
+active_substance: Ropinirolum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Pharmathen S.A., Greece; Orion Corporation Orion Pharma, Finland; Pharmathen International S.A., Greece; Orion Corporation Orion Pharma, Finland
+atc_code: N04BC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0304/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0304/smpc

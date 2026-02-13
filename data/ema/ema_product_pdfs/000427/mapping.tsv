@@ -1,0 +1,28 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/02/229/001	1596977	insulin, regular, human	253182	BROAD			2025-12-04
+EU/1/02/229/002	1596977	insulin, regular, human	253182	BROAD			2025-12-04
+EU/1/02/229/003	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04
+EU/1/02/229/004	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04
+EU/1/02/229/011	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/229/012	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/229/013	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/229/014							2025-12-04
+EU/1/02/229/015							2025-12-04
+EU/1/02/229/016							2025-12-04
+EU/1/02/229/017	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/229/018	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/229/019	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD			2025-12-04
+EU/1/02/229/024	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
+EU/1/02/229/025	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
+EU/1/02/229/026	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
+EU/1/02/229/027	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
+EU/1/02/229/028	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
+EU/1/02/229/029	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			
+EU/1/02/229/030	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/229/031	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/229/032	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/229/033	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/229/034	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/229/035	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT			2025-12-04
+EU/1/02/229/036	1596977	insulin, regular, human	253182	BROAD			2025-12-04
+EU/1/02/229/037	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986	BROAD			2025-12-04

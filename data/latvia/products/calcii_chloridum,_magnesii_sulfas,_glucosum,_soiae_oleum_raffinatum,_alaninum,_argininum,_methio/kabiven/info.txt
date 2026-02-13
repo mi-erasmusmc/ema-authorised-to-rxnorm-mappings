@@ -1,0 +1,7 @@
+short_name: Kabiven
+active_substance: Calcii chloridum, Magnesii sulfas, Glucosum, Soiae oleum raffinatum, Alaninum, Argininum, Methioninum, Leucinum, Acidum asparticum, Acidum glutamicum, Glycinum, Histidinum, Isoleucinum, Lysinum, Phenylalaninum, Prolinum, Serinum, Threoninum, Tryptophanum, Tyrosinum, Valinum, Natrii glycerophosphas, Kalii chloridum, Natrii acetas
+marketing_authorisation_holder: Fresenius Kabi AB, Sweden
+manufacturer: Fresenius Kabi AB, Sweden
+atc_code: B05BA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0296/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0296/smpc

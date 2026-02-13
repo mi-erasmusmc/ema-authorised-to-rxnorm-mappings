@@ -1,0 +1,7 @@
+short_name: Deferasirox Umedica
+active_substance: Deferasiroxum
+marketing_authorisation_holder: Umedica Netherlands B.V., Netherlands
+manufacturer: Misom Labs Ltd., Malta
+atc_code: V03AC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0086/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0086/smpc

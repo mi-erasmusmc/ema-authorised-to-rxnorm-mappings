@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006224
+Name of medicine: Ituxredi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rituximab
+Active substance: rituximab
+Therapeutic area (MeSH): Lymphoma, Non-Hodgkin;Leukemia, Lymphocytic, Chronic, B-Cell;Arthritis, Rheumatoid
+ATC code (human): L01FA01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of Non-Hodgkin's lymphoma (NHL), chronic lymphocytic leukaemia (CLL) and rheumatoid arthritis
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ituxredi

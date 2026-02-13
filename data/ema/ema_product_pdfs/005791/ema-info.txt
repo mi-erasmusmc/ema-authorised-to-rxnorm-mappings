@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005791
+Name of medicine: Spikevax (previously COVID-19 Vaccine Moderna)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: COVID-19 mRNA vaccine
+Active substance: single-stranded, 5’-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J07BN01
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Spikevax is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations. Spikevax bivalent Original/Omicron BA.1 is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 years of age and older who have previously received at least a primary vaccination course against COVID-19. The use of this vaccine should be in accordance with official recommendations. Spikevax bivalent Original/Omicron BA.4-5 is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older.&nbsp;The use of this vaccine should be in accordance with official recommendations. Spikevax XBB.1.5 is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. Spikevax JN.1 is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older.&nbsp;The use of this vaccine should be in accordance with official recommendations. Spikevax JN.1 is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older.&nbsp;The use of this vaccine should be in accordance with official recommendations. Spikevax LP.8.1 is indicated for active immunisation to prevent COVID 19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use of this vaccine should be in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax

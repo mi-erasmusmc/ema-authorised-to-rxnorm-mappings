@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003922
+Name of medicine: Lamzede
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: velmanase alfa
+Active substance: velmanase alfa
+Therapeutic area (MeSH): alpha-Mannosidosis
+ATC code (human): A16AB15
+Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
+Therapeutic indication: Treatment of non-neurological manifestations in patients with mild to moderate alpha-mannosidosis.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lamzede

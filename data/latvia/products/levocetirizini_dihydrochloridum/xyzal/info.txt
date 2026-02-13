@@ -1,0 +1,7 @@
+short_name: Xyzal
+active_substance: Levocetirizini dihydrochloridum
+marketing_authorisation_holder: UCB Pharma Oy Finland, Finland
+manufacturer: Aesica Pharmaceuticals S.r.l., Italy
+atc_code: R06AE09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0407/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0407/smpc

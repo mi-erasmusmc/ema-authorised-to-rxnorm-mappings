@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000111
+Name of medicine: LeukoScan
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: sulesomab
+Active substance: sulesomab
+Therapeutic area (MeSH): Osteomyelitis;Radionuclide Imaging
+ATC code (human): VO4D
+Pharmacotherapeutic group (human): Diagnostic agents
+Therapeutic indication: This medicinal product is for diagnostic use only. LeukoScan is indicated for diagnostic imaging for determining the location and extent of infection/inflammation in bone in patients with suspected osteomyelitis, including patients with diabetic foot ulcers. LeukoScan has not been employed to diagnose osteomyelitis in patients with sickle cell anaemia.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/leukoscan

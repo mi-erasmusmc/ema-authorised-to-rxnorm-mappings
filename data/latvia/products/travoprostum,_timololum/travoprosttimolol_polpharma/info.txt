@@ -1,0 +1,7 @@
+short_name: Travoprost/Timolol Polpharma
+active_substance: Travoprostum, Timololum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Jadran Galenski Laboratorij d.d., Croatia
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0128/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0128/smpc

@@ -1,0 +1,7 @@
+short_name: Rosuvastatin Teva Pharma
+active_substance: Rosuvastatinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Pliva Hrvatska d.o.o., Croatia; Teva Pharma, S.L.U., Spain
+atc_code: C10AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0149/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0149/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002409
+Name of medicine: Zelboraf
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: vemurafenib
+Active substance: vemurafenib
+Therapeutic area (MeSH): Melanoma
+ATC code (human): L01EC01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Vemurafenib is indicated in monotherapy for the treatment of adult patients with BRAF-V600-mutation-positive unresectable or metastatic melanoma.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zelboraf

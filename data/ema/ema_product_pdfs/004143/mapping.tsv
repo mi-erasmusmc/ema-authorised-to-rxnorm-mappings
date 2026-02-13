@@ -1,0 +1,4 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/17/1220/001	42629086	20 ML atezolizumab 60 MG/ML Injection [Tecentriq]	1792785	EXACT			2025-12-04
+EU/1/17/1220/002	1366763	14 ML atezolizumab 60 MG/ML Injection [Tecentriq]	2119696	EXACT			2025-12-04
+EU/1/17/1220/003	42629085	atezolizumab Injection [Tecentriq]	1792783	BROAD			2025-12-04

@@ -1,0 +1,16 @@
+product_id	original_name	authorisation_no	date_of_authorisation	inter_code	strength	pharmaceutical_form	product_strength	package_en	package_size
+EU/1/21/1608/001	Wegovy	EU/1/21/1608/001	06-JAN-22	EMEA/H/C/005422	0.25 mg	Solution for injection	0,25 mg/0,5 ml	Glass pre-filled pen, N4	4
+EU/1/21/1608/002	Wegovy	EU/1/21/1608/002	06-JAN-22	EMEA/H/C/005422	0.5 mg	Solution for injection	0,5 mg/0,5 ml	Glass pre-filled pen, N4	4
+EU/1/21/1608/003	Wegovy	EU/1/21/1608/003	06-JAN-22	EMEA/H/C/005422	1 mg	Solution for injection	1 mg/0,5 ml	Glass pre-filled pen, N4	4
+EU/1/21/1608/004	Wegovy	EU/1/21/1608/004	06-JAN-22	EMEA/H/C/005422	1.7 mg	Solution for injection	1,7 mg/0,75 ml	Glass pre-filled pen, N4	4
+EU/1/21/1608/005	Wegovy	EU/1/21/1608/005	06-JAN-22	EMEA/H/C/005422	2.4 mg	Solution for injection	2,4 mg/0,75 ml	Glass pre-filled pen, N4	4
+EU/1/21/1608/006	Wegovy	EU/1/21/1608/006	31-MAR-23	EMEA/H/C/005422	0.25 mg	Solution for injection	1 mg/1,5 ml	Glass pre-filled pen (FlexTouch), N1	1
+EU/1/21/1608/007	Wegovy	EU/1/21/1608/007	31-MAR-23	EMEA/H/C/005422	0.5 mg	Solution for injection	2 mg/1,5 ml	Glass pre-filled pen (FlexTouch), N1	1
+EU/1/21/1608/008	Wegovy	EU/1/21/1608/008	31-MAR-23	EMEA/H/C/005422	1 mg	Solution for injection	4 mg/3 ml	Glass pre-filled pen (FlexTouch), N1	1
+EU/1/21/1608/008-P01	Wegovy	EU/1/21/1608/008-P01	31-MAR-23	EMEA/H/C/005422	1 mg	Solution for injection	4 mg/3 ml	Glass pre-filled pen (FlexTouch), N1	1
+EU/1/21/1608/009	Wegovy	EU/1/21/1608/009	31-MAR-23	EMEA/H/C/005422	1.7 mg	Solution for injection	6,8 mg/3 ml	Glass pre-filled pen (FlexTouch), N1	1
+EU/1/21/1608/009-P01	Wegovy	EU/1/21/1608/009-P01	31-MAR-23	EMEA/H/C/005422	1.7 mg	Solution for injection	6,8 mg/3 ml	Glass pre-filled pen (FlexTouch), N1	1
+EU/1/21/1608/010	Wegovy	EU/1/21/1608/010	31-MAR-23	EMEA/H/C/005422	2.4 mg	Solution for injection	9,6 mg/3 ml	Glass pre-filled pen (FlexTouch), N1	1
+EU/1/21/1608/010-P01	Wegovy	EU/1/21/1608/010-P01	31-MAR-23	EMEA/H/C/005422	2.4 mg	Solution for injection	9,6 mg/3 ml	Glass pre-filled pen (FlexTouch), N1	1
+EU/1/21/1608/011	Wegovy	EU/1/21/1608/011	31-MAR-23	EMEA/H/C/005422	2.4 mg	Solution for injection	9,6 mg/3 ml	Glass pre-filled pen (FlexTouch), N3	3
+EU/1/21/1608/012	Wegovy	EU/1/21/1608/012	06-JAN-22	EMEA/H/C/005422	0.5 mg	Solution for injection	2 mg/3 ml	Glass cartridge in pre-filled pen (FlexTouch), N1	1

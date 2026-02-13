@@ -1,0 +1,7 @@
+short_name: Rowachol
+active_substance: Pinenum, Camphenum, Levomentholum, Cineolum, Menthonum, Borneolum
+marketing_authorisation_holder: Rowa Pharmaceuticals Ltd, Ireland
+manufacturer: Rowa Pharmaceuticals Ltd, Ireland
+atc_code: A05AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0021/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0021/smpc

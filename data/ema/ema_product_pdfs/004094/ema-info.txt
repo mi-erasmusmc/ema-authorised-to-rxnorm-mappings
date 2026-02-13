@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004094
+Name of medicine: Descovy
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: emtricitabine;tenofovir alafenamide
+Active substance: emtricitabine;tenofovir alafenamide
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AR17
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Descovy is indicated in combination with other antiretroviral agents for the treatment of adults and adolescents (aged 12 years and older with body weight at least 35 kg) infected with human immunodeficiency virus type 1 (HIV-1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/descovy

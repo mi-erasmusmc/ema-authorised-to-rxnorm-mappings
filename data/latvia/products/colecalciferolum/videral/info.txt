@@ -1,0 +1,7 @@
+short_name: Videral
+active_substance: Colecalciferolum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria; Sopharma AD, Bulgaria
+atc_code: A11CC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0309/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0309/smpc

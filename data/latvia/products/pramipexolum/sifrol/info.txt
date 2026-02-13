@@ -1,0 +1,7 @@
+short_name: Sifrol
+active_substance: Pramipexolum
+marketing_authorisation_holder: Boehringer Ingelheim International GmbH, Germany
+manufacturer: Boehringer Ingelheim Pharma GmbH & Co. KG, Germany; Rottendorf Pharma GmbH, Germany; Boehringer Ingelheim France, France
+atc_code: N04BC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/050/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/050/001/smpc

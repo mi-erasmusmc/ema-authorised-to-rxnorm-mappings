@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000082
+Name of medicine: CellCept
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: mycophenolate mofetil
+Active substance: mycophenolate mofetil
+Therapeutic area (MeSH): Graft Rejection
+ATC code (human): L04AA06
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: CellCept is indicated in combination with ciclosporin and corticosteroids for the prophylaxis of acute transplant rejection in adult and paediatric (1 to 18 years of age)&nbsp;patients receiving allogeneic renal, cardiac or hepatic transplants.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cellcept

@@ -1,0 +1,7 @@
+short_name: Sirupus Pini compositus
+active_substance: Calcii lactas, Codeini phosphas, Chelidonii extractum fluidum, Foeniculi tincturae, Pini extractum fluidum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Herbapol-Lublin S.A., Poland
+atc_code: R05FA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0648/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0648/smpc

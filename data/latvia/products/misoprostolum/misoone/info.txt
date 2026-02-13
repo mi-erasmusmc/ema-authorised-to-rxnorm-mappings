@@ -1,0 +1,7 @@
+short_name: Misoone
+active_substance: Misoprostolum
+marketing_authorisation_holder: Exelgyn, France
+manufacturer: Delpharm Lille SAS, France; Nordic Pharma B.V., Netherlands; Laboratoires Macors, France
+atc_code: G02AD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0015/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0015/smpc

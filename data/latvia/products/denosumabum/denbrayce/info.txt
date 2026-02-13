@@ -1,0 +1,7 @@
+short_name: Denbrayce
+active_substance: Denosumabum
+marketing_authorisation_holder: Mabxience Research S.L., Spain
+manufacturer: GH Genhelix S.A., Spain
+atc_code: M05BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1936/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1936/001/smpc

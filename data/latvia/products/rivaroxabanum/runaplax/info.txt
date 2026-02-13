@@ -1,0 +1,7 @@
+short_name: Runaplax
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Salutas Pharma GmbH, Germany; Delorbis Pharmaceuticals Ltd, Cyprus
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0220/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0220/smpc

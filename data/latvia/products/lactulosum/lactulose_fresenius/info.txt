@@ -1,0 +1,7 @@
+short_name: Lactulose Fresenius
+active_substance: Lactulosum
+marketing_authorisation_holder: Fresenius Kabi Austria GmbH, Austria
+manufacturer: Fresenius Kabi Austria GmbH, Austria
+atc_code: A06AD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0551/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0551/smpc

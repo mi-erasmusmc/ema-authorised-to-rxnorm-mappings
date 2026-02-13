@@ -1,0 +1,7 @@
+short_name: Teduglutide Viatris
+active_substance: Teduglutidum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Pharmadox Healthcare Ltd., Malta; Mylan Germany GmbH, Germany
+atc_code: A16AX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2005/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2005/001/smpc

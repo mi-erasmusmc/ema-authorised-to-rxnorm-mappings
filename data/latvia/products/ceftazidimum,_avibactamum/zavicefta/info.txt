@@ -1,0 +1,7 @@
+short_name: Zavicefta
+active_substance: Ceftazidimum, Avibactamum
+marketing_authorisation_holder: Pfizer Ireland Pharmaceuticals, Ireland
+manufacturer: ACS Dobfar S.p.A., Italy
+atc_code: J01DD52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1109/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/16/1109/001/smpc

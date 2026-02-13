@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002608
+Name of medicine: Ovaleap
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: follitropin alfa
+Active substance: follitropin alfa
+Therapeutic area (MeSH): Anovulation
+ATC code (human): G03GA05
+Pharmacotherapeutic group (human): Sex hormones and modulators of the genital system
+Therapeutic indication: In adult women  Anovulation (including polycystic ovarian syndrome) in women who have been unresponsive to treatment with clomifene citrate; Stimulation of multifollicular development in women undergoing superovulation for assisted reproductive technologies (ART) such as in vitro fertilisation (IVF), gamete intra-fallopian transfer and zygote intra-fallopian transfer; Ovaleap in association with a luteinising hormone (LH) preparation is recommended for the stimulation of follicular development in women with severe LH and FSH deficiency. In clinical trials these patients were defined by an endogenous serum LH level &lt; 1.2 IU/L.  In adult men  Ovaleap is indicated for the stimulation of spermatogenesis in men who have congenital or acquired hypogonadotropic hypogonadism with concomitant human chorionic gonadotropin (hCG) therapy.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ovaleap

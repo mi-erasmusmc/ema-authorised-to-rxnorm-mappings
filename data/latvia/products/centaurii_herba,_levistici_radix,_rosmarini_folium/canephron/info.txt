@@ -1,0 +1,7 @@
+short_name: Canephron
+active_substance: Centaurii herba, Levistici radix, Rosmarini folium
+marketing_authorisation_holder: Bionorica SE, Germany
+manufacturer: Bionorica SE, Germany
+atc_code: G04BX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0544/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0544/smpc

@@ -1,0 +1,7 @@
+short_name: Ceftriaxone Venus Pharma
+active_substance: Ceftriaxonum
+marketing_authorisation_holder: Venus Pharma GmbH, Germany
+manufacturer: Venus Pharma GmbH, Germany; European Pharma Hub Ltd., Hungary
+atc_code: J01DD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0027/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0027/smpc

@@ -1,0 +1,7 @@
+short_name: Ketotifen Sopharma
+active_substance: Ketotifenum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: R06AX17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-1009/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-1009/smpc

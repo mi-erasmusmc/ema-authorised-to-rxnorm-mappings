@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000329
+Name of medicine: ViraferonPeg
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: peginterferon alfa-2b
+Active substance: peginterferon alfa-2b
+Therapeutic area (MeSH): Hepatitis C, Chronic
+ATC code (human): L03AB10
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Adults (tritherapy) ViraferonPeg in combination with ribavirin and boceprevir (tritherapy) is indicated for the treatment of chronic-hepatitis-C (CHC) genotype-1 infection in adult patients (18 years of age and older) with compensated liver disease who are previously untreated or who have failed previous therapy. Please refer to the ribavirin and boceprevir summaries of product characteristics (SmPCs) when ViraferonPeg is to be used in combination with these medicines. Adults (bitherapy and monotherapy) ViraferonPeg is indicated for the treatment of adult patients (18 years of age and older) with CHC who are positive for hepatitis-C-virus RNA (HCV-RNA), including patients with compensated cirrhosis and / or co-infected with clinically stable HIV. ViraferonPeg in combination with ribavirin (bitherapy) is indicated for the treatment of CHC infection in adult patients who are previously untreated including patients with clinically stable HIV co-infection and in adult patients who have failed previous treatment with interferon alpha (pegylated or non-pegylated) and ribavirin combination therapy or interferon alpha monotherapy. Interferon monotherapy, including ViraferonPeg, is indicated mainly in case of intolerance or contraindication to ribavirin. Please refer to the ribavirin SmPC when ViraferonPeg is to be used in combination with ribavirin. Paediatric population (bitherapy) ViraferonPeg is indicated in a combination regimen with ribavirin for the treatment of children three years of age and older and adolescents, who have chronic hepatitis C, previously untreated, without liver decompensation, and who are positive for HCV-RNA. When deciding not to defer treatment until adulthood, it is important to consider that the combination therapy induced a growth inhibition that may be irreversible in some patients. The decision to treat should be made on a case-by-case basis. Please refer to the ribavirin SmPC for capsules or oral solution when ViraferonPeg is to be used in combination with ribavirin.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/viraferonpeg

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000973
+Name of medicine: Synflorix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: pneumococcal polysaccharide conjugate vaccine (adsorbed)
+Active substance: Pneumococcal polysaccharide serotype 23F;Pneumococcal polysaccharide serotype 4;Pneumococcal polysaccharide serotype 5;Pneumococcal polysaccharide serotype 6B;Pneumococcal polysaccharide serotype 7F;Pneumococcal polysaccharide serotype 9V;Pneumococcal polysaccharide serotype 1;Pneumococcal polysaccharide serotype 14;Pneumococcal polysaccharide serotype 18C;Pneumococcal polysaccharide serotype 19F
+Therapeutic area (MeSH): Pneumococcal Infections;Immunization
+ATC code (human): J07AL52
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Active immunisation against invasive disease and acute otitis media caused by Streptococcus pneumoniae in infants and children from six weeks up to five years of age. See sections 4.4 and 5.1 in product information for information on protection against specific pneumococcal serotypes. The use of Synflorix should be determined on the basis of official recommendations taking into consideration the impact of invasive disease in different age groups as well as the variability of serotype epidemiology in different geographical areas.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/synflorix

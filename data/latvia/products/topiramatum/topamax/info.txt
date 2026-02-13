@@ -1,0 +1,7 @@
+short_name: Topamax
+active_substance: Topiramatum
+marketing_authorisation_holder: Johnson & Johnson, UAB, Lithuania
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Janssen Cilag S.p.A., Italy; Lusomedicamenta Sociedade Tecnica Farmaceutica S.A., Portugal
+atc_code: N03AX11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0120/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0120/smpc

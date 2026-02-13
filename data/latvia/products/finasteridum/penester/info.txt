@@ -1,0 +1,7 @@
+short_name: Penester
+active_substance: Finasteridum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva a.s., Czech Republic
+atc_code: G04CB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/04-0150/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/04-0150/smpc

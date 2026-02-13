@@ -1,0 +1,7 @@
+short_name: Neoatricon
+active_substance: Dopamini hydrochloridum
+marketing_authorisation_holder: Brepco Biopharma Limited, Ireland
+manufacturer: Pharmadox Healthcare Ltd., Malta
+atc_code: C01CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1804/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1804/001/smpc

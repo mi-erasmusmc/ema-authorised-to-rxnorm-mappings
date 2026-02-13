@@ -1,0 +1,7 @@
+short_name: Water for injections Fresenius
+active_substance: Aqua ad iniectabile
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Polska Sp. z o.o., Poland
+atc_code: V07AB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0090/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0090/smpc

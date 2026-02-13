@@ -1,0 +1,7 @@
+short_name: Ifirmacombi
+active_substance: Irbesartanum, Hydrochlorothiazidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: C09DA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/673/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/673/001/smpc

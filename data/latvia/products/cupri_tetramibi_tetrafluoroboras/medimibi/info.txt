@@ -1,0 +1,7 @@
+short_name: Medimibi
+active_substance: Cupri tetramibi tetrafluoroboras
+marketing_authorisation_holder: Radiopharmacy Laboratory Ltd., Hungary
+manufacturer: Medi-Radiopharma Kft., Hungary
+atc_code: V09GA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0177/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0177/smpc

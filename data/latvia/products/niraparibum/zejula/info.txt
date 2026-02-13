@@ -1,0 +1,7 @@
+short_name: Zejula
+active_substance: Niraparibum
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: GlaxoSmithKline Trading Services Limited, Ireland
+atc_code: L01XK02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1235/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1235/001/smpc

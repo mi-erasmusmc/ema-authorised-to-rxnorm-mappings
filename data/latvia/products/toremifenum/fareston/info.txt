@@ -1,0 +1,7 @@
+short_name: Fareston
+active_substance: Toremifenum
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland
+atc_code: L02BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/004/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/004/001/smpc

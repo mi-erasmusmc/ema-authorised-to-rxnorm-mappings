@@ -1,0 +1,7 @@
+short_name: Cisordinol Depot
+active_substance: Zuclopenthixolum
+marketing_authorisation_holder: H. Lundbeck A/S, Denmark
+manufacturer: H. Lundbeck A/S, Denmark
+atc_code: N05AF05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0260/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0260/smpc

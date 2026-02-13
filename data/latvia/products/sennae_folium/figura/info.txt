@@ -1,0 +1,7 @@
+short_name: Figura
+active_substance: Sennae folium
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Herbapol-Lublin S.A., Poland
+atc_code: A06AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0739/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0739/smpc

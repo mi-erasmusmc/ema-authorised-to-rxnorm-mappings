@@ -1,0 +1,7 @@
+short_name: Celdoxome pegylated liposomal
+active_substance: Doxorubicini hydrochloridum
+marketing_authorisation_holder: Baxter Holding B.V., Netherlands
+manufacturer: Baxter Oncology GmbH, Germany
+atc_code: L01DB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1666/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1666/001/smpc

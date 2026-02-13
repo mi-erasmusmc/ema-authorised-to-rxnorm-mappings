@@ -1,0 +1,7 @@
+short_name: INCRELEX
+active_substance: Mecaserminum
+marketing_authorisation_holder: Esteve Pharmaceuticals, S.A., Spain
+manufacturer: TjoaPack Netherlands B.V., Netherlands
+atc_code: H01AC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/402/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/07/402/001/smpc

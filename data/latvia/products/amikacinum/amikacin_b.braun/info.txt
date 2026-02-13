@@ -1,0 +1,7 @@
+short_name: Amikacin B.Braun
+active_substance: Amikacinum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Medical S.A., Spain
+atc_code: J01GB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0078/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0078/smpc

@@ -1,0 +1,7 @@
+short_name: GHRYVELIN
+active_substance: Macimorelinum
+marketing_authorisation_holder: Atnahs Pharma Netherlands B.V., Denmark
+manufacturer: Aeterna Zentaris GmbH, Germany
+atc_code: V04CD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1337/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1337/001/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002085
+Name of medicine: Lymphoseek
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: tilmanocept
+Active substance: tilmanocept
+Therapeutic area (MeSH): Radionuclide Imaging
+ATC code (human): V09IA09
+Pharmacotherapeutic group (human): Tumour detection;Diagnostic radiopharmaceuticals
+Therapeutic indication: This medicinal product is for diagnostic use only. Radiolabelled Lymphoseek is indicated for imaging and intraoperative detection of sentinel lymph nodes draining a primary tumour in adult patients with breast cancer, melanoma, or localised squamous cell carcinoma of the oral cavity. External imaging and intraoperative evaluation may be performed using a gamma detection device.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lymphoseek

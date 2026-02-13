@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002182
+Name of medicine: Vipidia
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: alogliptin benzoate
+Active substance: alogliptin
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BH04
+Pharmacotherapeutic group (human): Drugs used in diabetes;Dipeptidyl peptidase 4 (DPP-4) inhibitors
+Therapeutic indication: Vipidia is indicated in adults aged 18 years and older with type 2 diabetes mellitus to improve glycaemic control in combination with other glucose lowering medicinal products including insulin, when these, together with diet and exercise, do not provide adequate glycaemic control (see sections 4.4, 4.5 and 5.1 for available data on different combinations).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vipidia

@@ -1,0 +1,7 @@
+short_name: Aldurazyme
+active_substance: Laronidasum
+marketing_authorisation_holder: Sanofi B.V., Netherlands
+manufacturer: Genzyme Ltd., United Kingdom; Genzyme Ireland Ltd., Ireland
+atc_code: A16AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/253/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/03/253/001/smpc

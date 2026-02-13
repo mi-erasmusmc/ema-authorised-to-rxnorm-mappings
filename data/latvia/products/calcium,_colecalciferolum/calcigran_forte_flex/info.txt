@@ -1,0 +1,7 @@
+short_name: Calcigran Forte Flex
+active_substance: Calcium, Colecalciferolum
+marketing_authorisation_holder: Orifarm Healthcare A/S, Denmark
+manufacturer: Takeda Pharma AS, Estonia; Takeda GmbH, Germany
+atc_code: A12AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0061/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0061/smpc

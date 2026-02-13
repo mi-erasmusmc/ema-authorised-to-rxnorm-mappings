@@ -1,0 +1,7 @@
+short_name: Monoprost
+active_substance: Latanoprostum
+marketing_authorisation_holder: Laboratoires THEA, France
+manufacturer: Laboratoires THEA, France; Excelvision, France; Fareva Mirabel, France; Laboratoire Unither, France
+atc_code: S01EE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0277/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0277/smpc

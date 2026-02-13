@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000197
+Name of medicine: Forcaltonin
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: recombinant salmon calcitonin
+Active substance: recombinant salmon calcitonin
+Therapeutic area (MeSH): Hypercalcemia;Osteitis Deformans;Bone Resorption
+ATC code (human): H05BA01
+Pharmacotherapeutic group (human): Calcium homeostasis
+Therapeutic indication: Calcitonin is indicated for:  Prevention of acute bone loss due to sudden immobilisation such as in patients with recent osteoporotic fractures Paget's disease Hypercalcaemia of malignancy
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/forcaltonin

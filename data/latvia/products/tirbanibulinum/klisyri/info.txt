@@ -1,0 +1,7 @@
+short_name: Klisyri
+active_substance: Tirbanibulinum
+marketing_authorisation_holder: Almirall, S.A., Spain
+manufacturer: Almirall Hermal GmbH, Germany
+atc_code: D06BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1558/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1558/001/smpc

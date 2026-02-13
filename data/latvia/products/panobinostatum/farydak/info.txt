@@ -1,0 +1,7 @@
+short_name: Farydak
+active_substance: Panobinostatum
+marketing_authorisation_holder: pharmaand GmbH, Austria
+manufacturer: Siegfried Barbera S.L., Spain
+atc_code: L01XH03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1023/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1023/001/smpc

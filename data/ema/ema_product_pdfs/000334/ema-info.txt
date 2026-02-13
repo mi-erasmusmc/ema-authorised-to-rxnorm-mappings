@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000334
+Name of medicine: Ceprotin
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: human protein C
+Active substance: human protein C
+Therapeutic area (MeSH): Purpura Fulminans;Protein C Deficiency
+ATC code (human): B01AD12
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: CEPROTIN is indicated for prophylaxis and treatment of  purpura fulminans  coumarin-induced skin necrosis and venous thrombotic events in patients with severe congenital protein C deficiency.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ceprotin

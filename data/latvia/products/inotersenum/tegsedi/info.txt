@@ -1,0 +1,7 @@
+short_name: Tegsedi
+active_substance: Inotersenum
+marketing_authorisation_holder: Akcea Therapeutics Ireland Ltd, Ireland
+manufacturer: ABF Pharmaceutical Services GmbH, Austria
+atc_code: N07XX15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1296/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/18/1296/001/smpc

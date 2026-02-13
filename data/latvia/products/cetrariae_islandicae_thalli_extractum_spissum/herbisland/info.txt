@@ -1,0 +1,7 @@
+short_name: Herbisland
+active_substance: Cetrariae islandicae thalli extractum spissum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: KRKA, d.d., Novo mesto, Slovenia
+atc_code: R05DB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0122/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0122/smpc

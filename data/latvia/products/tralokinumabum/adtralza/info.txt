@@ -1,0 +1,7 @@
+short_name: Adtralza
+active_substance: Tralokinumabum
+marketing_authorisation_holder: LEO Pharma A/S, Denmark
+manufacturer: LEO Pharma A/S, Denmark
+atc_code: D11AH07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1554/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1554/001/smpc

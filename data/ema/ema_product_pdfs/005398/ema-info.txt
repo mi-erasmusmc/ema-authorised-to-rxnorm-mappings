@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005398
+Name of medicine: Vazkepa
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: icosapent ethyl
+Active substance: Icosapent ethyl
+Therapeutic area (MeSH): Dyslipidemias
+ATC code (human): C10AX
+Pharmacotherapeutic group (human): Lipid modifying agents
+Therapeutic indication: Indicated to reduce cardiovascular risk as an adjunct to statin therapy.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vazkepa

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000297
+Name of medicine: Myocet liposomal (previously Myocet)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: doxorubicin
+Active substance: doxorubicin hydrochloride
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L01DB01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Myocet liposomal, in combination with cyclophosphamide, is indicated for the first-line treatment of metastatic breast cancer in adult women.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/myocet-liposomal

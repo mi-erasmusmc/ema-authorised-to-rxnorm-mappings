@@ -1,0 +1,7 @@
+short_name: CosmoFer
+active_substance: Ferri hydroxidum dextrani complexus
+marketing_authorisation_holder: Pharmacosmos A/S, Denmark
+manufacturer: Pharmacosmos A/S, Denmark
+atc_code: B03AC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0132/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0132/smpc

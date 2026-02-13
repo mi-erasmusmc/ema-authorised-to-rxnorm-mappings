@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000391
+Name of medicine: Lumigan
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: bimatoprost
+Active substance: bimatoprost
+Therapeutic area (MeSH): Glaucoma, Open-Angle;Ocular Hypertension
+ATC code (human): S01EE03
+Pharmacotherapeutic group (human): Prostaglandin analogues;Ophthalmologicals
+Therapeutic indication: Reduction of elevated intraocular pressure in chronic open-angle glaucoma and ocular hypertension (as monotherapy or as adjunctive therapy to beta-blockers).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lumigan

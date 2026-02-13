@@ -1,0 +1,7 @@
+short_name: Rosulip
+active_substance: Rosuvastatinum, Ezetimibum
+marketing_authorisation_holder: Egis Pharmaceuticals PLC, Hungary
+manufacturer: Egis Pharmaceuticals PLC, Hungary; Egis Pharmaceuticals PLC, Hungary
+atc_code: C10BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0194/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0194/smpc

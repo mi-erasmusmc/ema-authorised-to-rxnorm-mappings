@@ -1,0 +1,7 @@
+short_name: Ubichinon compositum
+active_substance: Ubidecarenonum, Acidum ascorbicum, Thiaminum hydrochloricum, Natrium riboflavinum phosphoricum, Pyridoxinum hydrochloricum, Nicotinamidum, Colchicum autumnale, Podophyllum peltatum, Conium maculatum, Hydrastis canadensis, Acidum L-lacticum, Hydrochinonum, Acidum DL alfa-liponicum, Sulfur, Manganum phosphoricum, Natrium diethyloxalaceticum, Trichinoylum, Naphthochinonum, Para-Benzochinonum, Adenosinum triphosphoricum, Coenzymum A, Galium aparine, Acidum acetylsalicylicum, Histaminum, Nadidum, Magnesium gluconicum, Anthrachinonum, Vaccinium myrtillus
+marketing_authorisation_holder: Biologische Heilmittel Heel GmbH, Germany
+manufacturer: Biologische Heilmittel Heel GmbH, Germany
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0157/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0157/smpc

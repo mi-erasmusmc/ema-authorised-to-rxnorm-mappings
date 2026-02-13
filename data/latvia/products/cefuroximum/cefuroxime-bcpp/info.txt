@@ -1,0 +1,7 @@
+short_name: Cefuroxime-BCPP
+active_substance: Cefuroximum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Unifarma, SIA, Latvia; BE Pharma d.o.o., Slovenia
+atc_code: J01DC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0108/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0108/smpc

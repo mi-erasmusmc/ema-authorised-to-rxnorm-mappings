@@ -1,0 +1,7 @@
+short_name: Itivas
+active_substance: Imatinibum
+marketing_authorisation_holder: TAD Pharma GmbH, Germany
+manufacturer: KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany; KRKA-FARMA d.o.o., Croatia
+atc_code: L01EA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0055/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0055/smpc

@@ -1,0 +1,7 @@
+short_name: Quetiapine Polpharma
+active_substance: Quetiapinum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Pharmaceutical Works "Polpharma" S.A., Poland
+atc_code: N05AH04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0128/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0128/smpc

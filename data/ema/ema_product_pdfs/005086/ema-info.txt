@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005086
+Name of medicine: Vantobra (previously Tobramycin PARI)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: tobramycin
+Active substance: tobramycin
+Therapeutic area (MeSH): Respiratory Tract Infections;Cystic Fibrosis
+ATC code (human): J01GB01
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Vantobra&nbsp;is indicated for the management of chronic pulmonary infection due to Pseudomonas aeruginosa in patients aged 6 years and older with cystic fibrosis (CF). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vantobra-previously-tobramycin-pari

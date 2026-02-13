@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000298
+Name of medicine: Hexavac
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis, hepatitis B (recombinant) and Haemophilus influenzae type b conjugate vaccine, adjuvanted
+Active substance: purified diphtheria toxoid;purified tetanus toxoid;purified pertussis toxoid;purified pertussis filamentous haemagglutinin;hepatitis B surface antigen;Inactivated Type 1 Poliovirus (Mahoney);Inactivated Type 3 Poliovirus (Saukett);Haemophilus influenzae type b polysaccharide
+Therapeutic area (MeSH): Hepatitis B;Tetanus;Immunization;Meningitis, Haemophilus;Whooping Cough;Poliomyelitis;Diphtheria
+ATC code (human): J07CA
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: This combined vaccine is indicated for primary and booster vaccination of children against diphtheria, tetanus, pertussis, hepatitis B caused by all known subtypes of viruses, poliomyelitis and invasive infections caused by Haemophilus influenzae type b.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hexavac

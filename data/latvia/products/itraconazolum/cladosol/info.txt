@@ -1,0 +1,7 @@
+short_name: Cladosol
+active_substance: Itraconazolum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Doppel Farmaceutici S.R.L., Italy; Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Sanico N.V., Belgium; Cosmo S.p.A., Italy
+atc_code: J02AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/06-0044/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/06-0044/smpc

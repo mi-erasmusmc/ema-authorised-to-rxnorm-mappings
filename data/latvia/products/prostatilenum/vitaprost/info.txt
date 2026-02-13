@@ -1,0 +1,7 @@
+short_name: Vitaprost
+active_substance: Prostatilenum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Aniss SIA, Latvia
+atc_code: G04BX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0506/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0506/smpc

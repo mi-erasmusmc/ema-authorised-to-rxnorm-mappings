@@ -1,0 +1,7 @@
+short_name: Salflumix Easyhaler
+active_substance: Salmeteroli xinafoas, Fluticasoni propionas
+marketing_authorisation_holder: Orion Corporation, Finland
+manufacturer: Orion Corporation Orion Pharma, Finland
+atc_code: R03AK06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0072/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0072/smpc

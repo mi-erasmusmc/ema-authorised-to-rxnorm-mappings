@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/15/1061/001	35605556	cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Genvoya]	1721619	EXACT			2025-12-04
+EU/1/15/1061/002	35605556	cobicistat 150 MG / elvitegravir 150 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Genvoya]	1721619	EXACT			2025-12-04
+EU/1/15/1061/003	854349	cobicistat 90 MG / elvitegravir 90 MG / emtricitabine 120 MG / tenofovir alafenamide 6 MG Oral Tablet	OMOP5577261	EXACT			2025-12-04
+EU/1/15/1061/004	854349	cobicistat 90 MG / elvitegravir 90 MG / emtricitabine 120 MG / tenofovir alafenamide 6 MG Oral Tablet	OMOP5577261	EXACT			2025-12-04

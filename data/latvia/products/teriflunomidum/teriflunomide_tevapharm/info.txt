@@ -1,0 +1,7 @@
+short_name: Teriflunomide TevaPharm
+active_substance: Teriflunomidum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: HBM Pharma s.r.o., Slovakia
+atc_code: L04AK02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0131/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0131/smpc

@@ -1,0 +1,7 @@
+short_name: Tavegyl
+active_substance: Clemastinum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; GlaxoSmithKline Consumer Healthcare GmbH & Co. KG, Germany; Haleon Alcala S.A, Spain
+atc_code: R06AA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/93-0425/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/93-0425/smpc

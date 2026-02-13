@@ -1,0 +1,7 @@
+short_name: Heart function improving drops Valentis
+active_substance: Leonuri tinctura, Valerianae tinctura, Crataegi tinctura
+marketing_authorisation_holder: UAB Valentis, Lithuania
+manufacturer: UAB Valentis, Lithuania
+atc_code: C01EX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0989/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0989/smpc

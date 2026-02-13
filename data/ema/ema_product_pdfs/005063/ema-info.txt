@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005063
+Name of medicine: Heplisav B
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: hepatitis B surface antigen
+Active substance: hepatitis B surface antigen
+Therapeutic area (MeSH): Hepatitis B
+ATC code (human): J07BC01
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Heplisav B is indicated for the active immunisation against hepatitis B virus infection (HBV) caused by all known subtypes of hepatitis B virus in adults 18 years of age and older. The use of Heplisav B should be in accordance with official recommendations. It can be expected that hepatitis D will also be prevented by immunisation with Heplisav B as hepatitis D (caused by the delta agent) does not occur in the absence of hepatitis B infection.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/heplisav-b

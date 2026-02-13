@@ -1,0 +1,7 @@
+short_name: Digoxin-Grindeks
+active_substance: Digoxinum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks AS, Latvia
+atc_code: C01AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0565/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0565/smpc

@@ -1,0 +1,7 @@
+short_name: Vitamin B12 Sopharma
+active_substance: Cyanocobalaminum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: B03BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0036/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0036/smpc

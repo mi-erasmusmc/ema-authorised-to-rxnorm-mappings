@@ -1,0 +1,7 @@
+short_name: Concor AM
+active_substance: Bisoprololi fumaras, Amlodipinum
+marketing_authorisation_holder: Merck Serono, SIA, Latvia
+manufacturer: Egis Pharmaceuticals PLC, Hungary; Merck Healthcare KGaA, Germany
+atc_code: C07FB07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0130/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0130/smpc

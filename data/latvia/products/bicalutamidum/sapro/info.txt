@@ -1,0 +1,7 @@
+short_name: Sapro
+active_substance: Bicalutamidum
+marketing_authorisation_holder: SanoSwiss UAB, Lithuania
+manufacturer: Synthon BV, Netherlands; Synthon Hispania S.L., Spain
+atc_code: L02BB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/07-0110/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/07-0110/smpc

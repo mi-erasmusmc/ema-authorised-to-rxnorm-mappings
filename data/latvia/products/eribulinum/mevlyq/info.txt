@@ -1,0 +1,7 @@
+short_name: Mevlyq
+active_substance: Eribulinum
+marketing_authorisation_holder: YES Pharmaceutical Development Services GmbH, Germany
+manufacturer: A & O Pharma GmbH, Germany
+atc_code: L01XX41
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1789/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1789/001/smpc

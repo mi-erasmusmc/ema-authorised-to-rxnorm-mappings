@@ -1,0 +1,7 @@
+short_name: AKANTIOR
+active_substance: Polihexanidum
+marketing_authorisation_holder: SIFI S.p.A., Italy
+manufacturer: SIFI S.p.A., Italy
+atc_code: S01AX24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1840/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1840/001/smpc

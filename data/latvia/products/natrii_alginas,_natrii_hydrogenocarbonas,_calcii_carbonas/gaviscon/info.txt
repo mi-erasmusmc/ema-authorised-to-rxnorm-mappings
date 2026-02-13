@@ -1,0 +1,7 @@
+short_name: Gaviscon
+active_substance: Natrii alginas, Natrii hydrogenocarbonas, Calcii carbonas
+marketing_authorisation_holder: Reckitt Benckiser (Poland) S.A., Poland
+manufacturer: RB NL Brands B.V., Netherlands
+atc_code: A02BX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0180/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0180/smpc

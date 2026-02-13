@@ -1,0 +1,7 @@
+short_name: Escitalopram Actavis
+active_substance: Escitalopramum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; TjoaPack Netherlands B.V., Netherlands; Actavis Ltd, Malta
+atc_code: N06AB10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0497/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0497/smpc

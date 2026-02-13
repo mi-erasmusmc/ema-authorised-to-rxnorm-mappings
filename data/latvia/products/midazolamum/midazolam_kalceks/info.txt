@@ -1,0 +1,7 @@
+short_name: Midazolam Kalceks
+active_substance: Midazolamum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: N05CD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0110/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0110/smpc

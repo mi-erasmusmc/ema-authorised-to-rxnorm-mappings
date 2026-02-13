@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000549
+Name of medicine: Pedea
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ibuprofen
+Active substance: Ibuprofen
+Therapeutic area (MeSH): Ductus Arteriosus, Patent
+ATC code (human): C01EB16
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pedea

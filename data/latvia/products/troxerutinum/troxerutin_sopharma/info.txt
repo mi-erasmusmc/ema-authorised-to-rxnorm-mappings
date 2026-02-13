@@ -1,0 +1,7 @@
+short_name: Troxerutin Sopharma
+active_substance: Troxerutinum
+marketing_authorisation_holder: Sopharma AD, Bulgaria
+manufacturer: Sopharma AD, Bulgaria
+atc_code: C05CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0486/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0486/smpc

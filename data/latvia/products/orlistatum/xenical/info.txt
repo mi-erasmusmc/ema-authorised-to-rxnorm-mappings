@@ -1,0 +1,7 @@
+short_name: Xenical
+active_substance: Orlistatum
+marketing_authorisation_holder: Cheplapharm Arzneimittel GmbH, Germany
+manufacturer: Cheplapharm Arzneimittel GmbH, Germany; Cheplapharm Arzneimittel GmbH, Germany
+atc_code: A08AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/071/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/071/001/smpc

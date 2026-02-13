@@ -1,0 +1,7 @@
+short_name: Dimethyl fumarate Sandoz
+active_substance: Dimethylis fumaras
+marketing_authorisation_holder: Sandoz Pharmaceuticals d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Zakłady Farmaceutyczne Polpharma S.A., Poland
+atc_code: L04AX07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0243/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0243/smpc

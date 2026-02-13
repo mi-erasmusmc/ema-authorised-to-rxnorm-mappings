@@ -1,0 +1,7 @@
+short_name: Tecentriq
+active_substance: Atezolizumabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01FF05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1220/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1220/001/smpc

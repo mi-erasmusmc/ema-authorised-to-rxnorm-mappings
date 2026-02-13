@@ -1,0 +1,7 @@
+short_name: Reagila
+active_substance: Cariprazinum
+marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+manufacturer: Gedeon Richter Plc., Hungary
+atc_code: N05AX15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1209/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1209/001/smpc

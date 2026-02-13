@@ -1,0 +1,7 @@
+short_name: Tacforius
+active_substance: Tacrolimusum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; TEVA Czech Industries s.r.o., Czech Republic; Pliva Hrvatska d.o.o., Croatia; Teva Operations Poland Sp.z o.o., Poland; Teva Pharma, S.L.U., Spain; Teva Pharmaceutical Works Co. Ltd, Hungary
+atc_code: L04AD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1244/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1244/001/smpc

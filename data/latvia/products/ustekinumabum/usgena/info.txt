@@ -1,0 +1,7 @@
+short_name: Usgena
+active_substance: Ustekinumabum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Alvotech hf., Iceland
+atc_code: L04AC05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1987/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1987/001/smpc

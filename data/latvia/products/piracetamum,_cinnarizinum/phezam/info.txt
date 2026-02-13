@@ -1,0 +1,7 @@
+short_name: Phezam
+active_substance: Piracetamum, Cinnarizinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria
+atc_code: N07CA52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0080/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0080/smpc

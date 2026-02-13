@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/001026
+Name of medicine: Victoza
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: liraglutide
+Active substance: liraglutide
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BJ02
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Victoza is indicated for the treatment of adults, adolescents and children aged 10 years and above with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise  as monotherapy when metformin is considered inappropriate due to intolerance or contraindications in addition to other medicinal products for the treatment of diabetes.  For study results with respect to combinations, effects on glycaemic control and cardiovascular events, and the populations studied.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/victoza

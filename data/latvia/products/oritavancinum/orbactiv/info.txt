@@ -1,0 +1,7 @@
+short_name: Orbactiv
+active_substance: Oritavancinum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: Biologici Italia Laboratories s.r.l., Italy
+atc_code: J01XA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/989/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/989/001/smpc

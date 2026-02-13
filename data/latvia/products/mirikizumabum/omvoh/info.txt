@@ -1,0 +1,7 @@
+short_name: Omvoh
+active_substance: Mirikizumabum
+marketing_authorisation_holder: Eli Lilly Nederland B.V., Netherlands
+manufacturer: Lilly France S.A.S., France
+atc_code: L04AC24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1736/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1736/001/smpc

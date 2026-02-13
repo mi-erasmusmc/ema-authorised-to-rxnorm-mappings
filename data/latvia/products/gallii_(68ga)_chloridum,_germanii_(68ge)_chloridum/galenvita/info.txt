@@ -1,0 +1,7 @@
+short_name: GalenVita
+active_substance: Gallii (68Ga) chloridum, Germanii (68Ge) chloridum
+marketing_authorisation_holder: Curium Romania S.R.L., Romania
+manufacturer: Curium Bulgaria EOOD, Bulgaria
+atc_code: V09X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2004/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2004/001/smpc

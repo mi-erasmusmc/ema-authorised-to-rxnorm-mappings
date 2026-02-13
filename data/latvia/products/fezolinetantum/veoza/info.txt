@@ -1,0 +1,7 @@
+short_name: Veoza
+active_substance: Fezolinetantum
+marketing_authorisation_holder: Astellas Pharma Europe B.V., Netherlands
+manufacturer: Astellas Pharma Europe B.V., Netherlands
+atc_code: G02CX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1771/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1771/001/smpc

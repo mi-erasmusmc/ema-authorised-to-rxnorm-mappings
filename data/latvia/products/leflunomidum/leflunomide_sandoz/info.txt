@@ -1,0 +1,7 @@
+short_name: Leflunomide Sandoz
+active_substance: Leflunomidum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Haupt Pharma Muenster GmbH, Germany; Salutas Pharma GmbH, Germany
+atc_code: L04AK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0002/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0002/smpc

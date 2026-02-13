@@ -1,0 +1,7 @@
+short_name: Lytenava
+active_substance: Bevacizumabum
+marketing_authorisation_holder: Outlook Therapeutics NL B.V., Netherlands
+manufacturer: MIAS Pharma Limited, Ireland
+atc_code: S01LA08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1798/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1798/001/smpc

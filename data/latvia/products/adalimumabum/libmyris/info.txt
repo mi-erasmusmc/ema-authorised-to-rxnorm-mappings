@@ -1,0 +1,7 @@
+short_name: Libmyris
+active_substance: Adalimumabum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Ivers-Lee CSM, Germany
+atc_code: L04AB04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1590/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1590/001/smpc

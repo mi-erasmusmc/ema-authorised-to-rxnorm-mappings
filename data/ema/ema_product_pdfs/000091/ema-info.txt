@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000091
+Name of medicine: Fareston
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: toremifene
+Active substance: toremifene
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L02BA02
+Pharmacotherapeutic group (human): Endocrine therapy
+Therapeutic indication: First line hormone treatment of hormone-dependent metastatic breast cancer in postmenopausal patients.Fareston is not recommended for patients with estrogen receptor negative tumours.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fareston

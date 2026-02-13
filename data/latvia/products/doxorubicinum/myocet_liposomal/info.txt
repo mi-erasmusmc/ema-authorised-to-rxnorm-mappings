@@ -1,0 +1,7 @@
+short_name: Myocet liposomal
+active_substance: Doxorubicinum
+marketing_authorisation_holder: Cheplapharm Arzneimittel GmbH, Germany
+manufacturer: GP-PHARM S.A., Spain
+atc_code: L01DB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/141/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/00/141/001/smpc

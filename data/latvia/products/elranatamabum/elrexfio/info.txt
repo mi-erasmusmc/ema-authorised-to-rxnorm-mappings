@@ -1,0 +1,7 @@
+short_name: Elrexfio
+active_substance: Elranatamabum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Service Company BV, Belgium
+atc_code: L01FX32
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1770/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1770/001/smpc

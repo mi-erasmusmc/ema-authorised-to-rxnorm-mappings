@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005731
+Name of medicine: Aqumeldi
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: enalapril maleate
+Active substance: Enalapril (maleate)
+Therapeutic area (MeSH): Heart Failure
+ATC code (human): C09AA02
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of heart failure.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aqumeldi

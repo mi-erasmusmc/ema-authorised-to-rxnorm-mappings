@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003886
+Name of medicine: Portrazza
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: necitumumab
+Active substance: necitumumab
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Portrazza in combination with gemcitabine and cisplatin chemotherapy is indicated for the treatment of adult patients with locally advanced or metastatic epidermal growth factor receptor (EGFR) expressing squamous non-small cell lung cancer who have not received prior chemotherapy for this condition.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/portrazza

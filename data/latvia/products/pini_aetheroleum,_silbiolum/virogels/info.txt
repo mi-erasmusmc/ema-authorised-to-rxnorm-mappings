@@ -1,0 +1,7 @@
+short_name: Virogels
+active_substance: Pini aetheroleum, Silbiolum
+marketing_authorisation_holder: LMP, SIA, Latvia
+manufacturer: LMP, SIA, Latvia
+atc_code: R01AX10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0485/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0485/smpc

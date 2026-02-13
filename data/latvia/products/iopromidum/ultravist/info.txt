@@ -1,0 +1,7 @@
+short_name: Ultravist
+active_substance: Iopromidum
+marketing_authorisation_holder: Bayer AG, Germany
+manufacturer: BerliMed S.A., Spain; Bayer AG, Germany
+atc_code: V08AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0119/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0119/smpc

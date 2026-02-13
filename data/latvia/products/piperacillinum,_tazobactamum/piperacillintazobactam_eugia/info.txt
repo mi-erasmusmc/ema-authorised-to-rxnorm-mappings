@@ -1,0 +1,7 @@
+short_name: Piperacillin/Tazobactam Eugia
+active_substance: Piperacillinum, Tazobactamum
+marketing_authorisation_holder: Eugia Pharma (Malta) Limited, Malta
+manufacturer: APL Swift Services (Malta) Limited, Malta
+atc_code: J01CR05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/10-0051/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/10-0051/smpc

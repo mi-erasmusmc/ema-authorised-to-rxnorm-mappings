@@ -1,0 +1,7 @@
+short_name: Azalonum
+active_substance: Cinnarizinum, Dimenhydrinatum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Central Factory, Cyprus; Medochemie Ltd., Factory AZ, Cyprus
+atc_code: N07CA52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0047/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0047/smpc

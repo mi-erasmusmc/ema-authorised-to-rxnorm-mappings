@@ -1,0 +1,7 @@
+short_name: Spectrila
+active_substance: Asparaginasum
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+atc_code: L01XX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1072/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1072/001/smpc

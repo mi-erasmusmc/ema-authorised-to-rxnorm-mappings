@@ -1,0 +1,7 @@
+short_name: Otrinazil
+active_substance: Xylometazolini hydrochloridum, Dexpanthenolum
+marketing_authorisation_holder: Haleon Hungary Kft., Hungary
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland; Haleon Germany GmbH, Germany
+atc_code: R01AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0101/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0101/smpc

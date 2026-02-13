@@ -1,0 +1,7 @@
+short_name: Lifodrox
+active_substance: Moxifloxacinum
+marketing_authorisation_holder: Bausch + Lomb Ireland Limited, Ireland
+manufacturer: Pharmathen S.A., Greece; Famar S.A. (Plant A), Greece
+atc_code: S01AE07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0010/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0010/smpc

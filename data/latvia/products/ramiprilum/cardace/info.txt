@@ -1,0 +1,7 @@
+short_name: Cardace
+active_substance: Ramiprilum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: S.C. Zentiva S.A., Romania; Delpharm Dijon, France; Sanofi-Aventis Deutschland GmbH, Germany; Sanofi S.r.l., Italy
+atc_code: C09AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0067/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0067/smpc

@@ -1,0 +1,7 @@
+short_name: Ivacaftor Stada
+active_substance: Ivacaftorum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Centrafarm Services B.V., Netherlands; Stada Arzneimittel AG, Germany; ELPEN Pharmaceutical Co. Inc., Greece; Stada Arzneimittel GmbH, Austria; Stada M&D S.R.L, Romania; Laboratori Fundacio Dau, Spain
+atc_code: R07AX02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0016/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0016/smpc

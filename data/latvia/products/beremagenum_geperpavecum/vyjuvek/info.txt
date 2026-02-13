@@ -1,0 +1,7 @@
+short_name: Vyjuvek
+active_substance: Beremagenum geperpavecum
+marketing_authorisation_holder: Krystal Biotech Netherlands B.V., Netherlands
+manufacturer: Propharma Group The Netherlands B.V., Netherlands
+atc_code: D03AX16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1918/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1918/001/smpc

@@ -1,0 +1,7 @@
+short_name: Maapliv
+active_substance: L-Alaninum, L-Argininum, Acidum L-asparticum, L-Cysteini hydrochloridum monohydricum, L-Acidum glutamicum, Glycinum, L-Histidinum, L-Lysini monohydricum, L-Methioninum, L-Phenylalaninum, L-Prolinum, L-Serinum, Taurinum, L-Threoninum, L-Tryptophanum, L-Tyrosinum
+marketing_authorisation_holder: Recordati Rare Diseases, France
+manufacturer: Recordati Rare Diseases, France; Recordati Rare Diseases, France; Industria Farmaceutica Galenica Senese S.r.l., Italy
+atc_code: B05BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1955/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1955/001/smpc

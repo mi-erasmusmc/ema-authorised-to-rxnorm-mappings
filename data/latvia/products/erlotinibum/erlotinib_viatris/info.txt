@@ -1,0 +1,7 @@
+short_name: Erlotinib Viatris
+active_substance: Erlotinibum
+marketing_authorisation_holder: Viatris Limited, Ireland
+manufacturer: Remedica Ltd., Cyprus
+atc_code: L01EB02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0182/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0182/smpc

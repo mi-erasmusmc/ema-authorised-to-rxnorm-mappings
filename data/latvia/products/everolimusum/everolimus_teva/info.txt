@@ -1,0 +1,7 @@
+short_name: Everolimus Teva
+active_substance: Everolimusum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Pliva Hrvatska d.o.o., Croatia; Teva Operations Poland Sp.z o.o., Poland; Teva Gyogyszergyar Zrt., Hungary
+atc_code: L01EG02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/17-0137/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/17-0137/smpc

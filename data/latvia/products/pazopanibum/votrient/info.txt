@@ -1,0 +1,7 @@
+short_name: Votrient
+active_substance: Pazopanibum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Glaxo Wellcome S.A., Spain; Lek Pharmaceuticals d.d., Slovenia
+atc_code: L01EX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/628/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/10/628/001/smpc

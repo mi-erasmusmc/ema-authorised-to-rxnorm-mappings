@@ -1,0 +1,7 @@
+short_name: Essentiale forte N
+active_substance: Phospholipida ex soia
+marketing_authorisation_holder: Opella Healthcare France S.A.S., France
+manufacturer: A. Nattermann & Cie. GmbH, Germany; Opella Healthcare Poland Sp. z o.o., Poland
+atc_code: A05BA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0061/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0061/smpc

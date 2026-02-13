@@ -1,0 +1,7 @@
+short_name: Ondansetron Basi
+active_substance: Ondansetronum
+marketing_authorisation_holder: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+manufacturer: Laboratorios Basi - Industria Farmaceutica, S.A., Portugal
+atc_code: A04AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0165/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0165/smpc

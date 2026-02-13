@@ -1,0 +1,7 @@
+short_name: Lenalidomide Norameda
+active_substance: Lenalidomidum
+marketing_authorisation_holder: Norameda UAB, Lithuania
+manufacturer: Orion Corporation Orion Pharma, Finland; Synthon BV, Netherlands; Synthon Hispania S.L., Spain; Centre Lab, France
+atc_code: L04AX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0152/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0152/smpc

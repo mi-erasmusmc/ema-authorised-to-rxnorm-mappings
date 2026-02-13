@@ -1,0 +1,7 @@
+short_name: Aceclofenac Rivopharm
+active_substance: Aceclofenacum
+marketing_authorisation_holder: Rivopharm Ltd., Ireland
+manufacturer: Holsten Pharma GmbH., Germany
+atc_code: M01AB16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/15-0046/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/15-0046/smpc

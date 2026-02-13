@@ -1,0 +1,7 @@
+short_name: Ibuprofen Gen.Orph
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Gen.Orph, France
+manufacturer: Haupt Pharma, France
+atc_code: C01EB16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1791/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1791/001/smpc

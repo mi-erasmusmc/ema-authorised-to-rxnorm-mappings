@@ -1,0 +1,7 @@
+short_name: Ganirelix Theramex
+active_substance: Ganirelixum
+marketing_authorisation_holder: Theramex Ireland Limited, Ireland
+manufacturer: GP-PHARM S.A., Spain
+atc_code: H01CC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0021/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0021/smpc

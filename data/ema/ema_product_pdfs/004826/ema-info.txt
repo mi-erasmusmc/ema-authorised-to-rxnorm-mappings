@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004826
+Name of medicine: Gefitinib Mylan
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: gefitinib
+Active substance: gefitinib
+Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
+ATC code (human): L01XE02
+Pharmacotherapeutic group (human): Antineoplastic agents;Protein kinase inhibitors
+Therapeutic indication: Gefitinib Mylan is indicated as monotherapy for the treatment of adult patients with locally advanced or metastatic non small cell lung cancer (NSCLC) with activating mutations of EGFR TK.
+Biosimilar: No
+Generic or hybrid: Yes
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gefitinib-mylan

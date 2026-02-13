@@ -1,0 +1,7 @@
+short_name: Trumenba
+active_substance: Meningococcal group B vaccine (recombinant, adsorbed)
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Pfizer Manufacturing Belgium NV, Belgium
+atc_code: J07AH09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1187/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1187/001/smpc

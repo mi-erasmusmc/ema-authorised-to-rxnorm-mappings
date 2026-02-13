@@ -1,0 +1,7 @@
+short_name: Opdivo
+active_substance: Nivolumabum
+marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG, Ireland
+manufacturer: Swords Laboratories t/a Bristol-Myers Squibb Cruiserath Biologics, Ireland
+atc_code: L01FF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1014/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1014/001/smpc

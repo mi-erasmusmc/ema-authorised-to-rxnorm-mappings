@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000309
+Name of medicine: Toujeo (previously Optisulin)
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin glargine
+Active substance: insulin glargine
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AE04
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of diabetes mellitus in adults, adolescents and children from the age of 6 years.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/toujeo

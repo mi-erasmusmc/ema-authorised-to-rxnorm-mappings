@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000113
+Name of medicine: Invirase
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: saquinavir
+Active substance: saquinavir
+Therapeutic area (MeSH): HIV Infections
+ATC code (human): J05AE01
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Invirase is indicated for the treatment of HIV-1-infected adult patients. Invirase should only be given in combination with ritonavir and other antiretroviral medicinal products.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/invirase

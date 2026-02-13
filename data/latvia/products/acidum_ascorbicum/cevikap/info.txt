@@ -1,0 +1,7 @@
+short_name: Cevikap
+active_substance: Acidum ascorbicum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Zakłady Farmaceutyczne POLPHARMA S.A., Poland
+atc_code: A11GA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0187/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0187/smpc

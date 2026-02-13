@@ -1,0 +1,7 @@
+short_name: Sodium chloride
+active_substance: Natrii chloridum
+marketing_authorisation_holder: B.Braun Melsungen AG, Germany
+manufacturer: B.Braun Melsungen AG, Germany
+atc_code: B05XA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0093/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0093/smpc

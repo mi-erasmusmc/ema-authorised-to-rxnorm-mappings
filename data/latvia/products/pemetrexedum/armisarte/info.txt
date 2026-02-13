@@ -1,0 +1,7 @@
+short_name: Armisarte
+active_substance: Pemetrexedum
+marketing_authorisation_holder: Actavis Group PTC ehf., Iceland
+manufacturer: S.C. Sindan - Pharma S.R.L., Romania; Actavis Italy S.p.A., Italy; Pliva Croatia Ltd., Croatia
+atc_code: L01BA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1063/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1063/001/smpc

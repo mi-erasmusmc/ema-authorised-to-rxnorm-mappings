@@ -1,0 +1,7 @@
+short_name: Nemdatine
+active_substance: Memantinum
+marketing_authorisation_holder: Actavis Group PTC ehf, Iceland
+manufacturer: Actavis hf., Iceland; Manufacturing Packaging Farmaca (MPF) B.V., Netherlands; Manufacturing Packaging Farmaca (MPF) B.V., Netherlands; Actavis Ltd., Malta; Actavis hf., Iceland
+atc_code: N06DX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/824/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/824/001/smpc

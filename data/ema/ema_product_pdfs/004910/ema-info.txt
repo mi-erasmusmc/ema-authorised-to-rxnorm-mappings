@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004910
+Name of medicine: Qtrilmet
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: metformin hydrochloride;saxagliptin;dapagliflozin
+Active substance: metformin hydrochloride;saxagliptin;dapagliflozin
+Therapeutic area (MeSH): Diabetes Mellitus, Type 2
+ATC code (human): A10BD
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Qtrilmet is indicated in adults aged 18 years and older with type 2 diabetes mellitus:  to improve glycaemic control when metformin with or without sulphonylurea (SU) and either saxagliptin or dapagliflozin does not provide adequate glycaemic control. when already being treated with metformin and saxagliptin and dapagliflozin.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/qtrilmet

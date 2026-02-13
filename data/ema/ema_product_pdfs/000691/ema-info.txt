@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000691
+Name of medicine: Zimulti
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: rimonabant
+Active substance: rimonabant
+Therapeutic area (MeSH): Obesity
+ATC code (human): A08AX01
+Pharmacotherapeutic group (human): Antiobesity preparations, excl. diet products
+Therapeutic indication: As an adjunct to diet and exercise for the treatment of obese patients (BMI 30 kg/m2), or overweight patients (BMI 27 kg/m2) with associated risk factor(s), such as type 2 diabetes or dyslipidaemia (see section 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zimulti

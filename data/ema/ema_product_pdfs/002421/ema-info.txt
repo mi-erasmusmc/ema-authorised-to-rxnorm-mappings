@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002421
+Name of medicine: Sprimeo HCT
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: aliskiren;hydrochlorothiazide
+Active substance: aliskiren;hydrochlorothiazide
+Therapeutic area (MeSH): Hypertension
+ATC code (human): C09XA52
+Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
+Therapeutic indication: Treatment of essential hypertension in adults. Sprimeo HCT is indicated in patients whose blood pressure is not adequately controlled on aliskiren or hydrochlorothiazide used alone. Sprimeo HCT is indicated as substitution therapy in patients adequately controlled with aliskiren and hydrochlorothiazide, given concurrently, at the same dose level as in the combination.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sprimeo-hct

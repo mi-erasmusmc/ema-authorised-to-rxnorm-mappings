@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005652
+Name of medicine: Bekemv
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: eculizumab
+Active substance: Eculizumab
+Therapeutic area (MeSH): Hemoglobinuria, Paroxysmal
+ATC code (human): L04AJ01
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Bekemv is indicated in adults and children for the treatment of paroxysmal nocturnal haemoglobinuria (PNH). Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical symptom(s) indicative of high disease activity, regardless of transfusion history (see section 5.1).
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bekemv

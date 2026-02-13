@@ -1,0 +1,7 @@
+short_name: Vancosan
+active_substance: Vancomycinum
+marketing_authorisation_holder: MIP Pharma GmbH, Germany
+manufacturer: Chephasaar Chem.-pharm. Fabrik GmbH, Germany
+atc_code: J01XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0190/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0190/smpc

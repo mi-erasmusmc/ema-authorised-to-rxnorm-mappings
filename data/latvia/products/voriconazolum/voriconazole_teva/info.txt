@@ -1,0 +1,7 @@
+short_name: Voriconazole Teva
+active_substance: Voriconazolum
+marketing_authorisation_holder: Teva Pharma B.V., Netherlands
+manufacturer: Merckle GmbH, Germany; Teva Pharmaceutical Works Private Limited Company, Hungary; Pliva Hrvatska d.o.o., Croatia; Teva Operations Poland Sp.z o.o., Poland; Teva Pharma, S.L.U., Spain
+atc_code: J02AC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0171/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0171/smpc

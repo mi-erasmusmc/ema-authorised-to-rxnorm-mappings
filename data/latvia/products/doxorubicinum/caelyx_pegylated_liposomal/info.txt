@@ -1,0 +1,7 @@
+short_name: Caelyx pegylated liposomal
+active_substance: Doxorubicinum
+marketing_authorisation_holder: Baxter Holding B.V., Netherlands
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Baxter Oncology GmbH, Germany
+atc_code: L01DB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/011/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/96/011/001/smpc

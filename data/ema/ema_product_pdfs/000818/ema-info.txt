@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000818
+Name of medicine: Nevanac
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: nepafenac
+Active substance: nepafenac
+Therapeutic area (MeSH): Pain, Postoperative;Ophthalmologic Surgical Procedures
+ATC code (human): S01BC10
+Pharmacotherapeutic group (human): Ophthalmologicals
+Therapeutic indication: Nevanac is indicated for:  prevention and treatment of postoperative pain and inflammation associated with cataract surgery; reduction in the risk of postoperative macular oedema associated with cataract surgery in diabetic patients.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nevanac

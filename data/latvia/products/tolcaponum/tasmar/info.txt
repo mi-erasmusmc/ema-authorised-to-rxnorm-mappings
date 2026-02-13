@@ -1,0 +1,7 @@
+short_name: Tasmar
+active_substance: Tolcaponum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: ICN Polfa Rzeszow S.A., Poland
+atc_code: N04BX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/044/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/97/044/001/smpc

@@ -1,0 +1,7 @@
+short_name: Dicloberl retard
+active_substance: Diclofenacum natricum
+marketing_authorisation_holder: Berlin-Chemie AG, Germany
+manufacturer: Berlin-Chemie AG, Germany
+atc_code: M01AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0034/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0034/smpc

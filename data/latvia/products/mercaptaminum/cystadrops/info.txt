@@ -1,0 +1,7 @@
+short_name: Cystadrops
+active_substance: Mercaptaminum
+marketing_authorisation_holder: Recordati Rare Diseases, France
+manufacturer: Recordati Rare Diseases, France; Recordati Rare Diseases, France
+atc_code: S01XA21
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1049/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1049/001/smpc

@@ -1,0 +1,7 @@
+short_name: Sedatif PC
+active_substance: Atropa belladonna, Aconitum napellus, Chelidonium majus, Calendula officinalis, Abrus precatorius, Viburnum opulus
+marketing_authorisation_holder: Boiron, France
+manufacturer: Boiron, France
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0704/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0704/smpc

@@ -1,0 +1,7 @@
+short_name: Abiraterone Zentiva
+active_substance: Abirateroni acetas
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva, k.s., Czech Republic; Prestige Promotion Verkaufsfoerderung & Werbeservice GmbH, Germany
+atc_code: L02BX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0186/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0186/smpc

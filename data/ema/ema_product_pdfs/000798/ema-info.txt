@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000798
+Name of medicine: Tasigna
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: nilotinib
+Active substance: nilotinib
+Therapeutic area (MeSH): Leukemia, Myelogenous, Chronic, BCR-ABL Positive
+ATC code (human): L01EA03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Tasigna is indicated for the treatment of:  adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase, paediatric patients with Philadelphia chromosome positive CML in chronic phase with resistance or intolerance to prior therapy including imatinib.  Tasigna is indicated for the treatment of:  adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase, adult patients with chronic phase and accelerated phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib. Efficacy data in patients with CML in blast crisis are not available, paediatric patients with chronic phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tasigna

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002801
+Name of medicine: Zalmoxis
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: allogeneic T cells genetically modified with a retroviral vector encoding for a truncated form of the human low affinity nerve growth factor receptor (ΔLNGFR) and the herpes simplex I virus thymidine kinase (HSV-TK Mut2)
+Active substance: allogeneic T cells genetically modified with a retroviral vector encoding for a truncated form of the human low affinity nerve growth factor receptor (ΔLNGFR) and the herpes simplex I virus thymidine kinase (HSV-TK Mut2)
+Therapeutic area (MeSH): Hematopoietic Stem Cell Transplantation;Graft vs Host Disease
+ATC code (human): L01
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Zalmoxis is indicated as adjunctive treatment in haploidentical haematopoietic stem cell transplantation (HSCT) of adult patients with high-risk haematological malignancies.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zalmoxis

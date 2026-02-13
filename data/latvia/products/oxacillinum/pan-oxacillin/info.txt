@@ -1,0 +1,7 @@
+short_name: PAN-Oxacillin
+active_substance: Oxacillinum
+marketing_authorisation_holder: Panpharma, France
+manufacturer: Panpharma S.A, France
+atc_code: J01CF04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0238/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0238/smpc

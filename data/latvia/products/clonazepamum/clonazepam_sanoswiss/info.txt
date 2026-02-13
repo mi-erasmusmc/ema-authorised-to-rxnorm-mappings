@@ -1,0 +1,7 @@
+short_name: Clonazepam SanoSwiss
+active_substance: Clonazepamum
+marketing_authorisation_holder: SanoSwiss UAB, Lithuania
+manufacturer: Holsten Pharma GmbH., Germany
+atc_code: N03AE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0232/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0232/smpc

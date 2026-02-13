@@ -1,0 +1,7 @@
+short_name: Legalon Protect
+active_substance: Silybum marianum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Madaus GmbH, Germany
+atc_code: A05BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0570/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0570/smpc

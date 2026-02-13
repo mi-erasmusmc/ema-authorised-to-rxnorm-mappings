@@ -1,0 +1,7 @@
+short_name: JEVTANA
+active_substance: Cabazitaxelum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Deutschland GmbH, Germany
+atc_code: L01CD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/676/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/676/001/smpc

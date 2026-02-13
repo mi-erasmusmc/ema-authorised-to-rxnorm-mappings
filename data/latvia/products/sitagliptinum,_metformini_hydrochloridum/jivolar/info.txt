@@ -1,0 +1,7 @@
+short_name: Jivolar
+active_substance: Sitagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus
+atc_code: A10BD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0029/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0029/smpc

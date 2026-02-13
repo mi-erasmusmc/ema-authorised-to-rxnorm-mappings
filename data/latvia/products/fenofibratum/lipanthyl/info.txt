@@ -1,0 +1,7 @@
+short_name: Lipanthyl
+active_substance: Fenofibratum
+marketing_authorisation_holder: Viatris SIA, Latvia
+manufacturer: Delpharm L' Aigle, France; Astrea Fontaine, France
+atc_code: C10AB05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0309/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0309/smpc

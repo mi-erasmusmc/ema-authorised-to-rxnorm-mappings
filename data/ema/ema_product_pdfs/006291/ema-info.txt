@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006291
+Name of medicine: Kavigale
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: sipavibart
+Active substance: sipavibart
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J06BD09
+Pharmacotherapeutic group (human): Immune sera and immunoglobulins
+Therapeutic indication: Kavigale is indicated for the pre-exposure prophylaxis of COVID-19 in adults and adolescents 12 years of age and older weighing at least 40 kg and who are immunocompromised due to a medical condition or receipt of immunosuppressive treatments.Kavigale should be used in accordance with official recommendations where available and based on information on the activity of sipavibart against presently circulating viral variants (see sections 4.4 and 5.1).
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kavigale

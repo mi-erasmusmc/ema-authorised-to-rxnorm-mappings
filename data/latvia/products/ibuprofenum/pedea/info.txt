@@ -1,0 +1,7 @@
+short_name: Pedea
+active_substance: Ibuprofenum
+marketing_authorisation_holder: Recordati Rare Diseases, France
+manufacturer: Recordati Rare Diseases, France; Recordati Rare Diseases, France
+atc_code: C01EB16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/284/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/04/284/001/smpc

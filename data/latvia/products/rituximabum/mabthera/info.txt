@@ -1,0 +1,7 @@
+short_name: MabThera
+active_substance: Rituximabum
+marketing_authorisation_holder: Roche Registration GmbH, Germany
+manufacturer: Roche Pharma AG, Germany
+atc_code: L01FA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/067/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/98/067/001/smpc

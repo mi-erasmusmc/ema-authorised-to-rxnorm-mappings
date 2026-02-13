@@ -1,0 +1,7 @@
+short_name: Ceftriaxone Kabi
+active_substance: Ceftriaxonum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Labesfal-Laboratorios Almiro, S.A., Portugal
+atc_code: J01DD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0334/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0334/smpc

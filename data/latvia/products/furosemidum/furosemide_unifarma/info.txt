@@ -1,0 +1,7 @@
+short_name: Furosemide Unifarma
+active_substance: Furosemidum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Bieffe Medital S.P.A, Italy; Unifarma, SIA, Latvia
+atc_code: C03CA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/12-0219/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/12-0219/smpc

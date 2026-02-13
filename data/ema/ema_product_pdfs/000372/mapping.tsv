@@ -1,0 +1,9 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/02/211/001	21157488	0.5 ML Epoetin delta 2000 UNT/ML Prefilled Syringe [Dynepo]	OMOP287302	EXACT			2025-12-04
+EU/1/02/211/002	21069101	0.5 ML Epoetin delta 4000 UNT/ML Prefilled Syringe [Dynepo]	OMOP287295	EXACT			2025-12-04
+EU/1/02/211/003	21137612	0.3 ML Epoetin delta 10000 UNT/ML Prefilled Syringe [Dynepo]	OMOP285975	EXACT			2025-12-04
+EU/1/02/211/004	21167195	0.4 ML Epoetin delta 10000 UNT/ML Prefilled Syringe [Dynepo]	OMOP286382	EXACT			2025-12-04
+EU/1/02/211/005	21078868	0.5 ML Epoetin delta 20000 UNT/ML Prefilled Syringe [Dynepo]	OMOP287282	EXACT			2025-12-04
+EU/1/02/211/010	21147505	0.5 ML Epoetin delta 10000 UNT/ML Prefilled Syringe [Dynepo]	OMOP287289	EXACT			2025-12-04
+EU/1/02/211/011	21059097	0.3 ML Epoetin delta 20000 UNT/ML Prefilled Syringe [Dynepo]	OMOP285968	EXACT			2025-12-04
+EU/1/02/211/012	21127756	0.4 ML Epoetin delta 20000 UNT/ML Prefilled Syringe [Dynepo]	OMOP286376	EXACT			2025-12-04

@@ -1,0 +1,7 @@
+short_name: Neurontin
+active_substance: Gabapentinum
+marketing_authorisation_holder: Upjohn EESV, Netherlands
+manufacturer: Medis International a.s., Czech Republic; Pfizer Manufacturing Deutschland GmbH, Germany
+atc_code: N02BF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0276/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0276/smpc

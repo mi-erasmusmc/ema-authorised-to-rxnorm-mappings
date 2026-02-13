@@ -1,0 +1,7 @@
+short_name: Harmonet
+active_substance: Gestodenum, Ethinylestradiolum
+marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
+manufacturer: Haupt Pharma Münster GmbH, Germany; Pfizer Ireland Pharmaceuticals Unlimited Company, Ireland
+atc_code: G03AA10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0658/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0658/smpc

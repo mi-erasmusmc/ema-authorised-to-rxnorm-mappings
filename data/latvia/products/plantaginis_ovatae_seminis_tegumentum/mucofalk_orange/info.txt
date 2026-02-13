@@ -1,0 +1,7 @@
+short_name: Mucofalk Orange
+active_substance: Plantaginis ovatae seminis tegumentum
+marketing_authorisation_holder: Dr. Falk Pharma GmbH, Germany
+manufacturer: Dr. Falk Pharma GmbH, Germany
+atc_code: A06AC01;C10AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0113/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0113/smpc

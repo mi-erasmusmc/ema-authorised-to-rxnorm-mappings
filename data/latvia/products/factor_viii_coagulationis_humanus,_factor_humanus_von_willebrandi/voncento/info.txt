@@ -1,0 +1,7 @@
+short_name: Voncento
+active_substance: Factor VIII coagulationis humanus, Factor humanus von Willebrandi
+marketing_authorisation_holder: CSL Behring GmbH, Germany
+manufacturer: CSL Behring GmbH, Germany
+atc_code: B02BD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/857/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/857/001/smpc

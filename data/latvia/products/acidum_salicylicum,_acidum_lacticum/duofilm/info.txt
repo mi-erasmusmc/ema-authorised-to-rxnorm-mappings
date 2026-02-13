@@ -1,0 +1,7 @@
+short_name: Duofilm
+active_substance: Acidum salicylicum, Acidum lacticum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Delpharm Bladel B.V., Netherlands
+atc_code: D11AF
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0545/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0545/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/003795
+Name of medicine: Thorinane
+Medicine status: Lapsed
+International non-proprietary name (INN) / common name: enoxaparin sodium
+Active substance: enoxaparin sodium
+Therapeutic area (MeSH): Venous Thromboembolism
+ATC code (human): B01AB05
+Pharmacotherapeutic group (human): Antithrombotic agents
+Therapeutic indication: Thorinane is indicated for adults for: - Prophylaxis of venous thromboembolism, particularly in patients undergoing orthopaedic, general or oncological surgery. - Prophylaxis of venous thromboembolism in patients bedridden due to acute illnesses including acute heart failure, acute respiratory failure, severe infections, as well as exacerbation of rheumatic diseases causing immobilisation of the patient (applies to strengths of 40 mg/0.4 mL). - Treatment of deep vein thrombosis (DVT), complicated or uncomplicated by pulmonary embolism. - Treatment of unstable angina and non Q wave myocardial infarction, in combination with acetylsalicylic acid (ASA). - Treatment of acute ST segment elevation myocardial infarction (STEMI) including patients who will be treated conservatively or who will later undergo percutaneous coronary angioplasty (applies to strengths of 60 mg/0.6 mL, 80 mg/0.8 mL, and 100 mg/1 mL). - Blood clot prevention in the extracorporeal circulation during haemodialysis. Prevention and treatment of various disorders related to blood clots in adults.
+Biosimilar: Yes
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/thorinane

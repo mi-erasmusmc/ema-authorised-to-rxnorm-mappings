@@ -1,0 +1,7 @@
+short_name: Utrogestan
+active_substance: Progesteronum
+marketing_authorisation_holder: Besins Healthcare Ireland Limited, Ireland
+manufacturer: Cyndea Pharma S.L., Spain; Besins Manufacturing Espana S.L., Spain
+atc_code: G03DA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0131/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0131/smpc

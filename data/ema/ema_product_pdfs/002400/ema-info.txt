@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002400
+Name of medicine: Adasuve
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: loxapine
+Active substance: loxapine
+Therapeutic area (MeSH): Schizophrenia;Bipolar Disorder
+ATC code (human): N05AH01
+Pharmacotherapeutic group (human): Nervous system
+Therapeutic indication: Adasuve is indicated for the rapid control of mild-to-moderate agitation in adult patients with schizophrenia or bipolar disorder. Patients should receive regular treatment immediately after control of acute agitation symptoms.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/adasuve

@@ -1,0 +1,7 @@
+short_name: Brineura
+active_substance: Cerliponasum alfa
+marketing_authorisation_holder: BioMarin International Limited, Ireland
+manufacturer: BioMarin International Limited, Ireland
+atc_code: A16AB17
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1192/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1192/001/smpc

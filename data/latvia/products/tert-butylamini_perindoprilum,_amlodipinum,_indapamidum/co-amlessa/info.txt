@@ -1,0 +1,7 @@
+short_name: Co-Amlessa
+active_substance: Tert-butylamini perindoprilum, Amlodipinum, Indapamidum
+marketing_authorisation_holder: KRKA, d.d., Novo mesto, Slovenia
+manufacturer: Krka Polska Sp. z o.o., Poland; KRKA, d.d., Novo mesto, Slovenia; TAD Pharma GmbH, Germany
+atc_code: C09BX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/14-0026/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/14-0026/smpc

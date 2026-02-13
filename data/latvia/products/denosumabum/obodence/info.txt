@@ -1,0 +1,7 @@
+short_name: Obodence
+active_substance: Denosumabum
+marketing_authorisation_holder: Samsung Bioepis NL B.V., Netherlands
+manufacturer: Samsung Bioepis NL B.V., Netherlands
+atc_code: M05BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1890/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1890/001/smpc

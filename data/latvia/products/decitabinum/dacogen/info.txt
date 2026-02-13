@@ -1,0 +1,7 @@
+short_name: Dacogen
+active_substance: Decitabinum
+marketing_authorisation_holder: Janssen-Cilag International NV, Belgium
+manufacturer: Janssen Pharmaceutica N.V., Belgium
+atc_code: L01BC08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/792/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/792/001/smpc

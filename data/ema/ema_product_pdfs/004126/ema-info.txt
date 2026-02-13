@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004126
+Name of medicine: Zepatier
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: elbasvir;grazoprevir
+Active substance: elbasvir;grazoprevir
+Therapeutic area (MeSH): Hepatitis C, Chronic
+ATC code (human): J05AP54
+Pharmacotherapeutic group (human): Direct acting antivirals;Antivirals for systemic use;Antivirals for treatment of HCV infections
+Therapeutic indication: ZEPATIER is indicated for the treatment of chronic hepatitis C (CHC) in adult and paediatric patients 12 years of age and older who weigh at least 30 kg (see sections 4.2, 4.4 and 5.1). For hepatitis C virus (HCV) genotype-specific activity see sections 4.4 and 5.1.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zepatier

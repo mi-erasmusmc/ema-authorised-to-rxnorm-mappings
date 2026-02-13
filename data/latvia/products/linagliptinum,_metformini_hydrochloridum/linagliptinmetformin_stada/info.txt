@@ -1,0 +1,7 @@
+short_name: Linagliptin/Metformin Stada
+active_substance: Linagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel GmbH, Austria; PharOS MT Limited, Malta; Stada Arzneimittel AG, Germany
+atc_code: A10BD11
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0148/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0148/smpc

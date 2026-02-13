@@ -1,0 +1,7 @@
+short_name: Zokinvy
+active_substance: Lonafarnibum
+marketing_authorisation_holder: TMC Pharma (EU) Limited, Ireland
+manufacturer: ABF Pharmaceutical Services GmbH, Austria; Sciensus International B.V., Netherlands
+atc_code: A16AX20
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1660/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1660/001/smpc

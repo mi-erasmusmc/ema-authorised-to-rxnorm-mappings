@@ -1,0 +1,7 @@
+short_name: Pemetrexed medac
+active_substance: Pemetrexedum
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany; Synthon Hispania S.L., Spain; Synthon s.r.o., Czech Republic
+atc_code: L01BA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1038/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/15/1038/001/smpc

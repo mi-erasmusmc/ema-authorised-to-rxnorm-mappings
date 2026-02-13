@@ -1,0 +1,7 @@
+short_name: Omeprazole STADA
+active_substance: Omeprazolum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Laboratorios Liconsa, S.A., Spain
+atc_code: A02BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0022/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0022/smpc

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000639
+Name of medicine: Rotarix
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: rotavirus vaccine, live
+Active substance: human rotavirus, live attenuated
+Therapeutic area (MeSH): Immunization;Rotavirus Infections
+ATC code (human): J07BH01
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Rotarix is indicated for the active immunisation of infants aged 6 to 24 weeks for prevention of gastroenteritis due to rotavirus infection. The use of Rotarix should be based on official recommendation.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rotarix

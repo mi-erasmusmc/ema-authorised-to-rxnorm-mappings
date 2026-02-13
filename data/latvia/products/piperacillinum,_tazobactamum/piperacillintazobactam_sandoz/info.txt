@@ -1,0 +1,7 @@
+short_name: Piperacillin/Tazobactam Sandoz
+active_substance: Piperacillinum, Tazobactamum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Sandoz GmbH, Austria
+atc_code: J01CR05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0344/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0344/smpc

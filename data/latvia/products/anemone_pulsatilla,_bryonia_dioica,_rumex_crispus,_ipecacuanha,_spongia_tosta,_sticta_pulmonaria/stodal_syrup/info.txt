@@ -1,0 +1,7 @@
+short_name: Stodal syrup
+active_substance: Anemone pulsatilla, Bryonia dioica, Rumex crispus, Ipecacuanha, Spongia tosta, Sticta pulmonaria, Antimonii tartras, Myocarde, Coccus cacti, Drosera
+marketing_authorisation_holder: Boiron, France
+manufacturer: Boiron, France
+atc_code: V03AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0703/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0703/smpc
