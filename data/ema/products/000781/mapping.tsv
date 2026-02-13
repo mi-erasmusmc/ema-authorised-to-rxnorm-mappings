@@ -1,9 +1,9 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/07/404/001	40220531	10 ML immunoglobulin G, human 50 MG/ML Injection	1809427	EXACT			2025-12-04
-EU/1/07/404/002	40220546	50 ML immunoglobulin G, human 50 MG/ML Injection	1809447	EXACT			2025-12-04
-EU/1/07/404/003	40220548	100 ML immunoglobulin G, human 50 MG/ML Injection	1809456	EXACT			2025-12-04
-EU/1/07/404/004	40220550	200 ML immunoglobulin G, human 50 MG/ML Injection	1809463	EXACT			2025-12-04
-EU/1/07/404/005	40220554	400 ML immunoglobulin G, human 50 MG/ML Injection	1809474	EXACT			2025-12-04
-EU/1/07/404/006	40220524	50 ML immunoglobulin G, human 100 MG/ML Injection	1809414	EXACT			2025-12-04
-EU/1/07/404/007	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2025-12-04
-EU/1/07/404/008	40220544	200 ML immunoglobulin G, human 100 MG/ML Injection	1809444	EXACT			2025-12-04
+EU/1/07/404/001	40220533	10 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809429	EXACT			2026-02-13
+EU/1/07/404/002	40220547	50 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809448	EXACT			2026-02-13
+EU/1/07/404/003	40220549	100 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809457	EXACT			2026-02-13
+EU/1/07/404/004	40220551	200 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809464	EXACT			2026-02-13
+EU/1/07/404/005	40220555	400 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809475	EXACT			2026-02-13
+EU/1/07/404/006	40220552	50 ML immunoglobulin G, human 100 MG/ML Injection [Flebogamma]	1809471	EXACT			2026-02-13
+EU/1/07/404/007	40220556	100 ML immunoglobulin G, human 100 MG/ML Injection [Flebogamma]	1809477	EXACT			2026-02-13
+EU/1/07/404/008	40220557	200 ML immunoglobulin G, human 100 MG/ML Injection [Flebogamma]	1809479	EXACT			2026-02-13

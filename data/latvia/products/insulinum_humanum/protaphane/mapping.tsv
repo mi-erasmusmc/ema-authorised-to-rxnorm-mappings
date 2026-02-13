@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/02/234/001	1588986	insulin human, rDNA origin	631657				
-EU/1/02/234/002	1588986	insulin human, rDNA origin	631657				
-EU/1/02/234/003	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986				
-EU/1/02/234/004	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986				
-EU/1/02/234/016	1588986	insulin human, rDNA origin	631657				
-EU/1/02/234/017	2027280	10 ML insulin, regular, human 100 IU/ML Injectable Suspension	OMOP4925986				
+EU/1/02/234/001	1596932	insulin isophane, human 40 UNT/ML Injectable Suspension	248648	EXACT	Aligned with EMA mapping; 40 IU/ml vial	 	2026-02-13
+EU/1/02/234/002	1596932	insulin isophane, human 40 UNT/ML Injectable Suspension	248648	EXACT	Aligned with EMA mapping; 40 IU/ml vial	 	2026-02-13
+EU/1/02/234/003	19078552	insulin isophane, human 100 UNT/ML Injectable Suspension	311028	EXACT	Aligned with EMA mapping; 100 IU/ml vial	 	2026-02-13
+EU/1/02/234/004	19078552	insulin isophane, human 100 UNT/ML Injectable Suspension	311028	EXACT	Aligned with EMA mapping; 100 IU/ml vial	 	2026-02-13
+EU/1/02/234/016	1596932	insulin isophane, human 40 UNT/ML Injectable Suspension	248648	EXACT	Aligned with EMA mapping; 40 IU/ml vial	 	2026-02-13
+EU/1/02/234/017	19078552	insulin isophane, human 100 UNT/ML Injectable Suspension	311028	EXACT	Aligned with EMA mapping; 100 IU/ml vial	 	2026-02-13
