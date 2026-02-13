@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0627-01							
-00-0628-01							
+00-0627-01	40031500	dinoprostone Vaginal Gel	377266	BROAD	1 mg/3.5 g endocervical gel; no RxNorm endocervical dose form; concentration 0.000286 MG/MG has no exact match	dinoprostone 0.000286 MG/MG Endocervical Gel	2026-02-13
+00-0628-01	40031500	dinoprostone Vaginal Gel	377266	BROAD	2 mg/3.5 g vaginal gel; concentration 0.000571 MG/MG has no exact match	dinoprostone 0.000571 MG/MG Vaginal Gel	2026-02-13
