@@ -1,0 +1,4 @@
+EU/1/97/030/202 and EU/1/97/030/203 (Insuman Implantable 400 IU/ml):
+No RxNorm concept exists for insulin, regular, human 400 UNT/ML.
+This is a specialized intraperitoneal infusion formulation for implantable insulin pumps.
+Closest concepts are 100 UNT/ML and 500 UNT/ML which are incorrect strengths.
