@@ -16,7 +16,7 @@ dataset.
 - **Size**: 16,824 mappings
 - **Last Updated**: 2026-02-12
 
-### File: `sweden_to_rxnorm.tsv`
+### File: `sweden-to-rxnorm.tsv`
 
 - **Format**: Tab-separated values (TSV)
 - **Size**: ~91,100 mappings
@@ -27,7 +27,7 @@ Swedish national products are linked to EMA products via EU marketing authorizat
 ### File: `latvia-to-rxnorm.tsv`
 
 - **Format**: Tab-separated values (TSV)
-- **Mapped**: 31,802, 
+- **Mapped**: 31,802,
 - **Unmapped**: 7,238
 - **Last Updated**: 2026-02-05
 
@@ -35,34 +35,36 @@ Latvian national products mapped to RxNorm concepts.
 
 ### Source Data
 
-Raw source data is available in the `data/` folder, including the EMA medicines report, per-product Authorised Presentations PDFs, and parsed packaging data.
+Raw source data is available in the `data/` folder, including the EMA medicines report, per-product Authorised
+Presentations PDFs, and parsed packaging data.
 
-Scripts, tooling, and instructions for processing data and mapping drugs to RxNorm live in the `skills/` folder. These can be loaded into your AI agent's skills directory (e.g., `.claude/skills/`).
+Scripts, tooling, and instructions for processing data and mapping drugs to RxNorm live in the `skills/` folder. These
+can be loaded into your AI agent's skills directory (e.g., `.claude/skills/`).
 
 See `data/README.md` for data details and `skills/` for processing and mapping instructions.
 
 ### Column Descriptions (`ema-to-rxnorm.tsv`)
 
-| Column                       | Description                                                    |
-|------------------------------|----------------------------------------------------------------|
-| `ma_number`                  | Marketing authorization number (e.g., EU/1/95/001/005)         |
-| `concept_id`                 | OMOP concept identifier                                        |
-| `concept_name`               | Standardized drug concept name describing the product          |
-| `concept_code`               | RxNorm concept code                                            |
-| `mapping_type`               | Type of mapping relationship (EXACT, BROAD, INCORRECT)         |
-| `ema_active_substance`       | Active substance from the EMA medicines report                 |
-| `pdf_strength`               | Strength as listed in the Authorised Presentations PDF         |
-| `pdf_pharmaceutical_form`    | Pharmaceutical form from the PDF                               |
-| `pdf_route_of_administration`| Route of administration from the PDF                           |
-| `pdf_packaging`              | Packaging description from the PDF                             |
-| `pdf_content`                | Content description from the PDF                               |
-| `pdf_pack_size`              | Pack size from the PDF                                         |
-| `ema_name_of_medicine`       | Medicine name from the EMA medicines report                    |
-| `ema_product_number`         | EMA product number (e.g., EMEA/H/C/000071)                    |
-| `ema_atc_code`               | ATC code from the EMA medicines report                         |
-| `comment`                    | Optional note explaining the mapping decision                  |
-| `suggestion`                 | Ideal concept name when no exact match exists in RxNorm        |
-| `last_updated_date`          | Date when this mapping was last verified or updated            |
+| Column                        | Description                                             |
+|-------------------------------|---------------------------------------------------------|
+| `ma_number`                   | Marketing authorization number (e.g., EU/1/95/001/005)  |
+| `concept_id`                  | OMOP concept identifier                                 |
+| `concept_name`                | Standardized drug concept name describing the product   |
+| `concept_code`                | RxNorm concept code                                     |
+| `mapping_type`                | Type of mapping relationship (EXACT, BROAD, INCORRECT)  |
+| `ema_active_substance`        | Active substance from the EMA medicines report          |
+| `pdf_strength`                | Strength as listed in the Authorised Presentations PDF  |
+| `pdf_pharmaceutical_form`     | Pharmaceutical form from the PDF                        |
+| `pdf_route_of_administration` | Route of administration from the PDF                    |
+| `pdf_packaging`               | Packaging description from the PDF                      |
+| `pdf_content`                 | Content description from the PDF                        |
+| `pdf_pack_size`               | Pack size from the PDF                                  |
+| `ema_name_of_medicine`        | Medicine name from the EMA medicines report             |
+| `ema_product_number`          | EMA product number (e.g., EMEA/H/C/000071)              |
+| `ema_atc_code`                | ATC code from the EMA medicines report                  |
+| `comment`                     | Optional note explaining the mapping decision           |
+| `suggestion`                  | Ideal concept name when no exact match exists in RxNorm |
+| `last_updated_date`           | Date when this mapping was last verified or updated     |
 
 ### Mapping Types
 
@@ -92,11 +94,22 @@ recommend this or any other product.
 
 ### Expansion Plans
 
-The project currently includes mappings for EMA centrally authorized products, Swedish national products, and Latvian national products. Plans are underway to expand coverage to additional EU member states.
+The project currently includes mappings for EMA centrally authorized products, Swedish national products, and Latvian
+national products. Plans are underway to expand coverage to additional EU member states.
 
 ## Contributing
 
 Contributions are very welcome! Please open an issue or pull request in this repository.
+
+# Project Conventions
+
+## Skills Directory
+
+`/workspace/skills/` is the **source of truth** for all skill files (skill.md, scripts, etc.). This project tries to be
+agent-agnostic and not tied to any specific coding assistant.
+
+Never edit `.claude/skills/` or  `.agents/skills/` or `.opencode/skills/` directly — changes there will diverge from the
+source of truth.
 
 ## Acknowledgments
 
