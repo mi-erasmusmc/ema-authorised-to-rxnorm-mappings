@@ -1,1 +1,0 @@
-Kirsty is a biosimilar of insulin aspart (reference: NovoRapid/NovoLog). Previous mapping used EXACT mapping type; corrected to BROAD per biosimilar instructions. Added suggestion column with -xxxx placeholder suffix and EU brand name [Kirsty].

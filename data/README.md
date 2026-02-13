@@ -12,8 +12,7 @@ EMA centrally authorised product data:
 
 - **`medicines_output_medicines_report_en.xlsx`** - Raw Excel file downloaded from EMA
 - **`medicines_report.tsv`** - TSV conversion of the Excel file
-- **`combined_ema_products.tsv`** - Combined parsed data from all product PDFs merged with mapping data
-- **`ema_product_pdfs/`** - Subdirectories for each EMA product number, each containing:
+- **`products/`** - Subdirectories for each EMA product number, each containing:
     - `{product_number}_{medicine_name}_{YYYY-MM-DD}.pdf` - Authorised Presentations PDF
     - `parsed_data.tsv` - Parsed packaging data extracted from the PDF
     - `mapping.tsv` - RxNorm mapping for each MA number in this product

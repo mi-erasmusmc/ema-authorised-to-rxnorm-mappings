@@ -29,13 +29,6 @@ function parseMappingsTsv(tsvContent) {
 }
 
 /**
- * Parse product details TSV (has header row)
- */
-function parseProductDetailsTsv(tsvContent) {
-  return parseTsv(tsvContent, true);
-}
-
-/**
  * Clear all existing data from database
  */
 function clearDatabase() {
@@ -61,34 +54,20 @@ function clearDatabase() {
 
 /**
  * Process and insert product data into database
- * @param {Object} data - Object containing mappings and productDetails
+ * @param {Object} data - Object containing mappings and medicinesReport
  */
 export async function processAndStoreData(data) {
   console.log('Processing data...');
 
   const mappings = parseMappingsTsv(data.mappings);
-  const productDetails = parseProductDetailsTsv(data.productDetails);
   const medicinesReport = data.medicinesReport ? parseTsv(data.medicinesReport, true) : [];
 
   console.log(`Parsed ${mappings.length} mapping records`);
-  console.log(`Parsed ${productDetails.length} product detail records`);
   console.log(`Parsed ${medicinesReport.length} medicines report records`);
 
   // Start transaction
   const transaction = db.transaction(() => {
     clearDatabase();
-
-    // Create lookup maps
-    const productDetailsMap = new Map();
-    for (const detail of productDetails) {
-      const key = detail.ema_product_number;
-      if (key) {
-        if (!productDetailsMap.has(key)) {
-          productDetailsMap.set(key, []);
-        }
-        productDetailsMap.get(key).push(detail);
-      }
-    }
 
     // Create medicines report lookup by EMA product number
     const medicinesReportMap = new Map();
@@ -108,8 +87,7 @@ export async function processAndStoreData(data) {
 
       if (!productGroupsMap.has(productNumber)) {
         productGroupsMap.set(productNumber, {
-          mappings: [],
-          details: productDetailsMap.get(productNumber) || []
+          mappings: []
         });
       }
 
@@ -155,14 +133,12 @@ export async function processAndStoreData(data) {
     // Process each product group
     for (const [productNumber, groupData] of productGroupsMap) {
       const mainMapping = groupData.mappings[0];
-      const details = groupData.details[0] || {};
       const medicine = medicinesReportMap.get(productNumber) || {};
 
       const productGroupId = productNumber;
 
-      // Extract name from mapping or details
+      // Extract name from mapping or medicine report
       const name = mainMapping.ema_name_of_medicine ||
-                   details.product_name ||
                    medicine['Name of medicine'] ||
                    mainMapping.concept_name ||
                    'Unknown';
@@ -171,7 +147,7 @@ export async function processAndStoreData(data) {
       insertProductGroup.run(
         productGroupId,
         productNumber,
-        mainMapping.ma_number || details.ma_number || null,
+        mainMapping.ma_number || null,
         name,
         medicine['Marketing authorisation developer / applicant / holder'] || null,
         null, // authorization_holder_country - not in source data

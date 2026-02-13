@@ -1,9 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-10-0358-01	35605482	2 ML ondansetron 2 MG/ML Injection	1740467				
-10-0358-03	35605482	2 ML ondansetron 2 MG/ML Injection	1740467				
-10-0358-01	152566952	ondansetron 2 MG/ML Injectable Solution					
-10-0358-03	152566952	ondansetron 2 MG/ML Injectable Solution					
-10-0358-02	35605482	2 ML ondansetron 2 MG/ML Injection	1740467				
-10-0358-04	35605482	2 ML ondansetron 2 MG/ML Injection	1740467				
-10-0358-02	152566952	ondansetron 2 MG/ML Injectable Solution					
-10-0358-04	152566952	ondansetron 2 MG/ML Injectable Solution					
+10-0358-01	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT	4 mg/2 mL ampoule		2026-02-13
+10-0358-03	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT	4 mg/2 mL ampoule		2026-02-13
+10-0358-02	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT	8 mg/4 mL ampoule; no volume-specific concept		2026-02-13
+10-0358-04	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT	8 mg/4 mL ampoule; no volume-specific concept		2026-02-13

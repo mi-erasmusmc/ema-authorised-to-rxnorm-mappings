@@ -4,7 +4,6 @@ const GITHUB_BASE_URL = 'https://raw.githubusercontent.com/mi-erasmusmc/ema-auth
 
 const DATA_SOURCES = {
   mappings: `${GITHUB_BASE_URL}/ema-to-rxnorm.tsv`,
-  productDetails: `${GITHUB_BASE_URL}/data/ema/combined_ema_products.tsv`,
   medicinesReport: `${GITHUB_BASE_URL}/data/ema/medicines_report.tsv`
 };
 
@@ -50,15 +49,6 @@ export async function fetchMappings() {
 }
 
 /**
- * Fetch parsed PDF product details
- * @returns {Promise<string>} TSV content
- */
-export async function fetchProductDetails() {
-  console.log('Fetching product details...');
-  return fetchUrl(DATA_SOURCES.productDetails);
-}
-
-/**
  * Fetch medicines report
  * @returns {Promise<string>} TSV content
  */
@@ -69,14 +59,13 @@ export async function fetchMedicinesReport() {
 
 /**
  * Fetch all required data sources
- * @returns {Promise<{mappings: string, productDetails: string, medicinesReport: string}>}
+ * @returns {Promise<{mappings: string, medicinesReport: string}>}
  */
 export async function fetchAllData() {
   console.log('Starting data fetch from GitHub...');
 
-  const [mappings, productDetails, medicinesReport] = await Promise.all([
+  const [mappings, medicinesReport] = await Promise.all([
     fetchMappings(),
-    fetchProductDetails(),
     fetchMedicinesReport()
   ]);
 
@@ -84,7 +73,6 @@ export async function fetchAllData() {
 
   return {
     mappings,
-    productDetails,
     medicinesReport
   };
 }
