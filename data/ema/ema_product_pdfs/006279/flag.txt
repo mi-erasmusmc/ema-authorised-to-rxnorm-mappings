@@ -1,0 +1,3 @@
+Insulin icodec (INN) has no RxNorm concept. It is a once-weekly basal insulin not yet approved by the FDA.
+Kyinsu is a fixed-ratio combination of insulin icodec 700 UNT/ML + semaglutide 2 MG/ML in pre-filled pens.
+No RxNorm concepts exist for insulin icodec alone or in combination. Mapping left empty with BROAD type and suggested concept names.
