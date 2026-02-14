@@ -44,7 +44,7 @@ python3 skills/process-data/generate_ema_info.py
 Combine all product data and generate ema-to-rxnorm.tsv:
 
 ```bash
-python3 skills/process-data/combine_tsv_files.py
+python3 scripts/generate_mapping_overviews.py
 ```
 
 Check for missing files:

@@ -1,0 +1,15 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/06/360/001	EMEA/H/C/000699	0.5 mg	Film-coated tablet	Oral use	bottle (HDPE)		56 tablets	Champix
+EU/1/06/360/002	EMEA/H/C/000699	1 mg	Film-coated tablet	Oral use	bottle (HDPE)		56 tablets	Champix
+EU/1/06/360/003	EMEA/H/C/000699	0.5 mg and 1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a card		Initiation pack: 25 tablets (11 x 0.5 mg + 14 x 1 mg)	Champix
+EU/1/06/360/004	EMEA/H/C/000699	1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a card		28 tablets	Champix
+EU/1/06/360/005	EMEA/H/C/000699	1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a card		56 tablets	Champix
+EU/1/06/360/006	EMEA/H/C/000699	0.5 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a card		28 tablets	Champix
+EU/1/06/360/007	EMEA/H/C/000699	0.5 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a card		56 tablets	Champix
+EU/1/06/360/008	EMEA/H/C/000699	0.5 mg and 1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a carton		Initiation pack: 25 tablets (11 x 0.5 mg + 14 x 1 mg)	Champix
+EU/1/06/360/009	EMEA/H/C/000699	1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a carton		28 tablets	Champix
+EU/1/06/360/010	EMEA/H/C/000699	1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a carton		56 tablets	Champix
+EU/1/06/360/011	EMEA/H/C/000699	1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a carton		112 tablets	Champix
+EU/1/06/360/012	EMEA/H/C/000699	0.5 mg and 1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a card		Initiation pack: 25 tablets (11 x 0.5 mg + 14 x 1 mg) + 28 tablets (28 x 1 mg)	Champix
+EU/1/06/360/013	EMEA/H/C/000699	1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a carton		140 tablets	Champix
+EU/1/06/360/025	EMEA/H/C/000699	0.5 mg and 1 mg	Film-coated tablet	Oral use	blister (PCTFE/PVC/alu) in a card		Initiation pack: 25 tablets (11 x 0.5 mg + 14 x 1 mg) + 28 tablets (28 x 1 mg) + 112 tablets (2 x 56 x 1 mg)	Champix
