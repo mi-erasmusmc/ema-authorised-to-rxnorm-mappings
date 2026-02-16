@@ -5,3 +5,4 @@
 /data/ema/download_progress.csv
 CLAUDE.md
 .venv
+load-ema-to-rxnorm.sh
