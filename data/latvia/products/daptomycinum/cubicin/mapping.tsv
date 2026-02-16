@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/05/328/001	35605614	daptomycin Injection [Cubicin]	1731099				
-EU/1/05/328/002	19102859	daptomycin 500 MG Injection [Cubicin]	404652				
-EU/1/05/328/003	35605614	daptomycin Injection [Cubicin]	1731099				
-EU/1/05/328/004	19102859	daptomycin 500 MG Injection [Cubicin]	404652				
+EU/1/05/328/001	21036002	Daptomycin 350 MG Injection [Cubicin]	OMOP255567	EXACT	Branded concept from RxNorm Extension; Cubicin is same brand in EU and US		2026-02-16
+EU/1/05/328/002	19102859	daptomycin 500 MG Injection [Cubicin]	404652	EXACT			2026-02-16
+EU/1/05/328/003	21036002	Daptomycin 350 MG Injection [Cubicin]	OMOP255567	EXACT	Branded concept from RxNorm Extension; Cubicin is same brand in EU and US		2026-02-16
+EU/1/05/328/004	19102859	daptomycin 500 MG Injection [Cubicin]	404652	EXACT			2026-02-16

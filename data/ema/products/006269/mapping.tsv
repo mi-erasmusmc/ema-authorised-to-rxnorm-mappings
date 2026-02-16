@@ -1,7 +1,7 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/1953/001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD			2025-12-04
-EU/1/25/1953/002	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD			2025-12-04
-EU/1/25/1953/003	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD			2025-12-04
-EU/1/25/1953/004	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD			2025-12-04
-EU/1/25/1953/005	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD			2025-12-04
-EU/1/25/1953/006	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD			2025-12-04
+EU/1/25/1953/001	0			EXACT	Biosimilar; FDA suffix denosumab-bnht exists but no RxNorm concept yet	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2026-02-16
+EU/1/25/1953/002	0			EXACT	Same concept, different pack size (3 vials)	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2026-02-16
+EU/1/25/1953/003	0			EXACT	Same concept, different pack size (4 vials)	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2026-02-16
+EU/1/25/1953/004	0			EXACT	Pre-filled syringe presentation; same strength as vials	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2026-02-16
+EU/1/25/1953/005	0			EXACT	Same concept, different pack size (3 pre-filled syringes)	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2026-02-16
+EU/1/25/1953/006	0			EXACT	Same concept, different pack size (4 pre-filled syringes)	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2026-02-16
