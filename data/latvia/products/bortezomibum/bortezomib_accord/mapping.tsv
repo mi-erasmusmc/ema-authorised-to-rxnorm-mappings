@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1019/001	19102218	bortezomib 3.5 MG Injection	402243				
-EU/1/15/1019/002	779672	bortezomib 1 MG Injection	2601542				
-EU/1/15/1019/003	779674	bortezomib 2.5 MG Injection	2601544				
-EU/1/15/1019/004	779674	bortezomib 2.5 MG Injection	2601544				
-EU/1/15/1019/005	1525732	1.4 ML bortezomib 2.5 MG/ML Injection	2608948				
-EU/1/15/1019/006	1525732	1.4 ML bortezomib 2.5 MG/ML Injection	2608948				
+EU/1/15/1019/001	19102218	bortezomib 3.5 MG Injection	402243	EXACT			2026-02-17
+EU/1/15/1019/002	779672	bortezomib 1 MG Injection	2601542	EXACT			2026-02-17
+EU/1/15/1019/003	779674	bortezomib 2.5 MG Injection	2601544	EXACT			2026-02-17
+EU/1/15/1019/004	779674	bortezomib 2.5 MG Injection	2601544	EXACT			2026-02-17
+EU/1/15/1019/005	1525732	1.4 ML bortezomib 2.5 MG/ML Injection	2608948	EXACT			2026-02-17
+EU/1/15/1019/006	1525732	1.4 ML bortezomib 2.5 MG/ML Injection	2608948	EXACT			2026-02-17

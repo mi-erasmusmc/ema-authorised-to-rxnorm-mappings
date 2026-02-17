@@ -10,11 +10,11 @@ infrastructure with a structured workspace accessible to off-the-shelf coding ag
 
 ## Datasets
 
-| File | Mappings | Last Updated |
-|------|----------|--------------|
-| `ema-to-rxnorm.tsv` | ~16,800 | 2026-02-12 |
-| `sweden-to-rxnorm.tsv` | ~91,100 | 2026-01-18 |
-| `latvia-to-rxnorm.tsv` | ~31,800 mapped, ~7,200 unmapped | 2026-02-05 |
+| File | Mappings                        | Last Updated |
+|------|---------------------------------|--------------|
+| `ema-to-rxnorm.tsv` | ~16,800                         | 2026-02-12 |
+| `sweden-to-rxnorm.tsv` | ~91,100                         | 2026-01-18 |
+| `latvia-to-rxnorm.tsv` | ~32,400 mapped, ~6,700 unmapped | 2026-02-05 |
 
 Because EMA centrally authorised products are valid across all EU member states, these mappings can serve as a
 foundation or cross-reference for country-specific drug vocabulary mappings throughout Europe. Swedish and Latvian
