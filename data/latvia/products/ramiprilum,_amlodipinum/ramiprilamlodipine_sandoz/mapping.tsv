@@ -1,29 +1,29 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-24-0121-01							
-24-0121-02							
-24-0121-03							
-24-0121-04							
-24-0121-05							
-24-0121-06							
-24-0121-07							
-24-0122-01							
-24-0122-02							
-24-0122-03							
-24-0122-04							
-24-0122-05							
-24-0122-06							
-24-0122-07							
-24-0123-01							
-24-0123-02							
-24-0123-03							
-24-0123-04							
-24-0123-05							
-24-0123-06							
-24-0123-07							
-24-0124-01							
-24-0124-02							
-24-0124-03							
-24-0124-04							
-24-0124-05							
-24-0124-06							
-24-0124-07							
+24-0121-01	783703	Amlodipine 5 MG / Ramipril 5 MG Oral Capsule	OMOP4831533	EXACT			2026-02-17
+24-0121-02	783703	Amlodipine 5 MG / Ramipril 5 MG Oral Capsule	OMOP4831533	EXACT			2026-02-17
+24-0121-03	783703	Amlodipine 5 MG / Ramipril 5 MG Oral Capsule	OMOP4831533	EXACT			2026-02-17
+24-0121-04	783703	Amlodipine 5 MG / Ramipril 5 MG Oral Capsule	OMOP4831533	EXACT			2026-02-17
+24-0121-05	783703	Amlodipine 5 MG / Ramipril 5 MG Oral Capsule	OMOP4831533	EXACT			2026-02-17
+24-0121-06	783703	Amlodipine 5 MG / Ramipril 5 MG Oral Capsule	OMOP4831533	EXACT			2026-02-17
+24-0121-07	783703	Amlodipine 5 MG / Ramipril 5 MG Oral Capsule	OMOP4831533	EXACT			2026-02-17
+24-0122-01	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-02-17
+24-0122-02	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-02-17
+24-0122-03	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-02-17
+24-0122-04	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-02-17
+24-0122-05	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-02-17
+24-0122-06	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-02-17
+24-0122-07	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-02-17
+24-0123-01	783721	Amlodipine 5 MG / Ramipril 10 MG Oral Capsule	OMOP4831551	EXACT			2026-02-17
+24-0123-02	783721	Amlodipine 5 MG / Ramipril 10 MG Oral Capsule	OMOP4831551	EXACT			2026-02-17
+24-0123-03	783721	Amlodipine 5 MG / Ramipril 10 MG Oral Capsule	OMOP4831551	EXACT			2026-02-17
+24-0123-04	783721	Amlodipine 5 MG / Ramipril 10 MG Oral Capsule	OMOP4831551	EXACT			2026-02-17
+24-0123-05	783721	Amlodipine 5 MG / Ramipril 10 MG Oral Capsule	OMOP4831551	EXACT			2026-02-17
+24-0123-06	783721	Amlodipine 5 MG / Ramipril 10 MG Oral Capsule	OMOP4831551	EXACT			2026-02-17
+24-0123-07	783721	Amlodipine 5 MG / Ramipril 10 MG Oral Capsule	OMOP4831551	EXACT			2026-02-17
+24-0124-01	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-02-17
+24-0124-02	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-02-17
+24-0124-03	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-02-17
+24-0124-04	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-02-17
+24-0124-05	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-02-17
+24-0124-06	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-02-17
+24-0124-07	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-02-17
