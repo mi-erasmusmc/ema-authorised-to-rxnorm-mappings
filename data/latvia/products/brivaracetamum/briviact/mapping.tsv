@@ -1,28 +1,28 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1073/001	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766				
-EU/1/15/1073/002	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766				
-EU/1/15/1073/003	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766				
-EU/1/15/1073/004	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766				
-EU/1/15/1073/005	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774				
-EU/1/15/1073/006	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774				
-EU/1/15/1073/007	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774				
-EU/1/15/1073/008	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774				
-EU/1/15/1073/009	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778				
-EU/1/15/1073/010	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778				
-EU/1/15/1073/011	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778				
-EU/1/15/1073/012	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778				
-EU/1/15/1073/013	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782				
-EU/1/15/1073/014	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782				
-EU/1/15/1073/015	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782				
-EU/1/15/1073/016	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782				
-EU/1/15/1073/017	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770				
-EU/1/15/1073/018	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770				
-EU/1/15/1073/019	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770				
-EU/1/15/1073/020	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770				
-EU/1/15/1073/021	41439531	300 ML Brivaracetam 10 MG/ML Oral Solution	OMOP2637493				
-EU/1/15/1073/022	35604908	5 ML brivaracetam 10 MG/ML Injection [Briviact]	1739754				
-EU/1/15/1073/023	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766				
-EU/1/15/1073/024	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774				
-EU/1/15/1073/025	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778				
-EU/1/15/1073/026	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782				
-EU/1/15/1073/027	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770				
+EU/1/15/1073/001	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766	EXACT			2026-02-17
+EU/1/15/1073/002	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766	EXACT			2026-02-17
+EU/1/15/1073/003	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766	EXACT			2026-02-17
+EU/1/15/1073/004	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766	EXACT			2026-02-17
+EU/1/15/1073/005	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774	EXACT			2026-02-17
+EU/1/15/1073/006	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774	EXACT			2026-02-17
+EU/1/15/1073/007	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774	EXACT			2026-02-17
+EU/1/15/1073/008	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774	EXACT			2026-02-17
+EU/1/15/1073/009	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778	EXACT			2026-02-17
+EU/1/15/1073/010	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778	EXACT			2026-02-17
+EU/1/15/1073/011	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778	EXACT			2026-02-17
+EU/1/15/1073/012	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778	EXACT			2026-02-17
+EU/1/15/1073/013	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782	EXACT			2026-02-17
+EU/1/15/1073/014	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782	EXACT			2026-02-17
+EU/1/15/1073/015	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782	EXACT			2026-02-17
+EU/1/15/1073/016	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782	EXACT			2026-02-17
+EU/1/15/1073/017	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2026-02-17
+EU/1/15/1073/018	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2026-02-17
+EU/1/15/1073/019	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2026-02-17
+EU/1/15/1073/020	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2026-02-17
+EU/1/15/1073/021	41439531	300 ML Brivaracetam 10 MG/ML Oral Solution	OMOP2637493	EXACT			2026-02-17
+EU/1/15/1073/022	35604908	5 ML brivaracetam 10 MG/ML Injection [Briviact]	1739754	EXACT			2026-02-17
+EU/1/15/1073/023	35604916	brivaracetam 10 MG Oral Tablet [Briviact]	1739766	EXACT			2026-02-17
+EU/1/15/1073/024	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774	EXACT			2026-02-17
+EU/1/15/1073/025	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778	EXACT			2026-02-17
+EU/1/15/1073/026	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782	EXACT			2026-02-17
+EU/1/15/1073/027	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2026-02-17

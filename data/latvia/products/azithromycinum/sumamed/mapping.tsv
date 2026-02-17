@@ -1,6 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 00-0863-01	1734134	azithromycin 500 MG Oral Tablet	248656				
 94-0231-01	1734107	azithromycin 250 MG Oral Capsule	141962				
-I001390-01							
-I001608-01							
-I001625-01							
+I001390-01	1734134	azithromycin 500 MG Oral Tablet	248656				2026-02-17
+I001608-01	1734134	azithromycin 500 MG Oral Tablet	248656				2026-02-17
+I001625-01	1734134	azithromycin 500 MG Oral Tablet	248656				2026-02-17
+I001797-01	1734134	azithromycin 500 MG Oral Tablet	248656				2026-02-17

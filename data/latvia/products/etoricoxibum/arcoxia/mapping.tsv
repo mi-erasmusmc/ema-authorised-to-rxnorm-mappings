@@ -60,11 +60,11 @@ product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	
 07-0353-06	21065513	etoricoxib 30 MG Oral Tablet	OMOP256582				
 07-0353-07	21065513	etoricoxib 30 MG Oral Tablet	OMOP256582				
 07-0353-08	21065513	etoricoxib 30 MG Oral Tablet	OMOP256582				
-I000908-01							
-I000968-01							
-I000969-01							
-I001199-01							
-I001513-01							
-I001514-01							
-I001738-01							
-I001780-01							
+I000908-01	19101674	etoricoxib 90 MG Oral Tablet	388520				2026-02-17
+I000968-01	19011356	etoricoxib 60 MG Oral Tablet	388519				2026-02-17
+I000969-01	19101674	etoricoxib 90 MG Oral Tablet	388520				2026-02-17
+I001199-01	19011358	etoricoxib 120 MG Oral Tablet	388521				2026-02-17
+I001513-01	19011356	etoricoxib 60 MG Oral Tablet	388519				2026-02-17
+I001514-01	19101674	etoricoxib 90 MG Oral Tablet	388520				2026-02-17
+I001738-01	19101674	etoricoxib 90 MG Oral Tablet	388520				2026-02-17
+I001780-01	19011358	etoricoxib 120 MG Oral Tablet	388521				2026-02-17

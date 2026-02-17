@@ -1,8 +1,8 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1043/001	35606638	mepolizumab 100 MG Injection [Nucala]	1720606				
-EU/1/15/1043/002	35606638	mepolizumab 100 MG Injection [Nucala]	1720606				
-EU/1/15/1043/003	2904198	1 ML mepolizumab 100 MG/ML Pen Injector	OMOP5121026				
-EU/1/15/1043/004	2904198	1 ML mepolizumab 100 MG/ML Pen Injector	OMOP5121026				
+EU/1/15/1043/001	35606638	mepolizumab 100 MG Injection [Nucala]	1720606	EXACT			2026-02-17
+EU/1/15/1043/002	35606638	mepolizumab 100 MG Injection [Nucala]	1720606	EXACT			2026-02-17
+EU/1/15/1043/003	2904198	1 ML mepolizumab 100 MG/ML Pen Injector	OMOP5121026	EXACT			2026-02-17
+EU/1/15/1043/004	2904198	1 ML mepolizumab 100 MG/ML Pen Injector	OMOP5121026	EXACT			2026-02-17
 EU/1/15/1043/005	1396816	1 ML mepolizumab 100 MG/ML Prefilled Syringe [Nucala]	2173822				
 EU/1/15/1043/006	1396816	1 ML mepolizumab 100 MG/ML Prefilled Syringe [Nucala]	2173822				
 EU/1/15/1043/007	1396816	1 ML mepolizumab 100 MG/ML Prefilled Syringe [Nucala]	2173822				

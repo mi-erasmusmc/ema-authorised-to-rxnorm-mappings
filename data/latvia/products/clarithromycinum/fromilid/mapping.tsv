@@ -2,5 +2,5 @@ product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	
 01-0230-01	19058072	clarithromycin 25 MG/ML Oral Suspension	240741				
 98-0771-01	1750501	clarithromycin 250 MG Oral Tablet	197516				
 98-0772-01	1750562	clarithromycin 500 MG Oral Tablet	197517				
-I001741-01							
-I001779-01							
+I001741-01	1750562	clarithromycin 500 MG Oral Tablet	197517				2026-02-17
+I001779-01	1750562	clarithromycin 500 MG Oral Tablet	197517				2026-02-17

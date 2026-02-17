@@ -1,8 +1,8 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/16/1124/001	1146771	0.3 ML methotrexate 25 MG/ML Prefilled Syringe	2377353				
-EU/1/16/1124/002	44506726	0.4 ML methotrexate 25 MG/ML Auto-Injector	1441402				
-EU/1/16/1124/003	1146759	0.5 ML methotrexate 25 MG/ML Prefilled Syringe	2377341				
-EU/1/16/1124/004	1146761	0.6 ML methotrexate 25 MG/ML Prefilled Syringe	2377343				
+EU/1/16/1124/001	1146771	0.3 ML methotrexate 25 MG/ML Prefilled Syringe	2377353	EXACT			2026-02-17
+EU/1/16/1124/002	44506726	0.4 ML methotrexate 25 MG/ML Auto-Injector	1441402	EXACT			2026-02-17
+EU/1/16/1124/003	1146759	0.5 ML methotrexate 25 MG/ML Prefilled Syringe	2377341	EXACT			2026-02-17
+EU/1/16/1124/004	1146761	0.6 ML methotrexate 25 MG/ML Prefilled Syringe	2377343	EXACT			2026-02-17
 EU/1/16/1124/005	1146763	0.7 ML methotrexate 25 MG/ML Prefilled Syringe	2377345				
 EU/1/16/1124/006	1146765	0.8 ML methotrexate 25 MG/ML Prefilled Syringe	2377347				
 EU/1/16/1124/007	1146767	0.9 ML methotrexate 25 MG/ML Prefilled Syringe	2377349				
@@ -55,19 +55,19 @@ EU/1/16/1124/069	1146767	0.9 ML methotrexate 25 MG/ML Prefilled Syringe	2377349
 EU/1/16/1124/070	1146767	0.9 ML methotrexate 25 MG/ML Prefilled Syringe	2377349				
 EU/1/16/1124/071	1146769	1 ML methotrexate 25 MG/ML Prefilled Syringe	2377351				
 EU/1/16/1124/072	1146769	1 ML methotrexate 25 MG/ML Prefilled Syringe	2377351				
-EU/1/16/1124/010							
-EU/1/16/1124/012							
-EU/1/16/1124/014							
-EU/1/16/1124/016							
-EU/1/16/1124/018							
-EU/1/16/1124/020							
-EU/1/16/1124/022							
-EU/1/16/1124/024							
-EU/1/16/1124/027							
-EU/1/16/1124/030							
-EU/1/16/1124/033							
-EU/1/16/1124/036							
-EU/1/16/1124/039							
-EU/1/16/1124/042							
-EU/1/16/1124/045							
-EU/1/16/1124/048							
+EU/1/16/1124/010	1146771	0.3 ML methotrexate 25 MG/ML Prefilled Syringe	2377353				2026-02-17
+EU/1/16/1124/012	44506726	0.4 ML methotrexate 25 MG/ML Auto-Injector	1441402				2026-02-17
+EU/1/16/1124/014	1146759	0.5 ML methotrexate 25 MG/ML Prefilled Syringe	2377341				2026-02-17
+EU/1/16/1124/016	1146761	0.6 ML methotrexate 25 MG/ML Prefilled Syringe	2377343				2026-02-17
+EU/1/16/1124/018	1146763	0.7 ML methotrexate 25 MG/ML Prefilled Syringe	2377345				2026-02-17
+EU/1/16/1124/020	1146765	0.8 ML methotrexate 25 MG/ML Prefilled Syringe	2377347				2026-02-17
+EU/1/16/1124/022	1146767	0.9 ML methotrexate 25 MG/ML Prefilled Syringe	2377349				2026-02-17
+EU/1/16/1124/024	1146769	1 ML methotrexate 25 MG/ML Prefilled Syringe	2377351				2026-02-17
+EU/1/16/1124/027	1146771	0.3 ML methotrexate 25 MG/ML Prefilled Syringe	2377353				2026-02-17
+EU/1/16/1124/030	1146757	0.4 ML methotrexate 25 MG/ML Prefilled Syringe	2377333				2026-02-17
+EU/1/16/1124/033	1146759	0.5 ML methotrexate 25 MG/ML Prefilled Syringe	2377341				2026-02-17
+EU/1/16/1124/036	1146761	0.6 ML methotrexate 25 MG/ML Prefilled Syringe	2377343				2026-02-17
+EU/1/16/1124/039	1146763	0.7 ML methotrexate 25 MG/ML Prefilled Syringe	2377345				2026-02-17
+EU/1/16/1124/042	1146765	0.8 ML methotrexate 25 MG/ML Prefilled Syringe	2377347				2026-02-17
+EU/1/16/1124/045	1146767	0.9 ML methotrexate 25 MG/ML Prefilled Syringe	2377349				2026-02-17
+EU/1/16/1124/048	1146769	1 ML methotrexate 25 MG/ML Prefilled Syringe	2377351				2026-02-17

@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1038/001	35604787	pemetrexed 100 MG Injection	1728077				
-EU/1/15/1038/002	35604782	pemetrexed 500 MG Injection	1728072				
-EU/1/15/1038/003	779709	pemetrexed 1000 MG Injection	2601728				
+EU/1/15/1038/001	35604787	pemetrexed 100 MG Injection	1728077	EXACT			2026-02-17
+EU/1/15/1038/002	35604782	pemetrexed 500 MG Injection	1728072	EXACT			2026-02-17
+EU/1/15/1038/003	779709	pemetrexed 1000 MG Injection	2601728	EXACT			2026-02-17

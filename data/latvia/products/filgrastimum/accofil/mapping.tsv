@@ -1,37 +1,37 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/14/946/001	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/002	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/003	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/004	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/005	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/006	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/007	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/008	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/009	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/010	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/011	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/012	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/013	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/014	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/015	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/016	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/017	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535				
-EU/1/14/946/018	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437				
-EU/1/14/946/019	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/020	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/021	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/022	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/023	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/024	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/025	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/026	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/027	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937				
-EU/1/14/946/028	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
-EU/1/14/946/029	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
-EU/1/14/946/030	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
-EU/1/14/946/031	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
-EU/1/14/946/032	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
-EU/1/14/946/033	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
-EU/1/14/946/034	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
-EU/1/14/946/035	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
-EU/1/14/946/036	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995				
+EU/1/14/946/001	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/002	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/003	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/004	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/005	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/006	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/007	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/008	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/009	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/010	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/011	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/012	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/013	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/014	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/015	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/016	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/017	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
+EU/1/14/946/018	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/019	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/020	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/021	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/022	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/023	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/024	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/025	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/026	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/027	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
+EU/1/14/946/028	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17
+EU/1/14/946/029	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17
+EU/1/14/946/030	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17
+EU/1/14/946/031	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17
+EU/1/14/946/032	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17
+EU/1/14/946/033	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17
+EU/1/14/946/034	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17
+EU/1/14/946/035	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17
+EU/1/14/946/036	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2026-02-17

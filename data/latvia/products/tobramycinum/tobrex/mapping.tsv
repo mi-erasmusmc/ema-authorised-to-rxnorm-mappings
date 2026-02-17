@@ -2,7 +2,7 @@ product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	
 05-0268-01	19036659	tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobrex]	207850				
 99-1060-01	19036655	tobramycin 3 MG/ML Ophthalmic Solution [Tobrex]	207846				
 I000596-01							
-I000942-01							
+I000942-01	19036655	tobramycin 3 MG/ML Ophthalmic Solution [Tobrex]	207846				2026-02-17
 I000959-01							
 I001160-01							
 I001717-01							

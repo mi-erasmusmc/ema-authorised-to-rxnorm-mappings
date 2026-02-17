@@ -2,4 +2,5 @@ product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	
 04-0144-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158				
 04-0143-01							
 04-0145-01							
-I001648-01							
+I001648-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158				2026-02-17
+I001819-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158				2026-02-17

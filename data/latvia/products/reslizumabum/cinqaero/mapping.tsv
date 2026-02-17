@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/16/1125/001	35603986	10 ML reslizumab 10 MG/ML Injection	1746893				
-EU/1/16/1125/002	40716947	2.5 ML reslizumab 10 MG/ML Injection	OMOP4740165				
-EU/1/16/1125/003	35603986	10 ML reslizumab 10 MG/ML Injection	1746893				
-EU/1/16/1125/004	40716947	2.5 ML reslizumab 10 MG/ML Injection	OMOP4740165				
+EU/1/16/1125/001	35603986	10 ML reslizumab 10 MG/ML Injection	1746893	EXACT			2026-02-17
+EU/1/16/1125/002	40716947	2.5 ML reslizumab 10 MG/ML Injection	OMOP4740165	EXACT			2026-02-17
+EU/1/16/1125/003	35603986	10 ML reslizumab 10 MG/ML Injection	1746893	EXACT			2026-02-17
+EU/1/16/1125/004	40716947	2.5 ML reslizumab 10 MG/ML Injection	OMOP4740165	EXACT			2026-02-17
