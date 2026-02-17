@@ -1,60 +1,60 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-20-0001-01	56276845	rivaroxaban 2.5 MG Oral Tablet					
-20-0001-02	56276845	rivaroxaban 2.5 MG Oral Tablet					
-20-0001-03	56276845	rivaroxaban 2.5 MG Oral Tablet					
-20-0001-04	56276845	rivaroxaban 2.5 MG Oral Tablet					
-20-0001-05	56276845	rivaroxaban 2.5 MG Oral Tablet					
-20-0001-06	56276845	rivaroxaban 2.5 MG Oral Tablet					
-20-0002-01	40241333	rivaroxaban 10 MG Oral Tablet	1114198				
-20-0002-02	40241333	rivaroxaban 10 MG Oral Tablet	1114198				
-20-0002-03	40241333	rivaroxaban 10 MG Oral Tablet	1114198				
-20-0002-04	40241333	rivaroxaban 10 MG Oral Tablet	1114198				
-20-0002-05	40241333	rivaroxaban 10 MG Oral Tablet	1114198				
-20-0002-06	40241333	rivaroxaban 10 MG Oral Tablet	1114198				
-20-0003-01	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0003-02	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0003-03	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0003-04	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0003-05	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0003-06	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0003-07	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0003-08	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0004-01	40244448	rivaroxaban 20 MG Oral Tablet	1232086				
-20-0004-02	40244448	rivaroxaban 20 MG Oral Tablet	1232086				
-20-0004-03	40244448	rivaroxaban 20 MG Oral Tablet	1232086				
-20-0004-04	40244448	rivaroxaban 20 MG Oral Tablet	1232086				
-20-0004-05	40244448	rivaroxaban 20 MG Oral Tablet	1232086				
-20-0004-06	40244448	rivaroxaban 20 MG Oral Tablet	1232086				
-20-0004-07	40244448	rivaroxaban 20 MG Oral Tablet	1232086				
-20-0100-01	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-02	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-03	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-04	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-05	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-06	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-07	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-08	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-09	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-10	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-11	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0100-12	40244444	rivaroxaban 15 MG Oral Tablet	1232082				
-20-0099-01							
-20-0099-02							
-20-0099-03							
-20-0099-04							
-20-0099-05							
-20-0099-06							
-20-0099-07							
-20-0099-08							
-20-0099-09							
-20-0099-10							
-20-0101-01							
-20-0101-02							
-20-0101-03							
-20-0101-04							
-20-0101-05							
-20-0101-06							
-20-0101-07							
-20-0101-08							
-20-0101-09							
-20-0101-10							
+20-0001-01	56276845	rivaroxaban 2.5 MG Oral Tablet		EXACT			2026-02-17
+20-0001-02	56276845	rivaroxaban 2.5 MG Oral Tablet		EXACT			2026-02-17
+20-0001-03	56276845	rivaroxaban 2.5 MG Oral Tablet		EXACT			2026-02-17
+20-0001-04	56276845	rivaroxaban 2.5 MG Oral Tablet		EXACT			2026-02-17
+20-0001-05	56276845	rivaroxaban 2.5 MG Oral Tablet		EXACT			2026-02-17
+20-0001-06	56276845	rivaroxaban 2.5 MG Oral Tablet		EXACT			2026-02-17
+20-0002-01	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-02-17
+20-0002-02	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-02-17
+20-0002-03	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-02-17
+20-0002-04	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-02-17
+20-0002-05	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-02-17
+20-0002-06	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-02-17
+20-0003-01	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
+20-0003-02	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
+20-0003-03	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
+20-0003-04	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
+20-0003-05	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
+20-0003-06	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
+20-0003-07	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
+20-0003-08	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
+20-0004-01	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
+20-0004-02	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
+20-0004-03	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
+20-0004-04	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
+20-0004-05	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
+20-0004-06	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
+20-0004-07	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
+20-0100-01	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-02	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-03	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-04	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-05	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-06	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-07	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-08	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-09	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-10	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-11	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0100-12	40244444	rivaroxaban 15 MG Oral Tablet	1232082	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 15 MG Oral Capsule	2026-02-17
+20-0099-01	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-02	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-03	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-04	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-05	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-06	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-07	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-08	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-09	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0099-10	40241333	rivaroxaban 10 MG Oral Tablet	1114198	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 10 MG Oral Capsule	2026-02-17
+20-0101-01	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-02	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-03	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-04	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-05	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-06	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-07	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-08	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-09	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17
+20-0101-10	40244448	rivaroxaban 20 MG Oral Tablet	1232086	BROAD	hard capsule; no RxNorm oral capsule concept available	rivaroxaban 20 MG Oral Capsule	2026-02-17

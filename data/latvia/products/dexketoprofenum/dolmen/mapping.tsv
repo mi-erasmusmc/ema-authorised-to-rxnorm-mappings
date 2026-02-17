@@ -1,47 +1,47 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-06-0081-03	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-04	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-05	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-06	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-07	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-08	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-09	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-10	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-11	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-12	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-13	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0081-14	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-16-0031-01	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-16-0031-02	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-16-0031-03	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-16-0031-04	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-16-0031-05	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-16-0031-06	19101779	dexketoprofen 25 MG Oral Tablet	389243				
-06-0082-01							
-06-0082-02							
-06-0082-03							
-06-0082-04							
-06-0082-05							
-06-0082-06							
-06-0082-07							
-11-0259-04							
-11-0259-05							
-11-0259-06							
-11-0259-07							
-11-0259-08							
-11-0259-09							
-16-0032-01							
-16-0032-02							
-16-0032-03							
-17-0085-01							
-17-0240-01							
-17-0240-02							
-17-0240-03							
-21-0006-04							
-21-0006-05							
-21-0006-06							
-21-0006-07							
-21-0006-08							
-21-0157-01							
-21-0157-02							
-21-0157-03							
+06-0081-03	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-04	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-05	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-06	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-07	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-08	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-09	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-10	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-11	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-12	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-13	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0081-14	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+16-0031-01	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+16-0031-02	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+16-0031-03	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+16-0031-04	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+16-0031-05	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+16-0031-06	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-02-17
+06-0082-01	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-02-17
+06-0082-02	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-02-17
+06-0082-03	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-02-17
+06-0082-04	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-02-17
+06-0082-05	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-02-17
+06-0082-06	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-02-17
+06-0082-07	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-02-17
+11-0259-04	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+11-0259-05	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+11-0259-06	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+11-0259-07	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+11-0259-08	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+11-0259-09	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+16-0032-01	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+16-0032-02	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+16-0032-03	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+17-0085-01	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+17-0240-01	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+17-0240-02	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+17-0240-03	40867926	Dexketoprofen 25 MG Oral Solution	OMOP2065888	EXACT			2026-02-17
+21-0006-04	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-02-17
+21-0006-05	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-02-17
+21-0006-06	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-02-17
+21-0006-07	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-02-17
+21-0006-08	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-02-17
+21-0157-01	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-02-17
+21-0157-02	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-02-17
+21-0157-03	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-02-17

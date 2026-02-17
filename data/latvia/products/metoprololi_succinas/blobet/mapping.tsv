@@ -1,13 +1,13 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-24-0145-01							
-24-0145-02							
-24-0145-03							
-24-0145-04							
-24-0146-01							
-24-0146-02							
-24-0146-03							
-24-0146-04							
-24-0147-01							
-24-0147-02							
-24-0147-03							
-24-0147-04							
+24-0145-01	40167211	metoprolol succinate 25 MG Extended Release Oral Tablet	866430	EXACT	EU label: 23.75 mg succinate; RxNorm concept labeled as 25 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0145-02	40167211	metoprolol succinate 25 MG Extended Release Oral Tablet	866430	EXACT	EU label: 23.75 mg succinate; RxNorm concept labeled as 25 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0145-03	40167211	metoprolol succinate 25 MG Extended Release Oral Tablet	866430	EXACT	EU label: 23.75 mg succinate; RxNorm concept labeled as 25 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0145-04	40167211	metoprolol succinate 25 MG Extended Release Oral Tablet	866430	EXACT	EU label: 23.75 mg succinate; RxNorm concept labeled as 25 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0146-01	40167216	metoprolol succinate 50 MG Extended Release Oral Tablet	866439	EXACT	EU label: 47.5 mg succinate; RxNorm concept labeled as 50 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0146-02	40167216	metoprolol succinate 50 MG Extended Release Oral Tablet	866439	EXACT	EU label: 47.5 mg succinate; RxNorm concept labeled as 50 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0146-03	40167216	metoprolol succinate 50 MG Extended Release Oral Tablet	866439	EXACT	EU label: 47.5 mg succinate; RxNorm concept labeled as 50 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0146-04	40167216	metoprolol succinate 50 MG Extended Release Oral Tablet	866439	EXACT	EU label: 47.5 mg succinate; RxNorm concept labeled as 50 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0147-01	40167200	metoprolol succinate 100 MG Extended Release Oral Tablet	866415	EXACT	EU label: 95 mg succinate; RxNorm concept labeled as 100 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0147-02	40167200	metoprolol succinate 100 MG Extended Release Oral Tablet	866415	EXACT	EU label: 95 mg succinate; RxNorm concept labeled as 100 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0147-03	40167200	metoprolol succinate 100 MG Extended Release Oral Tablet	866415	EXACT	EU label: 95 mg succinate; RxNorm concept labeled as 100 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
+24-0147-04	40167200	metoprolol succinate 100 MG Extended Release Oral Tablet	866415	EXACT	EU label: 95 mg succinate; RxNorm concept labeled as 100 MG tartrate-equivalent (Toprol-XL convention)		2026-02-17
