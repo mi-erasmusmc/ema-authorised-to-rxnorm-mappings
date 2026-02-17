@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-21-0102-01	42709223	progesterone 300 MG Vaginal Insert	1251720				
-19-0041-01							
-19-0041-02							
-19-0041-03							
-19-0041-04							
-25-0038-01							
+21-0102-01	42709223	progesterone 300 MG Vaginal Insert	1251720	EXACT			2026-02-17
+19-0041-01	849369	progesterone 200 MG Vaginal Insert	OMOP5572195	EXACT			2026-02-17
+19-0041-02	849369	progesterone 200 MG Vaginal Insert	OMOP5572195	EXACT			2026-02-17
+19-0041-03	849369	progesterone 200 MG Vaginal Insert	OMOP5572195	EXACT			2026-02-17
+19-0041-04	849369	progesterone 200 MG Vaginal Insert	OMOP5572195	EXACT			2026-02-17
+25-0038-01	849342	progesterone 400 MG Vaginal Insert	OMOP5572168	EXACT			2026-02-17

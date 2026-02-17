@@ -5,7 +5,7 @@ Usage:
     python3 scripts/show_unmapped.py data/latvia/products/<substance>/
 
 Outputs a compact summary for mapping decisions — one line per unique
-(original_name, strength, pharmaceutical_form, product_strength) group.
+(original_name, strength, pharmaceutical_form, product_strength, package) group.
 """
 
 import csv
@@ -56,17 +56,18 @@ def main():
                         total_unmapped += 1
                         pid = row["product_id"]
                         pdata = product_data.get(pid, {})
+                        pkg = normalize_package(
+                            pdata.get("package_en", ""),
+                            pdata.get("package_size", ""),
+                        )
                         key = (
                             (pdata.get("original_name") or "").strip(),
                             (pdata.get("strength") or "").strip(),
                             (pdata.get("pharmaceutical_form") or "").strip(),
                             (pdata.get("product_strength") or "").strip(),
+                            pkg,
                         )
-                        pkg = normalize_package(
-                            pdata.get("package_en", ""),
-                            pdata.get("package_size", ""),
-                        )
-                        groups[key].append((product, pid, pkg))
+                        groups[key].append((product, pid))
 
         if not groups:
             print(f"  All mapped ({total_mapped} rows)")
@@ -74,13 +75,14 @@ def main():
 
         print(f"  {total_unmapped} unmapped / {total_mapped + total_unmapped} total\n")
 
-        for (name, strength, form, prod_strength), items in sorted(groups.items()):
-            products = sorted(set(p for p, _, _ in items))
-            pids = [pid for _, pid, _ in items]
-            pkgs = sorted(set(pkg for _, _, pkg in items))
+        for (name, strength, form, prod_strength, pkg), items in sorted(groups.items()):
+            products = sorted(set(p for p, _ in items))
+            pids = [pid for _, pid in items]
 
             print(f"  [{len(items)} rows] {name}")
             print(f"    strength: {strength} | form: {form} | product_strength: {prod_strength}")
+            if pkg:
+                print(f"    package: {pkg}")
             print(f"    products: {', '.join(products)}")
             if len(pids) > 2:
                 print(f"    IDs: {pids[0]}..{pids[-1]}  ({len(pids)})")
