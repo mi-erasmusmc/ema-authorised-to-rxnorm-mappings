@@ -1,13 +1,13 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1896/001	1466427	4 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705453				
-EU/1/24/1896/002	1466427	4 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705453				
-EU/1/24/1896/003	1466423	10 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705448				
-EU/1/24/1896/004	1466423	10 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705448				
-EU/1/24/1896/005	1466425	20 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705451				
-EU/1/24/1896/006	1466425	20 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705451				
-EU/1/24/1896/007	1466419	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe [Avtozma]	2705432				
-EU/1/24/1896/008	1466419	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe [Avtozma]	2705432				
-EU/1/24/1896/009	1466419	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe [Avtozma]	2705432				
-EU/1/24/1896/010	1466421	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector [Avtozma]	2705439				
-EU/1/24/1896/011	1466421	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector [Avtozma]	2705439				
-EU/1/24/1896/012	1466421	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector [Avtozma]	2705439				
+EU/1/24/1896/001	1466427	4 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705453	EXACT			2026-02-17
+EU/1/24/1896/002	1466427	4 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705453	EXACT			2026-02-17
+EU/1/24/1896/003	1466423	10 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705448	EXACT			2026-02-17
+EU/1/24/1896/004	1466423	10 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705448	EXACT			2026-02-17
+EU/1/24/1896/005	1466425	20 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705451	EXACT			2026-02-17
+EU/1/24/1896/006	1466425	20 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705451	EXACT			2026-02-17
+EU/1/24/1896/007	1466419	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe [Avtozma]	2705432	EXACT			2026-02-17
+EU/1/24/1896/008	1466419	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe [Avtozma]	2705432	EXACT			2026-02-17
+EU/1/24/1896/009	1466419	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe [Avtozma]	2705432	EXACT			2026-02-17
+EU/1/24/1896/010	1466421	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector [Avtozma]	2705439	EXACT			2026-02-17
+EU/1/24/1896/011	1466421	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector [Avtozma]	2705439	EXACT			2026-02-17
+EU/1/24/1896/012	1466421	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector [Avtozma]	2705439	EXACT			2026-02-17
