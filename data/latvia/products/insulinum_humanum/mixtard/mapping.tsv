@@ -1,9 +1,9 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/02/231/002	1596977	insulin, regular, human	253182				
-EU/1/02/231/011	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016				
-EU/1/02/231/012	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016				
-EU/1/02/231/018	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016				
-EU/1/02/231/019	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016				
-EU/1/02/231/030	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862				
-EU/1/02/231/031	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862				
-EU/1/02/231/033	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862				
+EU/1/02/231/002	1596977	insulin, regular, human	253182	EXACT	Mixtard 30 40 IU/ML vial; 5-pack		2026-02-17
+EU/1/02/231/011	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	EXACT	Mixtard 30 100 IU/ML 3 ML Penfill cartridge		2026-02-17
+EU/1/02/231/012	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	EXACT	Mixtard 30 100 IU/ML 3 ML Penfill cartridge; 5-pack		2026-02-17
+EU/1/02/231/018	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD	Mixtard 50 100 IU/ML 3 ML Penfill cartridge; 5-pack; no 50/50 Pen Injector concept	3 ML insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Pen Injector	2026-02-17
+EU/1/02/231/019	43275300	3 ML Regular Insulin, Human 100 UNT/ML Cartridge	OMOP562016	BROAD	Mixtard 50 100 IU/ML 3 ML Penfill cartridge; 10-pack; no 50/50 Pen Injector concept	3 ML insulin isophane, human 50 UNT/ML / insulin, regular, human 50 UNT/ML Pen Injector	2026-02-17
+EU/1/02/231/030	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT	Mixtard 30 100 IU/ML 3 ML InnoLet pre-filled pen		2026-02-17
+EU/1/02/231/031	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT	Mixtard 30 100 IU/ML 3 ML InnoLet pre-filled pen; 5-pack		2026-02-17
+EU/1/02/231/033	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT	Mixtard 30 100 IU/ML 3 ML FlexPen pre-filled pen		2026-02-17

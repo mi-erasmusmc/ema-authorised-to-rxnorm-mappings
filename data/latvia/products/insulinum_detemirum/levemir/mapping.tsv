@@ -1,17 +1,17 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/04/278/001	1516976	insulin detemir	139825				
-EU/1/04/278/002	1516976	insulin detemir	139825				
-EU/1/04/278/003	1516976	insulin detemir	139825				
-EU/1/04/278/004	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/005	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/006	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/007	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/008	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/009	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/010	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/011	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/012	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/013	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/014	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/015	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
-EU/1/04/278/016	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241				
+EU/1/04/278/001	1516976	insulin detemir	139825	BROAD			2026-02-17
+EU/1/04/278/002	1516976	insulin detemir	139825	BROAD			2026-02-17
+EU/1/04/278/003	1516976	insulin detemir	139825	BROAD			2026-02-17
+EU/1/04/278/004	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/005	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/006	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/007	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/008	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/009	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/010	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/011	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/012	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/013	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/014	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/015	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17
+EU/1/04/278/016	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2026-02-17

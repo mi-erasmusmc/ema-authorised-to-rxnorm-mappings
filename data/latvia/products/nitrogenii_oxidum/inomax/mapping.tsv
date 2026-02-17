@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/01/194/001	40155795	nitric oxide / nitrogen Gas for Inhalation [INOmax]	827688				
-EU/1/01/194/002	40155795	nitric oxide / nitrogen Gas for Inhalation [INOmax]	827688				
-EU/1/01/194/003	19020620	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation [INOmax]	827693				
-EU/1/01/194/004	19020620	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation [INOmax]	827693				
+EU/1/01/194/001	40155795	nitric oxide / nitrogen Gas for Inhalation [INOmax]	827688	BROAD		nitric oxide 0.04 % / nitrogen 99.96 % Gas for Inhalation [INOmax]	2026-02-16
+EU/1/01/194/002	40155795	nitric oxide / nitrogen Gas for Inhalation [INOmax]	827688	BROAD		nitric oxide 0.04 % / nitrogen 99.96 % Gas for Inhalation [INOmax]	2026-02-16
+EU/1/01/194/003	19020620	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation [INOmax]	827693	EXACT			2026-02-16
+EU/1/01/194/004	19020620	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation [INOmax]	827693	EXACT			2026-02-16

@@ -1,17 +1,17 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/00/142/004	2919815	insulin aspart 30 IU/ML / insulin aspart protamine, human 70 UNT/ML Cartridge	OMOP5136635				
-EU/1/00/142/005	2919815	insulin aspart 30 IU/ML / insulin aspart protamine, human 70 UNT/ML Cartridge	OMOP5136635				
-EU/1/00/142/009	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191				
-EU/1/00/142/010	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191				
-EU/1/00/142/011	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159				
-EU/1/00/142/012	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159				
-EU/1/00/142/013	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159				
-EU/1/00/142/014	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159				
-EU/1/00/142/015	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159				
-EU/1/00/142/016	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159				
-EU/1/00/142/023	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191				
-EU/1/00/142/024	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191				
-EU/1/00/142/025	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191				
+EU/1/00/142/004	2919815	insulin aspart 30 IU/ML / insulin aspart protamine, human 70 UNT/ML Cartridge	OMOP5136635	BROAD	cartridge mapped to 3 ML pen injector for clinical volume	3 ML insulin aspart 30 IU/ML / insulin aspart protamine, human 70 UNT/ML Cartridge	2026-02-16
+EU/1/00/142/005	2919815	insulin aspart 30 IU/ML / insulin aspart protamine, human 70 UNT/ML Cartridge	OMOP5136635	BROAD	cartridge mapped to 3 ML pen injector for clinical volume	3 ML insulin aspart 30 IU/ML / insulin aspart protamine, human 70 UNT/ML Cartridge	2026-02-16
+EU/1/00/142/009	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191	EXACT			2026-02-16
+EU/1/00/142/010	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191	EXACT			2026-02-16
+EU/1/00/142/011	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159	BROAD	cartridge mapped to 3 ML pen injector for clinical volume	3 ML insulin aspart 50 IU/ML / insulin aspart protamine, human 50 UNT/ML Cartridge	2026-02-16
+EU/1/00/142/012	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159	BROAD	cartridge mapped to 3 ML pen injector for clinical volume	3 ML insulin aspart 50 IU/ML / insulin aspart protamine, human 50 UNT/ML Cartridge	2026-02-16
+EU/1/00/142/013	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159	BROAD	cartridge mapped to 3 ML pen injector for clinical volume	3 ML insulin aspart 50 IU/ML / insulin aspart protamine, human 50 UNT/ML Cartridge	2026-02-16
+EU/1/00/142/014	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159	EXACT			2026-02-16
+EU/1/00/142/015	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159	EXACT			2026-02-16
+EU/1/00/142/016	19133793	insulin aspart protamine, human 50 UNT/ML / insulin aspart, human 50 UNT/ML Injectable Suspension	833159	EXACT			2026-02-16
+EU/1/00/142/023	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191	EXACT			2026-02-16
+EU/1/00/142/024	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191	EXACT			2026-02-16
+EU/1/00/142/025	1567234	3 ML insulin aspart protamine, human 70 UNT/ML / insulin aspart, human 30 UNT/ML Pen Injector	847191	EXACT			2026-02-16
 EU/1/00/142/017							
 EU/1/00/142/018							
 EU/1/00/142/019							

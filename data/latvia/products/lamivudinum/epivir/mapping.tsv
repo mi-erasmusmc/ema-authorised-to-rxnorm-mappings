@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/96/015/001	1704184	lamivudine 150 MG Oral Tablet [Epivir]	152931				
-EU/1/96/015/002	1704185	lamivudine 10 MG/ML Oral Solution [Epivir]	152932				
-EU/1/96/015/003	19098455	lamivudine 300 MG Oral Tablet [Epivir]	352230				
-EU/1/96/015/004	1704184	lamivudine 150 MG Oral Tablet [Epivir]	152931				
-EU/1/96/015/005	19098455	lamivudine 300 MG Oral Tablet [Epivir]	352230				
+EU/1/96/015/001	1704184	lamivudine 150 MG Oral Tablet [Epivir]	152931	EXACT			2026-02-16
+EU/1/96/015/002	1704185	lamivudine 10 MG/ML Oral Solution [Epivir]	152932	EXACT			2026-02-16
+EU/1/96/015/003	19098455	lamivudine 300 MG Oral Tablet [Epivir]	352230	EXACT			2026-02-16
+EU/1/96/015/004	1704184	lamivudine 150 MG Oral Tablet [Epivir]	152931	EXACT			2026-02-16
+EU/1/96/015/005	19098455	lamivudine 300 MG Oral Tablet [Epivir]	352230	EXACT			2026-02-16

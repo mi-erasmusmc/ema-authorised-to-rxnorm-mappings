@@ -6,3 +6,4 @@
 CLAUDE.md
 .venv
 load-ema-to-rxnorm.sh
+load-latvia-to-rxnorm.sh

@@ -1,17 +1,17 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/97/030/043	19101876	insulin isophane, human 75 UNT/ML / insulin, regular, human 25 UNT/ML Injectable Suspension	392660				
-EU/1/97/030/044	19101876	insulin isophane, human 75 UNT/ML / insulin, regular, human 25 UNT/ML Injectable Suspension	392660				
-EU/1/97/030/045	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/046	19104458	insulin isophane, human 30 UNT/ML / insulin, regular, human 10 UNT/ML Injectable Suspension	415089				
-EU/1/97/030/047	19104458	insulin isophane, human 30 UNT/ML / insulin, regular, human 10 UNT/ML Injectable Suspension	415089				
-EU/1/97/030/061	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/062	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/088	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/093	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/098	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/158	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/159	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/160	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/161	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/162	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
-EU/1/97/030/163	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236				
+EU/1/97/030/043	19101876	insulin isophane, human 75 UNT/ML / insulin, regular, human 25 UNT/ML Injectable Suspension	392660	EXACT			2026-02-16
+EU/1/97/030/044	19101876	insulin isophane, human 75 UNT/ML / insulin, regular, human 25 UNT/ML Injectable Suspension	392660	EXACT			2026-02-16
+EU/1/97/030/045	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	cartridge; no Cartridge concept for 75/25 mix		2026-02-16
+EU/1/97/030/046	19104458	insulin isophane, human 30 UNT/ML / insulin, regular, human 10 UNT/ML Injectable Suspension	415089	EXACT			2026-02-16
+EU/1/97/030/047	19104458	insulin isophane, human 30 UNT/ML / insulin, regular, human 10 UNT/ML Injectable Suspension	415089	EXACT			2026-02-16
+EU/1/97/030/061	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	cartridge; no Cartridge concept for 75/25 mix		2026-02-16
+EU/1/97/030/062	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	cartridge; no Cartridge concept for 75/25 mix		2026-02-16
+EU/1/97/030/088	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	cartridge; no Cartridge concept for 75/25 mix		2026-02-16
+EU/1/97/030/093	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	cartridge; no Cartridge concept for 75/25 mix		2026-02-16
+EU/1/97/030/098	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	cartridge; no Cartridge concept for 75/25 mix		2026-02-16
+EU/1/97/030/158	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	SoloStar pen; no Pen Injector concept for 75/25 mix		2026-02-16
+EU/1/97/030/159	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	SoloStar pen; no Pen Injector concept for 75/25 mix		2026-02-16
+EU/1/97/030/160	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	SoloStar pen; no Pen Injector concept for 75/25 mix		2026-02-16
+EU/1/97/030/161	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	SoloStar pen; no Pen Injector concept for 75/25 mix		2026-02-16
+EU/1/97/030/162	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	SoloStar pen; no Pen Injector concept for 75/25 mix		2026-02-16
+EU/1/97/030/163	41347274	3 ML insulin, isophane 75 UNT/ML / Regular Insulin, Human 25 UNT/ML Prefilled Syringe	OMOP2545236	BROAD	SoloStar pen; no Pen Injector concept for 75/25 mix		2026-02-16

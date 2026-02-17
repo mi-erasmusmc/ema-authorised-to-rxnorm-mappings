@@ -1,10 +1,10 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/02/221/003	1714167	1 ML peginterferon alfa-2a 0.18 MG/ML Injection [Pegasys]	352297				
-EU/1/02/221/004	1714167	1 ML peginterferon alfa-2a 0.18 MG/ML Injection [Pegasys]	352297				
-EU/1/02/221/005	40244096	0.5 ML peginterferon alfa-2a 0.27 MG/ML Prefilled Syringe [Pegasys]	1191665				
-EU/1/02/221/006	40244096	0.5 ML peginterferon alfa-2a 0.27 MG/ML Prefilled Syringe [Pegasys]	1191665				
-EU/1/02/221/007	1714192	0.5 ML peginterferon alfa-2a 0.36 MG/ML Prefilled Syringe [Pegasys]	731328				
-EU/1/02/221/008	1714192	0.5 ML peginterferon alfa-2a 0.36 MG/ML Prefilled Syringe [Pegasys]	731328				
-EU/1/02/221/009	40244096	0.5 ML peginterferon alfa-2a 0.27 MG/ML Prefilled Syringe [Pegasys]	1191665				
-EU/1/02/221/010	1714192	0.5 ML peginterferon alfa-2a 0.36 MG/ML Prefilled Syringe [Pegasys]	731328				
-EU/1/02/221/017	21078867	0.5 ML peginterferon alfa-2a 0.18 MG/ML Prefilled Syringe	OMOP287267				
+EU/1/02/221/003	1714167	1 ML peginterferon alfa-2a 0.18 MG/ML Injection [Pegasys]	352297	EXACT			2026-02-17
+EU/1/02/221/004	1714167	1 ML peginterferon alfa-2a 0.18 MG/ML Injection [Pegasys]	352297	EXACT			2026-02-17
+EU/1/02/221/005	40244096	0.5 ML peginterferon alfa-2a 0.27 MG/ML Prefilled Syringe [Pegasys]	1191665	EXACT			2026-02-17
+EU/1/02/221/006	40244096	0.5 ML peginterferon alfa-2a 0.27 MG/ML Prefilled Syringe [Pegasys]	1191665	EXACT			2026-02-17
+EU/1/02/221/007	1714192	0.5 ML peginterferon alfa-2a 0.36 MG/ML Prefilled Syringe [Pegasys]	731328	EXACT			2026-02-17
+EU/1/02/221/008	1714192	0.5 ML peginterferon alfa-2a 0.36 MG/ML Prefilled Syringe [Pegasys]	731328	EXACT			2026-02-17
+EU/1/02/221/009	40244096	0.5 ML peginterferon alfa-2a 0.27 MG/ML Prefilled Syringe [Pegasys]	1191665	EXACT			2026-02-17
+EU/1/02/221/010	1714192	0.5 ML peginterferon alfa-2a 0.36 MG/ML Prefilled Syringe [Pegasys]	731328	EXACT			2026-02-17
+EU/1/02/221/017	21078867	0.5 ML peginterferon alfa-2a 0.18 MG/ML Prefilled Syringe	OMOP287267	EXACT			2026-02-17
