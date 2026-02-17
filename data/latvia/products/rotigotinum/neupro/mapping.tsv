@@ -1,32 +1,32 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/05/331/001	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256				
-EU/1/05/331/002	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256				
-EU/1/05/331/004	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142				
-EU/1/05/331/005	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142				
-EU/1/05/331/007	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156				
-EU/1/05/331/008	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156				
-EU/1/05/331/010	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922				
-EU/1/05/331/011	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922				
-EU/1/05/331/013	40221096	rotigotine Transdermal System [Neupro]	1806006				
-EU/1/05/331/015	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256				
-EU/1/05/331/018	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256				
-EU/1/05/331/021	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142				
-EU/1/05/331/024	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142				
-EU/1/05/331/027	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156				
-EU/1/05/331/030	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156				
-EU/1/05/331/033	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922				
-EU/1/05/331/036	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922				
-EU/1/05/331/038	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914				
-EU/1/05/331/040	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914				
-EU/1/05/331/041	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914				
-EU/1/05/331/044	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914				
-EU/1/05/331/047	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918				
-EU/1/05/331/049	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918				
-EU/1/05/331/050	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918				
-EU/1/05/331/053	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918				
-EU/1/05/331/056	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914				
-EU/1/05/331/057	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256				
-EU/1/05/331/058	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918				
-EU/1/05/331/059	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142				
-EU/1/05/331/060	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156				
-EU/1/05/331/061	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922				
+EU/1/05/331/001	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256	EXACT			2026-02-17
+EU/1/05/331/002	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256	EXACT			2026-02-17
+EU/1/05/331/004	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142	EXACT			2026-02-17
+EU/1/05/331/005	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142	EXACT			2026-02-17
+EU/1/05/331/007	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156	EXACT			2026-02-17
+EU/1/05/331/008	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156	EXACT			2026-02-17
+EU/1/05/331/010	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922	EXACT			2026-02-17
+EU/1/05/331/011	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922	EXACT			2026-02-17
+EU/1/05/331/013	40221096	rotigotine Transdermal System [Neupro]	1806006	BROAD			2026-02-17
+EU/1/05/331/015	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256	EXACT			2026-02-17
+EU/1/05/331/018	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256	EXACT			2026-02-17
+EU/1/05/331/021	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142	EXACT			2026-02-17
+EU/1/05/331/024	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142	EXACT			2026-02-17
+EU/1/05/331/027	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156	EXACT			2026-02-17
+EU/1/05/331/030	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156	EXACT			2026-02-17
+EU/1/05/331/033	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922	EXACT			2026-02-17
+EU/1/05/331/036	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922	EXACT			2026-02-17
+EU/1/05/331/038	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914	EXACT			2026-02-17
+EU/1/05/331/040	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914	EXACT			2026-02-17
+EU/1/05/331/041	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914	EXACT			2026-02-17
+EU/1/05/331/044	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914	EXACT			2026-02-17
+EU/1/05/331/047	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918	EXACT			2026-02-17
+EU/1/05/331/049	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918	EXACT			2026-02-17
+EU/1/05/331/050	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918	EXACT			2026-02-17
+EU/1/05/331/053	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918	EXACT			2026-02-17
+EU/1/05/331/056	42709287	24 HR rotigotine 0.0417 MG/HR Transdermal System [Neupro]	1251914	EXACT			2026-02-17
+EU/1/05/331/057	786429	24 HR rotigotine 0.0833 MG/HR Transdermal System [Neupro]	722256	EXACT			2026-02-17
+EU/1/05/331/058	42709289	24 HR rotigotine 0.125 MG/HR Transdermal System [Neupro]	1251918	EXACT			2026-02-17
+EU/1/05/331/059	786444	24 HR rotigotine 0.167 MG/HR Transdermal System [Neupro]	724142	EXACT			2026-02-17
+EU/1/05/331/060	786445	24 HR rotigotine 0.25 MG/HR Transdermal System [Neupro]	724156	EXACT			2026-02-17
+EU/1/05/331/061	42709291	24 HR rotigotine 0.333 MG/HR Transdermal System [Neupro]	1251922	EXACT			2026-02-17
