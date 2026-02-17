@@ -1,9 +1,9 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/18/1347/001	19017747	febuxostat 80 MG Oral Tablet	834241				
-EU/1/18/1347/002	19017747	febuxostat 80 MG Oral Tablet	834241				
-EU/1/18/1347/003	19017747	febuxostat 80 MG Oral Tablet	834241				
-EU/1/18/1347/004	19017747	febuxostat 80 MG Oral Tablet	834241				
-EU/1/18/1347/005	21154460	febuxostat 120 MG Oral Tablet	OMOP265512				
-EU/1/18/1347/006	21154460	febuxostat 120 MG Oral Tablet	OMOP265512				
-EU/1/18/1347/007	21154460	febuxostat 120 MG Oral Tablet	OMOP265512				
-EU/1/18/1347/008	21154460	febuxostat 120 MG Oral Tablet	OMOP265512				
+EU/1/18/1347/001	19017747	febuxostat 80 MG Oral Tablet	834241	EXACT			2026-02-17
+EU/1/18/1347/002	19017747	febuxostat 80 MG Oral Tablet	834241	EXACT			2026-02-17
+EU/1/18/1347/003	19017747	febuxostat 80 MG Oral Tablet	834241	EXACT			2026-02-17
+EU/1/18/1347/004	19017747	febuxostat 80 MG Oral Tablet	834241	EXACT			2026-02-17
+EU/1/18/1347/005	21154460	febuxostat 120 MG Oral Tablet	OMOP265512	EXACT			2026-02-17
+EU/1/18/1347/006	21154460	febuxostat 120 MG Oral Tablet	OMOP265512	EXACT			2026-02-17
+EU/1/18/1347/007	21154460	febuxostat 120 MG Oral Tablet	OMOP265512	EXACT			2026-02-17
+EU/1/18/1347/008	21154460	febuxostat 120 MG Oral Tablet	OMOP265512	EXACT			2026-02-17

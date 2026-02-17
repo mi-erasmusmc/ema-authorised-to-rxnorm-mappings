@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/19/1419/001	19096754	treprostinil 1 MG/ML Injectable Solution	349407				
-EU/1/19/1419/002	19096756	treprostinil 2.5 MG/ML Injectable Solution	349409				
-EU/1/19/1419/003	19096757	treprostinil 5 MG/ML Injectable Solution	349410				
-EU/1/19/1419/004	19096755	treprostinil 10 MG/ML Injectable Solution	349408				
+EU/1/19/1419/001	19096754	treprostinil 1 MG/ML Injectable Solution	349407	EXACT			2026-02-17
+EU/1/19/1419/002	19096756	treprostinil 2.5 MG/ML Injectable Solution	349409	EXACT			2026-02-17
+EU/1/19/1419/003	19096757	treprostinil 5 MG/ML Injectable Solution	349410	EXACT			2026-02-17
+EU/1/19/1419/004	19096755	treprostinil 10 MG/ML Injectable Solution	349408	EXACT			2026-02-17

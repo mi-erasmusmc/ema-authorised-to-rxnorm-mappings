@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/20/1468/001	37497451	elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet	2257011				
-EU/1/20/1468/002	1537086	elexacaftor 50 MG / ivacaftor 37.5 MG / tezacaftor 25 MG Oral Tablet	2557214				
-EU/1/20/1468/003	1200985	elexacaftor 80 MG / ivacaftor 60 MG / tezacaftor 40 MG Oral Granules	2635013				
-EU/1/20/1468/004	1201520	{28 (elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Granules) / 28 (ivacaftor 75 MG Oral Granules) } Pack	2635025				
+EU/1/20/1468/001	37497451	elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Tablet	2257011	EXACT			2026-02-17
+EU/1/20/1468/002	1537086	elexacaftor 50 MG / ivacaftor 37.5 MG / tezacaftor 25 MG Oral Tablet	2557214	EXACT			2026-02-17
+EU/1/20/1468/003	1200985	elexacaftor 80 MG / ivacaftor 60 MG / tezacaftor 40 MG Oral Granules	2635013	EXACT			2026-02-17
+EU/1/20/1468/004	1201520	{28 (elexacaftor 100 MG / ivacaftor 75 MG / tezacaftor 50 MG Oral Granules) / 28 (ivacaftor 75 MG Oral Granules) } Pack	2635025	NARROW			2026-02-17

@@ -1,9 +1,9 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/17/1234/001	1593704	guselkumab 100 MG/ML [Tremfya]	1928594				
-EU/1/17/1234/002	2904352	1 ML guselkumab 100 MG/ML Pen Injector	OMOP5121178				
-EU/1/17/1234/003	2904352	1 ML guselkumab 100 MG/ML Pen Injector	OMOP5121178				
+EU/1/17/1234/002	2904352	1 ML guselkumab 100 MG/ML Pen Injector	OMOP5121178	EXACT			2026-02-17
+EU/1/17/1234/003	2904352	1 ML guselkumab 100 MG/ML Pen Injector	OMOP5121178	EXACT			2026-02-17
 EU/1/17/1234/004	1593704	guselkumab 100 MG/ML [Tremfya]	1928594				
-EU/1/17/1234/005	841238	20 ML guselkumab 10 MG/ML Injectable Solution	OMOP5564030				
+EU/1/17/1234/005	841238	20 ML guselkumab 10 MG/ML Injectable Solution	OMOP5564030	EXACT			2026-02-17
 EU/1/17/1234/006	1593704	guselkumab 100 MG/ML [Tremfya]	1928594				
 EU/1/17/1234/007	1593704	guselkumab 100 MG/ML [Tremfya]	1928594				
 EU/1/17/1234/008	1593704	guselkumab 100 MG/ML [Tremfya]	1928594				

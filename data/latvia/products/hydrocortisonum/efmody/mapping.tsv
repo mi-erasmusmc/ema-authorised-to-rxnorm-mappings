@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/21/1549/001	36937477	hydrocortisone 5 MG Extended Release Oral Capsule	OMOP5185080				
-EU/1/21/1549/002	36951037	hydrocortisone 10 MG Extended Release Oral Capsule	OMOP5185100				
-EU/1/21/1549/004	36937477	hydrocortisone 5 MG Extended Release Oral Capsule	OMOP5185080				
-EU/1/21/1549/005	36951037	hydrocortisone 10 MG Extended Release Oral Capsule	OMOP5185100				
-EU/1/21/1549/003							
+EU/1/21/1549/001	36937477	hydrocortisone 5 MG Extended Release Oral Capsule	OMOP5185080	EXACT			2026-02-17
+EU/1/21/1549/002	36951037	hydrocortisone 10 MG Extended Release Oral Capsule	OMOP5185100	EXACT			2026-02-17
+EU/1/21/1549/004	36937477	hydrocortisone 5 MG Extended Release Oral Capsule	OMOP5185080	EXACT			2026-02-17
+EU/1/21/1549/005	36951037	hydrocortisone 10 MG Extended Release Oral Capsule	OMOP5185100	EXACT			2026-02-17
+EU/1/21/1549/003	859360	hydrocortisone 20 MG Extended Release Oral Capsule	OMOP5582294	EXACT			2026-02-17
