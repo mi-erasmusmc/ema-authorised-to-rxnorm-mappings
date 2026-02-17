@@ -1,8 +1,8 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/08/446/001	40220575	50 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809521				
-EU/1/08/446/002	40220572	100 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809517				
-EU/1/08/446/003	40220574	200 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809520				
-EU/1/08/446/004	40220540	25 ML immunoglobulin G, human 100 MG/ML Injection	1809438				
-EU/1/08/446/005	40220572	100 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809517				
-EU/1/08/446/006	40220574	200 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809520				
-EU/1/08/446/007	40220577	400 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809525				
+EU/1/08/446/001	40220575	50 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809521	EXACT			2026-02-17
+EU/1/08/446/002	40220572	100 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809517	EXACT			2026-02-17
+EU/1/08/446/003	40220574	200 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809520	EXACT			2026-02-17
+EU/1/08/446/004	40220540	25 ML immunoglobulin G, human 100 MG/ML Injection	1809438	EXACT			2026-02-17
+EU/1/08/446/005	40220572	100 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809517	EXACT			2026-02-17
+EU/1/08/446/006	40220574	200 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809520	EXACT			2026-02-17
+EU/1/08/446/007	40220577	400 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809525	EXACT			2026-02-17

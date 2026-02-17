@@ -1,19 +1,19 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/09/599/001	733562	rivastigmine 1.5 MG Oral Capsule	314214				
-EU/1/09/599/002	733562	rivastigmine 1.5 MG Oral Capsule	314214				
-EU/1/09/599/003	733562	rivastigmine 1.5 MG Oral Capsule	314214				
-EU/1/09/599/004	733562	rivastigmine 1.5 MG Oral Capsule	314214				
-EU/1/09/599/005	733530	rivastigmine 3 MG Oral Capsule	312835				
-EU/1/09/599/006	733530	rivastigmine 3 MG Oral Capsule	312835				
-EU/1/09/599/007	733530	rivastigmine 3 MG Oral Capsule	312835				
-EU/1/09/599/008	733530	rivastigmine 3 MG Oral Capsule	312835				
-EU/1/09/599/009	733563	rivastigmine 4.5 MG Oral Capsule	314215				
-EU/1/09/599/010	733563	rivastigmine 4.5 MG Oral Capsule	314215				
-EU/1/09/599/011	733563	rivastigmine 4.5 MG Oral Capsule	314215				
-EU/1/09/599/013	733531	rivastigmine 6 MG Oral Capsule	312836				
-EU/1/09/599/014	733531	rivastigmine 6 MG Oral Capsule	312836				
-EU/1/09/599/015	733531	rivastigmine 6 MG Oral Capsule	312836				
-EU/1/09/599/016	733531	rivastigmine 6 MG Oral Capsule	312836				
-EU/1/09/599/017	733529	rivastigmine 2 MG/ML Oral Solution	312834				
-EU/1/09/599/018	733529	rivastigmine 2 MG/ML Oral Solution	312834				
-EU/1/09/599/012							
+EU/1/09/599/001	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2026-02-17
+EU/1/09/599/002	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2026-02-17
+EU/1/09/599/003	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2026-02-17
+EU/1/09/599/004	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2026-02-17
+EU/1/09/599/005	733530	rivastigmine 3 MG Oral Capsule	312835	EXACT			2026-02-17
+EU/1/09/599/006	733530	rivastigmine 3 MG Oral Capsule	312835	EXACT			2026-02-17
+EU/1/09/599/007	733530	rivastigmine 3 MG Oral Capsule	312835	EXACT			2026-02-17
+EU/1/09/599/008	733530	rivastigmine 3 MG Oral Capsule	312835	EXACT			2026-02-17
+EU/1/09/599/009	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2026-02-17
+EU/1/09/599/010	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2026-02-17
+EU/1/09/599/011	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2026-02-17
+EU/1/09/599/013	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2026-02-17
+EU/1/09/599/014	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2026-02-17
+EU/1/09/599/015	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2026-02-17
+EU/1/09/599/016	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2026-02-17
+EU/1/09/599/017	733529	rivastigmine 2 MG/ML Oral Solution	312834	EXACT			2026-02-17
+EU/1/09/599/018	733529	rivastigmine 2 MG/ML Oral Solution	312834	EXACT			2026-02-17
+EU/1/09/599/012	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2026-02-17

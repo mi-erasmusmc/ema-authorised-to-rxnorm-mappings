@@ -1,14 +1,14 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/12/773/004	40244482	ruxolitinib 5 MG Oral Tablet	1193339				
-EU/1/12/773/005	40244482	ruxolitinib 5 MG Oral Tablet	1193339				
-EU/1/12/773/006	40244482	ruxolitinib 5 MG Oral Tablet	1193339				
-EU/1/12/773/007	40244470	ruxolitinib 15 MG Oral Tablet	1193343				
-EU/1/12/773/008	40244470	ruxolitinib 15 MG Oral Tablet	1193343				
-EU/1/12/773/009	40244470	ruxolitinib 15 MG Oral Tablet	1193343				
-EU/1/12/773/010	40244474	ruxolitinib 20 MG Oral Tablet	1193347				
-EU/1/12/773/011	40244474	ruxolitinib 20 MG Oral Tablet	1193347				
-EU/1/12/773/012	40244474	ruxolitinib 20 MG Oral Tablet	1193347				
-EU/1/12/773/014	40244466	ruxolitinib 10 MG Oral Tablet	1193331				
-EU/1/12/773/015	40244466	ruxolitinib 10 MG Oral Tablet	1193331				
-EU/1/12/773/016	40244466	ruxolitinib 10 MG Oral Tablet	1193331				
-EU/1/12/773/017	40244481	ruxolitinib 5 MG	1193338				
+EU/1/12/773/004	40244482	ruxolitinib 5 MG Oral Tablet	1193339	EXACT			2026-02-17
+EU/1/12/773/005	40244482	ruxolitinib 5 MG Oral Tablet	1193339	EXACT			2026-02-17
+EU/1/12/773/006	40244482	ruxolitinib 5 MG Oral Tablet	1193339	EXACT			2026-02-17
+EU/1/12/773/007	40244470	ruxolitinib 15 MG Oral Tablet	1193343	EXACT			2026-02-17
+EU/1/12/773/008	40244470	ruxolitinib 15 MG Oral Tablet	1193343	EXACT			2026-02-17
+EU/1/12/773/009	40244470	ruxolitinib 15 MG Oral Tablet	1193343	EXACT			2026-02-17
+EU/1/12/773/010	40244474	ruxolitinib 20 MG Oral Tablet	1193347	EXACT			2026-02-17
+EU/1/12/773/011	40244474	ruxolitinib 20 MG Oral Tablet	1193347	EXACT			2026-02-17
+EU/1/12/773/012	40244474	ruxolitinib 20 MG Oral Tablet	1193347	EXACT			2026-02-17
+EU/1/12/773/014	40244466	ruxolitinib 10 MG Oral Tablet	1193331	EXACT			2026-02-17
+EU/1/12/773/015	40244466	ruxolitinib 10 MG Oral Tablet	1193331	EXACT			2026-02-17
+EU/1/12/773/016	40244466	ruxolitinib 10 MG Oral Tablet	1193331	EXACT			2026-02-17
+EU/1/12/773/017	40244481	ruxolitinib 5 MG	1193338	BROAD			2026-02-17

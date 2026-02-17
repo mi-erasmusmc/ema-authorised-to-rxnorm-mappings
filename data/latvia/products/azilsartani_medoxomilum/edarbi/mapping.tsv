@@ -1,31 +1,31 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/11/734/001	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247				
-EU/1/11/734/002	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247				
-EU/1/11/734/003	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247				
-EU/1/11/734/004	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247				
-EU/1/11/734/005	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650				
-EU/1/11/734/006	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650				
-EU/1/11/734/007	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650				
-EU/1/11/734/008	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650				
-EU/1/11/734/009	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654				
-EU/1/11/734/010	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654				
-EU/1/11/734/011	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654				
-EU/1/11/734/012	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247				
-EU/1/11/734/013	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247				
-EU/1/11/734/014	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650				
-EU/1/11/734/015	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650				
-EU/1/11/734/016	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654				
-EU/1/11/734/017	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654				
-EU/1/11/734/018	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654				
-EU/1/11/734/019							
-EU/1/11/734/020							
-EU/1/11/734/021							
-EU/1/11/734/022							
-EU/1/11/734/023							
-EU/1/11/734/024							
-EU/1/11/734/025							
-EU/1/11/734/026							
-EU/1/11/734/027							
-EU/1/11/734/028							
-EU/1/11/734/029							
-EU/1/11/734/030							
+EU/1/11/734/001	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/002	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/003	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/004	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/005	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/006	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/007	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/008	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/009	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/010	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/011	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/012	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/013	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/014	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/015	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/016	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/017	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/018	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/019	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/020	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/021	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/022	21075997	azilsartan 20 MG Oral Tablet [Edarbi]	OMOP266247	EXACT		azilsartan medoxomil 20 MG Oral Tablet [Edarbi]	2026-02-17
+EU/1/11/734/023	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/024	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/025	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/026	40235488	azilsartan medoxomil 40 MG Oral Tablet [Edarbi]	1091650	EXACT			2026-02-17
+EU/1/11/734/027	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/028	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/029	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17
+EU/1/11/734/030	40235492	azilsartan medoxomil 80 MG Oral Tablet [Edarbi]	1091654	EXACT			2026-02-17

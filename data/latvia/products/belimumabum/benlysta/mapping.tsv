@@ -1,8 +1,8 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/11/700/001	46275817	belimumab 120 MG Injection [Benlysta]	1656398				
-EU/1/11/700/002	46275821	belimumab 400 MG Injection [Benlysta]	1656402				
-EU/1/11/700/003	793732	1 ML belimumab 200 MG/ML Auto-Injector [Benlysta]	1939299				
-EU/1/11/700/004	793732	1 ML belimumab 200 MG/ML Auto-Injector [Benlysta]	1939299				
-EU/1/11/700/005	793732	1 ML belimumab 200 MG/ML Auto-Injector [Benlysta]	1939299				
+EU/1/11/700/001	46275817	belimumab 120 MG Injection [Benlysta]	1656398	EXACT			2026-02-17
+EU/1/11/700/002	46275821	belimumab 400 MG Injection [Benlysta]	1656402	EXACT			2026-02-17
+EU/1/11/700/003	793732	1 ML belimumab 200 MG/ML Auto-Injector [Benlysta]	1939299	EXACT			2026-02-17
+EU/1/11/700/004	793732	1 ML belimumab 200 MG/ML Auto-Injector [Benlysta]	1939299	EXACT			2026-02-17
+EU/1/11/700/005	793732	1 ML belimumab 200 MG/ML Auto-Injector [Benlysta]	1939299	EXACT			2026-02-17
 EU/1/11/700/006	793730	belimumab 200 MG/ML [Benlysta]	1939297				
 EU/1/11/700/007	793730	belimumab 200 MG/ML [Benlysta]	1939297				

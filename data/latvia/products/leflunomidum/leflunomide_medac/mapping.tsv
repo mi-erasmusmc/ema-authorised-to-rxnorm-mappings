@@ -1,14 +1,14 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/10/637/001	19028901	leflunomide 10 MG Oral Tablet	205284				
-EU/1/10/637/002	19028901	leflunomide 10 MG Oral Tablet	205284				
-EU/1/10/637/004	19028901	leflunomide 10 MG Oral Tablet	205284				
-EU/1/10/637/005	19028902	leflunomide 20 MG Oral Tablet	205285				
-EU/1/10/637/006	19028902	leflunomide 20 MG Oral Tablet	205285				
-EU/1/10/637/007	19028902	leflunomide 20 MG Oral Tablet	205285				
-EU/1/10/637/009	19028902	leflunomide 20 MG Oral Tablet	205285				
-EU/1/10/637/010	21063213	leflunomide 15 MG Oral Tablet	OMOP378873				
-EU/1/10/637/011	21063213	leflunomide 15 MG Oral Tablet	OMOP378873				
-EU/1/10/637/012	21063213	leflunomide 15 MG Oral Tablet	OMOP378873				
-EU/1/10/637/013	21063213	leflunomide 15 MG Oral Tablet	OMOP378873				
-EU/1/10/637/003							
-EU/1/10/637/008							
+EU/1/10/637/001	19028901	leflunomide 10 MG Oral Tablet	205284	EXACT			2026-02-17
+EU/1/10/637/002	19028901	leflunomide 10 MG Oral Tablet	205284	EXACT			2026-02-17
+EU/1/10/637/004	19028901	leflunomide 10 MG Oral Tablet	205284	EXACT			2026-02-17
+EU/1/10/637/005	19028902	leflunomide 20 MG Oral Tablet	205285	EXACT			2026-02-17
+EU/1/10/637/006	19028902	leflunomide 20 MG Oral Tablet	205285	EXACT			2026-02-17
+EU/1/10/637/007	19028902	leflunomide 20 MG Oral Tablet	205285	EXACT			2026-02-17
+EU/1/10/637/009	19028902	leflunomide 20 MG Oral Tablet	205285	EXACT			2026-02-17
+EU/1/10/637/010	21063213	leflunomide 15 MG Oral Tablet	OMOP378873	EXACT			2026-02-17
+EU/1/10/637/011	21063213	leflunomide 15 MG Oral Tablet	OMOP378873	EXACT			2026-02-17
+EU/1/10/637/012	21063213	leflunomide 15 MG Oral Tablet	OMOP378873	EXACT			2026-02-17
+EU/1/10/637/013	21063213	leflunomide 15 MG Oral Tablet	OMOP378873	EXACT			2026-02-17
+EU/1/10/637/003	19028901	leflunomide 10 MG Oral Tablet	205284	EXACT			2026-02-17
+EU/1/10/637/008	19028902	leflunomide 20 MG Oral Tablet	205285	EXACT			2026-02-17

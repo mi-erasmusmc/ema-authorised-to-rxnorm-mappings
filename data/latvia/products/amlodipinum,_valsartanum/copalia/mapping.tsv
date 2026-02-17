@@ -1,40 +1,40 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/06/372/001	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/002	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/003	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/004	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/005	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/006	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/007	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/008	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/009	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/010	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/011	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/012	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/013	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/014	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/015	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/016	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/017	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/018	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/019	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/020	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/021	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/022	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/023	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/024	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/025	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/026	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/027	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/028	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/029	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/030	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/031	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/032	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/033	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/034	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/035	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/036	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-EU/1/06/372/037	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-EU/1/06/372/038	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-EU/1/06/372/039	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
+EU/1/06/372/001	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/002	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/003	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/004	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/005	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/006	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/007	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/008	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/009	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/010	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/011	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/012	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/013	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/014	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/015	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/016	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/017	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/018	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/019	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/020	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/021	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/022	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/023	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/024	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/025	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/026	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/027	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/028	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/029	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/030	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/031	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/032	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/033	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/034	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/035	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/036	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17
+EU/1/06/372/037	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	EXACT			2026-02-17
+EU/1/06/372/038	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-02-17
+EU/1/06/372/039	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-02-17

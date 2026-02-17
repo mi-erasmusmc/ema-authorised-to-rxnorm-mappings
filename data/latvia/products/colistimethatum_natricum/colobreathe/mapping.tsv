@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/11/747/001	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905				
-EU/1/11/747/002	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905				
-EU/1/11/747/003	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905				
+EU/1/11/747/001	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905	EXACT	Competing concept exists colistimethate 1660000 UNT Inhalant Powder [Colobreathe]		2026-02-17
+EU/1/11/747/002	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905	EXACT	Competing concept exists colistimethate 1660000 UNT Inhalant Powder [Colobreathe]		2026-02-17
+EU/1/11/747/003	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905	EXACT	Competing concept exists colistimethate 1660000 UNT Inhalant Powder [Colobreathe]		2026-02-17
