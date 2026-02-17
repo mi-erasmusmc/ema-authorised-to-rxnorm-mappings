@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/1921/001	0			EXACT	Biosimilar; FDA suffix denosumab-desu exists but no RxNorm concept yet	1.7 ML denosumab-desu 70 MG/ML Injection [Jubereq]	2026-02-16
-EU/1/25/1921/002	0			EXACT	Same concept, different pack size (3 vials)	1.7 ML denosumab-desu 70 MG/ML Injection [Jubereq]	2026-02-16
-EU/1/25/1921/003	0			EXACT	Same concept, different pack size (1 vial)	1.7 ML denosumab-desu 70 MG/ML Injection [Jubereq]	2026-02-16
+EU/1/25/1921/001	0	1.7 ML denosumab 70 MG/ML Injection	1046398	EXACT	Biosimilar; FDA suffix denosumab-desu exists but no RxNorm concept yet	1.7 ML denosumab-desu 70 MG/ML Injection [Jubereq]	2026-02-17
+EU/1/25/1921/002	0	1.7 ML denosumab 70 MG/ML Injection	1046398	EXACT	Same concept, different pack size (3 vials)	1.7 ML denosumab-desu 70 MG/ML Injection [Jubereq]	2026-02-17
+EU/1/25/1921/003	0	1.7 ML denosumab 70 MG/ML Injection	1046398	EXACT	Same concept, different pack size (1 vial)	1.7 ML denosumab-desu 70 MG/ML Injection [Jubereq]	2026-02-17

@@ -32,16 +32,18 @@ def is_empty(value: Optional[str]) -> bool:
     """Check if a value is None or empty string."""
     return value is None or value == ''
 
-def find_product_mapping_file(base_path: Path, product_id: str, is_latvia: bool = False) -> Optional[Path]:
+def find_product_mapping_file(base_path: Path, product_id: str, is_latvia: bool = False, ema_product_number: str = '') -> Optional[Path]:
     """Find the mapping.tsv file for a given product ID in the product folders."""
-    # For EMA: data/ema/products/{ma_number}/mapping.tsv
+    # For EMA: data/ema/products/{product_number}/mapping.tsv (product_number from ema_product_number e.g. EMEA/H/C/000071 -> 000071)
     # For Latvia: data/latvia/products/{ingredient}/{brand_name}/mapping.tsv (need to search within files)
 
     if not is_latvia:
-        # EMA: direct folder lookup
-        mapping_file = base_path / product_id / 'mapping.tsv'
-        if mapping_file.exists():
-            return mapping_file
+        # EMA: folder is named by the numeric product ID from ema_product_number
+        folder_name = ema_product_number.rsplit('/', 1)[-1] if ema_product_number else ''
+        if folder_name:
+            mapping_file = base_path / folder_name / 'mapping.tsv'
+            if mapping_file.exists():
+                return mapping_file
         return None
     else:
         # Latvia: search through all mapping.tsv files to find one containing this product_id
@@ -163,7 +165,7 @@ def main():
         # Update EMA mapping file if needed
         if ema_updates:
             print(f"Product {ema_id}: Syncing from Latvia → EMA")
-            ema_mapping_file = find_product_mapping_file(ema_products, ema_id, is_latvia=False)
+            ema_mapping_file = find_product_mapping_file(ema_products, ema_id, is_latvia=False, ema_product_number=ema_row.get('ema_product_number', ''))
             if ema_mapping_file:
                 if update_mapping_file(ema_mapping_file, ema_id, ema_updates, 'Latvia'):
                     updates_count += 1

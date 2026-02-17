@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-25-0164-01	42902370	paliperidone palmitate 156 MG/ML Prefilled Syringe	1359483				
-25-0161-01							
-25-0162-01							
-25-0163-01							
+25-0164-01	42902370	paliperidone palmitate 156 MG/ML Prefilled Syringe	1359483	EXACT			2026-02-17
+25-0161-01	40163973	0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858048	EXACT			2026-02-17
+25-0162-01	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056	EXACT			2026-02-17
+25-0163-01	40163884	1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858054	EXACT			2026-02-17
