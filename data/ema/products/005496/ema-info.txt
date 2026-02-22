@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005496
+Name of medicine: Teizeild
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: teplizumab
+Active substance: teplizumab
+Therapeutic area (MeSH): Diabetes Mellitus, Type 1
+ATC code (human): A10XX01
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Teizeild is indicated to delay the onset of stage 3 type 1 diabetes (T1D) in adult and paediatric patients 8 years of age and older with stage 2 T1D.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/teizeild

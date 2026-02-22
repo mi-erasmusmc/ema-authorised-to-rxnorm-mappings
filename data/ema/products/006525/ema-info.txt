@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006525
+Name of medicine: Waskyra
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: etuvetidigene autotemcel
+Active substance: genetically modified autologous CD34+ cell enriched population that contains haematopoietic stem and progenitor cells (HSPC) transduced ex vivo using a lentiviral vector encoding the human Wiskott-Aldrich Syndrome (WAS) gene
+Therapeutic area (MeSH): Wiskott-Aldrich Syndrome
+ATC code (human): B06
+Pharmacotherapeutic group (human): Other hematological agents
+Therapeutic indication: Waskyra is indicated for the treatment of patients aged 6 months and older with Wiskott-Aldrich Syndrome (WAS) who have a mutation in the WAS gene for whom haematopoietic stem cell (HSC) transplantation is appropriate and no suitable human leukocyte antigen (HLA)-matched related haematopoietic stem cell donor is available.
+Biosimilar: No
+Generic or hybrid: No
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/waskyra

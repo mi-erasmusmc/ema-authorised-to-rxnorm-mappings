@@ -1,0 +1,9 @@
+EU-only product - no FDA equivalent
+
+Donidalorsen (Dawnzera) is a newly authorized EMA product (2025) for hereditary angioedema prevention. No RxNorm clinical drug concept exists for this antisense oligonucleotide therapy.
+
+Mapped BROAD to ingredient-level RxNorm Extension concept (DONIDALORSEN - OMOP5181393).
+
+Ideal concept: "0.8 ML donidalorsen 100 MG/ML Prefilled Syringe"
+
+This mapping should be upgraded to EXACT once RxNorm adds the clinical drug concept.

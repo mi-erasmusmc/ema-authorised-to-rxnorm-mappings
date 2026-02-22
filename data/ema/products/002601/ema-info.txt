@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/002601
 Name of medicine: Tecfidera
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: dimethyl fumarate
-Active substance: 
+Active substance: dimethyl fumarate
 Therapeutic area (MeSH): Multiple Sclerosis
 ATC code (human): L04AX07
 Pharmacotherapeutic group (human): Immunosuppressants

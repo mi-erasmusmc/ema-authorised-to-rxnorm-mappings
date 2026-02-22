@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/004043
 Name of medicine: Ocrevus
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: ocrelizumab
-Active substance: 
+Active substance: ocrelizumab
 Therapeutic area (MeSH): Multiple Sclerosis
 ATC code (human): L04AG08
 Pharmacotherapeutic group (human): Immunosuppressants

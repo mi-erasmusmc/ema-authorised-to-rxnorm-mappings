@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/000403
 Name of medicine: Arixtra
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: fondaparinux sodium
-Active substance: 
+Active substance: fondaparinux sodium
 Therapeutic area (MeSH): Venous Thrombosis;Pulmonary Embolism;Myocardial Infarction;Angina, Unstable
 ATC code (human): B01AX05
 Pharmacotherapeutic group (human): Antithrombotic agents

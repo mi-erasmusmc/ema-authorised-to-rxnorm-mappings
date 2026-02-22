@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/002846
 Name of medicine: Sivextro
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: tedizolid phosphate
-Active substance: 
+Active substance: tedizolid
 Therapeutic area (MeSH): Soft Tissue Infections;Skin Diseases, Bacterial
 ATC code (human): J01XX11
 Pharmacotherapeutic group (human): Antibacterials for systemic use;Other antibacterials

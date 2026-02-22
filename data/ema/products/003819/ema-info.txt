@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/003819
 Name of medicine: Zykadia
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: ceritinib
-Active substance: 
+Active substance: ceritinib
 Therapeutic area (MeSH): Carcinoma, Non-Small-Cell Lung
 ATC code (human): L01XE
 Pharmacotherapeutic group (human): Antineoplastic agents

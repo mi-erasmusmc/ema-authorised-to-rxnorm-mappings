@@ -1,0 +1,9 @@
+EU-only gene therapy product - no FDA equivalent
+
+Waskyra (etuvetidigene autotemcel) is an autologous CAR-T cell therapy for Wiskott-Aldrich Syndrome, authorized by EMA in 2025. No RxNorm clinical drug concept exists for this advanced therapy medicinal product (ATMP).
+
+Mapped BROAD to ingredient-level RxNorm Extension concept (ETUVETIDIGENE AUTOTEMCEL - OMOP5179078).
+
+Ideal concept: "etuvetidigene autotemcel Dispersion for Infusion"
+
+This mapping should be upgraded to EXACT once RxNorm adds the clinical drug concept.

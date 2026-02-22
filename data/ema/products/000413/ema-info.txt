@@ -1,7 +1,7 @@
 EMA product number: EMEA/H/C/000413
 Name of medicine: MicardisPlus
 Medicine status: Authorised
-International non-proprietary name (INN) / common name: 
+International non-proprietary name (INN) / common name: telmisartan;hydrochlorothiazide
 Active substance: telmisartan;hydrochlorothiazide
 Therapeutic area (MeSH): Hypertension
 ATC code (human): C09DA07

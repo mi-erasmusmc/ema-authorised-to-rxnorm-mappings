@@ -4,7 +4,7 @@ Medicine status: Authorised
 International non-proprietary name (INN) / common name: teriflunomide
 Active substance: teriflunomide
 Therapeutic area (MeSH): Multiple Sclerosis, Relapsing-Remitting
-ATC code (human): L04AA31
+ATC code (human): L04AK02
 Pharmacotherapeutic group (human): Immunosuppressants;Selective immunosuppressants
 Therapeutic indication: Teriflunomide Accord is indicated for the treatment of adult patients and paediatric patients aged 10 years and older with relapsing remitting multiple sclerosis (MS) (please refer to section 5.1 for important information on the population for which efficacy has been established).
 Biosimilar: No

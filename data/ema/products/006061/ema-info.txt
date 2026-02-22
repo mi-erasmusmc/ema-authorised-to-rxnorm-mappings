@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/006061
 Name of medicine: Piasky
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: crovalimab
-Active substance: 
+Active substance: Crovalimab
 Therapeutic area (MeSH): Hemoglobinuria, Paroxysmal
 ATC code (human): L04AJ07
 Pharmacotherapeutic group (human): Immunosuppressants, Complement inhibitors

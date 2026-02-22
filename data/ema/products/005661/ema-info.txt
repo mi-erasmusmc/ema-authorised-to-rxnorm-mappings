@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/005661
 Name of medicine: Fingolimod Mylan
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: fingolimod
-Active substance: 
+Active substance: Fingolimod
 Therapeutic area (MeSH): Multiple Sclerosis, Relapsing-Remitting
 ATC code (human): L04AE01
 Pharmacotherapeutic group (human): Immunosuppressants

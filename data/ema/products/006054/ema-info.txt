@@ -2,11 +2,11 @@ EMA product number: EMEA/H/C/006054
 Name of medicine: Arexvy
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: recombinant respiratory syncytial virus pre-fusion F protein, adjuvanted with AS01E
-Active substance: Respiratory Syncytial Virus recombinant glycoprotein F stabilised in the pre-fusion conformation (RSVPreF3) produced in Chinese Hamster Ovary (CHO) cells by recombinant DNA technology
+Active substance: 
 Therapeutic area (MeSH): Respiratory Syncytial Virus Infections
-ATC code (human): J07
-Pharmacotherapeutic group (human): Vaccines
-Therapeutic indication: Arexvy is indicated for active immunisation for the prevention of lower respiratory tract disease (LRTD) caused by respiratory syncytial virus in:  adults 60 years of age and older; adults 50 through 59 years of age who are at increased risk for RSV disease.  The use of this vaccine should be in accordance with official recommendations.&nbsp;
+ATC code (human): J07BX05
+Pharmacotherapeutic group (human): Other viral vaccines
+Therapeutic indication: Arexvy is indicated for active immunisation for the prevention of lower respiratory tract disease (LRTD) caused by respiratory syncytial virus in adults 18 years of age and older.&nbsp; The use of this vaccine should be in accordance with official recommendations.
 Biosimilar: No
 Generic or hybrid: No
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/arexvy

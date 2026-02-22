@@ -1,0 +1,3 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/25/2001/001	36863776	DONIDALORSEN	OMOP5181393	BROAD	New EU drug (2025), no clinical drug concept in RxNorm yet	0.8 ML donidalorsen 100 MG/ML Prefilled Syringe	2026-02-22
+EU/1/25/2001/002	36863776	DONIDALORSEN	OMOP5181393	BROAD	New EU drug (2025), no clinical drug concept in RxNorm yet	0.8 ML donidalorsen 100 MG/ML Prefilled Syringe	2026-02-22
