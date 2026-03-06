@@ -102,9 +102,9 @@ skill is just a directory containing an instruction file, scripts, and reference
 agent that supports custom instructions:
 
 - [Claude Code](https://docs.anthropic.com/en/docs/claude-code/skills) — uses `.claude/skills/` natively
-- [GitHub Copilot](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/create-skills) — copy to `.github/skills/`
-- [OpenAI Codex](https://developers.openai.com/codex/skills/) — copy to project root or use `AGENTS.md`
-- [OpenCode](https://opencode.ai/docs/skills/) — copy to `skill/` at project root
+- [GitHub Copilot](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/create-skills) — reads `.claude/skills/` natively (also supports `.github/skills/`)
+- [OpenAI Codex](https://developers.openai.com/codex/skills/) — copy to `.agents/skills/`
+- [OpenCode](https://opencode.ai/docs/skills/) — reads `.claude/skills/` natively (also supports `.opencode/skills/` and `.agents/skills/`)
 
 ## Column Descriptions
 
