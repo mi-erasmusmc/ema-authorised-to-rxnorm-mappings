@@ -190,7 +190,7 @@ export async function processAndStoreData(data) {
           mapping.ma_number,
           mainMapping.ema_name_of_medicine || name,
           medicine['Marketing authorisation developer / applicant / holder'] || null,
-          mapping.pdf_strenght || null,
+          mapping.pdf_strength || null,
           mapping.pdf_pharmaceutical_form || null,
           mapping.pdf_route_of_administration || null,
           mapping.pdf_packaging || null,
