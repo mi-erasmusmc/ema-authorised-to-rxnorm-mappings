@@ -52,12 +52,14 @@ references to external resources the agent can access on demand. Skills are agen
 any coding agent's skill directory regardless of the underlying LLM provider.
 
 ```
-skills/                     # Skill definitions
-  map-ema-drugs/            #   EMA mapping skill with RxNorm conventions
-  map-latvia-drugs/         #   Latvia national product mapping skill
-  find-concepts/            #   Semantic search against RxNorm via Hecate API
-  process-ema-data/         #   PDF parsing and data extraction
-  resolve-conflicts/        #   Cross-dataset conflict resolution
+.claude/
+  skills/                   # Skill definitions
+    map-ema-drugs/          #   EMA mapping skill with RxNorm conventions
+    map-latvia-drugs/       #   Latvia national product mapping skill
+    find-concepts/          #   Semantic search against RxNorm via Hecate API
+    process-ema-data/       #   PDF parsing and data extraction
+    resolve-conflicts/      #   Cross-dataset conflict resolution
+  agents/                   # Agent definitions
 data/
   ema/products/             # Per-product folders with parsed data and context
   latvia/products/          # Latvian product data
@@ -94,10 +96,15 @@ long tail of complex products requires disproportionate effort:
 
 ## Using the Skills
 
-The `skills/` directory is the source of truth for all skill definitions. To reproduce or extend the mappings, load
-the relevant skills into your coding agent's skill directory. The same pattern is applicable to other OHDSI workflows
-such as concept set curation or study package development — each workflow becoming a modular skill within a broader
-architecture where domain knowledge can be shared and composed across tasks.
+Skills and agents live in `.claude/skills/` and `.claude/agents/`. This is the convention used by
+[Claude Code](https://docs.anthropic.com/en/docs/claude-code), but the skills themselves are agent-agnostic. If you
+use a different coding agent (e.g. OpenCode, Codex), rename or copy `.claude/` to whatever directory your harness
+expects (e.g. `.agents/`, `.codex/`).
+
+To reproduce or extend the mappings, load the relevant skills into your coding agent's skill directory. The same
+pattern is applicable to other OHDSI workflows such as concept set curation or study package development — each
+workflow becoming a modular skill within a broader architecture where domain knowledge can be shared and composed
+across tasks.
 
 ## Column Descriptions
 

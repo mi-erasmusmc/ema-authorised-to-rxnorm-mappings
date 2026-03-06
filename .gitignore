@@ -1,10 +1,8 @@
 .idea
-.claude
+.claude/settings.local.json
 /zindex_match.tsv
 */__pycache__/
-skills/process-ema-data/scripts/__pycache__
 /data/ema/download_progress.csv
-CLAUDE.md
 .venv
 load-ema-to-rxnorm.sh
 load-latvia-to-rxnorm.sh
