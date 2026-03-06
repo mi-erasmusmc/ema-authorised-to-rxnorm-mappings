@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0164-01	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-95-0057-01	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-95-0058-01							
-I001016-01	19075380	ciprofloxacin 500 MG Oral Tablet	309309				2026-02-17
-I001488-01	19075380	ciprofloxacin 500 MG Oral Tablet	309309				2026-02-17
-I001709-01	19075380	ciprofloxacin 500 MG Oral Tablet	309309				2026-02-17
+00-0164-01	19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-06
+95-0057-01	1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-06
+95-0058-01	46287391	ciprofloxacin 10 MG/ML Injection	1665228	EXACT			2026-03-06
+I001016-01	19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-06
+I001488-01	19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-06
+I001709-01	19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-06
