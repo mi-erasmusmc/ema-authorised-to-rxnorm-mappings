@@ -1,0 +1,10 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/95/001/021	EMEA/H/C/000071	1050 IU/1.75 ml	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: pre-filled syringe (glass)	powder: 80 µg; solvent: 2 ml (40 µg/ml)	1 vial + 1 pre-filled syringe + 15 disposable syringes	GONAL-f
+EU/1/95/001/025	EMEA/H/C/000071	75 IU	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: pre-filled syringe (glass)	powder: 5 µg; solvent: 1 ml (5 µg/ml)	1 vial + 1 pre-filled syringe	GONAL-f
+EU/1/95/001/026	EMEA/H/C/000071	75 IU	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: pre-filled syringe (glass)	powder: 5 µg; solvent: 1 ml (5 µg/ml)	5 vials + 5 pre-filled syringes	GONAL-f
+EU/1/95/001/027	EMEA/H/C/000071	75 IU	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: pre-filled syringe (glass)	powder: 5 µg; solvent: 1 ml (5 µg/ml)	10 vials + 10 pre-filled syringes	GONAL-f
+EU/1/95/001/031	EMEA/H/C/000071	450 IU/0.75 ml	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: pre-filled syringe (glass)	powder: 40 µg; solvent: 1 ml (40 µg/ml)	1 vial + 1 pre-filled syringe + 6 disposable syringes	GONAL-f
+EU/1/95/001/033	EMEA/H/C/000071	300 IU/0.48 ml	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen	0.48 ml	1 pre-filled pen + 8 needles	GONAL-f
+EU/1/95/001/034	EMEA/H/C/000071	450 IU/0.72 ml	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen	0.72 ml	1 pre-filled pen + 12 needles	GONAL-f
+EU/1/95/001/035	EMEA/H/C/000071	900 IU/1.44 ml	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen	1.44 ml	1 pre-filled pen + 16 needles	GONAL-f
+EU/1/95/001/036	EMEA/H/C/000071	150 IU/0.24 ml	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen	0.24 ml	1 pre-filled pen + 4 needles	GONAL-f
