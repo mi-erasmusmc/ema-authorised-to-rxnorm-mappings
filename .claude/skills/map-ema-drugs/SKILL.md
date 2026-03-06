@@ -39,6 +39,8 @@ Create `mapping.tsv` in the product folder following the schema in the `map-drug
 
 One row per `ma_number` in `parsed_data*.tsv`. Every presentation must be mapped.
 
+**IMPORTANT**: Do not assume any logical ordering of `ma_number` values — they are NOT sorted by strength, dose form, or any other attribute. Always look up each `ma_number`'s actual strength and form from `parsed_data*.tsv` individually.
+
 If a `mapping.tsv` already exists, check the mappings and note any needed changes in `flag.tsv`.
 
 ## Biosimilars
