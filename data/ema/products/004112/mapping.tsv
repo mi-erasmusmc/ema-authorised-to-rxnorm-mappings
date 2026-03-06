@@ -1,7 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/1167/001							
-EU/1/1167/002							
-EU/1/1167/003							
-EU/1/16/1167/001	1356446	50 ML rituximab-abbs 10 MG/ML Injection [Truxima]	2105835	EXACT			
-EU/1/16/1167/002	1356444	10 ML rituximab-abbs 10 MG/ML Injection [Truxima]	2105831	EXACT			
-EU/1/16/1167/003	1356446	50 ML rituximab-abbs 10 MG/ML Injection [Truxima]	2105835	EXACT			
+EU/1/1167/001	1356446	50 ML rituximab-abbs 10 MG/ML Injection [Truxima]	2105835	EXACT			2026-03-06
+EU/1/1167/002	1356444	10 ML rituximab-abbs 10 MG/ML Injection [Truxima]	2105831	EXACT			2026-03-06
+EU/1/1167/003	1356446	50 ML rituximab-abbs 10 MG/ML Injection [Truxima]	2105835	EXACT			2026-03-06
