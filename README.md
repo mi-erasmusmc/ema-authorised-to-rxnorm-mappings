@@ -4,10 +4,6 @@ Mappings between European Medicines Agency (EMA) centrally authorised medicinal 
 drug concepts, along with Swedish and Latvian national product mappings. To our knowledge, these are the first
 comprehensive publicly available mappings of all EMA authorised products to OMOP standard concepts.
 
-Beyond the mappings themselves, this repository is a methodological experiment: it demonstrates a skill-based,
-file-driven knowledge architecture for LLM-assisted vocabulary mapping that replaces traditional application
-infrastructure with a structured workspace accessible to off-the-shelf coding agents.
-
 ## Datasets
 
 | File | Mappings                        | Last Updated |
@@ -20,13 +16,17 @@ Because EMA centrally authorised products are valid across all EU member states,
 foundation or cross-reference for country-specific drug vocabulary mappings throughout Europe. Swedish and Latvian
 national products are linked to EMA products via EU marketing authorization numbers where applicable.
 
-Each mapping is classified as **EXACT** (direct correspondence), **BROAD** (RxNorm concept is broader than the
-specific product), or **INCORRECT** (flagged for review). Raw source data is available in `data/`. See
-[Column Descriptions](#column-descriptions) below for full schema details.
+Each mapping is classified as **EXACT** (direct correspondence) or **BROAD** (RxNorm concept is broader than the
+specific product). Raw source data is available in `data/`. See [Column Descriptions](#column-descriptions) below for
+full schema details.
 
-Plans are underway to expand coverage to additional EU member states.
+---
 
-## Approach
+## Architecture
+
+This repository is also a methodological experiment: it demonstrates a skill-based, file-driven knowledge architecture
+for LLM-assisted vocabulary mapping that replaces traditional application infrastructure with a structured workspace
+accessible to off-the-shelf coding agents.
 
 ### Why Not Just Ask an LLM?
 
@@ -97,14 +97,14 @@ long tail of complex products requires disproportionate effort:
 ## Using the Skills
 
 Skills and agents live in `.claude/skills/` and `.claude/agents/`. This is the convention used by
-[Claude Code](https://docs.anthropic.com/en/docs/claude-code), but the skills themselves are agent-agnostic. If you
-use a different coding agent (e.g. OpenCode, Codex), rename or copy `.claude/` to whatever directory your harness
-expects (e.g. `.agents/`, `.codex/`).
+[Claude Code](https://docs.anthropic.com/en/docs/claude-code), but the skills themselves are agent-agnostic — each
+skill is just a directory containing an instruction file, scripts, and references. They can be adapted to any coding
+agent that supports custom instructions:
 
-To reproduce or extend the mappings, load the relevant skills into your coding agent's skill directory. The same
-pattern is applicable to other OHDSI workflows such as concept set curation or study package development — each
-workflow becoming a modular skill within a broader architecture where domain knowledge can be shared and composed
-across tasks.
+- [Claude Code](https://docs.anthropic.com/en/docs/claude-code/skills) — uses `.claude/skills/` natively
+- [GitHub Copilot](https://docs.github.com/en/copilot/how-tos/use-copilot-agents/coding-agent/create-skills) — copy to `.github/skills/`
+- [OpenAI Codex](https://developers.openai.com/codex/skills/) — copy to project root or use `AGENTS.md`
+- [OpenCode](https://opencode.ai/docs/skills/) — copy to `skill/` at project root
 
 ## Column Descriptions
 
@@ -116,7 +116,7 @@ Columns in `ema-to-rxnorm.tsv` (other files follow similar conventions):
 | `concept_id`                  | OMOP concept identifier                                 |
 | `concept_name`                | Standardized drug concept name describing the product   |
 | `concept_code`                | RxNorm concept code                                     |
-| `mapping_type`                | Type of mapping relationship (EXACT, BROAD, INCORRECT)  |
+| `mapping_type`                | Type of mapping relationship (EXACT, BROAD)             |
 | `ema_active_substance`        | Active substance from the EMA medicines report          |
 | `pdf_strength`                | Strength as listed in the Authorised Presentations PDF  |
 | `pdf_pharmaceutical_form`     | Pharmaceutical form from the PDF                        |
