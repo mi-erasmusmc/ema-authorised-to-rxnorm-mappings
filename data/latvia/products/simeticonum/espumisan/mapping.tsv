@@ -1,10 +1,10 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-97-0578-01	19064937	simethicone 40 MG Oral Capsule	252159				
-97-0578-02	19064937	simethicone 40 MG Oral Capsule	252159				
-97-0578-03	19064937	simethicone 40 MG Oral Capsule	252159				
-97-0578-04	19064937	simethicone 40 MG Oral Capsule	252159				
-97-0578-05	19064937	simethicone 40 MG Oral Capsule	252159				
-97-0578-06	19064937	simethicone 40 MG Oral Capsule	252159				
-10-0539-01							
-10-0539-02							
-I001711-01							
+97-0578-01	19064937	simethicone 40 MG Oral Capsule	252159	EXACT			2026-03-06
+97-0578-02	19064937	simethicone 40 MG Oral Capsule	252159	EXACT			2026-03-06
+97-0578-03	19064937	simethicone 40 MG Oral Capsule	252159	EXACT			2026-03-06
+97-0578-04	19064937	simethicone 40 MG Oral Capsule	252159	EXACT			2026-03-06
+97-0578-05	19064937	simethicone 40 MG Oral Capsule	252159	EXACT			2026-03-06
+97-0578-06	19064937	simethicone 40 MG Oral Capsule	252159	EXACT			2026-03-06
+10-0539-01	425419	simethicone 100 MG/ML Oral Suspension	425419	EXACT	RxNorm uses oral suspension rather than oral drops, emulsion		2026-03-06
+10-0539-02	425419	simethicone 100 MG/ML Oral Suspension	425419	EXACT	RxNorm uses oral suspension rather than oral drops, emulsion		2026-03-06
+I001711-01	19064937	simethicone 40 MG Oral Capsule	252159	EXACT	Latvia source says capsule; existing equivalent capsule concept is 40 MG oral capsule		2026-03-06

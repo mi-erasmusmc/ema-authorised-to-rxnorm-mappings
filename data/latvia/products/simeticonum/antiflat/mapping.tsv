@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-07-0155-01							
-07-0155-02							
-07-0155-03							
-07-0156-01							
-07-0156-02							
+07-0155-01	433906	simethicone 42 MG Chewable Tablet	433906	EXACT			2026-03-06
+07-0155-02	433906	simethicone 42 MG Chewable Tablet	433906	EXACT			2026-03-06
+07-0155-03	433906	simethicone 42 MG Chewable Tablet	433906	EXACT			2026-03-06
+07-0156-01	245368	simethicone 40 MG/ML Oral Suspension	245368	BROAD	Closest standard RxNorm concept; Latvia product is 41.2 MG/ML oral suspension	simethicone 41.2 MG/ML Oral Suspension	2026-03-06
+07-0156-02	245368	simethicone 40 MG/ML Oral Suspension	245368	BROAD	Closest standard RxNorm concept; Latvia product is 41.2 MG/ML oral suspension	simethicone 41.2 MG/ML Oral Suspension	2026-03-06
