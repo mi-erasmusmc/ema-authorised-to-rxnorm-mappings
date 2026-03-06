@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from 'react';
-import { Button, Input, Table, TableProps, Spin, Select, Modal } from 'antd';
+import { Button, Input, Table, TableProps, Spin } from 'antd';
 import type { ColumnsType, TablePaginationConfig } from 'antd/es/table';
 import ConceptLink from './ConceptLink';
 import * as api from '../services/api';
@@ -9,8 +9,7 @@ import type {
   EmaProductFilters,
   ActiveSubstanceDto,
   BrandDto,
-  SupplierDto,
-  MarketAuthorization
+  SupplierDto
 } from '../types';
 
 type OnChange = NonNullable<TableProps<EmaAuthorizedProductGroup>['onChange']>;
@@ -34,21 +33,7 @@ function EmaProductsTable() {
   const [expandedRowLoading, setExpandedRowLoading] = useState<
     Record<string, boolean>
   >({});
-  const [expandViewMode, setExpandViewMode] = useState<
-    Record<string, 'ema' | 'countries'>
-  >({});
-  const [expandedRowMarketAuth, setExpandedRowMarketAuth] = useState<
-    Record<string, MarketAuthorization[]>
-  >({});
-  const [expandedRowMarketAuthLoading, setExpandedRowMarketAuthLoading] =
-    useState<Record<string, boolean>>({});
-  const [sourceItemModalVisible, setSourceItemModalVisible] = useState(false);
-  const [sourceItemModalData, setSourceItemModalData] = useState<Record<
-    string,
-    unknown
-  > | null>(null);
-  const [sourceItemModalLoading, setSourceItemModalLoading] = useState(false);
-  const [sourceItemModalTitle, setSourceItemModalTitle] = useState('');
+
 
   const fetchEmaProducts = useCallback(
     (
@@ -133,11 +118,6 @@ function EmaProductsTable() {
       if (expanded) {
         setExpandedRowKeys([...expandedRowKeys, record.id]);
 
-        // Initialize view mode if not set
-        if (!expandViewMode[record.id]) {
-          setExpandViewMode({ ...expandViewMode, [record.id]: 'ema' });
-        }
-
         // Only fetch if we don't have the data already
         if (!expandedRowProducts[record.id]) {
           setExpandedRowLoading({ ...expandedRowLoading, [record.id]: true });
@@ -166,69 +146,14 @@ function EmaProductsTable() {
         setExpandedRowKeys(expandedRowKeys.filter((key) => key !== record.id));
       }
     },
-    [expandedRowKeys, expandedRowProducts, expandedRowLoading, expandViewMode]
+    [expandedRowKeys, expandedRowProducts, expandedRowLoading]
   );
 
-  const handleSourceClick = useCallback(
-    (source: string, source_code: string) => {
-      setSourceItemModalTitle(`${source} - ${source_code}`);
-      setSourceItemModalVisible(true);
-      setSourceItemModalLoading(true);
-      setSourceItemModalData(null);
-
-      api
-        .fetchSourceItem(source, source_code)
-        .then((data) => {
-          setSourceItemModalData(data);
-          setSourceItemModalLoading(false);
-        })
-        .catch((error) => {
-          console.error('Error loading source item:', error);
-          setSourceItemModalLoading(false);
-        });
-    },
-    []
-  );
 
   const expandedRowRender = useCallback(
     (record: EmaAuthorizedProductGroup) => {
       const loading = expandedRowLoading[record.id];
       const products = expandedRowProducts[record.id] || [];
-      const viewMode = expandViewMode[record.id] || 'ema';
-      const marketAuthLoading = expandedRowMarketAuthLoading[record.id];
-      const marketAuthorizations = expandedRowMarketAuth[record.id] || [];
-
-      const handleViewModeChange = (value: 'ema' | 'countries') => {
-        setExpandViewMode({ ...expandViewMode, [record.id]: value });
-
-        // Fetch market authorizations if switching to countries view and not already loaded
-        if (value === 'countries' && !expandedRowMarketAuth[record.id]) {
-          setExpandedRowMarketAuthLoading({
-            ...expandedRowMarketAuthLoading,
-            [record.id]: true
-          });
-
-          api
-            .fetchMarketAuthorizations(record.id)
-            .then((authorizations) => {
-              setExpandedRowMarketAuth({
-                ...expandedRowMarketAuth,
-                [record.id]: authorizations
-              });
-              setExpandedRowMarketAuthLoading({
-                ...expandedRowMarketAuthLoading,
-                [record.id]: false
-              });
-            })
-            .catch((error) => {
-              console.error('Error loading market authorizations:', error);
-              setExpandedRowMarketAuthLoading({
-                ...expandedRowMarketAuthLoading,
-                [record.id]: false
-              });
-            });
-        }
-      };
 
       if (loading) {
         return (
@@ -316,100 +241,20 @@ function EmaProductsTable() {
         }
       ];
 
-      // Define market authorizations columns for countries view
-      const marketAuthColumns: ColumnsType<MarketAuthorization> = [
-        {
-          title: 'MA Number',
-          dataIndex: 'ma_number',
-          key: 'ma_number',
-          width: 200
-        },
-        {
-          title: 'Countries',
-          dataIndex: 'items',
-          key: 'items',
-          render: (items: MarketAuthorization['items']) => {
-            if (!items || items.length === 0) return 'N/A';
-            return (
-              <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px' }}>
-                {items.map((item, index) => (
-                  <span key={index}>
-                    <a
-                      onClick={() =>
-                        handleSourceClick(item.source, item.source_code)
-                      }
-                      style={{ cursor: 'pointer', color: '#01452c' }}
-                    >
-                      {item.source}
-                    </a>
-                    {index < items.length - 1 && ', '}
-                  </span>
-                ))}
-              </div>
-            );
-          }
-        }
-      ];
-
       return (
         <div style={{ padding: '0 20px 20px 20px' }}>
-          <div
-            style={{
-              marginBottom: '16px',
-              display: 'flex',
-              alignItems: 'center',
-              gap: '12px'
-            }}
-          >
-            <span style={{ fontWeight: 500 }}>View:</span>
-            <Select
-              value={viewMode}
-              onChange={handleViewModeChange}
-              style={{ width: 150 }}
-              options={[
-                { value: 'ema', label: 'EMA' },
-                { value: 'countries', label: 'Countries' }
-              ]}
-            />
-          </div>
-          {viewMode === 'ema' ? (
-            <Table
-              columns={productColumns}
-              dataSource={products}
-              rowKey="id"
-              pagination={false}
-              size="small"
-              bordered
-            />
-          ) : marketAuthLoading ? (
-            <div style={{ textAlign: 'center', padding: '20px' }}>
-              <Spin />
-            </div>
-          ) : marketAuthorizations.length === 0 ? (
-            <div style={{ padding: '20px', color: '#999' }}>
-              No market authorizations found for this group
-            </div>
-          ) : (
-            <Table
-              columns={marketAuthColumns}
-              dataSource={marketAuthorizations}
-              rowKey="ma_number"
-              pagination={false}
-              size="small"
-              bordered
-            />
-          )}
+          <Table
+            columns={productColumns}
+            dataSource={products}
+            rowKey="id"
+            pagination={false}
+            size="small"
+            bordered
+          />
         </div>
       );
     },
-    [
-      expandedRowLoading,
-      expandedRowProducts,
-      expandViewMode,
-      expandedRowMarketAuth,
-      expandedRowMarketAuthLoading,
-      handleSourceClick
-    ]
+    [expandedRowLoading, expandedRowProducts]
   );
 
   const columns: ColumnsType<EmaAuthorizedProductGroup> = [
@@ -442,7 +287,7 @@ function EmaProductsTable() {
         if (!brands || brands.length === 0) return 'N/A';
         return (
           <div>
-            {brands.map((brand, index) => (
+            {brands.map((_brand, index) => (
               <div
                 key={index}
                 style={{
@@ -635,85 +480,6 @@ function EmaProductsTable() {
         }}
       />
 
-      <Modal
-        title={sourceItemModalTitle}
-        open={sourceItemModalVisible}
-        onCancel={() => setSourceItemModalVisible(false)}
-        footer={[
-          <Button
-            key="close"
-            onClick={() => setSourceItemModalVisible(false)}
-          >
-            Close
-          </Button>
-        ]}
-        width={900}
-      >
-        {sourceItemModalLoading ? (
-          <div style={{ textAlign: 'center', padding: '40px' }}>
-            <Spin size="large" />
-          </div>
-        ) : sourceItemModalData ? (
-          <div style={{ maxHeight: '600px', overflowY: 'auto' }}>
-            <div
-              style={{
-                display: 'grid',
-                gridTemplateColumns: '200px 1fr',
-                gap: '12px 24px',
-                padding: '8px 0'
-              }}
-            >
-              {Object.entries(sourceItemModalData)
-                .filter(
-                  ([_, value]) =>
-                    value !== null && value !== undefined && value !== ''
-                )
-                .sort(([keyA], [keyB]) => keyA.localeCompare(keyB))
-                .map(([key, value]) => (
-                  <div
-                    key={key}
-                    style={{
-                      display: 'contents'
-                    }}
-                  >
-                    <div
-                      style={{
-                        fontWeight: 600,
-                        color: '#333',
-                        paddingTop: '8px',
-                        textAlign: 'right',
-                        borderBottom: '1px solid #f0f0f0',
-                        paddingBottom: '8px'
-                      }}
-                    >
-                      {key
-                        .replace(/_/g, ' ')
-                        .replace(/\b\w/g, (l) => l.toUpperCase())}
-                      :
-                    </div>
-                    <div
-                      style={{
-                        paddingTop: '8px',
-                        color: '#595959',
-                        borderBottom: '1px solid #f0f0f0',
-                        paddingBottom: '8px',
-                        wordBreak: 'break-word'
-                      }}
-                    >
-                      {typeof value === 'object'
-                        ? JSON.stringify(value, null, 2)
-                        : String(value)}
-                    </div>
-                  </div>
-                ))}
-            </div>
-          </div>
-        ) : (
-          <div style={{ padding: '20px', color: '#999', textAlign: 'center' }}>
-            No data available
-          </div>
-        )}
-      </Modal>
     </div>
   );
 }
