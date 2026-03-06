@@ -1,4 +1,4 @@
-# Art57 - EMA Authorized Products
+# EMA Authorized Products UI
 
 A standalone web application for browsing and searching European Medicines Agency (EMA) authorized medicinal products mapped to RxNorm codes. This project provides a public-facing interface to explore the [ema-authorised-to-rxnorm-mappings](https://github.com/mi-erasmusmc/ema-authorised-to-rxnorm-mappings) dataset.
 

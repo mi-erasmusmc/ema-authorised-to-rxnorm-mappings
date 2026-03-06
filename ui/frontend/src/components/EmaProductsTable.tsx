@@ -412,7 +412,6 @@ function EmaProductsTable() {
             color: '#01452c'
           }}
         >
-          EMA Authorized Products
         </h1>
       </div>
 

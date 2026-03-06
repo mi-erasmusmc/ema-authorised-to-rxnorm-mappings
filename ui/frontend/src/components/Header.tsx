@@ -127,7 +127,7 @@ function Art57Header() {
           }}
         >
           <MenuOutlined style={{ marginRight: '0.5em', fontSize: '23px' }} />
-          Art57
+          EMA Authorized Products
         </div>
         <img
           onClick={() => setModalOpen(true)}
@@ -172,7 +172,7 @@ function Art57Header() {
 
       <Modal
         style={{ fontFamily: 'GFS Neohellenic', color: '#01452c' }}
-        title="About Art57"
+        title="About EMA Authorized Products"
         centered
         open={modalOpen}
         closable={true}
