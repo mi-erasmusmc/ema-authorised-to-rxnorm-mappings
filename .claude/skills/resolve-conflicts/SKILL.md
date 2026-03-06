@@ -18,7 +18,7 @@ Refer to the `find-concepts` skill for searching RxNorm concepts, and the `map-d
 ## Step 1: Find Conflicts
 
 ```bash
-python3 skills/resolve-conflicts/scripts/find_conflicts.py [limit]
+python3 .claude/skills/resolve-conflicts/scripts/find_conflicts.py [limit]
 ```
 
 - With no arguments: prints all conflicting EMA folders
@@ -108,5 +108,5 @@ This rebuilds both `ema-to-rxnorm.tsv` and `latvia-to-rxnorm.tsv` from individua
 Re-run the conflict finder to confirm the conflict count decreased:
 
 ```bash
-python3 skills/resolve-conflicts/scripts/find_conflicts.py
+python3 .claude/skills/resolve-conflicts/scripts/find_conflicts.py
 ```

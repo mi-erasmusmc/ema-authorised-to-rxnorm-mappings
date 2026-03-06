@@ -82,7 +82,7 @@ See source-specific skills (`map-ema-drugs`, `map-latvia-drugs`) for the exact I
 After creating or editing any `mapping.tsv`, validate it:
 
 ```bash
-python3 skills/map-drugs/validate_mapping.py <path_to_mapping.tsv>
+python3 .claude/skills/map-drugs/validate_mapping.py <path_to_mapping.tsv>
 ```
 
 This checks header columns, date format, concept_id type, and mapping_type values.
@@ -90,7 +90,7 @@ This checks header columns, date format, concept_id type, and mapping_type value
 ## Biosimilars
 
 ### Reference Data
-Check `skills/map-drugs/biosimilars/` for per-INN reference files listing known biosimilars with FDA names and EU equivalents.
+Check `.claude/skills/map-drugs/biosimilars/` for per-INN reference files listing known biosimilars with FDA names and EU equivalents.
 
 ### Search Strategy
 Run **all** of these queries:

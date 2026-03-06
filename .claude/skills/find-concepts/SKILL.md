@@ -14,7 +14,7 @@ When you need to find RxNorm concepts for a drug product during mapping. This is
 ## Usage
 
 ```
-python3 skills/find-concepts/scripts/find_concepts.py <query1> [query2] ...
+python3 .claude/skills/find-concepts/scripts/find_concepts.py <query1> [query2] ...
 ```
 
 Each query argument is searched independently. Results are deduplicated and returned as TSV.
@@ -35,7 +35,7 @@ Pay attention to these dose form definitions as they are important for selecting
 Cast a broad net with multiple queries of decreasing specificity:
 
 ```
-python3 skills/find-concepts/scripts/find_concepts.py \
+python3 .claude/skills/find-concepts/scripts/find_concepts.py \
   "vildagliptin 50 mg oral tablet [Xiliarx]" \
   "vildagliptin 50 mg" \
   "vildagliptin oral tablet"
@@ -43,7 +43,7 @@ python3 skills/find-concepts/scripts/find_concepts.py \
 
 For combination products:
 ```
-python3 skills/find-concepts/scripts/find_concepts.py \
+python3 .claude/skills/find-concepts/scripts/find_concepts.py \
   "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet" \
   "emtricitabine / tenofovir oral tablet"
 ```
@@ -53,7 +53,7 @@ python3 skills/find-concepts/scripts/find_concepts.py \
 When standard RxNorm search does not return a suitable EXACT match, retry with the `--extension` flag:
 
 ```
-python3 skills/find-concepts/scripts/find_concepts.py --extension \
+python3 .claude/skills/find-concepts/scripts/find_concepts.py --extension \
   "vildagliptin 50 mg oral tablet"
 ```
 

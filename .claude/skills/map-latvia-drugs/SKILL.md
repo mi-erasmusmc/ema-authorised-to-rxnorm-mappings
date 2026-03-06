@@ -34,12 +34,12 @@ Create `mapping.tsv` in the product folder following the schema in the `map-drug
 3. **Only check the SmPC link** if `data_*.tsv` does not provide enough detail to make an informed mapping decision (e.g., ambiguous dose form, unclear concentration basis)
 4. **Search broadly** using the `find-concepts` skill:
    ```
-   python3 skills/find-concepts/scripts/find_concepts.py "warfarin sodium 3 MG Oral Tablet" "warfarin 3 mg" "warfarin oral tablet"
+   python3 .claude/skills/find-concepts/scripts/find_concepts.py "warfarin sodium 3 MG Oral Tablet" "warfarin 3 mg" "warfarin oral tablet"
    ```
 5. **Verify the match** - confirm ingredient and strength match exactly
 6. **Validate** the mapping:
    ```
-   python3 skills/map-drugs/validate_mapping.py data/latvia/products/<substance>/<product>/mapping.tsv
+   python3 .claude/skills/map-drugs/validate_mapping.py data/latvia/products/<substance>/<product>/mapping.tsv
    ```
 7. **Regenerate combined files** after all mappings are complete:
    ```

@@ -40,7 +40,7 @@ When asked to parse an EMA product PDF, extract packaging data from a product fo
 When asked to fetch, download, or update EMA data, run a single command:
 
 ```bash
-python3 skills/process-ema-data/scripts/fetch_ema_updates.py
+python3 .claude/skills/process-ema-data/scripts/fetch_ema_updates.py
 ```
 
 This automatically:
@@ -50,7 +50,7 @@ This automatically:
 
 To override the auto-detected date cutoff:
 ```bash
-python3 skills/process-ema-data/scripts/fetch_ema_updates.py --since YYYY-MM-DD
+python3 .claude/skills/process-ema-data/scripts/fetch_ema_updates.py --since YYYY-MM-DD
 ```
 
 After fetching, proceed to parse the new PDFs using the steps below.
@@ -100,7 +100,7 @@ To parse multiple products efficiently using subagents:
 
 1. **Generate the batch prompt:**
    ```bash
-   python3 skills/process-ema-data/scripts/prepare_parse_batch.py 000476 006208 006322
+   python3 .claude/skills/process-ema-data/scripts/prepare_parse_batch.py 000476 006208 006322
    ```
    This outputs a self-contained prompt with PDF paths, output paths, TSV header, column mappings, and product metadata. Products with no PDF are marked SKIP.
 
@@ -112,12 +112,12 @@ To parse multiple products efficiently using subagents:
 
 ## Scripts
 
-All scripts are located in `skills/process-ema-data/scripts/` and should be invoked with this full path from the workspace root:
+All scripts are located in `.claude/skills/process-ema-data/scripts/` and should be invoked with this full path from the workspace root:
 
-- **`skills/process-ema-data/scripts/fetch_ema_updates.py`** - One-command wrapper: detects latest date, downloads updates, generates metadata
-- **`skills/process-ema-data/scripts/download_ema_presentation_files.py`** - Downloads the EMA medicines report and Authorised Presentations PDFs
-- **`skills/process-ema-data/scripts/generate_ema_info.py`** - Generates `ema-info.txt` metadata files from `medicines_report.tsv`
-- **`skills/process-ema-data/scripts/prepare_parse_batch.py`** - Generates a batch parsing prompt for multiple products (eliminates per-product filesystem exploration)
+- **`.claude/skills/process-ema-data/scripts/fetch_ema_updates.py`** - One-command wrapper: detects latest date, downloads updates, generates metadata
+- **`.claude/skills/process-ema-data/scripts/download_ema_presentation_files.py`** - Downloads the EMA medicines report and Authorised Presentations PDFs
+- **`.claude/skills/process-ema-data/scripts/generate_ema_info.py`** - Generates `ema-info.txt` metadata files from `medicines_report.tsv`
+- **`.claude/skills/process-ema-data/scripts/prepare_parse_batch.py`** - Generates a batch parsing prompt for multiple products (eliminates per-product filesystem exploration)
 - **`scripts/generate_mapping_overviews.py ema`** - Regenerates `ema-to-rxnorm.tsv` from per-product data (generic script, not skill-specific)
-- **`skills/process-ema-data/scripts/find_missing_files.py`** - Audits product folders for missing files
-- **`skills/process-ema-data/scripts/list_pdfs_by_date.py`** - Lists PDFs sorted by date
+- **`.claude/skills/process-ema-data/scripts/find_missing_files.py`** - Audits product folders for missing files
+- **`.claude/skills/process-ema-data/scripts/list_pdfs_by_date.py`** - Lists PDFs sorted by date

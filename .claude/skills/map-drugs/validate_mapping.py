@@ -2,7 +2,7 @@
 """Validate mapping.tsv files for correct structure and data types.
 
 Usage:
-    python3 skills/map-ema-drugs/validate_mapping.py <path_to_mapping.tsv> [...]
+    python3 .claude/skills/map-drugs/validate_mapping.py <path_to_mapping.tsv> [...]
 
 Validates:
 - last_updated_date is YYYY-MM-DD formatted and not null

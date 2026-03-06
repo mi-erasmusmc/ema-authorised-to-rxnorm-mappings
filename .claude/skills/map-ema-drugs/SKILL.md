@@ -16,7 +16,7 @@ When asked to map an EMA product to RxNorm, or create/review a `mapping.tsv` in 
 To list all product folders that have parsed data but no `mapping.tsv`:
 
 ```bash
-python3 skills/map-ema-drugs/find_unmapped.py
+python3 .claude/skills/map-ema-drugs/find_unmapped.py
 ```
 
 This prints folder names (one per line) that need mapping. Use it to find the next product to work on.
@@ -50,7 +50,7 @@ If `ema-info.txt` contains `Biosimilar: Yes`, follow the biosimilar mapping rule
 After creating or editing `mapping.tsv`, validate it:
 
 ```bash
-python3 skills/map-drugs/validate_mapping.py data/ema/products/<ema_number>/mapping.tsv
+python3 .claude/skills/map-drugs/validate_mapping.py data/ema/products/<ema_number>/mapping.tsv
 ```
 
 Fix any errors, then **regenerate combined files**:

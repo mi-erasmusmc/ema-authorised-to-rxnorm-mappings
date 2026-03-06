@@ -19,7 +19,7 @@ def _gitroot():
 
 
 GIT_ROOT = _gitroot()
-SKILL_DIR = os.path.join(GIT_ROOT, "skills", "map-drugs")
+SKILL_DIR = os.path.join(GIT_ROOT, ".claude", "skills", "map-drugs")
 
 
 def load_dose_form_lookup():
