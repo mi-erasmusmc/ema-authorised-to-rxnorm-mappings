@@ -8,5 +8,5 @@ ATC code (human): L01XE13
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Giotrif as monotherapy is indicated for the treatment of  Epidermal Growth Factor Receptor (EGFR) TKI-naïve adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with activating EGFR mutation(s); locally advanced or metastatic NSCLC of squamous histology progressing on or after platinum-based chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/giotrif

@@ -8,5 +8,5 @@ ATC code (human): L01AB01
 Pharmacotherapeutic group (human): Alkyl sulfonates
 Therapeutic indication: Busulfan Fresenius Kabi followed by cyclophosphamide (BuCy2) is indicated as conditioning treatment prior to conventional haematopoietic progenitor cell transplantation (HPCT) in adult patients when the combination is considered the best available option. Busulfan Fresenius Kabi followed by cyclophosphamide (BuCy4) or melphalan (BuMel) is indicated as conditioning treatment prior to conventional haematopoietic progenitor cell transplantation in paediatric patients.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/busulfan-fresenius-kabi

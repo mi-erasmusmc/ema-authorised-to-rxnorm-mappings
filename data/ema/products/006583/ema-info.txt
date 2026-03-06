@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006583
+Name of medicine: Poherdy
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: pertuzumab
+Active substance: pertuzumab
+Therapeutic area (MeSH): Breast Neoplasms
+ATC code (human): L01FD02
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of breast cancer in adults.
+Biosimilar: Yes
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/poherdy

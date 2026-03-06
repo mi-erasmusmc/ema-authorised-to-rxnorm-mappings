@@ -8,5 +8,5 @@ ATC code (human): L01XX63
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Daurismo is indicated, in combination with low-dose cytarabine, for the treatment of newly diagnosed de novo or secondary acute myeloid leukaemia (AML) in adult patients who are not candidates for standard induction chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/daurismo

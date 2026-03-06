@@ -8,5 +8,5 @@ ATC code (human): L01DB11
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Pixuvri is indicated as monotherapy for the treatment of adult patients with multiply relapsed or refractory aggressive non-Hodgkin B-cell lymphomas (NHL). The benefit of pixantrone treatment has not been established in patients when used as fifth-line or greater chemotherapy in patients who are refractory to last therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pixuvri

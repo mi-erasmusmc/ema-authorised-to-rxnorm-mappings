@@ -8,5 +8,5 @@ ATC code (human): J07BX
 Pharmacotherapeutic group (human): Other viral vaccines
 Therapeutic indication: Active immunisation against smallpox, monkeypox and disease caused by vaccinia virus in individuals 12 years of age and older (see sections 4.4 and 5.1).The use of this vaccine should be in accordance with official recommendations.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/imvanex

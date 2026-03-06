@@ -8,5 +8,5 @@ ATC code (human): J05AP07
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Daklinza is indicated in combination with other medicinal products for the treatment of chronic hepatitis C virus (HCV) infection in adults (see sections 4.2, 4.4 and 5.1). For HCV genotype specific activity, see sections 4.4 and 5.1.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/daklinza

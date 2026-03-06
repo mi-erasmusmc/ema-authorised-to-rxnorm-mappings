@@ -8,5 +8,5 @@ ATC code (human): C01BD07
 Pharmacotherapeutic group (human): Cardiac therapy
 Therapeutic indication: Multaq is indicated for the maintenance of sinus rhythm after successful cardioversion in adult clinically stable patients with paroxysmal or persistent atrial fibrillation (AF). Due to its safety profile, Multaq should only be prescribed after alternative treatment options have been considered. Multaq should not be given to patients with left ventricular systolic dysfunction or to patients with current or previous episodes of heart failure.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/multaq

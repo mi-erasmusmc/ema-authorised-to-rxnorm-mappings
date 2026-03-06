@@ -8,5 +8,5 @@ ATC code (human): G02CX06
 Pharmacotherapeutic group (human): Other gynecologicals
 Therapeutic indication: Veoza is indicated for the treatment of moderate to severe vasomotor symptoms (VMS) associated with menopause.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/veoza

@@ -8,5 +8,5 @@ ATC code (human): L01BB06
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Treatment of acute lymphoblastic leukaemia (ALL) in paediatric patients who have relapsed or are refractory after receiving at least two prior regimens and where there is no other treatment option anticipated to result in a durable response. Safety and efficacy have been assessed in studies of patients ? 21 years old at initial diagnosis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evoltra

@@ -8,5 +8,5 @@ ATC code (human): L01XD01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Photodynamic therapy (PDT) with PhotoBarr is indicated for:   Ablation of high-grade dysplasia (HGD) in patients with Barrett's Oesophagus (BO)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/photobarr

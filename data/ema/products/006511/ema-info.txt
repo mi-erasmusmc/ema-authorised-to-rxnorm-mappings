@@ -8,5 +8,5 @@ ATC code (human): L01FX15
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Blenrep is indicated in adults for the treatment of relapsed or refractory multiple myeloma: in combination with bortezomib and dexamethasone in patients who have received at least one prior therapy; and in combination with pomalidomide and dexamethasone in patients who have received at least one prior therapy including lenalidomide.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/blenrep

@@ -8,5 +8,5 @@ ATC code (human): H05BX01
 Pharmacotherapeutic group (human): Calcium homeostasis
 Therapeutic indication: Treatment of secondary hyperparathyroidism (HPT) in patients with end-stage renal disease (ESRD) on maintenance dialysis therapy. Mimpara may be used as part of a therapeutic regimen including phosphate binders and/or Vitamin D sterols, as appropriate (see section 5.1). Reduction of hypercalcaemia in patients with:  parathyroid carcinoma. primary HPT for whom parathyroidectomy would be indicated on the basis of serum calciumlevels (as defined by relevant treatment guidelines), but in whom parathyroidectomy is not clinically appropriate or is contraindicated.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/parareg

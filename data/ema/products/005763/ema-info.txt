@@ -8,5 +8,5 @@ ATC code (human): B06AX05
 Pharmacotherapeutic group (human): Other hematological agents
 Therapeutic indication: β thalassemia Casgevy is indicated for the treatment of transfusion dependent β thalassemia (TDT) in patients 12 years of age and older for whom haematopoietic stem cell (HSC) transplantation is appropriate and a human leukocyte antigen (HLA) matched related HSC donor is not available. Sickle cell disease Casgevy is indicated for the treatment of severe sickle cell disease (SCD) in patients 12 years of age and older with recurrent vaso occlusive crises (VOCs) for whom haematopoietic stem cell (HSC) transplantation is appropriate and a human leukocyte antigen (HLA) matched related HSC donor is not available.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/casgevy

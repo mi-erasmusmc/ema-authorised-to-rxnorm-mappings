@@ -8,5 +8,5 @@ ATC code (human): J07CA
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: This combined vaccine is indicated for primary and booster vaccination of children against diphtheria, tetanus, pertussis, hepatitis B caused by all known subtypes of viruses, poliomyelitis and invasive infections caused by Haemophilus influenzae type b.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hexavac

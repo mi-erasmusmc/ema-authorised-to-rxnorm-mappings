@@ -8,5 +8,5 @@ ATC code (human): B02BD13
 Pharmacotherapeutic group (human): Vitamin K and other hemostatics;Antihemorrhagics;coagulation factor X
 Therapeutic indication: Coagadex is indicated for the treatment and prophylaxis of bleeding episodes and for perioperative management in patients with hereditary factor X deficiency. Coagadex is indicated in all age groups.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/coagadex

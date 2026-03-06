@@ -8,5 +8,5 @@ ATC code (human): V03AB
 Pharmacotherapeutic group (human): All other therapeutic products
 Therapeutic indication: For adult patients treated with a direct factor Xa (FXa) inhibitor (apixaban or rivaroxaban) when reversal of anticoagulation is needed due to life-threatening or uncontrolled bleeding.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ondexxya

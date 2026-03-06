@@ -8,5 +8,5 @@ ATC code (human): L01EX01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Gastrointestinal stromal tumour (GIST) Sunitinib Accord is indicated for the treatment of unresectable and/or metastatic malignant gastrointestinal stromal tumour (GIST) in adults after failure of imatinib treatment due to resistance or intolerance. Metastatic renal cell carcinoma (MRCC) Sunitinib Accord is indicated for the treatment of advanced/metastatic renal cell carcinoma (MRCC) in adults. Pancreatic neuroendocrine tumours (pNET) Sunitinib Accord is indicated for the treatment of unresectable or metastatic, well-differentiated pancreatic neuroendocrine tumours (pNET) with disease progression in adults.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sunitinib-accord

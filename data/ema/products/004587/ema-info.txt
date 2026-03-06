@@ -8,5 +8,5 @@ ATC code (human): M03AX01
 Pharmacotherapeutic group (human): Other muscle relaxants, peripherally acting agents
 Therapeutic indication: Temporary improvement in the appearance of moderate to severe vertical lines between the eyebrows seen at maximum frown (glabellar lines), when the severity of the above facial lines has an important psychological impact in adults below 65 years of age.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nuceiva

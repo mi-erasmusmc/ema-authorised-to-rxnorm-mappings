@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006140
+Name of medicine: Ojemda
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: tovorafenib
+Active substance: tovorafenib
+Therapeutic area (MeSH): Glioma
+ATC code (human): L01EC
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of paediatric low-grade glioma (LGG).
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ojemda

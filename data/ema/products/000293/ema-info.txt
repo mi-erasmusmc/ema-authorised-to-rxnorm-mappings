@@ -8,5 +8,5 @@ ATC code (human): M05BC02
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases;Bone morphogenetic proteins
 Therapeutic indication: Treatment of nonunion of tibia of at least 9 month duration, secondary to trauma, in skeletally mature patients, in cases where previous treatment with autograft has failed or use of autograft is unfeasible.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/osigraft

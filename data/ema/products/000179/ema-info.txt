@@ -8,5 +8,5 @@ ATC code (human): D06BB10
 Pharmacotherapeutic group (human): Antibiotics and chemotherapeutics for dermatological use
 Therapeutic indication: Imiquimod cream is indicated for the topical treatment of :  External genital and perianal warts (condylomata acuminata) in adults. Small superficial basal cell carcinomas (sBCCs) in adults. Clinically typical, nonhyperkeratotic, nonhypertrophic actinic keratoses (AKs) on the face or scalp in immunocompetent adult patients when size or number of lesions limit the efficacy and/or acceptability of cryotherapy and other topical treatment options are contraindicated or less appropriate.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aldara

@@ -8,5 +8,5 @@ ATC code (human): L01EM04
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Copiktra monotherapy is indicated for the treatment of adult patients with:   Relapsed or refractory chronic lymphocytic leukaemia (CLL) after at least two prior therapies.  Follicular lymphoma (FL) that is refractory to at least two prior  systemic therapies.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/copiktra

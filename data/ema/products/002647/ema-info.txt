@@ -8,5 +8,5 @@ ATC code (human): A10AE56
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Xultophy is indicated for the treatment of adults with type-2 diabetes mellitus to improve glycaemic control in combination with oral glucose-lowering medicinal products when these alone or combined with a GLP-1 receptor agonist or basal insulin do not provide adequate glycaemic control.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xultophy

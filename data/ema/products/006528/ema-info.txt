@@ -8,5 +8,5 @@ ATC code (human): S01LA04
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Treatment of neovascular (wet) age-related macular degeneration (AMD), visual impairment due to diabetic macular oedema (DME), proliferative diabetic retinopathy (PDR), visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO) and visual impairment due to choroidal neovascularisation (CNV).
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/epruvy

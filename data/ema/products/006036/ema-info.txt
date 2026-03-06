@@ -8,5 +8,5 @@ ATC code (human): L04AJ01
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Epysqli is indicated in adults and children for the treatment of:- Paroxysmal nocturnal haemoglobinuria (PNH).Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical symptom(s) indicative of high disease activity, regardless of transfusion history.- Atypical haemolytic uremic syndrome (aHUS).
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/epysqli

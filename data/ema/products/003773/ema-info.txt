@@ -8,5 +8,5 @@ ATC code (human): B01
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Kengrexal, co-administered with acetylsalicylic acid (ASA), is indicated for the reduction of thrombotic cardiovascular events in adult patients with coronary artery disease undergoing percutaneous coronary intervention (PCI) who have not received an oral P2Y12 inhibitor prior to the PCI procedure and in whom oral therapy with P2Y12 inhibitors is not feasible or desirable.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kengrexal

@@ -8,5 +8,5 @@ ATC code (human): L01EN01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Balversa as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic urothelial carcinoma (UC), harbouring susceptible FGFR3 genetic alterations who have previously received at least one line of therapy containing a PD-1 or PD-L1 inhibitor in the unresectable or metastatic treatment setting (see section 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/balversa

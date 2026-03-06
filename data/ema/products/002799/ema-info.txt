@@ -8,5 +8,5 @@ ATC code (human): L01FA03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Chronic lymphocytic leukaemia (CLL)&nbsp;Gazyvaro in combination with chlorambucil is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) and with comorbidities making them unsuitable for full-dose fludarabine based therapy.&nbsp;&nbsp;Follicular Lymphoma (FL)&nbsp;&nbsp;Gazyvaro in combination with chemotherapy, followed by Gazyvaro maintenance therapy in patients achieving a response, is indicated for the treatment of patients with previously untreated advanced follicular lymphoma.&nbsp;&nbsp;&nbsp;Gazyvaro in combination with bendamustine followed by Gazyvaro maintenance is indicated for the treatment of patients with follicular lymphoma (FL) who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen.&nbsp;&nbsp;Lupus nephritis (LN)&nbsp;Gazyvaro in combination with mycophenolate mofetil (MMF) is indicated for the treatment of adult patients with active Class III or IV, with or without concomitant Class V, lupus nephritis (LN).&nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gazyvaro

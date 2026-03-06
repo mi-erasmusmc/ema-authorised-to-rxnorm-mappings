@@ -8,5 +8,5 @@ ATC code (human): L01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Treatment of adult patients with prostate cancer.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/akeega

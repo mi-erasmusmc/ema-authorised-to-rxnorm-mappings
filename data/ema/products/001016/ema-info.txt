@@ -8,5 +8,5 @@ ATC code (human): L01XE02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Iressa is indicated for the treatment of adult patients with locally advanced or metastatic non-small-cell lung cancer with activating mutations of epidermal-growth-factor-receptor tyrosine kinase.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/iressa

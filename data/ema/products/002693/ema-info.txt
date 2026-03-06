@@ -8,5 +8,5 @@ ATC code (human): N01BB20
 Pharmacotherapeutic group (human): Anesthetics
 Therapeutic indication: Treatment of primary premature ejaculation in adult men.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fortacin

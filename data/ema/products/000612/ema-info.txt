@@ -8,5 +8,5 @@ ATC code (human): N02AB03
 Pharmacotherapeutic group (human): Analgesics
 Therapeutic indication: Management of acute moderate to severe post-operative pain for use in a hospital setting only
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ionsys-0

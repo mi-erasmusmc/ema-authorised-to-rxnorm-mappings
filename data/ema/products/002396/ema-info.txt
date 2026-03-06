@@ -8,5 +8,5 @@ ATC code (human): N04B
 Pharmacotherapeutic group (human): Anti-Parkinson drugs
 Therapeutic indication: Xadago is indicated for the treatment of adult patients with idiopathic Parkinson’s disease (PD) as add-on therapy to a stable dose of Levodopa (L-dopa) alone or in combination with other PD medicinal products in mid-to late-stage fluctuating patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xadago

@@ -8,5 +8,5 @@ ATC code (human): A10AE54
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Suliqua is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus to improve glycaemic control as an adjunct to diet and exercise in addition to metformin with or without SGLT-2 inhibitors.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/suliqua

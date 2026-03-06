@@ -8,5 +8,5 @@ ATC code (human): L03AX11
 Pharmacotherapeutic group (human): Immunostimulants
 Therapeutic indication: Beromun is indicated in adults as an adjunct to surgery for subsequent removal of the tumour so as to prevent or delay amputation, or in the palliative situation, for irresectable soft-tissue sarcoma of the limbs, used in combination with melphalan via mild hyperthermic isolated-limb perfusion (ILP).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/beromun

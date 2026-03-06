@@ -8,5 +8,5 @@ ATC code (human): R05CB16
 Pharmacotherapeutic group (human): Cough and cold preparations
 Therapeutic indication: Bronchitol is indicated for the treatment of cystic fibrosis (CF) in adults aged 18 years and above as an add-on therapy to best standard of care.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bronchitol

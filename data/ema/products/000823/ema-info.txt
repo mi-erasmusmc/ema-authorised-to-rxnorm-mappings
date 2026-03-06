@@ -8,5 +8,5 @@ ATC code (human): L04AX02
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Thalidomide BMS in combination with melphalan and prednisone as first line treatment of patients with untreated multiple myeloma, aged &gt;/= 65 years or ineligible for high dose chemotherapy. Thalidomide BMS is prescribed and dispensed according to the Thalidomide Celgene Pregnancy Prevention Programme (see section 4.4).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/thalidomide-bms

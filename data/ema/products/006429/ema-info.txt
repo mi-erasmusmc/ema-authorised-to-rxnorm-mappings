@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006429
+Name of medicine: Onerji
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: levodopa;carbidopa
+Active substance: levodopa;carbidopa
+Therapeutic area (MeSH): Parkinson Disease
+ATC code (human): N04BA02
+Pharmacotherapeutic group (human): Anti-Parkinson drugs
+Therapeutic indication: Treatment of motor fluctuations in patients with Parkinson’s disease.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/onerji

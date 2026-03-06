@@ -8,5 +8,5 @@ ATC code (human): L01EA02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Dasatinib Accord is indicated for the treatment of adult patients with: • Ph+ acute lymphoblastic leukaemia (ALL) with resistance or intolerance to prior therapy. Dasatinib Accord is indicated for the treatment of paediatric patients with: • newly diagnosed Ph+ ALL in combination with chemotherapy.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dasatinib-accord

@@ -8,5 +8,5 @@ ATC code (human): L01BC08
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Treatment of adult patients with newly diagnosed de novo or secondary acute myeloid leukaemia (AML), according to the World Health Organization (WHO) classification, who are not candidates for standard induction chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dacogen

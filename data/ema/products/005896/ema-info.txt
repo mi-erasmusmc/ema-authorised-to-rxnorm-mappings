@@ -8,5 +8,5 @@ ATC code (human):
 Pharmacotherapeutic group (human): 
 Therapeutic indication: Hyftor is indicated for the treatment of facial angiofibroma associated with tuberous sclerosis complex in adults and paediatric patients aged 6 years and older.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hyftor

@@ -8,5 +8,5 @@ ATC code (human): H01AC08
 Pharmacotherapeutic group (human): PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES
 Therapeutic indication: Indicated for the long-term treatment of paediatric patients with growth disturbance due to insufficient secretion of growth hormone
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ngenla

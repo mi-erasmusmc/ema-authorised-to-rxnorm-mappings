@@ -8,5 +8,5 @@ ATC code (human): L01FX22
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Zynlonta as monotherapy is indicated for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) and high-grade B-cell lymphoma (HGBL), after two or more lines of systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zynlonta

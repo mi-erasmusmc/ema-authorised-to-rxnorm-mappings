@@ -8,5 +8,5 @@ ATC code (human): L01ED03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Adjuvant treatment of resected non small cell lung cancer (NSCLC)&nbsp;Alecensa as monotherapy is indicated as adjuvant treatment following complete tumour resection for adult patients with ALK positive NSCLC at high risk of recurrence (see section 5.1 for selection criteria).Treatment of advanced NSCLCAlecensa as monotherapy is indicated for the first line treatment of adult patients with ALK positive advanced NSCLC.Alecensa as monotherapy is indicated for the treatment of adult patients with ALK positive advanced NSCLC previously treated with crizotinib.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alecensa

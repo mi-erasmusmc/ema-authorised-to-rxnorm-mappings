@@ -8,5 +8,5 @@ ATC code (human): L01XX24
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Oncaspar is indicated as a component of antineoplastic combination therapy in acute lymphoblastic leukaemia (ALL) in paediatric patients from birth to 18 years, and adult patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/oncaspar

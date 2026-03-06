@@ -8,5 +8,5 @@ ATC code (human): L01EF02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Early breast cancerKisqali in combination with an aromatase inhibitor is indicated for the adjuvant treatment of patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative early breast cancer at high risk of recurrence (see section 5.1 for selection criteria).In pre- or perimenopausal women, or in men, the aromatase inhibitor should be combined with a luteinising hormone-releasing hormone (LHRH) agonist.Advanced or metastatic breast cancerKisqali is indicated for the treatment of women with HR-positive, HER2-negative locally advanced or metastatic breast cancer in combination with an aromatase inhibitor or fulvestrant as initial endocrine-based therapy, or in women who have received prior endocrine therapy.In pre- or perimenopausal women, the endocrine therapy should be combined with a LHRH agonist.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kisqali

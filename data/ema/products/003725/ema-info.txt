@@ -8,5 +8,5 @@ ATC code (human): L01XH03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Farydak, in combination with bortezomib and dexamethasone, is indicated for the treatment of adult patients with relapsed and/or refractory multiple myeloma who have received at least two prior regimens including bortezomib and an immunomodulatory agent. Farydak, in combination with bortezomib and dexamethasone, is indicated for the treatment of adult patients with relapsed and/or refractory multiple myeloma who have received at least two prior regimens including bortezomib and an immunomodulatory agent.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/farydak

@@ -8,5 +8,5 @@ ATC code (human): J05AR15
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: EVOTAZ is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected adults and adolescents (aged 12 years and older weighing at least 35 kg) without known mutations associated with resistance to atazanavir (see sections 4.4 and 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evotaz

@@ -8,5 +8,5 @@ ATC code (human): J07AE01
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Dukoral is indicated for active immunisation against disease caused by Vibrio cholerae serogroup O1 in adults and children from 2 years of age who will be visiting endemic/epidemic areas. The use of Dukoral should be determined on the basis of official recommendations taking into consideration the variability of epidemiology and the risk of contracting disease in different geographical areas and travelling conditions. Dukoral should not replace standard protective measures. In the event of diarrhoea measures of rehydration should be instituted.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dukoral

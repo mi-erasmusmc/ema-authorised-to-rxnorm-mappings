@@ -8,5 +8,5 @@ ATC code (human): G04BE09
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: Treatment of erectile dysfunction in adult men. Erectile dysfunction is the inability to achieve or maintain a penile erection sufficient for satisfactory sexual performance. In order for Levitra to be effective, sexual stimulation is required. Levitra is not indicated for use by women.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/levitra

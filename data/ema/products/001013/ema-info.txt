@@ -8,5 +8,5 @@ ATC code (human): A02BC02
 Pharmacotherapeutic group (human): Proton pump inhibitors
 Therapeutic indication: Short-term treatment of reflux symptoms (e.g. heartburn, acid regurgitation) in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pantozol-control

@@ -8,5 +8,5 @@ ATC code (human): L01EH03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Tukysa is indicated in combination with trastuzumab and capecitabine for the treatment of adult patients with HER2?positive locally advanced or metastatic breast cancer who have received at least 2 prior anti-HER2 treatment regimens.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tukysa

@@ -8,5 +8,5 @@ ATC code (human): R03AL04
 Pharmacotherapeutic group (human): Adrenergics in combinations with anticholinergics incl. triple combinations with corticosteroids
 Therapeutic indication: Xoterna Breezhaler is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xoterna-breezhaler

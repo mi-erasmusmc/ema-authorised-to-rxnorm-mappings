@@ -8,5 +8,5 @@ ATC code (human): L04AA21
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Treatment of adult patients with moderate to severe chronic plaque psoriasis who have failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapies including ciclosporin, methotrexate and PUVA (see section 5.1 - Clinical Efficacy).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/raptiva

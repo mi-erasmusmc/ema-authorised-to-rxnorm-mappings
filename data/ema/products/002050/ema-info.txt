@@ -8,5 +8,5 @@ ATC code (human): L01BC06
 Pharmacotherapeutic group (human): capecitabine
 Therapeutic indication: Capecitabine is indicated for the adjuvant treatment of patients following surgery of stage-III (Dukes’ stage-C) colon cancer. Capecitabine is indicated for the treatment of metastatic colorectal cancer. Capecitabine is indicated for first-line treatment of advanced gastric cancer in combination with a platinum-based regimen. Capecitabine in combination with docetaxel is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy. Previous therapy should have included an anthracycline. Capecitabine is also indicated as monotherapy for the treatment of patients with locally advanced or metastatic breast cancer after failure of taxanes and an anthracycline-containing chemotherapy regimen or for whom further anthracycline therapy is not indicated.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/capecitabine-sun

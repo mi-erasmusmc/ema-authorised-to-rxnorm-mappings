@@ -8,5 +8,5 @@ ATC code (human):
 Pharmacotherapeutic group (human): ANTINEOPLASTIC AGENTS
 Therapeutic indication: Omjjara is indicated for the treatment of disease-related splenomegaly or symptoms in adult patients with moderate to severe anaemia who have primary myelofibrosis, post polycythaemia vera myelofibrosis or post essential thrombocythaemia myelofibrosis and who are Janus Kinase (JAK) inhibitor naïve or have been treated with ruxolitinib.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/omjjara

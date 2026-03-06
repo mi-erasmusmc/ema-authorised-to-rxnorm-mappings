@@ -8,5 +8,5 @@ ATC code (human): L01EC03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: MelanomaEncorafenib in combination with binimetinib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation.Colorectal cancer (CRC)Encorafenib in combination with cetuximab is indicated for the treatment of adult patients with metastatic colorectal cancer (CRC) &nbsp;with a BRAF V600E mutation, who have received prior systemic therapy.Non-small cell lung cancer (NSCLC)Encorafenib in combination with binimetinib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600E mutation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/braftovi

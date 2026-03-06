@@ -8,5 +8,5 @@ ATC code (human): J07BC20
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Ambirix is for use in non-immune persons from one year up to and including 15 years of age for protection against hepatitis-A and hepatitis-B infection. Protection against hepatitis-B infections may not be obtained until after the second dose. Therefore:  Ambirix should be used only when there is a relatively low risk of hepatitis-B infection during the vaccination course; it is recommended that Ambirix should be administered in settings where completion of the two-dose vaccination course can be assured.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ambirix

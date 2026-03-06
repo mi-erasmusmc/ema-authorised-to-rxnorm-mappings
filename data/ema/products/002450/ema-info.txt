@@ -8,5 +8,5 @@ ATC code (human): S01XA19
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Treatment of adult patients with moderate to severe limbal stem cell deficiency (defined by the presence of superficial corneal neovascularisation in at least two corneal quadrants, with central corneal involvement, and severely impaired visual acuity), unilateral or bilateral, due to physical or chemical ocular burns. A minimum of 1-2 mm2 of undamaged limbus is required for biopsy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/holoclar

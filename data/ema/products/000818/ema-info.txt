@@ -8,5 +8,5 @@ ATC code (human): S01BC10
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Nevanac is indicated for:  prevention and treatment of postoperative pain and inflammation associated with cataract surgery; reduction in the risk of postoperative macular oedema associated with cataract surgery in diabetic patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nevanac

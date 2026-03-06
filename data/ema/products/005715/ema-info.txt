@@ -8,5 +8,5 @@ ATC code (human): L04AX02
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Thalidomide Lipomed in combination with melphalan and prednisone is indicated as first line treatment of patients with untreated multiple myeloma, aged ? 65 years or ineligible for high dose chemotherapy. Thalidomide Lipomed is prescribed and dispensed in accordance with the Thalidomide Lipomed Pregnancy Prevention Programme (see section 4.4).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/thalidomide-lipomed

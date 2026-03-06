@@ -8,5 +8,5 @@ ATC code (human): A05AA03
 Pharmacotherapeutic group (human): Bile and liver therapy
 Therapeutic indication: Cholic Acid FGK is indicated for the treatment of inborn errors of primary bile acid synthesis, in infants from one month of age for continuous lifelong treatment through adulthood, encompassing the following single enzyme defects:  sterol 27-hydroxylase (presenting as cerebrotendinous xanthomatosis, CTX) deficiency; 2- (or alpha-) methylacyl-CoA racemase (AMACR) deficiency; cholesterol 7 alpha-hydroxylase (CYP7A1) deficiency.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kolbam

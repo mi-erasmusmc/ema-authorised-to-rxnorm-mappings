@@ -8,5 +8,5 @@ ATC code (human): C10BA04
 Pharmacotherapeutic group (human): Lipid modifying agents
 Therapeutic indication: Cholib is indicated as adjunctive therapy to diet and exercise in high cardiovascular risk adult patients with mixed dyslipidaemia to reduce triglycerides and increase HDL C levels when LDL C levels are adequately controlled with the corresponding dose of simvastatin monotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cholib

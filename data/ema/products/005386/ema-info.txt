@@ -8,5 +8,5 @@ ATC code (human): L01XY
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Early breast cancer (EBC) Phesgo is indicated for use in combination with chemotherapy in:  the neoadjuvant treatment of adult patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer at high risk of recurrence the adjuvant treatment of adult patients with HER2-positive early breast cancer at high risk of recurrence  Metastatic breast cancer (MBC) Phesgo is indicated for use in combination with docetaxel in adult patients with HER2-positive metastatic or locally recurrent unresectable breast cancer, who have not received previous anti-HER2 therapy or chemotherapy for their metastatic disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/phesgo

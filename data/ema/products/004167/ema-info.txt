@@ -8,5 +8,5 @@ ATC code (human): L04AB01
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Rheumatoid arthritis; Juvenile idiopathic arthritis Psoriatic arthritis; Axial spondyloarthritis; Plaque psoriasis; Paediatric plaque psoriasis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lifmior

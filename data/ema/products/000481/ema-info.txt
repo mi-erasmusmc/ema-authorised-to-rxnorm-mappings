@@ -8,5 +8,5 @@ ATC code (human): L04AB04
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Please refer to the product information document.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/humira

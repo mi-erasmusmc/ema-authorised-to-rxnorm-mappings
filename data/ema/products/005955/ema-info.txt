@@ -8,5 +8,5 @@ ATC code (human): L04AX07
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Dimethyl fumarate Polpharma is indicated for the treatment of adult patients with relapsing remitting multiple sclerosis.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dimethyl-fumarate-polpharma

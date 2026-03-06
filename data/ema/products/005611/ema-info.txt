@@ -8,5 +8,5 @@ ATC code (human): L01XC07
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Treatment of carcinoma of the colon or rectum, breast cancer, non-small cell lung cancer, renal cell cancer, epithelial ovarian, fallopian tube or primary peritoneal cancer, and carcinoma of the cervix.
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lextemy

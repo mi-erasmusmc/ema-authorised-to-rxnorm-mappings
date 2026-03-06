@@ -8,5 +8,5 @@ ATC code (human): M04AX02
 Pharmacotherapeutic group (human): Antigout preparations
 Therapeutic indication: Krystexxa is indicated for the treatment of severe debilitating chronic tophaceous gout in adult patients who may also have erosive joint involvement and who have failed to normalize serum uric acid with xanthine oxidase inhibitors at the maximum medically appropriate dose or for whom these medicines are contraindicated.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/krystexxa

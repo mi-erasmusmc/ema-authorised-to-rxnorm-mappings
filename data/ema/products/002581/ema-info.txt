@@ -8,5 +8,5 @@ ATC code (human): G04BE10
 Pharmacotherapeutic group (human): Drugs used in erectile dysfunction
 Therapeutic indication: Treatment of erectile dysfunction in adult men. In order for Spedra to be effective, sexual stimulation is required.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spedra

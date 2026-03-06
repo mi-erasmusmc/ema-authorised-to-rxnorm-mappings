@@ -8,5 +8,5 @@ ATC code (human): A04AD
 Pharmacotherapeutic group (human): Antiemetics and antinauseants
 Therapeutic indication: Prevention of delayed nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults.Varuby is given as part of combination therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/varuby

@@ -8,5 +8,5 @@ ATC code (human): V03AE10
 Pharmacotherapeutic group (human): All other therapeutic products
 Therapeutic indication: Lokelma is indicated for the treatment of hyperkalaemia in adult patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lokelma

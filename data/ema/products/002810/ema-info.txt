@@ -8,5 +8,5 @@ ATC code (human): A06AH03
 Pharmacotherapeutic group (human): Peripheral opioid receptor antagonists;Drugs for constipation
 Therapeutic indication: Treatment of opioid-induced constipation (OIC) in adult patients who have had an inadequate response to laxative(s).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/moventig

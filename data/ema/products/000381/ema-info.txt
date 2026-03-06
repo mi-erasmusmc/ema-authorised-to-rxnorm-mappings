@@ -8,5 +8,5 @@ ATC code (human): M01AH04
 Pharmacotherapeutic group (human): Antiinflammatory and antirheumatic products;Coxibs
 Therapeutic indication: For the short-term treatment of postoperative pain in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dynastat

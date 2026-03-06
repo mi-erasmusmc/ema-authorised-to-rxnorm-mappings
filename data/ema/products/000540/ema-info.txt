@@ -8,5 +8,5 @@ ATC code (human): L02BA03
 Pharmacotherapeutic group (human): Endocrine therapy;Anti-estrogens
 Therapeutic indication: Faslodex is indicated  as monotherapy for the treatment of estrogen receptor positive, locally advanced or metastatic breast cancer in postmenopausal women:  not previously treated with endocrine therapy, or with disease relapse on or after adjuvant antiestrogen therapy, or disease progression on antiestrogen therapy.   in combination with palbociclib for the treatment of hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative locally advanced or metastatic breast cancer in women who have received prior endocrine therapy.  In pre- or perimenopausal women, the combination treatment with palbociclib should be combined with a luteinizing hormone releasing hormone (LHRH) agonist.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/faslodex

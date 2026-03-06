@@ -8,5 +8,5 @@ ATC code (human): V04CX
 Pharmacotherapeutic group (human): Other diagnostic agents
 Therapeutic indication: Lumeblue is indicated as a diagnostic agent enhancing visualisation of colorectal lesions in adult patients undergoing screening or surveillance colonoscopy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lumeblue

@@ -8,5 +8,5 @@ ATC code (human): B05BA01
 Pharmacotherapeutic group (human): Blood substitutes and perfusion solutions
 Therapeutic indication: Maapliv is indicated for the treatment of maple syrup urine disease (MSUD) presenting with an acute decompensation episode in patients from birth who are not eligible for an oral and enteral branched-chain amino acids free (BCAA- free) formulation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/maapliv

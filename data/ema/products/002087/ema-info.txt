@@ -8,5 +8,5 @@ ATC code (human): A07AA12
 Pharmacotherapeutic group (human): Antidiarrheals, intestinal antiinflammatory / antiinfective agents
 Therapeutic indication: Dificlir film-coated tablets is indicated for the treatment of Clostridioides difficile infections (CDI) also known as C. difficile-associated diarrhoea (CDAD) in adult and paediatric patients with a body weight of at least 12.5 kg. Consideration should be given to official guidelines on the appropriate use of antibacterial agents. Dificlir granules for oral suspension is indicated for the treatment of Clostridioides  difficile infections (CDI) also known as C. difficile-associated diarrhoea (CDAD) in adults and paediatric patients from birth to &lt; 18 years of age. Consideration should be given to official guidelines on the appropriate use of antibacterial agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dificlir

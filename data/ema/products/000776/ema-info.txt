@@ -8,5 +8,5 @@ ATC code (human): C09DB01
 Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
 Therapeutic indication: Treatment of essential hypertension. Dafiro is indicated in patients whose blood pressure is not adequately controlled on amlodipine or valsartan monotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dafiro

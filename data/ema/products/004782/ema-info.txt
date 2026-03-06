@@ -8,5 +8,5 @@ ATC code (human): N07
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Treatment of stage 1 or Stage 2 polyneuropathy in adult patients with hereditary transthyretin amyloidosis (hATTR).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tegsedi

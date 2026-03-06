@@ -8,5 +8,5 @@ ATC code (human): J05AF10
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Entecavir Accord is indicated for the treatment of chronic hepatitis B virus (HBV) infection in adults with:  compensated liver disease and evidence of active viral replication, persistently elevated serum alanine aminotransferase (ALT) levels and histological evidence of active inflammation and/or fibrosis. decompensated liver disease.  For both compensated and decompensated liver disease, this indication is based on clinical trial data in nucleoside naive patients with HBeAg positive and HBeAg negative HBV infection. With respect to patients with lamivudine-refractory hepatitis B. Entecavir Accord is also indicated for the treatment of chronic HBV infection in nucleoside naive paediatric patients from 2 to &lt;18 years of age with compensated liver disease who have evidence of active viral replication and persistently elevated serum ALT levels, or histological evidence of moderate to severe inflammation and/or fibrosis. With respect to the decision to initiate treatment in paediatric patients.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/entecavir-accord

@@ -8,5 +8,5 @@ ATC code (human): L04AE05
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Velsipity is indicated for the treatment of patients 16 years of age and older with moderately to severely active ulcerative colitis (UC) who have had an inadequate response, lost response, or were intolerant to either conventional therapy, or a biological agent.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/velsipity

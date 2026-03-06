@@ -8,5 +8,5 @@ ATC code (human): B01AC24
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Possia, co-administered with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic events in adult patients with acute coronary syndromes (unstable angina, non-ST-elevation myocardial infarction [NSTEMI] or ST-elevation myocardial infarction [STEMI]); including patients managed medically, and those who are managed with percutaneous coronary intervention (PCI) or coronary artery by-pass grafting (CABG).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/possia

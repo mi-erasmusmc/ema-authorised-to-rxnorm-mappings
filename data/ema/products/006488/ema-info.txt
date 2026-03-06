@@ -8,5 +8,5 @@ ATC code (human): N06A
 Pharmacotherapeutic group (human): Psychoanaleptics
 Therapeutic indication: Zurzuvae is indicated for the treatment of postpartum depression (PPD) in adults following childbirth (see section 5.1).&nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zurzuvae

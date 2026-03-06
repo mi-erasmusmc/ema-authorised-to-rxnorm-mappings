@@ -8,5 +8,5 @@ ATC code (human): S01
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Omidria is indicated in adults for maintenance of intraoperative mydriasis, prevention of intraoperative miosis and reduction of acute postoperative ocular pain in intraocular lens replacement surgery.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/omidria

@@ -8,5 +8,5 @@ ATC code (human): L01EX28
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Augtyro as monotherapy is indicated for the treatment of adult patients with ROS1-positive advanced non-small cell lung cancer (NSCLC). Augtyro as monotherapy is indicated for the treatment of adult and paediatric patients 12 years of age and older with advanced solid tumours expressing a NTRK&nbsp;gene fusion, and  who have received a prior NTRK inhibitor, or&nbsp; have not received a prior NTRK inhibitor and treatment options not targeting NTRK provide limited clinical benefit, or have been exhausted (see sections 4.4 and 5.1)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/augtyro

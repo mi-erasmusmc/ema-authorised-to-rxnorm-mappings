@@ -8,5 +8,5 @@ ATC code (human): J07CA
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: PROCOMVAX is indicated for vaccination against invasive disease caused by Haemophilus influenzae type b and against infection caused by all known subtypes of hepatitis B virus in infants 6 weeks to 15 months of age.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/procomvax

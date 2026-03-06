@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006158
+Name of medicine: Bysumlog
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: insulin lispro
+Active substance: insulin lispro
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AB04
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of diabetes mellitus.
+Biosimilar: Yes
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bysumlog

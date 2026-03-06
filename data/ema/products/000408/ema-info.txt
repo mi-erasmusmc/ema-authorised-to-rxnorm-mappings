@@ -8,5 +8,5 @@ ATC code (human): M05BC01
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
 Therapeutic indication: Inductos is indicated for single level lumbar interbody spine fusion as a substitute for autogenous bone graft in adults with degenerative disc disease who have had at least 6 months of non operative treatment for this condition. Inductos is indicated for the treatment of acute tibia fractures in adults, as an adjunct to standard care using open fracture reduction and intramedullary unreamed nail fixation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inductos

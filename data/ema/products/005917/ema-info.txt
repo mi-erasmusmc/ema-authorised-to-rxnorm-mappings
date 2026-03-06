@@ -8,5 +8,5 @@ ATC code (human): L01XX02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Enrylaze is indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of acute lymphoblastic leukaemia (ALL) and lymphoblastic lymphoma (LBL) in adult and paediatric patients (1 month and older) who developed hypersensitivity or silent inactivation to E. coli-derived asparaginase.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/enrylaze

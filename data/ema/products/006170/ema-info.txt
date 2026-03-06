@@ -8,5 +8,5 @@ ATC code (human): L01FF12
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Hetronifly in combination with carboplatin and etoposide is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hetronifly

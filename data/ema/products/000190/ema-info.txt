@@ -8,5 +8,5 @@ ATC code (human): J05AR01
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Combivir is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/combivir

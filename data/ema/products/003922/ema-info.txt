@@ -8,5 +8,5 @@ ATC code (human): A16AB15
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Treatment of non-neurological manifestations in patients with mild to moderate alpha-mannosidosis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lamzede

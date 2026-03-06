@@ -8,5 +8,5 @@ ATC code (human): B01AC30
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Acute Coronary Syndrome Myocardial Infarction
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-acetylsalicylic-acid-zentiva

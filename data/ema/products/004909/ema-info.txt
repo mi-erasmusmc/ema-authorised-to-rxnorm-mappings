@@ -8,5 +8,5 @@ ATC code (human): J05AR
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Dovato is indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults and adolescents above 12 years of age weighing at least 40 kg, with no known or suspected resistance to the integrase inhibitor class, or lamivudine.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dovato

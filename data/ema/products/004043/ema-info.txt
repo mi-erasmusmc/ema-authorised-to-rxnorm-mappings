@@ -8,5 +8,5 @@ ATC code (human): L04AG08
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features. Treatment of adult patients with early primary progressive multiple sclerosis (PPMS) in terms of disease duration and level of disability, and with imaging features characteristic of inflammatory activity.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ocrevus

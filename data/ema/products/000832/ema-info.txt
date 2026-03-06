@@ -8,5 +8,5 @@ ATC code (human): J07BB02
 Pharmacotherapeutic group (human): Influenza vaccines
 Therapeutic indication: Prophylaxis of influenza caused by A (H1N1)v 2009 virus. Pandemrix should only be used if the recommended annual seasonal trivalent / quadrivalent influenza vaccines are not available and if immunisation against (H1N1)v is considered necessary (see sections 4.4 and 4.8). Pandemrix should be used in accordance with Official Guidance.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pandemrix

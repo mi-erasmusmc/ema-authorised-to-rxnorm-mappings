@@ -8,5 +8,5 @@ ATC code (human): L01CD02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Breast cancer Docetaxel Teva Pharma monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic therapy. Previous chemotherapy should have included an anthracycline or an alkylating agent. Non-small-cell lung cancer Docetaxel Teva Pharma is indicated for the treatment of patients with locally advanced or metastatic non-small-cell lung cancer after failure of prior chemotherapy. Docetaxel Teva Pharma in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small-cell lung cancer, in patients who have not previously received chemotherapy for this condition. Prostate cancer Docetaxel Teva Pharma in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone refractory metastatic prostate cancer.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-teva-pharma

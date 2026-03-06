@@ -8,5 +8,5 @@ ATC code (human): J07BD52
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: M-M-RVaxPro is indicated for simultaneous vaccination against measles, mumps, and rubella in individuals 12 months or older. For use in measles outbreaks, or for post-exposure vaccination, or for use in previously unvaccinated children older than 12 months who are in contact with susceptible pregnant women, and persons likely to be susceptible to mumps and rubella.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/m-m-rvaxpro

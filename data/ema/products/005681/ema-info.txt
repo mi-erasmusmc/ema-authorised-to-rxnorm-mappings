@@ -8,5 +8,5 @@ ATC code (human): L01AA10
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Pepaxti is indicated, in combination with dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least three prior lines of therapies, whose disease is refractory to at least one proteasome inhibitor, one immunomodulatory agent, and one anti-CD38 monoclonal antibody, and who have demonstrated disease progression on or after the last therapy. For patients with a prior autologous stem cell transplantation, the time to progression should be at least 3 years from transplantation (see section 4.4).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pepaxti

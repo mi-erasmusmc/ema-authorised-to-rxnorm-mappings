@@ -8,5 +8,5 @@ ATC code (human): L01AX03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Temodal hard capsules is indicated for the treatment of:  adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy and subsequently as monotherapy treatment; children from the age of three years, adolescents and adult patients with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/temodal

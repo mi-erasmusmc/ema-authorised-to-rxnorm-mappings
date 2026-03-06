@@ -8,5 +8,5 @@ ATC code (human): J06BB04
 Pharmacotherapeutic group (human): Immune sera and immunoglobulins
 Therapeutic indication: Prevention of hepatitis B virus (HBV) re-infection in HBsAg and HBV-DNA negative adult patients at least one week after liver transplantation for hepatitis B induced liver failure. HBV-DNA negative status should be confirmed within the last 3 months prior to OLT. Patients should be HBsAg negative before treatment start. The concomitant use of adequate virostatic agents should be considered as standard of hepatitis B re-infection prophylaxis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zutectra

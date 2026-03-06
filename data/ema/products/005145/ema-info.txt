@@ -8,5 +8,5 @@ ATC code (human): M09AX10
 Pharmacotherapeutic group (human): Other drugs for disorders of the musculo-skeletal system
 Therapeutic indication: Evrysdi is indicated for the treatment of 5q spinal muscular atrophy (SMA) in patients with a clinical diagnosis of SMA Type 1, Type 2 or Type 3 or with one to four SMN2 copies. &nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evrysdi

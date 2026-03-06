@@ -8,5 +8,5 @@ ATC code (human): R03AL07
 Pharmacotherapeutic group (human): formoterol and glycopyrronium bromide
 Therapeutic indication: Bevespi Aerosphere is indicated as a maintenance bronchodilator treatment to relieve symptoms in adult patients with chronic obstructive pulmonary disease (COPD).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bevespi-aerosphere

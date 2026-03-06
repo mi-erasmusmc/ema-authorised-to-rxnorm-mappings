@@ -8,5 +8,5 @@ ATC code (human): V08DA01
 Pharmacotherapeutic group (human): Contrast media
 Therapeutic indication: This medicinal product is for diagnostic use only. Optison is a transpulmonary echocardiographic contrast agent for use in patients with suspected or established cardiovascular disease to provide opacification of cardiac chambers, enhance left-ventricular-endocardial-border delineation with resulting improvement in wall-motion visualisation. Optison should only be used in patients where the study without contrast enhancement is inconclusive.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/optison

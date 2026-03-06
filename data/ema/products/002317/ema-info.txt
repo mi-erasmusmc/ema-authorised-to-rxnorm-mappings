@@ -8,5 +8,5 @@ ATC code (human): L01CD02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Treatment of breast cancer, special forms of lung cancer (non-small-cell lung cancer), prostate cancer, gastric cancer, or head and neck cancer.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-mylan-0

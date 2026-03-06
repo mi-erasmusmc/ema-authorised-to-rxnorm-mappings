@@ -8,5 +8,5 @@ ATC code (human): L03AB15
 Pharmacotherapeutic group (human): Immunostimulants
 Therapeutic indication: Besremi is indicated as monotherapy in adults for the treatment of polycythaemia vera without symptomatic splenomegaly.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/besremi

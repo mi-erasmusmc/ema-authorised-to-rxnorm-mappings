@@ -8,5 +8,5 @@ ATC code (human): L01XX22
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Panretin gel is indicated for the topical treatment of cutaneous lesions in patients with acquired-immune-deficiency-syndrome (AIDS)-related Kaposi's sarcoma (KS) when:  lesions are not ulcerated or lymphoedematous, and; treatment of visceral KS is not required, and; lesions are not responding to systemic antiretroviral therapy, and; radiotherapy or chemotherapy are not appropriate.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/panretin

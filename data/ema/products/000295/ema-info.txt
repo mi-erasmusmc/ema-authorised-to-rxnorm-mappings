@@ -8,5 +8,5 @@ ATC code (human): J07CA12
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Infanrix Penta is indicated for primary and booster vaccination of infants against diphtheria, tetanus, pertussis, hepatitis B and poliomyelitis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-penta

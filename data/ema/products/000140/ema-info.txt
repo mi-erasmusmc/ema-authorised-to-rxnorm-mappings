@@ -8,5 +8,5 @@ ATC code (human): V04CX
 Pharmacotherapeutic group (human): Diagnostic agents
 Therapeutic indication: Helicobacter Test INFAI may be used for in vivo diagnosis of gastroduodenal Helicobacter pylori infection in:  adults; adolescents, who are likely to have peptic ulcer disease.  Helicobacter Test INFAI for children aged three to 11 years may be used for in vivo diagnosis of gastrduodenal Helicobacter pylori infection:  for the evaluation of the success of eradication treatment, or; when invasive tests cannot be performed, or; when there are discordant results arising from invasive tests.  This medicinal product is for diagnostic use only.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/helicobacter-test-infai

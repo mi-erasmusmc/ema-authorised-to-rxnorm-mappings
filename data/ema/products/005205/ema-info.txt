@@ -8,5 +8,5 @@ ATC code (human): N01B
 Pharmacotherapeutic group (human): Anesthetics
 Therapeutic indication: Zynrelef is indicated for treatment of somatic postoperative pain from small- to medium-sized surgical wounds in adults (see section 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zynrelef

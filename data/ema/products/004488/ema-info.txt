@@ -8,5 +8,5 @@ ATC code (human): L01BA04
 Pharmacotherapeutic group (human): ANTIMETABOLITES;Folic acid analogues
 Therapeutic indication: Malignant pleural mesothelioma Pemetrexed Hospira UK Limited in combination with cisplatin is indicated for the treatment of chemotherapy naïve patients with unresectable malignant pleural mesothelioma. Non-small cell lung cancer Pemetrexed Hospira UK Limited in combination with cisplatin is indicated for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology (see SmPC section 5.1). Pemetrexed Hospira UK Limited is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy (see SmPC section 5.1). Pemetrexed Hospira UK Limited is indicated as monotherapy for the second-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology (see SmPC section 5.1).
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-pfizer-previously-pemetrexed-hospira-uk-limited

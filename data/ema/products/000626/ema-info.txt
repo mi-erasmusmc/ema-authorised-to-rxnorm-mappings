@@ -8,5 +8,5 @@ ATC code (human): N04BC09
 Pharmacotherapeutic group (human): Anti-Parkinson drugs
 Therapeutic indication: Parkinson's disease: Neupro is indicated for the treatment of the signs and symptoms of early-stage idiopathic Parkinson's disease as monotherapy (i.e. without levodopa) or in combination with levodopa, i.e. over the course of the disease, through to late stages when the effect of levodopa wears off or becomes inconsistent and fluctuations of the therapeutic effect occur (end of dose or 'on-off' fluctuations). Restless-legs syndrome: Neupro is indicated for the symptomatic treatment of moderate to severe idiopathic restless-legs syndrome in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/neupro

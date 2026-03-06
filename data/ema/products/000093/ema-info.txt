@@ -8,5 +8,5 @@ ATC code (human): J07CA05
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Tritanrix HepB is indicated for active immunisation against diphtheria, tetanus, pertussis and hepatitis B (HBV) in infants from six weeks onwards (see section 4.2).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tritanrix-hepb

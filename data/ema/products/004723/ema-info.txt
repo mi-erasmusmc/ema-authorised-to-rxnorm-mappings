@@ -8,5 +8,5 @@ ATC code (human): L01FA01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Blitzima is indicated in adults for the following indications: Non-Hodgkin’s lymphoma (NHL) Blitzima is indicated for the treatment of previously untreated patients with stage III-IV follicular lymphoma in combination with chemotherapy. Blitzima maintenance therapy is indicated for the treatment of follicular lymphoma patients responding to induction therapy. Blitzima monotherapy is indicated for treatment of patients with stage III-IV follicular lymphoma who are chemo-resistant or are in their second or subsequent relapse after chemotherapy. Blitzima is indicated for the treatment of patients with CD20 positive diffuse large B cell non-Hodgkin’s lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy. Chronic lymphocytic leukaemia (CLL) Blitzima in combination with chemotherapy is indicated for the treatment of patients with previously untreated and relapsed/refractory CLL. Only limited data are available on efficacy and safety for patients previously treated with monoclonal antibodies including Blitzima or patients refractory to previous Blitzima plus chemotherapy.
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/blitzima

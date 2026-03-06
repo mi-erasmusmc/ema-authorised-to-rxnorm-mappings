@@ -8,5 +8,5 @@ ATC code (human): L01FD03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Early Breast Cancer (EBC) Kadcyla, as a single agent, is indicated for the adjuvant treatment of adult patients with HER2-positive early breast cancer who have residual invasive disease, in the breast and/or lymph nodes, after neoadjuvant taxane-based and HER2-targeted therapy. Metastatic Breast Cancer (MBC) Kadcyla, as a single agent, is indicated for the treatment of adult patients with HER2-positive, unresectable locally advanced or metastatic breast cancer who previously received trastuzumab and a taxane, separately or in combination. Patients should have either:  Received prior therapy for locally advanced or metastatic disease, or Developed disease recurrence during or within six months of completing adjuvant therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kadcyla

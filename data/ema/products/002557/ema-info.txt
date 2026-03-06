@@ -8,5 +8,5 @@ ATC code (human): V09AX04
 Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
 Therapeutic indication: This medicinal product is for diagnostic use only. Vizamyl is a radiopharmaceutical medicinal product indicated for Positron Emission Tomography (PET) imaging of ? amyloid neuritic plaque density in the brains of adult patients with cognitive impairment who are being evaluated for Alzheimer’s disease (AD) and other causes of cognitive impairment. Vizamyl should be used in conjunction with a clinical evaluation. A negative scan indicates sparse or no plaques, which is not consistent with a diagnosis of AD.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vizamyl

@@ -8,5 +8,5 @@ ATC code (human): A10BX16
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Type 2 diabetes mellitus Mounjaro is indicated for the treatment of adults with insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise  as monotherapy when metformin is considered inappropriate due to intolerance or contraindications in addition to other medicinal products for the treatment of diabetes.  For study results with respect to combinations, effects on glycaemic control and the populations studied, see sections 4.4, 4.5 and 5.1. Weight management Mounjaro is indicated as an adjunct to a reduced-calorie diet and increased physical activity for weight management, including weight loss and weight maintenance, in adults with an initial Body Mass Index (BMI) of  ≥ 30 kg/m2 (obesity) or  ≥ 27 kg/m2 to &lt; 30 kg/m2 (overweight) in the presence of at least one weight-related comorbid condition (e.g., hypertension, dyslipidaemia, obstructive sleep apnoea, cardiovascular disease, prediabetes, or type 2 diabetes mellitus).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mounjaro

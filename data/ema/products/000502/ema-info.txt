@@ -8,5 +8,5 @@ ATC code (human): M05BA06
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
 Therapeutic indication: Treatment of osteoporosis in post-menopausal women at increased risk of fracture. A reduction in the risk of vertebral fractures has been demonstrated. Efficacy on femoral-neck fractures has not been established.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bondenza

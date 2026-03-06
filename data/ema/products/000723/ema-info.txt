@@ -8,5 +8,5 @@ ATC code (human): G04BD11
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: Treatment of the symptoms (increased urinary frequency and / or urgency and / or urgency incontinence) that may occur in patients with overactive-bladder syndrome.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/toviaz

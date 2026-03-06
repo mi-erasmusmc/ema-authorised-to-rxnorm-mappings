@@ -8,5 +8,5 @@ ATC code (human): N03AX16
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Epilepsy  Pregabalin Accord is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation.  Generalised Anxiety Disorder  Pregabalin Accord is indicated for the treatment of Generalised Anxiety Disorder (GAD) in adults.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-accord

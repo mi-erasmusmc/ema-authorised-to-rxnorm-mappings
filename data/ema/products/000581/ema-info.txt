@@ -8,5 +8,5 @@ ATC code (human): J05AR02
 Pharmacotherapeutic group (human): Antivirals for treatment of HIV infections, combinations;Antivirals for systemic use
 Therapeutic indication: Kivexa is indicated in antiretroviral combination therapy for the treatment of Human Immunodeficiency Virus (HIV) infection in adults, adolescents and children weighing at least 25 kg. Before initiating treatment with abacavir, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin. Abacavir should not be used in patients known to carry the HLA-B*5701 allele.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kivexa

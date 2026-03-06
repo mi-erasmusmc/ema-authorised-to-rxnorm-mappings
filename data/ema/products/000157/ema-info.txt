@@ -8,5 +8,5 @@ ATC code (human): A16AB02
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Cerezyme (imiglucerase) is indicated for use as longterm enzyme replacement therapy in patients with a confirmed diagnosis of non-neuronopathic (Type 1) or chronic neuronopathic (Type 3) Gaucher disease who exhibit clinically significant nonneurological manifestations of the disease. The non-neurological manifestations of Gaucher disease include one or more of the following conditions:  anaemia after exclusion of other causes, such as iron deficiency Thrombocytopenia Bone disease after exclusion of other causes such as Vitamin D deficiency hepatomegaly or splenomegaly
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cerezyme

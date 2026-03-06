@@ -8,5 +8,5 @@ ATC code (human): L01FF11
 Pharmacotherapeutic group (human): Antineoplastic agents;monoclonal antibodies and antibody drug conjugates;PD-1/PD-L1 (Programmed cell death protein 1/death ligand 1) inhibitors
 Therapeutic indication: Cejemly in combination with platinum-based chemotherapy is indicated for the first line treatment of adults with metastatic non small cell lung cancer (NSCLC) with no sensitising EGFR mutations, or ALK, ROS1 or RET genomic tumour aberrations.&nbsp;Cejemly as monotherapy is indicated for the treatment of unresectable stage III NSCLC with no sensitising EGFR mutations, or ALK, ROS1 genomic tumour aberrations in adults whose tumours express PD-L1 on ≥ 1% of tumour cells and whose disease has not progressed following platinum-based chemoradiotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cejemly

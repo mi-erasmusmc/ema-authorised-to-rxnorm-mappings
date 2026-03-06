@@ -8,5 +8,5 @@ ATC code (human): L01XX73
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Lumykras as monotherapy is indicated for the treatment of adults with advanced non-small cell lung cancer (NSCLC) with KRAS G12C mutation and who have progressed after at least one prior line of systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lumykras

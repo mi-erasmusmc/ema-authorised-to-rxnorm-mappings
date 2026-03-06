@@ -8,5 +8,5 @@ ATC code (human): G04BD12
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: Overactive bladder in adults&nbsp;  Betmiga prolonged-release tablets are indicated for symptomatic treatment of urgency, increased micturition frequency and/or urgency incontinence as may occur in adult patients with overactive bladder (OAB) syndrome.&nbsp;  Neurogenic detrusor overactivity in the paediatric population&nbsp;  Betmiga prolonged release tablets are indicated for treatment of neurogenic detrusor overactivity (NDO) in paediatric patients aged 3 to less than 18 years.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/betmiga

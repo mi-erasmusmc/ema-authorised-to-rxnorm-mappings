@@ -8,5 +8,5 @@ ATC code (human): C09DX04
 Pharmacotherapeutic group (human): Angiotensin II antagonists, other combinations;Agents acting on the renin-angiotensin system
 Therapeutic indication: Paediatric heart failure Entresto is indicated in children and adolescents aged one year or older for treatment of symptomatic chronic heart failure with left ventricular systolic dysfunction. Adult heart failure Entresto is indicated in adult patients for treatment of symptomatic chronic heart failure with reduced ejection fraction.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/entresto

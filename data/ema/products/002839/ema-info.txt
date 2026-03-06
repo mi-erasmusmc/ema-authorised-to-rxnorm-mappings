@@ -8,5 +8,5 @@ ATC code (human): L01XJ02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Odomzo is indicated for the treatment of adult patients with locally advanced basal cell carcinoma (BCC) who are not amenable to curative surgery or radiation therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/odomzo

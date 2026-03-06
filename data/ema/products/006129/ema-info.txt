@@ -8,5 +8,5 @@ ATC code (human): C01EB16
 Pharmacotherapeutic group (human): Other cardiac preparations
 Therapeutic indication: Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-genorph

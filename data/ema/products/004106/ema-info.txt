@@ -8,5 +8,5 @@ ATC code (human): L01XX52
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Venclyxto in combination with obinutuzumab is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) (see section 5.1). Venclyxto in combination with rituximab is indicated for the treatment of adult patients with CLL who have received at least one prior therapy. Venclyxto monotherapy is indicated for the treatment of CLL:  in the presence of 17p deletion or TP53 mutation in adult patients who are unsuitable for or have failed a B cell receptor pathway inhibitor, or in the absence of 17p deletion or TP53 mutation in adult patients who have failed both chemoimmunotherapy and a B-cell receptor pathway inhibitor.  Venclyxto in combination with a hypomethylating agent is indicated for the treatment of adult patients with newly&nbsp; diagnosed acute myeloid leukaemia (AML) who are ineligible for intensive chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/venclyxto

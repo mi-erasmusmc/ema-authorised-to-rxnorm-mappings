@@ -8,5 +8,5 @@ ATC code (human): R03DX11
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
 Therapeutic indication: AsthmaTezspire is indicated as an add-on maintenance treatment in adults and adolescents 12 years and older with severe asthma who are inadequately controlled despite high dose inhaled corticosteroids plus another medicinal product for maintenance treatment. Chronic rhinosinusitis with nasal polyps (CRSwNP)&nbsp;Tezspire is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids, and/or surgery do not provide adequate disease control.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tezspire

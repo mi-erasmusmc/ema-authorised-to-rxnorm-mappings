@@ -8,5 +8,5 @@ ATC code (human): L04AC02
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Simulect is indicated for the prophylaxis of acute organ rejection in de-novo allogeneic renal transplantation in adult and paediatric patients (1-17 years). It is to be used concomitantly with ciclosporin for microemulsion- and corticosteroid-based immunosuppression, in patients with panel reactive antibodies less than 80%, or in a triple maintenance immunosuppressive regimen containing ciclosporin for microemulsion, corticosteroids and either azathioprine or mycophenolate mofetil.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/simulect

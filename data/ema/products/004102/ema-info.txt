@@ -8,5 +8,5 @@ ATC code (human): J05AH01
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Dectova is indicated for the treatment of complicated and potentially life-threatening influenza A or B virus infection in adult and paediatric patients (aged ?6 months) when:  The patient’s influenza virus is known or suspected to be resistant to anti-influenza medicinal products other than zanamivir, and/or Other anti-viral medicinal products for treatment of influenza, including inhaled zanamivir, are not suitable for the individual patient.  Dectova should be used in accordance with official guidance.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dectova

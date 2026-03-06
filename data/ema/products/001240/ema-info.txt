@@ -8,5 +8,5 @@ ATC code (human): J01XA03
 Pharmacotherapeutic group (human): Antibacterials for systemic use
 Therapeutic indication: Vibativ is indicated for the treatment of adults with nosocomial pneumonia including ventilator-associated pneumonia, known or suspected to be caused by methicillin-resistant Staphylococcus aureus (MRSA). Vibativ should be used only in situations where it is known or suspected that other alternatives are not suitable. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vibativ-0

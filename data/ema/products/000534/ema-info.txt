@@ -8,5 +8,5 @@ ATC code (human): J05AE07
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Telzir in combination with low-dose ritonavir is indicated for the treatment of human-immunodeficiency-virus-type-1-infected adults, adolescents and children of six years and above in combination with other antiretroviral medicinal products. In moderately antiretroviral-experienced adults, Telzir in combination with low-dose ritonavir has not been shown to be as effective as lopinavir / ritonavir. No comparative studies have been undertaken in children or adolescents. In heavily pretreated patients, the use of Telzir in combination with low-dose ritonavir has not been sufficiently studied. In protease-inhibitor-experienced patients, the choice of Telzir should be based on individual viral resistance testing and treatment history.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/telzir

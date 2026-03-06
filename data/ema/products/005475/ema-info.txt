@@ -8,5 +8,5 @@ ATC code (human): M05BX
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
 Therapeutic indication: Voxzogo is indicated for the treatment of achondroplasia in patients 4 months of age and older whose epiphyses are not closed. The diagnosis of achondroplasia should be confirmed by appropriate genetic testing.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/voxzogo

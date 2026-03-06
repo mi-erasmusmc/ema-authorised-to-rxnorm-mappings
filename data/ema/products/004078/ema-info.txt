@@ -8,5 +8,5 @@ ATC code (human): N02BF02
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Neuropathic pain Pregabalin Viatris is indicated for the treatment of peripheral and central neuropathic pain in adults. EpilepsyPregabalin Viatris is indicated as adjunctive therapy in adults with partial seizures with or without secondary generalisation. Generalised Anxiety DisorderPregabalin Viatris is indicated for the treatment of Generalised Anxiety Disorder (GAD) in adults.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-viatris

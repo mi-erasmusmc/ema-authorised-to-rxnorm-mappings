@@ -8,5 +8,5 @@ ATC code (human): N07XX07
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Fampridine Accord is indicated for the improvement of walking in adult patients with multiple sclerosis with walking disability (EDSS 4-7).&nbsp;
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fampridine-accord

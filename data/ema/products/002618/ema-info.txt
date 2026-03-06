@@ -8,5 +8,5 @@ ATC code (human): A02BC05
 Pharmacotherapeutic group (human): Proton pump inhibitors
 Therapeutic indication: Nexium Control is indicated for the short-term treatment of reflux symptoms (e.g. heartburn and acid regurgitation) in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nexium-control

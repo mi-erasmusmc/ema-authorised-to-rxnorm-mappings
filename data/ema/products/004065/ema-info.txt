@@ -8,5 +8,5 @@ ATC code (human): A16AB
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Brineura is indicated for the treatment of neuronal ceroid lipofuscinosis type 2 (CLN2) disease, also known as tripeptidyl peptidase 1 (TPP1) deficiency
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/brineura

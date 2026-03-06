@@ -8,5 +8,5 @@ ATC code (human): R03AL
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
 Therapeutic indication: Trixeo Aerosphere is indicated as a maintenance treatment in adult patients with moderate to severe chronic obstructive pulmonary disease (COPD) who are not adequately treated by a combination of an inhaled corticosteroid and a long acting beta2 agonist or combination of a long-acting beta2 agonist and a long acting muscarinic antagonist.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trixeo-aerosphere

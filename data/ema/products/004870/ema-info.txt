@@ -8,5 +8,5 @@ ATC code (human): L01FX14
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Polivy in combination with bendamustine and rituximab is indicated for the treatment of adult patients with relapsed/refractory diffuse large B-cell lymphoma (DLBCL) who are not candidates for haematopoietic stem cell transplant. Polivy in combination with rituximab, cyclophosphamide, doxorubicin, and prednisone (R-CHP) is indicated for the treatment of adult patients with previously untreated diffuse large B-cell lymphoma (DLBCL).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/polivy

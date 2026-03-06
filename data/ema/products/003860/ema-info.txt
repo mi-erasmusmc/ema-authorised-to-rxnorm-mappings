@@ -8,5 +8,5 @@ ATC code (human): R03DX09
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
 Therapeutic indication: Severe eosinophilic asthmaNucala is indicated as an add-on treatment for severe refractory eosinophilic asthma in adults, adolescents and children aged 6 years and older . Chronic rhinosinusitis with nasal polyps (CRSwNP)Nucala is indicated as an add-on therapy with intranasal corticosteroids for the treatment of adult patients with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate control. Eosinophilic granulomatosis with polyangiitis (EGPA)Nucala is indicated as an add-on treatment for patients aged 6 years and older with relapsing-remitting or refractory eosinophilic granulomatosis with polyangiitis (EGPA). Hypereosinophilic syndrome (HES)Nucala is indicated as an add-on treatment for adult patients with inadequately controlled hypereosinophilic syndrome without an identifiable non-haematologic secondary cause.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nucala

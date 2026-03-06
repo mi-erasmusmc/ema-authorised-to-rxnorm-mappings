@@ -8,5 +8,5 @@ ATC code (human): L04AA13
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Leflunomide is indicated for the treatment of adult patients with:  active rheumatoid arthritis as a ‘disease-modifying antirheumatic drug’ (DMARD); active psoriatic arthritis.  Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions; therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects. Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/repso

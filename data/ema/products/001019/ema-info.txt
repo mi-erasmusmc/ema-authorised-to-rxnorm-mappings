@@ -8,5 +8,5 @@ ATC code (human): R01AD12
 Pharmacotherapeutic group (human): Nasal preparations
 Therapeutic indication: Adults, adolescents (12 years and over) and children (6 - 11 years). Alisade is indicated for the treatment of the symptoms of allergic rhinitis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alisade

@@ -8,5 +8,5 @@ ATC code (human): A16AX09
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Ravicti is indicated for use as adjunctive therapy for chronic management of patients&nbsp;with urea cycle disorders (UCDs) including deficiencies of carbamoyl phosphate-synthase-I (CPS), ornithine carbamoyltransferase (OTC), argininosuccinate synthetase (ASS), argininosuccinate lyase (ASL), arginase I (ARG) and ornithine translocase deficiency hyperornithinaemia-hyperammonaemia homocitrullinuria syndrome (HHH) who cannot be managed by dietary protein restriction and/or amino acid supplementation alone. Ravicti must be used with dietary protein restriction and, in some cases, dietary supplements (e.g., essential amino acids, arginine, citrulline, protein-free calorie supplements).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ravicti

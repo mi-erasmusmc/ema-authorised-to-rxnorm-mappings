@@ -8,5 +8,5 @@ ATC code (human): R07AX
 Pharmacotherapeutic group (human): Other respiratory system products
 Therapeutic indication: INOmax, in conjunction with ventilatory support and other appropriate active substances, is indicated:  for the treatment of newborn infants ?34 weeks gestation with hypoxic respiratory failure associated with clinical or echocardiographic evidence of pulmonary hypertension, in order to improve oxygenation and to reduce the need for extracorporeal membrane oxygenation; as part of the treatment of peri- and post-operative pulmonary hypertension in adults and newborn infants, infants and toddlers, children and adolescents, ages 0-17 years in conjunction to heart surgery, in order to selectively decrease pulmonary arterial pressure and improve right ventricular function and oxygenation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inomax

@@ -8,5 +8,5 @@ ATC code (human): M05BX
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
 Therapeutic indication: Evenity is indicated in treatment of severe osteoporosis in postmenopausal women at high risk of fracture.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evenity

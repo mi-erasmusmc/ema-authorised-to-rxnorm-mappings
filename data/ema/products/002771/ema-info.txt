@@ -8,5 +8,5 @@ ATC code (human): L01XX51
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Imlygic is indicated for the treatment of adults with unresectable melanoma that is regionally or distantly metastatic (Stage IIIB, IIIC and IVM1a) with no bone, brain, lung or other visceral disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/imlygic

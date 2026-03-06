@@ -8,5 +8,5 @@ ATC code (human): B01AC03
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Prevention of atherothrombotic events Clopidogrel is indicated in: Adult patients suffering from myocardial infarction (from a few days until less than 35 days), ischaemic stroke (from 7 days until less than 6 months) or established peripheral arterial disease.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-bgr

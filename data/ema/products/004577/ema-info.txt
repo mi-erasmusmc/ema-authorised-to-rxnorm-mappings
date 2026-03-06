@@ -8,5 +8,5 @@ ATC code (human):
 Pharmacotherapeutic group (human): 
 Therapeutic indication: Ebvallo is indicated as monotherapy for treatment of adult and paediatric patients 2 years of age and older with relapsed or refractory Epstein-Barr virus positive post-transplant lymphoproliferative disease (EBV+ PTLD) who have received at least one prior therapy. For solid organ transplant patients, prior therapy includes chemotherapy unless chemotherapy is inappropriate.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ebvallo

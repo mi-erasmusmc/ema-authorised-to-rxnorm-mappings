@@ -8,5 +8,5 @@ ATC code (human): J05AF05
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Lamivudine Teva Pharma B.V. is indicated as part of antiretroviral combination therapy for the treatment of human-immunodeficiency-virus (HIV)-infected adults and children.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lamivudine-teva-pharma-bv

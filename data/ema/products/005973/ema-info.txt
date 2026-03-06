@@ -8,5 +8,5 @@ ATC code (human): J05AE30
 Pharmacotherapeutic group (human): 
 Therapeutic indication: Paxlovid is indicated for the treatment of coronavirus disease 2019 (COVID-19) in adults and paediatric patients 6 years of age and older weighing at least 20 kg who do not require supplemental oxygen and who are at increased risk for progressing to severe COVID 19 (see section 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/paxlovid

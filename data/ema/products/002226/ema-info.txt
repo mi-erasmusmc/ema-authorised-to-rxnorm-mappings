@@ -8,5 +8,5 @@ ATC code (human): J07AH08
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Nimenrix is indicated for active immunisation of individuals from the age of 6 weeks against invasive meningococcal diseases caused by Neisseria meningitidis group A, C, W-135, and Y.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nimenrix

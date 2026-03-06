@@ -8,5 +8,5 @@ ATC code (human): L01EB02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Non-small cell lung cancer (NSCLC) Tarceva is also indicated for switch maintenance treatment in patients with locally advanced or metastatic non-small cell lung cancer with EGFR activating mutations and stable disease after first-line chemotherapy. Tarceva is also indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapy regimen. In patients with tumours without EGFR activating mutations, Tarceva is indicated when other treatment options are not considered suitable. When prescribing Tarceva, factors associated with prolonged survival should be taken into account. No survival benefit or other clinically relevant effects of the treatment have been demonstrated in patients with Epidermal Growth Factor Receptor (EGFR)-IHC - negative tumours. Pancreatic cancer Tarceva in combination with gemcitabine is indicated for the treatment of patients with metastatic pancreatic cancer. When prescribing Tarceva, factors associated with prolonged survival should be taken into account.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tarceva

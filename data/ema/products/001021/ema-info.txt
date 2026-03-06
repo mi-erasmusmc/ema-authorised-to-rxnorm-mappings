@@ -8,5 +8,5 @@ ATC code (human): G04BE08
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: AdultsTreatment of pulmonary arterial hypertension (PAH) classified as WHO functional class II and III, to improve exercise capacity (see section 5.1). Efficacy has been shown in idiopathic PAH (IPAH) and in PAH related to collagen vascular disease. Paediatric populationTreatment of paediatric patients aged 2 years and above with pulmonary arterial hypertension (PAH) classified as WHO functional class II and III.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/adcirca

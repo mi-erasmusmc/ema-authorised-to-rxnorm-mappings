@@ -8,5 +8,5 @@ ATC code (human): J07CA09
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Infanrix hexa is indicated for primary and booster vaccination of infants from the age of 6 weeks and toddlers against diphtheria, tetanus, pertussis, hepatitis B, poliomyelitis and disease caused by Haemophilus influenzae type b. The use of Infanrix hexa should be in accordance with official recommendations.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa

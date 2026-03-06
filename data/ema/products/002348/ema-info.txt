@@ -8,5 +8,5 @@ ATC code (human): R03AK07
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
 Therapeutic indication: Asthma DuoResp Spiromax is indicated in adults and adolescents (12 years and older) for the regular treatment of asthma, where use of a combination (inhaled corticosteroid and long-acting ?? adrenoceptor agonist) is appropriate:  in patients not adequately controlled with inhaled corticosteroids and “as needed” inhaled short-acting ?? adrenoceptor agonists.  or  in patients already adequately controlled on both inhaled corticosteroids and long-acting ?? adrenoceptor agonists.  COPDDuoResp Spiromax is indicated in adults, aged 18 years and older for the symptomatic treatment of patients with COPD with forced expiratory volume in 1 second (FEV?) &lt;70% predicted normal (post bronchodilator) and a history of repeated exacerbations, who have significant symptoms despite regular therapy with long-acting bronchodilators.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/duoresp-spiromax

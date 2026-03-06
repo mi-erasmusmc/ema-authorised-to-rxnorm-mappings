@@ -8,5 +8,5 @@ ATC code (human): M03CA01
 Pharmacotherapeutic group (human): MUSCLE RELAXANTS
 Therapeutic indication: In combination with adequate support measures, Agilus is indicated for the treatment of malignant hyperthermia in adults and children of all ages.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/agilus

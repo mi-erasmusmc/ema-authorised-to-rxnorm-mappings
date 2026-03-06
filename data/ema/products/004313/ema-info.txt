@@ -8,5 +8,5 @@ ATC code (human): A10BD24
 Pharmacotherapeutic group (human): Drugs used in diabetes;Combinations of oral blood glucose lowering drugs
 Therapeutic indication: Steglujan is indicated in adults aged 18 years and older with type 2 diabetes mellitus as an adjunct to diet and exercise to improve glycaemic control:  when metformin and/or a sulphonylurea (SU) and one of the monocomponents of Steglujan do not provide adequate glycaemic control. in patients already being treated with the combination of ertugliflozin and sitagliptin as separate tablets.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/steglujan

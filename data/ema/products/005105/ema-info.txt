@@ -8,5 +8,5 @@ ATC code (human): H02AB09
 Pharmacotherapeutic group (human): Corticosteroids for systemic use
 Therapeutic indication: Treatment of congenital adrenal hyperplasia (CAH) in adolescents aged 12 years and over and adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/efmody

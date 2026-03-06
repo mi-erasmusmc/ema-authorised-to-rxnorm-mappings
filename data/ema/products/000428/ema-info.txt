@@ -8,5 +8,5 @@ ATC code (human): A10AD01
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Treatment of diabetes mellitus.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mixtard

@@ -8,5 +8,5 @@ ATC code (human): V09IA05
 Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
 Therapeutic indication: This medicinal product is for diagnostic use only.For scintigraphic imaging of suspected malignant tumours in the lung after initial detection, incombination with CT scan or chest X-ray, in patients with solitary pulmonary nodules.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/neospect

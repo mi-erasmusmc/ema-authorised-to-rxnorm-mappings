@@ -8,5 +8,5 @@ ATC code (human): J07AL52
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Active immunisation against invasive disease and acute otitis media caused by Streptococcus pneumoniae in infants and children from six weeks up to five years of age. See sections 4.4 and 5.1 in product information for information on protection against specific pneumococcal serotypes. The use of Synflorix should be determined on the basis of official recommendations taking into consideration the impact of invasive disease in different age groups as well as the variability of serotype epidemiology in different geographical areas.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/synflorix

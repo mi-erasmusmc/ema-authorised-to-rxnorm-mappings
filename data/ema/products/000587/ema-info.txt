@@ -8,5 +8,5 @@ ATC code (human): B01AB02
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: ATryn is indicated for the prophylaxis of venous thromboembolism in surgery of patients with congenital antithrombin deficiency. ATryn is normally given in association with heparin or low molecular weight heparin.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/atryn

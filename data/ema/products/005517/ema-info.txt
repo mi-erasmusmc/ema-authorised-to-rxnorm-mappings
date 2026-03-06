@@ -2,11 +2,11 @@ EMA product number: EMEA/H/C/005517
 Name of medicine: Voydeya
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: danicopan
-Active substance: Danicopan
+Active substance: danicopan
 Therapeutic area (MeSH): Hemoglobinuria, Paroxysmal;Hemolysis
 ATC code (human): L04AJ09
 Pharmacotherapeutic group (human): Immunosuppressants, Complement inhibitors
 Therapeutic indication: Voydeya is indicated as an add-on to ravulizumab or eculizumab for the treatment of adult patients with paroxysmal nocturnal haemoglobinuria (PNH) who have residual haemolytic anaemia&nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/voydeya

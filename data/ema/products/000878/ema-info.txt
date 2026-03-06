@@ -8,5 +8,5 @@ ATC code (human): M09AX02
 Pharmacotherapeutic group (human): Other drugs for disorders of the musculo-skeletal system
 Therapeutic indication: Repair of single symptomatic cartilage defects of the femoral condyle of the knee (International Cartilage Repair Society [ICRS] grade III or IV) in adults. Concomitant asymptomatic cartilage lesions (ICRS grade I or II) might be present. Demonstration of efficacy is based on a randomised controlled trial evaluating the efficacy of Chondrocelect in patients with lesions between 1 and 5 cm².
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/chondrocelect

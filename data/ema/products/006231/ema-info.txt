@@ -8,5 +8,5 @@ ATC code (human): A05AX06
 Pharmacotherapeutic group (human): Bile and liver therapy
 Therapeutic indication: Iqirvo is indicated for the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA, or as monotherapy in patients unable to tolerate UDCA.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/iqirvo

@@ -8,5 +8,5 @@ ATC code (human): J01AA12
 Pharmacotherapeutic group (human): Antibacterials for systemic use
 Therapeutic indication: Tygecycline Accord is indicated in adults and in children from the age of eight years for the treatment of the following infections (see sections 4.4 and 5.1):  Complicated skin and soft tissue infections (cSSTI), excluding diabetic foot infections (see section 4.4) Complicated intra-abdominal infections (cIAI)  Tygecycline Accord should be used only in situations where other alternative antibiotics are not suitable (see sections 4.4, 4.8 and 5.1). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tigecycline-accord

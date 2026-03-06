@@ -8,5 +8,5 @@ ATC code (human): A04AA02
 Pharmacotherapeutic group (human): Antiemetics and antinauseants;Serotonin (5HT3) antagonists
 Therapeutic indication: Prevention of nausea and vomiting in patients receiving moderately or highly emetogenic chemotherapy, with or without cisplatin, for up to five consecutive days. Sancuso may be used in patients receiving their first chemotherapy regimen or in patients who have previously received chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sancuso

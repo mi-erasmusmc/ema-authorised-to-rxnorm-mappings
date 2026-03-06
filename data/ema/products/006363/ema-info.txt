@@ -8,5 +8,5 @@ ATC code (human): L01EX
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Romvimza is indicated for treatment of adult patients with symptomatic tenosynovial giant cell tumour (TGCT) associated with clinically relevant physical function deterioration and in whom surgical options have been exhausted or would induce unacceptable morbidity or disability.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/romvimza

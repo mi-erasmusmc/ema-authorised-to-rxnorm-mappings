@@ -8,5 +8,5 @@ ATC code (human): V10BX02
 Pharmacotherapeutic group (human): Therapeutic radiopharmaceuticals
 Therapeutic indication: Quadramet is indicated for the relief of bone pain in patients with multiple painful osteoblastic skeletal metastases which take up technetium [99mTc]-labelled biphosphonates on bone scan. The presence of osteoblastic metastases which take up technetium [99mTc]-labelled biphosphonates should be confirmed prior to therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/quadramet

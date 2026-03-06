@@ -8,5 +8,5 @@ ATC code (human): L01EJ02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Inrebic is indicated for the treatment of disease-related splenomegaly or symptoms in adult patients with primary myelofibrosis, post polycythaemia vera myelofibrosis or post essential thrombocythaemia myelofibrosis who are Janus Associated Kinase (JAK) inhibitor naïve or have been treated with ruxolitinib.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inrebic

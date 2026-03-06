@@ -8,5 +8,5 @@ ATC code (human): L01AA03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: High-dose of Phelinun used alone or in combination with other cytotoxic medicinal products and/or total body irradiation is indicated in the treatment of:  multiple myeloma, malignant lymphoma (Hodgkin, non-Hodgkin lymphoma), acute lymphoblastic and myeloblastic leukemia, childhood neuroblastoma, ovarian cancer, mammary adenocarcinoma.  Phelinun in combination with other cytotoxic medicinal products is indicated as reduced intensity conditioning (RIC) treatment prior to allogeneic haematopoietic stem cell transplantation (allo-HSCT) in malignant haematological diseases in adults. Phelinun in combination with other cytotoxic medicinal products is indicated as conditioning regimen prior to allogeneic haematopoietic stem cell transplantation in haematological diseases in the paediatric population as:  Myeloablative conditioning (MAC) treatment in case of malignant haematological diseases RIC treatment in case of non-malignant haematological diseases.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/phelinun

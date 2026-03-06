@@ -8,5 +8,5 @@ ATC code (human): V03AB17
 Pharmacotherapeutic group (human): All other therapeutic products
 Therapeutic indication: Acute symptomatic treatment of medicinal and chemical products- induced methaemoglobinaemia. Methylthioninium chloride Proveblue is indicated in adults, children and adolescents (aged 0 to 17 years old).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/methylthioninium-chloride-proveblue

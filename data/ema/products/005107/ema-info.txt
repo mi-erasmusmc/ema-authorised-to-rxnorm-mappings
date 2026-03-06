@@ -8,5 +8,5 @@ ATC code (human): S01EE
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Roclanda is indicated for the reduction of elevated intraocular pressure (IOP) in adult patients with primary open-angle glaucoma or ocular hypertension for whom monotherapy with a prostaglandin or netarsudil provides insufficient IOP reduction.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/roclanda

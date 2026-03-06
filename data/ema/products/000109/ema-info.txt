@@ -8,5 +8,5 @@ ATC code (human): N07XX02
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Rilutek is indicated to extend life or the time to mechanical ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials have demonstrated that Rilutek extends survival for patients with ALS. Survival was defined as patients who were alive, not intubated for mechanical ventilation and tracheotomy-free. There is no evidence that Rilutek exerts a therapeutic effect on motor function, lung function, fasciculations, muscle strength and motor symptoms. Rilutek has not been shown to be effective in the late stages of ALS. Safety and efficacy of Rilutek has only been studied in ALS. Therefore, Rilutek should not be used in patients with any other form of motor-neurone disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rilutek

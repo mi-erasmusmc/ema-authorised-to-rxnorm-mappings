@@ -8,5 +8,5 @@ ATC code (human): J02AC03
 Pharmacotherapeutic group (human): Antimycotics for systemic use
 Therapeutic indication: Voriconazole is a broad spectrum, triazole antifungal agent and is indicated in adults and children aged 2 years and above as follows:  treatment of invasive aspergillosis; treatment of candidaemia in non-neutropenic patients; treatment of fluconazole-resistant serious invasive Candida infections (including C. krusei); treatment of serious fungal infections caused by Scedosporium spp. and Fusarium spp.  Voriconazole should be administered primarily to patients with progressive, possibly life-threatening infections. Prophylaxis of invasive fungal infections in high risk allogeneic hematopoietic stem cell transplant (HSCT)recipients.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/voriconazole-hikma

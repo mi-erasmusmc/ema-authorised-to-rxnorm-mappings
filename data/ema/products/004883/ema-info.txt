@@ -8,5 +8,5 @@ ATC code (human): B02BD02
 Pharmacotherapeutic group (human): Antihemorrhagics
 Therapeutic indication: Treatment and prophylaxis of bleeding in patients with haemophilia A (congenital factor VIII deficiency).Esperoct can be used for all age groups.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/esperoct

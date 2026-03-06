@@ -8,5 +8,5 @@ ATC code (human): L04AC
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Satralizumab (Enspryng) is indicated as a monotherapy or in combination with immunosuppressive therapy (IST) for the treatment of neuromyelitis optica spectrum disorders (NMOSD) in adult and adolescent patients from 12 years of age who are anti-aquaporin-4 IgG (AQP4-IgG) seropositive.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/enspryng

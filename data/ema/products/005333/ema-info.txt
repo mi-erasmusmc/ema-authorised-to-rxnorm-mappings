@@ -8,5 +8,5 @@ ATC code (human): C10AX
 Pharmacotherapeutic group (human): Lipid modifying agents
 Therapeutic indication: Leqvio is indicated in adults with primary hypercholesterolaemia (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct to diet:  in combination with a statin or statin with other lipid-lowering therapies in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin, or alone or in combination with other lipid-lowering therapies in patients who are statin-intolerant, or for whom a statin is contraindicated.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/leqvio

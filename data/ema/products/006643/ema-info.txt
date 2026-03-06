@@ -8,5 +8,5 @@ ATC code (human): B01AF01
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or kneereplacement surgery. Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults. (See section 4.4 for haemodynamically unstable PE patients.)
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-koanaa

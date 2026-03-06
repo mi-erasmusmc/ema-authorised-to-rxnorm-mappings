@@ -8,5 +8,5 @@ ATC code (human): L01XE10
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Renal angiomyolipoma associated with tuberous sclerosis complex (TSC) Votubia is indicated for the treatment of adult patients with renal angiomyolipoma associated with tuberous sclerosis complex (TSC) who are at risk of complications (based on factors such as tumour size or presence of aneurysm, or presence of multiple or bilateral tumours) but who do not require immediate surgery. The evidence is based on analysis of change in sum of angiomyolipoma volume. Subependymal giant cell astrocytoma (SEGA) associated with tuberous sclerosis complex (TSC) Votubia is indicated for the treatment of patients with subependymal giant cell astrocytoma (SEGA) associated with tuberous sclerosis complex (TSC) who require therapeutic intervention but are not amenable to surgery. The evidence is based on analysis of change in SEGA volume. Further clinical benefit, such as improvement in disease?related symptoms, has not been demonstrated.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/votubia

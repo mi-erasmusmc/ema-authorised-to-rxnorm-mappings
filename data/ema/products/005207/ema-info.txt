@@ -8,5 +8,5 @@ ATC code (human): B01AC21
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Treatment of adult patients with WHO Functional Class (FC) III or IV and:  inoperable chronic thromboembolic pulmonary hypertension (CTEPH), or persistent or recurrent CTEPH after surgical treatment  to improve exercise capacity.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trepulmix

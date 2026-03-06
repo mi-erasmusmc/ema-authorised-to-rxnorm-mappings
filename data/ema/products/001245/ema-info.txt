@@ -8,5 +8,5 @@ ATC code (human): N03AX21
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Trobalt is indicated as adjunctive treatment of drug-resistant partial-onset seizures with or without secondary generalisation in patients aged 18 years or older with epilepsy, where other appropriate drug combinations have proved inadequate or have not been tolerated.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trobalt

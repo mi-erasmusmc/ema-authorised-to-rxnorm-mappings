@@ -8,5 +8,5 @@ ATC code (human): L01XX
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Rubraca is indicated as monotherapy for the maintenance treatment of adult patients with advanced (FIGO Stages III and IV) high-grade epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in response (complete or partial) following completion of first-line platinum-based chemotherapy. Rubraca is indicated as monotherapy for the maintenance treatment of adult patients with platinum-sensitive relapsed high-grade epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in response (complete or partial) to platinum-based chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rubraca

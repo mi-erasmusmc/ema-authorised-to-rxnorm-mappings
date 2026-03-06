@@ -8,5 +8,5 @@ ATC code (human): H05BX04
 Pharmacotherapeutic group (human): Calcium homeostasis;Anti-parathyroid agents
 Therapeutic indication: Parsabiv is indicated for the treatment of secondary hyperparathyroidism (SHPT) in adult patients with chronic kidney disease (CKD) on haemodialysis therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/parsabiv

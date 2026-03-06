@@ -8,5 +8,5 @@ ATC code (human): N03AF04
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Exalief is indicated as adjunctive therapy in adults with partial-onset seizures with or without secondary generalisation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/exalief

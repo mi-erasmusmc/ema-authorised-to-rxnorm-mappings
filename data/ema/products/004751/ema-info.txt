@@ -8,5 +8,5 @@ ATC code (human): L01AB02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Treosulfan in combination with fludarabine is indicated as part of conditioning treatment prior to allogeneic haematopoietic stem cell transplantation (alloHSCT) in adult patients&nbsp;and in paediatric patients older than one month with malignant and non-malignant diseases.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trecondi

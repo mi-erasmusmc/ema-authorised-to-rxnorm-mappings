@@ -8,5 +8,5 @@ ATC code (human): A10BD19
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Glyxambi, fixed dose combination of empagliflozin and linagliptin, is indicated in adults aged 18 years and older with type 2 diabetes mellitus:  to improve glycaemic control when metformin and/or sulphonylurea (SU) and one of the monocomponents of Glyxambi do not provide adequate glycaemic control; when already being treated with the free combination of empagliflozin and linagliptin.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/glyxambi

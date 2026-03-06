@@ -8,5 +8,5 @@ ATC code (human): J05AR
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Juluca is indicated for the treatment of human immunodeficiency virus type 1 (HIV-1) infection in adults who are virologically-suppressed (HIV-1 RNA &lt;50 copies/mL) on a stable antiretroviral regimen for at least six months with no history of virological failure and no known or suspected resistance to any non-nucleoside reverse transcriptase inhibitor or integrase inhibitor.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/juluca

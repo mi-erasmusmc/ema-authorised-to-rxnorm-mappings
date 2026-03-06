@@ -1,6 +1,6 @@
 EMA product number: EMEA/H/C/005676
 Name of medicine: Xevudy
-Medicine status: Authorised
+Medicine status: Withdrawn
 International non-proprietary name (INN) / common name: sotrovimab
 Active substance: sotrovimab
 Therapeutic area (MeSH): COVID-19 virus infection
@@ -8,5 +8,5 @@ ATC code (human): J06BD05
 Pharmacotherapeutic group (human): Immune sera and immunoglobulins
 Therapeutic indication: Xevudy is indicated for the treatment of adults and adolescents (aged 12 years and over and weighing at least 40 kg) with coronavirus disease 2019 (COVID-19) who do not require oxygen supplementation and who are at increased risk of progressing to severe COVID-19.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xevudy

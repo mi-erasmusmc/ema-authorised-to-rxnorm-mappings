@@ -8,5 +8,5 @@ ATC code (human): H01AC03
 Pharmacotherapeutic group (human): Pituitary and hypothalamic hormones and analogues
 Therapeutic indication: For the long-term treatment of growth failure in children and adolescents with severe primary insulin-like-growth-factor-1 deficiency (primary IGFD). Severe primary IGFD is defined by:  height standard deviation score ? -3.0 and; basal insulin-like growth factor-1 (IGF-1) levels below the 2.5th percentile for age and gender and; growth hormone (GH) sufficiency; exclusion of secondary forms of IGF-1 deficiency, such as malnutrition, hypothyroidism, or chronic treatment with pharmacologic doses of anti-inflammatory steroids.  Severe primary IGFD includes patients with mutations in the GH receptor (GHR), post-GHR signalling pathway, and IGF-1 gene defects; they are not GH deficient, and therefore, they cannot be expected to respond adequately to exogenous GH treatment. It is recommended to confirm the diagnosis by conducting an IGF-1 generation test.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/increlex

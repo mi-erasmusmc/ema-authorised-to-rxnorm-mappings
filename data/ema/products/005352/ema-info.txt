@@ -8,5 +8,5 @@ ATC code (human): A16AB26
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products;Enzymes
 Therapeutic indication: Upstaza is indicated for the treatment of patients aged 18 months and older with a clinical, molecular, and genetically confirmed diagnosis of aromatic L amino acid decarboxylase (AADC) deficiency with a severe phenotype (see section 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/upstaza

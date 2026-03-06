@@ -8,5 +8,5 @@ ATC code (human): L01EK01
 Pharmacotherapeutic group (human): Protein kinase inhibitors
 Therapeutic indication: Inlyta is indicated for the treatment of adult patients with advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inlyta

@@ -8,5 +8,5 @@ ATC code (human): A10BH02
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Vildagliptin is indicated as an adjunct to diet and exercise to improve glycaemic control in adults with type 2 diabetes mellitus:  as monotherapy in patients in whom metformin is inappropriate due to contraindications or intolerance. in combination with other medicinal products for the treatment of diabetes, including insulin, when these do not provide adequate glycaemic control
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/galvus

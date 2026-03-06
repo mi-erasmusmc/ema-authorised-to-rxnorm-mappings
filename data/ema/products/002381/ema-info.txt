@@ -8,5 +8,5 @@ ATC code (human): S01XA22
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Jetrea is indicated in adults for the treatment of vitreomacular traction (VMT), including when associated with macular hole of diameter less than or equal to 400 microns.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/jetrea

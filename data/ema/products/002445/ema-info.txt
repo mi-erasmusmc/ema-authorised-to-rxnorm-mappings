@@ -8,5 +8,5 @@ ATC code (human): A10BJ03
 Pharmacotherapeutic group (human): Drugs used in diabetes;Glucagon-like peptide-1 (GLP-1) analogues
 Therapeutic indication: Lyxumia is indicated for the treatment of adults with type 2 diabetes mellitus to achieve glycaemic control in combination with oral glucose lowering medicinal products and/or basal insulin when these, together with diet and exercise, do not provide adequate glycaemic control.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lyxumia

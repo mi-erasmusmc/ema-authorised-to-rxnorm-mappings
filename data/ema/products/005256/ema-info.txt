@@ -8,5 +8,5 @@ ATC code (human): L04AD03
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Lupkynis is indicated in combination with mycophenolate mofetil for the treatment of adult patients with active class III, IV or V (including mixed class III/V and IV/V) lupus nephritis (LN).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lupkynis

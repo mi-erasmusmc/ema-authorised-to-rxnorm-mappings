@@ -8,5 +8,5 @@ ATC code (human): B01AD11
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Metalyse is indicated for the thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left-bundle-branch block within six hours after the onset of acute-myocardial-infarction symptoms. Metalyse is indicated in adults for the thrombolytic treatment of acute ischaemic stroke (AIS) within 4.5 hours from last known well and after exclusion of intracranial haemorrhage.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/metalyse

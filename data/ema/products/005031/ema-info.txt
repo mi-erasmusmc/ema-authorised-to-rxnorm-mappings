@@ -8,5 +8,5 @@ ATC code (human): L01XX67
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Elzonris&nbsp;is indicated as monotherapy for the first-line treatment of adult patients with blastic plasmacytoid dendritic cell neoplasm (BPDCN).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/elzonris

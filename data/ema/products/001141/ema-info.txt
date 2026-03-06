@@ -8,5 +8,5 @@ ATC code (human): L01XE11
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Renal-cell carcinoma (RCC) Votrient is indicated in adults for the first-line treatment of advanced renal-cell carcinoma (RCC) and for patients who have received prior cytokine therapy for advanced disease. Soft-tissue sarcoma (STS) Votrient is indicated for the treatment of adult patients with selective subtypes of advanced soft-tissue sarcoma (STS) who have received prior chemotherapy for metastatic disease or who have progressed within 12 months after (neo)adjuvant therapy. Efficacy and safety have only been established in certain STS histological tumour subtypes.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/votrient

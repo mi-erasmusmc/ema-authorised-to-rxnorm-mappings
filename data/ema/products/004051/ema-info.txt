@@ -8,5 +8,5 @@ ATC code (human): J07AH09
 Pharmacotherapeutic group (human): Bacterial vaccines;Meningococcal vaccines
 Therapeutic indication: Trumenba is indicated for active immunisation of individuals 10 years and older to prevent invasive meningococcal disease caused by Neisseria meningitidis serogroup B. The use of this vaccine should be in accordance with official recommendations.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/trumenba

@@ -8,5 +8,5 @@ ATC code (human): A06AX05
 Pharmacotherapeutic group (human): Other drugs for constipation
 Therapeutic indication: Resolor is indicated for symptomatic treatment of chronic constipation in adults in whom laxatives fail to provide adequate relief.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/resolor

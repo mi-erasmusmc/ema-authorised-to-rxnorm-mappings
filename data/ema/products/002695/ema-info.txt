@@ -8,5 +8,5 @@ ATC code (human): L01EA05
 Pharmacotherapeutic group (human): Antineoplastic agents;Protein kinase inhibitors
 Therapeutic indication: Iclusig is indicated in adult patients with  chronic phase, accelerated phase, or blast phase chronic myeloid leukaemia (CML) who are resistant to dasatinib or nilotinib; who are intolerant to dasatinib or nilotinib and for whom subsequent treatment with imatinib is not clinically appropriate; or who have the T315I mutation Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) who are resistant to dasatinib; who are intolerant to dasatinib and for whom subsequent treatment with imatinib is not clinically appropriate; or who have the T315I mutation.  See sections 4.2 Assessment of cardiovascular status prior to start of therapy and 4.4 situations where an alternative treatment may be considered.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/iclusig

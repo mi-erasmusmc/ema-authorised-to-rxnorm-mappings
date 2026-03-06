@@ -8,5 +8,5 @@ ATC code (human): L04AD02
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Prophylaxis of transplant rejection in adult and paediatric, kidney, liver or heart allograft recipients. Treatment of allograft rejection resistant to treatment with other immunosuppressive medicinal products in adult and paediatric patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/modigraf

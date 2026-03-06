@@ -8,5 +8,5 @@ ATC code (human): J07BC20
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Twinrix Paediatric is indicated for use in non-immune infants, children and adolescents from one year up to and including 15 years who are at risk of both hepatitis-A and hepatitis-B infection.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-paediatric

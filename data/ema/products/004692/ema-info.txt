@@ -8,5 +8,5 @@ ATC code (human): A05AX07
 Pharmacotherapeutic group (human): Bile and liver therapy
 Therapeutic indication: Lyvdelzi is indicated for the treatment of primary biliary cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults who have an inadequate response to UDCA alone, or as monotherapy in those unable to tolerate UDCA.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lyvdelzi

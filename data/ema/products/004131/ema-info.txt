@@ -8,5 +8,5 @@ ATC code (human): L01EK03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Fotivda is indicated for the first line treatment of adult patients with advanced renal cell carcinoma (RCC) and for adult patients who are VEGFR and mTOR pathway inhibitor-naïve following disease progression after one prior treatment with cytokine therapy for advanced RCC. Treatment of advanced renal cell carcinoma.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fotivda

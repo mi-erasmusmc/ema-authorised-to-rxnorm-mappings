@@ -8,5 +8,5 @@ ATC code (human): L01XK04
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Treatment with Talzenna should be initiated and supervised by a physician experienced in the use of anticancer medicinal products. Patient selection Breast cancer: Patients should be selected for the treatment of breast cancer with Talzenna based on the presence of deleterious or suspected deleterious germline BRCA mutations determined by an experienced laboratory using a validated test method. Genetic counselling for patients with BRCA mutations should be performed according to local regulations, as applicable. Prostate cancer: There is no requirement for tumour mutation testing for selection of patients with mCRPC for treatment with Talzenna.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/talzenna

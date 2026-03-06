@@ -8,5 +8,5 @@ ATC code (human): J04AK06
 Pharmacotherapeutic group (human): Antimycobacterials
 Therapeutic indication: Deltyba is indicated for use as part of an appropriate combination regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents, children and infants with a body weight of at least 10 kg when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability (see sections 4.2, 4.4 and 5.1). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/deltyba

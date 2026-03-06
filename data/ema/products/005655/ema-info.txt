@@ -8,5 +8,5 @@ ATC code (human): B02BD08
 Pharmacotherapeutic group (human): Antihemorrhagics
 Therapeutic indication: CEVENFACTA is indicated in adults and adolescents (12 years of age and older) for the treatment of bleeding episodes and for the prevention of bleeding in those undergoing surgery or invasive procedures in the following patient groups:  in patients with congenital haemophilia with high-responding inhibitors to coagulation factors VIII or IX (i.e. ?5 Bethesda Units (BU));  in patients with congenital haemophilia with low titre inhibitors (BU &lt;5), but expected to have a high anamnestic response to factor VIII or factor IX administration or expected to be refractory to increased dosing of FVIII or FIX.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cevenfacta

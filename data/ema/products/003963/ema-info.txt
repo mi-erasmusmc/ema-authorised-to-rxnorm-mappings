@@ -8,5 +8,5 @@ ATC code (human): J07BB03
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Prophylaxis of influenza in an officially declared pandemic situation in children and adolescents from 12 months to less than 18 years of age. Pandemic influenza vaccine H5N1 AstraZeneca should be used in accordance with official guidance
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pandemic-influenza-vaccine-h5n1-astrazeneca

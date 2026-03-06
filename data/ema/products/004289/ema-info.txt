@@ -8,5 +8,5 @@ ATC code (human): G04BE03
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: Adults  Treatment of adult patients with pulmonary arterial hypertension classified as WHO functional class II and III, to improve exercise capacity. Efficacy has been shown in primary pulmonary hypertension and pulmonary hypertension associated with connective tissue disease.  Paediatric population  Treatment of paediatric patients aged 1 year to 17 years old with pulmonary arterial hypertension. Efficacy in terms of improvement of exercise capacity or pulmonary haemodynamics has been shown in primary pulmonary hypertension and pulmonary hypertension associated with congenital heart disease.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/granpidam

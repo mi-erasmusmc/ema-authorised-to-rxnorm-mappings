@@ -8,5 +8,5 @@ ATC code (human): L03AX15
 Pharmacotherapeutic group (human): Immunostimulants
 Therapeutic indication: Mepact is indicated in children, adolescents and young adults for the treatment of high-grade resectable non-metastatic osteosarcoma after macroscopically complete surgical resection. It is used in combination with postoperative multi-agent chemotherapy. Safety and efficacy have been assessed in studies of patients two to 30 years of age at initial diagnosis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mepact

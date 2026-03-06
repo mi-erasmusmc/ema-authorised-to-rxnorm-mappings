@@ -8,5 +8,5 @@ ATC code (human): L01XX81
 Pharmacotherapeutic group (human): Other antineoplastic agents
 Therapeutic indication: Ogsiveo as monotherapy is indicated for the treatment of adult patients with progressing desmoid tumours who require systemic treatment.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ogsiveo

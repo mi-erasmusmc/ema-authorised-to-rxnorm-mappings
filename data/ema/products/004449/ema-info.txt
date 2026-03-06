@@ -8,5 +8,5 @@ ATC code (human): J05AR20
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Biktarvy is indicated for the treatment of human immunodeficiency virus 1 (HIV 1) infection in adults and paediatric patients at least 2 years of age and weighing at least 14 kg i without present or past evidence of viral resistance to the integrase inhibitor class, emtricitabine or tenofovir.(see section 5.1)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/biktarvy

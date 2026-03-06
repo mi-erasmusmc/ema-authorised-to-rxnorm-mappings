@@ -8,5 +8,5 @@ ATC code (human):
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Zokinvy is indicated for the treatment of patients 12 months of age and older with a genetically confirmed diagnosis of Hutchinson-Gilford progeria syndrome or a processing-deficient progeroid laminopathy associated with either a heterozygous LMNA mutation with progerin-like protein accumulation or a homozygous or compound heterozygous ZMPSTE24 mutation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zokinvy

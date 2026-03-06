@@ -8,5 +8,5 @@ ATC code (human): H01CC01
 Pharmacotherapeutic group (human): Pituitary and hypothalamic hormones and analogues
 Therapeutic indication: Prevention of premature luteinising hormone (LH) surges in women undergoing controlled ovarian hyperstimulation (COH) for assisted reproduction techniques (ART).
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ganirelix-gedeon-richter

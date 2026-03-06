@@ -8,5 +8,5 @@ ATC code (human): L04AA06
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Mycophenolate mofetil Teva is indicated in combination with ciclosporin and corticosteroids for the prophylaxis of acute transplant rejection in patients receiving allogeneic renal, cardiac or hepatic transplants.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mycophenolate-mofetil-teva

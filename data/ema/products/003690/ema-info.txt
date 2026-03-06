@@ -8,5 +8,5 @@ ATC code (human): N07
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Treatment of early cerebral adrenoleukodystrophy in patients less than 18 years of age, with an ABCD1 genetic mutation, and for whom a human leukocyte antigen (HLA) matched sibling haematopoietic stem cell donor is not available.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/skysona

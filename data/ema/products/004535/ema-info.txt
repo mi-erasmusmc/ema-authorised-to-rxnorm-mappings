@@ -8,5 +8,5 @@ ATC code (human): N06AX27
 Pharmacotherapeutic group (human): Other antidepressants
 Therapeutic indication: Spravato, in combination with a SSRI or SNRI, is indicated for adults with treatment-resistant Major Depressive Disorder, who have not responded to at least two different treatments with antidepressants in the current moderate to severe depressive episode.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spravato

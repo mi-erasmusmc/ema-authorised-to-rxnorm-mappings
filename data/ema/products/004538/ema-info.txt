@@ -8,5 +8,5 @@ ATC code (human): C10AX18
 Pharmacotherapeutic group (human): Other lipid modifying agents
 Therapeutic indication: Waylivra is indicated as an adjunct to diet in adult patients with genetically confirmed familial chylomicronemia syndrome (FCS) and at high risk for pancreatitis, in whom response to diet and triglyceride lowering therapy has been inadequate.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/waylivra

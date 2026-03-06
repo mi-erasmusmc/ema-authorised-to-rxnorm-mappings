@@ -8,5 +8,5 @@ ATC code (human): J07BD54
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: ProQuad is indicated for simultaneous vaccination against measles, mumps, rubella and varicella in individuals from 12 months of age. ProQuad can be administered to individuals from 9 months of age under special circumstances (e.g., to conform with national vaccination schedules, outbreak situations, or travel to a region with high prevalence of measles.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/proquad

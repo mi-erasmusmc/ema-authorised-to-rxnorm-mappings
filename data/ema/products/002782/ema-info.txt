@@ -8,5 +8,5 @@ ATC code (human):
 Pharmacotherapeutic group (human): Immunosuppressants;Monoclonal antibodies
 Therapeutic indication: Ulcerative colitis Entyvio is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor alpha (TNF?) antagonist. Crohn’s disease Entyvio is indicated for the treatment of adult patients with moderately to severely active Crohn’s disease who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a tumour necrosis factor alpha (TNF?) antagonist. Pouchitis Entyvio is indicated for the treatment of adult patients with moderately to severely active chronic pouchitis, who have undergone proctocolectomy and ileal pouch anal anastomosis for ulcerative colitis, and have had an inadequate response with or lost response to antibiotic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/entyvio

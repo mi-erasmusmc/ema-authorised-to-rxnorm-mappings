@@ -8,5 +8,5 @@ ATC code (human): C09DX01
 Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
 Therapeutic indication: Treatment of essential hypertension as substitution therapy in adult patients whose blood pressure is adequately controlled on the combination of amlodipine, valsartan and hydrochlorothiazide (HCT), taken either as three single-component formulations or as a dual-component and a single-component formulation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/exforge-hct

@@ -8,5 +8,5 @@ ATC code (human): J02AX08
 Pharmacotherapeutic group (human): Antimycotics for systemic use
 Therapeutic indication: Rezzayo is indicated for the treatment of invasive candidiasis in adults. Consideration should be given to official guidance on the appropriate use of antifungal agents. &nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rezzayo

@@ -8,5 +8,5 @@ ATC code (human): V10X
 Pharmacotherapeutic group (human): Therapeutic radiopharmaceuticals
 Therapeutic indication: EndolucinBeta is a radiopharmaceutical precursor, and it is not intended for direct use in patients. It is to be used only for the radiolabelling of carrier molecules that have been specifically developed and authorised for radiolabelling with Lutetium (177Lu) chloride.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/endolucinbeta

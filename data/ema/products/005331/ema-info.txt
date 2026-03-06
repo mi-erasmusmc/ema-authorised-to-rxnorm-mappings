@@ -8,5 +8,5 @@ ATC code (human): A10AB01
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Inpremzia is indicated for the treatment of diabetes mellitus.
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inpremzia

@@ -8,5 +8,5 @@ ATC code (human): S01LA08
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Lytenava is indicated in adults for treatment of neovascular (wet) age-related macular degeneration (nAMD).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lytenava

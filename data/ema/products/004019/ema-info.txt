@@ -8,5 +8,5 @@ ATC code (human): A16AA05
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Ucedane is indicated in treatment of:  hyperammonaemia due to N-acetylglutamate synthase primary deficiency; Hyperammonaemia due to isovaleric acidaemia; Hyperammonaemia due to methymalonic acidaemia; Hyperammonaemia due to propionic acidaemia.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ucedane

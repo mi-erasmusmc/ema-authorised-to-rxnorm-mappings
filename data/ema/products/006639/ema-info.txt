@@ -8,5 +8,5 @@ ATC code (human): V09X
 Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
 Therapeutic indication: This radionuclide generator is not intended for direct use in patients. The sterile eluate (gallium (68Ga) chloride solution) from the radionuclide generator GalenVita is indicated for in vitro&nbsp;radiolabelling of various kits for radiopharmaceutical preparation developed and approved for radiolabelling with such eluate, to be used for positron emission tomography (PET) imaging.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/galenvita

@@ -8,5 +8,5 @@ ATC code (human): G04BE03
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: Treatment of men with erectile dysfunction, which is the inability to achieve or maintain a penile erection sufficient for satisfactory sexual performance. In order for sildenafil to be effective, sexual stimulation is required.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sildenafil-ratiopharm

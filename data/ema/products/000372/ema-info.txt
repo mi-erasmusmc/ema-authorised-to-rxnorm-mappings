@@ -8,5 +8,5 @@ ATC code (human): B03XA
 Pharmacotherapeutic group (human): Antianemic preparations
 Therapeutic indication: Dynepo is indicated for the treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adult patients. It may be used in patients on dialysis and in patients not on dialysis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dynepo

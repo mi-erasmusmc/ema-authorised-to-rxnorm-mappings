@@ -8,5 +8,5 @@ ATC code (human): H05AA03
 Pharmacotherapeutic group (human): Calcium homeostasis
 Therapeutic indication: Treatment of osteoporosis in postmenopausal women at high risk of fractures (see section 5.1). A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/preotact

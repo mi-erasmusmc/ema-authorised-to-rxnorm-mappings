@@ -8,5 +8,5 @@ ATC code (human): V03AB35
 Pharmacotherapeutic group (human): All other therapeutic products
 Therapeutic indication: Reversal of neuromuscular blockade induced by&nbsp;&nbsp; rocuronium or vecuronium in adults. For the paediatric population: sugammadex is only recommended for routine reversal of rocuronium induced blockade in children and adolescents aged 2 to 17 years.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sugammadex-mylan

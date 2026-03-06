@@ -8,5 +8,5 @@ ATC code (human): N05CM18
 Pharmacotherapeutic group (human): Psycholeptics
 Therapeutic indication: For sedation of adult intensive care unit patients requiring a sedation level not deeper than arousal in response to verbal stimulation (corresponding to Richmond Agitation-Sedation Scale (RASS) 0 to -3).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dexdor

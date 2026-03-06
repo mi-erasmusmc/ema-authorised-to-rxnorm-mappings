@@ -8,5 +8,5 @@ ATC code (human): L04AC
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Omvoh is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response with, lost response to, or were intolerant to either conventional therapy or a biologic treatment.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/omvoh

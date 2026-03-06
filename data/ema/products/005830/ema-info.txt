@@ -8,5 +8,5 @@ ATC code (human): B02BD15
 Pharmacotherapeutic group (human): Antihemorrhagics
 Therapeutic indication: Treatment of severe haemophilia A (congenital factor VIII deficiency) in adult patients without a history of factor VIII inhibitors and without detectable antibodies to adeno-associated virus serotype 5 (AAV5).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/roctavian

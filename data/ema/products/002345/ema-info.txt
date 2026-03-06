@@ -8,5 +8,5 @@ ATC code (human): A16AX08
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Revestive is indicated for the treatment of patients aged 1 year and above with Short Bowel Syndrome (SBS). Patients should be stable following a period of intestinal adaptation after surgery. Revestive is indicated for the treatment of patients aged 1 year and above with Short Bowel Syndrome. Patients should be stable following a period of intestinal adaptation after surgery.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/revestive

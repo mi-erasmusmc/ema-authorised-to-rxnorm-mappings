@@ -8,5 +8,5 @@ ATC code (human): N06AX21
 Pharmacotherapeutic group (human): Psychoanaleptics
 Therapeutic indication: Treatment of diabetic peripheral neuropathic pain in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/duloxetine-boehringer-ingelheim

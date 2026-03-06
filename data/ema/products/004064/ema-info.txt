@@ -8,5 +8,5 @@ ATC code (human): N04BD02
 Pharmacotherapeutic group (human): Anti-Parkinson drugs
 Therapeutic indication: Rasagiline Viatris is indicated for the treatment of idiopathic Parkinson’s disease (PD) as monotherapy (without levodopa) or as adjunct therapy (with levodopa) in patients with end of dose fluctuations.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rasagiline-viatris

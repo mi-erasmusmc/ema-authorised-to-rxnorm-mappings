@@ -8,5 +8,5 @@ ATC code (human): N05CJ03
 Pharmacotherapeutic group (human): Psycholeptics
 Therapeutic indication: Quviviq is indicated for the treatment of adult patients with insomnia characterised by symptoms present for at least 3 months and considerable impact on daytime functioning.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/quviviq

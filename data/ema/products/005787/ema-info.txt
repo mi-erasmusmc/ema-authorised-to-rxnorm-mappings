@@ -8,5 +8,5 @@ ATC code (human): J05AX10
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: LIVTENCITY is indicated for the treatment of cytomegalovirus (CMV) infection and/or disease that are refractory (with or without resistance) to one or more prior therapies, including ganciclovir, valganciclovir, cidofovir or foscarnet in adult patients who have undergone a haematopoietic stem cell transplant (HSCT) or solid organ transplant (SOT). Consideration should be given to official guidance on the appropriate use of antiviral agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/livtencity

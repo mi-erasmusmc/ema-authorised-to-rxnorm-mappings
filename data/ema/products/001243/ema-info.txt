@@ -8,5 +8,5 @@ ATC code (human): C10BA03
 Pharmacotherapeutic group (human): Lipid modifying agents
 Therapeutic indication: Pravafenix is indicated as an adjunct to diet and other non-pharmacological treatment (e.g. exercise, weight reduction) for the treatment of mixed hyperlipidaemia in adult patients at high cardiovascular risk to reduce triglycerides and increase HDL C when LDL C levels are adequately controlled while on a treatment with pravastatin 40 mg monotherapy or on another moderate-intensity statin regimen.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pravafenix

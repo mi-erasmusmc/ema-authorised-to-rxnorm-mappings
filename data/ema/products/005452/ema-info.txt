@@ -8,5 +8,5 @@ ATC code (human): D11AH08
 Pharmacotherapeutic group (human): Other dermatological preparations
 Therapeutic indication: Cibinqo is indicated for the treatment of moderate-to-severe atopic dermatitis in adults and adolescents 12 years and older who are candidates for systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cibinqo

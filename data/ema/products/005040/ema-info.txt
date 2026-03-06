@@ -8,5 +8,5 @@ ATC code (human): A16AX18
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Treatment of primary hyperoxaluria type 1 (PH1) in all age groups.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/oxlumo

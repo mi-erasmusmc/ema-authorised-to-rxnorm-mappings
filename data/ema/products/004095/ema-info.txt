@@ -8,5 +8,5 @@ ATC code (human): L01XE
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Rydapt is indicated:  in combination with standard daunorubicin and cytarabine induction and high dose cytarabine consolidation chemotherapy, and for patients in complete response followed by Rydapt single agent maintenance therapy, for adult patients with newly diagnosed acute myeloid leukaemia (AML) who are FLT3 mutation positive (see section 4.2); as monotherapy for the treatment of adult patients with aggressive systemic mastocytosis (ASM), systemic mastocytosis with associated haematological neoplasm (SM AHN), or mast cell leukaemia (MCL).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rydapt

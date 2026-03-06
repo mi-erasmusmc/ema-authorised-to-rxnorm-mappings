@@ -8,5 +8,5 @@ ATC code (human): N07
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Onpattro is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (hATTR amyloidosis) in adult patients with stage 1 or stage 2 polyneuropathy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/onpattro

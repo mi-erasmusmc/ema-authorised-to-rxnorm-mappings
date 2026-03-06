@@ -8,5 +8,5 @@ ATC code (human): N05AH03
 Pharmacotherapeutic group (human): Psycholeptics
 Therapeutic indication: Olanzapine is indicated for the treatment of schizophrenia. Olanzapine is effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response. Olanzapine is indicated for the treatment of moderate to severe manic episode. In patients whose manic episode has responded to olanzapine treatment, olanzapine is indicated for the prevention of recurrence in patients with bipolar disorder.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/olanzapine-apotex

@@ -8,5 +8,5 @@ ATC code (human): B03XA02
 Pharmacotherapeutic group (human): Antianemic preparations
 Therapeutic indication: Treatment of symptomatic anaemia associated with chronic renal failure (CRF) in adults and paediatric patients.Treatment of symptomatic anaemia in adult cancer patients with non-myeloid malignancies receiving chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nespo

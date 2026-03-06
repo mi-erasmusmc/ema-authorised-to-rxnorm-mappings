@@ -8,5 +8,5 @@ ATC code (human): R03AL
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
 Therapeutic indication: Enerzair Breezhaler is indicated as a maintenance treatment of asthma in adult patients not adequately controlled with a maintenance combination of a long acting beta2 agonist and a high dose of an inhaled corticosteroid who experienced one or more asthma exacerbations in the previous year.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/enerzair-breezhaler

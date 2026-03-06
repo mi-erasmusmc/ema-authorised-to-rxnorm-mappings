@@ -8,5 +8,5 @@ ATC code (human): L04AA40
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Treatment of adult patients with highly active relapsing multiple sclerosis (MS) as defined by clinical or imaging features.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mavenclad

@@ -8,5 +8,5 @@ ATC code (human): S01EE04
 Pharmacotherapeutic group (human): Ophthalmologicals;Antiglaucoma preparations and miotics
 Therapeutic indication: Decrease of elevated intraocular pressure in adult patients with ocular hypertension or open-angle glaucoma (see section 5.1). Decrease of elevated intraocular pressure in paediatric patients aged 3 years to &lt; 18 years with ocular hypertension or paediatric glaucoma.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/izba

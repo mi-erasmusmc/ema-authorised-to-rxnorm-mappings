@@ -8,5 +8,5 @@ ATC code (human): L01BC59
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Colorectal cancer Lonsurf is indicated in combination with bevacizumab for the treatment of adult patients with metastatic colorectal cancer (CRC) who have received two prior anticancer treatment regimens including fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapies, anti-VEGF agents, and/or anti-EGFR agents. Lonsurf is indicated as monotherapy for the treatment of adult patients with metastatic colorectal cancer (CRC) who have been previously treated with, or are not considered candidates for, available therapies including fluoropyrimidine-, oxaliplatin- and irinotecan-based chemotherapies, anti-VEGF agents, and anti EGFR agents Gastric cancer Lonsurf is indicated as monotherapy for the treatment of adult patients with metastatic gastric cancer including adenocarcinoma of the gastroesophageal junction, who have been previously treated with at least two prior systemic treatment regimens for advanced disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lonsurf

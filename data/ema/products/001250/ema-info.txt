@@ -8,5 +8,5 @@ ATC code (human): A05AA03
 Pharmacotherapeutic group (human): Bile acids and derivatives
 Therapeutic indication: Orphacol is indicated for the treatment of inborn errors in primary bile acid synthesis due to3β-Hydroxy-Δ5-C27-steroid oxidoreductase deficiency or Δ4-3-Oxosteroid-5β-reductase deficiency ininfants, children and adolescents aged 1 month to 18 years and adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/orphacol

@@ -8,5 +8,5 @@ ATC code (human): L01XX70
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Yescarta is indicated for the treatment of adult patients with diffuse large B cell lymphoma (DLBCL) and high-grade B-cell lymphoma (HGBL) that relapses within 12 months from completion of, or is refractory to, first-line chemoimmunotherapy. Yescarta is indicated for the treatment of adult patients with relapsed or refractory (r/r) DLBCL and primary mediastinal large B cell lymphoma (PMBCL), after two or more lines of systemic therapy. Yescarta is indicated for the treatment of adult patients with r/r follicular lymphoma (FL) after three or more lines of systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/yescarta

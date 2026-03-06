@@ -8,5 +8,5 @@ ATC code (human): N07BB05
 Pharmacotherapeutic group (human): Drugs used in alcohol dependence
 Therapeutic indication: Selincro is indicated for the reduction of alcohol consumption in adult patients with alcohol dependence who have a high drinking-risk level (see section 5.1), without physical withdrawal symptoms and who do not require immediate detoxification. Selincro should only be prescribed in conjunction with continuous psychosocial support focused on treatment adherence and reducing alcohol consumption. Selincro should be initiated only in patients who continue to have a high drinking-risk level two weeks after initial assessment.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/selincro

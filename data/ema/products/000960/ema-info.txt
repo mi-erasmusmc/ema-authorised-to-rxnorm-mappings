@@ -8,5 +8,5 @@ ATC code (human): S01ED51
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Decrease of intraocular pressure (IOP) in adult patients with open angle glaucoma or ocular hypertension for whom monotherapy provides insufficient IOP reduction.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/azarga

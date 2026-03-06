@@ -8,5 +8,5 @@ ATC code (human): J05AR03
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Treatment of HIV-1 infection:  Truvada is indicated in antiretroviral combination therapy for the treatment of HIV-1 infected adults. Truvada is also indicated for the treatment of HIV-1 infected adolescents, with NRTI resistance or toxicities precluding the use of first line agents, aged 12 to &lt; 18 years.  Pre-exposure prophylaxis (PrEP):  Truvada is indicated in combination with safer sex practices for pre-exposure prophylaxis to reduce the risk of sexually acquired HIV-1 infection in adults at high risk.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/truvada

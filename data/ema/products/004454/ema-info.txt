@@ -8,5 +8,5 @@ ATC code (human): B02BD10
 Pharmacotherapeutic group (human): Antihemorrhagics
 Therapeutic indication: Prevention and treatment of haemorrhage or surgical bleeding in adults (age 18 years and older) with von Willebrand disease (VWD), when desmopressin (DDAVP) treatment alone is ineffective or contraindicated. Veyvondi should not be used in the treatment of Haemophilia A.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/veyvondi

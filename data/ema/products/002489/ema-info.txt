@@ -8,5 +8,5 @@ ATC code (human): L01ED01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Xalkori as monotherapy is indicated for:  The first line treatment of adults with anaplastic lymphoma kinase (ALK) positive advanced non small cell lung cancer (NSCLC) The treatment of adults with previously treated anaplastic lymphoma kinase (ALK) positive advanced non small cell lung cancer (NSCLC) The treatment of adults with ROS1 positive advanced non small cell lung cancer (NSCLC) The treatment of paediatric patients (age 1 to &lt;18 years) with relapsed or refractory systemic anaplastic lymphoma kinase (ALK) positive anaplastic large cell lymphoma (ALCL) The treatment of paediatric patients (age 1 to &lt;18 years) with recurrent or refractory anaplastic lymphoma kinase (ALK) positive unresectable inflammatory myofibroblastic tumour (IMT)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xalkori

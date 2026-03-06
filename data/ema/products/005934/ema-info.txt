@@ -8,5 +8,5 @@ ATC code (human): H05AA
 Pharmacotherapeutic group (human): Calcium homeostasis
 Therapeutic indication: Yorvipath is a parathyroid hormone (PTH) replacement therapy indicated for the treatment of adults with chronic hypoparathyroidism
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/yorvipath

@@ -8,5 +8,5 @@ ATC code (human): N06AX21
 Pharmacotherapeutic group (human): Other antidepressants
 Therapeutic indication: Treatment depressive disorder, diabetic neuropathic pain, anxiety disorder. Duloxetine Zentiva is indicated in adults.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/duloxetine-zentiva

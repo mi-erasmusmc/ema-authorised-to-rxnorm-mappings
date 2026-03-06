@@ -8,5 +8,5 @@ ATC code (human): A10BD04
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: AVAGLIM is indicated in the treatment of type 2 diabetes mellitus patients who are unable to achieve sufficient glycaemic control on optimal dosage of sulphonylurea monotherapy, and for whom metformin is inappropriate because of contraindication or intolerance.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/avaglim

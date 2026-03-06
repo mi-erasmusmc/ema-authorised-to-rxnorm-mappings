@@ -8,5 +8,5 @@ ATC code (human): B02BD
 Pharmacotherapeutic group (human): Blood coagulation factors
 Therapeutic indication: Treatment of severe and moderately severe Haemophilia B (congenital Factor IX deficiency) in adult patients without a history of Factor IX inhibitors.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hemgenix

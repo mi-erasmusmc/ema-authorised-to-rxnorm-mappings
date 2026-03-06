@@ -8,5 +8,5 @@ ATC code (human): A10BD03
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: AVANDAMET is indicated in the treatment of type 2 diabetes mellitus patients, particularly overweight patients:  who are unable to achieve sufficient glycaemic control at their maximally tolerated dose of oral metformin alone. in triple oral therapy with sulphonylurea in patients with insufficient glycaemic control despite dual oral therapy with their maximally tolerated dose of metformin and a sulphonylurea (see section 4.4).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/avandamet

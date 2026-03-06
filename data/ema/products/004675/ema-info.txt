@@ -8,5 +8,5 @@ ATC code (human): N03AX
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Epidyolex is indicated for use as adjunctive therapy of seizures associated with Lennox Gastaut syndrome (LGS) or Dravet syndrome (DS), in conjunction with clobazam, for patients 2 years of age and older.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/epidyolex

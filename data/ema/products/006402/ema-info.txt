@@ -8,5 +8,5 @@ ATC code (human): V03AE08
 Pharmacotherapeutic group (human): All other therapeutic products
 Therapeutic indication: Xoanacyl is indicated for the treatment of concomitant elevated serum phosphorous and iron deficiency in adult patients with chronic kidney disease (CKD).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xoanacyl

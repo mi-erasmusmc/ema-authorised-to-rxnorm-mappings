@@ -8,5 +8,5 @@ ATC code (human): L04AA48
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Treatment of chronic graft-versus-host disease (cGVHD) after failure of at least two prior lines of systemic therapy.&nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rezurock

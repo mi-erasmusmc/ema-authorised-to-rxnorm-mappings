@@ -8,5 +8,5 @@ ATC code (human): A09AA02
 Pharmacotherapeutic group (human): Digestives, incl. enzymes
 Therapeutic indication: Pancreatic enzyme replacement treatment in exocrine pancreatic insufficiency due to cystic fibrosis or other conditions (e.g. chronic pancreatitis, post pancreatectomy or pancreatic cancer).Enzepi is indicated in infants, children, adolescents and adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/enzepi

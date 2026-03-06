@@ -8,5 +8,5 @@ ATC code (human): C09XA54
 Pharmacotherapeutic group (human): Cardiovascular system
 Therapeutic indication: Rasitrio is indicated for the treatment of essential hypertension as substitution therapy in adult patients whose blood pressure is adequately controlled on the combination of aliskiren, amlodipine and hydrochlorothiazide given concurrently at the same dose level as in the combination.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rasitrio

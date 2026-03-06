@@ -8,5 +8,5 @@ ATC code (human): N07XX11
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Ozawade is indicated to improve wakefulness and reduce excessive daytime sleepiness (EDS) in adult patients with obstructive sleep apnoea (OSA)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ozawade

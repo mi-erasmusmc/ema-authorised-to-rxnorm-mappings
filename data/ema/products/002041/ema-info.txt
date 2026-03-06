@@ -8,5 +8,5 @@ ATC code (human): G03XB02
 Pharmacotherapeutic group (human): Sex hormones and modulators of the genital system
 Therapeutic indication: Ulipristal acetate is indicated for pre-operative treatment of moderate to severe symptoms of uterine fibroids in adult women of reproductive age. Ulipristal acetate is indicated for intermittent treatment of moderate to severe symptoms of uterine fibroids in adult women of reproductive age.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/esmya

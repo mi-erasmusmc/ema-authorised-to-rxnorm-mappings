@@ -8,5 +8,5 @@ ATC code (human): C03XA01
 Pharmacotherapeutic group (human): Diuretics
 Therapeutic indication: Tolvaptan is indicated in adults for the treatment of hyponatremia secondary to the syndrome of inappropriate antidiuretic hormone secretion (SIADH).
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tolvaptan-accord

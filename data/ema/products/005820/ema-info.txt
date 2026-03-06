@@ -8,5 +8,5 @@ ATC code (human): R03
 Pharmacotherapeutic group (human): 
 Therapeutic indication: Brinsupri is indicated for the treatment of non-cystic fibrosis bronchiectasis (NCFB) in patients 12 years of age and older with two or more exacerbations in the prior 12 months.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/brinsupri

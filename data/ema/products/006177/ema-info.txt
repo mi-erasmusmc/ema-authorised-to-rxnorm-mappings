@@ -8,5 +8,5 @@ ATC code (human): V04CF
 Pharmacotherapeutic group (human): Tuberculosis diagnostics
 Therapeutic indication: Diagnosis of infection with Mycobacterium tuberculosis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/siiltibcy

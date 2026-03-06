@@ -8,5 +8,5 @@ ATC code (human): A16AB19
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Palynziq is indicated for the treatment of patients with phenylketonuria (PKU) aged 16 years and older who have inadequate blood phenylalanine control (blood phenylalanine levels greater than 600 micromol/l) despite prior management with available treatment options.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/palynziq

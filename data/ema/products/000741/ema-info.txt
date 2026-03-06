@@ -8,5 +8,5 @@ ATC code (human): L01XC08
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Vectibix is indicated for the treatment of adult patients with wild-type RAS metastatic colorectal cancer (mCRC):  in first-line in combination with Folfox or Folfiri. in second-line in combination with Folfiri for patients who have received first-line fluoropyrimidine-based chemotherapy (excluding irinotecan). as monotherapy after failure of fluoropyrimidine-, oxaliplatin-, and irinotecan-containing chemotherapy regimens.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vectibix

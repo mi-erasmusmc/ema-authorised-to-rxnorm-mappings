@@ -8,5 +8,5 @@ ATC code (human): J07BC01
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Fendrix is indicated in adolescents and adults from the age of 15 years onwards for active immunisation against hepatitis B virus infection (HBV) caused by all known subtypes for patients with renal insufficiency (including pre-haemodialysis and haemodialysis patients).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fendrix

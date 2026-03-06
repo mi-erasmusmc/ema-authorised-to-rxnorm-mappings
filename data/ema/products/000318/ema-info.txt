@@ -8,5 +8,5 @@ ATC code (human): L01XD05
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Foscan is indicated for the palliative treatment of patients with advanced head and neck squamous cell carcinoma failing prior therapies and unsuitable for radiotherapy, surgery or systemic chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/foscan

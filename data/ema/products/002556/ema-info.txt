@@ -8,5 +8,5 @@ ATC code (human): L03AA14
 Pharmacotherapeutic group (human): Immunostimulants;Colony stimulating factors
 Therapeutic indication: Lonquex is indicated in adults and in children 2 years of age and older for reduction in the duration of neutropenia and the incidence of febrile neutropenia in patients treated with cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lonquex

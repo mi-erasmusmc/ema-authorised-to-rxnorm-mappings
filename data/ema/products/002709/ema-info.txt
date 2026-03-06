@@ -8,5 +8,5 @@ ATC code (human): J04AA01
 Pharmacotherapeutic group (human): Antimycobacterials
 Therapeutic indication: Granupas is indicated for use as part of an appropriate combination regimen for multi-drug resistant tuberculosis in adults and paediatric patients from 28 days of age and older when an effective treatment regimen cannot otherwise be composed for reasons of resistance or tolerability (see section 4.4). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/granupas

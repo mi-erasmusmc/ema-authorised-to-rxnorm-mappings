@@ -8,5 +8,5 @@ ATC code (human): V03AF11
 Pharmacotherapeutic group (human): Detoxifying agents for antineoplastic treatment
 Therapeutic indication: LysaKare is indicated for reduction of renal radiation exposure during Peptide-Receptor Radionuclide Therapy (PRRT) with lutetium (177Lu) oxodotreotide in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lysakare

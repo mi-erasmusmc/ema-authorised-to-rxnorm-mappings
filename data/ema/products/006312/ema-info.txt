@@ -8,5 +8,5 @@ ATC code (human): C02AC02
 Pharmacotherapeutic group (human): Antihypertensives
 Therapeutic indication: Paxneury is indicated&nbsp;for the&nbsp;treatment of&nbsp;attention deficit hyperactivity disorder (ADHD) in children&nbsp;and adolescents&nbsp;6‑17&nbsp;years old for&nbsp;whom stimulants are not suitable,&nbsp;not tolerated or have been shown&nbsp;to be ineffective. Paxneury must be used as&nbsp;a part of&nbsp;a comprehensive ADHD treatment programme, typically including&nbsp;psychological, educational and social measures.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/paxneury

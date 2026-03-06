@@ -8,5 +8,5 @@ ATC code (human): C03DA01
 Pharmacotherapeutic group (human): Antihypertensives and diuretics in combination
 Therapeutic indication: In the management of refractory oedema associated with congestive cardiac failure; hepatic cirrhosis with ascites and oedema, malignant ascites, nephrotic syndrome, diagnosis and treatment of primary aldosteronism, essential hypertension. Neonates, children and adolescents should only be treated under guidance of a paediatric specialist (see sections 5.1 and 5.2). 
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/qaialdo

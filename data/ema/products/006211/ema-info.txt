@@ -8,5 +8,5 @@ ATC code (human): B06AC08
 Pharmacotherapeutic group (human): Other hematological agents
 Therapeutic indication: Ekterly is indicated for symptomatic treatment of acute attacks of hereditary angioedema (HAE) in adults and adolescents aged 12 years and older.&nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ekterly

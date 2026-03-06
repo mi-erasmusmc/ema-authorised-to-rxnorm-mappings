@@ -8,5 +8,5 @@ ATC code (human): L04AA34
 Pharmacotherapeutic group (human): Selective immunosuppressants
 Therapeutic indication: Lemtrada is indicated for adult patients with relapsing-remitting multiple sclerosis (RRMS) with active disease defined by clinical or imaging features.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lemtrada

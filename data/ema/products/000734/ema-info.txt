@@ -8,5 +8,5 @@ ATC code (human): J02AX05
 Pharmacotherapeutic group (human): Antimycotics for systemic use
 Therapeutic indication: Mycamine is indicated for: Adults, adolescents ≥ 16 years of age and elderly  treatment of invasive candidiasis; treatment of oesophageal candidiasis in patients for whom intravenous therapy is appropriate; prophylaxis of Candida infection in patients undergoing allogeneic haematopoietic stem-cell transplantation or patients who are expected to have neutropenia (absolute neutrophil count &lt; 500 cells/µl) for 10 or more days.  Children (including neonates) and adolescents &lt; 16 years of age  treatment of invasive candidiasis. prophylaxis of Candida infection in patients undergoing allogeneic haematopoietic stem-cell transplantation or patients who are expected to have neutropenia (absolute neutrophil count &lt; 500 cells/µl) for 10 or more days.  The decision to use Mycamine should take into account a potential risk for the development of liver tumours. Mycamine should therefore only be used if other antifungals are not appropriate.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mycamine

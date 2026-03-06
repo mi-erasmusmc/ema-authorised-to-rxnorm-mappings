@@ -8,5 +8,5 @@ ATC code (human): B02BD06
 Pharmacotherapeutic group (human): Blood coagulation factors;von Willebrand factor and coagulation factor VIII in combination;Antihemorrhagics
 Therapeutic indication: Von Willebrand disease (VWD) Prophylaxis and treatment of haemorrhage or surgical bleeding in patients with VWD, when desmopressin (DDAVP) treatment alone is ineffective or contraindicated. Haemophilia A (congenital factor-VIII deficiency) Prophylaxis and treatment of bleeding in patients with haemophilia A.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/voncento

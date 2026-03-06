@@ -4,9 +4,9 @@ Medicine status: Authorised
 International non-proprietary name (INN) / common name: ivosidenib
 Active substance: Ivosidenib
 Therapeutic area (MeSH): Leukemia, Myeloid, Acute;Cholangiocarcinoma
-ATC code (human): L01XX62
+ATC code (human): L01XM02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Tibsovo in combination with azacitidine is indicated for the treatment of adult patients with newly diagnosed acute myeloid leukaemia (AML) with an isocitrate dehydrogenase-1 (IDH1) R132 mutation who are not eligible to receive standard induction chemotherapy (see section 5.1). Tibsovo monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic cholangiocarcinoma with an IDH1 R132 mutation who were previously treated by at least one prior line of systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tibsovo

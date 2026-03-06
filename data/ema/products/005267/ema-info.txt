@@ -8,5 +8,5 @@ ATC code (human): H01CC54
 Pharmacotherapeutic group (human): Pituitary and hypothalamic hormones and analogues
 Therapeutic indication: Ryeqo is indicated in adult women of reproductive age for: - treatment of moderate to severe symptoms of uterine fibroids, - symptomatic treatment of endometriosis in women with a history of previous medical or surgical treatment for their endometriosis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ryeqo

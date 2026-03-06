@@ -8,5 +8,5 @@ ATC code (human): N03AX14
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Levetiracetam Actavis Group is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy. Levetiracetam Actavis Group is indicated as adjunctive therapy:  in the treatment of partial-onset seizures with or without secondary generalisation in adults, children and infants from 1 month of age with epilepsy; in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with juvenile myoclonic epilepsy; in the treatment of primary generalised tonic-clonic seizures in adults and adolescents from 12 years of age with idiopathic generalised epilepsy.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-actavis-group

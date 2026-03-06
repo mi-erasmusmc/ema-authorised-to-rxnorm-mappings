@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006313
+Name of medicine: Rhapsido
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: remibrutinib
+Active substance: remibrutinib
+Therapeutic area (MeSH): Urticaria
+ATC code (human): L04AA
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Treatment of chronic spontaneous urticaria in patients with inadequate response to H1 antihistamine.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rhapsido

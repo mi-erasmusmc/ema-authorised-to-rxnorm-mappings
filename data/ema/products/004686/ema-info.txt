@@ -8,5 +8,5 @@ ATC code (human): J05AR03
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Emtricitabine/Tenofovir disoproxil Krka d.d. is indicated in antiretroviral combination therapy for the treatment of HIV-1 infected adults. Emtricitabine/Tenofovir disoproxil Krka d.d. is also indicated for the treatment of HIV-1 infected adolescents, with NRTI resistance or toxicities precluding the use of first line agents, aged 12 to &lt; 18 years.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-disoproxil-krka-dd

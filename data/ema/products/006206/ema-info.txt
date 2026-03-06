@@ -8,5 +8,5 @@ ATC code (human): L01EK01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Axitinib Accord is indicated for the treatment of adult patients with advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/axitinib-accord

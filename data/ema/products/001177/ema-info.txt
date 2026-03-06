@@ -8,5 +8,5 @@ ATC code (human): N05AH05
 Pharmacotherapeutic group (human): Psycholeptics
 Therapeutic indication: Sycrest is indicated for the treatment of moderate to severe manic episodes associated with bipolar I disorder in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sycrest

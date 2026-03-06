@@ -8,5 +8,5 @@ ATC code (human): H05BA01
 Pharmacotherapeutic group (human): Calcium homeostasis
 Therapeutic indication: Calcitonin is indicated for:  Prevention of acute bone loss due to sudden immobilisation such as in patients with recent osteoporotic fractures Paget's disease Hypercalcaemia of malignancy
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/forcaltonin

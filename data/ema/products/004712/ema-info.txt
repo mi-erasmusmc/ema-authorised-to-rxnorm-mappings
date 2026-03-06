@@ -8,5 +8,5 @@ ATC code (human): L04
 Pharmacotherapeutic group (human): Selective immunosuppressants
 Therapeutic indication: Mayzent is indicated for the treatment of adult patients with secondary progressive multiple sclerosis (SPMS) with active disease evidenced by relapses or imaging features of inflammatory activity.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mayzent

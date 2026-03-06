@@ -8,5 +8,5 @@ ATC code (human): L03AX14
 Pharmacotherapeutic group (human): Immunostimulants
 Therapeutic indication: Ceplene maintenance therapy is indicated for adult patients with acute myeloid leukaemia in first remission concomitantly treated with interleukin-2 (IL-2). The efficacy of Ceplene has not been fully demonstrated in patients older than age 60.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ceplene

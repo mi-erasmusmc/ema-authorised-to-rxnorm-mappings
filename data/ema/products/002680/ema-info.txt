@@ -8,5 +8,5 @@ ATC code (human): N06DX01
 Pharmacotherapeutic group (human): Psychoanaleptics;Other anti-dementia drugs
 Therapeutic indication: Treatment of patients with moderate to severe Alzheimer’s disease.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nemdatine

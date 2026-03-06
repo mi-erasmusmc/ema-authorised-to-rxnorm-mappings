@@ -8,5 +8,5 @@ ATC code (human): R03DX07
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
 Therapeutic indication: Daxas is indicated for maintenance treatment of severe chronic obstructive pulmonary disease (COPD) (FEV1 post-bronchodilator less than 50% predicted) associated with chronic bronchitis in adult patients with a history of frequent exacerbations as add-on to bronchodilator treatment.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/daxas

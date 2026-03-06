@@ -8,5 +8,5 @@ ATC code (human): L04AC18
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Plaque PsoriasisSkyrizi is indicated for the treatment of moderate to severe plaque psoriasis in adults who are candidates for systemic therapy.Psoriatic ArthritisSkyrizi, alone or in combination with methotrexate (MTX), is indicated for the treatment of active psoriatic arthritis in adults who have had an inadequate response or who have been intolerant to one or more disease-modifying antirheumatic drugs (DMARDs). Crohn’s diseaseSkyrizi is indicated for the treatment of adult patients with moderately to severely active Crohn's disease who have had an inadequate response to, lost response to, or were intolerant to conventional therapy or a biologic therapy. Ulcerative colitisSkyrizi is indicated for the treatment of adult patients with moderately to severely active ulcerative colitis who have had an inadequate response to, lost response to, or were intolerant to conventional therapy or a biologic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi

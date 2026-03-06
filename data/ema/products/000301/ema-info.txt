@@ -8,5 +8,5 @@ ATC code (human): M03AX01
 Pharmacotherapeutic group (human): Muscle relaxants
 Therapeutic indication: NeuroBloc is indicated for the treatment of cervical dystonia (torticollis). See section 5.1 for data on efficacy in patients responsive / resistant to botulinum toxin type A.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/neurobloc

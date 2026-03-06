@@ -8,5 +8,5 @@ ATC code (human): B01AD10
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Xigris is indicated for the treatment of adult patients with severe sepsis with multiple organ failure when added to best standard care. The use of Xigris should be considered mainly in situations when therapy can be started within 24 hours after the onset of organ failure (for further information see section 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xigris

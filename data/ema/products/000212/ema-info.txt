@@ -8,5 +8,5 @@ ATC code (human): D03AX06
 Pharmacotherapeutic group (human): Preparations for treatment of wounds and ulcers
 Therapeutic indication: Regranex is indicated, in association with other good wound care measures, to promote granulation and thereby the healing of full-thickness, neuropathic, chronic, diabetic ulcers less than or equal to 5 cm2.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/regranex

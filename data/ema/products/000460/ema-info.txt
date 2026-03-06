@@ -8,5 +8,5 @@ ATC code (human): V09
 Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
 Therapeutic indication: To be used only for the radiolabelling of carrier molecules which have been specifically developed and authorised for radiolabelling with this radionuclide.Radiopharmaceutical precursor - Not intended for direct application to patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ytracis

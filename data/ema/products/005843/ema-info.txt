@@ -8,5 +8,5 @@ ATC code (human): D11AH
 Pharmacotherapeutic group (human): Other dermatological preparations
 Therapeutic indication: Opzelura is indicated for the treatment of non-segmental vitiligo with facial involvement in adults and adolescents from 12 years of age.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/opzelura

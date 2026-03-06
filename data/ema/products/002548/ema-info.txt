@@ -8,5 +8,5 @@ ATC code (human): D02BB02
 Pharmacotherapeutic group (human): Emollients and protectives
 Therapeutic indication: Prevention of phototoxicity in adult patients with erythropoietic protoporphyria (EPP).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/scenesse

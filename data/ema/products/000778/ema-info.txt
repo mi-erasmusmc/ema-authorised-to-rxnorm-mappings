@@ -8,5 +8,5 @@ ATC code (human): L01CD01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Abraxane monotherapy is indicated for the treatment of metastatic breast cancer in adult patients who have failed first-line treatment for metastatic disease and for whom standard, anthracycline containing therapy is not indicated. Abraxane in combination with gemcitabine is indicated for the first-line treatment of adult patients with metastatic adenocarcinoma of the pancreas. Abraxane in combination with carboplatin is indicated for the first-line treatment of non-small cell lung cancer in adult patients who are not candidates for potentially curative surgery and/or radiation therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/abraxane

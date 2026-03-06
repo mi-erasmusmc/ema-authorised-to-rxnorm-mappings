@@ -8,5 +8,5 @@ ATC code (human): G03AA14
 Pharmacotherapeutic group (human): Sex hormones and modulators of the genital system
 Therapeutic indication: Oral contraception.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ioa

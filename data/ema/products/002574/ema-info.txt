@@ -8,5 +8,5 @@ ATC code (human): J05AR09
 Pharmacotherapeutic group (human): Antivirals for treatment of HIV infections, combinations;Antivirals for systemic use
 Therapeutic indication: Treatment of human immunodeficiency virus 1 (HIV 1) infection in adults aged 18 years and over who are antiretroviral treatment-naïve or are infected with HIV 1 without known mutations associated with resistance to any of the three antiretroviral agents in Stribild.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/stribild

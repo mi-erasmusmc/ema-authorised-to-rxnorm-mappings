@@ -8,5 +8,5 @@ ATC code (human): A04AD12
 Pharmacotherapeutic group (human): Antiemetics and antinauseants
 Therapeutic indication: Emend 40 mg hard capsules is indicated for the prevention of postoperative nausea and vomiting (PONV) in adults. Emend is also available as 80 mg and 125 mg hard capsules for the prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in adults and adolescents from the age of 12 (see separate Summary of Product Characteristics). Emend is also available as 165 mg hard capsules for the prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin based cancer chemotherapy in adults and the prevention of nausea and vomiting associated with moderately emetogenic cancer chemotherapy in adults. Emend is also available as powder for oral suspension for the prevention of nausea and vomiting associated with highly and moderately emetogenic cancer chemotherapy in children, toddlers and infants from the age of 6 months to less than 12 years. Emend 80 mg, 125 mg, 165 mg hard capsules and Emend powder for oral suspension are given as part of combination therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emend

@@ -8,5 +8,5 @@ ATC code (human): N07XX16
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Treatment of moderate to severe tardive dyskinesia in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/austedo

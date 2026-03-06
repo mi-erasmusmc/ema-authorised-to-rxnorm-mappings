@@ -8,5 +8,5 @@ ATC code (human): L01EE
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Ezmekly as monotherapy is indicated for the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in paediatric and adult patients with neurofibromatosis type 1 (NF1) aged 2 years and above.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ezmekly

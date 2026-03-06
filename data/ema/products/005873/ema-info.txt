@@ -8,5 +8,5 @@ ATC code (human): L04AX05
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Pirfenidone AET is indicated in adults for the treatment of mild to moderate idiopathic pulmonary fibrosis (IPF).
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pirfenidone-axunio

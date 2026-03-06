@@ -8,5 +8,5 @@ ATC code (human): B06AC
 Pharmacotherapeutic group (human): Other hematological agents
 Therapeutic indication: Orladeyo is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in adult and adolescent patients aged 12 years and older.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/orladeyo

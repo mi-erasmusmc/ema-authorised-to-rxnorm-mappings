@@ -8,5 +8,5 @@ ATC code (human): J05AX65
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Harvoni is indicated for the treatment of chronic hepatitis C (CHC) in adult and paediatric patients aged 3 years and above (see sections 4.2, 4.4 and 5.1). For hepatitis C virus (HCV) genotype-specific activity see sections 4.4 and 5.1.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/harvoni

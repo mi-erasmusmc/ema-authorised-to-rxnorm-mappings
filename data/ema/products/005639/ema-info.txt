@@ -8,5 +8,5 @@ ATC code (human): B01AE07
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Prevention of venous thromboembolic events
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dabigatran-etexilate-accord

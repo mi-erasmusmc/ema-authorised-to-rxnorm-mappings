@@ -8,5 +8,5 @@ ATC code (human): A10BJ01
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Byetta is indicated for treatment of type-2 diabetes mellitus in combination with:  metformin; sulphonylureas; thiazolidinediones; metformin and a sulphonylurea; metformin and a thiazolidinedione;  in adults who have not achieved adequate glycaemic control on maximally tolerated doses of these oral therapies. Byetta is also indicated as adjunctive therapy to basal insulin with or without metformin and / or pioglitazone in adults who have not achieved adequate glycaemic control with these agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/byetta

@@ -8,5 +8,5 @@ ATC code (human): N04BA03
 Pharmacotherapeutic group (human): Anti-Parkinson drugs
 Therapeutic indication: Corbilta is indicated for the treatment of adult patients with Parkinson’s disease and end-of-dose motor fluctuations not stabilised on levodopa/dopa decarboxylase (DDC) inhibitor treatment.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/corbilta

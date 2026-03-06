@@ -8,5 +8,5 @@ ATC code (human): N06DA03
 Pharmacotherapeutic group (human): Psychoanaleptics
 Therapeutic indication: Symptomatic treatment of mild to moderately severe Alzheimer's dementia. Symptomatic treatment of mild to moderately severe dementia in patients with idiopathic Parkinson's disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/prometax

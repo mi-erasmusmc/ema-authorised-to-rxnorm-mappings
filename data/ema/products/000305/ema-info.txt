@@ -8,5 +8,5 @@ ATC code (human): S01LA01
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Visudyne is indicated for the treatment of:  adults with exudative (wet) age-related macular degeneration (AMD) with predominantly classic subfoveal choroidal neovascularisation (CNV) or; adults with subfoveal choroidal neovascularisation secondary to pathological myopia.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/visudyne

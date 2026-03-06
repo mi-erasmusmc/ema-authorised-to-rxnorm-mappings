@@ -8,5 +8,5 @@ ATC code (human): L01XX74
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Renal cell carcinoma (RCC)  Welireg is indicated as monotherapy for the treatment of adult patients with advanced clear cell renal cell carcinoma that progressed following two or more lines of therapy that included a PD-(L)1 inhibitor and at least two VEGF-targeted therapies.  von Hippel-Lindau (VHL) disease-associated tumours  Welireg is indicated as monotherapy for the treatment of adult patients with von Hippel-Lindau disease who require therapy for associated, localised renal cell carcinoma (RCC), central nervous system (CNS) haemangioblastomas, or pancreatic neuroendocrine tumours (pNET), and for whom localised procedures are unsuitable.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/welireg

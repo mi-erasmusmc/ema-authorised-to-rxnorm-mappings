@@ -8,5 +8,5 @@ ATC code (human): L04AA28
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Nulojix, in combination with corticosteroids and a mycophenolic acid (MPA), is indicated for prophylaxis of graft rejection in adult&nbsp;recipients of a renal transplant.&nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nulojix

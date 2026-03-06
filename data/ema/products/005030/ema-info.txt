@@ -8,5 +8,5 @@ ATC code (human): H01AC07
 Pharmacotherapeutic group (human): Pituitary and hypothalamic hormones and analogues
 Therapeutic indication: Sogroya is indicated for the replacement of endogenous growth hormone (GH) in children &nbsp;aged 3 &nbsp;years and above, and adolescents with growth failure due to growth hormone deficiency (paediatric GHD), and in adults with growth hormone deficiency (adult GHD).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sogroya

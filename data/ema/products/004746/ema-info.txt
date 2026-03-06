@@ -8,5 +8,5 @@ ATC code (human): J05AR
 Pharmacotherapeutic group (human): Antivirals for treatment of HIV infections, combinations
 Therapeutic indication: Delstrigo is indicated for the treatment of adults infected with HIV 1 without past or present evidence of resistance to the NNRTI class, lamivudine, or tenofovir. Delstrigo is also indicated for the treatment of adolescents aged 12 years and older weighing at least 35 kg who are infected with HIV-1 without past or present evidence of resistance to the NNRTI class, lamivudine, or tenofovir and who have experienced toxicities which preclude the use of other regimens that do not contain tenofovir disoproxil.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/delstrigo

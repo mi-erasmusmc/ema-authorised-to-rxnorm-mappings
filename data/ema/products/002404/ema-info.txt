@@ -8,5 +8,5 @@ ATC code (human): R06AX27
 Pharmacotherapeutic group (human): Antihistamines for systemic use
 Therapeutic indication: Desloratadine ratiopharm is indicated in adults for the relief of symptoms associated with:  allergic rhinitis chronic idiopathic urticaria as initially diagnosed by a physician
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-ratiopharm

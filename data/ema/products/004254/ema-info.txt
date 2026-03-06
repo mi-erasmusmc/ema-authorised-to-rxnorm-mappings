@@ -8,5 +8,5 @@ ATC code (human): L04AC14
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Rheumatoid arthritisKevzara in combination with methotrexate (MTX) is indicated for the treatment of moderately to severely active rheumatoid arthritis (RA) in adult patients who have responded inadequately to, or who are intolerant to one or more disease modifying anti rheumatic drugs (DMARDs). Kevzara can be given as monotherapy in case of intolerance to MTX or when treatment with MTX is inappropriate.&nbsp;Polymyalgia rheumaticaKevzara is indicated for the treatment of polymyalgia rheumatica (PMR) in adult patients who have had an inadequate response to corticosteroids or who experience a relapse during corticosteroid taper. Polyarticular juvenile idiopathic arthritis Kevzara is indicated for the treatment of active polyarticular juvenile idiopathic arthritis (pJIA; rheumatoid factor positive or negative polyarthritis and extended oligoarthritis) in patients 2&nbsp;years of age and older, who have responded inadequately to previous therapy with conventional synthetic DMARDs (csDMARDs). Kevzara may be used as monotherapy or in combination with MTX.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kevzara

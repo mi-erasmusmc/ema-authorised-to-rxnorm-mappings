@@ -8,5 +8,5 @@ ATC code (human): M09A
 Pharmacotherapeutic group (human): Other drugs for disorders of the musculo-skeletal system
 Therapeutic indication: Treatment of paediatric and adult patients with thymidine kinase 2 deficiency (TK2d) with an age of symptom onset on or before 12 years
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kygevvi

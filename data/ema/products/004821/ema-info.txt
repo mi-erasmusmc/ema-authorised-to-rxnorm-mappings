@@ -8,5 +8,5 @@ ATC code (human): H02CA02
 Pharmacotherapeutic group (human): Corticosteroids for systemic use
 Therapeutic indication: Isturisa is indicated for the treatment of endogenous Cushing’s syndrome in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/isturisa

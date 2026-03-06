@@ -8,5 +8,5 @@ ATC code (human): N06DA03
 Pharmacotherapeutic group (human): Psychoanaleptics;Anticholinesterases
 Therapeutic indication: Symptomatic treatment of mild to moderately severe Alzheimer's dementia.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rivastigmine-3m-health-care-ltd

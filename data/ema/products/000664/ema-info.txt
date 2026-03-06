@@ -8,5 +8,5 @@ ATC code (human): N03AX17
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Diacomit is indicated for use in conjunction with clobazam and valproate as adjunctive therapy of refractory generalized tonic-clonic seizures in patients with severe myoclonic epilepsy in infancy (SMEI, Dravet's syndrome) whose seizures are not adequately controlled with clobazam and valproate.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/diacomit

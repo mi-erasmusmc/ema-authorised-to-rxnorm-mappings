@@ -8,5 +8,5 @@ ATC code (human): N03AX15
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Monotherapy in the treatment of partial seizures, with or without secondary generalisation, in adults with newly diagnosed epilepsy; adjunctive therapy in the treatment of partial seizures, with or without secondary generalisation, in adults, adolescents, and children aged 6 years and above.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zonisamide-viatris

@@ -8,5 +8,5 @@ ATC code (human): L01XY01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Vyxeos liposomal is indicated for the treatment of adults with newly diagnosed, therapy-related acute myeloid leukaemia (t-AML) or AML with myelodysplasia-related changes (AML-MRC).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vyxeos-liposomal

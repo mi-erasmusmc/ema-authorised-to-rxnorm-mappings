@@ -8,5 +8,5 @@ ATC code (human): L01XX35
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Xagrid is indicated for the reduction of elevated platelet counts in at-risk essential-thrombocythaemia (ET) patients who are intolerant to their current therapy or whose elevated platelet counts are not reduced to an acceptable level by their current therapy. An at-risk patient An at-risk ET is defined by one or more of the following features:  &gt;60 years of age or; a platelet count &gt;1000 x 109/l or; a history of thrombohaemorrhagic events.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xagrid

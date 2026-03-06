@@ -8,5 +8,5 @@ ATC code (human): L03AX16
 Pharmacotherapeutic group (human): Immunostimulants
 Therapeutic indication: Mozobil is indicated in combination with granulocyte-colony-stimulating factor to enhance mobilisation of haematopoietic stem cells to the peripheral blood for collection and subsequent autologous transplantation in patients with lymphoma and multiple myeloma whose cells mobilise poorly.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mozobil

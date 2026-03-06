@@ -8,5 +8,5 @@ ATC code (human): L01FF13
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Loqtorzi, in combination with cisplatin and gemcitabine, is indicated for the first-line treatment of adult patients with recurrent, not amenable to surgery or radiotherapy, or metastatic nasopharyngeal carcinoma. Loqtorzi, in combination with cisplatin and paclitaxel, is indicated for the first-line treatment of adult patients with unresectable advanced, recurrent, or metastatic oesophageal squamous cell carcinoma.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/loqtorzi

@@ -8,5 +8,5 @@ ATC code (human): M05BB03
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
 Therapeutic indication: Treatment of postmenopausal osteoporosis in patients at risk of vitamin-D insufficiency. Adrovance reduces the risk of vertebral and hip fractures.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/adrovance

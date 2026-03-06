@@ -8,5 +8,5 @@ ATC code (human): R07AX33
 Pharmacotherapeutic group (human): Other respiratory system products
 Therapeutic indication: Alyftrek tablets are indicated for the treatment of cystic fibrosis (CF) in people aged 6 years and older who have at least one non-Class I mutation in the cystic fibrosis transmembrane conductance regulator (CFTR) gene (see sections 4.2 and 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alyftrek

@@ -8,5 +8,5 @@ ATC code (human): L01EE01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Melanoma Trametinib as monotherapy or in combination with dabrafenib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation (see sections 4.4 and 5.1). Trametinib monotherapy has not demonstrated clinical activity in patients who have progressed on a prior BRAF inhibitor therapy (see section 5.1). Adjuvant treatment of melanoma Trametinib in combination with dabrafenib is indicated for the adjuvant treatment of adult patients with Stage III melanoma with a BRAF V600 mutation, following complete resection. Non-small cell lung cancer (NSCLC) Trametinib in combination with dabrafenib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600 mutation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mekinist

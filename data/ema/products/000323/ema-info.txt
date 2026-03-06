@@ -8,5 +8,5 @@ ATC code (human): J07AL02
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Active immunisation against disease caused by Streptococcus pneumoniae serotypes 4, 6B, 9V, 14, 18C, 19F and 23F (including sepsis, meningitis, pneumonia, bacteraemia and acute otitis media) in infants and children from two months up to five years of age. The use of Prevenar should be determined on the basis of official recommendations taking into consideration the impact of invasive disease in different age groups as well as variability of serotype epidemiology in different geographical areas.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/prevenar

@@ -8,5 +8,5 @@ ATC code (human): H04AA02
 Pharmacotherapeutic group (human): Pancreatic hormones
 Therapeutic indication: Zegalogue is indicated for the treatment of severe hypoglycaemia in adults, adolescents, and children aged 6 years and over with diabetes mellitus.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zegalogue

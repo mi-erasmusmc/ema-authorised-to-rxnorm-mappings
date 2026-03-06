@@ -8,5 +8,5 @@ ATC code (human): B03XA05
 Pharmacotherapeutic group (human): Antianemic preparations
 Therapeutic indication: Evrenzo is indicated for treatment of adult patients with symptomatic anaemia associated with chronic kidney disease (CKD).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evrenzo

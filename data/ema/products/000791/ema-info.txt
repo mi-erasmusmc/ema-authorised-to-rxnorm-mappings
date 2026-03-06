@@ -8,5 +8,5 @@ ATC code (human): L04AA25
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Soliris is indicated in adults and children for the treatment of:  Paroxysmal nocturnal haemoglobinuria (PNH).  Evidence of clinical benefit is demonstrated in patients with haemolysis with clinical symptom(s) indicative of high disease activity, regardless of transfusion history (see section 5.1).  &nbsp;Atypical haemolytic uremic syndrome (aHUS).  Soliris is indicated in adults for the treatment of:  Refractory generalized myasthenia gravis (gMG) in patients who are anti-acetylcholine receptor (AChR) antibody-positive (see section 5.1). Neuromyelitis optica spectrum disorder (NMOSD) in patients who are anti-aquaporin-4 (AQP4) antibody-positive with a relapsing course of the disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/soliris

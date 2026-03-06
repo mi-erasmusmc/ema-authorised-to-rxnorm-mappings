@@ -8,5 +8,5 @@ ATC code (human): N05CH01
 Pharmacotherapeutic group (human): Psycholeptics
 Therapeutic indication: Slenyto is indicated for:  treatment of insomnia in children and adolescents aged 2-18 years with Autism Spectrum Disorder (ASD), and / or neurogenetic disorders with aberrant diurnal melatonin secretion and /or nocturnal awakenings, where sleep hygiene measures have been insufficient. treatment of insomnia in children and adolescents aged 6-17 years with attention-deficit hyperactivity disorder (ADHD) where sleep hygiene measures have been insufficient.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/slenyto

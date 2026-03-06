@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006428
+Name of medicine: mNexspike
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: COVID-19 mRNA vaccine
+Active substance: mRNA encoding for the linked NTD and RBD domains of the spike glycoprotein of SARS-CoV-2 (mRNA-1283)
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J07BN01
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: mNEXSPIKE is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 12 years of age and older. The use of this vaccine should be in accordance with official recommendations.&nbsp;
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mnexspike

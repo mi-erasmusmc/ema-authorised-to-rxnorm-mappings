@@ -8,5 +8,5 @@ ATC code (human): L01EX09
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Ofev is indicated in adults for the treatment of Idiopathic Pulmonary Fibrosis (IPF).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ofev

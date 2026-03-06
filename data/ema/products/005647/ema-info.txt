@@ -8,5 +8,5 @@ ATC code (human): C02KX06
 Pharmacotherapeutic group (human): Antihypertensives
 Therapeutic indication: Winrevair, in combination with other pulmonary arterial hypertension (PAH) therapies, is indicated for the treatment of PAH in adult patients with WHO Functional Class (FC) II to III, to improve exercise capacity (see section 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/winrevair

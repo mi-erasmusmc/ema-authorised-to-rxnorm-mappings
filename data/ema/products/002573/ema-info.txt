@@ -8,5 +8,5 @@ ATC code (human): L01EX05
 Pharmacotherapeutic group (human): Antineoplastic agents;Protein kinase inhibitors
 Therapeutic indication: Stivarga is indicated as monotherapy for the treatment of adult patients with:  metastatic colorectal cancer (CRC) who have been previously treated with, or are not considered candidates for, available therapies - these include fluoropyrimidine-based chemotherapy, an anti-VEGF therapy and an anti-EGFR therapy; unresectable or metastatic gastrointestinal stromal tumors (GIST) who progressed on or are intolerant to prior treatment with imatinib and sunitinib; hepatocellular carcinoma (HCC) who have been previously treated with sorafenib.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/stivarga

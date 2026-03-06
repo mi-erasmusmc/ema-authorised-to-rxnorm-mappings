@@ -8,5 +8,5 @@ ATC code (human): J01DH03
 Pharmacotherapeutic group (human): Antibacterials for systemic use
 Therapeutic indication: Treatment Treatment of the following infections when caused by bacteria known or very likely to be susceptible to ertapenem and when parenteral therapy is required:  intra-abdominal infections; community-acquired pneumonia; acute gynaecological infections; diabetic foot infections of the skin and soft tissue.  Prevention Invanz is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/invanz

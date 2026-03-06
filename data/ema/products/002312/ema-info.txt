@@ -8,5 +8,5 @@ ATC code (human): J05AR08
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Eviplera is indicated for the treatment of adults infected with human immunodeficiency virus type 1 (HIV-1) without known mutations associated with resistance to the non-nucleoside reverse transcriptase inhibitor (NNRTI) class, tenofovir or emtricitabine, and with a viral load ? 100,000 HIV-1 RNA copies/mL. As with other antiretroviral medicinal products, genotypic resistance testing and/or historical resistance data should guide the use of Eviplera.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/eviplera

@@ -8,5 +8,5 @@ ATC code (human): M09AX02
 Pharmacotherapeutic group (human): Other drugs for disorders of the musculo-skeletal system
 Therapeutic indication: Repair of symptomatic articular cartilage defects of the femoral condyle and the patella of the knee (International Cartilage Repair Society [ICRS] grade III or IV) with defect sizes up to 10 cm2 in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spherox

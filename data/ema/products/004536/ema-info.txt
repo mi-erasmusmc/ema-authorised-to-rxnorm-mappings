@@ -8,5 +8,5 @@ ATC code (human): J05
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Prevymis is indicated for prophylaxis of cytomegalovirus (CMV) reactivation and disease in adult and paediatric patients weighing at least 5 kg who are CMV-seropositive recipients [R+] of an allogeneic haematopoietic stem cell transplant (HSCT).Prevymis is indicated for prophylaxis of CMV disease in CMV-seronegative adult and paediatric patients weighing at least 40 kg who have received a kidney transplant from a CMV-seropositive donor [D+/R-].Prevymis is indicated for prophylaxis of cytomegalovirus (CMV) reactivation and disease in adult and paediatric patients weighing at least 15 kg who are CMV-seropositive recipients [R+] of an allogeneic haematopoietic stem cell transplant (HSCT). Consideration should be given to official guidance on the appropriate use of antiviral agents.&nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/prevymis

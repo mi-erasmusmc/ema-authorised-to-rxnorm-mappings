@@ -8,5 +8,5 @@ ATC code (human): L04AA
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Idefirix is indicated for desensitisation treatment of highly sensitised adult kidney transplant patients with positive crossmatch against an available deceased donor. The use of Idefirix should be reserved for patients unlikely to be transplanted under the available kidney allocation system including prioritisation programmes for highly sensitised patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/idefirix

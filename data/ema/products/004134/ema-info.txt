@@ -8,5 +8,5 @@ ATC code (human): J02AX04
 Pharmacotherapeutic group (human): Antimycotics for systemic use
 Therapeutic indication: Treatment of invasive candidiasis in adult or paediatric patients. Treatment of invasive aspergillosis in adult or paediatric patients who are refractory to or intolerant of amphotericin B, lipid formulations of amphotericin B and/or itraconazole. Refractoriness is defined as progression of infection or failure to improve after a minimum of 7 days of prior therapeutic doses of effective antifungal therapy. Empirical therapy for presumed fungal infections (such as Candida or Aspergillus) in febrile, neutropaenic adult or paediatric patients.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/caspofungin-accord

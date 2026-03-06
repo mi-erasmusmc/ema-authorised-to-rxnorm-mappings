@@ -8,5 +8,5 @@ ATC code (human): M05BA06
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases;Bisphosphonates
 Therapeutic indication: Ibandronic acid Sandoz is indicated for the prevention of skeletal events (pathological fractures, bone complications requiring radiotherapy or surgery) in patients with breast cancer and bone metastases.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ibandronic-acid-sandoz

@@ -8,5 +8,5 @@ ATC code (human): P01BE03
 Pharmacotherapeutic group (human): Antiprotozoals
 Therapeutic indication: Artesunate Amivas is indicated for the initial treatment of severe malaria in adults and children. Consideration should be given to official guidance on the appropriate use of antimalarial agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/artesunate-amivas

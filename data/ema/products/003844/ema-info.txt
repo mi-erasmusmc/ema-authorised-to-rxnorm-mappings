@@ -8,5 +8,5 @@ ATC code (human): L01XG03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Ninlaro in combination with lenalidomide and dexamethasone is indicated for the treatment of adult patients with multiple myeloma who have received at least one prior therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ninlaro

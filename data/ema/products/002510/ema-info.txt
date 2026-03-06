@@ -8,5 +8,5 @@ ATC code (human): C09CA04
 Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
 Therapeutic indication: Sabervel is indicated in adults for the treatment of essential hypertension. It is also indicated for the treatment of renal disease in adult patients with hypertension and type 2 diabetes mellitus as part of an antihypertensive medicinal product regimen.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sabervel

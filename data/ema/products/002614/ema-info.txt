@@ -8,5 +8,5 @@ ATC code (human): J04AK05
 Pharmacotherapeutic group (human): Other drugs for treatment of tuberculosis
 Therapeutic indication: &nbsp;Sirturo is indicated for use as part of an appropriate combination regimen in adult and paediatric patients (2 years to less than 18 years of age and weighing at least 7 kg) with pulmonary tuberculosis (TB) due to Mycobacterium tuberculosis resistant to at least rifampicin and isoniazid. Consideration should be given to official guidance on the appropriate use of antibacterial agents. &nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sirturo

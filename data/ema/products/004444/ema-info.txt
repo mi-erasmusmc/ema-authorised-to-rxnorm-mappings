@@ -8,5 +8,5 @@ ATC code (human): B03XA06
 Pharmacotherapeutic group (human): Other antianemic preparations
 Therapeutic indication: Reblozyl is indicated in adults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).Reblozyl is indicated in adults for the treatment of anaemia associated with transfusion dependent and non transfusion dependent beta thalassaemia.&nbsp; Reblozyl is indicated in adults for the treatment of transfusion-dependent anaemia due to very low, low and intermediate-risk myelodysplastic syndromes (MDS).Reblozyl is indicated in adults for the treatment of anaemia associated with transfusion dependent and non transfusion dependent beta thalassaemia.&nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/reblozyl

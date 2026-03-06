@@ -8,5 +8,5 @@ ATC code (human): V10XX03
 Pharmacotherapeutic group (human): Therapeutic radiopharmaceuticals
 Therapeutic indication: Xofigo is indicated for the treatment of adults with castration-resistant prostate cancer, symptomatic bone metastases and no known visceral metastases.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xofigo

@@ -8,5 +8,5 @@ ATC code (human): L01EE03
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: MelanomaBinimetinib in combination with encorafenib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation.Non-small cell lung cancer (NSCLC)Binimetinib in combination with encorafenib is indicated for the treatment of adult patients with advanced non-small cell lung cancer with a BRAF V600E mutation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mektovi

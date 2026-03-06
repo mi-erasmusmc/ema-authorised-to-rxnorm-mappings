@@ -8,5 +8,5 @@ ATC code (human): D03AX16
 Pharmacotherapeutic group (human): Preparations for treatment of wounds and ulcers
 Therapeutic indication: Vyjuvek is indicated for&nbsp;the treatment of&nbsp;wounds in patients with&nbsp;dystrophic epidermolysis bullosa (DEB) with mutation(s) in the collagen type VII alpha 1 chain (COL7A1)&nbsp;gene, from birth
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vyjuvek

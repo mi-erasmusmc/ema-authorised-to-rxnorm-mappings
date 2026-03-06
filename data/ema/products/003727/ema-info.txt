@@ -8,5 +8,5 @@ ATC code (human): L01XE
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Lenvima&nbsp;is indicated as monotherapy for the treatment of adult patients with progressive, locally advanced or metastatic, differentiated (papillary/follicular/Hürthle cell) thyroid carcinoma (DTC), refractory to radioactive iodine (RAI). Lenvima&nbsp;is indicated as monotherapy for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma (HCC) who have received no prior systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lenvima

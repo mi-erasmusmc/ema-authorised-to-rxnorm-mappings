@@ -8,5 +8,5 @@ ATC code (human): J02AC03
 Pharmacotherapeutic group (human): Antimycotics for systemic use;Triazole derivatives
 Therapeutic indication: Voriconazole is a broad-spectrum, triazole antifungal agent and is indicated in adults and children aged two years and above as follows:  treatment of invasive aspergillosis; treatment of candidaemia in non-neutropenic patients; treatment of fluconazole-resistant serious invasive Candida infections (including C. krusei); Treatment of serious fungal infections caused by Scedosporium spp. and Fusarium spp.  Voriconazole Accord should be administered primarily to patients with progressive, possibly life-threatening infections.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/voriconazole-accord

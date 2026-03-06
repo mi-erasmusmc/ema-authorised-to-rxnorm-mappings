@@ -8,5 +8,5 @@ ATC code (human): L01AD01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Carmustine is indicated n adults&nbsp;in the following malignant neoplasms as a single agent or in combination with other antineoplastic agents and/or other therapeutic measures (radiotherapy, surgery):  Brain tumours (glioblastoma, brain-stem gliomas, medulloblastoma, astrocytoma and ependymoma), brain metastases Secondary therapy in non-Hodgkin’s lymphoma and Hodgkin’s disease as conditioning treatment prior to autologous haematopoietic progenitor cell transplantation (HPCT) in malignant haematological diseases (Hodgkin’s disease / Non-hodgkin’s lymphoma).
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/carmustine-medac

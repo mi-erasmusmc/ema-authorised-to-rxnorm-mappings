@@ -8,5 +8,5 @@ ATC code (human): D06BX03
 Pharmacotherapeutic group (human): Antibiotics and chemotherapeutics for dermatological use
 Therapeutic indication: Klisyri is indicated for the field treatment of non-hyperkeratotic, non-hypertrophic actinic keratosis (Olsen grade 1) of the face or scalp in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/klisyri

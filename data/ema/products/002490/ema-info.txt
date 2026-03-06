@@ -8,5 +8,5 @@ ATC code (human): A06AX04
 Pharmacotherapeutic group (human): Drugs for constipation
 Therapeutic indication: Constella is indicated for the symptomatic treatment of moderate to severe irritable-bowel syndrome with constipation (IBS-C) in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/constella

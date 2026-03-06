@@ -8,5 +8,5 @@ ATC code (human): L01XC39
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Blenrep is indicated as monotherapy for the treatment of multiple myeloma in adult patients, who have received at least four prior therapies and whose disease is refractory to at least one proteasome inhibitor, one immunomodulatory agent, and an anti-CD38 monoclonal antibody, and who have demonstrated disease progression on the last therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/blenrep1

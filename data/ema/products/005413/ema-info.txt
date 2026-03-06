@@ -8,5 +8,5 @@ ATC code (human): L01EX23
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Gavreto is indicated as monotherapy for the treatment of adult patients with rearranged during transfection (RET) fusion-positive advanced non-small cell lung cancer (NSCLC) not previously treated with a RET inhibitor.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/gavreto

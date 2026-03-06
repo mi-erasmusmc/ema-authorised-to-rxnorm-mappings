@@ -8,5 +8,5 @@ ATC code (human): A16AB
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Strensiq is indicated for long-term enzyme replacement therapy in patients with paediatric-onset hypophosphatasia to treat the bone manifestations of the disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/strensiq

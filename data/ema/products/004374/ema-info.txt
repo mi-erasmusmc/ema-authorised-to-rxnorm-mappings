@@ -8,5 +8,5 @@ ATC code (human): M04AA03
 Pharmacotherapeutic group (human): Antigout preparations
 Therapeutic indication: Febuxostat Viatris is indicated for the treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty arthritis). Febuxostat Viatris is indicated for the prevention and treatment of hyperuricaemia in adult patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of Tumor Lysis Syndrome (TLS).&nbsp;&nbsp; Febuxostat Viatris is indicated in adults.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-viatris

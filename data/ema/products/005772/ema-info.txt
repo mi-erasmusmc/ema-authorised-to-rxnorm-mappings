@@ -8,5 +8,5 @@ ATC code (human): B05AX04
 Pharmacotherapeutic group (human): Other blood products
 Therapeutic indication: Treatment of adult patients with haematological malignancies requiring an allogeneic haematopoietic stem cell transplantation following myeloablative conditioning for whom no other type of suitable donor cells is available
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zemcelpro

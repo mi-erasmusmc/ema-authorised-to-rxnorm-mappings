@@ -8,5 +8,5 @@ ATC code (human): L03AB08
 Pharmacotherapeutic group (human): Immunostimulants
 Therapeutic indication: Betaferon is indicated for the treatment of  patients with a single demyelinating event with an active inflammatory process, if it is severe enough to warrant treatment with intravenous corticosteroids, if alternative diagnoses have been excluded, and if they are determined to be at high risk of developing clinically definite multiple sclerosis; patients with relapsing-remitting multiple sclerosis and two or more relapses within the last two years; patients with secondary progressive multiple sclerosis with active disease, evidenced by relapses.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/betaferon

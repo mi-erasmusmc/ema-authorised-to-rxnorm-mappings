@@ -8,5 +8,5 @@ ATC code (human): C01BB02
 Pharmacotherapeutic group (human): Cardiac therapy
 Therapeutic indication: Namuscla is indicated for the symptomatic treatment of myotonia in adult patients with non-dystrophic myotonic disorders.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/namuscla

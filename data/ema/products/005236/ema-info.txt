@@ -8,5 +8,5 @@ ATC code (human): H05BX01
 Pharmacotherapeutic group (human): Calcium homeostasis
 Therapeutic indication: Secondary hyperparathyroidism AdultsTreatment of secondary hyperparathyroidism (HPT) in adult patients with end-stage renal disease (ESRD) on maintenance dialysis therapy. Paediatric populationTreatment of secondary hyperparathyroidism (HPT) in children aged 3 years and older with end-stage renal disease (ESRD) on maintenance dialysis therapy in whom secondary HPT is not adequately controlled with standard of care therapy (see section 4.4). Cinacalcet Accordpharma may be used as part of a therapeutic regimen including phosphate binders and/or Vitamin D sterols, as appropriate (see section 5.1). Parathyroid carcinoma and primary hyperparathyroidism in adults Reduction of hypercalcaemia in adult patients with:  parathyroid carcinoma. primary HPT for whom parathyroidectomy would be indicated on the basis of serum calcium levels (as defined by relevant treatment guidelines), but in whom parathyroidectomy is not clinically appropriate or is contraindicated.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cinacalcet-accordpharma

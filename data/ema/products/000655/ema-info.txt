@@ -8,5 +8,5 @@ ATC code (human): A10BD05
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Competact is indicated in the treatment of type 2 diabetes mellitus patients, particularly overweight patients, who are unable to achieve sufficient glycaemic control at their maximally tolerated dose of oral metformin alone.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/competact

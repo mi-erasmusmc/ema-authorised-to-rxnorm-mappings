@@ -8,5 +8,5 @@ ATC code (human): B06AC07
 Pharmacotherapeutic group (human): Other hematological agents
 Therapeutic indication: Andembry is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in adult and adolescent patients aged 12 years and older.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/andembry

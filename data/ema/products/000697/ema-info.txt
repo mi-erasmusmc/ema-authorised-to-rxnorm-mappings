@@ -8,5 +8,5 @@ ATC code (human): N07BC51
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Substitution treatment for opioid-drug dependence, within a framework of medical, social and psychological treatment. The intention of the naloxone component is to deter intravenous misuse. Treatment is intended for use in adults and adolescents over 15 years of age who have agreed to be treated for addiction.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/suboxone

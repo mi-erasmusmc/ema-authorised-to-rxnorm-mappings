@@ -8,5 +8,5 @@ ATC code (human): L01EK
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Fruzaqla as monotherapy is indicated for the treatment of adult patients with metastatic colorectal cancer (mCRC) who have been previously treated with available standard therapies, including fluoropyrimidine-, oxaliplatin-, and irinotecan based chemotherapies, anti VEGF agents, and anti EGFR agents, and who have progressed on or are intolerant to treatment with either trifluridine tipiracil or regorafenib.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fruzaqla

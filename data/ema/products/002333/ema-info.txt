@@ -8,5 +8,5 @@ ATC code (human): J07AH09
 Pharmacotherapeutic group (human): Meningococcal vaccines
 Therapeutic indication: Active immunisation against invasive disease caused by Neisseria meningitidis serogroup-B strains.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bexsero

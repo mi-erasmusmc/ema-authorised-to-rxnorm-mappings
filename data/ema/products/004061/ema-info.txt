@@ -8,5 +8,5 @@ ATC code (human): A05AA01
 Pharmacotherapeutic group (human): Bile and liver therapy
 Therapeutic indication: Chenodeoxycholic acid is indicated for the treatment of inborn errors of primary bile acid synthesis due to sterol 27 hydroxylase deficiency (presenting as cerebrotendinous xanthomatosis (CTX)) in infants, children and adolescents aged 1 month to 18 years and adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/chenodeoxycholic-acid-leadiant

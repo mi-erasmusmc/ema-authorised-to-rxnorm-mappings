@@ -8,5 +8,5 @@ ATC code (human): H02AB09
 Pharmacotherapeutic group (human): Corticosteroids for systemic use
 Therapeutic indication: Replacement therapy of adrenal insufficiency in infants, children and adolescents (from birth to &lt; 18 years old).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alkindi

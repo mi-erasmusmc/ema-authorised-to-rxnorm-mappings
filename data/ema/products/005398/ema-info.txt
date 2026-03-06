@@ -8,5 +8,5 @@ ATC code (human): C10AX
 Pharmacotherapeutic group (human): Lipid modifying agents
 Therapeutic indication: Indicated to reduce cardiovascular risk as an adjunct to statin therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vazkepa

@@ -8,5 +8,5 @@ ATC code (human): N02CD06
 Pharmacotherapeutic group (human): Antimigraine preparations, calcitonin gene-related peptide (CGRP) antagonists
 Therapeutic indication: Vydura is indicated for the  Acute treatment of migraine with or without aura in adults; Preventative treatment of episodic migraine in adults who have at least 4 migraine attacks per month.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vydura

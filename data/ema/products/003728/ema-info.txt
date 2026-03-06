@@ -8,5 +8,5 @@ ATC code (human): A04AA
 Pharmacotherapeutic group (human): Antiemetics and antinauseants
 Therapeutic indication: Akynzeo is indicated in adults for the:  Prevention of acute and delayed nausea and vomiting associated with highly emetogenic cisplatin based cancer chemotherapy. Prevention of acute and delayed nausea and vomiting associated with moderately emetogenic cancer chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/akynzeo

@@ -8,5 +8,5 @@ ATC code (human): L04AC22
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Spevigo is indicated for the prevention of generalised pustular psoriasis (GPP) flares in adults and adolescents from 12 years of age. Spevigo is indicated for the treatment of generalised pustular psoriasis (GPP) flares in adults and adolescents from 12 years of age as monotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spevigo

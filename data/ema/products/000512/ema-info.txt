@@ -8,5 +8,5 @@ ATC code (human): C10AC04
 Pharmacotherapeutic group (human): Lipid modifying agents
 Therapeutic indication: Cholestagel co-administered with a 3-hydroxy-3-methyl-glutaryl-coenzyme-A (HMG-CoA)-reductase inhibitor (statin) is indicated as adjunctive therapy to diet to provide an additive reduction in low-density-lipoprotein-cholesterol (LDL-C) levels in adult patients with primary hypercholesterolaemia who are not adequately controlled with a statin alone. Cholestagel as monotherapy is indicated as adjunctive therapy to diet for reduction of elevated total cholesterol and LDL-C in adult patients with primary hypercholesterolaemia, in whom a statin is considered inappropriate or is not well tolerated. Cholestagel can also be used in combination with ezetimibe, with or without a statin, in adult patients with primary hypercholesterolaemia, including patients with familial hypercholesterolaemia (see section 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cholestagel

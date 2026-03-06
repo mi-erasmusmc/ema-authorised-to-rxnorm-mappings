@@ -8,5 +8,5 @@ ATC code (human): B01
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Prevention of stroke and systemic embolism in adult patients with nonvalvular atrial fibrillation (NVAF) with one or more risk factors, such as congestive heart failure, hypertension, age ? 75 years, diabetes mellitus, prior stroke or transient ischaemic attack (TIA). Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lixiana

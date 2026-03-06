@@ -8,5 +8,5 @@ ATC code (human): L01FX20
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Tremelimumab AstraZeneca in combination with durvalumab and platinum-based chemotherapy is indicated for the first-line treatment of adults with metastatic non-small cell lung cancer (NSCLC) with no sensitising EGFR mutations or ALK positive mutations.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tremelimumab-astrazeneca

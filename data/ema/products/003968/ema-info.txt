@@ -8,5 +8,5 @@ ATC code (human): V03AE02
 Pharmacotherapeutic group (human): All other therapeutic products
 Therapeutic indication: Tasermity is indicated for the control of hyperphosphataemia in adult patients receiving haemodialysis or peritoneal dialysis. Sevelamer hydrochloride should be used within the context of a multiple therapeutic approach, which could include calcium supplements, 1,25 dihydroxy Vitamin D3 or one of its analogues to control the development of renal bone disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tasermity

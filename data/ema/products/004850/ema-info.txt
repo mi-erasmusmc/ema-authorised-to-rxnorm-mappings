@@ -8,5 +8,5 @@ ATC code (human): A16AB25
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Xenpozyme is indicated as an enzyme replacement therapy for the treatment of non-Central Nervous System (CNS) manifestations of Acid Sphingomyelinase Deficiency (ASMD) in paediatric and adult patients with type A/B or type B.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xenpozyme

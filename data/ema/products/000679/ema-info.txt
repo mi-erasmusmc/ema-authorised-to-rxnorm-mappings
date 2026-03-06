@@ -8,5 +8,5 @@ ATC code (human): C02KX03
 Pharmacotherapeutic group (human): Antihypertensives
 Therapeutic indication: Treatment of patients with pulmonary arterial hypertension (PAH) classified as WHO functional class III, to improve exercise capacity. Efficacy has been shown in primary pulmonary hypertension and in pulmonary hypertension associated with connective tissue disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/thelin

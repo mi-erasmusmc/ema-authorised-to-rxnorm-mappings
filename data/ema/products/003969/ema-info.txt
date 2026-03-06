@@ -8,5 +8,5 @@ ATC code (human): R03AL05
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases
 Therapeutic indication: Brimica Genuair is indicated as a maintenance bronchodilator treatment for airflow obstruction and relief of symptoms in adult patients with chronic obstructive pulmonary disease (COPD).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/brimica-genuair

@@ -8,5 +8,5 @@ ATC code (human): N03
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Treatment of seizures associated with Dravet syndrome as an add-on therapy to other antiepileptic medicines for patients 2 years of age and older. Fintepla is indicated for the treatment of seizures associated with Dravet syndrome and Lennox-Gastaut syndrome as an add-on therapy to other anti-epileptic medicines for patients 2 years of age and older.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fintepla

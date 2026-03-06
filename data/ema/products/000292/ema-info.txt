@@ -8,5 +8,5 @@ ATC code (human): G03GA07
 Pharmacotherapeutic group (human): Sex hormones and modulators of the genital system
 Therapeutic indication: Luveris in association with a follicle-stimulating-hormone (FSH) preparation is recommended for the stimulation of follicular development in women with severe luteinising-hormone (LH) and FSH deficiency. In clinical trials, these patients were defined by an endogenous serum LH level &lt;1.2 IU/l.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/luveris

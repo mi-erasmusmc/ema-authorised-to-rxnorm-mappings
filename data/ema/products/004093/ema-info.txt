@@ -8,5 +8,5 @@ ATC code (human): A05AA04
 Pharmacotherapeutic group (human): Bile and liver therapy
 Therapeutic indication: Ocaliva is indicated for the treatment of primary biliary cholangitis (also known as primary biliary cirrhosis) in combination with ursodeoxycholic acid (UDCA) in adults with an inadequate response to UDCA or as monotherapy in adults unable to tolerate UDCA.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ocaliva

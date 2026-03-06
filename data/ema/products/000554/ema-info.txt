@@ -8,5 +8,5 @@ ATC code (human): G04BD10
 Pharmacotherapeutic group (human): Urologicals;Drugs for urinary frequency and incontinence
 Therapeutic indication: Symptomatic treatment of urge incontinence and/or increased urinary frequency and urgency as may occur in adult patients with overactive bladder syndrome.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emselex

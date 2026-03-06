@@ -8,5 +8,5 @@ ATC code (human): J05AE02
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Crixivan is indicated in combination with antiretroviral nucleoside analogues for the treatment of HIV-1 infected adults.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/crixivan

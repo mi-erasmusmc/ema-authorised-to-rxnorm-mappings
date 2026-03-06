@@ -8,5 +8,5 @@ ATC code (human): S01EE03
 Pharmacotherapeutic group (human): Prostaglandin analogues;Ophthalmologicals
 Therapeutic indication: Reduction of elevated intraocular pressure in chronic open-angle glaucoma and ocular hypertension (as monotherapy or as adjunctive therapy to beta-blockers).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lumigan

@@ -8,5 +8,5 @@ ATC code (human): N04BC05
 Pharmacotherapeutic group (human): Anti-Parkinson drugs
 Therapeutic indication: Sifrol is indicated for treatment of the signs and symptoms of idiopathic Parkinson's disease, alone (without levodopa) or in combination with levodopa, i.e. over the course of the disease, though to late stages when the effect of levodopa wears off or becomes inconsistent and fluctuations of the therapeutic effect occur (end-of-dose or 'on-off' fluctuations). Sifrol is indicated for symptomatic treatment of moderate to severe idiopathic restless-legs syndrome in dosages up to 0.54 mg of base (0.75 mg of salt).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sifrol

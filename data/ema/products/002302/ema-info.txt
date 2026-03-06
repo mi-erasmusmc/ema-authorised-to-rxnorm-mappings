@@ -8,5 +8,5 @@ ATC code (human): C09DA04
 Pharmacotherapeutic group (human): Agents acting on the renin-angiotensin system
 Therapeutic indication: Treatment of essential hypertension. This fixed dose combination is indicated in adult patients whose blood pressure is not adequately controlled on irbesartan or hydrochlorothiazide alone.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ifirmacombi

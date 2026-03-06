@@ -8,5 +8,5 @@ ATC code (human): G02CX01
 Pharmacotherapeutic group (human): Other gynecologicals
 Therapeutic indication: Atosiban is indicated to delay imminent pre-term birth in pregnant adult women with:  regular uterine contractions of at least 30 seconds’ duration at a rate of ? 4 per 30 minutes; a cervical dilation of 1 to 3 cm (0-3 for nulliparas) and effacement of ? 50%; a gestational age from 24 until 33 completed weeks; a normal foetal heart rate.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/atosiban-sun

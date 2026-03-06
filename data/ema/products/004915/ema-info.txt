@@ -8,5 +8,5 @@ ATC code (human): L03AA13
 Pharmacotherapeutic group (human): Immunostimulants
 Therapeutic indication: Reduction in the duration of neutropenia and the incidence of febrile neutropenia in adult patients treated with cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes).
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fulphila

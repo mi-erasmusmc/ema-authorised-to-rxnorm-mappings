@@ -8,5 +8,5 @@ ATC code (human): A08AB01
 Pharmacotherapeutic group (human): Antiobesity preparations, excl. diet products
 Therapeutic indication: Alli is indicated for weight loss in adults who are overweight (body mass index, BMI, 28 kg/m2) and should be taken in conjunction with a mildly hypocaloric, lower-fat diet.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/alli

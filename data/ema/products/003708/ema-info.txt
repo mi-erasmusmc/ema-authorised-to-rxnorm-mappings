@@ -8,5 +8,5 @@ ATC code (human): L04AC11
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Sylvant is indicated for the treatment of adult patients with multicentric Castleman’s disease (MCD who are human immunodeficiency virus (HIV) negative and human herpesvirus-8 (HHV-8) negative.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sylvant

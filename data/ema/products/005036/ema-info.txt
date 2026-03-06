@@ -8,5 +8,5 @@ ATC code (human): L01FX26
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Elahere as monotherapy is indicated for the treatment of adult patients with folate receptor-alpha (FRα) positive, platinum-resistant high grade serous epithelial ovarian, fallopian tube, or primary peritoneal cancer who have received one to three prior systemic treatment regimens.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/elahere

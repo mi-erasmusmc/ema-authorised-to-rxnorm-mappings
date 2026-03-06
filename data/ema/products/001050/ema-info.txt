@@ -8,5 +8,5 @@ ATC code (human): A10BD08
 Pharmacotherapeutic group (human): Drugs used in diabetes;Combinations of oral blood glucose lowering drugs
 Therapeutic indication: Icandra is indicated as an adjunct to diet and exercise to improve glycaemic control in adults with type 2 diabetes mellitus:  in patients who are inadequately controlled with metformin hydrochloride alone. in patients who are already being treated with the combination of vildagliptin and metformin hydrochloride, as separate tablets. in combination with other medicinal products for the treatment of diabetes, including insulin, when these do not provide adequate glycaemic control (see sections 4.4, 4.5 and 5.1 for available data on different combinations).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/icandra

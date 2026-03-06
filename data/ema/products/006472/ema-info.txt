@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006472
+Name of medicine: mCOMBRIAX
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: Influenza;COVID-19 mRNA vaccine
+Active substance: mRNA encoding Influenza A, H1N1 strain, hemagglutinin glycoprotein, mRNA encoding Influenza A, H3N2 strain, hemagglutinin glycoprotein, mRNA encoding Influenza B/Victoria, hemagglutinin glycoprotein, mRNA-1283
+Therapeutic area (MeSH): Influenza, Human;COVID-19 virus infection
+ATC code (human): J07B
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Immunisation for the prevention of diseases associated with seasonal influenza viruses and SARS-CoV-2
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mcombriax

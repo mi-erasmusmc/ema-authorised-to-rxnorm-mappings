@@ -8,5 +8,5 @@ ATC code (human): J07BC20
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Twinrix Adult is indicated for use in non immune adults and adolescents 16 years of age and above who are at risk of both hepatitis A and hepatitis B infection.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-adult

@@ -8,5 +8,5 @@ ATC code (human): M05BA08
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
 Therapeutic indication: Treatment of osteoporosis:  in post-menopausal women; in men;  at increased risk of fracture, including those with a recent low-trauma hip fracture. Treatment of osteoporosis associated with long-term systemic glucocorticoid therapy in post-menopausal women and in men at increased risk of fracture. Treatment of Paget's disease of the bone.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aclasta

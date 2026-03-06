@@ -8,5 +8,5 @@ ATC code (human): J05A
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Vosevi is indicated for the treatment of chronic hepatitis C virus (HCV) infection in patients aged 12 years and older and weighing at least 30 kg. (see sections 4.2, 4.4 and 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vosevi

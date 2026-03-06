@@ -8,5 +8,5 @@ ATC code (human): M05BX04
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
 Therapeutic indication: Prevention of skeletal related events (SREs) (pathological fracture, radiation to bone, spinal cord compression or surgery to bone) in adults with advanced malignancies involving bone.&nbsp; Treatment of adults and skeletally mature adolescents with giant cell tumour of bone that is unresectable or where surgical resection is likely to result in severe morbidity.
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/wyost

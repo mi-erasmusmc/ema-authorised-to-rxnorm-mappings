@@ -8,5 +8,5 @@ ATC code (human): L01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Zalmoxis is indicated as adjunctive treatment in haploidentical haematopoietic stem cell transplantation (HSCT) of adult patients with high-risk haematological malignancies.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zalmoxis

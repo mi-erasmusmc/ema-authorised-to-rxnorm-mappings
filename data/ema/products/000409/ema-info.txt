@@ -8,5 +8,5 @@ ATC code (human): H01AX01
 Pharmacotherapeutic group (human): Pituitary and hypothalamic hormones and analogues
 Therapeutic indication: Treatment of adult patients with acromegaly who have had an inadequate response to surgery and/or radiation therapy and in whom an appropriate medical treatment with somatostatin analogues did not normalize IGF-I concentrations or was not tolerated. Treatment of adult patients with acromegaly who have had an inadequate response to surgery and/or radiation therapy and in whom an appropriate medical treatment with somatostatin analogues did not normalize IGF -I concentrations or was not tolerated.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/somavert

@@ -8,5 +8,5 @@ ATC code (human): J05AX
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Sunlenca injection, in combination with other antiretroviral(s), is indicated for the treatment of adults with multidrug resistant HIV 1 infection for whom it is otherwise not possible to construct a suppressive anti viral regimen (see sections 4.2 and 5.1). Sunlenca tablet, in combination with other antiretroviral(s), is indicated for the treatment of adults with multidrug resistant HIV 1 infection for whom it is otherwise not possible to construct a suppressive anti viral regimen, for oral loading prior to administration of long-acting lenacapavir injection (see sections 4.2 and 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sunlenca

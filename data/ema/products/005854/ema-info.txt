@@ -8,5 +8,5 @@ ATC code (human): J06BD06
 Pharmacotherapeutic group (human): Immune sera and immunoglobulins
 Therapeutic indication: Regdanvimab is indicated for the treatment of adults with coronavirus disease 2019 (COVID-19) who do not require supplemental oxygen and who are at increased risk of progressing to severe COVID-19.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/regkirona

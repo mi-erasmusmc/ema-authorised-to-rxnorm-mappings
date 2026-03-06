@@ -8,5 +8,5 @@ ATC code (human): L01FX13
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Padcev, in combination with pembrolizumab, is indicated for the first-line treatment of adult patients with unresectable or metastatic urothelial cancer who are eligible for platinum-containing chemotherapy.&nbsp; Padcev as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic urothelial cancer who have previously received a platinum-containing chemotherapy and a programmed death receptor 1 or programmed death ligand 1 inhibitor.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/padcev

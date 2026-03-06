@@ -8,5 +8,5 @@ ATC code (human): G04CA04
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: Treatment of the signs and symptoms of benign prostatic hyperplasia (BPH)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/silodyx

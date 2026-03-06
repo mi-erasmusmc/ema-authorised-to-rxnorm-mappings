@@ -8,5 +8,5 @@ ATC code (human): J05AP01
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Ribavirin Teva Pharma B.V. is indicated in combination with other medicinal products for the treatment of chronic hepatitis C (CHC) in adults (see sections 4.2, 4.4, and 5.1). Ribavirin Teva Pharma B.V. is indicated in combination with other medicinal products for the treatment of chronic hepatitis C (CHC) for paediatric patients (children 3 years of age and older and adolescents) not previously treated and without liver decompensation (see sections 4.2, 4.4 and 5.1).
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ribavirin-teva-pharma-bv

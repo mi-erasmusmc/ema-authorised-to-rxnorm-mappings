@@ -8,5 +8,5 @@ ATC code (human): B02BC30
 Pharmacotherapeutic group (human): Local hemostatics
 Therapeutic indication: Supportive treatment in adult surgery where standard surgical techniques are insufficient (see section 5.1): - for improvement of haemostasis.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evarrest

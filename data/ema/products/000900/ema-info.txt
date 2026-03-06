@@ -8,5 +8,5 @@ ATC code (human): J05AG04
 Pharmacotherapeutic group (human): Non-nucleoside reverse transcriptase inhibitors;Antivirals for systemic use
 Therapeutic indication: Intelence, in combination with a boosted protease inhibitor and other antiretroviral medicinal products, is indicated for the treatment of human-immunodeficiency-virus-type-1 (HIV-1) infection in antiretroviral-treatment-experienced adult patients and in antiretroviral-treatment-experienced paediatric patients from six years of age. This indication is based on week-48 analyses from two phase-III trials in highly pretreated patients where Intelence was investigated in combination with an optimised background regimen (OBR) which included darunavir/ritonavir. The indication in paediatric patients is based on 48-week analyses of a single-arm, phase-II trial in antiretroviral-treatment-experienced paediatric patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/intelence

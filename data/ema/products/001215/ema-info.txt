@@ -8,5 +8,5 @@ ATC code (human): C01BG11
 Pharmacotherapeutic group (human): Cardiac therapy
 Therapeutic indication: Rapid conversion of recent onset atrial fibrillation to sinus rhythm in adults:  for non-surgery patients: atrial fibrillation&nbsp;&lt;/= 7 days duration; for post-cardiac surgery patients: atrial fibrillation&nbsp;&lt;/= 3 days duration.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/brinavess

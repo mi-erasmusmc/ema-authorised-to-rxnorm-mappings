@@ -8,5 +8,5 @@ ATC code (human): B01AD07
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Rapilysin is indicated for the thrombolytic treatment of suspected myocardial infarction with persistent ST elevation or recent left bundle branch block within 12 hours after the onset of acute-myocardial-infarction (AMI) symptoms.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rapilysin

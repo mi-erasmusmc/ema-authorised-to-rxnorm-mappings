@@ -8,5 +8,5 @@ ATC code (human): B06A
 Pharmacotherapeutic group (human): Other hematological agents
 Therapeutic indication: Zynteglo is indicated for the treatment of patients 12 years and older with transfusion-dependent β thalassaemia (TDT) who do not have a β0/β0 genotype, for whom haematopoietic stem cell (HSC) transplantation is appropriate but a human leukocyte antigen (HLA)-matched related HSC donor is not available. &nbsp;
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zynteglo

@@ -8,5 +8,5 @@ ATC code (human): B06AC04
 Pharmacotherapeutic group (human): Drugs used in hereditary angioedema;Other hematological agents
 Therapeutic indication: Ruconest is indicated for treatment of acute angioedema attacks in adults with hereditary angioedema (HAE) due to C1-esterase-inhibitor deficiency.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ruconest

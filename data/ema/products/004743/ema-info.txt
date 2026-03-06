@@ -8,5 +8,5 @@ ATC code (human): N07BC01
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Sixmo is indicated for substitution treatment for opioid dependence in clinically stable adult patients who require no more than 8 mg/day of sublingual buprenorphine, within a framework of medical, social and psychological treatment.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sixmo

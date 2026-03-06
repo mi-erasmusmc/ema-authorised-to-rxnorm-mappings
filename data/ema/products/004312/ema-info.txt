@@ -8,5 +8,5 @@ ATC code (human): M09
 Pharmacotherapeutic group (human): Other nervous system drugs
 Therapeutic indication: Spinraza is indicated for the treatment of 5q Spinal Muscular Atrophy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/spinraza

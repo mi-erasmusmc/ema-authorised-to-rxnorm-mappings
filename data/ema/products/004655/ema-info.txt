@@ -8,5 +8,5 @@ ATC code (human): A07EA06
 Pharmacotherapeutic group (human): Antidiarrheals, intestinal antiinflammatory / antiinfective agents
 Therapeutic indication: Jorveza is indicated for the treatment of eosinophilic esophagitis (EoE) in adults (older than 18 years of age).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/jorveza

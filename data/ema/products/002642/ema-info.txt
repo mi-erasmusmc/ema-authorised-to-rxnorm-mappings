@@ -8,5 +8,5 @@ ATC code (human): D11AX21
 Pharmacotherapeutic group (human): Other dermatological preparations
 Therapeutic indication: Mirvaso is indicated for the symptomatic treatment of facial erythema of rosacea in adult patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mirvaso

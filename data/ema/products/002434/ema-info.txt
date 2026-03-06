@@ -8,5 +8,5 @@ ATC code (human): N03AX22
 Pharmacotherapeutic group (human): Antiepileptics;Other antiepileptics
 Therapeutic indication: Fycompa is indicated for the adjunctive treatment of partial-onset seizures with or without secondarily generalised seizures in adult and adolescent patients from 12 years of age with epilepsy. Fycompa is indicated for the adjunctive treatment of primary generalised tonic-clonic seizures in adult and adolescent patients from 12 years of age with idiopathic generalised epilepsy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fycompa

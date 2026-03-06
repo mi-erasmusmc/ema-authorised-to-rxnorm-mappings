@@ -8,5 +8,5 @@ ATC code (human): S01XA27
 Pharmacotherapeutic group (human): Other ophthalmologicals
 Therapeutic indication: Luxturna is indicated for the treatment of adult and paediatric patients with vision loss due to inherited retinal dystrophy caused by confirmed biallelic RPE65 mutations and who have sufficient viable retinal cells.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/luxturna

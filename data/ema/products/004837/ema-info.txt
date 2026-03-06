@@ -8,5 +8,5 @@ ATC code (human): L01XX05
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Xromi is indicated for the prevention of vaso-occlusive complications of Sickle Cell Disease in patients over 9 months of age.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xromi

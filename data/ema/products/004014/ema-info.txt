@@ -8,5 +8,5 @@ ATC code (human): H05BX01
 Pharmacotherapeutic group (human): Calcium homeostasis
 Therapeutic indication: Treatment of secondary hyperparathyroidism (HPT) in patients with end-stage renal disease (ESRD) on maintenance dialysis therapy. Cinacalcet Mylan may be used as part of a therapeutic regimen including phosphate binders and/or vitamin D sterols, as appropriate. Reduction of hypercalcaemia in patients with:  parathyroid carcinoma primary HPT for whom parathyroidectomy  would be indicated on the basis of serum calcium levels (as defined by relevant treatment guidelines), but in whom parathyroidectomy is not clinically appropriate or is contraindicated.  
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cinacalcet-viatris

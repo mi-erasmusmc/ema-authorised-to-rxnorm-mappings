@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006416
+Name of medicine: Tuyory
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: tocilizumab
+Active substance: tocilizumab
+Therapeutic area (MeSH): Arthritis, Rheumatoid;Arthritis, Juvenile;Cytokine Release Syndrome;Giant Cell Arteritis;COVID-19 virus infection
+ATC code (human): L04AC07
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Treatment of rheumatoid arthritis and other immunological conditions.
+Biosimilar: Yes
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tuyory

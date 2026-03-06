@@ -8,5 +8,5 @@ ATC code (human): N02BA11
 Pharmacotherapeutic group (human): Other analgesics and antipyretics;Salicylic acid and derivatives
 Therapeutic indication: Attrogy is indicated for the treatment of hereditary transthyretin-mediated amyloidosis (ATTRv) in adult patients with stage 1 or stage 2 polyneuropathy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/attrogy

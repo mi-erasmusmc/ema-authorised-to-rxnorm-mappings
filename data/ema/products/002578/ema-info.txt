@@ -8,5 +8,5 @@ ATC code (human): C10AX12
 Pharmacotherapeutic group (human): Lipid modifying agents
 Therapeutic indication: Lojuxta is indicated as an adjunct to a low?fat diet and other lipid?lowering medicinal products with or without low-density-lipoprotein (LDL) apheresis in adult patients with homozygous familial hypercholesterolaemia (HoFH). Genetic confirmation of HoFH should be obtained whenever possible. Other forms of primary hyperlipoproteinaemia and secondary causes of hypercholesterolaemia (e.g. nephrotic syndrome, hypothyroidism) must be excluded.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lojuxta

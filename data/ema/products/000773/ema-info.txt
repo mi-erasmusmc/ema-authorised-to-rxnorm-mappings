@@ -8,5 +8,5 @@ ATC code (human): L01CX01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Yondelis is indicated for the treatment of patients with advanced soft-tissue sarcoma, after failure of anthracyclines and ifosfamide, or who are unsuited to receive these agents. Efficacy data are based mainly on liposarcoma and leiomyosarcoma patients. Yondelis in combination with pegylated liposomal doxorubicin (PLD) is indicated for the treatment of patients with relapsed platinum-sensitive ovarian cancer.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/yondelis

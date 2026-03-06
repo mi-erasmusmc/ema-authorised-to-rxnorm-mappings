@@ -8,5 +8,5 @@ ATC code (human): A16AX04
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Treatment of adult and paediatric (in any age range) patients with confirmed diagnosis of hereditary tyrosinemia type 1 (HT 1) in combination with dietary restriction of tyrosine and phenylalanine.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nitisinone-mdk

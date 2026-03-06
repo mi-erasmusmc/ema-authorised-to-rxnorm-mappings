@@ -8,5 +8,5 @@ ATC code (human): L01FF04
 Pharmacotherapeutic group (human): Other antineoplastic agents;Monoclonal antibodies
 Therapeutic indication: Bavencio is indicated as monotherapy for the treatment of adult patients with metastatic Merkel cell carcinoma (MCC). Bavencio in combination with axitinib is indicated for the first-line treatment of adult patients with advanced renal cell carcinoma (RCC). Bavencio is indicated as monotherapy for the first?line maintenance treatment of adult patients with locally advanced or metastatic urothelial carcinoma (UC) who are progression-free following platinum?based chemotherapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bavencio

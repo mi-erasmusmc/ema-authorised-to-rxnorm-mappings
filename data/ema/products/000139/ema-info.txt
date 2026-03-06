@@ -8,5 +8,5 @@ ATC code (human): B02BD04
 Pharmacotherapeutic group (human): Antihemorrhagics
 Therapeutic indication: Treatment and prophylaxis of bleeding in patients with haemophilia B (congenital factor-IX deficiency).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/benefix

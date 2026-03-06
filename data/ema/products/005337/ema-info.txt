@@ -8,5 +8,5 @@ ATC code (human): J07
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Active immunization for prevention of disease caused by Ebola virus (Zaire ebolavirus species) in individuals ? 1 year of age.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zabdeno

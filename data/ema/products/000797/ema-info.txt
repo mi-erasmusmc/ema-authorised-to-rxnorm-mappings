@@ -8,5 +8,5 @@ ATC code (human): J05AR06
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Atripla is a fixed-dose combination of efavirenz, emtricitabine and tenofovir disoproxil fumarate. It is indicated for the treatment of human-immunodeficiency-virus-1 (HIV-1) infection in adults with virologic suppression to HIV-1 RNA levels of &lt; 50 copies/ml on their current combination antiretroviral therapy for more than three months. Patients must not have experienced virological failure on any prior antiretroviral therapy and must be known not to have harboured virus strains with mutations conferring significant resistance to any of the three components contained in Atripla prior to initiation of their first antiretroviral treatment regimen. The demonstration of the benefit of Atripla is primarily based on 48-week data from a clinical study in which patients with stable virologic suppression on a combination antiretroviral therapy changed to Atripla. No data are currently available from clinical studies with Atripla in treatment-naive or in heavily pretreated patients. No data are available to support the combination of Atripla and other antiretroviral agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/atripla

@@ -8,5 +8,5 @@ ATC code (human): A10BD16
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Vokanamet is indicated in adults aged 18 years and older with type 2 diabetes mellitus as an adjunct to diet and exercise to improve glycaemic control:  in patients not adequately controlled on their maximally tolerated doses of metformin alone in patients on their maximally tolerated doses of metformin along with other glucose lowering medicinal products including insulin, when these do not provide adequate glycaemic control. in patients already being treated with the combination of canagliflozin and metformin as separate tablets  For study results with respect to combination of therapies, effects on glycaemic control and cardiovascular events, and the populations studied, see sections 4.4, 4.5 and 5.1.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vokanamet

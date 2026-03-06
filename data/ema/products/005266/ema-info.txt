@@ -8,5 +8,5 @@ ATC code (human): L01EN02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Pemazyre monotherapy is indicated for the treatment of adults with locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that have progressed &nbsp;after at least one prior line of systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/pemazyre

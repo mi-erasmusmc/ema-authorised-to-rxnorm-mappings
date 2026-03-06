@@ -8,5 +8,5 @@ ATC code (human): J05AE05
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Agenerase, in combination with other antiretroviral agents, is indicated for the treatment of protease inhibitor (PI) experienced HIV-1 infected adults and children above the age of 4 years. Agenerase capsules should normally be administered with low dose ritonavir as a pharmacokinetic enhancer of amprenavir (see sections 4.2 and 4.5). The choice of amprenavir should be based on individual viral resistance testing and treatment history of patients (see section 5.1).The benefit of Agenerase boosted with ritonavir has not been demonstrated in PI nave patients (see section 5.1)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/agenerase

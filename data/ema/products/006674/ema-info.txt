@@ -8,5 +8,5 @@ ATC code (human): J07BB02
 Pharmacotherapeutic group (human): Vaccines
 Therapeutic indication: Immunisation for the prevention of influenza disease
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/supemtek

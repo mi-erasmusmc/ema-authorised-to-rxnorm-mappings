@@ -8,5 +8,5 @@ ATC code (human): S01ED51
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Reduction of intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension who are insufficiently responsive to topical beta-blockers or prostaglandin analogues.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ganfort

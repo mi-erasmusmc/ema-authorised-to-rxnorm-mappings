@@ -8,5 +8,5 @@ ATC code (human): B02BD11
 Pharmacotherapeutic group (human): Antihemorrhagics
 Therapeutic indication: Long-term prophylactic treatment of bleeding in adult and paediatric patients 6 years and above with congenital factor-XIII-A-subunit deficiency.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/novothirteen

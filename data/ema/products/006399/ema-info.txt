@@ -8,5 +8,5 @@ ATC code (human): M05BX04
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases
 Therapeutic indication: Treatment of osteoporosis in postmenopausal women and in men at increased risk of fractures. In postmenopausal women denosumab significantly reduces the risk of vertebral, non-vertebral and hip fractures.Treatment of bone loss associated with hormone ablation in men with prostate cancer at increased risk of fractures. In men with prostate cancer receiving hormone ablation, denosumab significantly reduces the risk of vertebral fractures.Treatment of bone loss associated with long-term systemic glucocorticoid therapy in adult patients at increased risk of fracture.
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/osvyrti

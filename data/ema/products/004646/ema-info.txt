@@ -8,5 +8,5 @@ ATC code (human): L01ED05
 Pharmacotherapeutic group (human): Antineoplastic agents;Protein kinase inhibitors
 Therapeutic indication: Lorviqua as monotherapy is indicated for the treatment of adult patients with anaplastic lymphoma kinase (ALK)?positive advanced non?small cell lung cancer (NSCLC) previously not treated with an ALK inhibitor. Lorviqua as monotherapy is indicated for the treatment of adult patients with ALK?positive advanced NSCLC whose disease has progressed after:  alectinib or ceritinib as the first ALK tyrosine kinase inhibitor (TKI) therapy; or crizotinib and at least one other ALK TKI.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lorviqua

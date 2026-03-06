@@ -8,5 +8,5 @@ ATC code (human): A16AA06
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Adjunctive treatment of homocystinuria, involving deficiencies or defects in:  cystathionine beta-synthase (CBS); 5,10-methylene-tetrahydrofolate reductase (MTHFR); cobalamin cofactor metabolism (cbl).  Cystadane should be used as supplement to other therapies such as vitamin B6 (pyridoxine), vitamin B12 (cobalamin), folate and a specific diet.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cystadane

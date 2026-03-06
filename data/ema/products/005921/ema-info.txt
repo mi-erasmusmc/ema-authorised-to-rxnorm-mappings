@@ -8,5 +8,5 @@ ATC code (human): L01EX02
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Hepatocellular carcinomaSorafenib Accord is indicated for the treatment of hepatocellular carcinoma (see section 5.1). Renal cell carcinomaSorafenib Accord is indicated for the treatment of patients with advanced renal cell carcinoma who have failed prior interferon-alpha or interleukin-2 based therapy or are considered unsuitable for such therapy.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sorafenib-accord

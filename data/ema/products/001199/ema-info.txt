@@ -8,5 +8,5 @@ ATC code (human): P01BF05
 Pharmacotherapeutic group (human): Antiprotozoals
 Therapeutic indication: Eurartesim is indicated for the treatment of uncomplicated Plasmodium falciparum malaria in adults, children and infants 6 months and over and weighing 5 kg or more. Consideration should be given to official guidance on the appropriate use of antimalarial agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/eurartesim

@@ -8,5 +8,5 @@ ATC code (human): L01XE38
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Cotellic is indicated for use in combination with vemurafenib for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cotellic

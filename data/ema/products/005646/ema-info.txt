@@ -8,5 +8,5 @@ ATC code (human): A16AX07
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Sapropterin Dipharma is indicated for the treatment of hyperphenylalaninaemia (HPA) in adults and paediatric patients of all ages with phenylketonuria (PKU) who have been shown to be responsive to such treatment. Sapropterin Dipharma is also indicated for the treatment of hyperphenylalaninaemia (HPA) in adults and paediatric patients of all ages with tetrahydrobiopterin (BH4) deficiency who have been shown to be responsive to such treatment.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sapropterin-dipharma

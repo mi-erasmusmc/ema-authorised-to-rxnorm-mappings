@@ -8,5 +8,5 @@ ATC code (human): A10XX01
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Teizeild is indicated to delay the onset of stage 3 type 1 diabetes (T1D) in adult and paediatric patients 8 years of age and older with stage 2 T1D.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/teizeild

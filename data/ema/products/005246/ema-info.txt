@@ -8,5 +8,5 @@ ATC code (human): N05CD14
 Pharmacotherapeutic group (human): Psycholeptics
 Therapeutic indication: Remimazolam is indicated in adults for procedural sedation. Remimazolam 50 mg is indicated in adults for intravenous induction and maintenance of general anaesthesia.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/byfavo

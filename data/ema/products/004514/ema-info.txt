@@ -8,5 +8,5 @@ ATC code (human): L04AC
 Pharmacotherapeutic group (human): Immunosuppressants;Interleukin inhibitors
 Therapeutic indication: Ilumetri is indicated for the treatment of adults with moderate to severe plaque psoriasis who are candidates for systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ilumetri

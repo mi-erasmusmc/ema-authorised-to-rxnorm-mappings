@@ -8,5 +8,5 @@ ATC code (human): A16AB20
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Elfabrio is indicated for long-term enzyme replacement therapy in adult patients with a confirmed diagnosis of Fabry disease (deficiency of alpha-galactosidase).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/elfabrio

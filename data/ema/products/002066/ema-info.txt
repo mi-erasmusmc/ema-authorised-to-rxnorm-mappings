@@ -8,5 +8,5 @@ ATC code (human): S01XA18
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Treatment of severe keratitis in adult patients with dry eye disease, which has not improved despite treatment with tear substitutes.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ikervis

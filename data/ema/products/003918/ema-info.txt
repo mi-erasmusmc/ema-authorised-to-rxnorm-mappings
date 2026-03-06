@@ -8,5 +8,5 @@ ATC code (human): L01FX06
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Qarziba is indicated for the treatment of high-risk neuroblastoma in patients aged 12 months and above, who have previously received induction chemotherapy and achieved at least a partial response, followed by myeloablative therapy and stem cell transplantation, as well as patients with history of relapsed or refractory neuroblastoma, with or without residual disease. Prior to the treatment of relapsed neuroblastoma, any actively progressing disease should be stabilised by other suitable measures. In patients with a history of relapsed/refractory disease and in patients who have not achieved a complete response after first line therapy, Qarziba should be combined with interleukin 2 (IL 2).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/qarziba

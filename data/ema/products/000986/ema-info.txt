@@ -8,5 +8,5 @@ ATC code (human): L02BX02
 Pharmacotherapeutic group (human): Endocrine therapy
 Therapeutic indication: FIRMAGON is a gonadotrophin releasing hormone (GnRH) antagonist indicated: - for treatment of adult male patients with advanced hormone-dependent prostate cancer. - for treatment of high-risk localised and locally advanced hormone dependent prostate cancer in combination with radiotherapy. - as neo-adjuvant treatment prior to radiotherapy in patients with high-risk localised or locally advanced hormone dependent prostate cancer.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/firmagon

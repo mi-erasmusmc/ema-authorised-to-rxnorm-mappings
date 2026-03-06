@@ -8,5 +8,5 @@ ATC code (human): L04A
 Pharmacotherapeutic group (human): Immunosuppressants
 Therapeutic indication: Paroxysmal nocturnal haemoglobinuria Fabhalta is indicated as monotherapy in the treatment of adult patients with paroxysmal nocturnal haemoglobinuria (PNH) who have haemolytic anaemia. Complement 3 glomerulopathy Fabhalta is indicated for the treatment of adult patients with complement 3 glomerulopathy (C3G) in combination with a renin-angiotensin system (RAS) inhibitor, or in patients who are RAS-inhibitor intolerant, or for whom a RAS inhibitor is contraindicated (see section 5.1).
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fabhalta

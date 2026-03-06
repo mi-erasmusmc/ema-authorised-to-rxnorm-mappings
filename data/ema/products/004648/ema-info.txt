@@ -8,5 +8,5 @@ ATC code (human): N02
 Pharmacotherapeutic group (human): Analgesics;galcanezumab
 Therapeutic indication: Emgality is indicated for the prophylaxis of migraine in adults who have at least 4 migraine days per month.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/emgality

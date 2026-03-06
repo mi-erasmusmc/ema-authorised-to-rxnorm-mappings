@@ -8,5 +8,5 @@ ATC code (human): N03AX18
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Lacosamide Accord is indicated as monotherapy in the treatment of partial-onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy. Lacosamide Accord is indicated as adjunctive therapy •         in the treatment of partial-onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy. •         in the treatment of primary generalised tonic-clonic seizures in adults, adolescents and children from 4 years of age with idiopathic generalised epilepsy.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-accord

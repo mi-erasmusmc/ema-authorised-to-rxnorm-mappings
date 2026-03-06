@@ -8,5 +8,5 @@ ATC code (human): N06BA14
 Pharmacotherapeutic group (human): Psychoanaleptics
 Therapeutic indication: Sunosi is indicated to improve wakefulness and reduce excessive daytime sleepiness in adult patients with narcolepsy (with or without cataplexy). Sunosi is indicated to improve wakefulness and reduce excessive daytime sleepiness (EDS) in adult patients with obstructive sleep apnoea (OSA) whose EDS has not been satisfactorily treated by primary OSA therapy, such as continuous positive airway pressure (CPAP). 
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sunosi

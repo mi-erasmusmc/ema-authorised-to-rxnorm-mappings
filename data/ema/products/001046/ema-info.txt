@@ -8,5 +8,5 @@ ATC code (human): L01AC01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: TEPADINA is indicated, in combination with other chemotherapy medicinal products:- with or without total body irradiation (TBI), as conditioning treatment prior to allogeneic or autologous haematopoietic progenitor cell transplantation (HPCT) in haematological diseases in adult and paediatric patients;- when high dose chemotherapy with HPCT support is appropriate for the treatment of solid tumours in adult and paediatric patients.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tepadina

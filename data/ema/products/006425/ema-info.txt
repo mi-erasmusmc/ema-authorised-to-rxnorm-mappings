@@ -8,5 +8,5 @@ ATC code (human): Not yet assigned
 Pharmacotherapeutic group (human): Not assigned yet
 Therapeutic indication: Wayrilz is indicated for the treatment of immune thrombocytopenia (ITP) in adult patients who are refractory to other treatments (see section 5.1)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/wayrilz

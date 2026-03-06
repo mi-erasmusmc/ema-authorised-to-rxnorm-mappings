@@ -8,5 +8,5 @@ ATC code (human): A12BA30
 Pharmacotherapeutic group (human): Mineral supplements
 Therapeutic indication: Sibnayal is indicated for the treatment of distal renal tubular acidosis (dRTA) in adults, adolescents and children aged one year and older.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sibnayal

@@ -8,5 +8,5 @@ ATC code (human): G03AA13
 Pharmacotherapeutic group (human): Sex hormones and modulators of the genital system
 Therapeutic indication: Female contraception. Evra is intended for women of fertile age. The safety and efficacy has been established in women aged 18 to 45 years.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/evra

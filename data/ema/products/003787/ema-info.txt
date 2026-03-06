@@ -8,5 +8,5 @@ ATC code (human): G04BE08
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: Treatment of erectile dysfunction in adult males. In order for tadalafil to be effective, sexual stimulation is required. Tadalafil Mylan is not indicated for use by women.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tadalafil-mylan

@@ -8,5 +8,5 @@ ATC code (human): G04BX15
 Pharmacotherapeutic group (human): Urologicals
 Therapeutic indication: Elmiron is indicated for the treatment of bladder pain syndrome characterized by either glomerulations or Hunner’s lesions in adults with moderate to severe pain, urgency and frequency of micturition.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/elmiron

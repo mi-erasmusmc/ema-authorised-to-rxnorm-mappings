@@ -8,5 +8,5 @@ ATC code (human): J01XX09
 Pharmacotherapeutic group (human): Antibacterials for systemic use
 Therapeutic indication: Daptomycin is indicated for the treatment of the following infections.  Adult and paediatric (1 to 17 years of age) patients with complicated skin and soft-tissue infections (cSSTI). Adult patients with right-sided infective endocarditis (RIE) due to Staphylococcus aureus. It isrecommended that the decision to use daptomycin should take into account the antibacterial susceptibility of the organism and should be based on expert advice. Adult and paediatric (1 to 17 years of age) patients with Staphylococcus aureus bacteraemia (SAB).  In adults, use in bacteraemia should be associated with RIE or with cSSTI, while in paediatric patients, use in bacteraemia should be associated with cSSTI. Daptomycin is active against Gram positive bacteria only. In mixed infections where Gram negative and/or certain types of anaerobic bacteria are suspected, daptomycin should be co-administered with appropriate antibacterial agent(s). Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/daptomycin-hospira

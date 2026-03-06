@@ -8,5 +8,5 @@ ATC code (human): L01FF07
 Pharmacotherapeutic group (human): Antineoplastic Agents and Antibody Drug Conjugates
 Therapeutic indication: Jemperli is indicated in combination with carboplatin and paclitaxel for the first-line treatment of adult patients with primary advanced or recurrent endometrial cancer (EC) and who are candidates for systemic therapy. Jemperli is indicated as monotherapy for the treatment of adult patients with mismatch repair deficient (dMMR)/ microsatellite instability‑high (MSI‑H) recurrent or advanced EC that has progressed on or following prior treatment with a platinum‑containing regimen.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/jemperli

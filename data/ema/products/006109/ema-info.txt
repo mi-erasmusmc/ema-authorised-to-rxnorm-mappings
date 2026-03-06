@@ -8,5 +8,5 @@ ATC code (human): D11AH11
 Pharmacotherapeutic group (human): Other dermatological preparations
 Therapeutic indication: Anzupgo is indicated for the treatment of moderate to severe chronic hand eczema (CHE)
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/anzupgo

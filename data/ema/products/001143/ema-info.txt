@@ -8,5 +8,5 @@ ATC code (human): B01AC30
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: DuoPlavin is indicated for the secondary prevention of atherothrombotic events in adult patients already taking both clopidogrel and acetylsalicylic acid (ASA). DuoPlavin is a fixed-dose combination medicinal product for continuation of therapy in:  Non ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction) including patients undergoing a stent placement following percutaneous coronary intervention (PCI); ST segment elevation acute myocardial infarction (STEMI) in patients undergoing a stent placement) or medically treated patients eligible for thrombolytic/fibrinolytic therapy.  For further information please refer to section 5.1.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/duoplavin

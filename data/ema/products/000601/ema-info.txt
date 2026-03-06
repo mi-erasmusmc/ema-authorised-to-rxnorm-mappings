@@ -8,5 +8,5 @@ ATC code (human): V08CA
 Pharmacotherapeutic group (human): Contrast media
 Therapeutic indication: This medicinal product is for diagnostic use only. Ablavar is indicated for contrast-enhanced magnetic resonance angiography (CE-MRA) for visualisation of abdominal or limb vessels in adults only, with suspected or known vascular disease.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ablavar

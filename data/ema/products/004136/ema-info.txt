@@ -8,5 +8,5 @@ ATC code (human): J06BB21
 Pharmacotherapeutic group (human): Immune sera and immunoglobulins
 Therapeutic indication: Zinplava is indicated for the prevention of recurrence of Clostridium difficile infection (CDI) in adults at high risk for recurrence of CDI.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zinplava

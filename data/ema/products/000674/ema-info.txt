@@ -8,5 +8,5 @@ ATC code (human): J07BK02
 Pharmacotherapeutic group (human): Viral vaccines
 Therapeutic indication: Zostavax is indicated for prevention of herpes zoster ('zoster' or shingles) and herpes-zoster-related post-herpetic neuralgia. Zostavax is indicated for immunisation of individuals 50 years of age or older.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zostavax

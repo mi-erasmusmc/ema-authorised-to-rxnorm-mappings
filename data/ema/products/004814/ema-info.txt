@@ -1,6 +1,6 @@
 EMA product number: EMEA/H/C/004814
 Name of medicine: Flucelvax Tetra
-Medicine status: Authorised
+Medicine status: Withdrawn
 International non-proprietary name (INN) / common name: influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
 Active substance: A/Wisconsin/67/2022 (H1N1)pdm09-like strain (A/Georgia/12/2022, CVR-167)  A/Massachusetts/18/2022 (H3N2)-like strain (A/Sydney/1304/2022, wild type)  B/Austria/1359417/2021-like strain (B/Singapore/WUH4618/2021, wild type)  B/Phuket/3073/2013-like strain (B/Singapore/INFTT-16-0610/2016, wild type)
 Therapeutic area (MeSH): Influenza, Human
@@ -8,5 +8,5 @@ ATC code (human): J07BB02
 Pharmacotherapeutic group (human): influenza, inactivated, split virus or surface antigen
 Therapeutic indication: Prophylaxis of influenza in adults and children from 2 years of age. Flucelvax Tetra should be used in accordance with official recommendations.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/flucelvax-tetra

@@ -8,5 +8,5 @@ ATC code (human): B01AC11
 Pharmacotherapeutic group (human): Antithrombotic agents
 Therapeutic indication: Treatment of patients with primary pulmonary hypertension, classified as New York Heart Association functional class III, to improve exercise capacity and symptoms.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ventavis

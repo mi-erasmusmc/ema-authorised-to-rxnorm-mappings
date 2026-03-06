@@ -8,5 +8,5 @@ ATC code (human): A16AB12
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Vimizim is indicated for the treatment of mucopolysaccharidosis, type IVA (Morquio A Syndrome, MPS IVA) in patients of all ages.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vimizim

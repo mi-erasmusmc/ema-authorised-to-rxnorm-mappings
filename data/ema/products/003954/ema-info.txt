@@ -8,5 +8,5 @@ ATC code (human): R07AX30
 Pharmacotherapeutic group (human): Other respiratory system products
 Therapeutic indication: Orkambi tablets are indicated for the treatment of cystic fibrosis (CF) in patients aged 6 years and older who are homozygous for the F508del mutation in the CFTR gene. Orkambi granules are indicated for the treatment of cystic fibrosis (CF) in children aged 1 year and older who are homozygous for the F508del mutation in the CFTR gene.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/orkambi

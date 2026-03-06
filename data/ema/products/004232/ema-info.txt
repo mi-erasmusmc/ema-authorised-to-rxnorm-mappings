@@ -8,5 +8,5 @@ ATC code (human): L01XC25
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Poteligeo is indicated for the treatment of adult patients with mycosis fungoides (MF) or Sézary syndrome (SS) who have received at least one prior systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/poteligeo

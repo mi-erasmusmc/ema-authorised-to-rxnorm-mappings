@@ -8,5 +8,5 @@ ATC code (human): L01XX77
 Pharmacotherapeutic group (human): Other antineoplastic agents
 Therapeutic indication: Krazati as monotherapy is indicated for the treatment of adult patients with advanced non-small cell lung cancer (NSCLC) with KRAS G12C mutation and disease progression after at least one prior systemic therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/krazati

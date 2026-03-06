@@ -8,5 +8,5 @@ ATC code (human): S01LA04
 Pharmacotherapeutic group (human): Ophthalmologicals
 Therapeutic indication: Ranivisio is indicated in adults for: • The treatment of neovascular (wet) age-related macular degeneration (AMD) • The treatment of visual impairment due to diabetic macular oedema (DME) • The treatment of proliferative diabetic retinopathy (PDR) • The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO) • The treatment of visual impairment due to choroidal neovascularisation (CNV)
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ranivisio

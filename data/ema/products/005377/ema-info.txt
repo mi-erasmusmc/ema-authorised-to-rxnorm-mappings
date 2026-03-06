@@ -8,5 +8,5 @@ ATC code (human): N03AX
 Pharmacotherapeutic group (human): Antiepileptics
 Therapeutic indication: Adjunctive treatment of focal-onset seizures with or without secondary generalisation in adult patients with epilepsy who have not been adequately controlled despite a history of treatment with at least 2 anti-epileptic medicinal products.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ontozry

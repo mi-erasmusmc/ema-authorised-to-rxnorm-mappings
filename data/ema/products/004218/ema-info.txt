@@ -8,5 +8,5 @@ ATC code (human): A16AA
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Myalepta is indicated as an adjunct to diet as a replacement therapy to treat the complications of leptin deficiency in lipodystrophy (LD) patients:  with confirmed congenital generalised LD (Berardinelli-Seip syndrome) or acquired generalised LD (Lawrence syndrome) in adults and children 2 years of age and above with confirmed familial partial LD or acquired partial LD (Barraquer-Simons syndrome), in adults and children 12 years of age and above for whom standard treatments have failed to achieve adequate metabolic control.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/myalepta

@@ -8,5 +8,5 @@ ATC code (human): N05AX12
 Pharmacotherapeutic group (human): Psycholeptics
 Therapeutic indication: Maintenance treatment of schizophrenia in adult patients stabilised with oral aripiprazole.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/abilify-maintena

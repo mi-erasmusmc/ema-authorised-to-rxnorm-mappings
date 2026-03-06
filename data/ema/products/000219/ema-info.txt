@@ -8,5 +8,5 @@ ATC code (human): A16AX03
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
 Therapeutic indication: Ammonaps is indicated as adjunctive therapy in the chronic management of urea cycle disorders, involving deficiencies of carbamylphosphate synthetase, ornithine transcarbamylase orargininosuccinate synthetase. It is indicated in all patients with neonatal-onset presentation (complete enzyme deficiencies, presenting within the first 28 days of life). It is also indicated in patients with late-onset disease(partial enzyme deficiencies, presenting after the first month of life) who have a history of hyperammonaemic encephalopathy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ammonaps

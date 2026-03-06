@@ -8,5 +8,5 @@ ATC code (human): B02AB02
 Pharmacotherapeutic group (human): Antihemorrhagics
 Therapeutic indication: Respreeza is indicated for maintenance treatment, to slow the progression of emphysema in adults with documented severe alpha1-proteinase inhibitor deficiency (e.g. genotypes PiZZ, PiZ(null), Pi(null,null), PiSZ). Patients are to be under optimal pharmacologic and non-pharmacologic treatment and show evidence of progressive lung disease (e.g. lower forced expiratory volume per second (FEV1) predicted, impaired walking capacity or increased number of exacerbations) as evaluated by a healthcare professional experienced in the treatment of alpha1-proteinase inhibitor deficiency.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/respreeza

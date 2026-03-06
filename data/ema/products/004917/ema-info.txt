@@ -8,5 +8,5 @@ ATC code (human): V01
 Pharmacotherapeutic group (human): Allergens
 Therapeutic indication: Palforzia is indicated for the treatment of patients aged 1 to 17 years with a confirmed diagnosis of peanut allergy. Palforzia may be continued in patients 18 years of age and older. Palforzia should be used in conjunction with a peanut-avoidant diet.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/palforzia

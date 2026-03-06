@@ -8,5 +8,5 @@ ATC code (human): L01XX75
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Kimmtrak is indicated as monotherapy for the treatment of human leukocyte antigen (HLA)-A*02:01-positive adult patients with unresectable or metastatic uveal melanoma.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kimmtrak

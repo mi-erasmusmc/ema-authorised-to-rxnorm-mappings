@@ -8,5 +8,5 @@ ATC code (human): A10BD15
 Pharmacotherapeutic group (human): Drugs used in diabetes
 Therapeutic indication: Type 2 diabetes mellitus For the treatment of insufficiently controlled type 2 diabetes mellitus as an adjunct to diet and exercise.  as monotherapy when metformin is considered inappropriate due to intolerance. in addition to other medicinal products for the treatment of type 2 diabetes.  For study results with respect to combination of therapies, effects on glycaemic control and cardiovascular events, and the populations studied, see sections 4.4, 4.5 and 5.1. Type 1 diabetes mellitus Edistride is indicated in adults for the treatment of insufficiently controlled type 1 diabetes mellitus as an adjunct to insulin in patients with BMI ? 27 kg/m2, when insulin alone does not provide adequate glycaemic control despite optimal insulin therapy.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ebymect

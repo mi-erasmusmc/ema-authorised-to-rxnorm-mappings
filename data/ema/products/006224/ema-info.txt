@@ -8,5 +8,5 @@ ATC code (human): L01FA01
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Treatment of Non-Hodgkin's lymphoma (NHL), chronic lymphocytic leukaemia (CLL) and rheumatoid arthritis
 Biosimilar: Yes
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ituxredi

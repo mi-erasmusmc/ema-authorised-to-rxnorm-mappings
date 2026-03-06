@@ -8,5 +8,5 @@ ATC code (human): R06AX27
 Pharmacotherapeutic group (human): Antihistamines for systemic use
 Therapeutic indication: Neoclarityn is indicated for the relief of symptoms associated with:  allergic rhinitis urticaria
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/neoclarityn

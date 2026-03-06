@@ -8,5 +8,5 @@ ATC code (human): J01MA23
 Pharmacotherapeutic group (human): Antibacterials for systemic use
 Therapeutic indication: Quofenix is indicated for the treatment of the following infections in adults:  acute bacterial skin and skin structure infections (ABSSSI), community-acquired pneumonia (CAP), when it is considered inappropriate to use other antibacterial agents that are commonly recommended for the initial treatment of these infections (see sections 4.4 and 5.1).  Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/quofenix

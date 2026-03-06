@@ -8,5 +8,5 @@ ATC code (human): J05AX
 Pharmacotherapeutic group (human): Antivirals for systemic use
 Therapeutic indication: Rukobia, in combination with other antiretrovirals, is indicated for the treatment of adults with multidrug resistant HIV-1 infection for whom it is otherwise not possible to construct a suppressive anti-viral regimen.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rukobia

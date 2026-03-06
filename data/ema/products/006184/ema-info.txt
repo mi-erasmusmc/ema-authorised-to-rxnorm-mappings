@@ -8,5 +8,5 @@ ATC code (human): L02BA
 Pharmacotherapeutic group (human): Endocrine therapy
 Therapeutic indication: Inluriyo is indicated as monotherapy for the treatment of adult patients with oestrogen receptor (ER)-positive, HER2-negative, locally advanced or metastatic breast cancer with an activating ESR1-mutation, who have disease progression following prior treatment with an endocrine based regimen (for biomarker-based patient selection, see section 4.2).In pre- or perimenopausal women, or men, Inluriyo should be combined with a luteinising hormone-releasing hormone (LHRH) agonist.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/inluriyo

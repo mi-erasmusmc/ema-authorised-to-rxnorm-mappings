@@ -8,5 +8,5 @@ ATC code (human): B02BX05
 Pharmacotherapeutic group (human): Antihemorrhagics
 Therapeutic indication: Eltrombopag Accord is indicated for the treatment of adult patients with primary immune thrombocytopenia (ITP) who are refractory to other treatments (e.g. corticosteroids, immunoglobulins).Eltrombopag Accord is indicated for the treatment of paediatric patients aged 1 year and above with primary immune thrombocytopenia (ITP) lasting 6 months or longer from diagnosis and who are refractory to other treatments (e.g. corticosteroids, immunoglobulins).Eltrombopag Accord is indicated in adult patients with chronic hepatitis C virus (HCV) infection for the treatment of thrombocytopenia, where the degree of thrombocytopenia is the main factor preventing the initiation or limiting the ability to maintain optimal interferon-based therapy.
 Biosimilar: No
-Generic or hybrid: Yes
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-accord

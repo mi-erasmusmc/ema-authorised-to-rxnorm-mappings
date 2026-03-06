@@ -8,5 +8,5 @@ ATC code (human): A03AB02
 Pharmacotherapeutic group (human): Drugs for functional gastrointestinal disorders
 Therapeutic indication: Symptomatic treatment of severe sialorrhoea (chronic pathological drooling) in children and adolescents aged 3 years and older with chronic neurological disorders.
 Biosimilar: No
-Generic or hybrid: No
+Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sialanar
