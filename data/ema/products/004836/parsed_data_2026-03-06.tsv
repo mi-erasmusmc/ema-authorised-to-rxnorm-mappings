@@ -1,0 +1,6 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/18/1275/001	EMEA/H/C/004836	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		1 inhaler with 60 actuations	RIARIFY
+EU/1/18/1275/002	EMEA/H/C/004836	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		1 inhaler with 120 actuations	RIARIFY
+EU/1/18/1275/003	EMEA/H/C/004836	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		1 inhaler with 180 actuations	RIARIFY
+EU/1/18/1275/004	EMEA/H/C/004836	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		Multipack: 240 actuations (2 inhalers with 120 actuations each)	RIARIFY
+EU/1/18/1275/005	EMEA/H/C/004836	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		Multipack: 360 actuations (3 inhalers with 120 actuations each)	RIARIFY
