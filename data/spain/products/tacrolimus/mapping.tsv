@@ -1,0 +1,37 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+605890	76114	19079712	tacrolimus 0.5 MG Oral Capsule	313190	EXACT			
+605891	76115	950641	tacrolimus 1 MG Oral Capsule	198377	EXACT			
+605892	76116	950662	tacrolimus 5 MG Oral Capsule	198378	EXACT			
+667221	71673	19079712	tacrolimus 0.5 MG Oral Capsule	313190				
+667231	71674	950641	tacrolimus 1 MG Oral Capsule	198377				
+667233	71674	950641	tacrolimus 1 MG Oral Capsule	198377				
+667242	71675	950662	tacrolimus 5 MG Oral Capsule	198378				
+675494	73744	19079712	tacrolimus 0.5 MG Oral Capsule	313190				
+675605	73745	950641	tacrolimus 1 MG Oral Capsule	198377				
+680645	61006	19010270	tacrolimus 1 MG Oral Capsule [Prograf]	108513				
+680660	61005	19010291	tacrolimus 5 MG Oral Capsule [Prograf]	108514				
+680678	61004	19010292	1 ML tacrolimus 5 MG/ML Injection [Prograf]	108515				
+704971	79456	21082761	Tacrolimus 2 MG Oral Capsule	OMOP378404				
+706166	114935001	46287733	24 HR tacrolimus 0.75 MG Extended Release Oral Tablet [Envarsus]	1664458	EXACT			2025-12-04
+706169	114935004	46287738	24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]	1664463	EXACT			2025-12-04
+706170	114935005	46287738	24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]	1664463	EXACT			2025-12-04
+706171	114935007	46287719	24 HR tacrolimus 4 MG Extended Release Oral Tablet [Envarsus]	1664440	EXACT			2025-12-04
+720460	82803	950669	tacrolimus 0.001 MG/MG Topical Ointment	314266	EXACT			
+720461	82803	950669	tacrolimus 0.001 MG/MG Topical Ointment	314266	EXACT			
+721244	1171244022	43532976	tacrolimus 5 MG Extended Release Oral Capsule	1431988	EXACT			2025-12-04
+721247	1171244002	43532968	tacrolimus 0.5 MG Extended Release Oral Capsule	1431978	EXACT			2025-12-04
+721248	1171244008	43532970	24 HR tacrolimus 1 MG Extended Release Oral Capsule	1431980	EXACT			2025-12-04
+721249	1171244008	43532970	24 HR tacrolimus 1 MG Extended Release Oral Capsule	1431980	EXACT			2025-12-04
+721250	1171244016	21082737	Tacrolimus 3 MG Extended Release Oral Capsule	OMOP378103	EXACT			2025-12-04
+727273	84607	43532968	tacrolimus 0.5 MG Extended Release Oral Capsule	1431978				
+727324	84629	43532970	24 HR tacrolimus 1 MG Extended Release Oral Capsule	1431980				
+727325	84629	43532970	24 HR tacrolimus 1 MG Extended Release Oral Capsule	1431980				
+727326	84630	36057753	tacrolimus 2 MG Extended Release Oral Capsule	OMOP4983307				
+727327	84631	21082737	Tacrolimus 3 MG Extended Release Oral Capsule	OMOP378103				
+727328	84632	43532976	tacrolimus 5 MG Extended Release Oral Capsule	1431988				
+758235	88078	43532968	tacrolimus 0.5 MG Extended Release Oral Capsule	1431978				
+758237	88079	43532970	24 HR tacrolimus 1 MG Extended Release Oral Capsule	1431980				
+758238	88080	21082737	Tacrolimus 3 MG Extended Release Oral Capsule	OMOP378103				
+758239	88081	43532976	tacrolimus 5 MG Extended Release Oral Capsule	1431988				
+885780	61006	19010270	tacrolimus 1 MG Oral Capsule [Prograf]	108513				
+888065	63189	950664	tacrolimus 0.5 MG Oral Capsule [Prograf]	261134				

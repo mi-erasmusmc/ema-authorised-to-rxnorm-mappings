@@ -19,7 +19,9 @@ import sys
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 VALID_MAPPING_TYPES = {"EXACT", "BROAD", ""}
 
-VALID_ID_COLUMNS = {"ma_number", "product_id"}
+VALID_ID_COLUMNS = {"ma_number", "product_id", "cod_nacion"}
+# Extra columns that follow the first ID column for certain formats
+EXTRA_ID_COLUMNS = {"cod_nacion": ["nro_definitivo"]}
 REQUIRED_COLUMNS = [
     "concept_id", "concept_name", "concept_code",
     "mapping_type", "comment", "suggestion", "last_updated_date",
@@ -47,7 +49,8 @@ def validate_file(path: str) -> list[str]:
                 errors.append(f"  Missing required columns: {missing}")
                 return errors
 
-            expected = [fields[0]] + REQUIRED_COLUMNS
+            extra = EXTRA_ID_COLUMNS.get(fields[0], [])
+            expected = [fields[0]] + extra + REQUIRED_COLUMNS
             if fields != expected:
                 errors.append(
                     f"  Column order mismatch: expected {expected}, "

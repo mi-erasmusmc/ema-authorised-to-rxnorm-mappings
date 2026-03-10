@@ -1,0 +1,14 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+660699	69680	19012748	clotrimazole 10 MG/ML Topical Cream [Canesten]	151010	EXACT			
+700688	62218	19018880	clotrimazole 100 MG Vaginal Insert	197530	EXACT			
+700689	62219	1000636	clotrimazole 500 MG Vaginal Insert	197532	EXACT			
+700691	62220	43837245	Clotrimazole 20 MG/ML Topical Cream	OMOP947014	EXACT			
+700694	62221	19012748	clotrimazole 10 MG/ML Topical Cream [Canesten]	151010	EXACT			
+701299	78414	1000636	clotrimazole 500 MG Vaginal Insert	197532				
+720607	82837	1000632	clotrimazole	2623	BROAD			
+725036	52626	19012748	clotrimazole 10 MG/ML Topical Cream [Canesten]	151010	EXACT			
+725044	52625	19075604	clotrimazole 10 MG/ML Topical Solution	309370	EXACT			
+725051	52624	19018880	clotrimazole 100 MG Vaginal Insert	197530	EXACT			
+965970	56755	1000636	clotrimazole 500 MG Vaginal Insert	197532	EXACT			
+966812	56825	43837245	Clotrimazole 20 MG/ML Topical Cream	OMOP947014	EXACT			
+966820	56826	1000632	clotrimazole	2623	BROAD			

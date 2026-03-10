@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+709251	1151043001	35606638	mepolizumab 100 MG Injection [Nucala]	1720606	EXACT			2025-12-04
+726684	1151043005	1396816	1 ML mepolizumab 100 MG/ML Prefilled Syringe [Nucala]	2173822				2025-12-04
+726685	1151043003	2904198	1 ML mepolizumab 100 MG/ML Pen Injector	OMOP5121026	EXACT			2025-12-04
+758570	1151043009	780228	0.4 ML mepolizumab 100 MG/ML Prefilled Syringe [Nucala]	2596445				2025-12-04

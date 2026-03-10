@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+723855	1181323001	2904230	1 ML tildrakizumab 100 MG/ML Injection	OMOP5121057	EXACT			2025-12-04
+748649	1181323003	843194	2 ML tildrakizumab 100 MG/ML Injectable Solution	OMOP5566001	EXACT			2025-12-04
+762267	1181323004	35201932	1 ML tildrakizumab-asmn 100 MG/ML Prefilled Syringe	2053453	EXACT			2025-12-04

@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+765442	1201528029	1759206	SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension [Comirnaty]	2593847	BROAD	No JN.1-specific concept available		2026-02-13
+765444	1201528033	37003436	SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.1 MG/ML Injectable Suspension	2468235	BROAD	10 µg pediatric dose; no JN.1 or generic 0.0333 MG/ML concept available		2026-02-13
+765445	1201528035	779948	SARS-CoV-2 (COVID-19) vaccine, mRNA-BNT162b2 0.015 MG/ML Injectable Suspension	2603833	BROAD			2026-02-13

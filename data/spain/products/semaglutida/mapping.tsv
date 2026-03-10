@@ -1,0 +1,17 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+723346	1171251003	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2025-12-04
+723347	1171251005	37003617	3 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	2398842	EXACT			2025-12-04
+728315	1201430008	37496838	semaglutide 14 MG Oral Tablet [Rybelsus]	2200650	EXACT			2025-12-04
+728316	1201430002	37496842	semaglutide 3 MG Oral Tablet [Rybelsus]	2200654	EXACT			2025-12-04
+728317	1201430005	37496746	semaglutide 7 MG Oral Tablet [Rybelsus]	2200658	EXACT			2025-12-04
+758085	1211608006	741832	0.25 MG, 0.5 MG Dose 3 ML semaglutide 0.68 MG/ML Pen Injector	2619152	NARROW		0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 0.68 MG/ML Pen Injector [Wegovy]	2025-12-04
+758086	1211608007	793147	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector	1991306	EXACT			2025-12-04
+758087	1211608008	37003616	3 ML semaglutide 1.34 MG/ML Pen Injector	2398841	EXACT			2025-12-04
+758088	1211608009	1537039	semaglutide 2.27 MG/ML Auto-Injector [Wegovy]	2553905	BROAD		3 ML semaglutide 2.27 MG/ML Auto-Injector [Wegovy]	2025-12-04
+758089	1211608010	1537043	semaglutide 3.2 MG/ML Auto-Injector [Wegovy]	2554106	BROAD		3 ML semaglutide 3.2 MG/ML Pen Injector [Wegovy]	2025-12-04
+767472	1201430022	1465685	semaglutide 4 MG Oral Tablet [Rybelsus]	2707553	EXACT			2025-12-04
+767473	1201430027	1465689	semaglutide 9 MG Oral Tablet [Rybelsus]	2707557	EXACT			2025-12-04
+767474	1201430017	1465681	semaglutide 1.5 MG Oral Tablet [Rybelsus]	2707549	EXACT			2025-12-04
+767530	1211608007	793147	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector	1991306	EXACT			2025-12-04
+767868	1171251003	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2025-12-04
+767870	1171251005	37003617	3 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	2398842	EXACT			2025-12-04

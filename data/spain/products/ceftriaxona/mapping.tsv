@@ -1,0 +1,22 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+603177	71057	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+607097	83553	46287328	ceftriaxone 1000 MG Injection	1665021				
+607098	83554	46287335	ceftriaxone 2000 MG Injection	1665046	EXACT			
+607180	83903	46287328	ceftriaxone 1000 MG Injection	1665021	EXACT			
+607182	83905	46287335	ceftriaxone 2000 MG Injection	1665046	EXACT			
+608158	64538	46287328	ceftriaxone 1000 MG Injection	1665021	EXACT			
+614487	62637	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+614503	62635	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+617829	63254	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+617845	63250	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+617852	63251	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+617928	63252	36259253	Ceftriaxone Intramuscular Solution	OMOP3110128	EXACT			
+617936	63253	36259253	Ceftriaxone Intramuscular Solution	OMOP3110128	EXACT			
+624221	64950	46287335	ceftriaxone 2000 MG Injection	1665046	EXACT			
+624239	64951	46287328	ceftriaxone 1000 MG Injection	1665021	EXACT			
+666610	62635	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+674986	62637	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+674994	62636	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			
+725043	83903	46287328	ceftriaxone 1000 MG Injection	1665021	EXACT			
+728103	64538	46287328	ceftriaxone 1000 MG Injection	1665021	EXACT			
+731645	63254	36784719	Ceftriaxone Intravenous Solution	OMOP4773003	EXACT			

@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+656289	67523	36881071	Domperidone 12.7 MG Oral Tablet	OMOP991402				
+946582	55411	19004937	domperidone 1 MG/ML Oral Suspension [Motilium]	104868				
+946590	55410	19004939	domperidone 10 MG Oral Tablet [Motilium]	104870	EXACT			

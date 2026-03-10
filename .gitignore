@@ -6,3 +6,4 @@ __pycache__/
 .venv
 load-ema-to-rxnorm.sh
 load-latvia-to-rxnorm.sh
+load-spain-to-rxnorm.sh

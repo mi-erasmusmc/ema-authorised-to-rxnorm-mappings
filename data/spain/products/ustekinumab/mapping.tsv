@@ -1,0 +1,32 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+713432	108494004	40160960	1 ML ustekinumab 90 MG/ML Prefilled Syringe [Stelara]	853356	EXACT			2025-12-04
+713947	108494005	1718933	26 ML ustekinumab 5 MG/ML Injection [Stelara]	1811257	EXACT			2025-12-04
+764023	1231784001	1466414	0.5 ML ustekinumab-aekn 90 MG/ML Prefilled Syringe	2705393	EXACT			2025-12-04
+764024	1231784004	1466416	1 ML ustekinumab-aekn 90 MG/ML Prefilled Syringe	2705400	EXACT			2025-12-04
+764827	1241801003	1466431	26 ML ustekinumab-ttwe 5 MG/ML Injection [Pyzchiva]	2705564	EXACT			2025-12-04
+764828	1241801002	1466435	1 ML ustekinumab-ttwe 90 MG/ML Prefilled Syringe [Pyzchiva]	2705576	EXACT			2025-12-04
+764830	1241801001	1466433	0.5 ML ustekinumab-ttwe 90 MG/ML Prefilled Syringe [Pyzchiva]	2705573	EXACT			2025-12-04
+765251	1241823004	1466378	26 ML ustekinumab-auub 5 MG/ML Injection	2700669	EXACT			2025-12-04
+765252	1241823003	1466384	1 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700691	EXACT			2025-12-04
+765253	1241823002	1466382	0.5 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700685	EXACT			2025-12-04
+765254	1241823001	1466380	0.5 ML ustekinumab-auub 90 MG/ML Injection	2700679	EXACT			2025-12-04
+765713	1241844003	1466373	26 ML ustekinumab-stba 5 MG/ML Injection [Steqeyma]	2700400	EXACT			2025-12-04
+765714	1241844001	1466375	0.5 ML ustekinumab-stba 90 MG/ML Prefilled Syringe [Steqeyma]	2700409	EXACT			2025-12-04
+765715	1241844002	1466377	1 ML ustekinumab-stba 90 MG/ML Prefilled Syringe [Steqeyma]	2700412	EXACT			2025-12-04
+765861	1241863003	1466403	26 ML ustekinumab-aauz 5 MG/ML Injection [Otulfi]	2702624	EXACT			2025-12-04
+765862	1241863001	1466401	0.5 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702616	EXACT			2025-12-04
+765863	1241863002	1466399	1 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702613	EXACT			2025-12-04
+766568	1241872001	0	0.5 ML ustekinumab-srlf 90 MG/ML Prefilled Syringe [Imuldosa]	No matching concept	EXACT			2026-02-17
+766569	1241872002	0	1 ML ustekinumab-srlf 90 MG/ML Prefilled Syringe [Imuldosa]	No matching concept	EXACT			2026-02-17
+766570	1241872003	0	26 ML ustekinumab-srlf 5 MG/ML Injection [Imuldosa]	No matching concept	EXACT			2026-02-17
+766974	1241801004	0			EXACT			2025-12-04
+766975	1241801005	0			EXACT			2025-12-04
+767042	1241823005	1466382	0.5 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700685	EXACT			2025-12-04
+767043	1241823006	1466384	1 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700691	EXACT			2025-12-04
+767048	1231784005	1466412	26 ML ustekinumab-aekn 5 MG/ML Injection	2705382	EXACT			2025-12-04
+767295	1241892002	1466439	0.5 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe [Yesintek]	2705597	EXACT			2025-12-04
+767300	1241892003	1466441	1 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe [Yesintek]	2705600	EXACT			2025-12-04
+767471	1241892004	1466437	26 ML ustekinumab-kfce 5 MG/ML Injection [Yesintek]	2705588	EXACT			2025-12-04
+768393	1251957002	40160987	0.5 ML ustekinumab 90 MG/ML Prefilled Syringe	853350	BROAD		0.5 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2025-12-04
+768394	1251957003	40160959	1 ML ustekinumab 90 MG/ML Prefilled Syringe	853355	BROAD		1 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2025-12-04
+768395	1251957004	1718931	26 ML ustekinumab 5 MG/ML Injection	1811255	BROAD		26 ML ustekinumab-hmny 5 MG/ML Injection	2025-12-04

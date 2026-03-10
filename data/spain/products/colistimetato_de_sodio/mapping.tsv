@@ -1,0 +1,8 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+680927	74156	19112658	colistimethate sodium	48305	BROAD			
+680928	74156	19112658	colistimethate sodium	48305	BROAD			
+700905	78300	19112658	colistimethate sodium	48305	BROAD			
+701286	111747003	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905	EXACT	Competing concept exists colistimethate 1660000 UNT Inhalant Powder [Colobreathe]		2025-12-04
+710972	80898	43215037	colistimethate 125 MG	OMOP476900				
+710973	80899	19112658	colistimethate sodium	48305	BROAD			
+838185	66292	43215037	colistimethate 125 MG	OMOP476900				

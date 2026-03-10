@@ -1,0 +1,8 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+695770	112800003	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2025-12-04
+695772	112800002	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2025-12-04
+695993	112786003	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2025-12-04
+696607	77085	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			
+700137	78102	36787243	zoledronic acid Intravenous Solution	OMOP4775508	BROAD			
+709871	80629	36787243	zoledronic acid Intravenous Solution	OMOP4775508	BROAD			
+765869	89848	19126450	100 ML zoledronic acid 0.05 MG/ML Injection	705824	EXACT			

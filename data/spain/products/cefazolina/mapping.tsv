@@ -1,0 +1,9 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+600300	67022	46287338	cefazolin 1000 MG Injection	1665050	EXACT			
+607086	83506	46287345	cefazolin 2000 MG Injection	1665060	EXACT			
+607087	83507	46287338	cefazolin 1000 MG Injection	1665050	EXACT			
+607112	83665	46287338	cefazolin 1000 MG Injection	1665050	EXACT			
+615377	64849	36785979	Cefazolin Intravenous Solution	OMOP4774256	BROAD			
+615534	64850	36785979	Cefazolin Intravenous Solution	OMOP4774256	BROAD			
+769125	64849	36785979	Cefazolin Intravenous Solution	OMOP4774256	BROAD			
+769695	64850	36785979	Cefazolin Intravenous Solution	OMOP4774256	BROAD			

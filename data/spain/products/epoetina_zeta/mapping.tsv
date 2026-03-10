@@ -1,0 +1,9 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+706824	109573036	36409996	1 ML Epoetin theta 10000 UNT/ML Injectable Solution	OMOP3102038	EXACT			2025-12-04
+706825	109573030	36411799	0.5 ML Epoetin theta 4000 UNT/ML Injectable Solution	OMOP3103841	EXACT			2025-12-04
+706826	109573037	36409734	1 ML Epoetin theta 20000 UNT/ML Injectable Solution	OMOP3101776	EXACT			2025-12-04
+706827	109573031	36409558	Epoetin theta Injectable Solution	OMOP3101600	BROAD		1 ML Epoetin theta 3000 UNT/ML Injection [Eporatio]	2025-12-04
+706828	109573040	36409681	1 ML Epoetin theta 30000 UNT/ML Injectable Solution	OMOP3101723	EXACT			2025-12-04
+706829	109573032	36405818	Epoetin theta 4000 UNT/ML Injectable Solution	OMOP3097860	EXACT			2025-12-04
+706830	109573033	36409558	Epoetin theta Injectable Solution	OMOP3101600	BROAD		1 ML Epoetin theta 5000 UNT/ML Injection [Eporatio]	2025-12-04
+706831	109573029	36411647	0.5 ML Epoetin theta 2000 UNT/ML Injectable Solution	OMOP3103689	EXACT			2025-12-04

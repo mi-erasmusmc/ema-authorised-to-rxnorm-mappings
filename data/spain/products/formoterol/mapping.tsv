@@ -1,0 +1,9 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+650654	66558	42708523	formoterol fumarate 0.012 MG Inhalation Powder	1246326	EXACT			
+652118	67037	37497327	formoterol fumarate 0.012 MG/ACTUAT	2205090	BROAD			
+653729	67037	37497327	formoterol fumarate 0.012 MG/ACTUAT	2205090	BROAD			
+656120	68063	37497327	formoterol fumarate 0.012 MG/ACTUAT	2205090	BROAD			
+656121	68063	37497327	formoterol fumarate 0.012 MG/ACTUAT	2205090	BROAD			
+657775	62197	42708524	formoterol fumarate 0.012 MG Inhalation Powder [Foradil]	1246328	EXACT			
+668863	61667	44168871	formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP3045594	BROAD			
+668871	61666	42706340	formoterol fumarate 0.0045 MG/ACTUAT	1246287	EXACT			

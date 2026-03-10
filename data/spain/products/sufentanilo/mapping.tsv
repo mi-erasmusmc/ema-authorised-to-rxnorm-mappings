@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+606698	1151042003	35407450	Sufentanil 0.015 MG Sublingual Tablet	OMOP1141035	EXACT			2025-12-04
+662010	70301	43785237	Sufentanil Injectable Solution [Sufenta Epidural]	OMOP678499	BROAD			
+725287	84001	40220493	sufentanil 0.05 MG/ML Injection	1809100	EXACT			
+725288	84002	40220493	sufentanil 0.05 MG/ML Injection	1809100	EXACT			
+758352	1181284001	35201758	sufentanil 0.03 MG Sublingual Tablet	2103192	EXACT			2025-12-04

@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+701399	113900009	45775865	dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet [Xigduo]	1593829	EXACT			2025-12-04
+701400	113900003	21061613	dapagliflozin 5 MG / Metformin 850 MG Oral Tablet	OMOP351613	EXACT			2025-12-04
+709155	1151051003	21061613	dapagliflozin 5 MG / Metformin 850 MG Oral Tablet	OMOP351613	EXACT			2025-12-04
+709156	1151051009	45775622	dapagliflozin 5 MG / metformin hydrochloride 1000 MG Extended Release Oral Tablet	1593071	EXACT			2025-12-04

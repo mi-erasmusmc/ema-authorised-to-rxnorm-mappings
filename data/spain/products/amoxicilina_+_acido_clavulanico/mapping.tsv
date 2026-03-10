@@ -1,0 +1,163 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+600000	66337	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-10
+600027	66424	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-10
+600028	66425	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution not in RxNorm	2026-03-10
+600841	59515	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+602819	70189	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+602820	70188	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+603326	71887	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+606021	65137	783197	Amoxicillin 2000 MG / Clavulanate 200 MG Injectable Solution	OMOP4831028	EXACT			2026-03-10
+606907	66426	783197	Amoxicillin 2000 MG / Clavulanate 200 MG Injectable Solution	OMOP4831028	EXACT			2026-03-10
+608679	65679	783197	Amoxicillin 2000 MG / Clavulanate 200 MG Injectable Solution	OMOP4831028	EXACT			2026-03-10
+616938	66216	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-10
+626051	65131	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution not in RxNorm	2026-03-10
+627141	64689	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+632547	64111	19123585	amoxicillin 25 MG/ML / clavulanate 6.25 MG/ML Oral Suspension	617302	EXACT			2026-03-10
+632653	64113	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+632661	64114	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+632851	62802	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+636472	56683	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+644278	59518	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+650356	66424	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-10
+650359	66426	783197	Amoxicillin 2000 MG / Clavulanate 200 MG Injectable Solution	OMOP4831028	EXACT			2026-03-10
+663507	62800	1759879	amoxicillin 50 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	617322	EXACT			2026-03-10
+663517	63214	1759879	amoxicillin 50 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	617322	EXACT			2026-03-10
+664791	71887	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+677471	70121	19123643	amoxicillin 100 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	618001	EXACT			2026-03-10
+693493	64113	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+693494	64114	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+693495	64114	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+693497	70189	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+693498	70188	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+693500	70188	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+694697	64418	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+694698	64425	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+694699	64688	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+694700	64688	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+694701	64689	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+694702	64689	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+694704	70121	19123643	amoxicillin 100 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	618001	EXACT			2026-03-10
+694754	66565	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 250 MG / clavulanate 62.5 MG Oral Powder not in RxNorm	2026-03-10
+694755	66566	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+694756	66567	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+694757	66567	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+694758	66765	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+694759	67892	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+694761	67892	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+694874	66766	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+694875	66766	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+694999	62802	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+695004	66423	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695005	66423	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695328	65357	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+695556	65422	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+695557	65422	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+695559	65221	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695560	65221	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695563	64712	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695564	64712	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695655	71887	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695656	71887	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+697876	59515	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+697914	59515	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+697929	68003	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+697930	68003	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+697950	66555	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+697951	66556	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+697952	66556	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+698112	77532	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+698113	77532	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+698114	77533	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+698115	77533	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+698231	59518	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+698232	59518	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+698687	56683	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+698758	72246	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+699571	59051	19123643	amoxicillin 100 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	618001	EXACT			2026-03-10
+700194	64898	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+703273	78974	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+703789	79086	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+703791	79086	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+707204	80066	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+707207	80066	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+712428	81203	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+712453	81204	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+713729	81482	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+718805	81204	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+723844	83523	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+723845	83523	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+723897	83544	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+724664	83544	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+725064	83915	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+725065	83915	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+725257	83994	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+725258	83994	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+725919	84183	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+725920	84184	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+725921	84184	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+728539	72246	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+728800	85182	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+728801	85182	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+748509	66216	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-10
+761982	66423	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+761983	66423	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+763699	89132	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+763700	89132	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+764776	89514	19123643	amoxicillin 100 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	618001	EXACT			2026-03-10
+765679	66216	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-10
+766170	59515	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+766451	59518	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+766584	56683	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+904912	59051	19123643	amoxicillin 100 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	618001	EXACT			2026-03-10
+926253	64111	19123585	amoxicillin 25 MG/ML / clavulanate 6.25 MG/ML Oral Suspension	617302	EXACT			2026-03-10
+965046	56683	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+600144	65136	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution not in RxNorm	2026-03-10
+603322	71886	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+606817	58215	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution not in RxNorm	2026-03-10
+606840	58216	783197	Amoxicillin 2000 MG / Clavulanate 200 MG Injectable Solution	OMOP4831028	EXACT			2026-03-10
+607220	78970	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution not in RxNorm	2026-03-10
+631432	65459	1713699	amoxicillin 1000 MG / clavulanate 62.5 MG Extended Release Oral Tablet	617989	EXACT			2026-03-10
+636498	56685	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+650553	66523	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+663512	64008	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+664790	71886	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+665828	63212	19123585	amoxicillin 25 MG/ML / clavulanate 6.25 MG/ML Oral Suspension	617302	EXACT			2026-03-10
+671906	63204	1759879	amoxicillin 50 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	617322	EXACT			2026-03-10
+694513	63213	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+695006	66522	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+695008	66523	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+695009	66523	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+695016	64008	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695017	64008	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695326	66535	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+695327	66535	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+695352	65356	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695354	65356	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695355	63356	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+695365	67171	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695366	67171	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695558	65423	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder not in RxNorm	2026-03-10
+695561	65222	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+695574	64737	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695575	64737	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+695632	56685	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+695657	71886	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+695933	64009	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+696811	63211	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+696812	63204	1759879	amoxicillin 50 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	617322	EXACT			2026-03-10
+697567	67041	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+697568	67041	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+697569	67851	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+697570	67851	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-10
+698151	65459	1713699	amoxicillin 1000 MG / clavulanate 62.5 MG Extended Release Oral Tablet	617989	EXACT			2026-03-10
+698280	63358	1759879	amoxicillin 50 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	617322	EXACT			2026-03-10
+700436	78228	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+703803	78228	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-10
+707197	80065	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+725063	83914	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-10
+728379	65136	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution not in RxNorm	2026-03-10
+858837	65459	1713699	amoxicillin 1000 MG / clavulanate 62.5 MG Extended Release Oral Tablet	617989	EXACT			2026-03-10
+859405	65459	1713699	amoxicillin 1000 MG / clavulanate 62.5 MG Extended Release Oral Tablet	617989	EXACT			2026-03-10
+888602	63204	1759879	amoxicillin 50 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	617322	EXACT			2026-03-10
+911651	63357	19123585	amoxicillin 25 MG/ML / clavulanate 6.25 MG/ML Oral Suspension	617302	EXACT			2026-03-10
+999721	63205	19123585	amoxicillin 25 MG/ML / clavulanate 6.25 MG/ML Oral Suspension	617302	EXACT			2026-03-10

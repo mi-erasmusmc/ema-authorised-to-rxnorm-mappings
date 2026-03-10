@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+705080	114963001	37499737	60 ACTUAT aclidinium bromide 0.4 MG/ACTUAT / formoterol fumarate 0.012 MG/ACTUAT Dry Powder Inhaler	2205094	EXACT	EMA delivered dose 340 MCG = RxNorm metered dose 400 MCG aclidinium; unbranded used as EMA brand Brimica Genuair differs from RxNorm brand Duaklir		2026-02-12
+705081	114964001	37499738	60 ACTUAT aclidinium bromide 0.4 MG/ACTUAT / formoterol fumarate 0.012 MG/ACTUAT Dry Powder Inhaler [Duaklir]	2205099	EXACT	EMA 340 mcg = delivered dose; RxNorm 400 MCG = metered dose; 60 actuations		2026-02-12

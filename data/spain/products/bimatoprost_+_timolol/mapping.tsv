@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+699328	106340004	21139071	bimatoprost 0.3 MG/ML / Timolol 5 MG/ML Ophthalmic Solution [Ganfort]	OMOP272286	EXACT			2025-12-04
+728333	85009	904528	bimatoprost 0.3 MG/ML	323998	BROAD			
+730043	85669	21021370	bimatoprost 0.3 MG/ML / Timolol 5 MG/ML Ophthalmic Solution	OMOP272266				
+732340	86416	21021370	bimatoprost 0.3 MG/ML / Timolol 5 MG/ML Ophthalmic Solution	OMOP272266				
+738382	86288	21021370	bimatoprost 0.3 MG/ML / Timolol 5 MG/ML Ophthalmic Solution	OMOP272266				

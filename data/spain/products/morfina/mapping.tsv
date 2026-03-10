@@ -1,0 +1,19 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+656670	37473	40170079	morphine hydrochloride 10 MG/ML	895855	EXACT			
+656671	37473	40170079	morphine hydrochloride 10 MG/ML	895855	EXACT			
+656757	42221	40170079	morphine hydrochloride 10 MG/ML	895855	EXACT			
+663377	61909	19006058	morphine sulfate 200 MG Extended Release Oral Tablet [MST Continus]	104946	EXACT			
+679548	61081	40061561	morphine Oral Solution	106841	BROAD			
+679555	61080	40061561	morphine Oral Solution	106841	BROAD			
+720312	82748	35776762	1 ML Morphine 1 MG/ML Injectable Solution	OMOP2778223				
+720314	82750	36407384	Morphine 40 MG/ML Injectable Solution	OMOP3099426				
+720801	82883	40170079	morphine hydrochloride 10 MG/ML	895855	BROAD			
+787911	59655	19006057	morphine sulfate 20 MG Oral Tablet [Sevredol]	104945	EXACT			
+787945	59656	19006056	morphine sulfate 10 MG Oral Tablet [Sevredol]	104944	EXACT			
+820860	62040	40061561	morphine Oral Solution	106841	BROAD			
+821934	62039	40061561	morphine Oral Solution	106841	BROAD			
+965194	42221	40170079	morphine hydrochloride 10 MG/ML	895855	EXACT			
+981365	57897	19006051	morphine sulfate 30 MG Extended Release Oral Tablet [MST Continus]	104937	EXACT			
+981373	57898	19006029	morphine sulfate 10 MG Extended Release Oral Tablet [MST Continus]	104935	EXACT			
+981399	57899	19006052	morphine sulfate 60 MG Extended Release Oral Tablet [MST Continus]	104938	EXACT			
+981415	57900	19006053	morphine sulfate 100 MG Extended Release Oral Tablet [MST Continus]	104940	EXACT			

@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+767419	1241804001	840760	30 ML dopamine 1.5 MG/ML Injectable Solution	OMOP5563555	EXACT			2025-12-04
+767420	1241804002	35606568	dopamine hydrochloride 40 MG/ML Injection	1743939	EXACT			2025-12-04
+947408	55454	40031956	dopamine Injectable Solution	377100	BROAD			

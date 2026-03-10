@@ -1,0 +1,8 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+702077	198067003	1593152	11.7 ML hyaluronidase, human recombinant 2000 UNT/ML / rituximab 120 MG/ML Injection	1927885	EXACT			2025-12-04
+716658	1171185001	46275077	10 ML rituximab 10 MG/ML Injection	1657862	BROAD		10 ML rituximab 10 MG/ML Injection [Rixathon]	2025-12-04
+716659	1171185003	46275082	50 ML rituximab 10 MG/ML Injection	1657867	BROAD		50 ML rituximab 10 MG/ML Injection [Rixathon]	2025-12-04
+728339	1201431001	37499796	10 ML rituximab-pvvr 10 MG/ML Injection [Ruxience]	2273517	EXACT			2025-12-04
+728340	1201431002	37499798	50 ML rituximab-pvvr 10 MG/ML Injection [Ruxience]	2273521	EXACT			2025-12-04
+765843	1241861002	46275077	10 ML rituximab 10 MG/ML Injection	1657862	BROAD		10 ML rituximab 10 MG/ML Injection [Ituxredi]	2025-12-04
+765845	1241861003	46275082	50 ML rituximab 10 MG/ML Injection	1657867	BROAD		50 ML rituximab 10 MG/ML Injection [Ituxredi]	2025-12-04

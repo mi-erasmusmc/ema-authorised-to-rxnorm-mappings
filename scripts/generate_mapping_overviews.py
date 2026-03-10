@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""Regenerate combined ema-to-rxnorm.tsv and/or latvia-to-rxnorm.tsv from individual mapping.tsv files.
+"""Regenerate combined ema-to-rxnorm.tsv, latvia-to-rxnorm.tsv, and/or spain-to-rxnorm.tsv from individual mapping.tsv files.
 
 Usage:
-    python3 scripts/generate_mapping_overviews.py          # regenerate both
+    python3 scripts/generate_mapping_overviews.py          # regenerate all
     python3 scripts/generate_mapping_overviews.py ema       # regenerate EMA only
     python3 scripts/generate_mapping_overviews.py latvia    # regenerate Latvia only
+    python3 scripts/generate_mapping_overviews.py spain     # regenerate Spain only
 """
 
 import argparse
@@ -291,6 +292,101 @@ def regenerate_latvia():
 
 
 # ---------------------------------------------------------------------------
+# Spain
+# ---------------------------------------------------------------------------
+
+SPAIN_DIR = GIT_ROOT / "data" / "spain"
+
+SPAIN_MAPPING_COLUMNS = [
+    "concept_id",
+    "concept_name",
+    "concept_code",
+    "mapping_type",
+    "comment",
+    "suggestion",
+    "last_updated_date",
+]
+
+SPAIN_RXNORM_COLUMNS = [
+    "cod_nacion",
+    "nro_definitivo",
+    "concept_id",
+    "concept_name",
+    "concept_code",
+    "mapping_type",
+    "des_nomco",
+    "des_dcp",
+    "principios_activos",
+    "atc",
+    "laboratorio_titular",
+    "situacion_registro",
+    "comment",
+    "suggestion",
+    "last_updated_date",
+]
+
+
+def _load_spain_product_data(products_dir):
+    """Load all Spain data.tsv files into a dict keyed by (cod_nacion, nro_definitivo)."""
+    products = {}
+    for data_file in sorted(products_dir.glob("*/data.tsv")):
+        with open(data_file, "r", encoding="utf-8") as f:
+            for row in csv.DictReader(f, delimiter="\t"):
+                key = (row.get("cod_nacion", "").strip(), row.get("nro_definitivo", "").strip())
+                if key[0] or key[1]:
+                    products[key] = row
+    return products
+
+
+def _load_spain_mappings(products_dir):
+    """Load all Spain mapping.tsv files into a dict keyed by cod_nacion."""
+    mappings = {}
+    for mapping_file in sorted(products_dir.glob("*/mapping.tsv")):
+        with open(mapping_file, "r", encoding="utf-8") as f:
+            for row in csv.DictReader(f, delimiter="\t"):
+                cod = row.get("cod_nacion", "").strip()
+                if cod:
+                    mappings[cod] = {col: row.get(col, "").strip() for col in SPAIN_MAPPING_COLUMNS}
+    return mappings
+
+
+def regenerate_spain():
+    """Regenerate spain-to-rxnorm.tsv from per-product data.tsv and mapping.tsv files."""
+    products_dir = SPAIN_DIR / "products"
+
+    print("Loading Spain product data...")
+    products = _load_spain_product_data(products_dir)
+    print(f"  Loaded {len(products)} products")
+
+    print("Loading Spain mapping.tsv files...")
+    mappings = _load_spain_mappings(products_dir)
+    print(f"  Loaded {len(mappings)} mappings")
+
+    rxnorm_file = GIT_ROOT / "spain-to-rxnorm.tsv"
+    all_rows = []
+
+    empty_mapping = {col: "" for col in SPAIN_MAPPING_COLUMNS}
+
+    for (cod, nro), product in sorted(products.items()):
+        mapping = mappings.get(cod, empty_mapping)
+        row = {col: product.get(col, "") for col in SPAIN_RXNORM_COLUMNS}
+        row["cod_nacion"] = cod
+        row.update(mapping)
+        all_rows.append({col: row.get(col, "") for col in SPAIN_RXNORM_COLUMNS})
+
+    with open(rxnorm_file, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=SPAIN_RXNORM_COLUMNS, delimiter="\t")
+        writer.writeheader()
+        writer.writerows(all_rows)
+
+    print(f"Spain: Generated {len(all_rows)} rows into {rxnorm_file}")
+
+    mapped = sum(1 for r in all_rows if r["concept_id"])
+    unmapped = len(all_rows) - mapped
+    print(f"  Mapped: {mapped}, Unmapped: {unmapped}")
+
+
+# ---------------------------------------------------------------------------
 # Main
 # ---------------------------------------------------------------------------
 
@@ -301,8 +397,8 @@ def main():
     parser.add_argument(
         "source",
         nargs="?",
-        choices=["ema", "latvia"],
-        help="Regenerate only EMA or Latvia (default: both)",
+        choices=["ema", "latvia", "spain"],
+        help="Regenerate only EMA, Latvia, or Spain (default: all)",
     )
     args = parser.parse_args()
 
@@ -310,10 +406,14 @@ def main():
         regenerate_ema()
     elif args.source == "latvia":
         regenerate_latvia()
+    elif args.source == "spain":
+        regenerate_spain()
     else:
         regenerate_ema()
         print()
         regenerate_latvia()
+        print()
+        regenerate_spain()
 
 
 if __name__ == "__main__":

@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+730772	106346002	1972838	1 ML natalizumab 150 MG/ML Prefilled Syringe [Tysabri]	OMOP5165402	EXACT			2025-12-08
+763192	1231745001	735844	15 ML natalizumab 20 MG/ML Injection	477484	BROAD		15 ML natalizumab-sztn 20 MG/ML Injection [Tyruko]	2026-02-12

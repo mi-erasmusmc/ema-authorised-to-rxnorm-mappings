@@ -1,0 +1,15 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+617316	48827	40154890	valproate Delayed Release Oral Tablet	808542	BROAD			
+617480	54470	40864885	Valproate 500 MG Oral Tablet	OMOP2062847	EXACT			
+650004	54470	40864885	Valproate 500 MG Oral Tablet	OMOP2062847	EXACT			
+650005	54470	40864885	Valproate 500 MG Oral Tablet	OMOP2062847	EXACT			
+650006	48827	40154890	valproate Delayed Release Oral Tablet	808542	BROAD			
+650007	48827	40154890	valproate Delayed Release Oral Tablet	808542	BROAD			
+650008	48828	745466	valproate	40254	BROAD			
+671081	48828	745466	valproate	40254	BROAD			
+671131	60351	40833749	Valproate 87 MG Extended Release Oral Tablet	OMOP2031711				
+671149	60350	745466	valproate	40254	BROAD			
+726898	84516	745466	valproate	40254	BROAD			
+726906	84517	40833749	Valproate 87 MG Extended Release Oral Tablet	OMOP2031711				
+728593	85097	745466	valproate	40254	BROAD			
+766452	90007	40237992	valproic acid 100 MG/ML	1099647	EXACT			

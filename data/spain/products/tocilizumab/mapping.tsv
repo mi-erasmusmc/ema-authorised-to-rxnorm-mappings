@@ -1,0 +1,16 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+702285	108492007	44507566	0.9 ML tocilizumab 180 MG/ML Prefilled Syringe	1441527	EXACT			2025-12-04
+721814	108492009	42922630	0.9 ML tocilizumab 180 MG/ML Pen Injector	OMOP4649437	EXACT			2025-12-04
+763180	1231754001	42609785	4 ML tocilizumab-aazg 20 MG/ML Injection [Tyenne]	2679438	EXACT			2025-12-04
+763181	1231754001	42609785	4 ML tocilizumab-aazg 20 MG/ML Injection [Tyenne]	2679438	EXACT			2025-12-04
+763182	1231754001	42609785	4 ML tocilizumab-aazg 20 MG/ML Injection [Tyenne]	2679438	EXACT			2025-12-04
+763183	1231754001	42609785	4 ML tocilizumab-aazg 20 MG/ML Injection [Tyenne]	2679438	EXACT			2025-12-04
+763184	1231754001	42609785	4 ML tocilizumab-aazg 20 MG/ML Injection [Tyenne]	2679438	EXACT			2025-12-04
+763187	1231754010	1735789	0.9 ML tocilizumab-aazg 180 MG/ML Prefilled Syringe [Tyenne]	2686057	EXACT			2025-12-04
+763190	1231754007	1735789	0.9 ML tocilizumab-aazg 180 MG/ML Prefilled Syringe [Tyenne]	2686057	EXACT			2025-12-04
+767309	1241896010	1466421	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector [Avtozma]	2705439	EXACT			2025-12-04
+767310	1241896001	1466427	4 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705453	EXACT			2025-12-04
+767311	1241896001	1466427	4 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705453	EXACT			2025-12-04
+767312	1241896001	1466427	4 ML tocilizumab-anoh 20 MG/ML Injection [Avtozma]	2705453	EXACT			2025-12-04
+767313	1241896007	1466419	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe [Avtozma]	2705432	EXACT			2025-12-04
+768850	1241896010	1466421	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector [Avtozma]	2705439	EXACT			2025-12-04

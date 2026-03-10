@@ -1,0 +1,8 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+762380	88717	42708082	axitinib 1 MG Oral Tablet	1243004				
+762381	88718	42708084	axitinib 5 MG Oral Tablet	1243012				
+765291	89674	42708082	axitinib 1 MG Oral Tablet	1243004				
+765300	89675	42708084	axitinib 5 MG Oral Tablet	1243012				
+765918	1241847004	42708082	axitinib 1 MG Oral Tablet	1243004	EXACT			2025-12-04
+765919	1241847009	21154329	axitinib 3 MG Oral Tablet	OMOP263037	EXACT			2025-12-04
+765920	1241847014	42708084	axitinib 5 MG Oral Tablet	1243012	EXACT			2025-12-04

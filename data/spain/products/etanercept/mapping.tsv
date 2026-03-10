@@ -1,0 +1,10 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+710130	1151074002	42922270	1 ML Etanercept 50 MG/ML Pen Injector	OMOP4649084	EXACT			2025-12-04
+710131	1151074001	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	EXACT			2025-12-04
+716046	1151074005	43038007	0.51 ML Etanercept 50 MG/ML Injectable Solution	OMOP4853047	BROAD			2025-12-04
+716776	1171195007	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	EXACT			2025-12-08
+716777	1171195003	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2025-12-08
+716816	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-08
+716817	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-08
+717050	199126023	19132639	0.5 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	809159	BROAD	pen injector mapped to prefilled syringe to preserve 0.5 ML dose	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-02-16
+765653	1201436005	1151884	etanercept 50 MG/ML Injectable Solution	582671				2025-12-04

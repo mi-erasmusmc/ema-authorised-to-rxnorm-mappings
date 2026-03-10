@@ -1,0 +1,79 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+664459	71779	733529	rivastigmine 2 MG/ML Oral Solution	312834				
+664461	71781	733529	rivastigmine 2 MG/ML Oral Solution	312834				
+664462	71777	733529	rivastigmine 2 MG/ML Oral Solution	312834				
+664463	71778	733529	rivastigmine 2 MG/ML Oral Solution	312834				
+664496	71816	733529	rivastigmine 2 MG/ML Oral Solution	312834				
+664868	71913	733529	rivastigmine 2 MG/ML Oral Solution	312834				
+688235	75562	733562	rivastigmine 1.5 MG Oral Capsule	314214				
+688236	75562	733562	rivastigmine 1.5 MG Oral Capsule	314214				
+688239	75563	733530	rivastigmine 3 MG Oral Capsule	312835				
+688240	75563	733530	rivastigmine 3 MG Oral Capsule	312835				
+688244	75566	733563	rivastigmine 4.5 MG Oral Capsule	314215				
+688245	75566	733563	rivastigmine 4.5 MG Oral Capsule	314215				
+691342	76055	733529	rivastigmine 2 MG/ML Oral Solution	312834				
+691750	76126	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			
+691751	76126	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			
+691753	76127	43605293	rivastigmine 9.6 MG Oral Capsule	OMOP677999				
+691757	76129	43839340	rivastigmine 7.2 MG Oral Capsule	OMOP678059				
+691759	76129	43839340	rivastigmine 7.2 MG Oral Capsule	OMOP678059				
+691761	76130	43767135	rivastigmine 2.4 MG Oral Capsule	OMOP678078				
+692375	76265	733529	rivastigmine 2 MG/ML Oral Solution	312834				
+692387	76267	733562	rivastigmine 1.5 MG Oral Capsule	314214				
+692388	76267	733562	rivastigmine 1.5 MG Oral Capsule	314214				
+692389	76267	733562	rivastigmine 1.5 MG Oral Capsule	314214				
+692391	76268	733530	rivastigmine 3 MG Oral Capsule	312835				
+692393	76268	733530	rivastigmine 3 MG Oral Capsule	312835				
+692395	76269	733563	rivastigmine 4.5 MG Oral Capsule	314215				
+692396	76269	733563	rivastigmine 4.5 MG Oral Capsule	314215				
+692398	76270	733531	rivastigmine 6 MG Oral Capsule	312836				
+692399	76270	733531	rivastigmine 6 MG Oral Capsule	312836				
+693623	76596	733562	rivastigmine 1.5 MG Oral Capsule	314214				
+693624	76596	733562	rivastigmine 1.5 MG Oral Capsule	314214				
+693625	76596	733562	rivastigmine 1.5 MG Oral Capsule	314214				
+693626	76597	733530	rivastigmine 3 MG Oral Capsule	312835				
+693627	76597	733530	rivastigmine 3 MG Oral Capsule	312835				
+693628	76597	733530	rivastigmine 3 MG Oral Capsule	312835				
+693629	76598	733563	rivastigmine 4.5 MG Oral Capsule	314215				
+693631	76598	733563	rivastigmine 4.5 MG Oral Capsule	314215				
+693632	76598	733563	rivastigmine 4.5 MG Oral Capsule	314215				
+693694	76613	733531	rivastigmine 6 MG Oral Capsule	312836				
+693695	76613	733531	rivastigmine 6 MG Oral Capsule	312836				
+697305	77306	40221091	rivastigmine Transdermal System	1805978	EXACT			
+697307	77306	40221091	rivastigmine Transdermal System	1805978	EXACT			
+697309	77307	40221091	rivastigmine Transdermal System	1805978	EXACT			
+697689	198092029	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2025-12-04
+697755	198066029	42898244	24 HR rivastigmine 0.554 MG/HR Transdermal System [Exelon]	1308571	EXACT			2025-12-04
+701349	78429	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+701350	78429	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+701354	78430	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+704922	79431	40221091	rivastigmine Transdermal System	1805978	EXACT			
+704923	79431	40221091	rivastigmine Transdermal System	1805978	EXACT			
+706755	79930	40221091	rivastigmine Transdermal System	1805978	EXACT			
+706786	109525002	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2025-12-04
+706787	109525010	733530	rivastigmine 3 MG Oral Capsule	312835	EXACT			2025-12-04
+706790	109525016	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2025-12-04
+706791	109525022	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2025-12-04
+707697	109525018	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2025-12-04
+707698	109525006	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2025-12-04
+707699	109525004	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2025-12-04
+707700	109525012	733530	rivastigmine 3 MG Oral Capsule	312835	EXACT			2025-12-04
+707701	109525024	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2025-12-04
+709987	80656	40221091	rivastigmine Transdermal System	1805978	EXACT			
+709988	80656	40221091	rivastigmine Transdermal System	1805978	EXACT			
+709989	80657	40221091	rivastigmine Transdermal System	1805978	EXACT			
+709995	80659	40221091	rivastigmine Transdermal System	1805978	EXACT			
+720897	82914	40221091	rivastigmine Transdermal System	1805978	EXACT			
+720898	82915	40221091	rivastigmine Transdermal System	1805978	EXACT			
+720899	82915	40221091	rivastigmine Transdermal System	1805978	EXACT			
+720900	82916	40221091	rivastigmine Transdermal System	1805978	EXACT			
+725985	84206	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+725987	84206	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+725990	84207	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+728198	198066029	42898244	24 HR rivastigmine 0.554 MG/HR Transdermal System [Exelon]	1308571	EXACT			2025-12-04
+728324	198092029	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2025-12-04
+732336	78429	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+762672	79930	40221091	rivastigmine Transdermal System	1805978	EXACT			
+764355	84207	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+764408	84206	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			
+764518	84206	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			

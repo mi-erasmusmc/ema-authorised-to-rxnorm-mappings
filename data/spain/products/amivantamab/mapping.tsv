@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+732485	1211594001	1537590	7 ML amivantamab-vmjw 50 MG/ML Injection [Rybrevant]	2549739	EXACT			2025-12-04
+767479	1211594002	841594	10 ML amivantamab 160 MG/ML Injectable Solution	OMOP5564394	EXACT			2025-12-04
+767480	1211594003	841456	14 ML amivantamab 160 MG/ML Injectable Solution	OMOP5564256	EXACT			2025-12-04

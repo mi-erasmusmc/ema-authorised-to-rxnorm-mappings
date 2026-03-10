@@ -1,0 +1,10 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+695740	112797001	1735856	0.05 ML aflibercept 40 MG/ML Prefilled Syringe [Eylea]	2693567	EXACT			2026-02-14
+695741	112797002	40244269	0.05 ML aflibercept 40 MG/ML Injection [Eylea]	1232159	EXACT			2026-02-14
+696947	112814001	35606186	4 ML ziv-aflibercept 25 MG/ML Injection [Zaltrap]	1723194	EXACT			2025-12-04
+696952	112814003	35606182	8 ML ziv-aflibercept 25 MG/ML Injection [Zaltrap]	1723189	EXACT			2025-12-04
+764006	112797003	747804	0.07 ML aflibercept 114 MG/ML Injection [Eylea]	2645308	EXACT			2026-02-14
+765437	112797004	747804	0.07 ML aflibercept 114 MG/ML Injection [Eylea]	2645308	BROAD		0.07 ML aflibercept 114 MG/ML Prefilled Syringe [Eylea]	2026-02-14
+766234	1241867001	1735855	0.05 ML aflibercept 40 MG/ML Prefilled Syringe	2693564	EXACT		0.05 ML aflibercept-abzv 40 MG/ML Prefilled Syringe [Afqlir]	2025-12-04
+768339	1251963001	1735325	aflibercept 40 MG/ML Prefilled Syringe	2693565	BROAD	Biosimilar with no FDA equivalent; intravitreal prefilled syringe (0.165 mL)	aflibercept-xxxx 40 MG/ML Prefilled Syringe [Eiyzey]	2026-02-12
+768340	1251963002	35606178	aflibercept 40 MG/ML Injection	1723184	BROAD	Biosimilar with no FDA equivalent; intravitreal vial (0.278 mL)	aflibercept-xxxx 40 MG/ML Injection [Eiyzey]	2026-02-12

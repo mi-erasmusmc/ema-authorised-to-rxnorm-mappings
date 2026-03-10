@@ -1,0 +1,10 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+661837	70227	36882425	vinorelbine 13.9 MG/ML	OMOP996130				
+726117	84245	21149941	vinorelbine 20 MG Oral Capsule	OMOP350913				
+726118	84246	21149936	vinorelbine 30 MG Oral Capsule	OMOP350892				
+747144	87418	21149941	vinorelbine 20 MG Oral Capsule	OMOP350913				
+747145	87419	21149936	vinorelbine 30 MG Oral Capsule	OMOP350892				
+762095	88629	21149941	vinorelbine 20 MG Oral Capsule	OMOP350913				
+762096	88630	21149936	vinorelbine 30 MG Oral Capsule	OMOP350892				
+843763	65978	21149936	vinorelbine 30 MG Oral Capsule	OMOP350892	EXACT			
+843797	65979	21169677	vinorelbine Oral Capsule	OMOP350887	BROAD			

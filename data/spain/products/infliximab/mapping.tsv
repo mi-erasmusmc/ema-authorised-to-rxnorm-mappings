@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+701881	113854001	42629519	infliximab-dyyb 100 MG Injection [Inflectra]	1790546	EXACT			2025-12-04
+711542	1161106001	1592762	infliximab-abda 100 MG Injection	1927285	EXACT			2025-12-04
+722306	1181280001	19078524	infliximab 100 MG Injection	310994	BROAD		infliximab-qbtx 100 MG Injection	2025-12-04

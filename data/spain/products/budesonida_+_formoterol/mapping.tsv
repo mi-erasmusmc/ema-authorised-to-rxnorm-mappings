@@ -1,0 +1,20 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+723297	114920001	42708508	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1246304	EXACT			2025-12-04
+723298	114920004	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04
+723299	78803	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD			
+723300	78807	42902748	budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1359861	EXACT			
+723301	78808	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD			
+723302	78813	42902748	budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1359861	EXACT			
+723304	114921001	42708508	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1246304	EXACT			2025-12-04
+723305	114921004	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04
+723306	64354	42903191	budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1360304	EXACT			
+723307	81115	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD			
+723308	81155	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD			
+723311	63956	42903396	budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]	1360509	EXACT			
+723312	65045	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD			
+723313	65044	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD			
+723314	63958	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT			
+723315	64353	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD			
+723825	83517	42902748	budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1359861	EXACT			
+730557	85833	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD			
+731458	83517	42902748	budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1359861	EXACT			

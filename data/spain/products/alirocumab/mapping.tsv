@@ -1,0 +1,7 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+708030	1151031002	2904443	1 ML alirocumab 75 MG/ML Pen Injector	OMOP5121267	EXACT			2025-12-04
+708035	1151031008	2904431	1 ML alirocumab 150 MG/ML Pen Injector	OMOP5121255	EXACT			2025-12-04
+729267	1151031019	1972938	2 ML alirocumab 150 MG/ML Auto-Injector	OMOP5165501	EXACT			2025-12-04
+766115	1151031019	1972938	2 ML alirocumab 150 MG/ML Auto-Injector	OMOP5165501	EXACT			2025-12-04
+766116	1151031008	2904431	1 ML alirocumab 150 MG/ML Pen Injector	OMOP5121255	EXACT			2025-12-04
+766117	1151031002	2904443	1 ML alirocumab 75 MG/ML Pen Injector	OMOP5121267	EXACT			2025-12-04

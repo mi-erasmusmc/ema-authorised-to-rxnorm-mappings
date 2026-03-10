@@ -1,0 +1,7 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+764819	1221685051	843094	2.4 ML tirzepatide 8.33 MG/ML Injectable Solution	OMOP5565898	BROAD	KwikPen; no Pen Injector concept exists	2.4 ML tirzepatide 8.33 MG/ML Pen Injector [Mounjaro]	2026-02-14
+764820	1221685049	843100	2.4 ML tirzepatide 4.17 MG/ML Injectable Solution	OMOP5565904	BROAD	KwikPen; no Pen Injector concept exists	2.4 ML tirzepatide 4.17 MG/ML Pen Injector [Mounjaro]	2026-02-14
+764821	1221685053	843088	2.4 ML tirzepatide 12.5 MG/ML Injectable Solution	OMOP5565892	BROAD	KwikPen; no Pen Injector concept exists	2.4 ML tirzepatide 12.5 MG/ML Pen Injector [Mounjaro]	2026-02-14
+764822	1221685055	843082	2.4 ML tirzepatide 16.7 MG/ML Injectable Solution	OMOP5565886	BROAD	KwikPen; no Pen Injector concept exists	2.4 ML tirzepatide 16.7 MG/ML Pen Injector [Mounjaro]	2026-02-14
+764824	1221685057	843025	2.4 ML tirzepatide 20 MG/ML Injectable Solution	OMOP5565928	BROAD	KwikPen 20.8 MG/ML; no 20.8 or Pen Injector concept exists	2.4 ML tirzepatide 20.8 MG/ML Pen Injector [Mounjaro]	2026-02-14
+764825	1221685059	843112	2.4 ML tirzepatide 25 MG/ML Injectable Solution	OMOP5565916	BROAD	KwikPen; no Pen Injector concept exists	2.4 ML tirzepatide 25 MG/ML Pen Injector [Mounjaro]	2026-02-14

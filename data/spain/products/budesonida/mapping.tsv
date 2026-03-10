@@ -1,0 +1,40 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+605958	59297	939543	budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort]	616819	EXACT			
+605959	59298	939542	budesonide 0.25 MG/ML Inhalation Suspension [Pulmicort]	616817	EXACT			
+642488	59255	1356143	budesonide Inhalation Powder	2108302	BROAD			
+643692	59297	939543	budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort]	616819	EXACT			
+643700	59298	939542	budesonide 0.25 MG/ML Inhalation Suspension [Pulmicort]	616817	EXACT			
+650965	66669	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			
+650966	66670	939394	budesonide 0.1 MG/ACTUAT	332686	EXACT			
+650967	66671	1356143	budesonide Inhalation Powder	2108302	BROAD			
+651626	66942	19098138	budesonide 0.25 MG/ML Inhalation Suspension	351109	EXACT			
+651628	66943	939359	budesonide 0.5 MG/ML Inhalation Suspension	252559	EXACT			
+651927	59254	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			
+652283	67103	36813122	Budesonide 0.4 MG/ACTUAT Inhalation Powder	OMOP4827155	EXACT			
+652284	67103	36813122	Budesonide 0.4 MG/ACTUAT Inhalation Powder	OMOP4827155	EXACT			
+656614	59036	43291282	Budesonide Inhalant	OMOP572533	EXACT			
+656615	59035	43291282	Budesonide Inhalant	OMOP572533	EXACT			
+660910	62046	43291282	Budesonide Inhalant	OMOP572533	EXACT			
+663598	71181	45892457	budesonide 2 MG/ACTUAT Rectal Foam	1596773	EXACT			
+667709	61728	42708201	budesonide 3 MG Delayed Release Oral Capsule	1244214	EXACT			
+668905	61663	43291282	Budesonide Inhalant	OMOP572533	EXACT			
+672718	61664	43291282	Budesonide Inhalant	OMOP572533	EXACT			
+686770	59035	43291282	Budesonide Inhalant	OMOP572533	EXACT			
+687844	75467	43012544	budesonide 9 MG Extended Release Oral Tablet	1366557				
+720751	1171254003	36057986	budesonide 1 MG Disintegrating Oral Tablet	OMOP4983562	EXACT			2025-12-04
+725241	83987	43291282	Budesonide Inhalant	OMOP572533	EXACT			
+728765	1171254008	36036912	budesonide 0.5 MG Disintegrating Oral Tablet	OMOP5046911	EXACT			2025-12-04
+728863	85219	939359	budesonide 0.5 MG/ML Inhalation Suspension	252559	EXACT			
+728864	85220	939359	budesonide 0.5 MG/ML Inhalation Suspension	252559	EXACT			
+758538	1221657001	702522	budesonide 4 MG Delayed Release Oral Capsule	2587883	EXACT			2025-12-04
+796987	65849	42708201	budesonide 3 MG Delayed Release Oral Capsule	1244214	EXACT			
+799015	61664	43291282	Budesonide Inhalant	OMOP572533	EXACT			
+885640	59255	1356143	budesonide Inhalation Powder	2108302	BROAD			
+888255	63197	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			
+888263	63197	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			
+888289	63198	1356143	budesonide Inhalation Powder	2108302	BROAD			
+888297	63198	1356143	budesonide Inhalation Powder	2108302	BROAD			
+901082	59297	939543	budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort]	616819	EXACT			
+901199	59298	939542	budesonide 0.25 MG/ML Inhalation Suspension [Pulmicort]	616817	EXACT			
+945436	65536	35157438	Budesonide 0.2 MG/ACTUAT Inhalation Powder	OMOP4814444	EXACT			
+945493	65536	35157438	Budesonide 0.2 MG/ACTUAT Inhalation Powder	OMOP4814444	EXACT			

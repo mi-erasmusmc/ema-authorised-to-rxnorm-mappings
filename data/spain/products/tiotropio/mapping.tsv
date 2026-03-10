@@ -1,0 +1,10 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+654832	64796	36811049	tiotropium 0.01 MG Inhalation Powder	OMOP4825086	BROAD			
+700607	69589	35603331	tiotropium 0.00125 MG/ACTUAT Inhalation Spray [Spiriva]	1667884	EXACT			
+711250	80980	19112761	tiotropium 0.018 MG Inhalation Powder	485032	BROAD			
+711251	80981	19112761	tiotropium 0.018 MG Inhalation Powder	485032	BROAD			
+725702	69589	35603331	tiotropium 0.00125 MG/ACTUAT Inhalation Spray [Spiriva]	1667884	EXACT			
+725948	69589	35603331	tiotropium 0.00125 MG/ACTUAT Inhalation Spray [Spiriva]	1667884	EXACT			
+726149	84261	1106776	tiotropium	69120	BROAD			
+731040	85978	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			
+731041	85978	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			
