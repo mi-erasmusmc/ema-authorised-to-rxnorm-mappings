@@ -1,5 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/17/1186/001	702009	fluciclovine	2571859	BROAD			2025-12-04
-EU/1/17/1186/002	702009	fluciclovine	2571859	BROAD			2025-12-04
-EU/1/17/1186/003	702009	fluciclovine	2571859	BROAD			2025-12-04
-EU/1/17/1186/004							2025-12-04
+EU/1/17/1186/001	702009	fluciclovine	2571859	EXACT	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-11
+EU/1/17/1186/002	702009	fluciclovine	2571859	EXACT	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-11
+EU/1/17/1186/003	702009	fluciclovine	2571859	EXACT	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-11
+EU/1/17/1186/004	702009	fluciclovine	2571859	EXACT	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-11

@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1804/001	840760	30 ML dopamine 1.5 MG/ML Injectable Solution	OMOP5563555	EXACT			2025-12-04
-EU/1/24/1804/002	35606568	dopamine hydrochloride 40 MG/ML Injection	1743939	EXACT			2025-12-04
+EU/1/24/1804/001	851827	dopamine 1.5 MG/ML Injectable Solution	OMOP5574679	EXACT			2026-03-11
+EU/1/24/1804/002	851824	dopamine 4.5 MG/ML Injectable Solution	OMOP5574676	EXACT			2026-03-11

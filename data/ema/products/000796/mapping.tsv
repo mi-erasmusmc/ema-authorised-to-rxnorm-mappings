@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/08/477/001	41409567	0.5 ML Histamine 1 MG/ML Injectable Solution [Ceplene]	OMOP2607529	EXACT		0.5 ML histamine dihydrochloride 1 MG/ML Injection [Ceplene]	2025-12-04
+EU/1/08/477/001	41409567	0.5 ML Histamine 1 MG/ML Injectable Solution [Ceplene]	OMOP2607529	BROAD		0.5 ML histamine dihydrochloride 1 MG/ML Injection [Ceplene]	2026-03-11

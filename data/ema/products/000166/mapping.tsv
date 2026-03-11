@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/98/065/001	41350358	3 ML Perflutren 0.22 MG/ML Injectable Solution	OMOP2548320	EXACT		3 ML Perflutren 0.19 MG/ML Injection	2025-12-04
-EU/1/98/065/002	41350358	3 ML Perflutren 0.22 MG/ML Injectable Solution	OMOP2548320	EXACT		3 ML Perflutren 0.19 MG/ML Injection	2025-12-04
+EU/1/98/065/001	41350358	3 ML Perflutren 0.22 MG/ML Injectable Solution	OMOP2548320	BROAD		3 ML Perflutren 0.19 MG/ML Injection	2026-03-11
+EU/1/98/065/002	41350358	3 ML Perflutren 0.22 MG/ML Injectable Solution	OMOP2548320	BROAD		3 ML Perflutren 0.19 MG/ML Injection	2026-03-11

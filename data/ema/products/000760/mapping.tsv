@@ -1,10 +1,10 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/07/432/001	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/002	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/003	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/004	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/005	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/006	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
+EU/1/07/432/001	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/002	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/003	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/004	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/005	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/006	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
 EU/1/07/432/007	1510799	1 ML epoetin alfa-epbx 10000 UNT/ML Injection	2047591	EXACT			2025-12-04
 EU/1/07/432/008	1510799	1 ML epoetin alfa-epbx 10000 UNT/ML Injection	2047591	EXACT			2025-12-04
 EU/1/07/432/009	1510799	1 ML epoetin alfa-epbx 10000 UNT/ML Injection	2047591	EXACT			2025-12-04
@@ -21,12 +21,12 @@ EU/1/07/432/019	1510806	1 ML epoetin alfa-epbx 40000 UNT/ML Injection	2047621	EX
 EU/1/07/432/020	1510806	1 ML epoetin alfa-epbx 40000 UNT/ML Injection	2047621	EXACT			2025-12-04
 EU/1/07/432/021	1510806	1 ML epoetin alfa-epbx 40000 UNT/ML Injection	2047621	EXACT			2025-12-04
 EU/1/07/432/022	1510806	1 ML epoetin alfa-epbx 40000 UNT/ML Injection	2047621	EXACT			2025-12-04
-EU/1/07/432/023	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/024	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/025	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/026	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/027	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
-EU/1/07/432/028	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	EXACT		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2025-12-04
+EU/1/07/432/023	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/024	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/025	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/026	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/027	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
+EU/1/07/432/028	1510803	1 ML epoetin alfa-epbx 3000 UNT/ML Injection	2047606	BROAD		1 ML epoetin alfa-epbx 3330 UNT/ML Injection [Silapo]	2026-03-11
 EU/1/07/432/029	1510799	1 ML epoetin alfa-epbx 10000 UNT/ML Injection	2047591	EXACT			2025-12-04
 EU/1/07/432/030	1510799	1 ML epoetin alfa-epbx 10000 UNT/ML Injection	2047591	EXACT			2025-12-04
 EU/1/07/432/031	1510799	1 ML epoetin alfa-epbx 10000 UNT/ML Injection	2047591	EXACT			2025-12-04
