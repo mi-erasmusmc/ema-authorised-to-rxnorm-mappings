@@ -2,6 +2,6 @@ ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	l
 EU/1/11/703/001	40230586	1.7 ML denosumab 70 MG/ML Injection [Xgeva]	1046402	EXACT			2025-12-04
 EU/1/11/703/002	40230586	1.7 ML denosumab 70 MG/ML Injection [Xgeva]	1046402	EXACT			2025-12-04
 EU/1/11/703/003	40230586	1.7 ML denosumab 70 MG/ML Injection [Xgeva]	1046402	EXACT			2025-12-04
-EU/1/11/703/004	40230586	1.7 ML denosumab 70 MG/ML Injection [Xgeva]	1046402	NARROW		1 ML denosumab 120 MG/ML Prefilled Syringe [Xgeva]	2025-12-04
-EU/1/11/703/005	40230586	1.7 ML denosumab 70 MG/ML Injection [Xgeva]	1046402	NARROW		1 ML denosumab 120 MG/ML Prefilled Syringe [Xgeva]	2025-12-04
-EU/1/11/703/006	40230586	1.7 ML denosumab 70 MG/ML Injection [Xgeva]	1046402	NARROW		1 ML denosumab 120 MG/ML Prefilled Syringe [Xgeva]	2025-12-04
+EU/1/11/703/004	46275576	denosumab Injection [Xgeva]	1655917	BROAD		1 ML denosumab 120 MG/ML Prefilled Syringe [Xgeva]	2026-03-11
+EU/1/11/703/005	46275576	denosumab Injection [Xgeva]	1655917	BROAD		1 ML denosumab 120 MG/ML Prefilled Syringe [Xgeva]	2026-03-11
+EU/1/11/703/006	46275576	denosumab Injection [Xgeva]	1655917	BROAD		1 ML denosumab 120 MG/ML Prefilled Syringe [Xgeva]	2026-03-11

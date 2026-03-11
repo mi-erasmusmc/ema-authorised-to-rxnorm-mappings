@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/02/226/001	21134454	Dibotermin alfa 12 MG Drug Implant Box of 1	OMOP262200	BROAD			2025-12-04
-EU/1/02/226/002	41023603	Dibotermin alfa 1.5 MG/ML Drug Implant Box of 1	OMOP2221565	BROAD			2025-12-04
+EU/1/02/226/001	21114936	Dibotermin alfa 12 MG Drug Implant	OMOP262199	EXACT			2026-03-11
+EU/1/02/226/002	36057995	Dibotermin alfa 4 MG Drug Implant	OMOP4983571	EXACT			2026-03-11
