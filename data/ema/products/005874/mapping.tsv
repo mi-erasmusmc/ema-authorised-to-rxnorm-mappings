@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/22/1688/001	1525736	7.5 ML spesolimab-sbzo 60 MG/ML Injection [Spevigo]	2610428	EXACT			2025-12-04
-EU/1/22/1688/002	42609548	spesolimab-sbzo 150 MG/ML Prefilled Syringe [Spevigo]	2678985				2025-12-04
-EU/1/22/1688/003	42609548	spesolimab-sbzo 150 MG/ML Prefilled Syringe [Spevigo]	2678985	BROAD			2025-12-04
+EU/1/22/1688/002	42609776	1 ML spesolimab-sbzo 150 MG/ML Prefilled Syringe [Spevigo]	2678984	EXACT			2025-12-04
+EU/1/22/1688/003	37355065	2 ML spesolimab-sbzo 150 MG/ML Prefilled Syringe [Spevigo]	2716697	EXACT			2025-12-04

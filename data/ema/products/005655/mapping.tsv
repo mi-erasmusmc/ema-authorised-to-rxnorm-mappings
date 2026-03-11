@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/22/1664/001	37002358	coagulation factor VIIa (recombinant)-jncw 1 MG	2386871				2025-12-04
-EU/1/22/1664/002	1735578	coagulation factor VIIa (recombinant)-jncw 2 MG Injection	2696277				2025-12-04
-EU/1/22/1664/003	37002352	coagulation factor VIIa (recombinant)-jncw 5 MG Injection	2386865				2025-12-04
+EU/1/22/1664/001	37002360	coagulation factor VIIa (recombinant)-jncw 1 MG Injection	2386872	EXACT			2025-12-04
+EU/1/22/1664/002	1735578	coagulation factor VIIa (recombinant)-jncw 2 MG Injection	2696277	EXACT			2025-12-04
+EU/1/22/1664/003	37002352	coagulation factor VIIa (recombinant)-jncw 5 MG Injection	2386865	EXACT			2025-12-04
