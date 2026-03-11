@@ -6,7 +6,7 @@ Active substance: betaine
 Therapeutic area (MeSH): Homocystinuria
 ATC code (human): A16AA06
 Pharmacotherapeutic group (human): Other alimentary tract and metabolism products
-Therapeutic indication: Amversio is indicated as adjunctive treatment of homocystinuria, involving deficiencies or defects in:•         cystathionine beta-synthase (CBS),•         5,10 methylene tetrahydrofolate reductase (MTHFR),•         cobalamin cofactor metabolism (cbl).
+Therapeutic indication: Amversio is indicated as adjunctive treatment of homocystinuria, involving deficiencies or defects in:  cystathionine beta-synthase (CBS), 5,10 methylene tetrahydrofolate reductase (MTHFR), cobalamin cofactor metabolism (cbl).
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/amversio

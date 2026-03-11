@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/006428
 Name of medicine: mNexspike
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: COVID-19 mRNA vaccine
-Active substance: mRNA encoding for the linked NTD and RBD domains of the spike glycoprotein of SARS-CoV-2 (mRNA-1283)
+Active substance: single-stranded, 5’-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA template, encoding the N-terminal domain and receptor-binding domain of the viral spike (S) protein of SARS-CoV-2
 Therapeutic area (MeSH): COVID-19 virus infection
 ATC code (human): J07BN01
 Pharmacotherapeutic group (human): Vaccines

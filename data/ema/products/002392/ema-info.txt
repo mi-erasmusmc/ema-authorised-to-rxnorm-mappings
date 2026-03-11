@@ -6,7 +6,7 @@ Active substance: aflibercept
 Therapeutic area (MeSH): Wet Macular Degeneration;Macular Edema;Diabetes Complications;Retinal Vein Occlusion;Choroidal Neovascularization
 ATC code (human): S01LA05
 Pharmacotherapeutic group (human): Ophthalmologicals
-Therapeutic indication: Eylea is indicated in adults for the treatment of  neovascular (wet) age related macular degeneration (nAMD) visual impairment due to diabetic macular oedema (DME) visual impairment due to macular oedema secondary to retinal vein occlusion (branch, central and hemiretinal RVO)
+Therapeutic indication: 
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/eylea

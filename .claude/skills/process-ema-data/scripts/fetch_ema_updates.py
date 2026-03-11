@@ -14,7 +14,7 @@ import os
 
 # Add scripts directory to path so we can import sibling modules
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-GIT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(SCRIPT_DIR)))
+GIT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(SCRIPT_DIR))))
 sys.path.insert(0, SCRIPT_DIR)
 sys.path.insert(0, os.path.join(GIT_ROOT, "scripts"))
 

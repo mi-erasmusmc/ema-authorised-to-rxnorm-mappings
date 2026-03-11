@@ -36,15 +36,8 @@ DATA_COLUMNS = [
     "principios_activos",   # pipe-separated "NAME DOSE UNIT" per ingredient
     "vias_administracion",  # pipe-separated route names
     "forma_farmaceutica",   # pharmaceutical form
-    "nro_pactiv",           # number of active ingredients
     "atc",                  # ATC code + description, e.g. "J01CR02 - Amoxicilina..."
     "laboratorio_titular",  # MAH
-    "fecha_autorizacion",   # authorisation date
-    "sw_comercializado",    # currently marketed (0/1)
-    "fec_comer",            # date first marketed
-    "situacion_registro",   # Autorizado / Anulado / Suspenso
-    "fecha_situacion_registro",
-    "sw_receta",            # prescription required
     "sw_base_a_plantas",    # herbal (may lack RxNorm concept)
     "biosimilar",           # biosimilar (maps differently to originator)
     "radiofarmaco",         # radiopharmaceutical (specialist RxNorm handling)

@@ -96,6 +96,10 @@ def convert_excel_to_tsv(excel_path, output_dir="."):
 
         print(f"Columns found: {list(df.columns)}")
 
+        # Sort by EMA product number for stable diffs
+        if 'EMA product number' in df.columns:
+            df = df.sort_values('EMA product number', ignore_index=True)
+
         # Write to TSV
         df.to_csv(tsv_path, sep='\t', index=False, encoding='utf-8')
 

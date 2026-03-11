@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/20/1497/001	1146804	15 ML hyaluronidase-zzxf 2000 UNT/ML / pertuzumab-zzxf 80 MG/ML / trastuzumab-zzxf 40 MG/ML Injection [Phesgo]	2382609	NARROW			2025-12-04
-EU/1/20/1497/002	1146806	10 ML hyaluronidase-zzxf 2000 UNT/ML / pertuzumab-zzxf 60 MG/ML / trastuzumab-zzxf 60 MG/ML Injection [Phesgo]	2383307	NARROW			2025-12-04
+EU/1/20/1497/001	1146804	15 ML hyaluronidase-zzxf 2000 UNT/ML / pertuzumab-zzxf 80 MG/ML / trastuzumab-zzxf 40 MG/ML Injection [Phesgo]	2382609	EXACT			2026-03-11
+EU/1/20/1497/002	1146806	10 ML hyaluronidase-zzxf 2000 UNT/ML / pertuzumab-zzxf 60 MG/ML / trastuzumab-zzxf 60 MG/ML Injection [Phesgo]	2383307	EXACT			2026-03-11

@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/005122
 Name of medicine: Omvoh
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: mirikizumab
-Active substance: Mirikizumab
+Active substance: mirikizumab
 Therapeutic area (MeSH): Colitis, Ulcerative
 ATC code (human): L04AC
 Pharmacotherapeutic group (human): Immunosuppressants
