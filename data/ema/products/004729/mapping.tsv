@@ -1,5 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/17/1184/001	46275077	10 ML rituximab 10 MG/ML Injection	1657862	BROAD		10 ML rituximab 10 MG/ML Injection [Riximyo]	2025-12-04
-EU/1/17/1184/002	46275077	10 ML rituximab 10 MG/ML Injection	1657862	BROAD		10 ML rituximab 10 MG/ML Injection [Riximyo]	2025-12-04
-EU/1/17/1184/003	46275082	50 ML rituximab 10 MG/ML Injection	1657867	BROAD		50 ML rituximab 10 MG/ML Injection [Riximyo]	2025-12-04
-EU/1/17/1184/004	46275082	50 ML rituximab 10 MG/ML Injection	1657867	BROAD		50 ML rituximab 10 MG/ML Injection [Riximyo]	2025-12-04
+EU/1/17/1184/001	2903365	10 ML rituximab 10 MG/ML Injection [Riximyo]	OMOP5120208	EXACT			2026-03-11
+EU/1/17/1184/002	2903365	10 ML rituximab 10 MG/ML Injection [Riximyo]	OMOP5120208	EXACT			2026-03-11
+EU/1/17/1184/003	2907544	50 ML rituximab 10 MG/ML Injection [Riximyo]	OMOP5124296	EXACT			2026-03-11
+EU/1/17/1184/004	2907544	50 ML rituximab 10 MG/ML Injection [Riximyo]	OMOP5124296	EXACT			2026-03-11

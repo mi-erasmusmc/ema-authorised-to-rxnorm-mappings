@@ -1,8 +1,8 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1000/001	19036799	tolvaptan 15 MG Oral Tablet	849827	EXACT			2025-12-04
-EU/1/15/1000/002	19036799	tolvaptan 15 MG Oral Tablet	849827	EXACT			2025-12-04
-EU/1/15/1000/003	19036832	tolvaptan 30 MG Oral Tablet	849833	EXACT			2025-12-04
-EU/1/15/1000/004	19036832	tolvaptan 30 MG Oral Tablet	849833	EXACT			2025-12-04
+EU/1/15/1000/001	37353700	tolvaptan 15 MG Oral Tablet	2719335	EXACT			2026-03-11
+EU/1/15/1000/002	37353700	tolvaptan 15 MG Oral Tablet	2719335	EXACT			2026-03-11
+EU/1/15/1000/003	37353701	tolvaptan 30 MG Oral Tablet	2719337	EXACT			2026-03-11
+EU/1/15/1000/004	37353701	tolvaptan 30 MG Oral Tablet	2719337	EXACT			2026-03-11
 EU/1/15/1000/005	21177837	{7 (tolvaptan 15 MG Oral Tablet) / 7 (tolvaptan 45 MG Oral Tablet) } Pack	OMOP340010	EXACT			2025-12-04
 EU/1/15/1000/006	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	BROAD		{14 (tolvaptan 15 MG Oral Tablet) / 14 (tolvaptan 45 MG Oral Tablet) } Pack	2026-03-11
 EU/1/15/1000/007	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	EXACT			2025-12-04

@@ -1,8 +1,8 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/20/1506/001	19078558	insulin aspart, human 100 UNT/ML Injectable Solution	311040	BROAD	Biosimilar; mapped to plain INN unbranded concept	insulin aspart-xjhz 100 UNT/ML Injectable Solution [Kirsty]	2026-02-11
-EU/1/20/1506/002	19078558	insulin aspart, human 100 UNT/ML Injectable Solution	311040	BROAD	Biosimilar; mapped to plain INN unbranded concept	insulin aspart-xjhz 100 UNT/ML Injectable Solution [Kirsty]	2026-02-11
-EU/1/20/1506/003	19078558	insulin aspart, human 100 UNT/ML Injectable Solution	311040	BROAD	Biosimilar; mapped to plain INN unbranded concept	insulin aspart-xjhz 100 UNT/ML Injectable Solution [Kirsty]	2026-02-11
-EU/1/20/1506/004	46234047	3 ML insulin aspart, human 100 UNT/ML Pen Injector	1653202	BROAD	Biosimilar; mapped to plain INN unbranded concept	3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty]	2026-02-11
-EU/1/20/1506/005	46234047	3 ML insulin aspart, human 100 UNT/ML Pen Injector	1653202	BROAD	Biosimilar; mapped to plain INN unbranded concept	3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty]	2026-02-11
-EU/1/20/1506/006	46234047	3 ML insulin aspart, human 100 UNT/ML Pen Injector	1653202	BROAD	Biosimilar; mapped to plain INN unbranded concept	3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty]	2026-02-11
-EU/1/20/1506/007	46234047	3 ML insulin aspart, human 100 UNT/ML Pen Injector	1653202	BROAD	Biosimilar; mapped to plain INN unbranded concept	3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty]	2026-02-11
+EU/1/20/1506/001	37353869	insulin aspart-xjhz 100 UNT/ML Injectable Solution [Kirsty]	2720529	EXACT			2026-03-11
+EU/1/20/1506/002	37353869	insulin aspart-xjhz 100 UNT/ML Injectable Solution [Kirsty]	2720529	EXACT			2026-03-11
+EU/1/20/1506/003	37353869	insulin aspart-xjhz 100 UNT/ML Injectable Solution [Kirsty]	2720529	EXACT			2026-03-11
+EU/1/20/1506/004	37355123	3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty]	2720541	EXACT			2026-03-11
+EU/1/20/1506/005	37355123	3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty]	2720541	EXACT			2026-03-11
+EU/1/20/1506/006	37355123	3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty]	2720541	EXACT			2026-03-11
+EU/1/20/1506/007	37355123	3 ML insulin aspart-xjhz 100 UNT/ML Pen Injector [Kirsty]	2720541	EXACT			2026-03-11

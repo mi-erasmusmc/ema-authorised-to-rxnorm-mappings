@@ -1,5 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/1957/001	46234168	0.5 ML ustekinumab 90 MG/ML Injection	1654077	BROAD		0.5 ML ustekinumab-hmny 90 MG/ML Injection	2025-12-04
-EU/1/25/1957/002	40160987	0.5 ML ustekinumab 90 MG/ML Prefilled Syringe	853350	BROAD		0.5 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2025-12-04
-EU/1/25/1957/003	40160959	1 ML ustekinumab 90 MG/ML Prefilled Syringe	853355	BROAD		1 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2025-12-04
-EU/1/25/1957/004	1718931	26 ML ustekinumab 5 MG/ML Injection	1811255	BROAD		26 ML ustekinumab-hmny 5 MG/ML Injection	2025-12-04
+EU/1/25/1957/001	37355168	0.5 ML ustekinumab-hmny 90 MG/ML Injection	2725102	EXACT			2026-03-11
+EU/1/25/1957/002	37355164	0.5 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2725087	EXACT			2026-03-11
+EU/1/25/1957/003	37355166	1 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2725099	EXACT			2026-03-11
+EU/1/25/1957/004	37355170	26 ML ustekinumab-hmny 5 MG/ML Injection	2725111	EXACT			2026-03-11

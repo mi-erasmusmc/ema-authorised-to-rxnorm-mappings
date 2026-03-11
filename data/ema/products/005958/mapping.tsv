@@ -1,14 +1,14 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1817/001	35202005	0.5 ML omalizumab 150 MG/ML Prefilled Syringe	2058949	BROAD		0.5 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2026-02-12
-EU/1/24/1817/002	35202003	1 ML omalizumab 150 MG/ML Prefilled Syringe	2058943	BROAD		1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2026-02-12
-EU/1/24/1817/003	35202003	1 ML omalizumab 150 MG/ML Prefilled Syringe	2058943	BROAD		1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2026-02-12
-EU/1/24/1817/004	35202003	1 ML omalizumab 150 MG/ML Prefilled Syringe	2058943	BROAD		1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2026-02-12
+EU/1/24/1817/001	37355199	0.5 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2726011	EXACT			2026-03-11
+EU/1/24/1817/002	37355197	1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2726008	EXACT			2026-03-11
+EU/1/24/1817/003	37355197	1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2726008	EXACT			2026-03-11
+EU/1/24/1817/004	37355197	1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2726008	EXACT			2026-03-11
 EU/1/24/1817/005	42609728	0.5 ML omalizumab 150 MG/ML Auto-Injector	2673762	BROAD		0.5 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-02-12
 EU/1/24/1817/006	42609726	1 ML omalizumab 150 MG/ML Auto-Injector	2673760	BROAD		1 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-02-12
 EU/1/24/1817/007	42609726	1 ML omalizumab 150 MG/ML Auto-Injector	2673760	BROAD		1 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-02-12
 EU/1/24/1817/008	42609726	1 ML omalizumab 150 MG/ML Auto-Injector	2673760	BROAD		1 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-02-12
-EU/1/24/1817/009	35202005	0.5 ML omalizumab 150 MG/ML Prefilled Syringe	2058949	BROAD		0.5 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2026-02-12
+EU/1/24/1817/009	37355199	0.5 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2726011	EXACT			2026-03-11
 EU/1/24/1817/010	42609728	0.5 ML omalizumab 150 MG/ML Auto-Injector	2673762	BROAD		0.5 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-02-12
-EU/1/24/1817/011	35202003	1 ML omalizumab 150 MG/ML Prefilled Syringe	2058943	BROAD		1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2026-02-12
+EU/1/24/1817/011	37355197	1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2726008	EXACT			2026-03-11
 EU/1/24/1817/012	42609726	1 ML omalizumab 150 MG/ML Auto-Injector	2673760	BROAD		1 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-02-12
 EU/1/24/1817/013	42609726	1 ML omalizumab 150 MG/ML Auto-Injector	2673760	BROAD		1 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-02-12
