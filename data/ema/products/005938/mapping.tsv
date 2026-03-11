@@ -1,8 +1,8 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1881/001	1465742	concizumab Pen Injector [Alhemo]	2708351	BROAD			2025-12-04
-EU/1/24/1881/002	1465742	concizumab Pen Injector [Alhemo]	2708351	BROAD			2025-12-04
-EU/1/24/1881/003	1466474	1.5 ML concizumab-mtci 40 MG/ML Pen Injector [Alhemo]	2708353				2025-12-04
-EU/1/24/1881/004	1466474	1.5 ML concizumab-mtci 40 MG/ML Pen Injector [Alhemo]	2708353				2025-12-04
-EU/1/24/1881/005	1466476	1.5 ML concizumab-mtci 100 MG/ML Pen Injector [Alhemo]	2708359				2025-12-04
-EU/1/24/1881/006	1466476	1.5 ML concizumab-mtci 100 MG/ML Pen Injector [Alhemo]	2708359				2025-12-04
-EU/1/24/1881/007	1466478	3 ML concizumab-mtci 100 MG/ML Pen Injector [Alhemo]	2708362				2025-12-04
+EU/1/24/1881/001	1465742	concizumab Pen Injector [Alhemo]	2708351	BROAD		1.5 ML concizumab-mtci 10 MG/ML Pen Injector [Alhemo]	2025-12-04
+EU/1/24/1881/002	1465742	concizumab Pen Injector [Alhemo]	2708351	BROAD		1.5 ML concizumab-mtci 10 MG/ML Pen Injector [Alhemo]	2025-12-04
+EU/1/24/1881/003	1466474	1.5 ML concizumab-mtci 40 MG/ML Pen Injector [Alhemo]	2708353	EXACT			2025-12-04
+EU/1/24/1881/004	1466474	1.5 ML concizumab-mtci 40 MG/ML Pen Injector [Alhemo]	2708353	EXACT			2025-12-04
+EU/1/24/1881/005	1466476	1.5 ML concizumab-mtci 100 MG/ML Pen Injector [Alhemo]	2708359	EXACT			2025-12-04
+EU/1/24/1881/006	1466476	1.5 ML concizumab-mtci 100 MG/ML Pen Injector [Alhemo]	2708359	EXACT			2025-12-04
+EU/1/24/1881/007	1466478	3 ML concizumab-mtci 100 MG/ML Pen Injector [Alhemo]	2708362	EXACT			2025-12-04

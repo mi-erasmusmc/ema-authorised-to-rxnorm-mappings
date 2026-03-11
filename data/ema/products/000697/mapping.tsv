@@ -1,19 +1,19 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/06/359/001	40225991	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet [Suboxone]	1010608				2025-12-04
-EU/1/06/359/002	40225991	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet [Suboxone]	1010608				2025-12-04
-EU/1/06/359/003	40225995	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet [Suboxone]	1010609				2025-12-04
-EU/1/06/359/004	40225995	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet [Suboxone]	1010609				2025-12-04
-EU/1/06/359/005	40993576	Buprenorphine 16 MG / Naloxone 4 MG Sublingual Tablet	OMOP2191538				2025-12-04
-EU/1/06/359/006	40993576	Buprenorphine 16 MG / Naloxone 4 MG Sublingual Tablet	OMOP2191538				2025-12-04
-EU/1/06/359/007	40225990	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film [Suboxone]	1010603				2025-12-04
-EU/1/06/359/008	40225990	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film [Suboxone]	1010603				2025-12-04
-EU/1/06/359/009	40225990	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film [Suboxone]	1010603				2025-12-04
-EU/1/06/359/010	42898504	buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]	1307058				2025-12-04
-EU/1/06/359/011	42898504	buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]	1307058				2025-12-04
-EU/1/06/359/012	42898504	buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]	1307058				2025-12-04
-EU/1/06/359/013	40225994	buprenorphine 8 MG / naloxone 2 MG Sublingual Film [Suboxone]	1010606				2025-12-04
-EU/1/06/359/014	40225994	buprenorphine 8 MG / naloxone 2 MG Sublingual Film [Suboxone]	1010606				2025-12-04
-EU/1/06/359/015	40225994	buprenorphine 8 MG / naloxone 2 MG Sublingual Film [Suboxone]	1010606				2025-12-04
-EU/1/06/359/016	42898500	buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]	1307063				2025-12-04
-EU/1/06/359/017	42898500	buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]	1307063				2025-12-04
-EU/1/06/359/018	42898500	buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]	1307063				2025-12-04
+EU/1/06/359/001	40225991	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet [Suboxone]	1010608	EXACT			2025-12-04
+EU/1/06/359/002	40225991	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet [Suboxone]	1010608	EXACT			2025-12-04
+EU/1/06/359/003	40225995	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet [Suboxone]	1010609	EXACT			2025-12-04
+EU/1/06/359/004	40225995	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet [Suboxone]	1010609	EXACT			2025-12-04
+EU/1/06/359/005	41285792	Buprenorphine 16 MG / Naloxone 4 MG Sublingual Tablet [Suboxone]	OMOP2483754	EXACT			2025-12-04
+EU/1/06/359/006	41285792	Buprenorphine 16 MG / Naloxone 4 MG Sublingual Tablet [Suboxone]	OMOP2483754	EXACT			2025-12-04
+EU/1/06/359/007	40225990	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film [Suboxone]	1010603	EXACT			2025-12-04
+EU/1/06/359/008	40225990	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film [Suboxone]	1010603	EXACT			2025-12-04
+EU/1/06/359/009	40225990	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Film [Suboxone]	1010603	EXACT			2025-12-04
+EU/1/06/359/010	42898504	buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]	1307058	EXACT			2025-12-04
+EU/1/06/359/011	42898504	buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]	1307058	EXACT			2025-12-04
+EU/1/06/359/012	42898504	buprenorphine 4 MG / naloxone 1 MG Sublingual Film [Suboxone]	1307058	EXACT			2025-12-04
+EU/1/06/359/013	40225994	buprenorphine 8 MG / naloxone 2 MG Sublingual Film [Suboxone]	1010606	EXACT			2025-12-04
+EU/1/06/359/014	40225994	buprenorphine 8 MG / naloxone 2 MG Sublingual Film [Suboxone]	1010606	EXACT			2025-12-04
+EU/1/06/359/015	40225994	buprenorphine 8 MG / naloxone 2 MG Sublingual Film [Suboxone]	1010606	EXACT			2025-12-04
+EU/1/06/359/016	42898500	buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]	1307063	EXACT			2025-12-04
+EU/1/06/359/017	42898500	buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]	1307063	EXACT			2025-12-04
+EU/1/06/359/018	42898500	buprenorphine 12 MG / naloxone 3 MG Sublingual Film [Suboxone]	1307063	EXACT			2025-12-04
