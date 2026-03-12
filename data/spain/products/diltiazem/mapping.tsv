@@ -1,31 +1,62 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-608000	55285	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-639195	58483	1328555	diltiazem hydrochloride 120 MG Extended Release Oral Tablet	831117	EXACT			
-645556	60231	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-647057	60820	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			
-656623	60005	19133613	diltiazem hydrochloride 90 MG Extended Release Oral Capsule	831022	EXACT			
-656624	60006	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			
-656625	60007	1328585	diltiazem hydrochloride 180 MG Extended Release Oral Capsule	831233	EXACT			
-683847	60820	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			
-694158	60231	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-694166	60231	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-694653	60200	1328613	diltiazem hydrochloride 240 MG Extended Release Oral Capsule	831274	EXACT			
-696450	60091	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			
-703111	78934	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			
-703226	78965	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			
-703227	78966	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			
-703228	78967	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			
-741025	62417	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-741033	62417	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-787325	62328	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-794693	62619	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-794826	62619	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-795138	60214	19134551	diltiazem 300 MG Extended Release Oral Capsule	844734	EXACT			
-796516	59911	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			
-800102	62647	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-864975	58483	1328555	diltiazem hydrochloride 120 MG Extended Release Oral Tablet	831117	EXACT			
-932038	63866	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-932046	63866	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-944538	55285	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
-944793	60200	1328613	diltiazem hydrochloride 240 MG Extended Release Oral Capsule	831274	EXACT			
-974345	55285	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			
+608000	55285	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+639195	58483	1328555	diltiazem hydrochloride 120 MG Extended Release Oral Tablet	831117	EXACT			2026-03-12
+639740	58590	1328555	diltiazem hydrochloride 120 MG Extended Release Oral Tablet	831117	EXACT			2026-03-12
+642785	59190	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+645556	60231	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+647057	60820	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			2026-03-12
+651408	11456610496	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+653725	60101	1328555	diltiazem hydrochloride 120 MG Extended Release Oral Tablet	831117	EXACT			2026-03-12
+656272	62272	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+656623	60005	19133613	diltiazem hydrochloride 90 MG Extended Release Oral Capsule	831022	EXACT			2026-03-12
+656624	60006	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+656625	60007	1328585	diltiazem hydrochloride 180 MG Extended Release Oral Capsule	831233	EXACT			2026-03-12
+656626	60008	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+659290	60740	1328612	diltiazem hydrochloride 240 MG Extended Release Oral Tablet	831271	EXACT			2026-03-12
+669093	61652	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+673144	61132	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+677346	27502	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+678888	61134	1328613	diltiazem hydrochloride 240 MG Extended Release Oral Capsule	831274	EXACT			2026-03-12
+678896	61133	1328585	diltiazem hydrochloride 180 MG Extended Release Oral Capsule	831233	EXACT			2026-03-12
+678904	61132	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+683847	60820	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			2026-03-12
+683854	60819	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			2026-03-12
+685248	60742	1328612	diltiazem hydrochloride 240 MG Extended Release Oral Tablet	831271	EXACT			2026-03-12
+694158	60231	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+694166	60231	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+694364	60216	1328585	diltiazem hydrochloride 180 MG Extended Release Oral Capsule	831233	EXACT			2026-03-12
+694372	60215	19133613	diltiazem hydrochloride 90 MG Extended Release Oral Capsule	831022	EXACT			2026-03-12
+694380	60215	19133613	diltiazem hydrochloride 90 MG Extended Release Oral Capsule	831022	EXACT			2026-03-12
+694653	60200	1328613	diltiazem hydrochloride 240 MG Extended Release Oral Capsule	831274	EXACT			2026-03-12
+696450	60091	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+698208	77586	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+698209	77587	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			2026-03-12
+703111	78934	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			2026-03-12
+703226	78965	19135017	diltiazem hydrochloride 200 MG Extended Release Oral Capsule	845214	EXACT			2026-03-12
+703227	78966	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+703228	78967	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+741025	62417	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+741033	62417	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+762344	60217	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+762419	60217	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+771055	60742	1328612	diltiazem hydrochloride 240 MG Extended Release Oral Tablet	831271	EXACT			2026-03-12
+777722	60090	1328613	diltiazem hydrochloride 240 MG Extended Release Oral Capsule	831274	EXACT			2026-03-12
+777854	60089	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+787325	62328	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+794693	62619	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+794826	62619	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+795104	60216	1328585	diltiazem hydrochloride 180 MG Extended Release Oral Capsule	831233	EXACT			2026-03-12
+795138	60214	19134551	diltiazem 300 MG Extended Release Oral Capsule	844734	EXACT			2026-03-12
+796516	59911	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+796524	59950	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+800102	62647	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+806554	59776	19133634	diltiazem hydrochloride 180 MG Extended Release Oral Tablet	831230	EXACT			2026-03-12
+863191	59190	19133629	diltiazem hydrochloride 120 MG Extended Release Oral Capsule	831150	EXACT			2026-03-12
+864975	58483	1328555	diltiazem hydrochloride 120 MG Extended Release Oral Tablet	831117	EXACT			2026-03-12
+932038	63866	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+932046	63866	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+942318	61652	1328620	diltiazem hydrochloride 300 MG Extended Release Oral Capsule	831313	EXACT			2026-03-12
+944538	55285	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+944793	60200	1328613	diltiazem hydrochloride 240 MG Extended Release Oral Capsule	831274	EXACT			2026-03-12
+974345	55285	19133622	diltiazem hydrochloride 60 MG Oral Tablet	831103	EXACT			2026-03-12
+993204	58590	1328555	diltiazem hydrochloride 120 MG Extended Release Oral Tablet	831117	EXACT			2026-03-12

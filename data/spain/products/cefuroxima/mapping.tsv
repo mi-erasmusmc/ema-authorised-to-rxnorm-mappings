@@ -87,3 +87,30 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728788	62806	1778162	cefuroxime	2194	BROAD		No dose-specific oral granule/suspension RxNorm concept for 250 mg/5 ml; mapped to cefuroxime ingredient	2026-03-12
 851360	62908	36778195	Cefuroxime Intravenous Solution	OMOP4773016	BROAD		No dose-specific RxNorm concept for cefuroxime 750 MG injection; mapped to Cefuroxime Intravenous Solution	2026-03-12
 851378	62909	36778195	Cefuroxime Intravenous Solution	OMOP4773016	BROAD		No dose-specific RxNorm concept for cefuroxime 250 MG injection; mapped to Cefuroxime Intravenous Solution	2026-03-12
+605984	76098	46287413	cefuroxime Injection	1665443	BROAD		cefuroxime 50 MG intracameral injection (PROKAM); no exact RxNorm match for ophthalmic/intracameral 50 MG; closest is cefuroxime Injection	2026-03-12
+656195	68098	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+656222	68097	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+669956	72248	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+669961	72248	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+669965	72249	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+669969	72249	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+694355	71017	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+694674	69707	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+694675	69707	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+694751	69815	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+694752	69815	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+694753	69815	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+695576	68097	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+695578	68097	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+695579	68098	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+695580	68098	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+696113	75055	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+696114	75055	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+696115	75051	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+696116	75051	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+697838	71017	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+707226	75051	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
+707227	75055	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
+713478	81381	46287413	cefuroxime Injection	1665443	BROAD		cefuroxime 50 MG intracameral injection (XIMARACT); no exact RxNorm match for ophthalmic/intracameral 50 MG; closest is cefuroxime Injection	2026-03-12
+725928	15-061-88-C-C	19075002	cefuroxime 500 MG Oral Tablet	309098				2026-03-12
+725930	15-061-88-C-C	19075002	cefuroxime 500 MG Oral Tablet	309098				2026-03-12

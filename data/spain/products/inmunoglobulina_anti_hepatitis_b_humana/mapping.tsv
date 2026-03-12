@@ -1,9 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652777	59352	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			
-652778	59352	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			
-652785	59352	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			
-664610	70955	501347	hepatitis B immune globulin 50 UNT/ML Injectable Solution	412675	EXACT			
-682628	70955	501347	hepatitis B immune globulin 50 UNT/ML Injectable Solution	412675	EXACT			
-764507	89428	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			
-764508	89428	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			
-764509	89428	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			
+652777	59352	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			2026-03-12
+652778	59352	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			2026-03-12
+652785	59352	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			2026-03-12
+664610	70955	501347	hepatitis B immune globulin 50 UNT/ML Injectable Solution	412675	EXACT			2026-03-12
+682628	70955	501347	hepatitis B immune globulin 50 UNT/ML Injectable Solution	412675	EXACT			2026-03-12
+764507	89428	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			2026-03-12
+764508	89428	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			2026-03-12
+764509	89428	44042873	hepatitis B immune globulin Intramuscular Solution	OMOP1037504	EXACT			2026-03-12
+660899	69770	46275251	hepatitis B immune globulin 220 UNT/ML Injection	1658166	BROAD	RxNorm does not expose a 250 UNT/mL 4 mL prefusion presentation	4 ML hepatitis B immune globulin 250 UNT/ML Injection	2026-03-12
+660900	69770	46275251	hepatitis B immune globulin 220 UNT/ML Injection	1658166	BROAD	RxNorm does not expose a 250 UNT/mL 20 mL perfusion presentation	20 ML hepatitis B immune globulin 250 UNT/ML Injection	2026-03-12
+660901	69770	46275251	hepatitis B immune globulin 220 UNT/ML Injection	1658166	BROAD	RxNorm does not expose a 250 UNT/mL 40 mL perfusion presentation	40 ML hepatitis B immune globulin 250 UNT/ML Injection	2026-03-12
+665954	09600001	42903029	hepatitis B immune globulin 217 UNT/ML Prefilled Syringe	1360142	BROAD	RxNorm does not expose a 500 UNT/1 mL prefilled syringe presentation	1 ML hepatitis B immune globulin 500 UNT Prefilled Syringe	2026-03-12

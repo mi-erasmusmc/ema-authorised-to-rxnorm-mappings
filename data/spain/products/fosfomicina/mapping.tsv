@@ -24,3 +24,32 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 727294	84618	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 727295	84618	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 607542	88264	40039204	fosfomycin Injectable Solution	372272	BROAD		fosfomycin 8 g IV injection - no 8g-specific injection concept in RxNorm	2026-03-12
+603852	54164	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1 g IM injection - no dose-specific 1g injection concept in RxNorm	2026-03-12
+603860	54163	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1 g IV injection - no dose-specific 1g injection concept in RxNorm	2026-03-12
+604736	50879	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1 g IM injection - no dose-specific 1g injection concept in RxNorm	2026-03-12
+606488	50878	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 4 g IV injection - no dose-specific 4g injection concept in RxNorm	2026-03-12
+606489	50882	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1 g IV injection - no dose-specific 1g injection concept in RxNorm	2026-03-12
+656735	50880	19060194	fosfomycin 50 MG/ML Oral Suspension	246097	EXACT		fosfomycin 250mg/5ml = 50mg/mL oral suspension	2026-03-12
+656738	50880	19060194	fosfomycin 50 MG/ML Oral Suspension	246097	EXACT		fosfomycin 250mg/5ml = 50mg/mL oral suspension	2026-03-12
+656963	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
+672735	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
+693278	76513	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+693279	76513	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+696424	77049	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+696425	77049	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+700561	54163	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1 g IV injection - no dose-specific 1g injection concept in RxNorm	2026-03-12
+700562	50882	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1 g IV injection - no dose-specific 1g injection concept in RxNorm	2026-03-12
+700563	50879	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1 g IM injection - no dose-specific 1g injection concept in RxNorm	2026-03-12
+709999	80660	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+710978	80902	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+710979	80902	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+711615	81061	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+711616	81061	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+718740	82352	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution - no 2g-specific granule concept in RxNorm	2026-03-12
+718742	82353	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
+718743	82353	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
+727663	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
+727664	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
+850966	58807	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution (non-generic brand BALPIREN) - no 2g-specific granule concept in RxNorm	2026-03-12
+851782	58807	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2 g granules for oral solution (non-generic brand BALPIREN) - no 2g-specific granule concept in RxNorm	2026-03-12
+939751	54165	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 4 g IV injection - no dose-specific 4g injection concept in RxNorm	2026-03-12

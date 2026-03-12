@@ -1,30 +1,30 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/97/050/001	40165161	pramipexole dihydrochloride 0.125 MG Oral Tablet	859033	EXACT			2026-02-16
-EU/1/97/050/002	40165161	pramipexole dihydrochloride 0.125 MG Oral Tablet	859033	EXACT			2026-02-16
-EU/1/97/050/003	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040	EXACT			2026-02-16
-EU/1/97/050/004	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040	EXACT			2026-02-16
-EU/1/97/050/005	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT			2026-02-16
-EU/1/97/050/006	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT			2026-02-16
-EU/1/97/050/011	40165169	pramipexole dihydrochloride 0.5 MG Oral Tablet	859044	EXACT			2026-02-16
-EU/1/97/050/012	40165169	pramipexole dihydrochloride 0.5 MG Oral Tablet	859044	EXACT			2026-02-16
-EU/1/97/050/013	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	EXACT			2026-02-16
-EU/1/97/050/014	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	EXACT			2026-02-16
-EU/1/97/050/015	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	EXACT			2026-02-16
-EU/1/97/050/016	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	EXACT			2026-02-16
-EU/1/97/050/017	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	EXACT			2026-02-16
-EU/1/97/050/018	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	EXACT			2026-02-16
-EU/1/97/050/019	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	EXACT			2026-02-16
-EU/1/97/050/020	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	EXACT			2026-02-16
-EU/1/97/050/021	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	EXACT			2026-02-16
-EU/1/97/050/022	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555	EXACT			2026-02-16
-EU/1/97/050/023	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555	EXACT			2026-02-16
-EU/1/97/050/024	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555	EXACT			2026-02-16
-EU/1/97/050/025	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	EXACT			2026-02-16
-EU/1/97/050/026	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	EXACT			2026-02-16
-EU/1/97/050/027	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	EXACT			2026-02-16
-EU/1/97/050/028	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	EXACT			2026-02-16
-EU/1/97/050/029	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	EXACT			2026-02-16
-EU/1/97/050/030	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	EXACT			2026-02-16
-EU/1/97/050/031	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485	EXACT			2026-02-16
-EU/1/97/050/032	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485	EXACT			2026-02-16
-EU/1/97/050/033	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485	EXACT			2026-02-16
+EU/1/97/050/001	40165161	pramipexole dihydrochloride 0.125 MG Oral Tablet	859033	EXACT	0.088 mg base = 0.125 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/002	40165161	pramipexole dihydrochloride 0.125 MG Oral Tablet	859033	EXACT	0.088 mg base = 0.125 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/003	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040	EXACT	0.18 mg base = 0.25 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/004	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040	EXACT	0.18 mg base = 0.25 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/005	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT	0.7 mg base = 1 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/006	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT	0.7 mg base = 1 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/011	40165169	pramipexole dihydrochloride 0.5 MG Oral Tablet	859044	EXACT	0.35 mg base = 0.5 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/012	40165169	pramipexole dihydrochloride 0.5 MG Oral Tablet	859044	EXACT	0.35 mg base = 0.5 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/013	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	EXACT	0.26 mg base = 0.375 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/014	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	EXACT	0.26 mg base = 0.375 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/015	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	EXACT	0.26 mg base = 0.375 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/016	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	EXACT	0.52 mg base = 0.75 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/017	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	EXACT	0.52 mg base = 0.75 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/018	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	EXACT	0.52 mg base = 0.75 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/019	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	EXACT	1.05 mg base = 1.5 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/020	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	EXACT	1.05 mg base = 1.5 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/021	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	EXACT	1.05 mg base = 1.5 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/022	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555	EXACT	2.1 mg base = 3 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/023	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555	EXACT	2.1 mg base = 3 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/024	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555	EXACT	2.1 mg base = 3 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/025	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	EXACT	3.15 mg base = 4.5 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/026	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	EXACT	3.15 mg base = 4.5 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/027	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	EXACT	3.15 mg base = 4.5 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/028	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	EXACT	1.57 mg base = 2.25 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/029	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	EXACT	1.57 mg base = 2.25 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/030	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	EXACT	1.57 mg base = 2.25 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/031	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485	EXACT	2.62 mg base = 3.75 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/032	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485	EXACT	2.62 mg base = 3.75 mg dihydrochloride salt		2026-03-12
+EU/1/97/050/033	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485	EXACT	2.62 mg base = 3.75 mg dihydrochloride salt		2026-03-12

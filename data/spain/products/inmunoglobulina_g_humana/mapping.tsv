@@ -1,42 +1,64 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-653447	66404	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
-653448	66404	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
-653449	66404	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
-664147	71501	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-664148	71501	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-664149	71501	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-664150	71501	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-665352	72294	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
-665353	72294	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
-665354	72294	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
-685644	60717	19096038	immunoglobulin G, human 50 MG/ML	346473	BROAD			
-694359	76722	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-694360	76722	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-694361	76722	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
+653447	66404	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+653448	66404	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+653449	66404	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+664147	71501	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+664148	71501	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+664149	71501	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+664150	71501	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+665352	72294	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+665353	72294	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+665354	72294	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+685644	60717	40220547	50 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809448	EXACT			2026-03-12
+694359	76722	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+694360	76722	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+694361	76722	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
 699282	111687014	40220469	50 ML immunoglobulin G, human 200 MG/ML Injection [Hizentra]	1809063	EXACT			2026-01-06
-700200	78149	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
-700201	78149	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
-700214	78159	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-700215	78159	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
+700200	78149	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+700201	78149	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+700214	78159	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+700215	78159	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
 700339	108446007	40220577	400 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809525	EXACT			2025-12-04
 711153	113840003	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2025-12-04
 711154	113840004	40220544	200 ML immunoglobulin G, human 100 MG/ML Injection	1809444	EXACT			2025-12-04
 711155	113840005	40220583	300 ML immunoglobulin G, human 100 MG/ML Injection	1809539	EXACT			2025-12-04
 711156	113840002	40220524	50 ML immunoglobulin G, human 100 MG/ML Injection	1809414	EXACT			2025-12-04
-711529	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-711530	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-711533	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-711535	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-711537	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
+711529	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+711530	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+711533	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+711535	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+711537	81045	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
 712095	113840001	45777063	{1 (1.25 ML hyaluronidase, human recombinant 160 UNT/ML Injection) / 1 (25 ML immunoglobulin G, human 100 MG/ML Injection) } Pack	1549689	EXACT			2025-12-04
-714435	80737	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-715504	80737	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-715505	80737	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-715506	80737	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			
-716825	82255	40220606	immunoglobulin G, human 100 MG/ML Injection [Gamunex]	1809579	EXACT			
-716826	82255	40220606	immunoglobulin G, human 100 MG/ML Injection [Gamunex]	1809579	EXACT			
-732751	86544	1718185	immunoglobulin G, human 200 MG/ML Injection [Cuvitru]	1813416	EXACT			
-732752	86544	1718185	immunoglobulin G, human 200 MG/ML Injection [Cuvitru]	1813416	EXACT			
-732753	86544	1718185	immunoglobulin G, human 200 MG/ML Injection [Cuvitru]	1813416	EXACT			
-732754	86544	1718185	immunoglobulin G, human 200 MG/ML Injection [Cuvitru]	1813416	EXACT			
-758301	88087	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			
+714435	80737	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+715504	80737	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+715505	80737	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+715506	80737	40220561	immunoglobulin G, human 100 MG/ML Injection [Octagam]	1809500	EXACT			2026-03-12
+716825	82255	40220606	immunoglobulin G, human 100 MG/ML Injection [Gamunex]	1809579	EXACT			2026-03-12
+716826	82255	40220606	immunoglobulin G, human 100 MG/ML Injection [Gamunex]	1809579	EXACT			2026-03-12
+732751	86544	1718185	immunoglobulin G, human 200 MG/ML Injection [Cuvitru]	1813416	EXACT			2026-03-12
+732752	86544	1718185	immunoglobulin G, human 200 MG/ML Injection [Cuvitru]	1813416	EXACT			2026-03-12
+732753	86544	1718185	immunoglobulin G, human 200 MG/ML Injection [Cuvitru]	1813416	EXACT			2026-03-12
+732754	86544	1718185	immunoglobulin G, human 200 MG/ML Injection [Cuvitru]	1813416	EXACT			2026-03-12
+758301	88087	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	EXACT			2026-03-12
+653705	05329001	40220536	10 ML immunoglobulin G, human 100 MG/ML Injection	1809434	EXACT			2026-03-12
+653707	05329003	40220524	50 ML immunoglobulin G, human 100 MG/ML Injection	1809414	EXACT			2026-03-12
+653708	05329004	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2026-03-12
+653711	05329005	40220544	200 ML immunoglobulin G, human 100 MG/ML Injection	1809444	EXACT			2026-03-12
+654773	46456	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm does not expose an explicit 2 mL IM prefilled syringe presentation	2 ML immunoglobulin G, human 160 MG/ML Prefilled Syringe	2026-03-12
+660925	08446001	40220575	50 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809521	EXACT			2026-03-12
+660926	08446002	40220572	100 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809517	EXACT			2026-03-12
+660927	08446003	40220574	200 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809520	EXACT			2026-03-12
+663023	08446004	40220540	25 ML immunoglobulin G, human 100 MG/ML Injection	1809438	EXACT			2026-03-12
+665767	07404001	40220533	10 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809429	EXACT			2026-03-12
+665768	07404002	40220547	50 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809448	EXACT			2026-03-12
+665769	07404003	40220549	100 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809457	EXACT			2026-03-12
+665770	07404004	40220551	200 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809464	EXACT			2026-03-12
+665771	07404005	40220554	400 ML immunoglobulin G, human 50 MG/ML Injection	1809474	EXACT			2026-03-12
+665957	07404006	40220552	50 ML immunoglobulin G, human 100 MG/ML Injection [Flebogamma]	1809471	EXACT			2026-03-12
+665958	07404007	40220556	100 ML immunoglobulin G, human 100 MG/ML Injection [Flebogamma]	1809477	EXACT			2026-03-12
+665959	07404008	40220557	200 ML immunoglobulin G, human 100 MG/ML Injection [Flebogamma]	1809479	EXACT			2026-03-12
+677730	11687002	37499786	5 ML immunoglobulin G, human 200 MG/ML Prefilled Syringe [Hizentra]	2268105	EXACT			2026-03-12
+677734	11687005	37499788	10 ML immunoglobulin G, human 200 MG/ML Prefilled Syringe [Hizentra]	2268109	EXACT			2026-03-12
+677741	11687011	37499825	20 ML immunoglobulin G, human 200 MG/ML Prefilled Syringe [Hizentra]	2287159	EXACT			2026-03-12
+677742	11687012	37499825	20 ML immunoglobulin G, human 200 MG/ML Prefilled Syringe [Hizentra]	2287159	EXACT			2026-03-12
+685636	60718	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2026-03-12

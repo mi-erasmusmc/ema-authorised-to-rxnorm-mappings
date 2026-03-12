@@ -1,14 +1,14 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/97/030/028	19078555	insulin, regular, human 100 UNT/ML Injectable Solution	311034	EXACT			2026-02-16
 EU/1/97/030/029	19078555	insulin, regular, human 100 UNT/ML Injectable Solution	311034	EXACT			2026-02-16
-EU/1/97/030/030	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin		2026-02-16
+EU/1/97/030/030	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-03-12
 EU/1/97/030/031	19061542	insulin, regular, human 40 UNT/ML Injectable Solution	249026	EXACT			2026-02-16
 EU/1/97/030/032	19061542	insulin, regular, human 40 UNT/ML Injectable Solution	249026	EXACT			2026-02-16
-EU/1/97/030/055	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin		2026-02-16
-EU/1/97/030/056	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin		2026-02-16
-EU/1/97/030/085	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin		2026-02-16
-EU/1/97/030/090	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin		2026-02-16
-EU/1/97/030/095	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin		2026-02-16
+EU/1/97/030/055	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-03-12
+EU/1/97/030/056	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-03-12
+EU/1/97/030/085	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-03-12
+EU/1/97/030/090	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-03-12
+EU/1/97/030/095	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-03-12
 EU/1/97/030/140	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-02-16
 EU/1/97/030/141	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-02-16
 EU/1/97/030/142	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-02-16

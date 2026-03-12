@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/98/065/001	41350358	3 ML Perflutren 0.22 MG/ML Injectable Solution	OMOP2548320	EXACT		3 ML Perflutren 0.19 MG/ML Injection	2026-02-16
-EU/1/98/065/002	41350358	3 ML Perflutren 0.22 MG/ML Injectable Solution	OMOP2548320	EXACT		3 ML Perflutren 0.19 MG/ML Injection	2026-02-16
+EU/1/98/065/001	41350358	3 ML Perflutren 0.22 MG/ML Injectable Solution	OMOP2548320	EXACT	Perflutren is an ultrasound contrast agent; RxNorm only represents it at ingredient level	3 ML Perflutren 0.19 MG/ML Injection	2026-03-12
+EU/1/98/065/002	41350358	3 ML Perflutren 0.22 MG/ML Injectable Solution	OMOP2548320	EXACT	Perflutren is an ultrasound contrast agent; RxNorm only represents it at ingredient level	3 ML Perflutren 0.19 MG/ML Injection	2026-03-12

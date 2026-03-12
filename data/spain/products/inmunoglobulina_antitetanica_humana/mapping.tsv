@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+663241	63857	40233203	1 ML tetanus immune globulin, human 250 UNT/ML Prefilled Syringe	1087391	EXACT			2026-03-12
+663242	63858	42902966	tetanus immune globulin, human 250 UNT/ML Prefilled Syringe	1360079	BROAD	RxNorm does not expose an explicit 2 mL / 500 UNT prefilled syringe presentation	2 ML tetanus immune globulin, human 250 UNT/ML Prefilled Syringe	2026-03-12

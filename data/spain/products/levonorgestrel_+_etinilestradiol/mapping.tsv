@@ -1,35 +1,62 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-659329	68970	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019				
-663230	52574	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019				
-667906	71708	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-667908	71708	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-692740	76354	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-692741	76354	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-697795	77457	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-697796	77457	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-697797	77458	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-697798	77458	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698065	77521	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698066	77521	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698067	77522	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698068	77522	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698071	77524	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698072	77524	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698073	77525	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698074	77525	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698361	77639	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-698362	77639	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-708316	80340	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019				
-711233	80973	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-711234	80973	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-716296	82082	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-716297	82082	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-720994	82942	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-720995	82942	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-720996	82943	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-720997	82943	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-787820	52612	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019				
-863373	65067	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-863407	65067	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297				
-955740	55989	19096535	ethinyl estradiol 0.03 MG / levonorgestrel 0.125 MG Oral Tablet	348804	EXACT			
-955849	55994	19077183	ethinyl estradiol 0.03 MG / levonorgestrel 0.05 MG Oral Tablet	310230	EXACT			
+650858	66628	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+650859	66628	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+659329	68970	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+663230	52574	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+664964	12-49-1	40039762	ethinyl estradiol / levonorgestrel Oral Tablet	372590	BROAD	triphasic (0.05+0.075+0.125mg/0.03+0.04mg); no single triphasic-pack concept in RxNorm	ethinyl estradiol / levonorgestrel Oral Tablet	2026-03-12
+666025	71768	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+666026	71768	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+667906	71708	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+667908	71708	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+678017	PL00010-0545	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+685304	RVG08663	40039762	ethinyl estradiol / levonorgestrel Oral Tablet	372590	BROAD	triphasic (0.05+0.075+0.125mg/0.03+0.04mg); no single triphasic-pack concept in RxNorm	ethinyl estradiol / levonorgestrel Oral Tablet	2026-03-12
+692740	76354	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+692741	76354	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+692743	76355	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+692744	76355	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+697795	77457	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+697796	77457	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+697797	77458	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+697798	77458	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698063	77520	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698064	77520	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698065	77521	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698066	77521	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698067	77522	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698068	77522	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698069	77523	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698070	77523	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698071	77524	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698072	77524	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698073	77525	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698074	77525	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698361	77639	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698362	77639	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698387	77651	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+698388	77651	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+702293	78754	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+702294	78754	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+702395	78777	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+702396	78777	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+703087	PA1410-005-001	40039762	ethinyl estradiol / levonorgestrel Oral Tablet	372590	BROAD	triphasic (0.05+0.075+0.125mg/0.03+0.04mg); no single triphasic-pack concept in RxNorm	ethinyl estradiol / levonorgestrel Oral Tablet	2026-03-12
+703559	PL00010-0545IP	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+708316	80340	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	BROAD	Seasonique extended-cycle pack (84x0.15/0.03mg + 7x0.01mg EE); mapping to active tablet component concept	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+711233	80973	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+711234	80973	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+712773	PL00010-0545IP1	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+716296	82082	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+716297	82082	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+719692	82585	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+719693	82585	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+720994	82942	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+720995	82942	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+720996	82943	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+720997	82943	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+730628	R-0600	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+765139	BE091235	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+768111	RVG08204	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+787820	52612	19057161	ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	238019	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.15 MG Oral Tablet	2026-03-12
+863373	65067	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+863407	65067	1549801	ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	242297	EXACT		ethinyl estradiol 0.02 MG / levonorgestrel 0.1 MG Oral Tablet	2026-03-12
+955740	55989	19096535	ethinyl estradiol 0.03 MG / levonorgestrel 0.125 MG Oral Tablet	348804	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.125 MG Oral Tablet	2026-03-12
+955849	55994	19077183	ethinyl estradiol 0.03 MG / levonorgestrel 0.05 MG Oral Tablet	310230	EXACT		ethinyl estradiol 0.03 MG / levonorgestrel 0.05 MG Oral Tablet	2026-03-12

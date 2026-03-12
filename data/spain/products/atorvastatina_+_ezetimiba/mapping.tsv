@@ -1,62 +1,85 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-704107	79167	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093	EXACT			
-704113	79168	1526476	ezetimibe 10 MG Oral Tablet	349556	EXACT			
-704120	79169	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099	EXACT			
-704293	79224	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093	EXACT			
-704308	79226	1526476	ezetimibe 10 MG Oral Tablet	349556	EXACT			
-704315	79227	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099	EXACT			
-726872	84510	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				
-726873	84511	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-726874	84512	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-726875	84513	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-731937	86316	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-731959	86317	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-731981	86318	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-732686	86518	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				
-732687	86519	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-732688	86520	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-732689	86521	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-742367	87198	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-742368	87199	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-742369	87200	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764017	89234	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				
-764018	89235	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764019	89236	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764020	89237	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764037	89246	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764038	89247	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764039	89245	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764040	89248	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764041	89249	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764042	89250	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764175	89280	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764176	89281	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764177	89282	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764299	89343	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764300	89344	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764301	89345	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764316	89346	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				
-764317	89347	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764318	89348	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764319	89349	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764383	89378	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764384	89379	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764385	89380	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764895	89553	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				
-764901	89554	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764903	89555	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764904	89556	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-764968	89582	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-764970	89583	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-764971	89584	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-766815	90121	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				
-766829	90122	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-766842	90123	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-766854	90124	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-767219	90212	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-767220	90213	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
-767221	90214	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				
-767426	90265	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093	EXACT			
-767427	90266	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096	EXACT			
-768314	90515	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				
-768315	90516	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				
+704107	79167	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093	EXACT			2026-03-12
+704113	79168	1526476	ezetimibe 10 MG Oral Tablet	349556	EXACT			2026-03-12
+704120	79169	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099	EXACT			2026-03-12
+704293	79224	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093	EXACT			2026-03-12
+704308	79226	1526476	ezetimibe 10 MG Oral Tablet	349556	EXACT			2026-03-12
+704315	79227	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099	EXACT			2026-03-12
+726872	84510	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				2026-03-12
+726873	84511	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+726874	84512	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+726875	84513	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+731937	86316	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+731959	86317	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+731981	86318	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+732686	86518	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				2026-03-12
+732687	86519	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+732688	86520	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+732689	86521	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+742367	87198	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+742368	87199	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+742369	87200	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764017	89234	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				2026-03-12
+764018	89235	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764019	89236	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764020	89237	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764037	89246	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764038	89247	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764039	89245	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764040	89248	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764041	89249	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764042	89250	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764175	89280	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764176	89281	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764177	89282	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764299	89343	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764300	89344	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764301	89345	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764316	89346	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				2026-03-12
+764317	89347	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764318	89348	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764319	89349	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764383	89378	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764384	89379	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764385	89380	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764895	89553	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				2026-03-12
+764901	89554	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764903	89555	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764904	89556	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+764968	89582	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+764970	89583	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+764971	89584	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+766815	90121	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				2026-03-12
+766829	90122	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+766842	90123	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+766854	90124	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+767219	90212	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+767220	90213	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+767221	90214	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+767426	90265	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093	EXACT			2026-03-12
+767427	90266	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096	EXACT			2026-03-12
+768314	90515	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+768315	90516	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+723628	3400928005557	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+723810	3400928005786	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+726889	34009288005557IP	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+726951	3400928005557IP1	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+727299	84621	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086				2026-03-12
+727300	84622	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+727301	84623	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+727302	84624	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+728853	3400928005786IP	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+728860	3400928005786IP1	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+731805	86256	43527029	atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet	1422086	BROAD	No oral capsule in RxNorm; capsule form mapped to oral tablet	atorvastatin 10 MG / ezetimibe 10 MG Oral Capsule	2026-03-12
+731813	86257	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093	BROAD	No oral capsule in RxNorm; capsule form mapped to oral tablet	atorvastatin 20 MG / ezetimibe 10 MG Oral Capsule	2026-03-12
+731820	86258	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096	BROAD	No oral capsule in RxNorm; capsule form mapped to oral tablet	atorvastatin 40 MG / ezetimibe 10 MG Oral Capsule	2026-03-12
+759257	BE465822	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+759259	BE465813	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+759288	BE465804	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+763322	BE465804IP	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+763378	BE465813IP	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+763379	BE465822IP	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+763383	BE465804IP1	43527032	atorvastatin 20 MG / ezetimibe 10 MG Oral Tablet	1422093				2026-03-12
+763385	BE465813IP1	43527035	atorvastatin 40 MG / ezetimibe 10 MG Oral Tablet	1422096				2026-03-12
+763386	BE465822IP1	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
+769124	BE465822IP2	43527038	atorvastatin 80 MG / ezetimibe 10 MG Oral Tablet	1422099				2026-03-12
