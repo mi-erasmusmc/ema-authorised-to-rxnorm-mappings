@@ -42,3 +42,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 860775	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
 925446	45449	36249588	glucose / sodium chloride Injection	1794561	BROAD			
 966028	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD			
+600415	67290	36249702	glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	1795345	BROAD	No 50ml-specific concept in RxNorm	50 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+600416	67290	36249704	250 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	1795348	EXACT			2026-03-12
+600417	67290	36249701	500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	1795344	EXACT			2026-03-12
+600418	67290	36249703	1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	1795346	EXACT			2026-03-12

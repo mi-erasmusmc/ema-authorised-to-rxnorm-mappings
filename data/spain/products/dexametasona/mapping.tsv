@@ -1,22 +1,24 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600447	67455	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			
-607517	86438	40241504	dexamethasone phosphate 4 MG/ML Injectable Solution	1116927	EXACT			
-615310	36225	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			
-615328	32224	1518259	dexamethasone 1 MG Oral Tablet	197579	EXACT			
-653502	42666	19029876	dexamethasone 1 MG/ML Ophthalmic Suspension [Maxidex]	205669	EXACT			
-654123	67671	1518490	dexamethasone phosphate 1 MG/ML Ophthalmic Solution	226343	EXACT			
-654767	32224	1518259	dexamethasone 1 MG Oral Tablet	197579	EXACT			
-661408	70032	1518292	dexamethasone 4 MG Oral Tablet	197582				
-661502	70078	19106649	dexamethasone 8 MG Oral Tablet	429196				
-672066	67455	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			
-713555	81414	1518292	dexamethasone 4 MG Oral Tablet	197582				
-713556	81415	19106649	dexamethasone 8 MG Oral Tablet	429196				
-713557	81416	35408275	Dexamethasone 40 MG Oral Tablet	OMOP1141860				
-713561	81417	37497612	dexamethasone 20 MG Oral Tablet	2261802				
-727541	84712	1518490	dexamethasone phosphate 1 MG/ML Ophthalmic Solution	226343	EXACT			
-729512	85484	1518490	dexamethasone phosphate 1 MG/ML Ophthalmic Solution	226343	EXACT			
-729948	85636	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			
-731435	86123	19106649	dexamethasone 8 MG Oral Tablet	429196				
-731436	86124	1518292	dexamethasone 4 MG Oral Tablet	197582				
-731437	86125	37497612	dexamethasone 20 MG Oral Tablet	2261802				
-759423	36225	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			
+600447	67455	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			2026-03-12
+607517	86438	40241504	dexamethasone phosphate 4 MG/ML Injectable Solution	1116927	EXACT			2026-03-12
+615310	36225	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			2026-03-12
+615328	32224	1518259	dexamethasone 1 MG Oral Tablet	197579	EXACT			2026-03-12
+653502	42666	19029876	dexamethasone 1 MG/ML Ophthalmic Suspension [Maxidex]	205669	EXACT			2026-03-12
+654123	67671	1518490	dexamethasone phosphate 1 MG/ML Ophthalmic Solution	226343	EXACT			2026-03-12
+654767	32224	1518259	dexamethasone 1 MG Oral Tablet	197579	EXACT			2026-03-12
+661408	70032	1518292	dexamethasone 4 MG Oral Tablet	197582				2026-03-12
+661502	70078	19106649	dexamethasone 8 MG Oral Tablet	429196				2026-03-12
+672066	67455	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			2026-03-12
+713555	81414	1518292	dexamethasone 4 MG Oral Tablet	197582				2026-03-12
+713556	81415	19106649	dexamethasone 8 MG Oral Tablet	429196				2026-03-12
+713557	81416	35408275	Dexamethasone 40 MG Oral Tablet	OMOP1141860				2026-03-12
+713561	81417	37497612	dexamethasone 20 MG Oral Tablet	2261802				2026-03-12
+727541	84712	1518490	dexamethasone phosphate 1 MG/ML Ophthalmic Solution	226343	EXACT			2026-03-12
+729512	85484	1518490	dexamethasone phosphate 1 MG/ML Ophthalmic Solution	226343	EXACT			2026-03-12
+729948	85636	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			2026-03-12
+731435	86123	19106649	dexamethasone 8 MG Oral Tablet	429196				2026-03-12
+731436	86124	1518292	dexamethasone 4 MG Oral Tablet	197582				2026-03-12
+731437	86125	37497612	dexamethasone 20 MG Oral Tablet	2261802				2026-03-12
+759423	36225	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			2026-03-12
+607478	57036	19101595	dexamethasone 8 MG/ML Injectable Solution	387080	EXACT			2026-03-12
+607672	88798	1719046	1 ML dexamethasone phosphate 4 MG/ML Injection	1812194	EXACT			2026-03-12

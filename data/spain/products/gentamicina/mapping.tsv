@@ -1,2 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-617308	63854	46221666	gentamicin 3 MG/ML	1606016				
+617308	63854	46221666	gentamicin 3 MG/ML	1606016				2026-03-12
+601286	62203	1594668	gentamicin 1 MG/ML Injection	1870622	BROAD		80 ML gentamicin 1 MG/ML Injection - no 80ml volume concept in RxNorm; closest is 100 ML (242816)	2026-03-12

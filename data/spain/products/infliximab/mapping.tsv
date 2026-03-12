@@ -1,4 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-701881	113854001	42629519	infliximab-dyyb 100 MG Injection [Inflectra]	1790546	EXACT			2025-12-04
-711542	1161106001	1592762	infliximab-abda 100 MG Injection	1927285	EXACT			2025-12-04
-722306	1181280001	19078524	infliximab 100 MG Injection	310994	BROAD		infliximab-qbtx 100 MG Injection	2025-12-04
+701881	113854001	42629519	infliximab-dyyb 100 MG Injection [Inflectra]	1790546	EXACT			2026-03-12
+711542	1161106001	1592762	infliximab-abda 100 MG Injection	1927285	EXACT			2026-03-12
+722306	1181280001	19078524	infliximab 100 MG Injection	310994	BROAD		infliximab-qbtx 100 MG Injection	2026-03-12
+702694	13853001	42629515	infliximab-dyyb 100 MG Injection	1790541	EXACT			2026-03-12
+727868	1130853006	42609752	1 ML infliximab-dyyb 120 MG/ML Prefilled Syringe	2675753	EXACT			2026-03-12
+727869	1130853006	42609752	1 ML infliximab-dyyb 120 MG/ML Prefilled Syringe	2675753	EXACT			2026-03-12
+727871	1130853012	42609750	1 ML infliximab-dyyb 120 MG/ML Pen Injector	2675742	EXACT			2026-03-12
+727872	1130853012	42609750	1 ML infliximab-dyyb 120 MG/ML Pen Injector	2675742	EXACT			2026-03-12
+730339	13853001IP1	42629515	infliximab-dyyb 100 MG Injection	1790541	EXACT			2026-03-12

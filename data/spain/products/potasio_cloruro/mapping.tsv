@@ -14,3 +14,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 700635	59805	19049105	potassium chloride	8591	BROAD			2026-03-12
 724700	60354	36785774	Potassium Chloride Intravenous Solution	OMOP4774052	EXACT			2026-03-12
 724701	60354	36785774	Potassium Chloride Intravenous Solution	OMOP4774052	EXACT			2026-03-12
+600216	63783	1718694	potassium chloride 2 MEQ/ML Injection	1860133	BROAD	Spanish product is 1 mEq/ml (74.5 mg/ml) in 10ml concentrate; no 1 mEq/ml concept in RxNorm	10 ML potassium chloride 1 MEQ/ML Injection	2026-03-12

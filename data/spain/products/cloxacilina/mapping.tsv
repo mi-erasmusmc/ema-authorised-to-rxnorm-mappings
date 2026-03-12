@@ -1,4 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602326	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			
-694052	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			
-694053	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			
+602326	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			2026-03-12
+694052	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			2026-03-12
+694053	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			2026-03-12
+602334	55418	40027287	cloxacillin Injectable Solution	371599	BROAD		cloxacillin 500 MG Injection - no strength-specific injection concept in RxNorm	2026-03-12
+602342	55419	40027287	cloxacillin Injectable Solution	371599	BROAD		cloxacillin 1000 MG Injection - no strength-specific injection concept in RxNorm	2026-03-12
+607721	63637	40027287	cloxacillin Injectable Solution	371599	BROAD		cloxacillin 500 MG Injection - no strength-specific injection concept in RxNorm	2026-03-12
+607846	63636	40027287	cloxacillin Injectable Solution	371599	BROAD		cloxacillin 1000 MG Injection - no strength-specific injection concept in RxNorm	2026-03-12

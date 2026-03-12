@@ -1,7 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607731	58691	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			
-607778	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			
-608737	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			
-641647	58691	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			
-673048	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			
-994657	58678	41210847	heparin 1000 UNT/ML Topical Gel	OMOP2408809	EXACT			
+607731	58691	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
+607778	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
+608737	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
+641647	58691	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
+673048	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
+994657	58678	41210847	heparin 1000 UNT/ML Topical Gel	OMOP2408809	EXACT			2026-03-12
+607732	58693	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT		no 5 ML vial-specific concept in RxNorm; 5000 UNT/ML strength matches exactly	2026-03-12
+607779	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT		no 5 ML vial-specific concept in RxNorm; 5000 UNT/ML strength matches exactly	2026-03-12

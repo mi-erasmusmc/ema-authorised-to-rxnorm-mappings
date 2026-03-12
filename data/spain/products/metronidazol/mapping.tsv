@@ -1,19 +1,20 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600723	68091	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			
-600724	68091	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			
-601294	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			
-601716	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			
-603184	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			
-603185	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			
-604231	62223	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			
-643494	59662	1592856	metronidazole 5 MG/ML Injection	1863332	EXACT			
-657148	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			
-657155	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			
-657163	62223	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			
-688960	60536	19010373	metronidazole 0.0075 MG/MG Topical Gel [Rozex]	108738	EXACT			
-693738	62223	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			
-699566	35034	19035112	metronidazole 250 MG Oral Tablet [Flagyl]	207287	EXACT			
-727289	84614	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			
-758177	34985	1707164	metronidazole	6922	BROAD			
-764180	89284	1707164	metronidazole	6922	BROAD			
-935478	63884	1707344	metronidazole 0.0075 MG/MG Topical Gel	311679	EXACT			
+600723	68091	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12
+600724	68091	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12
+601294	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12
+601716	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12
+603184	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12
+603185	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12
+604231	62223	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			2026-03-12
+643494	59662	1592856	metronidazole 5 MG/ML Injection	1863332	EXACT			2026-03-12
+657148	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12
+657155	62224	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12
+657163	62223	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			2026-03-12
+688960	60536	19010373	metronidazole 0.0075 MG/MG Topical Gel [Rozex]	108738	EXACT			2026-03-12
+693738	62223	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			2026-03-12
+699566	35034	19035112	metronidazole 250 MG Oral Tablet [Flagyl]	207287	EXACT			2026-03-12
+727289	84614	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			2026-03-12
+758177	34985	1707164	metronidazole	6922	BROAD		metronidazole 500 MG vaginal tablet - no RxNorm concept found	2026-03-12
+764180	89284	1707164	metronidazole	6922	BROAD		metronidazole 1000 MG vaginal suppository - no RxNorm concept found	2026-03-12
+935478	63884	1707344	metronidazole 0.0075 MG/MG Topical Gel	311679	EXACT			2026-03-12
+600773	68162	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12

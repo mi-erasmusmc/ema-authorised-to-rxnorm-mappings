@@ -3,3 +3,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 629097	61955	991732	sodium phosphate, dibasic 180 MG/ML / sodium phosphate, monobasic 480 MG/ML Oral Solution	282725	EXACT			
 662635	61955	991732	sodium phosphate, dibasic 180 MG/ML / sodium phosphate, monobasic 480 MG/ML Oral Solution	282725	EXACT			
 872861	63106	991732	sodium phosphate, dibasic 180 MG/ML / sodium phosphate, monobasic 480 MG/ML Oral Solution	282725	EXACT			
+603105	70841	40082461	sodium phosphate, dibasic / sodium phosphate, monobasic Enema	385025	BROAD	139 mg/ml monobasic + 32 mg/ml dibasic rectal solution 80ml; no exact concentration match in RxNorm	80 ML sodium phosphate dibasic 32 MG/ML / sodium phosphate monobasic 139 MG/ML Enema	2026-03-12
+603106	70841	40082461	sodium phosphate, dibasic / sodium phosphate, monobasic Enema	385025	BROAD	139 mg/ml monobasic + 32 mg/ml dibasic rectal solution 140ml; no exact concentration match in RxNorm	140 ML sodium phosphate dibasic 32 MG/ML / sodium phosphate monobasic 139 MG/ML Enema	2026-03-12
+603107	70841	40082461	sodium phosphate, dibasic / sodium phosphate, monobasic Enema	385025	BROAD	139 mg/ml monobasic + 32 mg/ml dibasic rectal solution 250ml; no exact concentration match in RxNorm	250 ML sodium phosphate dibasic 32 MG/ML / sodium phosphate monobasic 139 MG/ML Enema	2026-03-12

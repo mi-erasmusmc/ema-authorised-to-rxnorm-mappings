@@ -1,3 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607095	83550	46275706	cefotaxime 1000 MG Injection	1656313	EXACT			
-607096	83551	46275711	cefotaxime 2000 MG Injection	1656318	EXACT			
+608380	62593	19074905	cefotaxime 500 MG Injection	309068	EXACT			2026-03-12
+607095	83550	46275706	cefotaxime 1000 MG Injection	1656313	EXACT			2026-03-12
+607096	83551	46275711	cefotaxime 2000 MG Injection	1656318	EXACT			2026-03-12
+600999	64102	19074905	cefotaxime 500 MG Injection	309068	EXACT			2026-03-12
+601013	55470	46275706	cefotaxime 1000 MG Injection	1656313	EXACT			2026-03-12
+601773	64101	46275706	cefotaxime 1000 MG Injection	1656313	EXACT			2026-03-12
+601831	64103	46275706	cefotaxime 1000 MG Injection	1656313	EXACT			2026-03-12
+601955	64104	46275711	cefotaxime 2000 MG Injection	1656318	EXACT			2026-03-12

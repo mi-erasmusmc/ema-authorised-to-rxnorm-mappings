@@ -23,3 +23,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 782052	65796	19078925	midazolam 5 MG/ML Injectable Solution	311702				
 838193	65796	19078925	midazolam 5 MG/ML Injectable Solution	311702				
 841155	63936	19078924	midazolam 1 MG/ML Injectable Solution	311700				
+602480	65314	46287621	1 ML midazolam 5 MG/ML Injection	1666814	EXACT			2026-03-12
+602481	65314	46287622	midazolam 5 MG/ML Injection	1666815	BROAD	100mg/20ml=5mg/ml; no 20ML midazolam 5MG/ML Injection in RxNorm	1 ML midazolam 5 MG/ML Injection	2026-03-12

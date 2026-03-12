@@ -25,3 +25,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 999905	59988	40221073	nitroglycerin Transdermal System	1805880	BROAD			
 999906	59989	40221073	nitroglycerin Transdermal System	1805880	BROAD			
 999907	59990	19114701	24 HR nitroglycerin 0.6 MG/HR Transdermal System [Minitran]	545278	EXACT			
+601880	62264	40221073	nitroglycerin Transdermal System	1805880	BROAD	15 mg/24h transdermal patch (tipo 1); 15mg/24h=0.625mg/hr; closest RxNorm is 0.6 MG/HR; no exact match	24 HR nitroglycerin 0.6 MG/HR Transdermal System	2026-03-12

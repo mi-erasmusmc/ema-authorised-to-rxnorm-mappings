@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+600076	66542	40226851	epinephrine 0.0125 MG/ML / lidocaine hydrochloride 20 MG/ML Injectable Solution	1012169	BROAD		1.8 ML epinephrine 0.0125 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge	2026-03-12
+607777	89517	40226851	epinephrine 0.0125 MG/ML / lidocaine hydrochloride 20 MG/ML Injectable Solution	1012169	BROAD	1.7 ML dental cartridge; RxNorm has 1.8 ML cartridge but not 1.7 ML	1.7 ML epinephrine 0.0125 MG/ML / lidocaine hydrochloride 20 MG/ML Cartridge	2026-03-12
