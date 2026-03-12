@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+729999	1201528001	36939809	Tozinameran 0.1 MG/ML [Comirnaty]	OMOP5199597	EXACT			2026-03-12
+732271	1201528002	36939809	Tozinameran 0.1 MG/ML [Comirnaty]	OMOP5199597	EXACT			2026-03-12
+732338	1201528004	36953902	Tozinameran 0.05 MG/ML [Comirnaty]	OMOP5199593	EXACT			2026-03-12
+759235	1201528010	36933673	Tozinameran 0.015 MG/ML [Comirnaty]	OMOP5199589	EXACT			2026-03-12

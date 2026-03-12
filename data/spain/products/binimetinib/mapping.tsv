@@ -1,3 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 723687	1181315001	1559941	binimetinib 15 MG Oral Tablet [Mektovi]	2049133	EXACT			2025-12-04
 765928	1181315003	849296	binimetinib 45 MG Oral Tablet	OMOP5572123	EXACT			2025-12-04
+767964	1181315001IP	1559941	binimetinib 15 MG Oral Tablet [Mektovi]	2049133	EXACT			2026-03-12

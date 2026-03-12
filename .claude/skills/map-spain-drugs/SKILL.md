@@ -1,149 +1,129 @@
 ---
 name: map-spain-drugs
-description: Map Spanish national medicinal products to RxNorm standard concepts. Use when asked to map a Spanish product or create/review a mapping.tsv in a Spain product folder.
+description: Map Spanish national medicinal products from the AEMPS CIMA registry to RxNorm standard concepts. Use when asked to map a Spanish product, review or correct a Spain `mapping.tsv`, audit a Spain product folder, fix a bad EMA auto-link via `nro_definitivo`, or handle Spain-specific cases such as duplicate `nro_definitivo`, generics, biosimilars, herbal products, or radiopharmaceuticals.
 ---
 
 # Map Drugs: Spanish Products
 
 Map Spanish national medicinal products (AEMPS CIMA registry) to RxNorm standard concepts.
 
-## When to Use
-
-When asked to map a Spain product to RxNorm, correct a wrong auto-mapping, or review a `mapping.tsv` in a Spain product folder.
-
 ## Prerequisites
 
-Refer to the `find-concepts` skill for searching RxNorm concepts, and the `map-drugs` skill for general mapping principles.
+Refer to the `find-concepts` skill for RxNorm searches and the `map-drugs` skill for general mapping rules.
+
+## Resources
+
+- Use `audit_folder.py` to identify missing, stale, incomplete, or broad mappings in a Spain product folder.
+- Use `apply_mappings.py` to merge targeted TSV updates into `mapping.tsv` without rewriting unchanged rows.
+- Use `scripts/list_folder_patterns.py` to summarize repeated presentation patterns before concept search, especially in large folders.
+- Use `scripts/run_clean_room_batch.py` for conservative bulk cleanup when missing rows can be filled from existing `EXACT` mappings in the same folder.
+- Use `scripts/find_duplicate_nros.py` when you need a repo-level report of shared EMA-linked `nro_definitivo` values.
+- Read `references/duplicate-nro-definitivo.md` when the auto-link produced the wrong volume, pack variant, or biosimilar concept.
 
 ## How Spain Mappings Work
 
 Spain products are auto-linked to EMA mappings via `nro_definitivo` on first setup:
 
+```text
+EU/1/20/1476/001 -> strip "EU" + remove "/" -> 1201476001 = nro_definitivo
 ```
-EU/1/20/1476/001  →  strip "EU" + remove "/"  →  1201476001  =  nro_definitivo
-```
 
-`link_ema_mappings.py` runs this match and writes `mapping.tsv` per product folder. It is **incremental** — existing rows are never overwritten. Only new `cod_nacion` values (new source data) are auto-mapped; stale rows (removed from source) are pruned.
+`link_ema_mappings.py` writes `mapping.tsv` per product folder. It is incremental: existing rows are not overwritten, new `cod_nacion` values are auto-mapped, and stale auto-generated rows are pruned.
 
-This means **`mapping.tsv` is directly editable**. Edit it to fix wrong mappings. Your changes survive any subsequent rerun.
-
-To reset a row to auto-mapping, delete the row from `mapping.tsv` and rerun `link_ema_mappings.py`.
+Treat `mapping.tsv` as the editable source of truth. Manual corrections survive reruns. To reset a row to the current auto-link, delete that row from `mapping.tsv` and rerun `link_ema_mappings.py`.
 
 ## Input Files
 
 Each product folder under `data/spain/products/{ingredient_slug}/` contains:
-- **`data.tsv`**: One row per registered presentation with `cod_nacion`, `nro_definitivo`, `des_nomco` (brand name), `des_dcp` (clinical description), `des_dosific` (dosage string), `principios_activos` (active ingredient + dose), `forma_farmaceutica`, `vias_administracion`, `atc`, `laboratorio_titular` (MAH), `sw_generico` (generic flag), `sw_base_a_plantas` (herbal), `biosimilar`, `radiofarmaco`
-- **`mapping.tsv`**: Current mappings — auto-generated initially, directly editable
 
-`cod_nacion` is the stable unique key per presentation. `nro_definitivo` is a product-level identifier (shared across pack sizes, similar to EMA product number).
+- `data.tsv`: One row per registered presentation with `cod_nacion`, `nro_definitivo`, `des_nomco`, `des_dcp`, `des_dosific`, `principios_activos`, `forma_farmaceutica`, `vias_administracion`, `atc`, `laboratorio_titular`, `sw_generico`, `sw_base_a_plantas`, `biosimilar`, and `radiofarmaco`.
+- `mapping.tsv`: Current mappings. These are initially auto-generated and then manually maintained.
 
-## Output Format
+`cod_nacion` is the stable row key. `nro_definitivo` is a product-level identifier that may be shared across multiple pack variants.
 
-Edit `mapping.tsv` following the schema in the `map-drugs` skill. The source ID columns are `cod_nacion` and `nro_definitivo` (both present, but `cod_nacion` is the unique key per row).
+## Workflow
 
-After editing, validate and regenerate:
-
-```bash
-python3 .claude/skills/map-drugs/validate_mapping.py data/spain/products/<folder>/mapping.tsv
-python3 scripts/generate_mapping_overviews.py spain
-```
-
-## Known Data Quality Issue: Duplicate nro_definitivo
-
-**161 EMA-linked `nro_definitivo` values appear on more than one Spain row.** This is a known defect in Spain's CIMA source data.
-
-The most common cause: different pack volumes assigned the same `nro_definitivo`. Example:
-
-| cod_nacion | nro_definitivo | des_dosific | Correct EMA MA |
-|---|---|---|---|
-| 764394 | 1201515001 | 25 mg/ml inyectable 4 ml | EU/1/20/1515/001 |
-| 764395 | 1201515001 | 25 mg/ml inyectable 16 ml | EU/1/20/1515/003 |
-
-The auto-match assigns both rows to the same EMA concept (whichever MA number the `nro_definitivo` resolves to). **The larger volume is almost always mapped to the wrong concept.**
-
-### How to identify and fix
-
-1. Look for rows in `mapping.tsv` where the concept name volume doesn't match `des_dosific`
-2. Search for the correct concept using the `find-concepts` skill
-3. Edit the wrong row directly in `mapping.tsv` — add a `comment` explaining the correction:
-   ```
-   nro_definitivo shared with 4ml; manually corrected to 16ml concept
-   ```
-
-Common duplicate patterns to check:
-- **Bevacizumab biosimilars** (multiple products): 4 ml and 16 ml vials sharing one number
-- **Enoxaparin** (`EU/1/16/1132/...`): many dose-banded pack variants
-- **Onasemnogene abeparvovec** (`EU/1/20/1443/001`): 37 entries weight-banded packs
-- **Adalimumab biosimilars**: 0.4 ml and 0.8 ml prefilled syringes sometimes share a number
-
-### Finding duplicates programmatically
-
-```bash
-python3 -c "
-import csv
-from collections import defaultdict
-
-ema_nros = set()
-with open('ema-to-rxnorm.tsv') as f:
-    for row in csv.DictReader(f, delimiter='\t'):
-        ma = row['ma_number']
-        if ma.startswith('EU'):
-            ema_nros.add(ma[2:].replace('/', ''))
-
-counts = defaultdict(list)
-with open('data/spain/prescripcion.tsv') as f:
-    for row in csv.DictReader(f, delimiter='\t'):
-        nro = row['nro_definitivo'].strip()
-        if nro in ema_nros:
-            counts[nro].append((row['cod_nacion'], row['des_dosific']))
-
-for nro, entries in sorted(counts.items()):
-    if len(entries) > 1:
-        print(nro)
-        for cod, desc in entries:
-            print(f'  {cod}  {desc}')
-"
-```
-
-## Mapping Workflow
-
-1. **Audit the folder** to see exactly what needs work:
+1. Audit the folder:
    ```bash
    python3 .claude/skills/map-spain-drugs/audit_folder.py data/spain/products/<folder>/
    ```
-   This reports four issue types:
-   - `MISSING` — `cod_nacion` in `data.tsv` with no row in `mapping.tsv`
-   - `NO_CONCEPT` — mapping row with empty `concept_id`
-   - `NO_TYPE` — mapping row with a concept but empty `mapping_type` (auto-linker leftovers — review and fill)
-   - `BROAD` — existing BROAD mappings to review (may be upgradeable to EXACT)
+   The default output is summary-first. It shows issue counts and repeated product patterns so you can decide quickly whether the folder is batchable.
 
-2. **Read `data.tsv`** to understand the full set of presentations and dose strengths
-3. **Reason through the issues** and produce a TSV of only the rows that need creating or updating (do not rewrite unchanged rows)
-
-4. **Apply changes** using the existing scripts — do not write any Python code:
-
-   Backfill missing `last_updated_date` on all existing rows in one command:
+   Use drill-down mode only when needed:
    ```bash
-   python3 .claude/skills/map-spain-drugs/apply_mappings.py data/spain/products/<folder>/mapping.tsv --backfill-dates
+   python3 .claude/skills/map-spain-drugs/audit_folder.py data/spain/products/<folder>/ --details
+   python3 .claude/skills/map-spain-drugs/audit_folder.py data/spain/products/<folder>/ --details --issue MISSING
    ```
 
-   Add or update specific rows by piping a TSV (`last_updated_date` is set to today automatically):
+   Review these issue types:
+   - `MISSING`: `cod_nacion` exists in `data.tsv` but not in `mapping.tsv`
+   - `NO_CONCEPT`: mapping row has no `concept_id`
+   - `NO_TYPE`: mapping row has a concept but no `mapping_type`
+   - `BROAD`: existing broad match that may be upgradeable
+   - `REVIEW_VOLUME`: likely single-use injectable mapped to a concentration-only concept; search for a volume-specific `Injection` concept before accepting `EXACT`
+   - `STALE_MAPPING`: mapping row points to a `cod_nacion` no longer present in `data.tsv`
+   - `NRO_MISMATCH`: `nro_definitivo` in `mapping.tsv` disagrees with `data.tsv`
+   - `DUPLICATE_DATA`: duplicate `cod_nacion` in `data.tsv`
+   - `DUPLICATE_MAPPING`: duplicate `cod_nacion` in `mapping.tsv`
+
+2. Read `data.tsv` to understand the presentation set, strengths, volumes, and flags for the product.
+
+   For large folders, summarize the repeated patterns first:
+   ```bash
+   python3 .claude/skills/map-spain-drugs/scripts/list_folder_patterns.py data/spain/products/<folder>/
+   ```
+   This is read-only. It helps you spot which rows truly share the same clinical pattern before you reuse a concept across them.
+
+   If the audit shows that `MISSING` is the dominant issue type, narrow to unmapped rows only:
+   ```bash
+   python3 .claude/skills/map-spain-drugs/scripts/list_folder_patterns.py data/spain/products/<folder>/ --missing-only
+   ```
+
+3. Search RxNorm concepts via the `find-concepts` skill. When the auto-link looks suspicious, check the duplicate-`nro_definitivo` reference before changing the row.
+
+4. Prepare a TSV containing only the rows you want to create or update. Do not rewrite unchanged rows.
+
+   Use `comment` only for mapping rationale that another reviewer would need to understand later, such as salt conversions, metered-versus-delivered dose decisions, biosimilar handling, or a manual correction caused by bad source data. Do not use `comment` for edit history like "upgraded mapping" or "changed to better concept".
+
+   If `mapping_type` is `BROAD`, always populate `suggestion` with the ideal concept name you would use if standard RxNorm had the exact presentation.
+
+5. Apply changes with the helper script:
    ```bash
    python3 .claude/skills/map-spain-drugs/apply_mappings.py data/spain/products/<folder>/mapping.tsv <<'EOF'
    cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion
    12345	72707	617312	atorvastatin 10 MG Oral Tablet	370584	EXACT
    EOF
    ```
+   `apply_mappings.py` sets `last_updated_date` to today when not supplied and now rejects duplicate `cod_nacion` rows in the update input.
 
-5. **Validate**:
+6. Backfill missing dates when needed:
+   ```bash
+   python3 .claude/skills/map-spain-drugs/apply_mappings.py data/spain/products/<folder>/mapping.tsv --backfill-dates
+   ```
+
+7. Validate and regenerate overviews:
    ```bash
    python3 .claude/skills/map-drugs/validate_mapping.py data/spain/products/<folder>/mapping.tsv
+   python3 scripts/generate_mapping_overviews.py spain
    ```
+
+## Conservative Bulk Cleanup
+
+For low-risk bulk work, use the batch helper:
+
+```bash
+python3 .claude/skills/map-spain-drugs/scripts/run_clean_room_batch.py --apply --limit 60 --pass-size 3
+```
+
+It only selects folders where every missing row can be filled from an existing `EXACT` mapping in the same folder using the same full clinical pattern, then validates and audits each folder. This is a cleanup tool, not a substitute for concept search.
 
 ## Spain-specific Notes
 
-- **Generics (sw_generico=1)**: EFG products must always map to **non-branded** RxNorm concepts. Check `sw_generico` in `data.tsv` for each row. Only map to a branded concept `[BrandName]` when `sw_generico=0` AND the product name matches that brand.
-- **Spanish substance names**: `data.tsv` uses Spanish names (e.g., `bevacizumab`, `ácido zoledrónico`). The folder name is slugified from `des_dcsa` (active substance group name). Use the English name when searching RxNorm.
-- **Herbal products**: `sw_base_a_plantas = 1` — these typically have no RxNorm concept. Leave concept fields empty, populate `suggestion`.
-- **Radiopharmaceuticals**: `radiofarmaco = 1` — specialist RxNorm handling, follow `map-drugs` principles.
-- **Biosimilars**: `biosimilar = 1` — follow biosimilar rules in `map-drugs` skill.
+- Generics: if `sw_generico=1`, map to non-branded RxNorm concepts only.
+- Branded products: only use branded RxNorm concepts when `sw_generico=0` and the Spain brand matches the RxNorm brand.
+- Spanish names: `data.tsv` may contain Spanish ingredient names such as `acido zoledronico`; search RxNorm with the English ingredient name.
+- Salt/base strength decisions: when Spain labels the clinical presentation in base terms in `des_dcp` or `des_dosific`, prefer the RxNorm concept that matches the labeled clinical strength and dose form, even if `principios_activos` lists a salt form. Check `weight_conversions.tsv` when the salt/base relationship could change the apparent strength, and use `comment` only if the choice would not be obvious to a later reviewer.
+- Single-use injectables: when `des_dcp` includes a volume such as `2 ml` or `5 ml`, prefer the volume-specific RxNorm `Injection` concept if one exists. Treat a concentration-only concept such as `phenytoin sodium 50 MG/ML Injection` as a review signal, not the default exact match.
+- Herbal products: if `sw_base_a_plantas=1`, leave concept fields empty and use `suggestion`.
+- Radiopharmaceuticals: if `radiofarmaco=1`, follow the specialist handling in `map-drugs`.
+- Biosimilars: if `biosimilar=1`, follow the biosimilar rules and references in `map-drugs`.

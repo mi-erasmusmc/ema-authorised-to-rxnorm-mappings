@@ -5,3 +5,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 710027	1151073014	35605013	brivaracetam 75 MG Oral Tablet [Briviact]	1739782	EXACT			2025-12-04
 710028	1151073018	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2025-12-04
 710029	1151073021	41439531	300 ML Brivaracetam 10 MG/ML Oral Solution	OMOP2637493	EXACT			2025-12-04
+758198	151073010IP	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778	EXACT			2026-03-12
+759236	151073006IP	35604924	brivaracetam 25 MG Oral Tablet [Briviact]	1739774	EXACT			2026-03-12
+759237	151073010IP1	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778	EXACT			2026-03-12
+759287	151073018IP	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2026-03-12
+765504	151073018IP2	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2026-03-12
+765505	151073010IP3	35604928	brivaracetam 50 MG Oral Tablet [Briviact]	1739778	EXACT			2026-03-12
+767481	151073018IP3	35604920	brivaracetam 100 MG Oral Tablet [Briviact]	1739770	EXACT			2026-03-12

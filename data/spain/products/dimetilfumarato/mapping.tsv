@@ -8,22 +8,24 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 745790	1221634006	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2025-12-04
 755304	1221637001	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2025-12-04
 755305	1221637004	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2025-12-04
-758186	88052	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483				
-758187	88053	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
-763632	89101	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483				
-763633	89102	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
-763781	89163	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483				
-763782	89164	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
-763783	89165	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483				
-763784	89166	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
+758186	88052	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12
+758187	88053	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+763632	89101	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12
+763633	89102	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+763781	89163	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12
+763782	89164	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+763783	89165	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12
+763784	89166	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
 764801	1241814002	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2025-12-04
 764802	1241814006	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2025-12-04
-764848	89526	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
-764849	89527	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483				
-765200	89648	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483				
-765201	89647	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
-765583	89773	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483				
-765584	89774	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
-765687	89807	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483				
-765688	89808	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
-766331	89968	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491				
+764848	89526	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+764849	89527	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12
+765200	89648	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12
+765201	89647	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+765583	89773	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12
+765584	89774	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+765687	89807	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12
+765688	89808	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+766331	89968	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+765609	1241811004	43526430	dimethyl fumarate 240 MG Delayed Release Oral Capsule	1373491	EXACT			2026-03-12
+765611	1241811002	43526426	dimethyl fumarate 120 MG Delayed Release Oral Capsule	1373483	EXACT			2026-03-12

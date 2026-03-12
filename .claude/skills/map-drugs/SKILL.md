@@ -92,6 +92,7 @@ This checks header columns, date format, concept_id type, and mapping_type value
 
 ### Reference Data
 Check `.claude/skills/map-drugs/biosimilars/` for per-INN reference files listing known biosimilars with FDA names and EU equivalents.
+Check `.claude/skills/map-drugs/covid_vaccines.tsv` for known COVID-19 vaccine variant names, concentration tiers, and the current preferred RxNorm or RxNorm Extension concepts.
 
 ### Search Strategy
 Run **all** of these queries:
@@ -121,4 +122,15 @@ Example: Izamby (denosumab biosimilar, 60 MG/ML, 1 ML prefilled syringe):
 ### Important
 - Do NOT use US brand names when EU has different name (e.g., `[Merilog]`, `[Zarxio]`)
 - Do NOT use the originator brand for non-originator drug (e.g., `[Prolia]`, `[Xgeva]`)
+
+## COVID-19 Vaccines
+
+For COVID-19 vaccine folders or products, consult `covid_vaccines.tsv` before searching from scratch. It is intentionally cross-dataset and captures reusable guidance for:
+
+- platform families such as vector, mRNA, and recombinant protein vaccines
+- named ingredient and variant patterns such as `tozinameran`, `raxtozinameran`, `andusomeran`, `NVX-CoV2373`, and `Bimervax`
+- dose-tier logic such as Comirnaty 3/10/30 microgram presentations
+- conservative fallback rules for cases that should remain `BROAD` with product-specific `suggestion`
+
+Use the TSV as a lookup and a starting point, not as a folder-specific mapping table. Still verify named ingredient or variant, platform, dose tier, route/form, and whether the row is one of the documented conservative `BROAD` cases.
 

@@ -43,6 +43,31 @@ def write_tsv(path, rows):
         writer.writerows(rows)
 
 
+def fail(message):
+    print(f"ERROR: {message}", file=sys.stderr)
+    sys.exit(1)
+
+
+def validate_columns(rows, label):
+    for index, row in enumerate(rows, start=2):
+        missing = [column for column in ("cod_nacion", "nro_definitivo") if column not in row]
+        if missing:
+            fail(f"{label} row {index} is missing required columns: {', '.join(missing)}")
+
+
+def find_duplicates(rows, key):
+    seen = set()
+    duplicates = set()
+    for row in rows:
+        value = row.get(key, "").strip()
+        if not value:
+            continue
+        if value in seen:
+            duplicates.add(value)
+        seen.add(value)
+    return sorted(duplicates)
+
+
 def main():
     args = sys.argv[1:]
     backfill = "--backfill-dates" in args
@@ -57,9 +82,9 @@ def main():
 
     if backfill:
         if not mapping_path.exists():
-            print(f"ERROR: {mapping_path} not found", file=sys.stderr)
-            sys.exit(1)
+            fail(f"{mapping_path} not found")
         rows = load_tsv(mapping_path)
+        validate_columns(rows, "mapping.tsv")
         n = 0
         for row in rows:
             if not row.get("last_updated_date", "").strip():
@@ -72,10 +97,13 @@ def main():
     # Read updates from stdin
     stdin_data = sys.stdin.read().strip()
     if not stdin_data:
-        print("ERROR: no input on stdin", file=sys.stderr)
-        sys.exit(1)
+        fail("no input on stdin")
 
     updates = list(csv.DictReader(StringIO(stdin_data), delimiter="\t"))
+    validate_columns(updates, "stdin")
+    duplicate_update_cods = find_duplicates(updates, "cod_nacion")
+    if duplicate_update_cods:
+        fail(f"stdin contains duplicate cod_nacion values: {', '.join(duplicate_update_cods)}")
     for r in updates:
         if not r.get("last_updated_date", "").strip():
             r["last_updated_date"] = today
@@ -83,6 +111,10 @@ def main():
 
     # Load existing mapping (or start fresh)
     existing = load_tsv(mapping_path) if mapping_path.exists() else []
+    validate_columns(existing, "mapping.tsv")
+    duplicate_existing_cods = find_duplicates(existing, "cod_nacion")
+    if duplicate_existing_cods:
+        fail(f"mapping.tsv contains duplicate cod_nacion values: {', '.join(duplicate_existing_cods)}")
     existing_cods = {r["cod_nacion"] for r in existing}
 
     # Apply updates in place

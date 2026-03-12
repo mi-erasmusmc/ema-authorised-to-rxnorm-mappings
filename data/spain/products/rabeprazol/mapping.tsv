@@ -1,49 +1,84 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-665300	72266	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-665301	72265	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-665302	72265	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-665626	72745	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-672503	73502	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-672507	73502	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-672540	72744	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-672541	72744	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-672617	72870	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-672621	72871	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-673837	73691	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-673838	73691	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-673840	73693	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-677357	73505	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-678885	73312	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-678887	73312	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-678901	73314	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-680963	74168	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-680974	74170	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-684614	74762	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-684615	74763	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-684616	74763	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-687707	75442	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-687712	75444	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-687713	75444	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-687714	75444	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-687892	75474	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-687895	75476	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-687903	75481	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-689277	75791	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-689278	75792	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-690034	75792	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-692678	76329	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-692679	76329	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-695739	76936	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-695883	76967	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-695886	76969	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-715772	75792	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-723706	83465	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-723707	83466	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-723708	83466	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-725641	74763	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-727622	73502	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-727707	72744	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-728492	72265	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-752576	62461	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			
-752626	62462	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
-752717	62462	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			
+665300	72266	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+665301	72265	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+665302	72265	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+665626	72745	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+672503	73502	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+672507	73502	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+672540	72744	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+672541	72744	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+672617	72870	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+672621	72871	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+673837	73691	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+673838	73691	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+673840	73693	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+677357	73505	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+678885	73312	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+678887	73312	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+678901	73314	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+680963	74168	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+680974	74170	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+684614	74762	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+684615	74763	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+684616	74763	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+687707	75442	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+687712	75444	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+687713	75444	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+687714	75444	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+687892	75474	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+687895	75476	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+687903	75481	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+689277	75791	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+689278	75792	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+690034	75792	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+692678	76329	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+692679	76329	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+695739	76936	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+695883	76967	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+695886	76969	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+715772	75792	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+723706	83465	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+723707	83466	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+723708	83466	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+725641	74763	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+727622	73502	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+727707	72744	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+728492	72265	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+752576	62461	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+752626	62462	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+752717	62462	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+677397	73782	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+677404	73783	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+677417	73783	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+679606	73898	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+679616	73899	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+679618	73899	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+687701	75440	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+687704	75441	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+687705	75441	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+687900	75479	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+691800	76135	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+691813	76136	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+691815	76136	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+691984	76197	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+692198	76198	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+692680	76330	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+693290	034216186-M	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+693292	034216186-M	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+695182	76853	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+695190	76854	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+695719	76935	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+695737	76934	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+696664	77103	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+711287	355147-9	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+712093	039351010	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+712094	039351010	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+715770	73783	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+721388	3400935514790	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+721972	355147-9IP	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+724812	PL10555-0008	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+732473	BE199692IP1	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+763550	BE199692IP	19054406	rabeprazole sodium 10 MG Delayed Release Oral Tablet [Pariet]	226870	EXACT			2026-03-12
+764166	3247308042014	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+765143	034216186	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12
+767216	3247308042014IP	19054407	rabeprazole sodium 20 MG Delayed Release Oral Tablet [Pariet]	226871	EXACT			2026-03-12

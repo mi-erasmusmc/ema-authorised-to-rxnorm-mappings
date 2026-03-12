@@ -1,58 +1,101 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600543	67689	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-650223	66519	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-650224	66520	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-650294	66521	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-650806	66608	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-654163	67684	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-654164	67685	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-654165	67686	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-654173	67688	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-654174	67689	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-654175	67690	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-654700	65669	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-654708	65668	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-654716	65671	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-658519	68491	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-658520	68492	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-658607	68535	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-658608	68536	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-658610	68537	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-659990	69330	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-659991	69331	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-659992	69332	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-660932	69788	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-660947	69792	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-660948	69793	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-661664	70155	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-661665	70154	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-661667	70156	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-661859	70375	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-662076	70377	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-662077	70376	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-663174	70717	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-663175	70718	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-663176	70719	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-678362	71722	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-678586	73799	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-678591	73801	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-681764	74335	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-681766	74337	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-682899	74542	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-682909	74543	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-682918	74544	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-685180	59029	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-694596	59030	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-695822	76958	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-695847	76959	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-696730	76957	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-713697	81467	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-713698	81468	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-713699	81469	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-727537	62375	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-738740	65665	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-738963	65666	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-739318	65667	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
-829630	65938	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			
-830034	65939	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			
-830612	65940	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			
+600543	67689	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+650223	66519	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+650224	66520	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+650294	66521	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+650806	66608	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+654163	67684	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+654164	67685	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+654165	67686	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+654173	67688	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+654174	67689	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+654175	67690	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+654700	65669	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+654708	65668	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+654716	65671	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+658519	68491	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+658520	68492	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+658607	68535	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+658608	68536	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+658610	68537	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+659990	69330	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+659991	69331	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+659992	69332	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+660932	69788	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+660947	69792	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+660948	69793	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+661664	70155	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+661665	70154	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+661667	70156	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+661859	70375	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+662076	70377	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+662077	70376	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+663174	70717	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+663175	70718	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+663176	70719	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+678362	71722	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+678586	73799	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+678591	73801	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+681764	74335	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+681766	74337	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+682899	74542	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+682909	74543	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+682918	74544	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+685180	59029	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+694596	59030	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+695822	76958	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+695847	76959	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+696730	76957	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+713697	81467	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+713698	81468	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+713699	81469	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+727537	62375	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+738740	65665	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+738963	65666	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+739318	65667	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+829630	65938	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+830034	65939	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+830612	65940	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+650548	66516	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+650550	66517	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+650551	66518	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+650803	66607	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+650807	66609	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+652261	67091	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+652262	67092	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+652265	67093	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+652285	67104	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+652286	67105	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+652287	67106	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+653037	67394	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+653038	67395	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+653039	67396	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+653179	65448	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+653180	65449	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+653181	65450	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+653226	65593	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+653227	65594	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+653228	65595	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+654183	67694	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+654184	67695	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+654201	67702	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+654204	67703	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+654205	67704	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+658517	68490	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+663168	70821	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+663169	70824	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+663170	70825	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+675538	61334	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+681765	74336	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+697037	77208	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+697051	77209	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+697065	77210	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+727396	62374	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+748384	60162	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+806570	66232	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+809442	66234	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+875492	65488	40175390	pravastatin sodium 10 MG Oral Tablet	904458	EXACT			2026-03-12
+875641	65489	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+875781	65491	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
+999884	65718	40175394	pravastatin sodium 20 MG Oral Tablet	904467	EXACT			2026-03-12
+999885	65729	40175400	pravastatin sodium 40 MG Oral Tablet	904475	EXACT			2026-03-12
