@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+681528	60954	44818350	aspirin 500 MG / chlorpheniramine maleate 2 MG / phenylephrine bitartrate 8 MG Effervescent Oral Tablet	1536993	EXACT	Phenylephrine is labeled in base terms in Spain; matching the RxNorm bitartrate concept at the equivalent strength.		2026-03-12
+689380	60505	44818350	aspirin 500 MG / chlorpheniramine maleate 2 MG / phenylephrine bitartrate 8 MG Effervescent Oral Tablet	1536993	EXACT	Phenylephrine is labeled in base terms in Spain; matching the RxNorm bitartrate concept at the equivalent strength.		2026-03-12
+689398	60505	44818350	aspirin 500 MG / chlorpheniramine maleate 2 MG / phenylephrine bitartrate 8 MG Effervescent Oral Tablet	1536993	EXACT	Phenylephrine is labeled in base terms in Spain; matching the RxNorm bitartrate concept at the equivalent strength.		2026-03-12
+709527	62280	44817963	aspirin / chlorpheniramine / phenylephrine Effervescent Oral Tablet	1536839	BROAD		aspirin 500 MG / chlorpheniramine 2 MG / phenylephrine 10 MG Effervescent Oral Tablet	2026-03-12

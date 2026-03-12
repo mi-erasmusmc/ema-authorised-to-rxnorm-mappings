@@ -1,26 +1,48 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-664854	61826	1116072	zolmitriptan 2.5 MG Oral Tablet [Zomig]	153353				
-664862	61826	1116072	zolmitriptan 2.5 MG Oral Tablet [Zomig]	153353				
-680258	74016	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
-680263	74017	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-681927	74365	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
-681928	74364	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-681942	74376	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
-681943	74377	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-681945	74379	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
-681947	74381	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-681949	74383	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-681951	74385	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
-681952	74386	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-685491	74967	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
-685499	74968	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-687107	75296	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-687110	75297	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
-687116	75298	19023301	zolmitriptan 2.5 MG Oral Tablet	200193				
-687117	75298	19023301	zolmitriptan 2.5 MG Oral Tablet	200193				
-692692	76337	19023301	zolmitriptan 2.5 MG Oral Tablet	200193				
-692693	76337	19023301	zolmitriptan 2.5 MG Oral Tablet	200193				
-696103	77020	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
-715128	65163	19102214	zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]	402169	EXACT			
-780650	65795	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			
-852988	62928	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			
+664854	61826	1116072	zolmitriptan 2.5 MG Oral Tablet [Zomig]	153353	EXACT			2026-03-12
+664862	61826	1116072	zolmitriptan 2.5 MG Oral Tablet [Zomig]	153353	EXACT			2026-03-12
+680258	74016	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+680263	74017	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681927	74365	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681928	74364	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681942	74376	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681943	74377	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681945	74379	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681947	74381	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681949	74383	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681951	74385	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+681952	74386	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+685491	74967	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+685499	74968	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+687107	75296	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+687110	75297	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+687116	75298	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+687117	75298	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+692692	76337	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+692693	76337	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+696103	77020	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT	Generic; corrected from branded [Zomig] concept		2026-03-12
+715128	65163	19102214	zolmitriptan 5 MG/ACTUAT Nasal Spray [Zomig]	402169	EXACT			2026-03-12
+780650	65795	40174556	zolmitriptan 5 MG Disintegrating Oral Tablet [Zomig]	901803	EXACT			2026-03-12
+852988	62928	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			2026-03-12
+654631	3110988	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			2026-03-12
+680867	74142	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+681948	74382	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT			2026-03-12
+686113	75083	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT			2026-03-12
+686126	75084	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT			2026-03-12
+689961	75923	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+689964	75925	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT			2026-03-12
+689967	75927	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT			2026-03-12
+689987	75931	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+689988	75931	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+690013	75937	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT			2026-03-12
+690014	75938	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT			2026-03-12
+695509	76891	1116080	zolmitriptan 5 MG Disintegrating Oral Tablet	351134	EXACT			2026-03-12
+695520	76896	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+695521	76896	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+695526	76897	19071336	zolmitriptan 2.5 MG Disintegrating Oral Tablet	284201	EXACT			2026-03-12
+696058	77009	19023301	zolmitriptan 2.5 MG Oral Tablet	200193	EXACT			2026-03-12
+730652	34009_354_430_9_0	1116072	zolmitriptan 2.5 MG Oral Tablet [Zomig]	153353	EXACT			2026-03-12
+730653	34009_354_430_9_0	1116072	zolmitriptan 2.5 MG Oral Tablet [Zomig]	153353	EXACT			2026-03-12
+730946	34009_353_366_5_1	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			2026-03-12
+766691	3533665IP	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			2026-03-12
+767716	3400935336651IP	40174555	zolmitriptan 2.5 MG Disintegrating Oral Tablet [Zomig]	901802	EXACT			2026-03-12
