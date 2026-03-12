@@ -5,3 +5,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 715551	1161160010	37499740	3 ML insulin aspart, human 100 UNT/ML Cartridge [Fiasp]	2205454	EXACT			2025-12-04
 724689	1161160007	792695	insulin aspart, human 100 UNT/ML Injectable Solution [Fiasp]	1986354	EXACT			2025-12-04
 728514	1161160012	747772	1.6 ML insulin aspart, human 100 UNT/ML Cartridge [Fiasp]	2642809	EXACT			2025-12-04
+656774	99119009	46234049	3 ML insulin aspart, human 100 UNT/ML Pen Injector [NovoLog]	1653204	EXACT	NovoRapid pen mapped to equivalent NovoLog branded pen presentation		2026-03-12
+682683	99119001	1567232	insulin aspart, human 100 UNT/ML Injectable Solution [NovoLog]	351926	BROAD	RxNorm has a branded NovoLog injectable-solution concept but not an explicit 10 mL vial presentation	10 ML insulin aspart, human 100 UNT/ML Injectable Solution [NovoLog]	2026-03-12

@@ -1,46 +1,88 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661483	70067	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-661490	70070	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-661492	70072	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-661503	70079	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-661534	70094	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-661535	70091	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-672025	70069	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-672035	70071	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-672044	70096	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-719167	82461	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-719170	82464	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-719171	82465	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-719172	82466	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-719794	82617	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-719795	82618	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-719796	82619	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-719825	82633	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-719834	82634	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-719843	82635	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-719882	82645	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-719883	82646	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-719884	82647	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-720059	82708	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-720060	82709	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-720061	82710	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-720062	82711	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-720220	82732	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-720221	82733	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-720491	82810	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-720500	82811	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-723430	83382	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-723431	83383	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-723432	83384	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-723433	83385	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-723434	83386	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-723435	83387	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-727897	84843	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-727898	84844	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-727899	84845	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-731659	86217	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
-731660	86218	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-731673	86229	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-731853	86277	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			
-731868	86290	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			
-731870	86291	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			
+661483	70067	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+661490	70070	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+661492	70072	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+661503	70079	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+661534	70094	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+661535	70091	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+672025	70069	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+672035	70071	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+672044	70096	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719167	82461	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+719170	82464	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+719171	82465	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+719172	82466	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719794	82617	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+719795	82618	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719796	82619	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+719825	82633	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+719834	82634	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719843	82635	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+719882	82645	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+719883	82646	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719884	82647	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720059	82708	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+720060	82709	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720061	82710	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+720062	82711	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720220	82732	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+720221	82733	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+720491	82810	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720500	82811	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+723430	83382	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+723431	83383	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+723432	83384	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+723433	83385	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+723434	83386	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+723435	83387	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+727897	84843	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+727898	84844	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+727899	84845	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+731659	86217	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+731660	86218	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+731673	86229	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+731853	86277	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+731868	86290	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+731870	86291	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719168	82462	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719169	82463	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+719799	82620	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+719800	82621	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719801	82622	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+719802	82623	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+719803	82624	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+719804	82625	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720315	82751	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+720316	82752	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720317	82753	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+720480	82809	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+720745	82864	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+720746	82865	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720747	82866	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+720875	038983247	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+720876	038983161	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720895	038947139	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+720901	038947242	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+720992	5585324-8-2015	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+720993	5585224-8-2015	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+724577	038946137	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+724620	038946075	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+728771	85162	19127433	amlodipine 5 MG / olmesartan medoxomil 20 MG Oral Tablet	730869	EXACT			2026-03-12
+728772	85163	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+728773	85164	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+729735	038983161IP	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+730074	038947139IP	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+730075	038947242IP	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+732444	038983161IP1	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+732445	038946137IP	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+732649	038983247IP	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+763769	038946075IP	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+763949	038946075IP1	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+764137	038946137IP1	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+764138	038983247IP1	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+764187	038947139IP2	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+764188	038947242IP2	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+764328	038983161IP2	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+764783	038947242IP3	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+766003	038983161IP3	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
+768765	038947139IP3	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12

@@ -84,7 +84,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 714466	09583017	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
 714467	09583041	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
 714469	09583065	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
-723683	98086024	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+723683	98086024IP	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
 723685	98086017IP	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
 724752	98086017IP1	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
 727260	98086024IP1	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12

@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+710014	80667	19078530	insulin isophane, human 100 UNT/ML Injectable Suspension [Humulin N]	311026	BROAD	RxNorm has a branded Humulin N injectable-suspension concept but not an explicit 10 mL vial presentation	10 ML insulin isophane, human 100 UNT/ML Injectable Suspension [Humulin N]	2026-03-12
+710016	80668	1596960	3 ML insulin isophane, human 100 UNT/ML Pen Injector [Humulin N]	847199	EXACT			2026-03-12
+775932	02233003	19078530	insulin isophane, human 100 UNT/ML Injectable Suspension	311026	BROAD	RxNorm has only the broader injectable-suspension concept for Insulatard vial	10 ML insulin isophane, human 100 UNT/ML Injectable Suspension [Insulatard]	2026-03-12
+776427	02233014	46234237	3 ML insulin isophane, human 100 UNT/ML Pen Injector	1654862	EXACT	Insulatard FlexPen mapped to unbranded 3 mL NPH pen concept; no branded Insulatard pen concept found		2026-03-12

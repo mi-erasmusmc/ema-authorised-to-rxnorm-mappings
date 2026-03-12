@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+661148	96007037	46233971	insulin lispro 100 UNT/ML Pen Injector	1652641	BROAD	RxNorm does not appear to have an insulin lispro protamine-only pen concept; mapped to the broader lispro pen concept	3 ML insulin lispro protamine, human 100 UNT/ML Pen Injector [Humalog Basal]	2026-03-12

@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 697408	112807004	35602724	3 ML insulin degludec 100 UNT/ML Pen Injector [Tresiba]	1670016	EXACT			2025-12-04
 726213	112807013	35602731	3 ML insulin degludec 200 UNT/ML Pen Injector [Tresiba]	1670023	EXACT			2025-12-04
+729066	1120807007	35602722	insulin degludec 100 UNT/ML [Tresiba]	1670013	BROAD	RxNorm has branded Tresiba product concepts and pen concepts, but no explicit 3 mL cartridge concept	3 ML insulin degludec 100 UNT/ML Cartridge [Tresiba]	2026-03-12
+732108	112807004IP	35602724	3 ML insulin degludec 100 UNT/ML Pen Injector [Tresiba]	1670016	EXACT			2026-03-12
