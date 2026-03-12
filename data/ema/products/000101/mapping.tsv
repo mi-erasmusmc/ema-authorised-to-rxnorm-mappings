@@ -1,7 +1,7 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/96/012/004	21176028	2 ML Ibandronate 1 MG/ML Injection	OMOP304316	EXACT			2026-03-11
+EU/1/96/012/004	21176028	2 ML Ibandronate 1 MG/ML Injection	OMOP304316	EXACT	RxExt has naming inconsistancy with RxNorm, suggestion has appropriate name	2 ML ibandronic acid 1 MG/ML Injection	2026-03-11
 EU/1/96/012/009	40174372	ibandronic acid 50 MG Oral Tablet	904946	EXACT			2025-12-04
 EU/1/96/012/010	40174372	ibandronic acid 50 MG Oral Tablet	904946	EXACT			2025-12-04
-EU/1/96/012/011	43291575	6 ML Ibandronate 1 MG/ML Injection	OMOP562985	EXACT			2026-03-11
-EU/1/96/012/012	43291575	6 ML Ibandronate 1 MG/ML Injection	OMOP562985	EXACT			2026-03-11
-EU/1/96/012/013	43291575	6 ML Ibandronate 1 MG/ML Injection	OMOP562985	EXACT			2026-03-11
+EU/1/96/012/011	43291575	6 ML Ibandronate 1 MG/ML Injection	OMOP562985	EXACT	RxExt has naming inconsistancy with RxNorm, suggestion has appropriate name	6 ML ibandronic acid 1 MG/ML Injection	2026-03-11
+EU/1/96/012/012	43291575	6 ML Ibandronate 1 MG/ML Injection	OMOP562985	EXACT	RxExt has naming inconsistancy with RxNorm, suggestion has appropriate name	6 ML ibandronic acid 1 MG/ML Injection	2026-03-11
+EU/1/96/012/013	43291575	6 ML Ibandronate 1 MG/ML Injection	OMOP562985	EXACT	RxExt has naming inconsistancy with RxNorm, suggestion has appropriate name	6 ML ibandronic acid 1 MG/ML Injection	2026-03-11

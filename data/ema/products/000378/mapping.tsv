@@ -2,13 +2,13 @@ ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	l
 EU/1/02/218/001	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 EU/1/02/218/002	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 EU/1/02/218/003	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
-EU/1/02/218/005	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-11
-EU/1/02/218/006	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-11
+EU/1/02/218/005	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT	RxExt has naming inconsistancy with RxNorm, suggestion has appropriate name	memantine hydrochloride 10 MG/ML Oral Solution	2026-03-11
+EU/1/02/218/006	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT	RxExt has naming inconsistancy with RxNorm, suggestion has appropriate name	memantine hydrochloride 10 MG/ML Oral Solution	2026-03-11
 EU/1/02/218/007	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 EU/1/02/218/008	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 EU/1/02/218/009	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 EU/1/02/218/010	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
-EU/1/02/218/011	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-11
+EU/1/02/218/011	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT	RxExt has naming inconsistancy with RxNorm, suggestion has appropriate name	memantine hydrochloride 10 MG/ML Oral Solution	2026-03-11
 EU/1/02/218/012	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 EU/1/02/218/013	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 EU/1/02/218/014	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04

@@ -5,9 +5,10 @@ EU/1/14/918/003	21022404	canagliflozin 50 MG / Metformin 850 MG Oral Tablet	OMOP
 EU/1/14/918/004	45774719	canagliflozin 50 MG / metformin hydrochloride 1000 MG Oral Tablet	1545161	EXACT			2025-12-04
 EU/1/14/918/005	45774719	canagliflozin 50 MG / metformin hydrochloride 1000 MG Oral Tablet	1545161	EXACT			2025-12-04
 EU/1/14/918/006	45774719	canagliflozin 50 MG / metformin hydrochloride 1000 MG Oral Tablet	1545161	EXACT			2025-12-04
-EU/1/14/918/007	44123708	canagliflozin 150 MG / Metformin 850 MG Oral Tablet	OMOP1118339	EXACT			2025-12-04
-EU/1/14/918/008	44123708	canagliflozin 150 MG / Metformin 850 MG Oral Tablet	OMOP1118339	EXACT			2025-12-04
-EU/1/14/918/009	44123708	canagliflozin 150 MG / Metformin 850 MG Oral Tablet	OMOP1118339	EXACT			2025-12-04
+EU/1/14/918/007	44123708	canagliflozin 150 MG / Metformin 850 MG Oral Tablet	OMOP1118339	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	canagliflozin 150 MG / metformin hydrochloride 850 MG Oral Tablet	2025-12-04
+EU/1/14/918/008	44123708	canagliflozin 150 MG / Metformin 850 MG Oral Tablet	OMOP1118339	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	canagliflozin 150 MG / metformin hydrochloride 850 MG Oral Tablet	2025-12-04
+EU/1/14/918/009	44123708	canagliflozin 150 MG / Metformin 850 MG Oral Tablet	OMOP1118339	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	canagliflozin 150 MG / metformin hydrochloride 850 MG Oral Tablet	2025-12-04
 EU/1/14/918/010	45774710	canagliflozin 150 MG / metformin hydrochloride 1000 MG Oral Tablet	1545150	EXACT			2025-12-04
 EU/1/14/918/011	45774710	canagliflozin 150 MG / metformin hydrochloride 1000 MG Oral Tablet	1545150	EXACT			2025-12-04
 EU/1/14/918/012	45774710	canagliflozin 150 MG / metformin hydrochloride 1000 MG Oral Tablet	1545150	EXACT			2025-12-04
+
