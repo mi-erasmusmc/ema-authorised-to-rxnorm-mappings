@@ -1,5 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-720551	82823	40167846	amlodipine 10 MG / telmisartan 80 MG Oral Tablet	876519				
-720552	82824	40167852	amlodipine 5 MG / telmisartan 80 MG Oral Tablet	876529				
-757981	87953	40167846	amlodipine 10 MG / telmisartan 80 MG Oral Tablet	876519				
-757982	87954	40167852	amlodipine 5 MG / telmisartan 80 MG Oral Tablet	876529				
+720551	82823	40167846	amlodipine 10 MG / telmisartan 80 MG Oral Tablet	876519	EXACT			2026-03-12
+720552	82824	40167852	amlodipine 5 MG / telmisartan 80 MG Oral Tablet	876529	EXACT			2026-03-12
+757981	87953	40167846	amlodipine 10 MG / telmisartan 80 MG Oral Tablet	876519	EXACT			2026-03-12
+757982	87954	40167852	amlodipine 5 MG / telmisartan 80 MG Oral Tablet	876529	EXACT			2026-03-12
+603678	10648021	40167853	amlodipine 5 MG / telmisartan 80 MG Oral Tablet [Twynsta]	876533	EXACT			2026-03-12
+603679	10648028	40167847	amlodipine 10 MG / telmisartan 80 MG Oral Tablet [Twynsta]	876523	EXACT			2026-03-12
+700571	10648023	40167847	amlodipine 10 MG / telmisartan 80 MG Oral Tablet [Twynsta]	876523	EXACT			2026-03-12
+700572	10648016	40167853	amlodipine 5 MG / telmisartan 80 MG Oral Tablet [Twynsta]	876533	EXACT			2026-03-12
+711540	10648016IP	40167853	amlodipine 5 MG / telmisartan 80 MG Oral Tablet [Twynsta]	876533	EXACT			2026-03-12
+711548	10648023IP	40167847	amlodipine 10 MG / telmisartan 80 MG Oral Tablet [Twynsta]	876523	EXACT			2026-03-12

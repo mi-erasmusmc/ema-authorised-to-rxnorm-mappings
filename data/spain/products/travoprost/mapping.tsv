@@ -1,7 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-703925	79133	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008				
-704290	79222	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008				
-704575	79302	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008				
+703925	79133	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12
+704290	79222	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12
+704575	79302	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12
 706550	101199003	19071741	travoprost 0.04 MG/ML Ophthalmic Solution [Travatan]	285032	EXACT			2025-12-04
-719983	82673	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008				
-731571	86181	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008				
+719983	82673	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12
+731571	86181	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12
+703927	79134	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12
+730969	01199001IP	19071741	travoprost 0.04 MG/ML Ophthalmic Solution [Travatan]	285032	EXACT			2026-03-12
+731096	85999	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12
+731647	86208	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12
+762077	01199001IP1	19071741	travoprost 0.04 MG/ML Ophthalmic Solution [Travatan]	285032	EXACT			2026-03-12
+762782	01199001IP2	19071741	travoprost 0.04 MG/ML Ophthalmic Solution [Travatan]	285032	EXACT			2026-03-12
+959817	01199001	19071741	travoprost 0.04 MG/ML Ophthalmic Solution [Travatan]	285032	EXACT			2026-03-12
+715258	81831	19071252	travoprost 0.04 MG/ML Ophthalmic Solution	284008	BROAD			2026-03-12

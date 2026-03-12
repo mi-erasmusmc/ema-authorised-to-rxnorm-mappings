@@ -132,7 +132,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 673224	70279	19103820	venlafaxine 150 MG Extended Release Oral Capsule	411816	EXACT			2026-03-12
 677648	73581	19103819	venlafaxine 75 MG Extended Release Oral Capsule	411815	EXACT			2026-03-12
 677649	73582	19103820	venlafaxine 150 MG Extended Release Oral Capsule	411816	EXACT			2026-03-12
-679634	73903	21139984	venlafaxine Oral Solution	OMOP348971	BROAD		No exact non-branded RxNorm concept for venlafaxine 75 mg/mL oral solution; 84.8 mg/mL branded Zaredrop concept (41244909) exists but product is generic (sw_generico=1)	2026-03-12
+679634	73903	21139984	venlafaxine Oral Solution	OMOP348971	BROAD	No exact non-branded RxNorm concept for venlafaxine 75 mg/mL oral solution; 84.8 mg/mL branded Zaredrop concept (41244909) exists but product is generic (sw_generico=1)	venlafaxine 75 MG/ML Oral Solution	2026-03-12
 686541	75140	19103819	venlafaxine 75 MG Extended Release Oral Capsule	411815	EXACT			2026-03-12
 686546	75143	19103820	venlafaxine 150 MG Extended Release Oral Capsule	411816	EXACT			2026-03-12
 695678	76917	19103820	venlafaxine 150 MG Extended Release Oral Capsule	411816	EXACT			2026-03-12

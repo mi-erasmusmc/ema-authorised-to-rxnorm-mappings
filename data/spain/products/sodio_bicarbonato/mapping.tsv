@@ -8,3 +8,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 722032	65508	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364				
 908293	65507	1593935	sodium bicarbonate Injection	1868187	EXACT			
 909309	65508	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364				
+622290	47517	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-12
+646380	60454	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-12
+652635	67201	1593935	sodium bicarbonate Injection	1868187	BROAD	hemodialysis solution; volume-specific concentration not in RxNorm		2026-03-12
+711270	80983	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1g sachet oral powder		2026-03-12
+717322	35153	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1000mg/g oral powder		2026-03-12
+717330	35154	40078854	sodium bicarbonate Oral Tablet	373899	BROAD	500mg tablet		2026-03-12
+717355	35153	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1000mg/g oral powder		2026-03-12
+857722	47517	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-12
+954974	40876	44818328	citric acid 1343 MG / sodium bicarbonate 1940 MG Effervescent Oral Tablet	1536867	BROAD	effervescent tablet with citric acid; dose slightly different		2026-03-12

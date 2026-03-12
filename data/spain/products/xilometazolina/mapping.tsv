@@ -1,5 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-704916	27836	19044167	xylometazoline hydrochloride 1 MG/ML Nasal Spray [Otrivin]	210487	EXACT			
-771188	34283	19044167	xylometazoline hydrochloride 1 MG/ML Nasal Spray [Otrivin]	210487	EXACT			
-799890	37037	40101014	xylometazoline Nasal Spray	374484	BROAD			
-799908	34776	40101014	xylometazoline Nasal Spray	374484	BROAD			
+704916	27836	45776604	xylometazoline hydrochloride 1 MG/ML Nasal Solution	1549372	EXACT			2026-03-12
+771188	34283	43012072	xylometazoline hydrochloride 1 MG/ML Nasal Spray	1363493	EXACT			2026-03-12
+799890	37037	45776601	xylometazoline hydrochloride 0.5 MG/ML Nasal Solution	1549367	EXACT			2026-03-12
+799908	34776	43012072	xylometazoline hydrochloride 1 MG/ML Nasal Spray	1363493	EXACT			2026-03-12
+683757	74671	43012072	xylometazoline hydrochloride 1 MG/ML Nasal Spray	1363493	EXACT			2026-03-12

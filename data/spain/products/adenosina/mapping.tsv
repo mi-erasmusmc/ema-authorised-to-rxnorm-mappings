@@ -1,3 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606965	81604	42902566	adenosine 3 MG/ML Prefilled Syringe	1359679	EXACT			
-732147	86371	36895226	2 ML Adenosine 3 MG/ML Injectable Solution	OMOP999814	EXACT			
+606965	81604	19127133	2 ML adenosine 3 MG/ML Prefilled Syringe	727360	EXACT			2026-03-12
+732147	86371	46234177	2 ML adenosine 3 MG/ML Injection	1654169	EXACT			2026-03-12
+667659	61732	21038902	10 ML Adenosine 3 MG/ML Injection	OMOP310023	EXACT			2026-03-12
+691527	60375	46234177	2 ML adenosine 3 MG/ML Injection	1654169	EXACT			2026-03-12
+713073	36189	19111702	adenosine triphosphate 25 MG	451246	BROAD	No standard 100 MG injectable adenosine triphosphate concept was found in RxNorm.	adenosine triphosphate 100 MG Injection	2026-03-12
+714011	81545	46234177	2 ML adenosine 3 MG/ML Injection	1654169	EXACT			2026-03-12
+714012	81546	21038902	10 ML Adenosine 3 MG/ML Injection	OMOP310023	EXACT			2026-03-12

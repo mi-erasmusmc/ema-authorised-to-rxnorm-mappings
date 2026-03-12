@@ -1,5 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 720414	109522003	40224655	ulipristal acetate 30 MG Oral Tablet	1005924	EXACT			2025-12-04
-725082	83920	40224655	ulipristal acetate 30 MG Oral Tablet	1005924				
-725310	84013	40224655	ulipristal acetate 30 MG Oral Tablet	1005924				
-726676	84451	40224655	ulipristal acetate 30 MG Oral Tablet	1005924				
+725082	83920	40224655	ulipristal acetate 30 MG Oral Tablet	1005924	EXACT			2026-03-12
+725310	84013	40224655	ulipristal acetate 30 MG Oral Tablet	1005924	EXACT			2026-03-12
+726676	84451	40224655	ulipristal acetate 30 MG Oral Tablet	1005924	EXACT			2026-03-12
+663554	09522001	40224656	ulipristal acetate 30 MG Oral Tablet [Ella]	1005928	EXACT			2026-03-12
+700644	12750001	45775367	ulipristal acetate 5 MG Oral Tablet	1546350	BROAD	Esmya brand not in RxNorm		2026-03-12
+725367	84032	40224655	ulipristal acetate 30 MG Oral Tablet	1005924	EXACT			2026-03-12
+726167	84272	45775367	ulipristal acetate 5 MG Oral Tablet	1546350	EXACT			2026-03-12
+730086	109522003IP	40224656	ulipristal acetate 30 MG Oral Tablet [Ella]	1005928	EXACT			2026-03-12
+758171	09522003IP1	40224656	ulipristal acetate 30 MG Oral Tablet [Ella]	1005928	EXACT			2026-03-12
+763374	109522003IP2	40224656	ulipristal acetate 30 MG Oral Tablet [Ella]	1005928	EXACT			2026-03-12
+765499	109522003IP3	40224656	ulipristal acetate 30 MG Oral Tablet [Ella]	1005928	EXACT			2026-03-12

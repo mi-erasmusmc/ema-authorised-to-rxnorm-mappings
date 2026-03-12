@@ -1,4 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-675991	61308	964407	salicylic acid	9525	BROAD			
-842062	28438	964407	salicylic acid	9525	BROAD			
-948885	36058	964407	salicylic acid	9525	BROAD			
+675991	61308	42629152	salicylic acid Medicated Patch	1793025	BROAD	RxNorm does not represent the Spanish patch by total salicylic acid content for this size-specific presentation.	salicylic acid 3.75 MG Medicated Patch	2026-03-12
+842062	28438	19011736	salicylic acid 0.5 MG/MG Topical Ointment	142035	EXACT			2026-03-12
+948885	36058	19011736	salicylic acid 0.5 MG/MG Topical Ointment	142035	EXACT			2026-03-12
+675975	61310	42629152	salicylic acid Medicated Patch	1793025	BROAD	RxNorm does not represent the Spanish patch by total salicylic acid content for this size-specific presentation.	salicylic acid 37.5 MG Medicated Patch	2026-03-12
+675983	61309	42629152	salicylic acid Medicated Patch	1793025	BROAD	RxNorm does not represent the Spanish patch by total salicylic acid content for this size-specific presentation.	salicylic acid 15 MG Medicated Patch	2026-03-12
+849273	62873	42629152	salicylic acid Medicated Patch	1793025	BROAD	RxNorm does not represent the Spanish patch by total salicylic acid content for this size-specific presentation.	salicylic acid 2.55 MG Medicated Patch	2026-03-12
+849331	62874	42629152	salicylic acid Medicated Patch	1793025	BROAD	RxNorm does not represent the Spanish patch by total salicylic acid content for this size-specific presentation.	salicylic acid 10.35 MG Medicated Patch	2026-03-12
+849349	62875	42629152	salicylic acid Medicated Patch	1793025	BROAD	RxNorm does not represent the Spanish patch by total salicylic acid content for this size-specific presentation.	salicylic acid 30.45 MG Medicated Patch	2026-03-12

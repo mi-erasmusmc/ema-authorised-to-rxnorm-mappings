@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-703862	79107	43526082	Thymus vulgaris whole extract	1376349	BROAD		Thymus vulgaris dry extract 59.5 MG Oral Lozenge	2026-03-12
-708058	80289	43526082	Thymus vulgaris whole extract	1376349	BROAD		Thymus vulgaris liquid extract 110 MG/ML Oral Solution	2026-03-12
+703862	79107	43526082	Thymus vulgaris whole extract	1376349	BROAD	No RxNorm concept for Thymus vulgaris dry extract lozenge; mapping to ingredient-level extract.	Thymus vulgaris dry extract 59.5 MG Oral Lozenge	2026-03-12
+708058	80289	43526082	Thymus vulgaris whole extract	1376349	BROAD	No RxNorm concept for Thymus vulgaris liquid extract oral solution; mapping to ingredient-level extract.	Thymus vulgaris liquid extract 110 MG/ML Oral Solution	2026-03-12

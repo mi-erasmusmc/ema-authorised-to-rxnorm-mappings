@@ -20,3 +20,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703589	79048	40100497	plasma protein fraction Injectable Solution	377532	EXACT			
 726123	84249	19020267	albumin human, USP 200 MG/ML [Albutein]	566242	EXACT			
 726124	84249	19020267	albumin human, USP 200 MG/ML [Albutein]	566242	EXACT			
+670604	46162	19020267	albumin human, USP 200 MG/ML [Albutein]	566242	EXACT	Albutein 200g/L 10ml vial		2026-03-12
+670612	46162	19020267	albumin human, USP 200 MG/ML [Albutein]	566242	EXACT	Albutein 200g/L 50ml vial		2026-03-12
+670620	46162	19020267	albumin human, USP 200 MG/ML [Albutein]	566242	EXACT	Albutein 200g/L 100ml vial		2026-03-12
+748293	49305	35605716	albumin human, USP 200 MG/ML Injection	1741293	EXACT	Albumina Humana Behring 20% 50ml		2026-03-12
+753772	49305	35605716	albumin human, USP 200 MG/ML Injection	1741293	EXACT	Albumina Humana Behring 20% 100ml		2026-03-12

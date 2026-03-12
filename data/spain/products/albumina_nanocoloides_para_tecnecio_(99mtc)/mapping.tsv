@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-695599	76905	44121015	Albumin Human, USP Intravenous Suspension	OMOP1115646	EXACT			
-695600	76905	44121015	Albumin Human, USP Intravenous Suspension	OMOP1115646	EXACT			
+695599	76905	1344143	albumin human, USP	828529	BROAD	Radiopharmaceutical nanocolloid albumin kit for technetium-99m; no clean standard nanocolloid kit concept was found in RxNorm.	human albumin 500 MCG Kit for radiopharmaceutical preparation	2026-03-12
+695600	76905	1344143	albumin human, USP	828529	BROAD	Radiopharmaceutical nanocolloid albumin kit for technetium-99m; no clean standard nanocolloid kit concept was found in RxNorm.	human albumin 500 MCG Kit for radiopharmaceutical preparation	2026-03-12
+664166	71080	1344143	albumin human, USP	828529	BROAD	Radiopharmaceutical nanocolloid albumin kit for technetium-99m; no clean standard nanocolloid kit concept was found in RxNorm.	human albumin 500 MCG Kit for radiopharmaceutical preparation	2026-03-12
+702020	78643	1344143	albumin human, USP	828529	BROAD	Radiopharmaceutical nanocolloid albumin kit for technetium-99m; no clean standard nanocolloid kit concept was found in RxNorm.	human albumin 500 MCG Kit for radiopharmaceutical preparation	2026-03-12

@@ -1,4 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-696129	77024	19010708	sodium tetradecyl sulfate 2 MG/ML Injectable Solution	108908				
-696130	77025	19009158	sodium tetradecyl sulfate 5 MG/ML Injectable Solution	106657				
-696133	77027	19027594	sodium tetradecyl sulfate 30 MG/ML Injectable Solution	204491				
+696129	77024	19010708	sodium tetradecyl sulfate 2 MG/ML Injectable Solution	108908	EXACT			2026-03-12
+696130	77025	19009158	sodium tetradecyl sulfate 5 MG/ML Injectable Solution	106657	EXACT			2026-03-12
+696133	77027	19027594	sodium tetradecyl sulfate 30 MG/ML Injectable Solution	204491	EXACT			2026-03-12
+696131	77026	19027593	sodium tetradecyl sulfate 10 MG/ML Injectable Solution	204490	EXACT			2026-03-12

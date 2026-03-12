@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+758896	53313	19039512	sobrerol	36669	BROAD	suppository 100mg; no RxNorm concept for sobrerol suppository		2026-03-12
+758920	53311	40148076	sobrerol Oral Solution	757260	BROAD	syrup 8mg/ml; mapped to sobrerol oral solution		2026-03-12
+824839	53315	19039512	sobrerol	36669	BROAD	suppository 200mg; no RxNorm concept for sobrerol suppository		2026-03-12
+824870	53070	19039512	sobrerol	36669	BROAD	inhalation solution 40mg/3ml; no RxNorm concept for sobrerol inhalation		2026-03-12
+824888	53314	19103312	sobrerol 100 MG Oral Capsule	410009	EXACT	100mg hard capsule		2026-03-12

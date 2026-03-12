@@ -1,2 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-730661	85873	43693367	urapidil 5 MG/ML Injectable Solution	OMOP950545				
+730661	85873	43693367	urapidil 5 MG/ML Injectable Solution	OMOP950545	EXACT			2026-03-12
+645820	60241	43693367	urapidil 5 MG/ML Injectable Solution	OMOP950545	EXACT			2026-03-12
+694413	76741	43693367	urapidil 5 MG/ML Injectable Solution	OMOP950545	EXACT			2026-03-12

@@ -1,13 +1,32 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-763988	89222	780444	varenicline 0.5 MG Oral Tablet	636671				
-763989	89221	780446	varenicline 1 MG Oral Tablet	636676				
-763990	89221	780446	varenicline 1 MG Oral Tablet	636676				
-764693	89490	780444	varenicline 0.5 MG Oral Tablet	636671				
-764694	89491	780446	varenicline 1 MG Oral Tablet	636676				
-764695	89491	780446	varenicline 1 MG Oral Tablet	636676				
-764855	89534	780444	varenicline 0.5 MG Oral Tablet	636671				
-764856	89535	780446	varenicline 1 MG Oral Tablet	636676				
-765893	89857	780444	varenicline 0.5 MG Oral Tablet	636671				
-765894	89858	780446	varenicline 1 MG Oral Tablet	636676				
-768177	90476	780446	varenicline 1 MG Oral Tablet	636676				
-768180	90477	780444	varenicline 0.5 MG Oral Tablet	636671				
+763988	89222	780444	varenicline 0.5 MG Oral Tablet	636671	EXACT			2026-03-12
+763989	89221	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2026-03-12
+763990	89221	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2026-03-12
+764693	89490	780444	varenicline 0.5 MG Oral Tablet	636671	EXACT			2026-03-12
+764694	89491	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2026-03-12
+764695	89491	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2026-03-12
+764855	89534	780444	varenicline 0.5 MG Oral Tablet	636671	EXACT			2026-03-12
+764856	89535	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2026-03-12
+765893	89857	780444	varenicline 0.5 MG Oral Tablet	636671	EXACT			2026-03-12
+765894	89858	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2026-03-12
+768177	90476	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2026-03-12
+768180	90477	780444	varenicline 0.5 MG Oral Tablet	636671	EXACT			2026-03-12
+656180	06360004	19124311	varenicline 1 MG Oral Tablet [Chantix]	637190	EXACT			2026-03-12
+656183	106360016	19124311	varenicline 1 MG Oral Tablet [Chantix]	637190	EXACT			2026-03-12
+656184	06360001	780447	varenicline 0.5 MG Oral Tablet [Chantix]	637188	EXACT			2026-03-12
+659053	06360011	19124311	varenicline 1 MG Oral Tablet [Chantix]	637190	EXACT			2026-03-12
+693201	06360011IP	19124311	varenicline 1 MG Oral Tablet [Chantix]	637190	EXACT			2026-03-12
+693205	06360004IP	19124311	varenicline 1 MG Oral Tablet [Chantix]	637190	EXACT			2026-03-12
+697865	106360015	19124311	varenicline 1 MG Oral Tablet [Chantix]	637190	EXACT			2026-03-12
+697866	06360005	19124311	varenicline 1 MG Oral Tablet [Chantix]	637190	EXACT			2026-03-12
+697867	106360022	19124311	varenicline 1 MG Oral Tablet [Chantix]	637190	EXACT			2026-03-12
+660968	106360023	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	EXACT			2026-03-12
+693210	06360012IP	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	EXACT			2026-03-12
+697864	06360012	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	EXACT			2026-03-12
+656179	06360003	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	BROAD		varenicline 0.5 MG + 1 MG Oral Tablet Pack [Chantix] 25-count	2026-03-12
+697863	106360014	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	BROAD		varenicline 0.5 MG + 1 MG Oral Tablet Pack [Chantix] 25-count	2026-03-12
+763991	89220	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-12
+764692	89489	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-12
+764854	89533	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-12
+765892	89856	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-12
+768179	90475	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	BROAD		varenicline 0.5 MG + 1 MG Oral Tablet Pack (strength and count unconfirmed; des_dosific En revision)	2026-03-12

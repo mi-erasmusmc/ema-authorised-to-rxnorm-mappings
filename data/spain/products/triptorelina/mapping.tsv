@@ -1,3 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-665072	72077	40174076	triptorelin 11.25 MG Injection	905062	BROAD			
-742247	64530	1593019	triptorelin Injection	1863371	EXACT			
+665072	72077	40174072	triptorelin 22.5 MG Injection	905053	EXACT			2026-03-12
+742247	64530	1343040	triptorelin 3.75 MG Injection	199821	EXACT			2026-03-12
+668889	61665	40174076	triptorelin 11.25 MG Injection	905062	EXACT			2026-03-12
+745174	62431	1593019	triptorelin Injection	1863371	BROAD	No 0.1 mg strength in RxNorm		2026-03-12
+990325	58404	1343040	triptorelin 3.75 MG Injection	199821	EXACT			2026-03-12

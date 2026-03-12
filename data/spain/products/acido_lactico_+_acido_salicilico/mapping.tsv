@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+842054	08690	40050348	lactate / salicylic acid Topical Ointment	379425	BROAD	RxNorm lacks the Spanish 50 MG/G plus 300 MG/G ointment presentation as a standard concept.	lactic acid 50 MG/G / salicylic acid 300 MG/G Topical Ointment	2026-03-12
+952770	55796	19078756	lactic acid 167 MG/ML / salicylic acid 167 MG/ML Topical Solution	311250	EXACT			2026-03-12
+977769	57626	40050349	lactate / salicylic acid Topical Solution	373813	BROAD	RxNorm lacks a standard 150 MG/ML plus 150 MG/ML topical solution concept.	lactic acid 150 MG/ML / salicylic acid 150 MG/ML Topical Solution	2026-03-12

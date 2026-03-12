@@ -15,3 +15,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 767530	1211608007	793147	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector	1991306	EXACT			2025-12-04
 767868	1171251003	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2025-12-04
 767870	1171251005	37003617	3 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	2398842	EXACT			2025-12-04
+723345	117251002	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2026-03-12
+765727	1171251002IP	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2026-03-12
+765728	1171251003IP	793152	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	1991311	EXACT			2026-03-12
+765729	1171251005IP	37003617	3 ML semaglutide 1.34 MG/ML Pen Injector [Ozempic]	2398842	EXACT			2026-03-12
+767121	1211608007IP	793147	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector	1991306	EXACT			2026-03-12
+767122	1211608006IP	741832	0.25 MG, 0.5 MG Dose 3 ML semaglutide 0.68 MG/ML Pen Injector	2619152	BROAD		0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 0.68 MG/ML Pen Injector [Wegovy]	2026-03-12
+767123	1211608008IP	37003616	3 ML semaglutide 1.34 MG/ML Pen Injector	2398841	EXACT			2026-03-12
+767124	1211608009IP	1537039	semaglutide 2.27 MG/ML Auto-Injector [Wegovy]	2553905	BROAD		3 ML semaglutide 2.27 MG/ML Pen Injector [Wegovy]	2026-03-12
+767125	1211608010IP	1537043	semaglutide 3.2 MG/ML Auto-Injector [Wegovy]	2554106	BROAD		3 ML semaglutide 3.2 MG/ML Pen Injector [Wegovy]	2026-03-12

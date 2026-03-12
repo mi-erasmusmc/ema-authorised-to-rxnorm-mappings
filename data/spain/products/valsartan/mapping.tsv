@@ -151,9 +151,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606271	77987	35159471	valsartan 40 MG Disintegrating Oral Tablet	OMOP4816455	EXACT			2026-03-12
 606272	77988	35141040	valsartan 80 MG Disintegrating Oral Tablet	OMOP4798172	EXACT			2026-03-12
 606273	77989	35159780	valsartan 160 MG Disintegrating Oral Tablet	OMOP4816763	EXACT			2026-03-12
-606274	77990	35132860	valsartan Disintegrating Oral Tablet	OMOP4790080	BROAD		No 320 MG Disintegrating Oral Tablet concept exists in RxNorm or Extension	2026-03-12
+606274	77990	35132860	valsartan Disintegrating Oral Tablet	OMOP4790080	BROAD		valsartan 320 MG Disintegrating Oral Tablet	2026-03-12
 699661	77987	35159471	valsartan 40 MG Disintegrating Oral Tablet	OMOP4816455	EXACT			2026-03-12
 699662	77987	35159471	valsartan 40 MG Disintegrating Oral Tablet	OMOP4816455	EXACT			2026-03-12
 699663	77988	35141040	valsartan 80 MG Disintegrating Oral Tablet	OMOP4798172	EXACT			2026-03-12
 699664	77989	35159780	valsartan 160 MG Disintegrating Oral Tablet	OMOP4816763	EXACT			2026-03-12
-699665	77990	35132860	valsartan Disintegrating Oral Tablet	OMOP4790080	BROAD		No 320 MG Disintegrating Oral Tablet concept exists in RxNorm or Extension	2026-03-12
+699665	77990	35132860	valsartan Disintegrating Oral Tablet	OMOP4790080	BROAD		valsartan 320 MG Disintegrating Oral Tablet	2026-03-12

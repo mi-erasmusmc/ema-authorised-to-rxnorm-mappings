@@ -9,6 +9,18 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 712274	81177	36250015	incobotulinumtoxinA 100 UNT [Xeomin]	1797433	EXACT			
 712276	81177	36250015	incobotulinumtoxinA 100 UNT [Xeomin]	1797433	EXACT			
 714423	80801	35605874	incobotulinumtoxinA 200 UNT Injection [Xeomin]	1732165	EXACT			
-732749	1191364002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	INCORRECT		prabotulinumtoxinA-xvfs 50 UNT Injection [Nuceiva]	2025-12-04
-764717	1191364002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	INCORRECT		prabotulinumtoxinA-xvfs 50 UNT Injection [Nuceiva]	2025-12-04
+732749	1191364002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	BROAD	Nuceiva 50U: no 50 UNT prabotulinumtoxinA concept in RxNorm		2026-03-12
+764717	1191364002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	BROAD	Nuceiva 50U: no 50 UNT prabotulinumtoxinA concept in RxNorm		2026-03-12
 888172	63194	40165654	onabotulinumtoxinA 100 UNT Injection [Botox]	860195	EXACT			
+605396	70602	35604247	onabotulinumtoxinA 50 UNT Injection	1726293	EXACT			2026-03-12
+605577	72709	35605870	incobotulinumtoxinA 50 UNT Injection [Xeomin]	1732157	EXACT			2026-03-12
+650509	65837	35604250	onabotulinumtoxinA 50 UNT Injection [Botox Cosmetic]	1726296	EXACT			2026-03-12
+652105	65837	35604250	onabotulinumtoxinA 50 UNT Injection [Botox Cosmetic]	1726296	EXACT			2026-03-12
+663750	71300	42629323	abobotulinumtoxinA 500 UNT Injection	1789950	BROAD	No 125 UNT concept in RxNorm; Azzalure brand not in RxNorm		2026-03-12
+674724	72709	35605870	incobotulinumtoxinA 50 UNT Injection [Xeomin]	1732157	EXACT			2026-03-12
+674725	72709	35605870	incobotulinumtoxinA 50 UNT Injection [Xeomin]	1732157	EXACT			2026-03-12
+724564	65837	35604252	onabotulinumtoxinA 100 UNT Injection [Botox Cosmetic]	1726313	EXACT			2026-03-12
+731530	86170	35605867	botulinum toxin type A Injection	1732153	BROAD	Alluzience brand not in RxNorm; liquid formulation at 200U/mL		2026-03-12
+757976	87951	1734915	letibotulinumtoxinA-wlbg 50 UNT Injection	2689299	EXACT			2026-03-12
+765551	89758	1734912	botulinum toxin type A Injection [Letybo]	2689295	BROAD	Relfydess 150U not available as discrete concept; mapped to Letybo product		2026-03-12
+765553	89758	1734912	botulinum toxin type A Injection [Letybo]	2689295	BROAD	Relfydess 150U not available as discrete concept; mapped to Letybo product		2026-03-12

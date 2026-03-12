@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-758209	1201507004	37003432	SARS-CoV-2 (COVID-19) vaccine, mRNA spike protein	2468231	BROAD	No BA.1-specific Moderna concept found in current search results	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 / SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (BA.1) Injectable Suspension [Spikevax]	2026-03-12
+758209	1201507004	37003432	SARS-CoV-2 (COVID-19) vaccine, mRNA spike protein	2468231	BROAD	No BA.1-specific bivalent Moderna concept in RxNorm; closest available is generic mRNA spike protein	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 / mRNA-1273.214 (Omicron BA.1) 50 MCG/0.5 ML Injectable Suspension [Spikevax Bivalent Original/Omicron BA.1]	2026-03-12

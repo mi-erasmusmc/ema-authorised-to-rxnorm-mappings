@@ -1,6 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-757400	87916	2913923	sapropterin 100 MG Effervescent Oral Tablet	OMOP5130719				
-759855	1211620003	40239922	sapropterin dihydrochloride 100 MG Powder for Oral Solution	1111018	EXACT			2025-12-04
-759856	1211620004	46234056	sapropterin dihydrochloride 500 MG Powder for Oral Solution	1653217	EXACT			2025-12-04
-764537	89442	2913923	sapropterin 100 MG Effervescent Oral Tablet	OMOP5130719				
-765876	89850	2913923	sapropterin 100 MG Effervescent Oral Tablet	OMOP5130719				
+757400	87916	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT			2026-03-12
+759855	1211620003	40239922	sapropterin dihydrochloride 100 MG Powder for Oral Solution	1111018	EXACT			2026-03-12
+759856	1211620004	46234056	sapropterin dihydrochloride 500 MG Powder for Oral Solution	1653217	EXACT			2026-03-12
+764537	89442	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT			2026-03-12
+765876	89850	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT			2026-03-12
+662019	08481002	44785377	sapropterin dihydrochloride 100 MG Oral Tablet [Kuvan]	1486691	EXACT			2026-03-12

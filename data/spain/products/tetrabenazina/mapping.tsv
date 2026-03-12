@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661614	70142	19006311	tetrabenazine 25 MG Oral Tablet [Nitoman]	105062				
-674018	72730	836878	tetrabenazine 25 MG Oral Tablet	199592				
-716292	82080	836878	tetrabenazine 25 MG Oral Tablet	199592				
-725864	84164	836878	tetrabenazine 25 MG Oral Tablet	199592				
+661614	70142	19006311	tetrabenazine 25 MG Oral Tablet [Nitoman]	105062	BROAD		tetrabenazine 25 MG Oral Tablet (brand: Nitoman, UK)	2026-03-12
+674018	72730	836878	tetrabenazine 25 MG Oral Tablet	199592	EXACT			2026-03-12
+716292	82080	836878	tetrabenazine 25 MG Oral Tablet	199592	EXACT			2026-03-12
+725864	84164	836878	tetrabenazine 25 MG Oral Tablet	199592	EXACT			2026-03-12

@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650208	66373	40960789	Gadobenate 529 MG/ML Injectable Solution	OMOP2158751				
-650209	66373	40960789	Gadobenate 529 MG/ML Injectable Solution	OMOP2158751				
-650210	66373	40960789	Gadobenate 529 MG/ML Injectable Solution	OMOP2158751				
-667995	71048	19007652	gadobenate	692620	BROAD			
+650208	66373	40960789	Gadobenate 529 MG/ML Injectable Solution	OMOP2158751	EXACT			2026-03-12
+650209	66373	40960789	Gadobenate 529 MG/ML Injectable Solution	OMOP2158751	EXACT			2026-03-12
+650210	66373	40960789	Gadobenate 529 MG/ML Injectable Solution	OMOP2158751	EXACT			2026-03-12
+667995	71048	21176561	20 ML Gadobenate 0.5 MMOL/ML Prefilled Syringe [MultiHance]	OMOP314231	EXACT			2026-03-12

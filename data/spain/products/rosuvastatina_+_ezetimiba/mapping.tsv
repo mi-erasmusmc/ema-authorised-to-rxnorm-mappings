@@ -1,44 +1,79 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-719044	82426	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-724254	83657	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-724258	83658	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-724267	83660	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-725658	84121	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-725660	84122	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-727390	84659	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-727397	84660	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-729195	85376	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-729196	85377	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-729197	85378	36026846	ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet	2535749				
-729198	85379	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747				
+719044	82426	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+724254	83657	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+724258	83658	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+724267	83660	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+725658	84121	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+725660	84122	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+727390	84659	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+727397	84660	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+729195	85376	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+729196	85377	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+729197	85378	36026846	ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet	2535749	EXACT			2026-03-12
+729198	85379	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747	EXACT			2026-03-12
 732173	86386	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			
 732174	86387	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			
-733102	86676	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-733103	86677	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-758602	88165	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-758603	88166	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-758604	88167	36026846	ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet	2535749				
-758605	88168	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-758606	88169	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-758608	88170	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-758609	88171	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-759975	88392	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747				
-759976	88393	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-759978	88394	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-760531	88437	36026844	ezetimibe / rosuvastatin Oral Tablet	2535746	BROAD			
-760532	88438	36026844	ezetimibe / rosuvastatin Oral Tablet	2535746	BROAD			
+733102	86676	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+733103	86677	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+758602	88165	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+758603	88166	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+758604	88167	36026846	ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet	2535749	EXACT			2026-03-12
+758605	88168	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+758606	88169	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+758608	88170	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+758609	88171	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+759975	88392	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747	EXACT			2026-03-12
+759976	88393	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+759978	88394	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+760531	88437	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+760532	88438	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
 762453	88748	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			
 762454	88749	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			
 762455	88750	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747	EXACT			
-762713	88823	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-762714	88824	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-764958	89576	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-764959	89577	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
-765034	89603	36026844	ezetimibe / rosuvastatin Oral Tablet	2535746	BROAD			
-765035	89604	36026846	ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet	2535749				
-765654	89791	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750				
-765655	89792	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745				
+762713	88823	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+762714	88824	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+764958	89576	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+764959	89577	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+765034	89603	36026844	ezetimibe / rosuvastatin Oral Tablet	2535746	BROAD			2026-03-12
+765035	89604	36026846	ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet	2535749	EXACT			2026-03-12
+765654	89791	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+765655	89792	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
 765694	89811	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			
 765695	89805	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			
-768618	90607	36026844	ezetimibe / rosuvastatin Oral Tablet	2535746	BROAD			
-768619	90606	36026844	ezetimibe / rosuvastatin Oral Tablet	2535746	BROAD			
+768618	90607	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+768619	90606	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+703598	79051	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
+703615	79053	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+729569	22082	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+729584	22082IP	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+729585	22083IP	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
+729587	22083	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
+730646	22083IP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
+730647	22082IP1	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+732407	24220	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+732449	31-511-16-C	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+732450	31-365-17-C	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+733104	86678	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747	EXACT			2026-03-12
+760588	22082IP2	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+760589	22083IP2	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
+762861	31-511-16-CIP1	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+762870	31-365-17-CIP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+762975	31-511-16-CIP2	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+762976	31-365-17-CIP2	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+763127	31-365-17-CIP3	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+763992	3147917C	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+764016	3147817C	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+765168	3147917CIP	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+765169	3147817CIP	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+765259	3147917CIP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+765302	3147817CIP1	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+766695	20180338	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
+767033	3135514C	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
+767701	3147917CIP2	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+768615	3135414C	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+768616	3135514CIP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
+768841	043496037	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+768842	043496102IP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12
+768848	3135414CIP	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+769719	3135414CIP1	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD			2026-03-12
+769720	3135514CIP2	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD			2026-03-12

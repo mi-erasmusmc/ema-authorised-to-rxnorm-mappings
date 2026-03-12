@@ -1,8 +1,26 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 695770	112800003	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2025-12-04
-695772	112800002	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2025-12-04
-695993	112786003	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2025-12-04
-696607	77085	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			
-700137	78102	36787243	zoledronic acid Intravenous Solution	OMOP4775508	BROAD			
-709871	80629	36787243	zoledronic acid Intravenous Solution	OMOP4775508	BROAD			
-765869	89848	19126450	100 ML zoledronic acid 0.05 MG/ML Injection	705824	EXACT			
+695772	112800002	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+695993	112786003	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+696607	77085	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2026-03-12
+700137	78102	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2026-03-12
+709871	80629	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2026-03-12
+765869	89848	19126450	100 ML zoledronic acid 0.05 MG/ML Injection	705824	EXACT			2026-03-12
+606290	78125	19126450	100 ML zoledronic acid 0.05 MG/ML Injection	705824	EXACT			2026-03-12
+606291	78126	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2026-03-12
+651212	05308001	19126472	100 ML zoledronic acid 0.05 MG/ML Injection [Reclast]	705875	EXACT			2026-03-12
+684173	01176007	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2026-03-12
+692443	76294	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+693266	76505	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2026-03-12
+693608	11275901	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+694124	76675	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT	Prefilled syringe and vial share the same 4 mg/5 mL concentrate presentation; RxNorm does not distinguish this specific perfusion prefilled syringe form.		2026-03-12
+694266	12771004	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+696234	77043	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+697242	77261	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+697624	77406	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+699100	77847	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+700165	78125	19126450	100 ML zoledronic acid 0.05 MG/ML Injection	705824	EXACT			2026-03-12
+700166	78126	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2026-03-12
+700987	78322	40241455	100 ML zoledronic acid 0.04 MG/ML Injection	1114085	EXACT			2026-03-12
+714039	81551	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12
+779595	01176004	1524675	5 ML zoledronic acid 0.8 MG/ML Injection	351114	EXACT			2026-03-12

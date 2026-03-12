@@ -4,11 +4,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 707005	1151000007	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	EXACT			2025-12-04
 707006	1151000010	1510749	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 60 MG Oral Tablet) } Pack	2044966	EXACT			2025-12-04
 707007	1151000013	1510753	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 90 MG Oral Tablet) } Pack	2044970	EXACT			2025-12-04
-728263	84992	19036832	tolvaptan 30 MG Oral Tablet	849833				
-728277	84994	19036799	tolvaptan 15 MG Oral Tablet	849827				
-728282	84995	19036832	tolvaptan 30 MG Oral Tablet	849833				
-728286	84996	19036799	tolvaptan 15 MG Oral Tablet	849827				
+728263	84992	37353701	tolvaptan 30 MG Oral Tablet	2719337	EXACT			2026-03-12
+728277	84994	37353700	tolvaptan 15 MG Oral Tablet	2719335	EXACT			2026-03-12
+728282	84995	37353701	tolvaptan 30 MG Oral Tablet	2719337	EXACT			2026-03-12
+728286	84996	37353700	tolvaptan 15 MG Oral Tablet	2719335	EXACT			2026-03-12
 730243	109539007	35143472	tolvaptan 7.5 MG Oral Tablet [Samsca]	OMOP4800573	EXACT			2025-12-04
 762436	1231719002	35145367	tolvaptan 7.5 MG Oral Tablet	OMOP4802458	EXACT			2025-12-04
-762437	1231719006	19036799	Hyponatremia tolvaptan 15 MG Oral Tablet	849827	EXACT			2026-03-11
-762438	1231719010	19036832	Hyponatremia tolvaptan 30 MG Oral Tablet	849833	EXACT			2026-03-11
+762437	1231719006	37353700	tolvaptan 15 MG Oral Tablet	2719335	EXACT			2026-03-12
+762438	1231719010	37353701	tolvaptan 30 MG Oral Tablet	2719337	EXACT			2026-03-12
+663723	09539001	19036800	Hyponatremia tolvaptan 15 MG Oral Tablet [Samsca]	849831	EXACT			2026-03-12
+663726	09539003	19036833	Hyponatremia tolvaptan 30 MG Oral Tablet [Samsca]	849835	EXACT			2026-03-12
+728258	84991	1510749	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 60 MG Oral Tablet) } Pack	2044966	EXACT			2026-03-12
+728269	84993	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	EXACT			2026-03-12
+728293	84997	1510753	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 90 MG Oral Tablet) } Pack	2044970	EXACT			2026-03-12

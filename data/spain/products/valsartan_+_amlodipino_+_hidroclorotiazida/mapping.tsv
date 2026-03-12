@@ -1,44 +1,63 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 701935	109574050	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2025-12-04
 702080	109569050	974861	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet [Exforge HCT]	848139	EXACT			2025-12-04
-724506	83739	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131				
-724507	83740	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140				
-724508	83741	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-724509	83742	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151				
-724510	83743	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145				
-725177	83955	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151				
-725178	83956	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-725187	83963	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145				
-725188	83964	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131				
-725189	83965	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140				
-725733	84135	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			
-727414	84665	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131				
-727415	84666	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151				
-727416	84667	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-727417	84668	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140				
-727418	84669	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145				
-728792	85175	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131				
-728793	85176	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151				
-728794	85177	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-728795	85178	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140				
-728796	85179	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145				
-728936	85251	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131				
-728937	85252	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145				
-728938	85253	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140				
-728939	85254	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-728940	85255	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151				
-729023	85291	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145				
-729024	85292	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-729025	85293	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151				
-729034	85301	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131				
-729040	85304	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140				
-729125	85353	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-729130	85356	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140				
-730209	85710	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			
-730211	85711	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-730215	85713	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			
-732094	86361	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131				
-732095	86362	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151				
-732096	86363	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135				
-732097	86364	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140				
-732098	86365	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145				
+724506	83739	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+724507	83740	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+724508	83741	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+724509	83742	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+724510	83743	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+725177	83955	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+725178	83956	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+725187	83963	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+725188	83964	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+725189	83965	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+725733	84135	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+727414	84665	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+727415	84666	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+727416	84667	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+727417	84668	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+727418	84669	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+728792	85175	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+728793	85176	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+728794	85177	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+728795	85178	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+728796	85179	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+728936	85251	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+728937	85252	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+728938	85253	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+728939	85254	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+728940	85255	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+729023	85291	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+729024	85292	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+729025	85293	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+729034	85301	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+729040	85304	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+729125	85353	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+729130	85356	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+730209	85710	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+730211	85711	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+730215	85713	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+732094	86361	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+732095	86362	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+732096	86363	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+732097	86364	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+732098	86365	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+654851	09569002	974883	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848144	EXACT			2026-03-12
+654852	09569014	974859	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848134	EXACT			2026-03-12
+654853	09569026	974885	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848149	EXACT			2026-03-12
+654854	09569038	974887	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848155	EXACT			2026-03-12
+654858	09574014	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+654859	09574038	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+654860	09574002	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+654861	09574026	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+725706	84133	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+725719	84134	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
+725746	84136	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+725764	84138	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+727093	84563	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+727122	84564	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+727150	84565	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
+729128	85354	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
+729129	85355	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
+730207	85709	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
+730213	85712	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12

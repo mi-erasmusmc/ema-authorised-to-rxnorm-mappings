@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+789768	42454	40892902	heparin / Salicylic Acid Topical Ointment	OMOP2090864	EXACT	Spain labels heparinoide; RxNorm's closest standard representation uses heparin for this topical combination.		2026-03-12
+944744	55298	40047381	heparinoids / salicylic acid Topical Gel	385180	EXACT			2026-03-12

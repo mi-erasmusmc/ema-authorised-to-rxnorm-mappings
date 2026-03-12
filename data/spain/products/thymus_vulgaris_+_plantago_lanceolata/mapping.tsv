@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-710987	80909	43526082	Thymus vulgaris whole extract	1376349	BROAD	Plantago lanceolata leaf extract is not represented in the chosen RxNorm concept.	Thymus vulgaris liquid extract 192 MG/ML / Plantago lanceolata leaf liquid extract 38 MG/ML Oral Solution	2026-03-12
+710987	80909	43526082	Thymus vulgaris whole extract	1376349	BROAD	No RxNorm combination concept for Thymus vulgaris + Plantago lanceolata leaf extract oral solution; Plantago lanceolata leaf extract not represented.	Thymus vulgaris liquid extract 192 MG/ML / Plantago lanceolata leaf liquid extract 38 MG/ML Oral Solution	2026-03-12

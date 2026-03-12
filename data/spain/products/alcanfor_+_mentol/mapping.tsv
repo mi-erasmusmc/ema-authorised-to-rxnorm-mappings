@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+772178	22399	43261724	Camphor / Menthol Inhalant Solution	OMOP537883	BROAD	RxNorm does not appear to contain the Spanish nasal stick presentation as a distinct concept.	camphor 396.7 MG/ML / menthol 396.7 MG/ML Nasal Inhalant	2026-03-12

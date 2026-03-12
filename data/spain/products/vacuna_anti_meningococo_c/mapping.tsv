@@ -1,2 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-706479	79867	36884609	Neisseria meningitidis serogroup C oligosaccharide diphtheria CRM197 protein conjugate vaccine Injectable Suspension	OMOP996060	BROAD			
+706479	79867	40173205	Neisseria meningitidis serogroup C oligosaccharide diphtheria CRM197 protein conjugate vaccine	901507	MAPS_TO	Menjugate (CRM197 oligosaccharide conjugate); no single serogroup C injection SCD in RxNorm		2026-03-12
+602687	69333	40173205	Neisseria meningitidis serogroup C oligosaccharide diphtheria CRM197 protein conjugate vaccine	901507	MAPS_TO	Meningitec (CRM197 conjugate); no single serogroup C injection SCD in RxNorm		2026-03-12
+632141	64096	1145514	Neisseria meningitidis serogroup C capsular polysaccharide tetanus toxoid protein conjugate vaccine	2360572	MAPS_TO	Neisvac-C (tetanus toxoid conjugate); no single serogroup C injection SCD in RxNorm		2026-03-12
+650785	66600	40173205	Neisseria meningitidis serogroup C oligosaccharide diphtheria CRM197 protein conjugate vaccine	901507	MAPS_TO	Menjugate (CRM197 oligosaccharide conjugate); no single serogroup C injection SCD in RxNorm		2026-03-12
+659966	69333	40173205	Neisseria meningitidis serogroup C oligosaccharide diphtheria CRM197 protein conjugate vaccine	901507	MAPS_TO	Meningitec (CRM197 conjugate); no single serogroup C injection SCD in RxNorm		2026-03-12
+933788	64096	1145514	Neisseria meningitidis serogroup C capsular polysaccharide tetanus toxoid protein conjugate vaccine	2360572	MAPS_TO	Neisvac-C (tetanus toxoid conjugate); no single serogroup C injection SCD in RxNorm		2026-03-12

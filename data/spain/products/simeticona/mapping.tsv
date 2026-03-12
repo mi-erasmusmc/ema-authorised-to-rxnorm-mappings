@@ -1,3 +1,16 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 698277	77616	40083582	simethicone Oral Capsule	373880	BROAD			
 771196	64567	19103983	simethicone 250 MG Oral Capsule	412111				
+658631	68549	40083582	simethicone Oral Capsule	373880	BROAD	No 240 MG strength-specific oral capsule concept in RxNorm	simethicone 240 MG Oral Capsule	2026-03-12
+659283	68941	40083582	simethicone Oral Capsule	373880	BROAD	No 120 MG strength-specific oral capsule concept in RxNorm	simethicone 120 MG Oral Capsule	2026-03-12
+659285	68941	40083582	simethicone Oral Capsule	373880	BROAD	No 120 MG strength-specific oral capsule concept in RxNorm	simethicone 120 MG Oral Capsule	2026-03-12
+663728	71281	40083582	simethicone Oral Capsule	373880	BROAD	No 120 MG chewable tablet concept in RxNorm; mapped to class-level oral capsule	simethicone 120 MG Chewable Tablet	2026-03-12
+665264	72263	40083582	simethicone Oral Capsule	373880	BROAD	No 120 MG chewable tablet concept in RxNorm; mapped to class-level oral capsule	simethicone 120 MG Chewable Tablet	2026-03-12
+701904	39560	40083592	simethicone Oral Solution	373884	BROAD	No 100 MG/ML oral solution concept in RxNorm; mapped to class-level oral solution	simethicone 100 MG/ML Oral Solution	2026-03-12
+701912	39560	40083592	simethicone Oral Solution	373884	BROAD	No 100 MG/ML oral solution concept in RxNorm; mapped to class-level oral solution	simethicone 100 MG/ML Oral Solution	2026-03-12
+701961	36658	967429	simethicone 40 MG Chewable Tablet	312958	EXACT			2026-03-12
+701979	36658	967429	simethicone 40 MG Chewable Tablet	312958	EXACT			2026-03-12
+704992	79469	967429	simethicone 40 MG Chewable Tablet	312958	EXACT			2026-03-12
+704993	79469	967429	simethicone 40 MG Chewable Tablet	312958	EXACT			2026-03-12
+712207	81149	40083582	simethicone Oral Capsule	373880	BROAD	No 120 MG chewable tablet concept in RxNorm; mapped to class-level oral capsule	simethicone 120 MG Chewable Tablet	2026-03-12
+750794	38426	40083596	simethicone Oral Suspension	373883	BROAD	No 9 MG/ML (45 mg/5 ml) oral suspension concept in RxNorm; mapped to class-level oral suspension	simethicone 9 MG/ML Oral Suspension	2026-03-12

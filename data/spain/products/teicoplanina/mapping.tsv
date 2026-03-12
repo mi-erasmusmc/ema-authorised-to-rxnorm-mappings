@@ -2,17 +2,18 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 607118	78750	40091408	teicoplanin Injectable Solution	376303	BROAD			
 607120	78751	19100315	teicoplanin 133 MG/ML	361001	EXACT			
 607311	80096	19100315	teicoplanin 133 MG/ML	361001	EXACT			
-607312	80097	36885788	Teicoplanin 200 MG Injectable Solution	OMOP997240				
-701074	78341	36885788	Teicoplanin 200 MG Injectable Solution	OMOP997240				
+607312	80097	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
+701074	78341	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
 701075	78342	19100315	teicoplanin 133 MG/ML	361001	EXACT			
-701925	78613	36885788	Teicoplanin 200 MG Injectable Solution	OMOP997240				
+701925	78613	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
 701926	78614	42478984	Teicoplanin Injection	OMOP417589	BROAD			
 702287	78750	40091408	teicoplanin Injectable Solution	376303	BROAD			
 702288	78751	19100315	teicoplanin 133 MG/ML	361001	EXACT			
 707350	80096	19100315	teicoplanin 133 MG/ML	361001	EXACT			
-707351	80097	36885788	Teicoplanin 200 MG Injectable Solution	OMOP997240				
-721623	83080	36885788	Teicoplanin 200 MG Injectable Solution	OMOP997240				
-721624	83081	36889718	Teicoplanin 400 MG Injectable Solution	OMOP998055				
+707351	80097	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
+721623	83080	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
+721624	83081	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-12
 730662	85874	19100315	teicoplanin 133 MG/ML	361001	EXACT			
 730664	85875	40091408	teicoplanin Injectable Solution	376303	BROAD			
 998344	58922	19100315	teicoplanin 133 MG/ML	361001	EXACT			
+998336	58921	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12

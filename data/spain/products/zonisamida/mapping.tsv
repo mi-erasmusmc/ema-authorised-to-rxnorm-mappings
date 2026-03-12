@@ -44,15 +44,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 720352	82768	744800	zonisamide 100 MG Oral Capsule	314285	EXACT			2026-03-12
 720363	82769	19102549	zonisamide 25 MG Oral Capsule	403966	EXACT			2026-03-12
 720378	82770	19102550	zonisamide 50 MG Oral Capsule	403967	EXACT			2026-03-12
-723840	83520	744798	zonisamide	39998	BROAD		zonisamide 200 MG Oral Capsule	2026-03-12
-724809	83520	744798	zonisamide	39998	BROAD		zonisamide 200 MG Oral Capsule	2026-03-12
-733101	86675	744798	zonisamide	39998	BROAD		zonisamide 200 MG Oral Capsule	2026-03-12
+723840	83520	40101599	zonisamide Oral Capsule	374625	BROAD		zonisamide 200 MG Oral Capsule	2026-03-12
+724809	83520	40101599	zonisamide Oral Capsule	374625	BROAD		zonisamide 200 MG Oral Capsule	2026-03-12
+733101	86675	40101599	zonisamide Oral Capsule	374625	BROAD		zonisamide 200 MG Oral Capsule	2026-03-12
 741406	87155	744800	zonisamide 100 MG Oral Capsule	314285	EXACT			2026-03-12
 741407	87156	19102549	zonisamide 25 MG Oral Capsule	403966	EXACT			2026-03-12
 741408	87157	19102550	zonisamide 50 MG Oral Capsule	403967	EXACT			2026-03-12
-756673	87867	744798	zonisamide	39998	BROAD		zonisamide 200 MG Oral Tablet	2026-03-12
+756673	87867	40101601	zonisamide Oral Tablet	375369	BROAD		zonisamide 200 MG Oral Tablet	2026-03-12
 756674	87868	40101601	zonisamide Oral Tablet	375369	BROAD		zonisamide 25 MG Oral Tablet	2026-03-12
-756675	87869	744798	zonisamide	39998	BROAD		zonisamide 300 MG Oral Tablet	2026-03-12
+756675	87869	40101601	zonisamide Oral Tablet	375369	BROAD		zonisamide 300 MG Oral Tablet	2026-03-12
 756677	87870	40101601	zonisamide Oral Tablet	375369	BROAD		zonisamide 50 MG Oral Tablet	2026-03-12
 756678	87871	19066366	zonisamide 100 MG Oral Tablet	259224	EXACT			2026-03-12
 651527	04307001	19102904	zonisamide 25 MG Oral Capsule [Zonegran]	404725	EXACT			2026-03-12

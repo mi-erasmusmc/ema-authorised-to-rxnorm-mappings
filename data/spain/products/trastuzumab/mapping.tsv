@@ -13,3 +13,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728786	1201456001	37497466	trastuzumab-anns 150 MG Injection	2257297	EXACT			2025-12-04
 730810	1201456002	1360968	trastuzumab-anns 21 MG/ML Injectable Solution	2174804	EXACT			2025-12-04
 731333	1201456003	1360968	trastuzumab-anns 21 MG/ML Injectable Solution	2174804	EXACT			2025-12-04
+732648	100145002IP	1366765	5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection [Herceptin Hylecta]	2119719	EXACT			2026-03-12
+765018	100145002IP1	1366765	5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection [Herceptin Hylecta]	2119719	EXACT			2026-03-12
+903674	00145001	1594435	trastuzumab 150 MG Injection [Herceptin]	1922512	EXACT			2026-03-12

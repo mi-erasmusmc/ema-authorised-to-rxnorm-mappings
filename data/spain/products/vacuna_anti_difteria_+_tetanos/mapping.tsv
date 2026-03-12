@@ -1,4 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606901	68579	19028827	diphtheria toxoid vaccine, inactivated 4 UNT/ML / tetanus toxoid vaccine, inactivated 20 UNT/ML Injectable Suspension	205257	BROAD			
-658681	68579	19028827	diphtheria toxoid vaccine, inactivated 4 UNT/ML / tetanus toxoid vaccine, inactivated 20 UNT/ML Injectable Suspension	205257	BROAD			
-658683	68579	19028827	diphtheria toxoid vaccine, inactivated 4 UNT/ML / tetanus toxoid vaccine, inactivated 20 UNT/ML Injectable Suspension	205257	BROAD			
+606901	68579	40152821	diphtheria toxoid vaccine, inactivated / tetanus toxoid vaccine, inactivated Injectable Suspension	802048	BROAD		DT vaccine - specific strength/brand DITEBOOSTER not in RxNorm; mapped to class-level DT Injectable Suspension	2026-03-12
+658681	68579	40152821	diphtheria toxoid vaccine, inactivated / tetanus toxoid vaccine, inactivated Injectable Suspension	802048	BROAD		DT vaccine - specific strength/brand DITEBOOSTER not in RxNorm; mapped to class-level DT Injectable Suspension	2026-03-12
+658683	68579	40152821	diphtheria toxoid vaccine, inactivated / tetanus toxoid vaccine, inactivated Injectable Suspension	802048	BROAD		DT vaccine - specific strength/brand DITEBOOSTER not in RxNorm; mapped to class-level DT Injectable Suspension	2026-03-12
+656756	61025	40152821	diphtheria toxoid vaccine, inactivated / tetanus toxoid vaccine, inactivated Injectable Suspension	802048	BROAD		DT vaccine - DIFTAVAX brand not in RxNorm; mapped to class-level DT Injectable Suspension	2026-03-12

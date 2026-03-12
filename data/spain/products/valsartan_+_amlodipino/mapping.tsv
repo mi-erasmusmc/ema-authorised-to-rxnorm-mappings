@@ -1,21 +1,40 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-711067	80931	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-711068	80932	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
+711067	80931	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+711068	80932	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
 711262	1161092032	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2025-12-04
 711263	1161092019	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2025-12-04
-711595	81056	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-711600	81057	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-711661	81081	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-711662	81082	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-712910	81301	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-712911	81302	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-713717	81479	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-713718	81480	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-716170	82053	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-724207	83642	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-724208	83643	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-731461	86130	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-731463	86131	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
-731465	86132	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394				
-731597	86184	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126				
-731599	86185	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134				
+711595	81056	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+711600	81057	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+711661	81081	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+711662	81082	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+712910	81301	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+712911	81302	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+713717	81479	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+713718	81480	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+716170	82053	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+724207	83642	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+724208	83643	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+731461	86130	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+731463	86131	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+731465	86132	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	BROAD		amlodipine 5 MG / valsartan 80 MG Oral Tablet	2026-03-12
+731597	86184	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+731599	86185	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+654849	06370011	1332531	amlodipine 5 MG / valsartan 160 MG Oral Tablet [Exforge]	724891	EXACT			2026-03-12
+654850	06370019	1332529	amlodipine 10 MG / valsartan 160 MG Oral Tablet [Exforge]	724879	EXACT			2026-03-12
+654856	06371019	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+654857	06371011	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+654862	06372011	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+654864	06372019	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+654865	06373019	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+654866	06373011	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+711637	81071	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+711638	81072	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+712086	81124	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+712087	81125	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+712196	81142	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+712197	81143	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+712239	81166	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+712241	81167	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+716171	82054	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
+719230	82481	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
+719231	82482	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12

@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 763597	89089	42709286	24 HR rotigotine 0.0417 MG/HR Transdermal System	1251912	EXACT			
-763598	89090	40221095	rotigotine Transdermal System	1806004				
+763598	89090	786428	24 HR rotigotine 0.0833 MG/HR Transdermal System	722253	EXACT			2026-03-12
 763599	89091	42709288	24 HR rotigotine 0.125 MG/HR Transdermal System	1251916	EXACT			
-763600	89092	40221095	rotigotine Transdermal System	1806004				
-763601	89093	40221095	rotigotine Transdermal System	1806004				
-763602	89094	40221095	rotigotine Transdermal System	1806004				
+763600	89092	786443	24 HR rotigotine 0.167 MG/HR Transdermal System	722295	EXACT			2026-03-12
+763601	89093	786431	24 HR rotigotine 0.25 MG/HR Transdermal System	722279	EXACT			2026-03-12
+763602	89094	42709290	24 HR rotigotine 0.333 MG/HR Transdermal System	1251920	EXACT			2026-03-12

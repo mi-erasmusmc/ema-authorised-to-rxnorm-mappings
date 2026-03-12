@@ -1,6 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652367	67128	1388826	leucovorin 10 MG/ML Injectable Solution	311282	EXACT			
-652372	67128	1388826	leucovorin 10 MG/ML Injectable Solution	311282	EXACT			
-721004	82946	1388826	leucovorin 10 MG/ML Injectable Solution	311282				
-721008	82946	1388826	leucovorin 10 MG/ML Injectable Solution	311282				
-963470	56543	1388798	leucovorin 15 MG Oral Tablet	197861	EXACT			
+652367	67128	1388826	leucovorin 10 MG/ML Injectable Solution	311282	EXACT			2026-03-12
+652372	67128	1388826	leucovorin 10 MG/ML Injectable Solution	311282	EXACT			2026-03-12
+721004	82946	1388826	leucovorin 10 MG/ML Injectable Solution	311282	EXACT			2026-03-12
+721008	82946	1388826	leucovorin 10 MG/ML Injectable Solution	311282	EXACT			2026-03-12
+963470	56543	1388798	leucovorin 15 MG Oral Tablet	197861	EXACT			2026-03-12
+602392	68353	40220869	leucovorin 50 MG Injection	1803930	EXACT			2026-03-12
+602393	68354	1388801	leucovorin 350 MG Injection	237788	EXACT			2026-03-12
+602853	70341	40220869	leucovorin 50 MG Injection	1803930	EXACT			2026-03-12
+602855	70340	1388801	leucovorin 350 MG Injection	237788	EXACT			2026-03-12
+658282	68354	1388801	leucovorin 350 MG Injection	237788	EXACT			2026-03-12
+662046	70340	1388801	leucovorin 350 MG Injection	237788	EXACT			2026-03-12
+662054	70341	40220869	leucovorin 50 MG Injection	1803930	EXACT			2026-03-12
+764359	89372	1388826	leucovorin 10 MG/ML Injectable Solution	311282	EXACT			2026-03-12
+764363	89372	1388826	leucovorin 10 MG/ML Injectable Solution	311282	EXACT			2026-03-12

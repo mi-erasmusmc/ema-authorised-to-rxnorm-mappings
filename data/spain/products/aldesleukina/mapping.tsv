@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+600243	62287	35603079	aldesleukin Injection	1719781	BROAD	RxNorm does not appear to contain the exact 18 million IU aldesleukin injectable presentation.	aldesleukin 18 million UNT Injection	2026-03-12
+703892	62287	35603079	aldesleukin Injection	1719781	BROAD	RxNorm does not appear to contain the exact 18 million IU aldesleukin injectable presentation.	aldesleukin 18 million UNT Injection	2026-03-12
+994301	58653	35603079	aldesleukin Injection	1719781	BROAD	RxNorm does not appear to contain the exact 18 million IU aldesleukin infusion presentation.	aldesleukin 18 million UNT Injection	2026-03-12

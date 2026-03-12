@@ -7,18 +7,18 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 652774	67265	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 652799	67279	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 652848	67308	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
-652899	67339	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
+652899	67339	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
 653886	67584	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
-654647	67904	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
+654647	67904	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
 658338	68385	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
-658406	68436	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
+658406	68436	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
 659061	68800	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 659064	68801	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
-659162	68870	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
-660854	68869	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
+659162	68870	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
+660854	68869	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
 663191	67422	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
-665199	72170	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
-667585	71370	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
+665199	72170	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
+667585	71370	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
 673483	61426	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 679323	73819	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 679346	73819	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
@@ -32,11 +32,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 685188	74908	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 685509	74971	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 685700	74994	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
-692329	76248	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
+692329	76248	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
 697434	77337	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 707749	80176	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 710800	80848	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
-713694	81466	587557	tamsulosin 0.4 MG Extended Release Oral Capsule	OMOP3138882				
+713694	81466	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	BROAD			2026-03-12
 726230	84304	40166540	tamsulosin hydrochloride 0.4 MG Oral Capsule	863669	EXACT			
 726233	84305	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			
 730518	85823	40166539	tamsulosin hydrochloride 0.4 MG Extended Release Oral Tablet	863675	EXACT			

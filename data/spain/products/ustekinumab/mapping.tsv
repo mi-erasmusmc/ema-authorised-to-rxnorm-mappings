@@ -30,3 +30,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768393	1251957002	37355164	0.5 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2725087	EXACT			2026-03-11
 768394	1251957003	37355166	1 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2725099	EXACT			2026-03-11
 768395	1251957004	37355170	26 ML ustekinumab-hmny 5 MG/ML Injection	2725111	EXACT			2026-03-11
+662133	08494001	46234170	0.5 ML ustekinumab 90 MG/ML Injection [Stelara]	1654079	EXACT			2026-03-12
+665779	08494003	40160988	0.5 ML ustekinumab 90 MG/ML Prefilled Syringe [Stelara]	853354	EXACT			2026-03-12
+762981	1080494006	40160988	0.5 ML ustekinumab 90 MG/ML Prefilled Syringe [Stelara]	853354	BROAD	No pen/autoinjector concept in RxNorm; mapped to prefilled syringe		2026-03-12
+762982	1080494007	40160960	1 ML ustekinumab 90 MG/ML Prefilled Syringe [Stelara]	853356	BROAD	No pen/autoinjector concept in RxNorm; mapped to prefilled syringe		2026-03-12
+767965	1241863004	1466401	0.5 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702616	BROAD	No vial concept in RxNorm for aauz; mapped to prefilled syringe		2026-03-12

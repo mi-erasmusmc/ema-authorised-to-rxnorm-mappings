@@ -3,4 +3,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 702057	113891010	44506623	vortioxetine 10 MG Oral Tablet [Brintellix]	1439844	EXACT			2025-12-04
 702058	113891028	44506620	vortioxetine 20 MG Oral Tablet [Brintellix]	1439838	EXACT			2025-12-04
 722304	113891019	44506622	vortioxetine 15 MG Oral Tablet [Brintellix]	1439842	EXACT			2025-12-04
-726594	113891036	44506430	vortioxetine 20 MG [Brintellix]	1439836	BROAD			2025-12-04
+726594	113891036	44506430	vortioxetine 20 MG [Brintellix]	1439836	BROAD		vortioxetine 20 MG/ML Oral Solution [Brintellix]	2026-03-12
+769965	113891028IP1	44506620	vortioxetine 20 MG Oral Tablet [Brintellix]	1439838	EXACT			2026-03-12
