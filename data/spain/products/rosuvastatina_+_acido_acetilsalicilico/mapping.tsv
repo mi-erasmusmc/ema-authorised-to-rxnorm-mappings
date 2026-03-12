@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-729204	85380	789818	rosuvastatin 10 MG Oral Capsule	2167557				
-729205	85381	789826	rosuvastatin 20 MG Oral Capsule	2167565				
-729206	85382	789834	rosuvastatin 5 MG Oral Capsule	2167573				
-729591	85513	789834	rosuvastatin 5 MG Oral Capsule	2167573				
-729592	85514	789826	rosuvastatin 20 MG Oral Capsule	2167565				
-729593	85515	789818	rosuvastatin 10 MG Oral Capsule	2167557				
-743276	87236	789818	rosuvastatin 10 MG Oral Capsule	2167557				
-743277	87237	789826	rosuvastatin 20 MG Oral Capsule	2167565				
-743279	87238	789834	rosuvastatin 5 MG Oral Capsule	2167573				
+729204	85380	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 10 MG / aspirin 100 MG Oral Capsule	2026-03-12
+729205	85381	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 20 MG / aspirin 100 MG Oral Capsule	2026-03-12
+729206	85382	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 5 MG / aspirin 100 MG Oral Capsule	2026-03-12
+729591	85513	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 5 MG / aspirin 100 MG Oral Capsule	2026-03-12
+729592	85514	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 20 MG / aspirin 100 MG Oral Capsule	2026-03-12
+729593	85515	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 10 MG / aspirin 100 MG Oral Capsule	2026-03-12
+743276	87236	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 10 MG / aspirin 100 MG Oral Capsule	2026-03-12
+743277	87237	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 20 MG / aspirin 100 MG Oral Capsule	2026-03-12
+743279	87238	1486441	rosuvastatin and acetylsalicylic acid	1486441	BROAD	No specific-dose SCD exists for rosuvastatin/aspirin capsules in RxNorm	rosuvastatin 5 MG / aspirin 100 MG Oral Capsule	2026-03-12

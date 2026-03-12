@@ -1,3 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-715411	81879	21105116	propiverine 30 MG Extended Release Oral Capsule	OMOP261944				
-724241	83656	21085456	propiverine 45 MG Extended Release Oral Capsule	OMOP261965				
+715411	81879	21105116	propiverine 30 MG Extended Release Oral Capsule	OMOP261944	EXACT			2026-03-12
+724241	83656	21085456	propiverine 45 MG Extended Release Oral Capsule	OMOP261965	EXACT			2026-03-12
+729498	73-948-10-C	21105116	propiverine 30 MG Extended Release Oral Capsule	OMOP261944	EXACT			2026-03-12
+763950	845460000	21085456	propiverine 45 MG Extended Release Oral Capsule	OMOP261965	EXACT			2026-03-12
+765334	670180000	21105116	propiverine 30 MG Extended Release Oral Capsule	OMOP261944	EXACT			2026-03-12
+765338	845460000IP	21085456	propiverine 45 MG Extended Release Oral Capsule	OMOP261965	EXACT			2026-03-12
+765769	845460000IP1	21085456	propiverine 45 MG Extended Release Oral Capsule	OMOP261965	EXACT			2026-03-12
+765770	670180000IP	21105116	propiverine 30 MG Extended Release Oral Capsule	OMOP261944	EXACT			2026-03-12
+767502	845460000IP3	21085456	propiverine 45 MG Extended Release Oral Capsule	OMOP261965	EXACT			2026-03-12
+767537	845460000IP2	21085456	propiverine 45 MG Extended Release Oral Capsule	OMOP261965	EXACT			2026-03-12

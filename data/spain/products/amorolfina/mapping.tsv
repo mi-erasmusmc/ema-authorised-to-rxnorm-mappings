@@ -1,9 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656707	60611	19032623	amorolfine 50 MG/ML	384832	EXACT			
-685177	74905	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029				
-685984	75031	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029				
-688499	60560	19032623	amorolfine 50 MG/ML	384832	EXACT			
-710448	60611	19032623	amorolfine 50 MG/ML	384832	EXACT			
-710449	60560	19032623	amorolfine 50 MG/ML	384832	EXACT			
-721603	83075	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029				
-732148	86372	19032623	amorolfine 50 MG/ML	384832	EXACT			
+656707	60611	19064061	amorolfine 50 MG/ML Topical Solution	250968	EXACT			2026-03-12
+685177	74905	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029	EXACT			2026-03-12
+685984	75031	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029	EXACT			2026-03-12
+688499	60560	19064061	amorolfine 50 MG/ML Topical Solution	250968	EXACT			2026-03-12
+710448	60611	19064061	amorolfine 50 MG/ML Topical Solution	250968	EXACT			2026-03-12
+710449	60560	19064061	amorolfine 50 MG/ML Topical Solution	250968	EXACT			2026-03-12
+721603	83075	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029	EXACT			2026-03-12
+732148	86372	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029	EXACT			2026-03-12
+683439	74631	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029	EXACT			2026-03-12
+687681	60610	19002542	amorolfine 2.5 MG/ML Topical Cream [Loceryl]	103598	EXACT			2026-03-12
+688507	60559	19002542	amorolfine 2.5 MG/ML Topical Cream [Loceryl]	103598	EXACT			2026-03-12
+696992	77191	21074998	Amorolfine 50 MG/ML Medicated nail lacquer	OMOP412029	EXACT			2026-03-12

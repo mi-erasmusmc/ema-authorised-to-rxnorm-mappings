@@ -1,2 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-730019	85657	1831111	fenofibrate 160 MG / pravastatin 40 MG Oral Capsule	OMOP5156358				
+730019	85657	1831111	fenofibrate 160 MG / pravastatin 40 MG Oral Capsule	OMOP5156358	EXACT			2026-03-12
+689957	11679004	1831111	fenofibrate 160 MG / pravastatin 40 MG Oral Capsule	OMOP5156358	EXACT			2026-03-12
+709996	11679004IP	1831111	fenofibrate 160 MG / pravastatin 40 MG Oral Capsule	OMOP5156358	EXACT			2026-03-12
+767437	11679004IP1	1831111	fenofibrate 160 MG / pravastatin 40 MG Oral Capsule	OMOP5156358	EXACT			2026-03-12
+767638	11679004IP2	1831111	fenofibrate 160 MG / pravastatin 40 MG Oral Capsule	OMOP5156358	EXACT			2026-03-12

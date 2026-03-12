@@ -1,8 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656186	68087	783066	Human Alpha1 Proteinase Inhibitor 25 MG/ML Injectable Solution	OMOP4830898				
-708324	1151006001	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT			2025-12-04
-723374	83358	783066	Human Alpha1 Proteinase Inhibitor 25 MG/ML Injectable Solution	OMOP4830898				
-727261	1151006002	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT			2025-12-04
-727262	1151006003	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT			2025-12-04
-763556	89084	783066	Human Alpha1 Proteinase Inhibitor 25 MG/ML Injectable Solution	OMOP4830898				
-763559	89085	783066	Human Alpha1 Proteinase Inhibitor 25 MG/ML Injectable Solution	OMOP4830898				
+656186	68087	2937552	Human Alpha1 Proteinase Inhibitor 1000 MG Injection	OMOP5154247	EXACT			2026-03-12
+708324	1151006001	2937552	Human Alpha1 Proteinase Inhibitor 1000 MG Injection	OMOP5154247	EXACT			2026-03-12
+723374	83358	2937552	Human Alpha1 Proteinase Inhibitor 1000 MG Injection	OMOP5154247	EXACT			2026-03-12
+727261	1151006002	37592661	Human Alpha1 Proteinase Inhibitor 4000 MG Injectable Suspension	OMOP4782106	EXACT			2026-03-12
+727262	1151006003	37592666	Human Alpha1 Proteinase Inhibitor 5000 MG Injectable Suspension	OMOP4782111	EXACT			2026-03-12
+763556	89084	37592661	Human Alpha1 Proteinase Inhibitor 4000 MG Injectable Suspension	OMOP4782106	EXACT			2026-03-12
+763559	89085	37592666	Human Alpha1 Proteinase Inhibitor 5000 MG Injectable Suspension	OMOP4782111	EXACT			2026-03-12
+855544	65456	2937552	Human Alpha1 Proteinase Inhibitor 1000 MG Injection	OMOP5154247	EXACT			2026-03-12
+858431	65456	46276115	alpha 1-antitrypsin Injection	1661207	BROAD	No clean 500 MG standard alpha-1 antitrypsin concept was found in RxNorm.	alpha 1-proteinase inhibitor, human 500 MG Injection	2026-03-12

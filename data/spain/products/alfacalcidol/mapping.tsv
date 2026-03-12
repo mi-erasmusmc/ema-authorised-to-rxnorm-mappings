@@ -1,4 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-680371	61023	19063968	alfacalcidol 0.002 MG/ML Injectable Solution	250914				
-680389	61022	19063968	alfacalcidol 0.002 MG/ML Injectable Solution	250914				
-761908	55906	19014234	alfacalcidol 0.002 MG/ML Oral Solution	389237	EXACT			
+680371	61023	19063968	alfacalcidol 0.002 MG/ML Injectable Solution	250914	EXACT			2026-03-12
+680389	61022	19063968	alfacalcidol 0.002 MG/ML Injectable Solution	250914	EXACT			2026-03-12
+761908	55906	19014234	alfacalcidol 0.002 MG/ML Oral Solution	389237	EXACT			2026-03-12
+669570	72176	19060004	alfacalcidol 0.00025 MG Oral Capsule	246008	EXACT			2026-03-12
+669571	72177	19014209	alfacalcidol 0.0005 MG Oral Capsule	252487	EXACT			2026-03-12

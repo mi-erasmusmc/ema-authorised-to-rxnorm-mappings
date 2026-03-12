@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-701100	106374003	1593224	0.05 ML ranibizumab 10 MG/ML Prefilled Syringe [Lucentis]	1864425	EXACT	Reflects dose after overfil		2025-12-04
-704876	106374004	19124443	0.05 ML ranibizumab 10 MG/ML Injection [Lucentis]	644301	EXACT	Reflects dose after overfil		2025-12-04
-758336	1221673001	742138	0.05 ML ranibizumab-eqrn 10 MG/ML Injection	2612684	EXACT			2025-12-04
-759247	1221691001	19080984	0.05 ML ranibizumab 10 MG/ML Injection	643193	BROAD		0.05 ML ranibizumab-xxxx 10 MG/ML Injection [Ximluci]	2025-12-04
-764609	1231779002	19080984	0.05 ML ranibizumab 10 MG/ML Injection	643193	BROAD		0.05 ML ranibizumab-xxxx 10 MG/ML Injection [Rimmyrah]	2025-12-04
+701100	106374003	1593224	0.05 ML ranibizumab 10 MG/ML Prefilled Syringe [Lucentis]	1864425	EXACT	Reflects dose after overfill		2026-03-12
+704876	106374004	19124443	0.05 ML ranibizumab 10 MG/ML Injection [Lucentis]	644301	EXACT	Reflects dose after overfill		2026-03-12
+758336	1221673001	742138	0.05 ML ranibizumab-eqrn 10 MG/ML Injection	2612684	EXACT			2026-03-12
+759247	1221691001	19080984	0.05 ML ranibizumab 10 MG/ML Injection	643193	BROAD		0.05 ML ranibizumab-xxxx 10 MG/ML Injection [Ximluci]	2026-03-12
+764609	1231779002	19080984	0.05 ML ranibizumab 10 MG/ML Injection	643193	BROAD		0.05 ML ranibizumab-xxxx 10 MG/ML Injection [Rimmyrah]	2026-03-12

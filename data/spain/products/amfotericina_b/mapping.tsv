@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-679076	61117	41014607	Amphotericin B 4.17 MG/ML	OMOP2212569				
-681726	60945	1717297	amphotericin B 5 MG/ML	315373	BROAD			
+679076	61117	40175780	amphotericin B liposomal 50 MG Injection [AmBisome]	967388	EXACT			2026-03-12
+681726	60945	40181424	20 ML amphotericin B lipid complex 5 MG/ML Injection	984078	EXACT			2026-03-12

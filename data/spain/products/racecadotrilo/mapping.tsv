@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-617050	64816	847526	racecadotril 10 MG Granules for Oral Suspension	OMOP5570342				
-618181	64809	847515	racecadotril 30 MG Granules for Oral Suspension	OMOP5570331				
-632935	63286	19103390	racecadotril 100 MG Oral Capsule	410316				
-696648	64816	847526	racecadotril 10 MG Granules for Oral Suspension	OMOP5570342				
-696649	64809	847515	racecadotril 30 MG Granules for Oral Suspension	OMOP5570331				
-698834	77809	19103390	racecadotril 100 MG Oral Capsule	410316				
-895805	63286	19103390	racecadotril 100 MG Oral Capsule	410316				
+617050	64816	847526	racecadotril 10 MG Granules for Oral Suspension	OMOP5570342	EXACT			2026-03-12
+618181	64809	847515	racecadotril 30 MG Granules for Oral Suspension	OMOP5570331	EXACT			2026-03-12
+632935	63286	19103390	racecadotril 100 MG Oral Capsule	410316	EXACT			2026-03-12
+696648	64816	847526	racecadotril 10 MG Granules for Oral Suspension	OMOP5570342	EXACT			2026-03-12
+696649	64809	847515	racecadotril 30 MG Granules for Oral Suspension	OMOP5570331	EXACT			2026-03-12
+698834	77809	19103390	racecadotril 100 MG Oral Capsule	410316	EXACT			2026-03-12
+895805	63286	19103390	racecadotril 100 MG Oral Capsule	410316	EXACT			2026-03-12

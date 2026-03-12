@@ -1,5 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-662790	70843	21128864	alitretinoin 10 MG Oral Capsule	OMOP381451				
-662792	70844	21168358	alitretinoin 30 MG Oral Capsule	OMOP381373				
-725444	84057	21128864	alitretinoin 10 MG Oral Capsule	OMOP381451				
-725445	84058	21168358	alitretinoin 30 MG Oral Capsule	OMOP381373				
+662790	70843	21128864	alitretinoin 10 MG Oral Capsule	OMOP381451	EXACT			2026-03-12
+662792	70844	21168358	alitretinoin 30 MG Oral Capsule	OMOP381373	EXACT			2026-03-12
+725444	84057	21128864	alitretinoin 10 MG Oral Capsule	OMOP381451	EXACT			2026-03-12
+725445	84058	21168358	alitretinoin 30 MG Oral Capsule	OMOP381373	EXACT			2026-03-12
+665281	00149001	19047839	alitretinoin 0.001 MG/MG Topical Gel [Panretin]	213502	EXACT			2026-03-12

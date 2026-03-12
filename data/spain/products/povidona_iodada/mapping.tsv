@@ -14,10 +14,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 721954	83168	1750295	povidone-iodine 0.1 MG/MG Topical Gel	312562	EXACT			
 722094	83216	1750197	povidone-iodine 100 MG/ML Douche	211731	EXACT			
 735480	66162	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			
-836601	59097	1750297	povidone-iodine 100 MG/ML Topical Solution	312564				
+836601	59097	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
 837294	31028	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			
 837302	31028	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			
-838151	59097	1750297	povidone-iodine 100 MG/ML Topical Solution	312564				
+838151	59097	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
 866830	63031	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			
 866871	63031	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			
 875765	63804	1750087	povidone-iodine	8611	BROAD			
@@ -28,3 +28,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 981126	57879	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			
 997429	36341	1750197	povidone-iodine 100 MG/ML Douche	211731	EXACT			
 997437	36340	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			
+648725	59314	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
+712348	8435701IP	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			2026-03-12
+723982	34009_314_997_8_7	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			2026-03-12
+738351	64525	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
+738369	64525	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
+739920	64525	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
+762538	88795	1750262	povidone-iodine 10 MG/ML Mouthwash	238272	EXACT			2026-03-12
+763775	89162	19079351	povidone-iodine 50 MG/ML Ophthalmic Solution	312570	EXACT			2026-03-12
+768051	59314	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
+905943	59314	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
+905950	59314	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
+997445	36338	1750087	povidone-iodine	8611	BROAD			2026-03-12
+997452	936339	40077988	povidone-iodine Mouthwash	377538	BROAD			2026-03-12

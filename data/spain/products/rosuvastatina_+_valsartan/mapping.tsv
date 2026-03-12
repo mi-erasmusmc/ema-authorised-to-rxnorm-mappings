@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-719380	82504	42969088	rosuvastatin 20 MG / valsartan 80 MG Oral Tablet	OMOP4695526				
-719389	82505	42969085	rosuvastatin 10 MG / valsartan 160 MG Oral Tablet	OMOP4695523				
-719398	82506	42969082	rosuvastatin 10 MG / valsartan 80 MG Oral Tablet	OMOP4695520				
-719407	82507	42969091	rosuvastatin 20 MG / valsartan 160 MG Oral Tablet	OMOP4695529				
+719380	82504	42969088	rosuvastatin 20 MG / valsartan 80 MG Oral Tablet	OMOP4695526	EXACT			2026-03-12
+719389	82505	42969085	rosuvastatin 10 MG / valsartan 160 MG Oral Tablet	OMOP4695523	EXACT			2026-03-12
+719398	82506	42969082	rosuvastatin 10 MG / valsartan 80 MG Oral Tablet	OMOP4695520	EXACT			2026-03-12
+719407	82507	42969091	rosuvastatin 20 MG / valsartan 160 MG Oral Tablet	OMOP4695529	EXACT			2026-03-12

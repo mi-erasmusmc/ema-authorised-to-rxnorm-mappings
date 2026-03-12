@@ -19,10 +19,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 688717	75649	1551101	prednisone 10 MG Oral Tablet	198145	EXACT			
 688760	75676	19111643	prednisone 30 MG	451143	EXACT			
 688761	75677	19111643	prednisone 30 MG	451143	EXACT			
-725321	84018	19105449	prednisone 100 MG Rectal Suppository	420773				
-725322	84018	19105449	prednisone 100 MG Rectal Suppository	420773				
-725323	84018	19105449	prednisone 100 MG Rectal Suppository	420773				
+725321	84018	19105449	prednisone 100 MG Rectal Suppository	420773	EXACT			2026-03-12
+725322	84018	19105449	prednisone 100 MG Rectal Suppository	420773	EXACT			2026-03-12
+725323	84018	19105449	prednisone 100 MG Rectal Suppository	420773	EXACT			2026-03-12
 739276	47863	1551122	prednisone 2.5 MG Oral Tablet	198146	EXACT			
 739284	24612	1551192	prednisone 5 MG Oral Tablet	312617	EXACT			
 739292	24612	1551192	prednisone 5 MG Oral Tablet	312617	EXACT			
-995233	57819	19111643	prednisone 30 MG	451143	EXACT			
+995233	57819	19111643	prednisone 30 MG	451143	EXACT			2026-03-12
+617860	29724	1551192	prednisone 5 MG Oral Tablet	312617	EXACT			2026-03-12
+670444	71061	42873627	prednisone 1 MG Delayed Release Oral Tablet	1303125	EXACT			2026-03-12
+670450	71065	42873629	prednisone 2 MG Delayed Release Oral Tablet	1303132	EXACT			2026-03-12
+670457	71067	42873631	prednisone 5 MG Delayed Release Oral Tablet	1303135	EXACT			2026-03-12

@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656824	58719	19103962	pancreatin 150 MG Delayed Release Oral Capsule	412081	EXACT			
-656825	58719	19103962	pancreatin 150 MG Delayed Release Oral Capsule	412081	EXACT			
-672971	63832	19103964	pancreatin 300 MG Delayed Release Oral Capsule	412083				
-672974	63832	19103964	pancreatin 300 MG Delayed Release Oral Capsule	412083				
-697014	77205	44168280	Pancreas extract Oral Powder	OMOP3045003	EXACT			
-724969	83862	2043432	pancreas extract 400 MG Delayed Release Oral Capsule	OMOP4943417				
+656824	58719	19103962	pancreatin 150 MG Delayed Release Oral Capsule	412081	EXACT			2026-03-12
+656825	58719	19103962	pancreatin 150 MG Delayed Release Oral Capsule	412081	EXACT			2026-03-12
+672971	63832	19103964	pancreatin 300 MG Delayed Release Oral Capsule	412083	EXACT			2026-03-12
+672974	63832	19103964	pancreatin 300 MG Delayed Release Oral Capsule	412083	EXACT			2026-03-12
+697014	77205	44168280	Pancreas extract Oral Powder	OMOP3045003	EXACT			2026-03-12
+724969	83862	2043432	pancreas extract 400 MG Delayed Release Oral Capsule	OMOP4943417	EXACT			2026-03-12

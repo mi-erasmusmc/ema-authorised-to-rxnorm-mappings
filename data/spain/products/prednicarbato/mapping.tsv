@@ -2,11 +2,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656636	60370	19104872	prednicarbate 0.0025 MG/MG Topical Ointment	416957	EXACT			
 656639	60370	19104872	prednicarbate 0.0025 MG/MG Topical Ointment	416957	EXACT			
 656641	60371	19104872	prednicarbate 0.0025 MG/MG Topical Ointment	416957	EXACT			
-656642	60372	19111608	prednicarbate 0.0025 MG/MG	451080	BROAD			
-656643	60372	19111608	prednicarbate 0.0025 MG/MG	451080	BROAD			
-690123	60458	19111608	prednicarbate 0.0025 MG/MG	451080	BROAD			
-690131	60458	19111608	prednicarbate 0.0025 MG/MG	451080	BROAD			
+656642	60372	19063727	prednicarbate 2.5 MG/ML Topical Cream	250812	EXACT			2026-03-12
+656643	60372	19063727	prednicarbate 2.5 MG/ML Topical Cream	250812	EXACT			2026-03-12
+690123	60458	19063727	prednicarbate 2.5 MG/ML Topical Cream	250812	EXACT			2026-03-12
+690131	60458	19063727	prednicarbate 2.5 MG/ML Topical Cream	250812	EXACT			2026-03-12
 690149	60457	19104872	prednicarbate 0.0025 MG/MG Topical Ointment	416957	EXACT			
 690156	60457	19104872	prednicarbate 0.0025 MG/MG Topical Ointment	416957	EXACT			
 690164	60456	19104872	prednicarbate 0.0025 MG/MG Topical Ointment	416957	EXACT			
 690172	60456	19104872	prednicarbate 0.0025 MG/MG Topical Ointment	416957	EXACT			
+656644	60393	19105426	prednicarbate 2.5 MG/ML Topical Solution	420684	EXACT			2026-03-12
+656647	60393	19105426	prednicarbate 2.5 MG/ML Topical Solution	420684	EXACT			2026-03-12
+690115	60459	19105426	prednicarbate 2.5 MG/ML Topical Solution	420684	EXACT			2026-03-12

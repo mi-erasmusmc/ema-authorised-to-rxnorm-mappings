@@ -1,9 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606249	77909	35603360	alprostadil Injection	1668050	BROAD			
-682245	60911	35603360	alprostadil Injection	1668050	BROAD			
-688978	60535	35603360	alprostadil Injection	1668050	BROAD			
-701120	78357	43649438	100 MG Alprostadil 0.003 MG/MG Topical Cream	OMOP840187	EXACT			
-707655	80156	43649438	100 MG Alprostadil 0.003 MG/MG Topical Cream	OMOP840187	EXACT			
-730835	85924	35603360	alprostadil Injection	1668050	BROAD			
-808162	62697	40164041	alprostadil 0.5 MG Urethral Suppository [Muse]	859132				
-957647	56120	35603360	alprostadil Injection	1668050	BROAD			
+606249	77909	1381566	alprostadil 0.02 MG Injection	242691	EXACT			2026-03-12
+682245	60911	19058559	alprostadil 0.01 MG Injection	242690	EXACT			2026-03-12
+688978	60535	1381566	alprostadil 0.02 MG Injection	242691	EXACT			2026-03-12
+701120	78357	43649438	100 MG Alprostadil 0.003 MG/MG Topical Cream	OMOP840187	EXACT			2026-03-12
+707655	80156	43649438	100 MG Alprostadil 0.003 MG/MG Topical Cream	OMOP840187	EXACT			2026-03-12
+730835	85924	1381566	alprostadil 0.02 MG Injection	242691	EXACT			2026-03-12
+808162	62697	40164041	alprostadil 0.5 MG Urethral Suppository [Muse]	859132	EXACT			2026-03-12
+957647	56120	1381564	1 ML alprostadil 0.5 MG/ML Injection	237212	EXACT			2026-03-12
+808055	62696	40164039	alprostadil 0.25 MG Urethral Suppository [Muse]	859130	EXACT			2026-03-12
+808188	62698	40164043	alprostadil 1 MG Urethral Suppository [Muse]	859128	EXACT			2026-03-12

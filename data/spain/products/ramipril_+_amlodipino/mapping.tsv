@@ -1,14 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-708559	80380	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			
-708562	80381	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			
-708564	80383	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			
-708565	80384	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			
-728396	82690	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			
-728637	82689	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			
-728638	82688	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			
-728639	82687	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			
-732796	86556	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			
-732798	86557	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			
-732801	86558	19103475	amlodipine 5 MG Oral Capsule	410587				
-732803	86559	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			
-732805	86560	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			
+708559	80380	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-03-12
+708562	80381	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			2026-03-12
+708564	80383	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-03-12
+708565	80384	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			2026-03-12
+728396	82690	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-03-12
+728637	82689	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-03-12
+728638	82688	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			2026-03-12
+728639	82687	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			2026-03-12
+732796	86556	783712	Amlodipine 10 MG / Ramipril 10 MG Oral Capsule	OMOP4831542	EXACT			2026-03-12
+732798	86557	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			2026-03-12
+732801	86558	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			2026-03-12
+732803	86559	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			2026-03-12
+732805	86560	783694	Amlodipine 10 MG / Ramipril 5 MG Oral Capsule	OMOP4831524	EXACT			2026-03-12
+708563	80382	19103475	amlodipine 5 MG Oral Capsule	410587	BROAD			2026-03-12
