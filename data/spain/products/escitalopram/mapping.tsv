@@ -1,205 +1,273 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603229	71417	715940	escitalopram 10 MG Oral Tablet	349332				
-606048	77056	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358				
-606049	77057	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT			
-606050	77058	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT			
-659079	68811	715939	escitalopram	321988	BROAD			
-659186	68875	715939	escitalopram	321988	BROAD			
-663938	71430	715940	escitalopram 10 MG Oral Tablet	349332				
-663939	71428	19098166	escitalopram 20 MG Oral Tablet	351250				
-663940	71425	19098166	escitalopram 20 MG Oral Tablet	351250				
-663944	71420	715940	escitalopram 10 MG Oral Tablet	349332				
-663945	71423	19098166	escitalopram 20 MG Oral Tablet	351250				
-663946	71427	19098166	escitalopram 20 MG Oral Tablet	351250				
-663954	71317	715940	escitalopram 10 MG Oral Tablet	349332				
-663956	71318	19098166	escitalopram 20 MG Oral Tablet	351250				
-663957	71319	19098166	escitalopram 20 MG Oral Tablet	351250				
-663982	71417	715940	escitalopram 10 MG Oral Tablet	349332				
-663983	71417	715940	escitalopram 10 MG Oral Tablet	349332				
-663984	71421	19098166	escitalopram 20 MG Oral Tablet	351250				
-663985	71421	19098166	escitalopram 20 MG Oral Tablet	351250				
-663987	71426	19098166	escitalopram 20 MG Oral Tablet	351250				
-663988	71426	19098166	escitalopram 20 MG Oral Tablet	351250				
-664028	71224	19098166	escitalopram 20 MG Oral Tablet	351250				
-664031	71223	19098166	escitalopram 20 MG Oral Tablet	351250				
-664036	71222	715940	escitalopram 10 MG Oral Tablet	349332				
-664197	71606	19098166	escitalopram 20 MG Oral Tablet	351250				
-664198	71608	715940	escitalopram 10 MG Oral Tablet	349332				
-664199	71605	19098166	escitalopram 20 MG Oral Tablet	351250				
-664244	71659	19098166	escitalopram 20 MG Oral Tablet	351250				
-664245	71635	715940	escitalopram 10 MG Oral Tablet	349332				
-664246	71636	19098166	escitalopram 20 MG Oral Tablet	351250				
-664301	71651	715940	escitalopram 10 MG Oral Tablet	349332				
-664302	71649	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513				
-664303	71656	19098166	escitalopram 20 MG Oral Tablet	351250				
-664910	71947	715940	escitalopram 10 MG Oral Tablet	349332				
-664911	71948	19098166	escitalopram 20 MG Oral Tablet	351250				
-664913	71949	19098166	escitalopram 20 MG Oral Tablet	351250				
-665333	72307	715962	escitalopram 5 MG Oral Tablet	351249				
-665335	72307	715962	escitalopram 5 MG Oral Tablet	351249				
-665340	72314	715940	escitalopram 10 MG Oral Tablet	349332				
-665344	72320	19098166	escitalopram 20 MG Oral Tablet	351250				
-665348	72323	19098166	escitalopram 20 MG Oral Tablet	351250				
-665683	72556	715940	escitalopram 10 MG Oral Tablet	349332				
-665684	72556	715940	escitalopram 10 MG Oral Tablet	349332				
-665685	72554	19098166	escitalopram 20 MG Oral Tablet	351250				
-665686	72554	19098166	escitalopram 20 MG Oral Tablet	351250				
-665688	72555	19098166	escitalopram 20 MG Oral Tablet	351250				
-665689	72555	19098166	escitalopram 20 MG Oral Tablet	351250				
-671045	72481	19098166	escitalopram 20 MG Oral Tablet	351250				
-671048	72481	19098166	escitalopram 20 MG Oral Tablet	351250				
-671059	72483	19098166	escitalopram 20 MG Oral Tablet	351250				
-671062	72483	19098166	escitalopram 20 MG Oral Tablet	351250				
-671072	72484	715940	escitalopram 10 MG Oral Tablet	349332				
-671076	72484	715940	escitalopram 10 MG Oral Tablet	349332				
-673026	71609	19098166	escitalopram 20 MG Oral Tablet	351250				
-673027	71610	19098166	escitalopram 20 MG Oral Tablet	351250				
-673028	71599	715940	escitalopram 10 MG Oral Tablet	349332				
-677692	71651	715940	escitalopram 10 MG Oral Tablet	349332				
-677693	71649	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513				
-677694	71656	19098166	escitalopram 20 MG Oral Tablet	351250				
-678928	73345	36882056	Escitalopram 12.8 MG Oral Tablet	OMOP991454	EXACT			
-678930	73347	36880120	Escitalopram 25.5 MG Oral Tablet	OMOP1000571	EXACT			
-682803	74531	19098166	escitalopram 20 MG Oral Tablet	351250				
-682805	74532	19098166	escitalopram 20 MG Oral Tablet	351250				
-682808	74533	715940	escitalopram 10 MG Oral Tablet	349332				
-684778	74814	715940	escitalopram 10 MG Oral Tablet	349332				
-684780	74814	715940	escitalopram 10 MG Oral Tablet	349332				
-684784	74816	19098166	escitalopram 20 MG Oral Tablet	351250				
-684785	74816	19098166	escitalopram 20 MG Oral Tablet	351250				
-684786	74817	19098166	escitalopram 20 MG Oral Tablet	351250				
-684788	74817	19098166	escitalopram 20 MG Oral Tablet	351250				
-684884	74838	19098166	escitalopram 20 MG Oral Tablet	351250				
-684887	74840	715940	escitalopram 10 MG Oral Tablet	349332				
-684888	74841	19098166	escitalopram 20 MG Oral Tablet	351250				
-685086	74876	715940	escitalopram 10 MG Oral Tablet	349332				
-685089	74878	19098166	escitalopram 20 MG Oral Tablet	351250				
-685092	74880	19098166	escitalopram 20 MG Oral Tablet	351250				
-686841	75223	715962	escitalopram 5 MG Oral Tablet	351249				
-686846	75224	715940	escitalopram 10 MG Oral Tablet	349332				
-686854	75225	19098166	escitalopram 20 MG Oral Tablet	351250				
-686858	75226	19098166	escitalopram 20 MG Oral Tablet	351250				
-688349	75591	715962	escitalopram 5 MG Oral Tablet	351249				
-688350	75591	715962	escitalopram 5 MG Oral Tablet	351249				
-688360	75592	715940	escitalopram 10 MG Oral Tablet	349332				
-688361	75592	715940	escitalopram 10 MG Oral Tablet	349332				
-688369	75593	19098166	escitalopram 20 MG Oral Tablet	351250				
-688370	75593	19098166	escitalopram 20 MG Oral Tablet	351250				
-689191	71425	19098166	escitalopram 20 MG Oral Tablet	351250				
-689192	71428	19098166	escitalopram 20 MG Oral Tablet	351250				
-689193	71430	715940	escitalopram 10 MG Oral Tablet	349332				
-691714	71317	715940	escitalopram 10 MG Oral Tablet	349332				
-691715	71318	19098166	escitalopram 20 MG Oral Tablet	351250				
-691716	71319	19098166	escitalopram 20 MG Oral Tablet	351250				
-691870	76149	715940	escitalopram 10 MG Oral Tablet	349332				
-691873	76149	715940	escitalopram 10 MG Oral Tablet	349332				
-691894	76150	19098166	escitalopram 20 MG Oral Tablet	351250				
-691897	76150	19098166	escitalopram 20 MG Oral Tablet	351250				
-691920	76151	19098166	escitalopram 20 MG Oral Tablet	351250				
-691924	76151	19098166	escitalopram 20 MG Oral Tablet	351250				
-692123	71608	715940	escitalopram 10 MG Oral Tablet	349332				
-692124	71606	19098166	escitalopram 20 MG Oral Tablet	351250				
-692125	71605	19098166	escitalopram 20 MG Oral Tablet	351250				
-692126	71636	19098166	escitalopram 20 MG Oral Tablet	351250				
-692127	74533	715940	escitalopram 10 MG Oral Tablet	349332				
-692128	74532	19098166	escitalopram 20 MG Oral Tablet	351250				
-692130	74531	19098166	escitalopram 20 MG Oral Tablet	351250				
-692226	71659	19098166	escitalopram 20 MG Oral Tablet	351250				
-692383	71609	19098166	escitalopram 20 MG Oral Tablet	351250				
-692385	71610	19098166	escitalopram 20 MG Oral Tablet	351250				
-692386	71599	715940	escitalopram 10 MG Oral Tablet	349332				
-692440	71635	715940	escitalopram 10 MG Oral Tablet	349332				
-692797	71947	715940	escitalopram 10 MG Oral Tablet	349332				
-692799	71949	19098166	escitalopram 20 MG Oral Tablet	351250				
-692800	71948	19098166	escitalopram 20 MG Oral Tablet	351250				
-692851	76398	715939	escitalopram	321988	BROAD			
-692880	76413	715939	escitalopram	321988	BROAD			
-693254	74840	715940	escitalopram 10 MG Oral Tablet	349332				
-693255	74841	19098166	escitalopram 20 MG Oral Tablet	351250				
-693256	74838	19098166	escitalopram 20 MG Oral Tablet	351250				
-693258	74876	715940	escitalopram 10 MG Oral Tablet	349332				
-693260	74878	19098166	escitalopram 20 MG Oral Tablet	351250				
-693261	74880	19098166	escitalopram 20 MG Oral Tablet	351250				
-696455	77056	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358				
-696456	77056	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358				
-696457	77057	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT			
-696458	77057	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT			
-696459	77058	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT			
-696460	77058	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT			
-697652	77419	715939	escitalopram	321988	BROAD			
-698688	71420	715940	escitalopram 10 MG Oral Tablet	349332				
-698689	71423	19098166	escitalopram 20 MG Oral Tablet	351250				
-698690	71427	19098166	escitalopram 20 MG Oral Tablet	351250				
-700107	78080	715940	escitalopram 10 MG Oral Tablet	349332				
-700108	78080	715940	escitalopram 10 MG Oral Tablet	349332				
-700111	78082	19098166	escitalopram 20 MG Oral Tablet	351250				
-700114	78082	19098166	escitalopram 20 MG Oral Tablet	351250				
-700122	78087	715940	escitalopram 10 MG Oral Tablet	349332				
-700123	78087	715940	escitalopram 10 MG Oral Tablet	349332				
-700124	78088	19098166	escitalopram 20 MG Oral Tablet	351250				
-700125	78088	19098166	escitalopram 20 MG Oral Tablet	351250				
-700131	78092	19098166	escitalopram 20 MG Oral Tablet	351250				
-700132	78092	19098166	escitalopram 20 MG Oral Tablet	351250				
-700449	78235	715939	escitalopram	321988	BROAD			
-700451	78237	715939	escitalopram	321988	BROAD			
-700970	78315	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510				
-700972	78315	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510				
-700973	78303	40041668	escitalopram Oral Tablet	378695	BROAD			
-700974	78303	40041668	escitalopram Oral Tablet	378695	BROAD			
-700975	78304	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511				
-700976	78304	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511				
-701231	78386	19098166	escitalopram 20 MG Oral Tablet	351250				
-701232	78386	19098166	escitalopram 20 MG Oral Tablet	351250				
-701236	78387	715940	escitalopram 10 MG Oral Tablet	349332				
-701237	78387	715940	escitalopram 10 MG Oral Tablet	349332				
-701662	78520	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510				
-701663	78520	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510				
-701666	78521	40041668	escitalopram Oral Tablet	378695	BROAD			
-701667	78521	40041668	escitalopram Oral Tablet	378695	BROAD			
-701668	78522	715939	escitalopram	321988	BROAD			
-701669	78522	715939	escitalopram	321988	BROAD			
-701893	78596	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358				
-701894	78596	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358				
-701895	78597	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT			
-701897	78597	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT			
-701898	78598	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT			
-701899	78598	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT			
-701915	78605	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510				
-701916	78606	40041668	escitalopram Oral Tablet	378695	BROAD			
-701918	78608	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511				
-702764	78855	715940	escitalopram 10 MG Oral Tablet	349332				
-702765	78855	715940	escitalopram 10 MG Oral Tablet	349332				
-702766	78856	19098166	escitalopram 20 MG Oral Tablet	351250				
-702767	78856	19098166	escitalopram 20 MG Oral Tablet	351250				
-702768	78857	19098166	escitalopram 20 MG Oral Tablet	351250				
-702769	78857	19098166	escitalopram 20 MG Oral Tablet	351250				
-706939	78605	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510				
-706940	78606	40041668	escitalopram Oral Tablet	378695	BROAD			
-706941	78608	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511				
-711005	75226	19098166	escitalopram 20 MG Oral Tablet	351250				
-711006	75224	715940	escitalopram 10 MG Oral Tablet	349332				
-711007	75225	19098166	escitalopram 20 MG Oral Tablet	351250				
-712862	81292	715940	escitalopram 10 MG Oral Tablet	349332				
-712863	81292	715940	escitalopram 10 MG Oral Tablet	349332				
-712864	81293	19098166	escitalopram 20 MG Oral Tablet	351250				
-712865	81293	19098166	escitalopram 20 MG Oral Tablet	351250				
-712866	81294	19098166	escitalopram 20 MG Oral Tablet	351250				
-712867	81294	19098166	escitalopram 20 MG Oral Tablet	351250				
-720614	82842	715940	escitalopram 10 MG Oral Tablet	349332				
-720615	82842	715940	escitalopram 10 MG Oral Tablet	349332				
-734533	65182	19098166	escitalopram 20 MG Oral Tablet	351250				
-734582	65183	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513				
-734616	65184	715940	escitalopram 10 MG Oral Tablet	349332				
-744070	87265	19098166	escitalopram 20 MG Oral Tablet	351250				
-744071	87265	19098166	escitalopram 20 MG Oral Tablet	351250				
-744072	87266	19098166	escitalopram 20 MG Oral Tablet	351250				
-744073	87266	19098166	escitalopram 20 MG Oral Tablet	351250				
-744074	87267	715962	escitalopram 5 MG Oral Tablet	351249				
-744075	87268	715940	escitalopram 10 MG Oral Tablet	349332				
-744076	87268	715940	escitalopram 10 MG Oral Tablet	349332				
-747287	65230	715940	escitalopram 10 MG Oral Tablet	349332				
-747667	65231	715962	escitalopram 5 MG Oral Tablet	351249				
-747790	65231	715962	escitalopram 5 MG Oral Tablet	351249				
-749986	65233	19098166	escitalopram 20 MG Oral Tablet	351250				
-750026	65234	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513				
-769819	71224	19098166	escitalopram 20 MG Oral Tablet	351250				
+603229	71417	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+606048	77056	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT		 	2026-03-12
+606049	77057	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT		 	2026-03-12
+606050	77058	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT		 	2026-03-12
+659079	68811	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+659186	68875	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+663938	71430	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+663939	71428	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+663940	71425	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+663944	71420	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+663945	71423	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+663946	71427	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+663954	71317	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+663956	71318	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+663957	71319	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+663982	71417	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+663983	71417	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+663984	71421	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+663985	71421	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+663987	71426	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+663988	71426	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+664028	71224	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+664031	71223	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+664036	71222	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+664197	71606	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+664198	71608	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+664199	71605	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+664244	71659	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+664245	71635	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+664246	71636	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+664301	71651	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+664302	71649	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+664303	71656	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+664910	71947	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+664911	71948	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+664913	71949	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+665333	72307	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+665335	72307	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+665340	72314	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+665344	72320	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+665348	72323	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+665683	72556	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+665684	72556	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+665685	72554	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+665686	72554	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+665688	72555	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+665689	72555	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+671045	72481	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+671048	72481	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+671059	72483	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+671062	72483	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+671072	72484	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+671076	72484	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+673026	71609	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+673027	71610	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+673028	71599	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+677692	71651	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+677693	71649	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+677694	71656	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+678928	73345	36882056	Escitalopram 12.8 MG Oral Tablet	OMOP991454	EXACT		 	2026-03-12
+678930	73347	36880120	Escitalopram 25.5 MG Oral Tablet	OMOP1000571	EXACT		 	2026-03-12
+682803	74531	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+682805	74532	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+682808	74533	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+684778	74814	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+684780	74814	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+684784	74816	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+684785	74816	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+684786	74817	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+684788	74817	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+684884	74838	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+684887	74840	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+684888	74841	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+685086	74876	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+685089	74878	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+685092	74880	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+686841	75223	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+686846	75224	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+686854	75225	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+686858	75226	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+688349	75591	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+688350	75591	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+688360	75592	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+688361	75592	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+688369	75593	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+688370	75593	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+689191	71425	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+689192	71428	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+689193	71430	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+691714	71317	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+691715	71318	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+691716	71319	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+691870	76149	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+691873	76149	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+691894	76150	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+691897	76150	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+691920	76151	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+691924	76151	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+692123	71608	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+692124	71606	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+692125	71605	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+692126	71636	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+692127	74533	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+692128	74532	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+692130	74531	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+692226	71659	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+692383	71609	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+692385	71610	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+692386	71599	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+692440	71635	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+692797	71947	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+692799	71949	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+692800	71948	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+692851	76398	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+692880	76413	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+693254	74840	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+693255	74841	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+693256	74838	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+693258	74876	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+693260	74878	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+693261	74880	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+696455	77056	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT		 	2026-03-12
+696456	77056	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT		 	2026-03-12
+696457	77057	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT		 	2026-03-12
+696458	77057	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT		 	2026-03-12
+696459	77058	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT		 	2026-03-12
+696460	77058	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT		 	2026-03-12
+697652	77419	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+698688	71420	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+698689	71423	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+698690	71427	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+700107	78080	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+700108	78080	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+700111	78082	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+700114	78082	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+700122	78087	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+700123	78087	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+700124	78088	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+700125	78088	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+700131	78092	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+700132	78092	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+700449	78235	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+700451	78237	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+700970	78315	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+700972	78315	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+700973	78303	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
+700974	78303	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
+700975	78304	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511	EXACT		 	2026-03-12
+700976	78304	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511	EXACT		 	2026-03-12
+701231	78386	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+701232	78386	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+701236	78387	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+701237	78387	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+701662	78520	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+701663	78520	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+701666	78521	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
+701667	78521	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
+701668	78522	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+701669	78522	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
+701893	78596	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT		 	2026-03-12
+701894	78596	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT		 	2026-03-12
+701895	78597	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT		 	2026-03-12
+701897	78597	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT		 	2026-03-12
+701898	78598	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT		 	2026-03-12
+701899	78598	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT		 	2026-03-12
+701915	78605	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+701916	78606	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
+701918	78608	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511	EXACT		 	2026-03-12
+702764	78855	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+702765	78855	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+702766	78856	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+702767	78856	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+702768	78857	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+702769	78857	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+706939	78605	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+706940	78606	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
+706941	78608	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511	EXACT		 	2026-03-12
+711005	75226	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+711006	75224	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+711007	75225	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+712862	81292	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+712863	81292	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+712864	81293	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+712865	81293	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+712866	81294	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+712867	81294	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+720614	82842	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+720615	82842	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+734533	65182	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+734582	65183	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+734616	65184	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+744070	87265	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+744071	87265	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
+744072	87266	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+744073	87266	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+744074	87267	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+744075	87268	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+744076	87268	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+747287	65230	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+747667	65231	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+747790	65231	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+749986	65233	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+750026	65234	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+769819	71224	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+664915	72131	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+664916	72131	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+664917	72132	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+664918	72132	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+664919	72130	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+664921	72130	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+665692	72551	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+665694	72552	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+665696	72552	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+665698	72574	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+665699	72553	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+665700	72553	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+665701	72575	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+665702	72575	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+665704	72576	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+665705	72576	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+665706	72577	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+665707	72577	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+672464	73202	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+672466	73202	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+672962	73201	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+672963	73201	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+672965	73203	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+672966	73203	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+682114	74426	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+682136	74428	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+682160	74429	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+682999	74557	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+683002	74556	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+683005	74558	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+696650	77098	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT		 	2026-03-12
+700109	78081	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+700110	78081	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+701222	78382	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+701223	78382	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+701224	78383	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+701225	78383	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+701226	78384	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+701229	78384	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+701587	78487	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+701588	78487	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+701591	78488	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+701592	78488	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+701595	78489	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+701596	78489	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+701600	78490	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+701601	78490	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+703451	79011	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+703452	79011	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+703453	79012	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+703455	79012	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+703456	79013	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+703457	79013	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+706185	79742	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+706186	79742	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12
+706187	79748	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+706188	79748	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+706189	79749	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+706190	79749	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+709008	0020132	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+709448	74426	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
+709449	74428	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+709760	74429	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+720616	82843	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+720617	82843	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
+720618	82844	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+720619	82844	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
+734673	65185	715962	escitalopram 5 MG Oral Tablet	351249	EXACT		 	2026-03-12

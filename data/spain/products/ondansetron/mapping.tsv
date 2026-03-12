@@ -1,58 +1,81 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602421	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-602422	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-602716	69378	19019419	ondansetron 4 MG Oral Tablet	198052				
-602717	69379	19079171	ondansetron 8 MG Oral Tablet	312086				
-602718	69380	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			
-602719	69381	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-603427	72387	19019419	ondansetron 4 MG Oral Tablet	198052				
-603428	72387	19019419	ondansetron 4 MG Oral Tablet	198052				
-603429	72388	19079171	ondansetron 8 MG Oral Tablet	312086				
-603430	72388	19079171	ondansetron 8 MG Oral Tablet	312086				
-621185	62944	40168116	ondansetron 4 MG Disintegrating Oral Tablet [Zofran]	876690	EXACT			
-621193	62945	40168118	ondansetron 8 MG Disintegrating Oral Tablet [Zofran]	876693	EXACT			
-643627	59069	19005966	ondansetron 4 MG Oral Tablet [Zofran]	104895				
-643635	59070	19005967	ondansetron 8 MG Oral Tablet [Zofran]	104896				
-645200	60405	19079171	ondansetron 8 MG Oral Tablet	312086				
-645218	60404	19019419	ondansetron 4 MG Oral Tablet	198052				
-651571	66913	19019419	ondansetron 4 MG Oral Tablet	198052				
-651572	66913	19019419	ondansetron 4 MG Oral Tablet	198052				
-651573	66914	19079171	ondansetron 8 MG Oral Tablet	312086				
-651574	66914	19079171	ondansetron 8 MG Oral Tablet	312086				
-656415	68195	19101592	ondansetron 2.5 MG/ML Injectable Solution	387067	EXACT			
-656416	68195	19101592	ondansetron 2.5 MG/ML Injectable Solution	387067	EXACT			
-656438	68209	19079171	ondansetron 8 MG Oral Tablet	312086				
-656451	68215	19019419	ondansetron 4 MG Oral Tablet	198052				
-658390	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-658391	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-660082	69378	19019419	ondansetron 4 MG Oral Tablet	198052				
-660083	69378	19019419	ondansetron 4 MG Oral Tablet	198052				
-660085	69379	19079171	ondansetron 8 MG Oral Tablet	312086				
-660086	69379	19079171	ondansetron 8 MG Oral Tablet	312086				
-660087	69381	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-661153	69905	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-661155	69905	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-662256	70454	19079171	ondansetron 8 MG Oral Tablet	312086				
-671282	72468	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894	EXACT			
-671287	72469	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087	EXACT			
-676229	73005	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894				
-676232	73006	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087				
-690891	60405	19079171	ondansetron 8 MG Oral Tablet	312086				
-690909	60405	19079171	ondansetron 8 MG Oral Tablet	312086				
-690917	60404	19019419	ondansetron 4 MG Oral Tablet	198052				
-690925	60404	19019419	ondansetron 4 MG Oral Tablet	198052				
-692020	59069	19005966	ondansetron 4 MG Oral Tablet [Zofran]	104895				
-692038	59069	19005966	ondansetron 4 MG Oral Tablet [Zofran]	104895				
-692046	59070	19005967	ondansetron 8 MG Oral Tablet [Zofran]	104896				
-692053	59070	19005967	ondansetron 8 MG Oral Tablet [Zofran]	104896				
-692856	76400	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894	EXACT			
-692857	76401	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087	EXACT			
-703915	79131	19019419	ondansetron 4 MG Oral Tablet	198052				
-703916	79131	19019419	ondansetron 4 MG Oral Tablet	198052				
-703917	79132	19079171	ondansetron 8 MG Oral Tablet	312086				
-703920	79132	19079171	ondansetron 8 MG Oral Tablet	312086				
-721214	83001	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-721218	83001	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			
-753708	87730	40070100	ondansetron Injectable Solution	376327	BROAD			
-855288	62944	40168116	ondansetron 4 MG Disintegrating Oral Tablet [Zofran]	876690	EXACT			
-855296	62945	40168118	ondansetron 8 MG Disintegrating Oral Tablet [Zofran]	876693	EXACT			
+602421	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+602422	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+602716	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+602717	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+602718	69380	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+602719	69381	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+603427	72387	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+603428	72387	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+603429	72388	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+603430	72388	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+621185	62944	40168116	ondansetron 4 MG Disintegrating Oral Tablet [Zofran]	876690	EXACT			2026-03-12
+621193	62945	40168118	ondansetron 8 MG Disintegrating Oral Tablet [Zofran]	876693	EXACT			2026-03-12
+643627	59069	19005966	ondansetron 4 MG Oral Tablet [Zofran]	104895	EXACT			2026-03-12
+643635	59070	19005967	ondansetron 8 MG Oral Tablet [Zofran]	104896	EXACT			2026-03-12
+645200	60405	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+645218	60404	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+651571	66913	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+651572	66913	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+651573	66914	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+651574	66914	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+656415	68195	19101592	ondansetron 2.5 MG/ML Injectable Solution	387067	EXACT			2026-03-12
+656416	68195	19101592	ondansetron 2.5 MG/ML Injectable Solution	387067	EXACT			2026-03-12
+656438	68209	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+656451	68215	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+658390	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+658391	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+660082	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+660083	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+660085	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+660086	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+660087	69381	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+661153	69905	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+661155	69905	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+662256	70454	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+671282	72468	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894	EXACT			2026-03-12
+671287	72469	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087	EXACT			2026-03-12
+676229	73005	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894	BROAD	oral film mapped to disintegrating tablet	ondansetron 4 MG Oral Soluble Film	2026-03-12
+676232	73006	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087	BROAD	oral film mapped to disintegrating tablet	ondansetron 8 MG Oral Soluble Film	2026-03-12
+690891	60405	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+690909	60405	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+690917	60404	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+690925	60404	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+692020	59069	19005966	ondansetron 4 MG Oral Tablet [Zofran]	104895	EXACT			2026-03-12
+692038	59069	19005966	ondansetron 4 MG Oral Tablet [Zofran]	104895	EXACT			2026-03-12
+692046	59070	19005967	ondansetron 8 MG Oral Tablet [Zofran]	104896	EXACT			2026-03-12
+692053	59070	19005967	ondansetron 8 MG Oral Tablet [Zofran]	104896	EXACT			2026-03-12
+692856	76400	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894	EXACT			2026-03-12
+692857	76401	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087	EXACT			2026-03-12
+703915	79131	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+703916	79131	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+703917	79132	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+703920	79132	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+721214	83001	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+721218	83001	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+753708	87730	40070100	ondansetron Injectable Solution	376327	BROAD	premixed 8 mg/100 ml infusion; no matching RxNorm concentration	100 ML ondansetron 0.08 MG/ML Injection	2026-03-12
+855288	62944	40168116	ondansetron 4 MG Disintegrating Oral Tablet [Zofran]	876690	EXACT			2026-03-12
+855296	62945	40168118	ondansetron 8 MG Disintegrating Oral Tablet [Zofran]	876693	EXACT			2026-03-12
+600017	66393	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+600020	66396	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+650279	66393	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+650280	66393	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
+650284	66396	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+650285	66396	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
+600018	66394	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+605408	72117	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+643643	59071	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+645226	60402	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+671265	70969	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+698141	77544	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+730289	59071	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+796953	59071	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+600019	66395	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
+605407	72117	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
+643650	59072	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
+645234	60403	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
+671266	70969	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
+698142	77545	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
+715256	81829	40070100	ondansetron Injectable Solution	376327	BROAD	premixed 8 mg/50 ml infusion; no matching RxNorm concentration	50 ML ondansetron 0.16 MG/ML Injection	2026-03-12
+715257	81830	40070100	ondansetron Injectable Solution	376327	BROAD	premixed 8 mg/100 ml infusion; no matching RxNorm concentration	100 ML ondansetron 0.08 MG/ML Injection	2026-03-12
+753709	87731	40070100	ondansetron Injectable Solution	376327	BROAD	premixed 8 mg/50 ml infusion; no matching RxNorm concentration	50 ML ondansetron 0.16 MG/ML Injection	2026-03-12

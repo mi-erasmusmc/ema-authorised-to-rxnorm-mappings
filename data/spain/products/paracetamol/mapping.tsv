@@ -1,229 +1,288 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602381	68330	19020053	acetaminophen 500 MG Oral Tablet	198440				
-602382	68331	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-602386	68339	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-605747	75410	19020053	acetaminophen 500 MG Oral Tablet	198440				
-622266	65338	1125315	acetaminophen	161	BROAD			
-629501	23203	19020053	acetaminophen 500 MG Oral Tablet	198440				
-642272	52010	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-655905	65719	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-656128	68066	1125315	acetaminophen	161	BROAD			
-656129	68066	1125315	acetaminophen	161	BROAD			
-656254	65455	1125315	acetaminophen	161	BROAD			
-656255	65455	1125315	acetaminophen	161	BROAD			
-658228	68318	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-658230	68318	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-658244	68330	19020053	acetaminophen 500 MG Oral Tablet	198440				
-658246	68331	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-658247	68331	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-658256	68339	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-658257	68339	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-658461	68459	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-658506	63647	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-659926	63501	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-660136	69410	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-660137	69410	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-660172	69429	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-660173	69429	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-660256	69477	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-660257	69477	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-660260	69478	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-660261	69478	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-660267	69481	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-660268	69481	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-660324	63500	19020053	acetaminophen 500 MG Oral Tablet	198440				
-660415	63501	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-661219	68459	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-661265	69955	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-661266	69955	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-661267	49302	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-661428	70040	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-661998	70300	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-661999	70300	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-662011	70303	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-662012	70303	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-662013	70304	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662014	70304	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662017	70308	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-662018	70308	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-662025	70310	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662026	70310	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662041	70330	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662042	70330	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662047	70331	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662096	70347	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-662099	70349	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662100	70349	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-662409	70569	19107242	acetaminophen 250 MG Oral Tablet	430835	EXACT			
-662410	70571	1125315	acetaminophen	161	BROAD			
-662413	70572	19122503	acetaminophen 500 MG Disintegrating Oral Tablet	603139				
-662414	70572	19122503	acetaminophen 500 MG Disintegrating Oral Tablet	603139				
-663603	71193	1125315	acetaminophen	161	BROAD			
-663604	71193	1125315	acetaminophen	161	BROAD			
-663663	71228	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-663664	71228	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-663670	71220	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-663671	71220	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-663679	71219	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-663680	71219	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-664012	71434	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-664013	71434	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-665810	58157	19105666	acetaminophen 30 MG/ML Oral Solution	421996	EXACT			
-671990	61510	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-672647	63318	1125315	acetaminophen	161	BROAD			
-672648	63318	1125315	acetaminophen	161	BROAD			
-672653	52010	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-672669	72741	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-672670	72741	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-681271	49302	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-684906	74846	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-684907	74846	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-685362	63647	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-686883	75233	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-686884	75234	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-686885	75234	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-686890	75235	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-686891	75235	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-687626	75410	19020053	acetaminophen 500 MG Oral Tablet	198440				
-691109	75994	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-691110	75994	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-691263	76028	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-692193	76192	19020053	acetaminophen 500 MG Oral Tablet	198440				
-695673	76914	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-696998	77196	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-696999	77196	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-697000	77197	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-697001	77197	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-697011	77203	19020053	acetaminophen 500 MG Oral Tablet	198440				
-697012	77203	19020053	acetaminophen 500 MG Oral Tablet	198440				
-697020	72344	43146095	Acetaminophen 250 MG Oral Granules	OMOP450378				
-697021	72345	746976	acetaminophen 500 MG Granules for Oral Solution	2668206	EXACT			
-698421	77663	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-698422	77663	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-698429	77667	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-698430	77667	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-699453	72343	1125315	acetaminophen	161	BROAD			
-700057	78071	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-700058	78071	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-702692	78837	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-702693	78837	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-702822	78868	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-702825	78869	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-702827	78869	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-702828	78870	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD			
-702830	78870	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD			
-702831	78870	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD			
-704006	76914	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-708590	80393	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD			
-715017	77667	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-715240	66204	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-715241	66204	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-715242	65338	1125315	acetaminophen	161	BROAD			
-715372	81873	19020053	acetaminophen 500 MG Oral Tablet	198440				
-715373	81874	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-715374	81874	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-715598	81946	1125315	acetaminophen	161	BROAD			
-715600	81947	1125315	acetaminophen	161	BROAD			
-715602	81948	1125315	acetaminophen	161	BROAD			
-719969	80393	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD			
-720447	82797	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-720448	82797	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-720849	82902	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-720850	82902	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-720851	82903	19020053	acetaminophen 500 MG Oral Tablet	198440				
-721439	83044	19122503	acetaminophen 500 MG Disintegrating Oral Tablet	603139				
-722076	83208	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-722077	83208	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-722079	83209	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-722354	83287	1125315	acetaminophen	161	BROAD			
-725113	83939	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-725114	83939	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-725115	83940	19020053	acetaminophen 500 MG Oral Tablet	198440				
-725925	84185	1125315	acetaminophen	161	BROAD			
-725926	84185	1125315	acetaminophen	161	BROAD			
-725998	84214	19020053	acetaminophen 500 MG Oral Tablet	198440				
-725999	84215	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-726000	84215	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-726001	84216	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-726004	84218	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-726005	84218	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-726063	84229	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-726064	84229	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-726282	84311	43146095	Acetaminophen 250 MG Oral Granules	OMOP450378				
-726284	84312	1125315	acetaminophen	161	BROAD			
-726285	84312	1125315	acetaminophen	161	BROAD			
-726286	84313	746976	acetaminophen 500 MG Granules for Oral Solution	2668206	EXACT			
-726287	84313	746976	acetaminophen 500 MG Granules for Oral Solution	2668206	EXACT			
-726504	84400	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-726507	84401	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-726508	84401	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-727037	84543	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-727530	84709	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-727534	84710	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-728553	74846	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-728599	85099	19020053	acetaminophen 500 MG Oral Tablet	198440				
-728601	85100	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-728602	85101	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-728603	85102	19020053	acetaminophen 500 MG Oral Tablet	198440				
-728604	85103	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-728605	85104	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-728616	85111	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-728617	85111	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-728619	85112	19020053	acetaminophen 500 MG Oral Tablet	198440				
-728620	85113	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-728728	85132	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-728849	85210	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-729008	75234	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-729547	85496	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-729548	85497	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-729549	85497	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-730410	85780	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-730412	85782	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-730519	85824	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-730520	85824	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-730552	85830	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-730554	85831	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-730579	85846	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-730610	85861	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-730761	85892	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-731094	85997	19020053	acetaminophen 500 MG Oral Tablet	198440				
-731095	85998	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-731397	52010	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-732699	86526	1125315	acetaminophen	161	BROAD			
-732702	86527	1125315	acetaminophen	161	BROAD			
-732774	57131	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-732780	86549	19020053	acetaminophen 500 MG Oral Tablet	198440				
-734054	86801	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-750521	49302	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-750711	49302	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-756056	45931	40005797	acetaminophen Rectal Suppository	370508	EXACT			
-756064	45930	1127042	acetaminophen 150 MG Rectal Suppository	251685				
-756072	45929	1125359	acetaminophen 325 MG Rectal Suppository	198437				
-758070	87996	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-758071	87997	19020053	acetaminophen 500 MG Oral Tablet	198440				
-758149	88032	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-758150	88032	19107244	acetaminophen 1000 MG Oral Tablet	430837				
-758530	71219	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-759373	65719	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-761525	88510	21143258	Acetaminophen 500 MG Oral Capsule by Zentiva	OMOP406560				
-763739	89145	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-763742	89146	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-763743	89146	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			
-764454	67964	1125315	acetaminophen	161	BROAD			
-764501	75233	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			
-766382	89983	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-767821	90356	19020053	acetaminophen 500 MG Oral Tablet	198440				
-833673	23203	19020053	acetaminophen 500 MG Oral Tablet	198440				
-850669	32819	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-851162	43990	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			
-888685	65502	1125315	acetaminophen	161	BROAD			
-933416	61510	44817980	acetaminophen Effervescent Oral Tablet	1536879				
-933424	52806	21143258	Acetaminophen 500 MG Oral Capsule by Zentiva	OMOP406560				
-933564	58156	19020053	acetaminophen 500 MG Oral Tablet	198440				
-947663	55478	19020053	acetaminophen 500 MG Oral Tablet	198440				
-960294	56301	1126984	acetaminophen 250 MG Rectal Suppository	249875				
-961482	55478	19020053	acetaminophen 500 MG Oral Tablet	198440				
-961805	56423	1125315	acetaminophen	161	BROAD			
-966739	56817	19063317	acetaminophen 24 MG/ML Oral Suspension	250650	EXACT			
-978056	57652	19020053	acetaminophen 500 MG Oral Tablet	198440				
-978064	57652	19020053	acetaminophen 500 MG Oral Tablet	198440				
+602381	68330	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+602382	68331	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+602386	68339	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+605747	75410	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+622266	65338	19107244	acetaminophen 1000 MG Oral Tablet	430837	BROAD	1000 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 1000 MG Oral Solution Sachet	2026-03-12
+629501	23203	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+642272	52010	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+655905	65719	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+656128	68066	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT	film-coated tablet mapped as oral tablet		2026-03-12
+656129	68066	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT	film-coated tablet mapped as oral tablet		2026-03-12
+656254	65455	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	BROAD	effervescent granules; mapped to effervescent tablet	acetaminophen 1000 MG Effervescent Oral Granules	2026-03-12
+656255	65455	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	BROAD	effervescent granules; mapped to effervescent tablet	acetaminophen 1000 MG Effervescent Oral Granules	2026-03-12
+658228	68318	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+658230	68318	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+658244	68330	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+658246	68331	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+658247	68331	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+658256	68339	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+658257	68339	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+658461	68459	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+658506	63647	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+659926	63501	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+660136	69410	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+660137	69410	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+660172	69429	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+660173	69429	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+660256	69477	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+660257	69477	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+660260	69478	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+660261	69478	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+660267	69481	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+660268	69481	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+660324	63500	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+660415	63501	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+661219	68459	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+661265	69955	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+661266	69955	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+661267	49302	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+661428	70040	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+661998	70300	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+661999	70300	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+662011	70303	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+662012	70303	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+662013	70304	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662014	70304	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662017	70308	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+662018	70308	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+662025	70310	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662026	70310	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662041	70330	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662042	70330	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662047	70331	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662096	70347	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+662099	70349	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662100	70349	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662409	70569	19107242	acetaminophen 250 MG Oral Tablet	430835	EXACT			2026-03-12
+662410	70571	19122502	acetaminophen 325 MG Disintegrating Oral Tablet	603136	EXACT			2026-03-12
+662413	70572	19122503	acetaminophen 500 MG Disintegrating Oral Tablet	603139	EXACT			2026-03-12
+662414	70572	19122503	acetaminophen 500 MG Disintegrating Oral Tablet	603139	EXACT			2026-03-12
+663603	71193	43157352	Acetaminophen 1000 MG Powder for Oral Solution	OMOP450364	EXACT			2026-03-12
+663604	71193	43157352	Acetaminophen 1000 MG Powder for Oral Solution	OMOP450364	EXACT			2026-03-12
+663663	71228	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+663664	71228	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+663670	71220	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+663671	71220	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+663679	71219	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+663680	71219	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+664012	71434	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+664013	71434	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+665810	58157	19105666	acetaminophen 30 MG/ML Oral Solution	421996	EXACT			2026-03-12
+671990	61510	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+672647	63318	1125393	acetaminophen 650 MG Oral Tablet	198444	BROAD	650 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 650 MG Oral Solution Sachet	2026-03-12
+672648	63318	1125393	acetaminophen 650 MG Oral Tablet	198444	BROAD	650 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 650 MG Oral Solution Sachet	2026-03-12
+672653	52010	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+672669	72741	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+672670	72741	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+681271	49302	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+684906	74846	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+684907	74846	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+685362	63647	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+686883	75233	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+686884	75234	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+686885	75234	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+686890	75235	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+686891	75235	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+687626	75410	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+691109	75994	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+691110	75994	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+691263	76028	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+692193	76192	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+695673	76914	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+696998	77196	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+696999	77196	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+697000	77197	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+697001	77197	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+697011	77203	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+697012	77203	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+697020	72344	43146095	Acetaminophen 250 MG Oral Granules	OMOP450378	EXACT			2026-03-12
+697021	72345	746976	acetaminophen 500 MG Granules for Oral Solution	2668206	EXACT			2026-03-12
+698421	77663	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+698422	77663	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+698429	77667	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+698430	77667	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+699453	72343	1126873	acetaminophen 325 MG Oral Granules	243676	EXACT			2026-03-12
+700057	78071	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+700058	78071	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+702692	78837	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+702693	78837	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+702822	78868	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+702825	78869	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+702827	78869	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+702828	78870	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+702830	78870	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+702831	78870	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+704006	76914	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+708590	80393	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+715017	77667	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+715240	66204	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+715241	66204	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+715242	65338	19107244	acetaminophen 1000 MG Oral Tablet	430837	BROAD	1000 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 1000 MG Oral Solution Sachet	2026-03-12
+715372	81873	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+715373	81874	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+715374	81874	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+715598	81946	19020053	acetaminophen 500 MG Oral Tablet	198440	BROAD	500 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 500 MG Oral Solution Sachet	2026-03-12
+715600	81947	1125393	acetaminophen 650 MG Oral Tablet	198444	BROAD	650 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 650 MG Oral Solution Sachet	2026-03-12
+715602	81948	19107244	acetaminophen 1000 MG Oral Tablet	430837	BROAD	1000 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 1000 MG Oral Solution Sachet	2026-03-12
+719969	80393	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+720447	82797	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+720448	82797	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+720849	82902	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+720850	82902	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+720851	82903	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+721439	83044	19122503	acetaminophen 500 MG Disintegrating Oral Tablet	603139	EXACT			2026-03-12
+722076	83208	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+722077	83208	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+722079	83209	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+722354	83287	43157352	Acetaminophen 1000 MG Powder for Oral Solution	OMOP450364	EXACT			2026-03-12
+725113	83939	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+725114	83939	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+725115	83940	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+725925	84185	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+725926	84185	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+725998	84214	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+725999	84215	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+726000	84215	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+726001	84216	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+726004	84218	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+726005	84218	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+726063	84229	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+726064	84229	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+726282	84311	43146095	Acetaminophen 250 MG Oral Granules	OMOP450378	EXACT			2026-03-12
+726284	84312	1126873	acetaminophen 325 MG Oral Granules	243676	EXACT			2026-03-12
+726285	84312	1126873	acetaminophen 325 MG Oral Granules	243676	EXACT			2026-03-12
+726286	84313	746976	acetaminophen 500 MG Granules for Oral Solution	2668206	EXACT			2026-03-12
+726287	84313	746976	acetaminophen 500 MG Granules for Oral Solution	2668206	EXACT			2026-03-12
+726504	84400	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+726507	84401	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+726508	84401	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+727037	84543	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+727530	84709	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+727534	84710	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+728553	74846	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+728599	85099	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+728601	85100	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+728602	85101	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+728603	85102	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+728604	85103	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+728605	85104	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+728616	85111	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+728617	85111	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+728619	85112	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+728620	85113	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+728728	85132	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+728849	85210	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+729008	75234	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+729547	85496	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+729548	85497	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+729549	85497	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+730410	85780	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+730412	85782	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+730519	85824	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+730520	85824	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+730552	85830	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+730554	85831	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+730579	85846	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+730610	85861	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+730761	85892	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+731094	85997	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+731095	85998	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+731397	52010	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+732699	86526	19107244	acetaminophen 1000 MG Oral Tablet	430837	BROAD	1000 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 1000 MG Oral Solution Sachet	2026-03-12
+732702	86527	19020053	acetaminophen 500 MG Oral Tablet	198440	BROAD	500 mg oral solution sachet; no sachet concept in RxNorm	acetaminophen 500 MG Oral Solution Sachet	2026-03-12
+732774	57131	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+732780	86549	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+734054	86801	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+750521	49302	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+750711	49302	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+756056	45931	19062932	acetaminophen 600 MG Rectal Suppository	250494	EXACT	corrected from generic suppository		2026-03-12
+756064	45930	1127042	acetaminophen 150 MG Rectal Suppository	251685	EXACT			2026-03-12
+756072	45929	1127043	acetaminophen 300 MG Rectal Suppository	251698	EXACT	corrected from 325 MG to 300 MG		2026-03-12
+758070	87996	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+758071	87997	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+758149	88032	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+758150	88032	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+758530	71219	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+759373	65719	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+761525	88510	1125360	acetaminophen 500 MG Oral Capsule	198439	EXACT	corrected from supplier concept		2026-03-12
+763739	89145	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+763742	89146	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+763743	89146	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+764454	67964	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	BROAD	effervescent powder; mapped to effervescent tablet	acetaminophen 1000 MG Effervescent Oral Powder	2026-03-12
+764501	75233	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+766382	89983	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+767821	90356	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+833673	23203	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+850669	32819	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+851162	43990	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+888685	65502	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 650 MG Effervescent Oral Tablet	2026-03-12
+933416	61510	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD		acetaminophen 1000 MG Effervescent Oral Tablet	2026-03-12
+933424	52806	1125360	acetaminophen 500 MG Oral Capsule	198439	EXACT	corrected from supplier concept		2026-03-12
+933564	58156	44818333	acetaminophen 500 MG Effervescent Oral Tablet	1536880	EXACT	corrected from Oral Tablet to Effervescent		2026-03-12
+947663	55478	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+960294	56301	1126984	acetaminophen 250 MG Rectal Suppository	249875	EXACT			2026-03-12
+961482	55478	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+961805	56423	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+966739	56817	19063317	acetaminophen 24 MG/ML Oral Suspension	250650	EXACT			2026-03-12
+978056	57652	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+978064	57652	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+603237	71530	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT		2026-03-12	2026-03-12
+603559	38072	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+605146	72478	44818333	acetaminophen 500 MG Effervescent Oral Tablet	1536880	EXACT			2026-03-12
+605593	72214	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+605677	74477	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+605754	66012	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+605779	75594	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+605780	75594	740261	50 ML acetaminophen 10 MG/ML Injection	2480095	EXACT			2026-03-12
+606090	74477	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+606250	72478	44818333	acetaminophen 500 MG Effervescent Oral Tablet	1536880	EXACT			2026-03-12
+607696	88987	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+652882	67330	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	BROAD	effervescent granules; mapped to effervescent tablet	acetaminophen 1000 MG Effervescent Oral Granules	2026-03-12
+655898	67976	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	BROAD	effervescent powder; mapped to effervescent tablet	acetaminophen 1000 MG Effervescent Oral Powder	2026-03-12
+655899	67976	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	BROAD	effervescent powder; mapped to effervescent tablet	acetaminophen 1000 MG Effervescent Oral Powder	2026-03-12
+658486	68474	740261	50 ML acetaminophen 10 MG/ML Injection	2480095	EXACT			2026-03-12
+658487	68474	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+658488	68475	740261	50 ML acetaminophen 10 MG/ML Injection	2480095	EXACT			2026-03-12
+658489	68475	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+660495	58319	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	BROAD	effervescent granules; mapped to effervescent tablet	acetaminophen 1000 MG Effervescent Oral Granules	2026-03-12
+662027	70309	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+662028	70309	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+662029	70311	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+662030	70311	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+665651	72522	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+671323	72478	44818333	acetaminophen 500 MG Effervescent Oral Tablet	1536880	EXACT			2026-03-12
+672442	72112	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+677364	73492	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+677366	73490	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+677504	73425	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+679560	73871	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+684145	73425	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+685696	73490	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+685698	73492	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+686892	75243	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+691899	57552	1125360	acetaminophen 500 MG Oral Capsule	198439	EXACT			2026-03-12
+698681	77758	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+698682	77758	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+699426	72478	44818333	acetaminophen 500 MG Effervescent Oral Tablet	1536880	EXACT			2026-03-12
+700422	78223	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+700424	78223	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+702998	78897	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+706384	77460	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+707417	80117	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+710143	80682	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+710144	80682	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+710146	80682	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+710147	80682	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+711023	72112	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+711252	68474	19112656	100 ML acetaminophen 10 MG/ML Injection	483017	EXACT			2026-03-12
+711274	77460	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+728951	75243	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+728952	75243	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
+730762	85893	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+731101	64021	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+733012	86627	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
+908376	64021	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
+966713	56815	19107242	acetaminophen 250 MG Oral Tablet	430835	EXACT			2026-03-12
+966747	56818	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+980706	57846	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12

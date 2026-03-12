@@ -32,7 +32,7 @@ To reset a row to auto-mapping, delete the row from `mapping.tsv` and rerun `lin
 ## Input Files
 
 Each product folder under `data/spain/products/{ingredient_slug}/` contains:
-- **`data.tsv`**: One row per registered presentation with `cod_nacion`, `nro_definitivo`, `des_nomco` (brand name), `des_dcp` (clinical description), `des_dosific` (dosage string), `principios_activos` (active ingredient + dose), `forma_farmaceutica`, `vias_administracion`, `atc`, `laboratorio_titular` (MAH), `situacion_registro` (Autorizado / Anulado / Suspenso)
+- **`data.tsv`**: One row per registered presentation with `cod_nacion`, `nro_definitivo`, `des_nomco` (brand name), `des_dcp` (clinical description), `des_dosific` (dosage string), `principios_activos` (active ingredient + dose), `forma_farmaceutica`, `vias_administracion`, `atc`, `laboratorio_titular` (MAH), `sw_generico` (generic flag), `sw_base_a_plantas` (herbal), `biosimilar`, `radiofarmaco`
 - **`mapping.tsv`**: Current mappings — auto-generated initially, directly editable
 
 `cod_nacion` is the stable unique key per presentation. `nro_definitivo` is a product-level identifier (shared across pack sizes, similar to EMA product number).
@@ -107,21 +107,42 @@ for nro, entries in sorted(counts.items()):
 
 ## Mapping Workflow
 
-1. **Read `data.tsv`** for the product folder to understand all presentations
-2. **Check `mapping.tsv`** — most products already have an auto-mapping from EMA
-3. **Verify each row** — confirm the concept name volume/strength matches `des_dosific`
-4. **Fix duplicates** — identify rows with wrong volumes, search for the correct concept, edit in place
-5. **Map unmapped rows** — for presentations with no auto-match, use `find-concepts` to find the right concept
-6. **Validate and regenerate**:
+1. **Audit the folder** to see exactly what needs work:
+   ```bash
+   python3 .claude/skills/map-spain-drugs/audit_folder.py data/spain/products/<folder>/
+   ```
+   This reports four issue types:
+   - `MISSING` — `cod_nacion` in `data.tsv` with no row in `mapping.tsv`
+   - `NO_CONCEPT` — mapping row with empty `concept_id`
+   - `NO_TYPE` — mapping row with a concept but empty `mapping_type` (auto-linker leftovers — review and fill)
+   - `BROAD` — existing BROAD mappings to review (may be upgradeable to EXACT)
+
+2. **Read `data.tsv`** to understand the full set of presentations and dose strengths
+3. **Reason through the issues** and produce a TSV of only the rows that need creating or updating (do not rewrite unchanged rows)
+
+4. **Apply changes** using the existing scripts — do not write any Python code:
+
+   Backfill missing `last_updated_date` on all existing rows in one command:
+   ```bash
+   python3 .claude/skills/map-spain-drugs/apply_mappings.py data/spain/products/<folder>/mapping.tsv --backfill-dates
+   ```
+
+   Add or update specific rows by piping a TSV (`last_updated_date` is set to today automatically):
+   ```bash
+   python3 .claude/skills/map-spain-drugs/apply_mappings.py data/spain/products/<folder>/mapping.tsv <<'EOF'
+   cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion
+   12345	72707	617312	atorvastatin 10 MG Oral Tablet	370584	EXACT
+   EOF
+   ```
+
+5. **Validate**:
    ```bash
    python3 .claude/skills/map-drugs/validate_mapping.py data/spain/products/<folder>/mapping.tsv
-   python3 scripts/generate_mapping_overviews.py spain
    ```
 
 ## Spain-specific Notes
 
 - **Spanish substance names**: `data.tsv` uses Spanish names (e.g., `bevacizumab`, `ácido zoledrónico`). The folder name is slugified from `des_dcsa` (active substance group name). Use the English name when searching RxNorm.
-- **Anulado / Suspenso products**: `situacion_registro` indicates withdrawn/suspended products — map them anyway; the status is tracked separately.
 - **Herbal products**: `sw_base_a_plantas = 1` — these typically have no RxNorm concept. Leave concept fields empty, populate `suggestion`.
 - **Radiopharmaceuticals**: `radiofarmaco = 1` — specialist RxNorm handling, follow `map-drugs` principles.
 - **Biosimilars**: `biosimilar = 1` — follow biosimilar rules in `map-drugs` skill.
