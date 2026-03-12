@@ -1,2 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-981357	57896	19103501	cystine 500 MG Oral Capsule	410698	EXACT			
+981357	57896	19103501	cystine 500 MG Oral Capsule	410698	EXACT			2026-03-12
+730671	32621	35857177	cystine Oral Tablet	OMOP5013761	BROAD		cystine 250 MG Oral Tablet	2026-03-12

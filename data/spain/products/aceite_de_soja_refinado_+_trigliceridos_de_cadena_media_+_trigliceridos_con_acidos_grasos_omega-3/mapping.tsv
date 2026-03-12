@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-651089	66708	43868237	1000 ML Medium chain triglycerides 100 MG/ML / Omega-3 Acid Ethyl Esters (USP) 20 MG/ML / Soybean Oil 80 MG/ML Injectable Solution	OMOP871527				
-651093	66708	43868237	1000 ML Medium chain triglycerides 100 MG/ML / Omega-3 Acid Ethyl Esters (USP) 20 MG/ML / Soybean Oil 80 MG/ML Injectable Solution	OMOP871527				
-651095	66708	43868237	1000 ML Medium chain triglycerides 100 MG/ML / Omega-3 Acid Ethyl Esters (USP) 20 MG/ML / Soybean Oil 80 MG/ML Injectable Solution	OMOP871527				
+651089	66708	40713107	100 ML Medium chain triglycerides 100 MG/ML / Omega-3 Acid Ethyl Esters (USP) 20 MG/ML / Soybean Oil 80 MG/ML Injectable Suspension	OMOP4744578	EXACT			2026-03-12
+651093	66708	40710044	250 ML Medium chain triglycerides 100 MG/ML / Omega-3 Acid Ethyl Esters (USP) 20 MG/ML / Soybean Oil 80 MG/ML Injectable Suspension	OMOP4747122	EXACT			2026-03-12
+651095	66708	40709510	500 ML Medium chain triglycerides 100 MG/ML / Omega-3 Acid Ethyl Esters (USP) 20 MG/ML / Soybean Oil 80 MG/ML Injectable Suspension	OMOP4747715	EXACT			2026-03-12

@@ -1,15 +1,21 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607577	62017	19080985	iohexol	5956	EXACT			
-607581	62018	19080985	iohexol	5956	EXACT			
-607582	62018	19080985	iohexol	5956	EXACT			
-607584	62018	19080985	iohexol	5956	EXACT			
-607585	62019	19080985	iohexol	5956	EXACT			
-607586	62019	19080985	iohexol	5956	EXACT			
-607588	62019	19080985	iohexol	5956	EXACT			
-661306	62019	19080985	iohexol	5956	EXACT			
-661314	62019	19080985	iohexol	5956	EXACT			
-661322	62018	19080985	iohexol	5956	EXACT			
-661330	62018	19080985	iohexol	5956	EXACT			
-661355	62017	19080985	iohexol	5956	EXACT			
-830323	62018	19080985	iohexol	5956	EXACT			
-830356	62019	19080985	iohexol	5956	EXACT			
+607577	62017	19080985	iohexol	5956	EXACT			2026-03-12
+607581	62018	19080985	iohexol	5956	EXACT			2026-03-12
+607582	62018	19080985	iohexol	5956	EXACT			2026-03-12
+607584	62018	19080985	iohexol	5956	EXACT			2026-03-12
+607585	62019	19080985	iohexol	5956	EXACT			2026-03-12
+607586	62019	19080985	iohexol	5956	EXACT			2026-03-12
+607588	62019	19080985	iohexol	5956	EXACT			2026-03-12
+661306	62019	19080985	iohexol	5956	EXACT			2026-03-12
+661314	62019	19080985	iohexol	5956	EXACT			2026-03-12
+661322	62018	19080985	iohexol	5956	EXACT			2026-03-12
+661330	62018	19080985	iohexol	5956	EXACT			2026-03-12
+661355	62017	19080985	iohexol	5956	EXACT			2026-03-12
+830323	62018	19080985	iohexol	5956	EXACT			2026-03-12
+830356	62019	19080985	iohexol	5956	EXACT			2026-03-12
+656095	68051	41053788	Iohexol 518 MG/ML Injectable Solution	OMOP2251750	EXACT	Spain labels this contrast presentation by iodine-equivalent strength; RxNorm expresses the iohexol concentration.		2026-03-12
+656096	68052	40897906	Iohexol 647 MG/ML Injectable Solution	OMOP2095868	EXACT	Spain labels this contrast presentation by iodine-equivalent strength; RxNorm expresses the iohexol concentration.		2026-03-12
+656097	68052	40897906	Iohexol 647 MG/ML Injectable Solution	OMOP2095868	EXACT	Spain labels this contrast presentation by iodine-equivalent strength; RxNorm expresses the iohexol concentration.		2026-03-12
+656098	68052	40897906	Iohexol 647 MG/ML Injectable Solution	OMOP2095868	EXACT	Spain labels this contrast presentation by iodine-equivalent strength; RxNorm expresses the iohexol concentration.		2026-03-12
+656099	68053	42728570	Iohexol 756 MG/ML Injectable Solution	OMOP2730274	EXACT	Spain labels this contrast presentation by iodine-equivalent strength; RxNorm expresses the iohexol concentration.		2026-03-12
+656100	68053	42728570	Iohexol 756 MG/ML Injectable Solution	OMOP2730274	EXACT	Spain labels this contrast presentation by iodine-equivalent strength; RxNorm expresses the iohexol concentration.		2026-03-12

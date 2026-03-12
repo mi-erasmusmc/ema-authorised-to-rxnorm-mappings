@@ -28,6 +28,27 @@ These apply across all data sources:
 - **Generic products must use non-branded concepts**: If a product is a generic (i.e. not the originator brand), always map to the unbranded clinical drug concept even when a branded concept with matching strength and form exists. Example: a generic metformin 850 MG tablet → `metformin hydrochloride 850 MG Oral Tablet`, not `metformin hydrochloride 850 MG Oral Tablet [Glucophage]`. Only the originator brand product itself should map to the branded concept.
 - **BROAD**: Less specific match. Use when only a concept without specific strength/volume is available, or for vaccines/biologicals with less granular RxNorm coverage. When choosing between multiple BROAD candidates, pick the one that preserves the most clinically relevant information — dose (strength + volume) matters more than device/form differences. For example, `0.5 ML etanercept 50 MG/ML Prefilled Syringe` is preferred over `etanercept 50 MG/ML Auto-Injector` for a 25 mg pen injector, because the volume distinguishes the 25 mg dose from the 50 mg dose.
 
+### Partial-ingredient Combination Products
+
+When RxNorm does not contain the full ingredient combination, map to the closest clinically representative subset rather than forcing an incorrect `EXACT` match.
+
+- Use `BROAD` when one or more active ingredients, extract components, or formulation-defining parts of the combination are missing from RxNorm.
+- Prefer the candidate that preserves the most clinically meaningful part of the presentation: usually the core active ingredients, then strength, then dose form.
+- Populate `suggestion` with the ideal full concept name you would use if standard RxNorm contained the complete combination.
+- Use `comment` only when a later reviewer would not be able to infer which ingredients or components were omitted from the chosen RxNorm concept.
+
+Example: a four-ingredient oral solution where RxNorm only contains a two-ingredient subset should map `BROAD` to the closest represented subset, with `suggestion` naming the full four-ingredient presentation.
+
+### Botanical and Extract Combinations
+
+Multi-extract herbal products often have incomplete or inconsistent representation in standard RxNorm. Handle them conservatively.
+
+- If the full botanical combination is absent, map `BROAD` to the closest represented extract set instead of stretching to a misleading `EXACT`.
+- Match dose form carefully; for botanical products, form mismatches are often a better reason to stay `BROAD` than to use a loosely related tablet/solution concept.
+- For single-ingredient botanical products, do not leave the row unmapped just because RxNorm lacks the exact strength or presentation. Use the most appropriate ingredient-, extract-, or dose-form-level concept that RxNorm does contain, and mark it `BROAD` when strength and/or form are not fully matched.
+- Use `comment` to note important omitted botanicals, extract types, or other non-obvious gaps only when needed for reviewer clarity.
+- Use `suggestion` to capture the ideal full botanical presentation, especially when several named extracts are missing from RxNorm.
+
 ### Terminology Adaptation
 
 EMA/EU terminology must be adapted to RxNorm conventions:
@@ -55,6 +76,7 @@ Always select the **most precise concept that is correct**:
 - **Concentration vs total dose**: EMA lists both; RxNorm may express as concentration and/or total volume
 - **Biologicals/vaccines**: BROAD mapping acceptable when exact match unavailable
 - **Multiple strengths**: Different strengths must map to different RxNorm concepts
+- **Inherited auto-links with no `mapping_type`**: treat these as unreviewed candidates, not accepted mappings. If a row has a `concept_id` and concept text but blank `mapping_type`, verify the concept before keeping it and write `EXACT` or `BROAD` explicitly once reviewed.
 - **Base to salt conversions**: Check `weight_conversions.tsv` in this skill directory when in doubt
 - **Metoprolol succinate ER tablets**: RxNorm concepts use tartrate-equivalent labeling (25/50/100/200 MG), following the US Toprol-XL convention. EU generics label by actual succinate content (23.75/47.5/95/190 MG). These are the same dose — map EXACT. FDA label confirms: "tablets contain 23.75, 47.5, 95 and 190 mg of metoprolol succinate equivalent to 25, 50, 100 and 200 mg of metoprolol tartrate." Note: 142.5 mg succinate (= 150 mg tartrate) has no RxNorm equivalent as Toprol-XL was never marketed at 150 mg.
 - **Metered vs actuated dose**: Verify via SmPC/FDA labelling, add `sources.md` if needed

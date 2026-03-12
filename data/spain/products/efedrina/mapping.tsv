@@ -1,8 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-662112	70338	40240753	ephedrine hydrochloride 10 MG/ML Injectable Solution	1115983	EXACT			
-677339	73280	40240844	ephedrine sulfate 30 MG/ML Injectable Solution	1116235				
-677340	73280	40240844	ephedrine sulfate 30 MG/ML Injectable Solution	1116235				
-696675	77108	40240797	ephedrine hydrochloride 3 MG/ML Injectable Solution	1116196	EXACT			
-705200	79516	40240797	ephedrine hydrochloride 3 MG/ML Injectable Solution	1116196	EXACT			
-764947	89572	40240753	ephedrine hydrochloride 10 MG/ML Injectable Solution	1115983	EXACT			
-764948	89573	40240844	ephedrine sulfate 30 MG/ML Injectable Solution	1116235				
+662112	70338	40240753	ephedrine hydrochloride 10 MG/ML Injectable Solution	1115983	EXACT			2026-03-12
+677339	73280	43275199	1 ML Ephedrine 30 MG/ML Injection	OMOP560686	EXACT			2026-03-12
+677340	73280	43275199	1 ML Ephedrine 30 MG/ML Injection	OMOP560686	EXACT			2026-03-12
+696675	77108	40240797	ephedrine hydrochloride 3 MG/ML Injectable Solution	1116196	EXACT			2026-03-12
+705200	79516	40240797	ephedrine hydrochloride 3 MG/ML Injectable Solution	1116196	EXACT			2026-03-12
+764947	89572	40240753	ephedrine hydrochloride 10 MG/ML Injectable Solution	1115983	EXACT			2026-03-12
+764948	89573	43275199	1 ML Ephedrine 30 MG/ML Injection	OMOP560686	EXACT			2026-03-12
+749622	15544	40240857	ephedrine sulfate 50 MG Oral Tablet	1116293	BROAD		ephedrine hydrochloride 50 MG Oral Tablet	2026-03-12
+768122	90454	43275199	1 ML Ephedrine 30 MG/ML Injection	OMOP560686	EXACT			2026-03-12
+768123	90455	590181	10 ML Ephedrine 3 MG/ML Injection	OMOP3138106	EXACT	Single-use ampoule; volume-specific Injection concept available.		2026-03-12

@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+700333	24328	19008566	vitamin A 50000 UNT Oral Capsule	313656	EXACT			2026-03-12
+787382	24328	19008566	vitamin A 50000 UNT Oral Capsule	313656	EXACT			2026-03-12
+818534	28811	40955033	Vitamin A Nasal Ointment	OMOP2152995	BROAD		vitamin A 12500 UNT/G Nasal Ointment	2026-03-12

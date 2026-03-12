@@ -1,3 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-758816	1201465001	19099845	caffeine 10 MG/ML	360361	BROAD			2025-12-04
-973644	57311	19063581	caffeine 300 MG Extended Release Oral Capsule	250737	EXACT			
+758816	1201465001	36410001	1 ML Caffeine 10 MG/ML Injectable Solution	OMOP3102043	EXACT			2026-03-12
+973644	57311	19063581	caffeine 300 MG Extended Release Oral Capsule	250737	EXACT			2026-03-12
+665948	09528002	1135466	caffeine citrate 20 MG/ML	849927	BROAD	Source presentation is approved for both oral and intravenous use, but standard RxNorm separates the oral-solution and injection concepts.	1 ML caffeine citrate 20 MG/ML Injection / Oral Solution	2026-03-12

@@ -79,7 +79,11 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
    python3 .claude/skills/map-spain-drugs/scripts/list_folder_patterns.py data/spain/products/<folder>/ --missing-only
    ```
 
-3. Search RxNorm concepts via the `find-concepts` skill. When the auto-link looks suspicious, check the duplicate-`nro_definitivo` reference before changing the row.
+3. Search RxNorm concepts via the `find-concepts` skill. Translate Spanish ingredient names to English before searching (e.g., `acido zoledronico` → `zoledronic acid`):
+   ```bash
+   python3 .claude/skills/find-concepts/scripts/find_concepts.py "zoledronic acid 4 MG/5ML injection" "zoledronic acid 4 mg" "zoledronic acid injection"
+   ```
+   When the auto-link looks suspicious, check the duplicate-`nro_definitivo` reference before changing the row.
 
 4. Prepare a TSV containing only the rows you want to create or update. Do not rewrite unchanged rows.
 
@@ -104,7 +108,7 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 7. Validate and regenerate overviews:
    ```bash
    python3 .claude/skills/map-drugs/validate_mapping.py data/spain/products/<folder>/mapping.tsv
-   python3 scripts/generate_mapping_overviews.py spain
+   python3 scripts/generate_mapping_overviews.py spain  # regenerate Spain only
    ```
 
 ## Conservative Bulk Cleanup
@@ -124,6 +128,6 @@ It only selects folders where every missing row can be filled from an existing `
 - Spanish names: `data.tsv` may contain Spanish ingredient names such as `acido zoledronico`; search RxNorm with the English ingredient name.
 - Salt/base strength decisions: when Spain labels the clinical presentation in base terms in `des_dcp` or `des_dosific`, prefer the RxNorm concept that matches the labeled clinical strength and dose form, even if `principios_activos` lists a salt form. Check `weight_conversions.tsv` when the salt/base relationship could change the apparent strength, and use `comment` only if the choice would not be obvious to a later reviewer.
 - Single-use injectables: when `des_dcp` includes a volume such as `2 ml` or `5 ml`, prefer the volume-specific RxNorm `Injection` concept if one exists. Treat a concentration-only concept such as `phenytoin sodium 50 MG/ML Injection` as a review signal, not the default exact match.
-- Herbal products: if `sw_base_a_plantas=1`, leave concept fields empty and use `suggestion`.
+- Herbal products: if `sw_base_a_plantas=1`, still map to the best available RxNorm concept. When RxNorm only has an ingredient-, extract-, or dose-form-level botanical concept, use that concept with `mapping_type = BROAD` and populate `suggestion` with the ideal full Spanish presentation.
 - Radiopharmaceuticals: if `radiofarmaco=1`, follow the specialist handling in `map-drugs`.
 - Biosimilars: if `biosimilar=1`, follow the biosimilar rules and references in `map-drugs`.

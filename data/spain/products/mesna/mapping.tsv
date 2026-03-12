@@ -1,4 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-706257	79768	19028312	mesna 100 MG/ML Injectable Solution	204870	EXACT			
-706258	79768	19028312	mesna 100 MG/ML Injectable Solution	204870	EXACT			
-724985	83869	19028312	mesna 100 MG/ML Injectable Solution	204870	EXACT			
+706257	79768	19028312	mesna 100 MG/ML Injectable Solution	204870	EXACT			2026-03-12
+706258	79768	19028312	mesna 100 MG/ML Injectable Solution	204870	EXACT			2026-03-12
+724985	83869	19028312	mesna 100 MG/ML Injectable Solution	204870	EXACT			2026-03-12
+654252	56146	2905897	2 ML mesna 100 MG/ML Injection	OMOP5122686	EXACT			2026-03-12
+684833	74821	2060873	mesna 200 MG/ML Inhalation Solution	OMOP4962069	EXACT			2026-03-12
+937821	54726	2060873	mesna 200 MG/ML Inhalation Solution	OMOP4962069	EXACT			2026-03-12
