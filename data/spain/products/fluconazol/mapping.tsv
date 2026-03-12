@@ -1,129 +1,155 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600608	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-600609	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-600610	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-602986	69848	1754999	fluconazole 150 MG Oral Capsule	199745				
-603231	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-603232	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-603233	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-603928	64331	1755000	fluconazole 200 MG Oral Capsule	199746				
-606084	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-606085	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-606086	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-606349	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-606351	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-606352	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-607089	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-607090	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-607091	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-610972	64616	1755001	fluconazole 50 MG Oral Capsule	199747				
-610980	64617	19022584	fluconazole 100 MG Oral Capsule	199950				
-611004	64619	1755000	fluconazole 200 MG Oral Capsule	199746				
-613620	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-613737	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-634063	65089	1755000	fluconazole 200 MG Oral Capsule	199746				
-634162	65090	1755001	fluconazole 50 MG Oral Capsule	199747				
-634204	65091	19022584	fluconazole 100 MG Oral Capsule	199950				
-634220	65092	1754999	fluconazole 150 MG Oral Capsule	199745				
-634568	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			
-641167	58804	19022584	fluconazole 100 MG Oral Capsule	199950				
-641175	58803	19025903	fluconazole 200 MG Oral Capsule [Diflucan]	201898				
-641324	59053	19022584	fluconazole 100 MG Oral Capsule	199950				
-641332	59055	1755000	fluconazole 200 MG Oral Capsule	199746				
-641381	59059	1754999	fluconazole 150 MG Oral Capsule	199745				
-650583	64616	1755001	fluconazole 50 MG Oral Capsule	199747				
-650584	64617	19022584	fluconazole 100 MG Oral Capsule	199950				
-650585	64618	1754999	fluconazole 150 MG Oral Capsule	199745				
-650586	64618	1754999	fluconazole 150 MG Oral Capsule	199745				
-650587	64619	1755000	fluconazole 200 MG Oral Capsule	199746				
-653090	69848	1754999	fluconazole 150 MG Oral Capsule	199745				
-653098	69848	1754999	fluconazole 150 MG Oral Capsule	199745				
-654678	67926	1755000	fluconazole 200 MG Oral Capsule	199746				
-654679	67927	1755001	fluconazole 50 MG Oral Capsule	199747				
-654680	67928	1754999	fluconazole 150 MG Oral Capsule	199745				
-654683	67928	1754999	fluconazole 150 MG Oral Capsule	199745				
-654684	67929	19022584	fluconazole 100 MG Oral Capsule	199950				
-654889	59059	1754999	fluconazole 150 MG Oral Capsule	199745				
-654905	59054	1754999	fluconazole 150 MG Oral Capsule	199745				
-659126	68846	1755001	fluconazole 50 MG Oral Capsule	199747				
-659127	68847	1754999	fluconazole 150 MG Oral Capsule	199745				
-659129	68848	1755000	fluconazole 200 MG Oral Capsule	199746				
-659512	69082	1755001	fluconazole 50 MG Oral Capsule	199747				
-659513	69083	19022584	fluconazole 100 MG Oral Capsule	199950				
-659514	69084	1754999	fluconazole 150 MG Oral Capsule	199745				
-659515	69085	1755000	fluconazole 200 MG Oral Capsule	199746				
-662037	69084	1754999	fluconazole 150 MG Oral Capsule	199745				
-662167	68847	1754999	fluconazole 150 MG Oral Capsule	199745				
-662779	70817	1755001	fluconazole 50 MG Oral Capsule	199747				
-662780	70815	19022584	fluconazole 100 MG Oral Capsule	199950				
-662781	70814	1754999	fluconazole 150 MG Oral Capsule	199745				
-662782	70814	1754999	fluconazole 150 MG Oral Capsule	199745				
-662784	70816	1755000	fluconazole 200 MG Oral Capsule	199746				
-665242	71685	1755001	fluconazole 50 MG Oral Capsule	199747				
-665246	71686	19022584	fluconazole 100 MG Oral Capsule	199950				
-665247	71687	1754999	fluconazole 150 MG Oral Capsule	199745				
-665248	71687	1754999	fluconazole 150 MG Oral Capsule	199745				
-665249	71688	1755000	fluconazole 200 MG Oral Capsule	199746				
-690272	75961	1755001	fluconazole 50 MG Oral Capsule	199747				
-690273	75962	19022584	fluconazole 100 MG Oral Capsule	199950				
-690274	75963	1754999	fluconazole 150 MG Oral Capsule	199745				
-690275	75963	1754999	fluconazole 150 MG Oral Capsule	199745				
-690276	75964	1755000	fluconazole 200 MG Oral Capsule	199746				
-696310	64332	1755001	fluconazole 50 MG Oral Capsule	199747				
-702290	64334	19022584	fluconazole 100 MG Oral Capsule	199950				
-702829	64335	1754999	fluconazole 150 MG Oral Capsule	199745				
-704031	64335	1754999	fluconazole 150 MG Oral Capsule	199745				
-714481	70816	1755000	fluconazole 200 MG Oral Capsule	199746				
-714482	70817	1755001	fluconazole 50 MG Oral Capsule	199747				
-714483	70815	19022584	fluconazole 100 MG Oral Capsule	199950				
-714484	70814	1754999	fluconazole 150 MG Oral Capsule	199745				
-714486	70814	1754999	fluconazole 150 MG Oral Capsule	199745				
-714487	59053	19022584	fluconazole 100 MG Oral Capsule	199950				
-714488	59054	1754999	fluconazole 150 MG Oral Capsule	199745				
-714489	59054	1754999	fluconazole 150 MG Oral Capsule	199745				
-714490	59055	1755000	fluconazole 200 MG Oral Capsule	199746				
-714491	59052	1755001	fluconazole 50 MG Oral Capsule	199747				
-726721	64332	1755001	fluconazole 50 MG Oral Capsule	199747				
-726722	64334	19022584	fluconazole 100 MG Oral Capsule	199950				
-726723	64335	1754999	fluconazole 150 MG Oral Capsule	199745				
-726724	64335	1754999	fluconazole 150 MG Oral Capsule	199745				
-726725	64331	1755000	fluconazole 200 MG Oral Capsule	199746				
-728388	85034	19022584	fluconazole 100 MG Oral Capsule	199950				
-728389	85035	1754999	fluconazole 150 MG Oral Capsule	199745				
-728390	85035	1754999	fluconazole 150 MG Oral Capsule	199745				
-728391	85036	1755000	fluconazole 200 MG Oral Capsule	199746				
-728392	85037	1755001	fluconazole 50 MG Oral Capsule	199747				
-773390	59052	1755001	fluconazole 50 MG Oral Capsule	199747				
-774190	59053	19022584	fluconazole 100 MG Oral Capsule	199950				
-775221	59054	1754999	fluconazole 150 MG Oral Capsule	199745				
-775247	59055	1755000	fluconazole 200 MG Oral Capsule	199746				
-780569	59059	1754999	fluconazole 150 MG Oral Capsule	199745				
-790915	59672	19025905	fluconazole 10 MG/ML Oral Suspension [Diflucan]	201900	EXACT			
-790923	59673	43155248	Fluconazole 40 MG/ML Powder for Oral Suspension	OMOP457424	EXACT			
-798967	64952	1755000	fluconazole 200 MG Oral Capsule	199746				
-799007	64959	1754999	fluconazole 150 MG Oral Capsule	199745				
-799593	64957	1755001	fluconazole 50 MG Oral Capsule	199747				
-799676	64958	19022584	fluconazole 100 MG Oral Capsule	199950				
-799684	64959	1754999	fluconazole 150 MG Oral Capsule	199745				
-839233	65092	1754999	fluconazole 150 MG Oral Capsule	199745				
-840231	64612	1755001	fluconazole 50 MG Oral Capsule	199747				
-840249	64613	19022584	fluconazole 100 MG Oral Capsule	199950				
-840421	64615	1755000	fluconazole 200 MG Oral Capsule	199746				
-841098	64620	1755001	fluconazole 50 MG Oral Capsule	199747				
-841940	64621	19022584	fluconazole 100 MG Oral Capsule	199950				
-842278	64622	1754999	fluconazole 150 MG Oral Capsule	199745				
-842823	64622	1754999	fluconazole 150 MG Oral Capsule	199745				
-843854	64623	1755000	fluconazole 200 MG Oral Capsule	199746				
-847038	64629	19022584	fluconazole 100 MG Oral Capsule	199950				
-847616	64631	1755000	fluconazole 200 MG Oral Capsule	199746				
-853051	62931	43155248	Fluconazole 40 MG/ML Powder for Oral Suspension	OMOP457424	EXACT			
-853093	62933	19077380	fluconazole 10 MG/ML Oral Suspension	310352	EXACT			
-872432	65089	1755000	fluconazole 200 MG Oral Capsule	199746				
-875146	65090	1755001	fluconazole 50 MG Oral Capsule	199747				
-875294	65091	19022584	fluconazole 100 MG Oral Capsule	199950				
-875872	65092	1754999	fluconazole 150 MG Oral Capsule	199745				
-985671	64331	1755000	fluconazole 200 MG Oral Capsule	199746				
-996025	58765	19006861	fluconazole 50 MG Oral Capsule [Diflucan]	105327				
-996033	58766	19006862	fluconazole 150 MG Oral Capsule [Diflucan]	105328				
-996488	58803	19025903	fluconazole 200 MG Oral Capsule [Diflucan]	201898				
-996496	58804	19022584	fluconazole 100 MG Oral Capsule	199950				
+600608	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+600609	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+600610	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+602986	69848	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+603231	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+603232	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+603233	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+603928	64331	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+606084	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+606085	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+606086	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+606349	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+606351	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+606352	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+607089	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+607090	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+607091	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+610972	64616	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+610980	64617	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+611004	64619	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+613620	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+613737	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+634063	65089	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+634162	65090	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+634204	65091	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+634220	65092	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+634568	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+641167	58804	36890948	Fluconazole 100 MG Oral Capsule [Diflucan]	OMOP991882	EXACT	Diflucan branded 100mg cap (sw_generico=0)		2026-03-12
+641175	58803	19025903	fluconazole 200 MG Oral Capsule [Diflucan]	201898	EXACT	Diflucan branded 200mg cap (sw_generico=0)		2026-03-12
+641324	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+641332	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+641381	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+650583	64616	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+650584	64617	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+650585	64618	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+650586	64618	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+650587	64619	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+653090	69848	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+653098	69848	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+654678	67926	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+654679	67927	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+654680	67928	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+654683	67928	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+654684	67929	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+654889	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+654905	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+659126	68846	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+659127	68847	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+659129	68848	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+659512	69082	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+659513	69083	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+659514	69084	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+659515	69085	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+662037	69084	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+662167	68847	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+662779	70817	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+662780	70815	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+662781	70814	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+662782	70814	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+662784	70816	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+665242	71685	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+665246	71686	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+665247	71687	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+665248	71687	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+665249	71688	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+690272	75961	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+690273	75962	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+690274	75963	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+690275	75963	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+690276	75964	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+696310	64332	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+702290	64334	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+702829	64335	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+704031	64335	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+714481	70816	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+714482	70817	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+714483	70815	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+714484	70814	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+714486	70814	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+714487	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+714488	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+714489	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+714490	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+714491	59052	1755001	fluconazole 50 MG Oral Capsule	199747	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 50 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+726721	64332	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+726722	64334	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+726723	64335	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+726724	64335	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+726725	64331	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+728388	85034	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+728389	85035	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+728390	85035	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+728391	85036	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+728392	85037	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+773390	59052	1755001	fluconazole 50 MG Oral Capsule	199747	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 50 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+774190	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+775221	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+775247	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+780569	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+790915	59672	19025905	fluconazole 10 MG/ML Oral Suspension [Diflucan]	201900	EXACT	Diflucan branded suspension (sw_generico=0)		2026-03-12
+790923	59673	19025906	fluconazole 40 MG/ML Oral Suspension [Diflucan]	201901	EXACT	Diflucan branded suspension (sw_generico=0)		2026-03-12
+798967	64952	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+799007	64959	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+799593	64957	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+799676	64958	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+799684	64959	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+839233	65092	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+840231	64612	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+840249	64613	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+840421	64615	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+841098	64620	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+841940	64621	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+842278	64622	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+842823	64622	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+843854	64623	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+847038	64629	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+847616	64631	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+853051	62931	43155248	Fluconazole 40 MG/ML Powder for Oral Suspension	OMOP457424	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 40 MG/ML oral suspension branded concept not in RxNorm	2026-03-12
+853093	62933	19077380	fluconazole 10 MG/ML Oral Suspension	310352	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 10 MG/ML oral suspension branded concept not in RxNorm	2026-03-12
+872432	65089	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+875146	65090	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+875294	65091	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+875872	65092	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+985671	64331	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+996025	58765	19006861	fluconazole 50 MG Oral Capsule [Diflucan]	105327	EXACT	Diflucan branded 50mg cap (sw_generico=0)		2026-03-12
+996033	58766	19006862	fluconazole 150 MG Oral Capsule [Diflucan]	105328	EXACT	Diflucan branded 150mg cap (sw_generico=0)		2026-03-12
+996488	58803	19025903	fluconazole 200 MG Oral Capsule [Diflucan]	201898	EXACT	Diflucan branded 200mg cap (sw_generico=0)		2026-03-12
+996496	58804	36890948	Fluconazole 100 MG Oral Capsule [Diflucan]	OMOP991882	EXACT	Diflucan branded 100mg cap (sw_generico=0)		2026-03-12
+602985	69847	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+602988	69849	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+605750	73952	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+606601	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
+606602	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
+623827	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection branded concept not in RxNorm	2026-03-12
+640482	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
+640490	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
+641340	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection branded concept not in RxNorm	2026-03-12
+641357	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection branded concept not in RxNorm	2026-03-12
+653072	69849	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+653106	69847	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+671534	72542	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+671535	72542	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+679791	73950	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+679813	73951	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+679826	73952	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+679853	73953	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+839852	64608	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
+840017	64609	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
+840025	64610	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+840181	64611	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
+840306	64614	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+840314	64614	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+847301	64630	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
+847434	64630	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12

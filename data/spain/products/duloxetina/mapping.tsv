@@ -1,102 +1,168 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-704748	79370	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-704749	79370	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-704751	79371	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705311	79545	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705312	79545	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705313	79546	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705314	79546	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705507	79567	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705508	79568	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705510	79569	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705511	79569	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705512	79570	715259	duloxetine	72625	BROAD			
-705513	79571	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705514	79571	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705515	79572	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705516	79573	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705519	79574	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705520	79574	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705523	79575	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705524	79576	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705617	79591	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705618	79591	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705619	79591	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705620	79592	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705621	79592	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705983	79676	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-705992	79682	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-705993	79682	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-706107	79719	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-706108	79719	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-706109	79720	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-706110	79720	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-706165	79738	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-706553	79371	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-707156	80058	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-707159	80059	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-707587	80144	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-707590	80144	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-707599	80145	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-707602	80145	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
+704748	79370	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+704749	79370	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+704751	79371	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705311	79545	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705312	79545	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705313	79546	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705314	79546	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705507	79567	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705508	79568	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705510	79569	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705511	79569	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705512	79570	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705513	79571	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705514	79571	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705515	79572	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705516	79573	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705519	79574	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705520	79574	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705523	79575	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705524	79576	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705617	79591	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705618	79591	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705619	79591	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705620	79592	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705621	79592	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705983	79676	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705992	79682	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705993	79682	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706107	79719	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706108	79719	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706109	79720	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+706110	79720	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+706165	79738	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706553	79371	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+707156	80058	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+707159	80059	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+707587	80144	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+707590	80144	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+707599	80145	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+707602	80145	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
 707740	1151028002	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2025-12-04
 707741	1151028004	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2025-12-04
-708536	80378	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-708543	80378	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-708553	80379	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-708556	80379	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-708600	80401	715259	duloxetine	72625	BROAD			
-708605	80401	715259	duloxetine	72625	BROAD			
-708607	80402	715259	duloxetine	72625	BROAD			
-709681	80544	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-709682	80544	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-709684	80545	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-709689	80549	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-709715	80554	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-710906	80874	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-710907	80874	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-710911	80876	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-712829	81272	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-712833	81273	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-714563	81690	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-714566	81691	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-719678	82579	715259	duloxetine	72625	BROAD			
-719679	82579	715259	duloxetine	72625	BROAD			
-719680	82580	715259	duloxetine	72625	BROAD			
-719681	82580	715259	duloxetine	72625	BROAD			
-719689	82583	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-719691	82584	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-719780	82609	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-719784	82610	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-723928	79576	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-723929	79567	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-723940	80554	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-724139	79592	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-724140	79592	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-727342	84642	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-727366	84653	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-728209	81273	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-728298	84998	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-728299	84998	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-728509	84999	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-729570	79570	715259	duloxetine	72625	BROAD			
-730390	85770	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738				
-730394	85773	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721				
-731856	86280	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-731857	86280	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-731859	86282	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-731860	86282	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-732353	86426	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-732354	86426	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930				
-732355	86427	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-732356	86427	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-758002	80059	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-758093	88001	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721				
-758094	88002	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738				
-758095	88003	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721				
-758096	88004	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738				
-758145	88028	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721				
-758146	88029	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738				
-762327	81691	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934				
-762414	88729	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738				
-762415	88730	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721				
+708536	80378	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+708543	80378	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+708553	80379	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+708556	80379	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+708600	80401	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+708605	80401	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+708607	80402	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+709681	80544	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+709682	80544	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+709684	80545	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+709689	80549	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+709715	80554	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+710906	80874	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+710907	80874	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+710911	80876	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+712829	81272	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+712833	81273	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+714563	81690	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+714566	81691	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+719678	82579	43216715	duloxetine 30 MG Extended Release Oral Tablet	OMOP492029	EXACT			2026-03-12
+719679	82579	43216715	duloxetine 30 MG Extended Release Oral Tablet	OMOP492029	EXACT			2026-03-12
+719680	82580	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+719681	82580	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+719689	82583	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+719691	82584	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+719780	82609	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+719784	82610	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+723928	79576	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+723929	79567	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+723940	80554	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+724139	79592	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+724140	79592	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+727342	84642	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+727366	84653	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+728209	81273	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+728298	84998	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+728299	84998	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+728509	84999	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+729570	79570	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+730390	85770	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738	EXACT			2026-03-12
+730394	85773	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721	EXACT			2026-03-12
+731856	86280	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+731857	86280	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+731859	86282	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+731860	86282	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+732353	86426	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+732354	86426	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+732355	86427	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+732356	86427	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+758002	80059	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+758093	88001	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721	EXACT			2026-03-12
+758094	88002	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738	EXACT			2026-03-12
+758095	88003	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721	EXACT			2026-03-12
+758096	88004	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738	EXACT			2026-03-12
+758145	88028	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721	EXACT			2026-03-12
+758146	88029	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738	EXACT			2026-03-12
+762327	81691	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+762414	88729	36937364	duloxetine 120 MG Delayed Release Oral Capsule	OMOP5197738	EXACT			2026-03-12
+762415	88730	36951912	duloxetine 90 MG Delayed Release Oral Capsule	OMOP5197721	EXACT			2026-03-12
+650498	04297002	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+650590	04297001	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+651478	04296001	715298	duloxetine 30 MG Delayed Release Oral Capsule [Cymbalta]	596932	EXACT			2026-03-12
+651479	04296002	715301	duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]	615186	EXACT			2026-03-12
+677714	04296006	715298	duloxetine 30 MG Delayed Release Oral Capsule [Cymbalta]	596932	EXACT			2026-03-12
+677715	04297006	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+704935	79437	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+704936	79438	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705275	79539	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705276	79539	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+705282	79540	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+705283	79540	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+706111	79721	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706112	79721	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706116	79723	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+706144	79728	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+706146	79729	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706147	79729	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706153	79731	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706156	79733	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+706157	79733	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+706167	79739	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+706415	79835	715294	duloxetine 20 MG Delayed Release Oral Capsule	596926	EXACT			2026-03-12
+706418	79836	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+706419	79837	19123437	duloxetine 40 MG Delayed Release Oral Capsule	616402	EXACT			2026-03-12
+706420	79837	19123437	duloxetine 40 MG Delayed Release Oral Capsule	616402	EXACT			2026-03-12
+706421	79838	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+709158	80463	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+709166	80466	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+709167	80466	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+712776	81268	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+712797	81269	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+715473	81897	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+715474	81897	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+715507	81913	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+716307	04296002IP	715301	duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]	615186	EXACT			2026-03-12
+719726	82593	43216715	duloxetine 30 MG Extended Release Oral Tablet	OMOP492029	EXACT			2026-03-12
+719727	82594	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+720169	79723	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+720787	04296002IP1	715301	duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]	615186	EXACT			2026-03-12
+721815	04296002IP2	715301	duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]	615186	EXACT			2026-03-12
+722045	04296002IP3	715301	duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]	615186	EXACT			2026-03-12
+723318	04296001IP	715298	duloxetine 30 MG Delayed Release Oral Capsule [Cymbalta]	596932	EXACT			2026-03-12
+724213	82594	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+724676	04296002IP4	715301	duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]	615186	EXACT			2026-03-12
+727343	84643	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+727344	84643	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+727367	84654	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+727368	84654	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+730351	79739	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+732111	04296002IP5	715301	duloxetine 60 MG Delayed Release Oral Capsule [Cymbalta]	615186	EXACT			2026-03-12
+732441	04296001IP1	715298	duloxetine 30 MG Delayed Release Oral Capsule [Cymbalta]	596932	EXACT			2026-03-12
+758055	24076IP	43216715	duloxetine 30 MG Extended Release Oral Tablet	OMOP492029	EXACT			2026-03-12
+758056	24077IP	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+758057	24077IP	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+763388	04296001IP2	715298	duloxetine 30 MG Delayed Release Oral Capsule [Cymbalta]	596932	EXACT			2026-03-12
+765345	24076IP1	43216715	duloxetine 30 MG Extended Release Oral Tablet	OMOP492029	EXACT			2026-03-12
+765346	24077IP1	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+765348	24077IP1	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+769319	3400930020609	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+769320	3400930020647	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+769323	43594050	19122148	duloxetine 30 MG Delayed Release Oral Capsule	596930	EXACT			2026-03-12
+769324	43594098	715300	duloxetine 60 MG Delayed Release Oral Capsule	596934	EXACT			2026-03-12
+769610	24076IP3	43216715	duloxetine 30 MG Extended Release Oral Tablet	OMOP492029	EXACT			2026-03-12
+769611	24077IP3	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12
+769613	24077IP3	43194899	duloxetine 60 MG Extended Release Oral Tablet	OMOP492059	EXACT			2026-03-12

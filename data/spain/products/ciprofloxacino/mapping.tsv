@@ -1,71 +1,167 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600496	67554	36896428	100 ML Ciprofloxacin 2 MG/ML Injectable Solution	OMOP1007073				
-600497	67554	36896428	100 ML Ciprofloxacin 2 MG/ML Injectable Solution	OMOP1007073				
-604504	62299	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-604520	62300	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-604538	62301	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-605786	68095	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			
-605787	68095	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			
-607128	68095	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			
-610873	62708	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-618934	62966	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-626846	65447	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-628404	64028	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-630905	64027	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-656881	58407	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-656883	58408	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-656887	58406	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-694686	62506	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-694719	62962	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-694721	62709	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-694973	62484	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-694975	62485	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-694977	62486	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-695449	65609	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-695618	62299	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-695621	62300	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-695622	62301	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-697015	62765	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-697016	62766	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-697017	62768	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-697285	70905	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			
-697286	70905	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			
-697847	58406	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-697849	58407	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-697851	58408	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-697932	65447	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-698144	64978	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-698253	62966	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-698255	64027	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-698257	64028	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-698262	62708	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-701110	62301	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-703694	62299	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-703850	62299	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-703934	62300	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-704064	62300	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-704155	62301	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-707664	80159	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-707665	80160	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-707666	80161	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-754630	62709	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-755470	62962	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-761163	62709	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-761643	62962	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-767764	62708	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-769489	62966	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-770214	62966	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-770248	62708	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-786756	62486	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-786863	62484	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-787036	62484	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-796656	62768	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-797118	62768	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-797142	62765	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-797209	62766	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-798025	62765	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-805390	62766	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			
-909499	64027	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-910117	64027	1797515	ciprofloxacin 250 MG Oral Tablet	197511				
-910810	64028	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
-911792	64028	19075380	ciprofloxacin 500 MG Oral Tablet	309309				
+600496		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		100 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+600497		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		200 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+604504		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+604520		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+604538	62301	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+605786	68095	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			2026-03-12
+605787	68095	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			2026-03-12
+607128	68095	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			2026-03-12
+610873		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+618934		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+626846	65447	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+628404		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+630905		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+656881		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+656883		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+656887	58406	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+694686		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+694719		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+694721		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+694973		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+694975		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+694977	62486	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+695449		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+695618		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+695621		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+695622	62301	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+697015		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+697016	62766	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+697017		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+697285	70905	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			2026-03-12
+697286	70905	46287383	ciprofloxacin 2 MG/ML Injection	1665211	EXACT			2026-03-12
+697847	58406	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+697849		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+697851		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+697932	65447	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+698144		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+698253		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+698255		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+698257		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+698262		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+701110	62301	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+703694		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+703850		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+703934		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+704064		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+704155	62301	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+707664		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+707665		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+707666	80161	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+754630		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+755470		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+761163		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+761643		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+767764		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+769489		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+770214		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+770248		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+786756	62486	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+786863		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+787036		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+796656		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+797118		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+797142		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+797209	62766	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+798025		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+805390	62766	1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+909499		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+910117		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+910810		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+911792		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+603137		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+603139		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+603181		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		100 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+603182		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		200 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+610451		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		100 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+610469		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		200 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+619064		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		100 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+621086		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+626663		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+626838		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+637199		19030164	ciprofloxacin 750 MG Oral Tablet [Cipro]	205771	EXACT			2026-03-12
+637504		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+637587		19030163	ciprofloxacin 500 MG Oral Tablet [Cipro]	205770	EXACT			2026-03-12
+638163		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		100 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+639013		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+641621		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		200 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+645283		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		100 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+645291		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		200 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+648394		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+648402		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+652254		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+652257		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+652260		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+653285		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+653286		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+654676		21120876	Ciprofloxacin 3 MG/ML Otic Solution	OMOP359820	EXACT			2026-03-12
+654677		21120876	Ciprofloxacin 3 MG/ML Otic Solution	OMOP359820	EXACT			2026-03-12
+656172		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+656176		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+656209		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+656220		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+659993		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+665521		21120876	Ciprofloxacin 3 MG/ML Otic Solution	OMOP359820	EXACT			2026-03-12
+671016		1797594	ciprofloxacin 2 MG/ML Otic Solution	848956	EXACT			2026-03-12
+671875		1797594	ciprofloxacin 2 MG/ML Otic Solution	848956	EXACT			2026-03-12
+671883		1797594	ciprofloxacin 2 MG/ML Otic Solution	848956	EXACT			2026-03-12
+671891		1797594	ciprofloxacin 2 MG/ML Otic Solution	848956	EXACT			2026-03-12
+682617		21120876	Ciprofloxacin 3 MG/ML Otic Solution	OMOP359820	EXACT			2026-03-12
+687830		19075378	ciprofloxacin 3 MG/ML Ophthalmic Solution	309307	EXACT			2026-03-12
+693174		19075378	ciprofloxacin 3 MG/ML Ophthalmic Solution	309307	EXACT			2026-03-12
+694019		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+694020		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+694496		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+694499		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+694544		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+694545		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+694546		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+694970		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+695012		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+695325		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+695432		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+695434		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+695447		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+695611		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+697941		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+697953		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+697954		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+697955		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+697956		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+699830		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+699831		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+699832		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+699833		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+700510		19075391	ciprofloxacin 100 MG/ML Oral Suspension	309310	EXACT			2026-03-12
+711242		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+711259		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+711341		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+711358		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+711614		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+712673		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+712676		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+731190		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+734798		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+734855		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+734863		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+734939		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+735183		1797516	ciprofloxacin 750 MG Oral Tablet	197512	EXACT			2026-03-12
+766019		19075378	ciprofloxacin 3 MG/ML Ophthalmic Solution	309307	EXACT			2026-03-12
+774976		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+778803		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		100 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+783605		19075377	ciprofloxacin 0.003 MG/MG Ophthalmic Ointment	309306	EXACT			2026-03-12
+787044		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+787051		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+788281		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+790378		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+793802		21120876	Ciprofloxacin 3 MG/ML Otic Solution	OMOP359820	EXACT			2026-03-12
+800268		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+804518		19075380	ciprofloxacin 500 MG Oral Tablet	309309	EXACT			2026-03-12
+824474		19030164	ciprofloxacin 750 MG Oral Tablet [Cipro]	205771	EXACT			2026-03-12
+827220		19030163	ciprofloxacin 500 MG Oral Tablet [Cipro]	205770	EXACT			2026-03-12
+828194		19030162	ciprofloxacin 250 MG Oral Tablet [Cipro]	205769	EXACT			2026-03-12
+828665		19030163	ciprofloxacin 500 MG Oral Tablet [Cipro]	205770	EXACT			2026-03-12
+829309		19030162	ciprofloxacin 250 MG Oral Tablet [Cipro]	205769	EXACT			2026-03-12
+845891		46287383	ciprofloxacin 2 MG/ML Injection	1665211	BROAD		100 ML ciprofloxacin 2 MG/ML Injection	2026-03-12
+999772		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12
+999773		1797515	ciprofloxacin 250 MG Oral Tablet	197511	EXACT			2026-03-12

@@ -1,56 +1,109 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-612200	64638	1750562	clarithromycin 500 MG Oral Tablet	197517				
-612218	64639	1750501	clarithromycin 250 MG Oral Tablet	197516				
-614818	64824	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			
-614826	64825	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			
-615674	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543				
-650256	66388	19058072	clarithromycin 25 MG/ML Oral Suspension	240741	EXACT			
-652594	60515	1750562	clarithromycin 500 MG Oral Tablet	197517				
-653190	64606	1750562	clarithromycin 500 MG Oral Tablet	197517				
-653191	64606	1750562	clarithromycin 500 MG Oral Tablet	197517				
-654026	67638	1750501	clarithromycin 250 MG Oral Tablet	197516				
-654027	67639	1750562	clarithromycin 500 MG Oral Tablet	197517				
-654028	67639	1750562	clarithromycin 500 MG Oral Tablet	197517				
-659787	69229	1750562	clarithromycin 500 MG Oral Tablet	197517				
-659788	69229	1750562	clarithromycin 500 MG Oral Tablet	197517				
-664607	71852	19022244	clarithromycin 500 MG/ML Injectable Solution	199710	BROAD			
-670240	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543				
-672686	72876	1750501	clarithromycin 250 MG Oral Tablet	197516				
-672687	72874	1750562	clarithromycin 500 MG Oral Tablet	197517				
-672688	72874	1750562	clarithromycin 500 MG Oral Tablet	197517				
-672689	72873	1750562	clarithromycin 500 MG Oral Tablet	197517				
-672690	72873	1750562	clarithromycin 500 MG Oral Tablet	197517				
-680380	74036	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543				
-680381	74036	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543				
-688693	75639	1750562	clarithromycin 500 MG Oral Tablet	197517				
-689804	75639	1750562	clarithromycin 500 MG Oral Tablet	197517				
-693485	67638	1750501	clarithromycin 250 MG Oral Tablet	197516				
-693737	64824	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			
-694071	75638	1750501	clarithromycin 250 MG Oral Tablet	197516				
-694570	60202	19022244	clarithromycin 500 MG/ML Injectable Solution	199710	BROAD			
-694889	64591	1750501	clarithromycin 250 MG Oral Tablet	197516				
-694985	72876	1750501	clarithromycin 250 MG Oral Tablet	197516				
-695433	64666	1750501	clarithromycin 250 MG Oral Tablet	197516				
-697852	64670	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			
-698259	64639	1750501	clarithromycin 250 MG Oral Tablet	197516				
-702298	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543				
-703441	79006	1750562	clarithromycin 500 MG Oral Tablet	197517				
-703442	79006	1750562	clarithromycin 500 MG Oral Tablet	197517				
-714637	81714	1750562	clarithromycin 500 MG Oral Tablet	197517				
-714638	81714	1750562	clarithromycin 500 MG Oral Tablet	197517				
-715793	81975	1750562	clarithromycin 500 MG Oral Tablet	197517				
-715794	81975	1750562	clarithromycin 500 MG Oral Tablet	197517				
-757328	60515	1750562	clarithromycin 500 MG Oral Tablet	197517				
-763425	64825	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			
-763532	64825	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			
-830166	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543				
-830737	64590	1750562	clarithromycin 500 MG Oral Tablet	197517				
-831172	64590	1750562	clarithromycin 500 MG Oral Tablet	197517				
-849356	64638	1750562	clarithromycin 500 MG Oral Tablet	197517				
-849992	64638	1750562	clarithromycin 500 MG Oral Tablet	197517				
-850461	64641	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			
-850479	64641	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			
-851964	64644	1750562	clarithromycin 500 MG Oral Tablet	197517				
-852178	64644	1750562	clarithromycin 500 MG Oral Tablet	197517				
-872036	64667	1750562	clarithromycin 500 MG Oral Tablet	197517				
-874974	64671	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			
+612200	64638	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+612218	64639	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+614818	64824	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+614826	64825	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+615674	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+650256	66388	19058072	clarithromycin 25 MG/ML Oral Suspension	240741	EXACT			2026-03-12
+652594	60515	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+653190	64606	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+653191	64606	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+654026	67638	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+654027	67639	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+654028	67639	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+659787	69229	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+659788	69229	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+664607	71852	19022244	clarithromycin 500 MG/ML Injectable Solution	199710	BROAD	No standard RxNorm concept for 500 mg/vial lyophilised powder for solution for infusion	No closer RxNorm concept available for clarithromycin 500 mg powder for solution for infusion	2026-03-12
+670240	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+672686	72876	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+672687	72874	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+672688	72874	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+672689	72873	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+672690	72873	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+680380	74036	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+680381	74036	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+688693	75639	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+689804	75639	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+693485	67638	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+693737	64824	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+694071	75638	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+694570	60202	19022244	clarithromycin 500 MG/ML Injectable Solution	199710	BROAD	No standard RxNorm concept for 500 mg/vial lyophilised powder for solution for infusion	No closer RxNorm concept available for clarithromycin 500 mg powder for solution for infusion	2026-03-12
+694889	64591	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+694985	72876	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+695433	64666	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+697852	64670	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+698259	64639	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+702298	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+703441	79006	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+703442	79006	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+714637	81714	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+714638	81714	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+715793	81975	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+715794	81975	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+757328	60515	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+763425	64825	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+763532	64825	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+830166	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+830737	64590	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+831172	64590	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+849356	64638	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+849992	64638	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+850461	64641	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+850479	64641	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+851964	64644	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+852178	64644	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+872036	64667	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+874974	64671	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+600642	67897	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+600645	67898	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+606026	76984	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+606027	76985	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+653187	64607	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+653293	64694	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+654022	67636	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+654023	67637	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+654024	67637	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+654630	67898	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+654635	67898	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+665070	72129	19022244	clarithromycin 500 MG/ML Injectable Solution	199710	BROAD	No standard RxNorm concept for 500 mg/vial lyophilised powder for solution for infusion	No closer RxNorm concept available for clarithromycin 500 mg powder for solution for infusion	2026-03-12
+676395	63383	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+679039	73809	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+679047	73809	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+681108	74215	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+688127	60592	19075422	clarithromycin 50 MG/ML Oral Suspension	309322	EXACT			2026-03-12
+689257	60516	19075422	clarithromycin 50 MG/ML Oral Suspension	309322	EXACT			2026-03-12
+691509	76093	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+691525	76094	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+691534	76094	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+693100	76461	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+693102	76461	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+693187	76480	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+693188	76480	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+695018	64662	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+695562	64643	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+695604	64693	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+695998	76984	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+695999	76984	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+696000	76985	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+696001	76985	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+696002	76985	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+700000	78063	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+700010	78064	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+700015	78064	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+700307	67897	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+703436	79005	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+714639	81715	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+756783	59462	19058072	clarithromycin 25 MG/ML Oral Suspension	240741	EXACT			2026-03-12
+756809	59464	19058072	clarithromycin 25 MG/ML Oral Suspension	240741	EXACT			2026-03-12
+760660	60593	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	No closer RxNorm concept available for clarithromycin 500 mg granules for oral suspension sachet	2026-03-12
+761015	60518	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	No closer RxNorm concept available for clarithromycin 500 mg granules for oral suspension sachet	2026-03-12
+762005	60593	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	No closer RxNorm concept available for clarithromycin 500 mg granules for oral suspension sachet	2026-03-12
+830604	63383	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+870857	64663	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+870865	64663	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+870873	64664	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+871046	64665	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+871053	64665	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
+916601	63383	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
+999712	64693	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
+999713	64694	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12

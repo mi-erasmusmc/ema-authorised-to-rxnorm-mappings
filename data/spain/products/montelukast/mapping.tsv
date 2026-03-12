@@ -1,68 +1,121 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661855	70232	19023368	montelukast 10 MG Oral Tablet	200224				
-661860	70236	19023368	montelukast 10 MG Oral Tablet	200224				
-662056	61980	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			
-662064	61979	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-662869	70898	19023368	montelukast 10 MG Oral Tablet	200224				
-662870	70899	19023368	montelukast 10 MG Oral Tablet	200224				
-662909	70888	19023368	montelukast 10 MG Oral Tablet	200224				
-662910	70423	1154197	montelukast 4 MG Chewable Tablet	311759				
-662911	70424	1154195	montelukast 5 MG Chewable Tablet	242438				
-663974	71403	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-663986	71407	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-663990	71408	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-663993	71409	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-663995	71410	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-663999	71411	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-664006	71422	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-664007	71424	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-665726	72593	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-665727	72591	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-665728	72590	19023368	montelukast 10 MG Oral Tablet	200224				
-669070	72109	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-669092	72110	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-670074	72259	19023368	montelukast 10 MG Oral Tablet	200224				
-672791	73079	19023368	montelukast 10 MG Oral Tablet	200224				
-675774	72930	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-675794	72931	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-675808	72932	19023368	montelukast 10 MG Oral Tablet	200224				
-677323	73409	19023368	montelukast 10 MG Oral Tablet	200224				
-678593	73802	1154201	montelukast 4 MG Oral Granules	351246	EXACT			
-679729	73921	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-680715	74085	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-680734	74086	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-680763	74098	19023368	montelukast 10 MG Oral Tablet	200224				
-680779	74106	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-680781	74107	19023368	montelukast 10 MG Oral Tablet	200224				
-680783	74108	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-680798	74116	19023368	montelukast 10 MG Oral Tablet	200224				
-681035	74193	1154201	montelukast 4 MG Oral Granules	351246	EXACT			
-681038	74195	1154197	montelukast 4 MG Chewable Tablet	311759				
-681039	74196	1154195	montelukast 5 MG Chewable Tablet	242438				
-681207	74233	1154197	montelukast 4 MG Chewable Tablet	311759				
-681232	74237	1154195	montelukast 5 MG Chewable Tablet	242438				
-681407	74280	19023368	montelukast 10 MG Oral Tablet	200224				
-684927	74856	1154201	montelukast 4 MG Oral Granules	351246	EXACT			
-687439	75381	19023368	montelukast 10 MG Oral Tablet	200224				
-687893	75475	1154201	montelukast 4 MG Oral Granules	351246	EXACT			
-688286	75574	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			
-689269	75786	19023368	montelukast 10 MG Oral Tablet	200224				
-689452	75831	19023368	montelukast 10 MG Oral Tablet	200224				
-689528	75844	19023368	montelukast 10 MG Oral Tablet	200224				
-691301	76046	19023368	montelukast 10 MG Oral Tablet	200224				
-691385	76065	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-691407	76066	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			
-691440	76071	19023368	montelukast 10 MG Oral Tablet	200224				
-693137	76467	19023368	montelukast 10 MG Oral Tablet	200224				
-694138	76680	1154197	montelukast 4 MG Chewable Tablet	311759				
-694139	76681	1154195	montelukast 5 MG Chewable Tablet	242438				
-699726	78001	19023368	montelukast 10 MG Oral Tablet	200224				
-699730	78002	1154197	montelukast 4 MG Chewable Tablet	311759				
-699733	78003	1154195	montelukast 5 MG Chewable Tablet	242438				
-700397	78206	1154197	montelukast 4 MG Chewable Tablet	311759				
-700398	78207	1154195	montelukast 5 MG Chewable Tablet	242438				
-700749	78255	19023368	montelukast 10 MG Oral Tablet	200224				
-709394	63673	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			
-729645	85536	19023368	montelukast 10 MG Oral Tablet	200224				
-768145	78255	19023368	montelukast 10 MG Oral Tablet	200224				
-840645	65429	19102732	montelukast 4 MG Oral Granules [Singulair]	404406	EXACT			
+661855	70232	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+661860	70236	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+662056	61980	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+662064	61979	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			2026-03-12
+662869	70898	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+662870	70899	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+662909	70888	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+662910	70423	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+662911	70424	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+663974	71403	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+663986	71407	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+663990	71408	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+663993	71409	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+663995	71410	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+663999	71411	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+664006	71422	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+664007	71424	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+665726	72593	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+665727	72591	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+665728	72590	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+669070	72109	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+669092	72110	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+670074	72259	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+672791	73079	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+675774	72930	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+675794	72931	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+675808	72932	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+677323	73409	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+678593	73802	1154201	montelukast 4 MG Oral Granules	351246	EXACT			2026-03-12
+679729	73921	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+680715	74085	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+680734	74086	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+680763	74098	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+680779	74106	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+680781	74107	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+680783	74108	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+680798	74116	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+681035	74193	1154201	montelukast 4 MG Oral Granules	351246	EXACT			2026-03-12
+681038	74195	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+681039	74196	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+681207	74233	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+681232	74237	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+681407	74280	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+684927	74856	1154201	montelukast 4 MG Oral Granules	351246	EXACT			2026-03-12
+687439	75381	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+687893	75475	1154201	montelukast 4 MG Oral Granules	351246	EXACT			2026-03-12
+688286	75574	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+689269	75786	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+689452	75831	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+689528	75844	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+691301	76046	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+691385	76065	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+691407	76066	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT	sw_generico=1; corrected from branded [Singulair] to non-branded		2026-03-12
+691440	76071	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+693137	76467	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+694138	76680	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+694139	76681	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+699726	78001	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+699730	78002	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+699733	78003	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+700397	78206	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+700398	78207	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+700749	78255	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+709394	63673	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			2026-03-12
+729645	85536	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+768145	78255	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+840645	65429	19102732	montelukast 4 MG Oral Granules [Singulair]	404406	EXACT			2026-03-12
+662872	70901	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+662873	70902	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+663994	70818	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+663996	70819	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+663998	70820	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+664000	71412	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+664002	71413	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+672678	72884	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+672679	72885	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+672779	73077	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+672789	73078	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+679733	73925	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+680984	74176	1154201	montelukast 4 MG Oral Granules	351246	EXACT			2026-03-12
+681409	74284	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+681410	74285	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+684117	74719	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+684131	74720	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+685979	75030	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+686529	75151	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+686530	75133	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+689405	75809	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+689407	75810	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+691160	76009	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+691173	76010	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+691187	76011	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+691439	76070	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+691441	76072	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+693892	76637	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+694129	76676	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+694130	76677	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+696875	77159	1154201	montelukast 4 MG Oral Granules	351246	EXACT			2026-03-12
+696876	77160	1154201	montelukast 4 MG Oral Granules	351246	EXACT			2026-03-12
+703993	79147	19023368	montelukast 10 MG Oral Tablet	200224	EXACT			2026-03-12
+706756	79931	1154201	montelukast 4 MG Oral Granules	351246	EXACT			2026-03-12
+715027	7956IP	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			2026-03-12
+715028	7957	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+715255	7957IP	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+715368	7957IP1	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+715369	7956	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			2026-03-12
+715485	7956IP1	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			2026-03-12
+721828	8780	1154196	montelukast 4 MG Chewable Tablet [Singulair]	261367	EXACT			2026-03-12
+723546	7957IP2	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+723581	7956IP2	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			2026-03-12
+724550	83763	1154195	montelukast 5 MG Chewable Tablet	242438	EXACT			2026-03-12
+724555	83764	1154197	montelukast 4 MG Chewable Tablet	311759	EXACT			2026-03-12
+726086	7957IP3	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+729610	7956IP3	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			2026-03-12
+759453	7957IP4	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+767037	90179	19023368	montelukast 10 MG Oral Tablet	200224	BROAD	no RxNorm concept for oral capsule	No RxNorm concept exists for montelukast 10 MG Hard Capsule; mapped BROAD to Oral Tablet	2026-03-12
+767966	10455201702	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+768627	1435199C	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+768950	10455201702IP	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
+768951	10454201702	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			2026-03-12

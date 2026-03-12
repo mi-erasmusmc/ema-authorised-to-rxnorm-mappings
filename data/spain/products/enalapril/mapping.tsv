@@ -1,72 +1,109 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-605843	63377	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-607504	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-608802	63570	40165767	enalapril maleate 2.5 MG Oral Tablet	858804	EXACT			
-615799	63599	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-618173	63269	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-619338	63568	40165767	enalapril maleate 2.5 MG Oral Tablet	858804	EXACT			
-619346	63567	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-631192	63598	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-631663	63569	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-638247	63466	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-638486	63467	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-638908	57873	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-638916	57872	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-650896	63257	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-653578	57872	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-656504	63467	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-656891	63336	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-664264	71629	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-666453	63567	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-666503	63569	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-669432	63567	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-669440	63568	40165767	enalapril maleate 2.5 MG Oral Tablet	858804	EXACT			
-669457	63569	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-669481	63570	40165767	enalapril maleate 2.5 MG Oral Tablet	858804	EXACT			
-694038	58117	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-704478	63256	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-708583	59794	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-708941	66075	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-715509	63735	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-724447	83712	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-724448	83712	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-724451	83713	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-724453	83714	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-724745	57768	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-728896	63599	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-730316	63816	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-739987	66076	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-741405	64768	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-744084	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-744085	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-744087	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-744088	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-763016	59794	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-833350	63598	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-833657	63598	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-834259	63599	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-845974	65022	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-849661	62644	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-850560	62645	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-850735	63269	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-852210	63337	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-852640	63377	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-854752	63470	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-854950	63470	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-854968	63471	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-855205	63466	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-856286	63466	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-859025	63735	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-859116	63739	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-859769	63739	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-860726	57790	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-860858	57789	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-860940	63167	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-861070	57773	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-864579	57787	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-865204	57788	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-880229	63816	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			
-944389	63271	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-973065	63377	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
-999820	63166	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			
-999930	57873	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			
+605843	63377	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+607504	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+608802	63570	40165767	enalapril maleate 2.5 MG Oral Tablet	858804	EXACT			2026-03-12
+615799	63599	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+618173	63269	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+619338	63568	40165767	enalapril maleate 2.5 MG Oral Tablet	858804	EXACT			2026-03-12
+619346	63567	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+631192	63598	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+631663	63569	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+638247	63466	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+638486	63467	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+638908	57873	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+638916	57872	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			2026-03-12
+650896	63257	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+653578	57872	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			2026-03-12
+656504	63467	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+656891	63336	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+664264	71629	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+666453	63567	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+666503	63569	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+669432	63567	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+669440	63568	40165767	enalapril maleate 2.5 MG Oral Tablet	858804	EXACT			2026-03-12
+669457	63569	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+669481	63570	40165767	enalapril maleate 2.5 MG Oral Tablet	858804	EXACT			2026-03-12
+694038	58117	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+704478	63256	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+708583	59794	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+708941	66075	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+715509	63735	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+724447	83712	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+724448	83712	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+724451	83713	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+724453	83714	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+724745	57768	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+728896	63599	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+730316	63816	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+739987	66076	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+741405	64768	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+744084	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+744085	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+744087	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+744088	87272	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+763016	59794	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+833350	63598	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+833657	63598	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+834259	63599	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+845974	65022	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+849661	62644	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+850560	62645	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+850735	63269	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+852210	63337	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+852640	63377	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+854752	63470	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+854950	63470	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+854968	63471	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+855205	63466	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+856286	63466	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+859025	63735	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+859116	63739	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+859769	63739	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+860726	57790	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+860858	57789	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			2026-03-12
+860940	63167	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+861070	57773	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			2026-03-12
+864579	57787	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+865204	57788	40165774	enalapril maleate 20 MG Oral Tablet [Renitec]	858845	EXACT			2026-03-12
+880229	63816	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+944389	63271	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+973065	63377	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+999820	63166	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT	corrected from branded Renitec; sw_generico=1		2026-03-12
+999930	57873	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+603663	73300	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+605842	63355	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+617969	63258	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+618280	63270	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+645424	58090	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+650254	66386	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+650367	64767	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+650624	63371	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+653152	58076	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+653222	63258	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+653297	58237	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+665184	72198	40042337	enalapril Oral Tablet	372007	BROAD	bucodispersable/liotab; no exact RxNorm disintegrating tablet concept at 20mg for enalapril maleate	enalapril maleate 20 MG Disintegrating Oral Tablet	2026-03-12
+665186	72197	40042337	enalapril Oral Tablet	372007	BROAD	bucodispersable/liotab; no exact RxNorm disintegrating tablet concept at 20mg for enalapril maleate	enalapril maleate 20 MG Disintegrating Oral Tablet	2026-03-12
+673146	58235	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+677379	73300	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+677380	73300	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+677381	73300	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+694037	58116	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+696753	77130	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+707895	58116	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+729050	85309	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+729051	85309	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+768129	73300	40165762	enalapril maleate 10 MG Oral Tablet	858817	EXACT			2026-03-12
+768130	63355	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+827428	63741	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+850727	63270	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+853895	63355	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+854315	63370	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+856708	59795	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+857276	59795	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+859561	63468	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+859926	63469	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+861591	58237	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+864496	57964	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+894113	63272	40165789	enalapril maleate 5 MG Oral Tablet	858813	EXACT			2026-03-12
+932624	63872	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12
+999847	58236	40165773	enalapril maleate 20 MG Oral Tablet	858810	EXACT			2026-03-12

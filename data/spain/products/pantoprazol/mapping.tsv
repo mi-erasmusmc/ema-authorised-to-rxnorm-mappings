@@ -1,153 +1,243 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 602761	69548	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-602996	69870	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+602996	69870	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 602997	69871	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-603208	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-607422	85793	21123889	pantoprazole 4 MG/ML	OMOP414495	BROAD			2026-03-12
-618413	62580	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-620229	62578	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+603208	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+607422	85793	948080	pantoprazole 40 MG Injection	283669	EXACT	Previously mapped to pantoprazole 4 MG/ML (wrong); this is a powder for injection vial reconstituted to 40 mg		2026-03-12
+618413	62580	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+620229	62578	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 647222	61001	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 647966	61002	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-651514	70025	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+651514	70025	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 651522	70026	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 652100	70026	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-656137	68070	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200				2026-03-12
+656137	68070	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 656138	68071	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 656139	68071	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 656144	68073	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 656145	68073	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 656148	68076	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 656149	68076	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-656972	70296	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+656972	70296	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 656974	70297	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 658109	68242	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 658124	68253	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 658364	68404	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 658365	68404	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-659324	68966	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-659480	69060	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-659503	69075	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+659324	68966	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+659480	69060	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+659503	69075	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 660418	69548	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 660419	69548	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-661081	69870	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+661081	69870	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 661084	69871	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-662003	70295	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+662003	70295	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 662004	70298	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 663113	71056	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-663149	71066	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-663151	71066	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-663541	71118	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-663544	71118	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-663565	71184	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-663627	71175	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-663650	71225	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-663653	71225	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-663751	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-665213	72229	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+663149	71066	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+663151	71066	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+663541	71118	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+663544	71118	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+663565	71184	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+663627	71175	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+663650	71225	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+663653	71225	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+663751	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+665213	72229	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 665217	72223	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-665379	72302	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-665381	72302	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+665379	72302	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+665381	72302	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 665382	72300	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 665383	72300	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-665391	72303	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+665391	72303	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 665393	72301	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-665399	72299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+665399	72299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 665401	72298	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 665488	72401	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 665490	72401	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-665493	72402	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-665566	72565	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+665493	72402	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+665566	72565	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 670395	72300	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-670419	70617	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+670419	70617	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 670434	70618	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-670639	70515	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+670639	70515	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 670655	70516	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-671491	72526	948078	pantoprazole	40790	BROAD			2026-03-12
-671501	72528	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200				2026-03-12
+671491	72526	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT	Previously mapped to bare pantoprazole ingredient concept; corrected to strength-specific concept		2026-03-12
+671501	72528	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 672290	72566	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-672407	72802	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+672407	72802	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 672408	72803	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-673101	71115	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-673102	70401	948078	pantoprazole	40790	BROAD			2026-03-12
+673101	71115	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+673102	70401	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT	Previously mapped to bare pantoprazole ingredient concept; corrected to strength-specific concept		2026-03-12
 673149	72298	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 673150	72298	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-673156	72299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+673156	72299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 677479	68071	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 677480	68071	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 679768	73942	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-679771	73944	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+679771	73944	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 680694	61002	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 680702	61001	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-681193	74225	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+681193	74225	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 685533	68076	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 685534	68076	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 685791	68073	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 685793	68073	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-693195	74483	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-693196	74483	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+693195	74483	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+693196	74483	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 696529	69871	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-696531	69870	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+696531	69870	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 697868	70026	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-697869	70025	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-699452	77931	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200				2026-03-12
+697869	70025	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+699452	77931	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 701407	72692	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 701775	72684	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 701776	72692	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 701796	72684	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
-701887	78591	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+701887	78591	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 702271	78744	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 702272	78744	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-702277	78745	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-713374	81355	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+702277	78745	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+713374	81355	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 713378	81356	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 713379	81356	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-719449	72299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+719449	72299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 719469	72298	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-721585	69075	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+721585	69075	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 721586	68253	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-721587	68966	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+721587	68966	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 721588	68242	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-721711	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+721711	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 721713	69548	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-721968	69870	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+721968	69870	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 721970	69871	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-721973	78745	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+721973	78745	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 722042	78744	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-722327	72302	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-722328	72302	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-722699	77931	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200				2026-03-12
-723340	78591	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-723615	71066	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-723616	71066	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+722327	72302	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+722328	72302	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+722699	77931	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+723340	78591	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+723615	71066	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+723616	71066	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 723622	68073	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 723623	68073	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-724276	81355	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+724276	81355	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 724277	81356	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-725825	70025	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+725825	70025	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 725826	70026	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-727184	71118	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-727185	71118	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+727184	71118	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+727185	71118	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 727186	68076	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 727187	68076	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-727839	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+727839	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 727840	69548	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 728432	85054	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 728433	85054	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 728434	85054	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-729882	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+729882	71299	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 729883	69548	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-730435	85793	21123889	pantoprazole 4 MG/ML	OMOP414495	BROAD			2026-03-12
+730435	85793	948080	pantoprazole 40 MG Injection	283669	EXACT	Previously mapped to pantoprazole 4 MG/ML (wrong); this is a powder for injection vial reconstituted to 40 mg		2026-03-12
 732716	72401	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-732717	72402	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-734276	70295	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+732717	72402	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+734276	70295	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 734277	70298	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 764353	72692	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 764365	72684	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
-765830	70617	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+765830	70617	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 765831	70618	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
-766457	72526	948078	pantoprazole	40790	BROAD			2026-03-12
-766458	72528	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200				2026-03-12
-776344	62578	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
-776435	62580	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872				2026-03-12
+766457	72526	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT	Previously mapped to bare pantoprazole ingredient concept; corrected to strength-specific concept		2026-03-12
+766458	72528	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+776344	62578	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+776435	62580	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
 907089	61001	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
 926519	61002	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+602762	69547	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+602812	69698	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+603045	70061	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+603057	69454	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+603393	72346	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+605391	72828	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+606539	79327	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+606720	80709	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+607039	83159	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+607228	84014	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+607426	85854	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+618389	62582	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+647388	61027	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+650559	70045	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+650565	70046	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+652876	68075	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+656135	68069	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+656143	68072	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+660732	69698	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+661218	69941	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+661249	62023	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+661382	70018	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+661383	70019	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+661384	70019	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+662311	70486	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+662317	70488	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+664080	09519001	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+664081	09519002	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+664594	71536	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+665225	71242	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+665226	71552	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+672126	62582	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+672127	61027	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+672128	61027	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+672335	72828	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+673029	69938	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+673030	69941	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+673069	72304	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+673071	72304	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+673174	72305	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+673175	72305	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+673222	71536	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+673231	71533	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+674658	72704	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+682691	74516	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+683050	72731	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+683051	72732	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+693286	76516	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+693287	76516	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+693288	76516	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+694673	R-6898	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+696986	1876-2009-06	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+704378	79234	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+704388	79235	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+704390	79235	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+707302	09-714-95-C	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+707615	09-714-95-CIP	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+710252	80709	948080	pantoprazole 40 MG Injection	283669	EXACT			2026-03-12
+716295	R6898	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+716326	4787IP	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+716638	04787IP	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+716654	R-6898IP	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+719451	72305	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+720760	R6898IP1	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+723552	R6898IP2	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+723565	R-6898IP1	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+723962	4787IP1	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+723963	4787IP2	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+727709	69938	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+728989	PA229-010-001	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+729010	PA2229-010-002	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+729187	PA2229-010-001IP	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+729711	PA2229-010-002IP	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+730629	R-6898IP2	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+730631	4787IP4	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+730650	4787IP3	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+730651	R6898IP3	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+763233	407190000IP	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+763762	4207416072010	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+766274	772991623042018	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+766909	406641022062011	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+767304	BE318254	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+767305	BE318272	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+767725	PA2229010002	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+767806	BE318254IP	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+767807	BE318272IP	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+768932	BE318254IP1	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+768933	BE318272IP1	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12
+769114	BE318254IP2	948079	pantoprazole 20 MG Delayed Release Oral Tablet	251872	EXACT			2026-03-12
+769115	BE318272IP2	19080217	pantoprazole 40 MG Delayed Release Oral Tablet	314200	EXACT			2026-03-12

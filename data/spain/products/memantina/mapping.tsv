@@ -1,76 +1,129 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-697758	77445	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			
-697760	77446	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			
+697758	77445	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+697760	77446	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
 698119	113824010	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 698120	113824016	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2025-12-04
-698134	77539	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-698135	77540	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
+698134	77539	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+698135	77540	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
 698138	113820019	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2025-12-04
 698139	113820013	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
-698158	77553	21075396	Memantine 10 MG/ML	OMOP255731	EXACT			
-698202	77580	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-698203	77581	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-698207	77585	701322	memantine	6719	BROAD			
-698247	77610	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-698249	77611	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
+698158	77553	21075396	Memantine 10 MG/ML	OMOP255731	EXACT			2026-03-12
+698202	77580	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+698203	77581	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+698207	77585	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+698247	77610	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+698249	77611	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
 698276	113827028	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2025-12-04
 698287	113827018	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 698392	113836019	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2025-12-04
-698393	113836023	40066417	memantine Oral Tablet	372757	BROAD		{7 (memantine hydrochloride 5 MG Oral Tablet) / 7 (memantine hydrochloride 10 MG Oral Tablet) / 7 (memantine hydrochloride 15 MG Oral Tablet) / 7 (memantine hydrochloride 20 MG Oral Tablet) } Pack	2025-12-04
+698393	113836023	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT			2026-03-12
 698394	113836011	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
-698663	77746	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-698664	77747	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-698665	77748	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-698666	77749	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-698697	77762	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-698698	77763	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-699535	77950	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-699536	77951	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-700441	78230	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-700442	78231	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-700784	78268	701322	memantine	6719	BROAD			
-700785	78269	701322	memantine	6719	BROAD			
-700791	78273	21075396	Memantine 10 MG/ML	OMOP255731	EXACT			
-700936	78310	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-700956	78312	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-700960	78313	21075396	Memantine 10 MG/ML	OMOP255731	EXACT			
-700977	78316	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733				
-700984	78319	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-700985	78320	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-701091	78346	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-701092	78347	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-701106	78351	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-701107	78352	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-701150	78362	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733				
-701294	78411	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-701296	78412	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-701426	78464	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-701427	78465	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-701648	78510	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-701650	78511	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-701783	78557	19110768	memantine 5 MG/ML	446277				
-702281	78747	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-703767	79080	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-705074	79493	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-705077	79494	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
+698663	77746	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+698664	77747	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+698665	77748	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+698666	77749	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+698697	77762	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+698698	77763	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+699535	77950	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+699536	77951	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+700441	78230	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+700442	78231	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+700784	78268	43733347	Memantine 10 MG Disintegrating Oral Tablet	OMOP900844	EXACT			2026-03-12
+700785	78269	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+700791	78273	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT	corrected from Memantine 10 MG/ML (no dose form) to oral solution		2026-03-12
+700936	78310	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+700956	78312	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+700960	78313	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT	corrected from Memantine 10 MG/ML (no dose form) to oral solution		2026-03-12
+700977	78316	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-12
+700984	78319	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+700985	78320	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+701091	78346	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+701092	78347	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+701106	78351	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+701107	78352	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+701150	78362	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-12
+701294	78411	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+701296	78412	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+701426	78464	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+701427	78465	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+701648	78510	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+701650	78511	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+701783	78557	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT	corrected from memantine 5 MG/ML (ingredient only) to oral solution concept		2026-03-12
+702281	78747	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+703767	79080	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+705074	79493	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+705077	79494	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
 705835	113880008	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2025-12-04
 705836	113880011	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2025-12-04
-708310	80338	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-708311	80339	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-722352	83285	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-722353	83286	40222850	memantine hydrochloride 20 MG Oral Tablet	996752				
-722428	83297	701322	memantine	6719	BROAD			
-722429	83298	701322	memantine	6719	BROAD			
-728335	85011	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-748657	87501	701322	memantine	6719	BROAD			
-749089	87520	701322	memantine	6719	BROAD			
-749090	87521	701322	memantine	6719	BROAD			
-749091	87522	701322	memantine	6719	BROAD			
-763773	89160	701322	memantine	6719	BROAD			
-763774	89161	701322	memantine	6719	BROAD			
-764277	89331	701322	memantine	6719	BROAD			
-764434	89399	701322	memantine	6719	BROAD			
-764435	89400	701322	memantine	6719	BROAD			
-764500	77746	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-764546	77762	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
-768082	79493	40222834	memantine hydrochloride 10 MG Oral Tablet	996561				
+708310	80338	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+708311	80339	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+722352	83285	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+722353	83286	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+722428	83297	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+722429	83298	43733347	Memantine 10 MG Disintegrating Oral Tablet	OMOP900844	EXACT			2026-03-12
+728335	85011	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+748657	87501	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+749089	87520	43733347	Memantine 10 MG Disintegrating Oral Tablet	OMOP900844	EXACT			2026-03-12
+749090	87521	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+749091	87522	43733347	Memantine 10 MG Disintegrating Oral Tablet	OMOP900844	EXACT			2026-03-12
+763773	89160	43733347	Memantine 10 MG Disintegrating Oral Tablet	OMOP900844	EXACT			2026-03-12
+763774	89161	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+764277	89331	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT			2026-03-12
+764434	89399	43733347	Memantine 10 MG Disintegrating Oral Tablet	OMOP900844	EXACT			2026-03-12
+764435	89400	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+764500	77746	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+764546	77762	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+768082	79493	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+661011	02218020	41124524	Memantine 20 MG Oral Tablet [Axura]	OMOP2322486	EXACT			2026-03-12
+661012	02219027	21065454	Memantine 20 MG Oral Tablet [Ebixa]	OMOP255707	EXACT			2026-03-12
+662135	02219022	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT	Ebixa titration starter pack		2026-03-12
+662136	02218016	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT	Axura titration starter pack		2026-03-12
+698204	77582	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+698205	77583	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+698206	77584	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+699843	78035	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+699844	78036	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+699847	78037	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+699848	78038	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+700962	78314	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT			2026-03-12
+701088	78345	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT			2026-03-12
+701214	78377	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+701215	78377	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+701216	78378	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+701780	78554	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+701786	78560	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-12
+701790	78563	43733347	Memantine 10 MG Disintegrating Oral Tablet	OMOP900844	EXACT			2026-03-12
+701791	78564	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+701794	78566	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+701910	78602	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+702149	78695	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+702150	78696	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+702157	78703	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT			2026-03-12
+702280	78746	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+702283	78748	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT			2026-03-12
+702567	78804	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+703766	79079	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+705205	79525	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-12
+705209	79527	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-12
+706629	78377	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
+710007	02219027IP	21065454	Memantine 20 MG Oral Tablet [Ebixa]	OMOP255707	EXACT	IP variant of Ebixa 20 mg		2026-03-12
+712908	02219027IP1	21065454	Memantine 20 MG Oral Tablet [Ebixa]	OMOP255707	EXACT	IP variant of Ebixa 20 mg		2026-03-12
+716306	02219027IP2	21065454	Memantine 20 MG Oral Tablet [Ebixa]	OMOP255707	EXACT	IP variant of Ebixa 20 mg		2026-03-12
+716310	02218020IP	41124524	Memantine 20 MG Oral Tablet [Axura]	OMOP2322486	EXACT	IP variant of Axura 20 mg		2026-03-12
+721459	83051	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-12
+726591	84431	21085124	Memantine 10 MG/ML Oral Solution	OMOP255733	EXACT			2026-03-12
+727089	02218020IP1	41124524	Memantine 20 MG Oral Tablet [Axura]	OMOP2322486	EXACT	IP variant of Axura 20 mg		2026-03-12
+727470	02219027IP3	21065454	Memantine 20 MG Oral Tablet [Ebixa]	OMOP255707	EXACT	IP variant of Ebixa 20 mg		2026-03-12
+728336	85012	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
+729009	02219009IP	21143981	Memantine 10 MG Oral Tablet [Ebixa]	OMOP255635	EXACT	IP variant of Ebixa 10 mg		2026-03-12
+730723	85881	43733347	Memantine 10 MG Disintegrating Oral Tablet	OMOP900844	EXACT			2026-03-12
+730724	85882	36883844	Memantine 20 MG Disintegrating Oral Tablet	OMOP996281	EXACT			2026-03-12
+730993	02218009IP	41030639	Memantine 10 MG Oral Tablet [Axura]	OMOP2228601	EXACT	IP variant of Axura 10 mg		2026-03-12
+732136	02219027IP4	21065454	Memantine 20 MG Oral Tablet [Ebixa]	OMOP255707	EXACT	IP variant of Ebixa 20 mg		2026-03-12
+741401	02218020IP2	41124524	Memantine 20 MG Oral Tablet [Axura]	OMOP2322486	EXACT	IP variant of Axura 20 mg		2026-03-12
+757807	02219006	21055623	Memantine 10 MG/ML Oral Solution [Ebixa]	OMOP255744	EXACT			2026-03-12
+762916	02218016	40703273	{(Memantine hydrochloride 10 MG Oral Tablet) / (Memantine hydrochloride 15 MG Oral Tablet) / (Memantine hydrochloride 20 MG Oral Tablet) / (Memantine hydrochloride 5 MG Oral Tablet) } Pack	OMOP4754525	EXACT	Axura titration starter pack		2026-03-12
+767981	02219027IP5	21065454	Memantine 20 MG Oral Tablet [Ebixa]	OMOP255707	EXACT	IP variant of Ebixa 20 mg		2026-03-12
+822528	02218009	41030639	Memantine 10 MG Oral Tablet [Axura]	OMOP2228601	EXACT			2026-03-12
+832725	02219009	21143981	Memantine 10 MG Oral Tablet [Ebixa]	OMOP255635	EXACT			2026-03-12
+925933	02218006	41124534	Memantine 10 MG/ML Oral Solution [Axura]	OMOP2322496	EXACT			2026-03-12

@@ -1,48 +1,48 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-662865	70733	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			
-662868	70734	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			
-665030	72079	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-665031	72079	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-665032	72078	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
-665033	72078	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
-665290	72270	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
-665291	72270	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
-665292	72269	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-665293	72269	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-673882	71793	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
-673886	71792	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-691294	72071	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			
-691296	72072	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			
-695455	76879	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-695459	76879	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-695467	76880	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
-695471	76880	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
+662865	70733	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+662868	70734	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+665030	72079	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+665031	72079	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+665032	72078	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+665033	72078	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+665290	72270	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+665291	72270	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+665292	72269	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+665293	72269	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+673882	71793	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+673886	71792	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+691294	72071	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+691296	72072	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+695455	76879	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+695459	76879	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+695467	76880	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+695471	76880	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
 697605	108469007	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040	EXACT			2025-12-04
 697606	108469010	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040	EXACT			2025-12-04
 697609	108469017	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT			2025-12-04
 697610	108469020	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT			2025-12-04
-699416	77912	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550				
-699419	77913	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555				
-699820	78023	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546				
-699821	78024	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550				
-699822	78025	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555				
-699823	78026	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485				
-699824	78027	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534				
-699825	78028	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541				
-699826	78029	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479				
-700098	78075	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541				
-700099	78076	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550				
-700100	78077	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555				
-700172	78132	40241094	pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114482	EXACT			
-700173	78133	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541				
-700174	78134	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550				
-700175	78135	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555				
-700176	78136	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541				
-700178	78138	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550				
-700180	78139	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555				
-700354	78195	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541				
-700356	78197	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550				
-700357	78198	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555				
+699416	77912	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+699419	77913	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+699820	78023	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	BROAD		pramipexole 0.52 MG Extended Release Oral Tablet	2026-03-12
+699821	78024	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+699822	78025	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+699823	78026	21092074	Pramipexole 2.62 MG Extended Release Oral Tablet	OMOP369943	EXACT			2026-03-12
+699824	78027	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	BROAD		pramipexole 3.15 MG Extended Release Oral Tablet	2026-03-12
+699825	78028	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+699826	78029	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	BROAD		pramipexole 1.57 MG Extended Release Oral Tablet	2026-03-12
+700098	78075	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+700099	78076	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+700100	78077	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+700172	78132	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+700173	78133	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+700174	78134	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+700175	78135	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+700176	78136	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+700178	78138	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+700180	78139	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+700354	78195	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+700356	78197	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+700357	78198	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
 700400	108469031	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	EXACT			2025-12-04
 700402	108469039	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	EXACT			2025-12-04
 700404	108469027	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	EXACT			2025-12-04
@@ -50,10 +50,73 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 700407	108469043	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555	EXACT			2025-12-04
 706365	108469047	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485	EXACT			2025-12-04
 706366	108469051	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	EXACT			2025-12-04
-707137	80051	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541				
-707138	80052	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546				
-707139	80053	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550				
-707140	80054	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479				
-707142	80055	40171489	24 HR pramipexole dihydrochloride 3 MG Extended Release Oral Tablet	901555				
-707143	80056	40240370	24 HR pramipexole dihydrochloride 3.75 MG Extended Release Oral Tablet	1114485				
-707144	80057	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534				
+707137	80051	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+707138	80052	40171485	24 HR pramipexole dihydrochloride 0.75 MG Extended Release Oral Tablet	901546	BROAD		pramipexole 0.52 MG Extended Release Oral Tablet	2026-03-12
+707139	80053	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+707140	80054	40240368	24 HR pramipexole dihydrochloride 2.25 MG Extended Release Oral Tablet	1114479	BROAD		pramipexole 1.57 MG Extended Release Oral Tablet	2026-03-12
+707142	80055	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+707143	80056	21092074	Pramipexole 2.62 MG Extended Release Oral Tablet	OMOP369943	EXACT			2026-03-12
+707144	80057	40171491	24 HR pramipexole dihydrochloride 4.5 MG Extended Release Oral Tablet	901534	BROAD		pramipexole 3.15 MG Extended Release Oral Tablet	2026-03-12
+652113	71037	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+652389	71039	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+652397	71039	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+652405	71037	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+659912	97051003	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+659920	97051004	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+659938	97051005	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+659946	97051006	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+663932	71036	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+664188	97051014	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+664189	97051020	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+664190	97051023	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+665790	08490005	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+665791	08490007	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+665792	08490013	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+665793	08490015	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+671410	72455	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+671413	72456	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+672843	73083	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+672844	73083	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+672845	73084	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+672846	73084	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+672847	73085	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+672848	73085	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+672849	73086	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+672850	73086	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+674731	72711	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+674735	72711	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+674912	72713	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+674916	72713	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+677590	73541	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+677592	73541	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+677593	73540	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+677594	73540	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+681274	74249	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+681275	74249	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+681276	74250	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+681277	74250	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+685335	74930	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+685336	74931	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+691429	74930	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+691430	74931	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+691724	11728007	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+691726	11728008	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591	EXACT			2026-03-12
+691727	11728003	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+691728	11728004	21043074	Pramipexole 0.18 MG Oral Tablet	OMOP369671	EXACT			2026-03-12
+699411	77910	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+700167	78127	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+700168	78128	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+700169	78129	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+700170	78130	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+700171	78131	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+703875	79110	40171483	24 HR pramipexole dihydrochloride 0.375 MG Extended Release Oral Tablet	901541	BROAD		pramipexole 0.26 MG Extended Release Oral Tablet	2026-03-12
+703877	79111	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+703879	79113	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+724679	97051023IP	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+763463	97051020IP	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+765614	97051023IP1	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+765615	97051020IP1	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+766404	97051020IP3	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+766419	97051023IP3	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12
+767995	97051020IP4	40171487	24 HR pramipexole dihydrochloride 1.5 MG Extended Release Oral Tablet	901550	BROAD		pramipexole 1.05 MG Extended Release Oral Tablet	2026-03-12
+767996	97051023IP4	36065397	pramipexole 2.1 MG Extended Release Oral Tablet	OMOP4991702	EXACT			2026-03-12

@@ -1,80 +1,137 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-601781	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-603140	66949	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-605884	76030	40071301	paroxetine Oral Tablet	378925	BROAD			
-644948	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-651602	66932	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-651603	66932	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-651605	66932	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-651651	66949	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-652266	66949	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-653572	67460	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-653573	67460	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-653574	67460	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-654586	65259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-654587	65259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-656860	66949	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-658546	68506	722031	paroxetine	32937	BROAD			
-658547	68507	40071301	paroxetine Oral Tablet	378925	BROAD			
-658548	68507	40071301	paroxetine Oral Tablet	378925	BROAD			
-658549	68508	722031	paroxetine	32937	BROAD			
-658550	68509	35604586	paroxetine hydrochloride 40 MG Oral Tablet	1738511				
-659275	68937	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-659277	68937	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-659278	68937	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-659670	69165	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-659671	69165	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-661172	69917	722031	paroxetine	32937	BROAD			
-662384	70540	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-662385	70540	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-663852	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-663853	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-691265	76029	722031	paroxetine	32937	BROAD			
-691266	76030	40071301	paroxetine Oral Tablet	378925	BROAD			
-691267	76030	40071301	paroxetine Oral Tablet	378925	BROAD			
-691268	76030	40071301	paroxetine Oral Tablet	378925	BROAD			
-691269	76031	722031	paroxetine	32937	BROAD			
-691270	76031	722031	paroxetine	32937	BROAD			
-691271	76032	35604586	paroxetine hydrochloride 40 MG Oral Tablet	1738511				
-691272	76032	35604586	paroxetine hydrochloride 40 MG Oral Tablet	1738511				
-704287	76029	722031	paroxetine	32937	BROAD			
-713930	81511	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-713931	81511	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-713932	81512	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503				
-713934	81512	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503				
-722196	83252	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-722197	83252	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-722198	83252	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-726505	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-726554	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-726562	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-732305	65646	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-733048	65646	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-733196	65646	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-756825	59466	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-757195	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-760298	59466	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-760314	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-763291	89018	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			
-763293	89019	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			
-763294	89020	722031	paroxetine	32937	BROAD			
-764722	89501	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			
-764738	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-764741	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-764745	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-764746	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-765154	89639	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-765155	89639	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-765548	89503	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			
-766384	89984	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-766385	89984	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-767566	59535	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-767574	59535	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-767909	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-777706	65783	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-777714	65783	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-858936	59535	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-866905	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-890038	59466	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-999828	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
-999829	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			
+601781	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+603140	66949	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+605884	76030	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+644948	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+651602	66932	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+651603	66932	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+651605	66932	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+651651	66949	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+652266	66949	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+653572	67460	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+653573	67460	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+653574	67460	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+654586	65259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+654587	65259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+656860	66949	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+658546	68506	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
+658547	68507	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+658548	68507	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+658549	68508	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+658550	68509	35604586	paroxetine hydrochloride 40 MG Oral Tablet	1738511	EXACT			2026-03-12
+659275	68937	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+659277	68937	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+659278	68937	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+659670	69165	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+659671	69165	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+661172	69917	40071299	paroxetine Oral Suspension	373245	BROAD		No RxNorm concept for paroxetine mesilate 33 mg/ml oral solution; closest is paroxetine Oral Suspension	2026-03-12
+662384	70540	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+662385	70540	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+663852	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+663853	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+691265	76029	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
+691266	76030	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+691267	76030	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+691268	76030	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+691269	76031	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+691270	76031	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+691271	76032	35604586	paroxetine hydrochloride 40 MG Oral Tablet	1738511	EXACT			2026-03-12
+691272	76032	35604586	paroxetine hydrochloride 40 MG Oral Tablet	1738511	EXACT			2026-03-12
+704287	76029	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
+713930	81511	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+713931	81511	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+713932	81512	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+713934	81512	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+722196	83252	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+722197	83252	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+722198	83252	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+726505	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+726554	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+726562	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+732305	65646	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+733048	65646	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+733196	65646	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+756825	59466	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+757195	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+760298	59466	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+760314	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+763291	89018	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
+763293	89019	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
+763294	89020	35604586	paroxetine hydrochloride 40 MG Oral Tablet	1738511	EXACT			2026-03-12
+764722	89501	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
+764738	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+764741	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+764745	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+764746	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+765154	89639	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+765155	89639	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+765548	89503	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+766384	89984	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+766385	89984	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+767566	59535	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+767574	59535	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+767909	65626	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+777706	65783	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+777714	65783	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+858936	59535	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+866905	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+890038	59466	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+999828	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+999829	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+600687	67984	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+602884	70578	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+603087	70656	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+605479	73472	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+605480	73471	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+652108	65784	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+652112	65784	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+653155	70656	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+653163	70656	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+653313	65160	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+653314	65160	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+655922	67984	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+655923	67984	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+655924	67984	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+656092	68050	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+656093	68050	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+656094	68050	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+658133	68259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+658134	68259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+658135	68259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+658182	68289	40071299	paroxetine Oral Suspension	373245	BROAD		No RxNorm concept for paroxetine HCl 10 mg/ml oral drops; closest is paroxetine Oral Suspension	2026-03-12
+659062	66218	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+661182	69921	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+661183	69921	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+661613	68289	40071299	paroxetine Oral Suspension	373245	BROAD		No RxNorm concept for paroxetine HCl 10 mg/ml oral drops; closest is paroxetine Oral Suspension	2026-03-12
+662563	70656	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+663862	65160	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+663863	65160	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+671932	65282	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+671934	65282	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+672800	68610	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+672801	68610	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+673515	72687	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+673519	72687	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+677398	73472	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+677399	73472	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+677400	73472	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+677402	73471	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+677403	73471	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT			2026-03-12
+681793	74350	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+681794	74350	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+726245	65270	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+726246	65270	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+726348	65060	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+726349	65060	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+749978	66218	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+750000	66218	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+777763	65784	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+951681	65061	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+951848	65061	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+951962	65061	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+999752	65060	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+999753	65060	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+999754	65060	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+999954	65270	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+999955	65270	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
+999961	65160	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12

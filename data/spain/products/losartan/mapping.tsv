@@ -1,61 +1,91 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600558	67729	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-600652	67912	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-652236	67631	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-652249	67813	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-654254	67729	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-654255	67731	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-654262	67735	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			
-654331	67776	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-654332	67777	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-654659	67910	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			
-654660	67911	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			
-654661	67912	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-654662	67913	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-654714	67943	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-654719	67945	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-656341	68154	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			
-656342	68155	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			
-656343	68156	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-656344	68157	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-656799	68619	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-656800	68618	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-656897	68632	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-656898	68633	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-659094	62117	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			
-659289	68944	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-659402	69011	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-659403	69012	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-659579	69119	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-659580	69120	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-659583	69122	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-659637	69143	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-660533	69597	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-660534	69598	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-660879	69756	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-660880	69757	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-660895	69767	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-660896	69768	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-667610	70609	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-667614	70611	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			
-667625	70613	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-673093	69235	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-673094	69236	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-682229	60913	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-687677	75429	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-687678	75430	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-701506	78475	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			
-706666	79922	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-710850	80864	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-710865	80865	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-714296	81629	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-714297	81630	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-732084	68944	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-732152	79922	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-758332	88107	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-758333	88108	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			
-758335	88109	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-761787	88532	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			
-761788	88533	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			
-761789	88534	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
-809186	64971	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			
+600558	67729	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+600652	67912	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+652236	67631	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+652249	67813	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+654254	67729	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+654255	67731	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+654262	67735	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+654331	67776	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+654332	67777	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+654659	67910	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+654660	67911	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			2026-03-12
+654661	67912	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+654662	67913	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+654714	67943	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+654719	67945	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+656341	68154	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+656342	68155	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			2026-03-12
+656343	68156	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+656344	68157	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+656799	68619	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+656800	68618	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+656897	68632	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+656898	68633	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+659094	62117	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+659289	68944	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+659402	69011	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+659403	69012	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+659579	69119	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+659580	69120	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+659583	69122	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+659637	69143	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+660533	69597	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+660534	69598	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+660879	69756	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+660880	69757	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+660895	69767	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+660896	69768	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+667610	70609	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+667614	70611	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			2026-03-12
+667625	70613	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+673093	69235	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+673094	69236	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+682229	60913	40185305	losartan potassium 50 MG Oral Tablet [Cozaar]	979494	EXACT			2026-03-12
+687677	75429	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+687678	75430	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+701506	78475	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			2026-03-12
+706666	79922	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+710850	80864	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+710865	80865	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+714296	81629	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+714297	81630	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+732084	68944	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+732152	79922	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+758332	88107	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+758333	88108	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			2026-03-12
+758335	88109	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+761787	88532	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			2026-03-12
+761788	88533	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+761789	88534	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+809186	64971	40185277	losartan potassium 100 MG Oral Tablet [Cozaar]	979482	EXACT			2026-03-12
+651357	67814	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+651365	67633	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+654242	67721	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+654247	67724	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+654257	67732	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+654334	67779	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+654704	67941	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+654705	67942	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+656423	68196	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+656425	68198	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+656426	68199	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+658238	68324	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+658240	68326	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+658382	68415	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+658383	68416	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+658384	68417	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+659484	69063	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+659487	69066	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+659678	69170	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+659682	69173	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+660223	69461	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+660224	69462	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+665599	72506	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+672047	70581	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12
+672049	70583	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+701444	78472	1367533	losartan 12.5 MG Oral Tablet	252576	EXACT			2026-03-12
+701512	78476	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+704438	79245	40185280	losartan potassium 25 MG Oral Tablet	979485	EXACT			2026-03-12
+704443	79246	40185304	losartan potassium 50 MG Oral Tablet	979492	EXACT			2026-03-12
+706472	79865	40185276	losartan potassium 100 MG Oral Tablet	979480	EXACT			2026-03-12

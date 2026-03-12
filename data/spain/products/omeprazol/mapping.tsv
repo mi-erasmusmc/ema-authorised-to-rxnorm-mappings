@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 600136	66602	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 600140	62764	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-600259	66871	923648	omeprazole 4 MG/ML Injectable Solution	199493	BROAD	40 mg powder for infusion; strength matches (40mg/10mL=4mg/mL) but form differs (single-use powder vs multi-use solution)	omeprazole 40 MG Injection	2026-03-12
-600631	67270	923648	omeprazole 4 MG/ML Injectable Solution	199493	BROAD	40 mg powder for infusion; strength matches (40mg/10mL=4mg/mL) but form differs (single-use powder vs multi-use solution)	omeprazole 40 MG Injection	2026-03-12
+600259	66871	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
+600631	67270	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
 600758	68132	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 602949	62757	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 605122	63916	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -62,8 +62,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 659796	69233	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
 660281	69487	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 660285	69487	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-660573	67270	923648	omeprazole 4 MG/ML Injectable Solution	199493	BROAD	40 mg powder for infusion; strength matches (40mg/10mL=4mg/mL) but form differs (single-use powder vs multi-use solution)	omeprazole 40 MG Injection	2026-03-12
-661036	66871	923648	omeprazole 4 MG/ML Injectable Solution	199493	BROAD	40 mg powder for infusion; strength matches (40mg/10mL=4mg/mL) but form differs (single-use powder vs multi-use solution)	omeprazole 40 MG Injection	2026-03-12
+660573	67270	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
+661036	66871	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
 665561	72532	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 665563	72532	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 672723	65094	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -237,7 +237,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 934497	65519	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
 959650	63203	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 960526	63203	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-600258	66870	923648	omeprazole 4 MG/ML Injectable Solution	199493	BROAD	40 mg powder for infusion; strength matches (40mg/10mL=4mg/mL) but form differs	omeprazole 40 MG Injection	2026-03-12
+600258	66870	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
 605586	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 605587	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 614156	64753	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12

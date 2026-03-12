@@ -142,6 +142,7 @@ for nro, entries in sorted(counts.items()):
 
 ## Spain-specific Notes
 
+- **Generics (sw_generico=1)**: EFG products must always map to **non-branded** RxNorm concepts. Check `sw_generico` in `data.tsv` for each row. Only map to a branded concept `[BrandName]` when `sw_generico=0` AND the product name matches that brand.
 - **Spanish substance names**: `data.tsv` uses Spanish names (e.g., `bevacizumab`, `ácido zoledrónico`). The folder name is slugified from `des_dcsa` (active substance group name). Use the English name when searching RxNorm.
 - **Herbal products**: `sw_base_a_plantas = 1` — these typically have no RxNorm concept. Leave concept fields empty, populate `suggestion`.
 - **Radiopharmaceuticals**: `radiofarmaco = 1` — specialist RxNorm handling, follow `map-drugs` principles.

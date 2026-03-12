@@ -1,102 +1,157 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650171	66349	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-650172	66350	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-650173	66350	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-650362	66428	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			
-650479	66486	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
-650480	66486	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
-650778	66224	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-650779	66223	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-652928	67355	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-652930	67356	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-653233	66091	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-653307	66148	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-653869	67576	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-653870	67577	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-654269	59785	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-656257	67431	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-656259	67430	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-659585	66148	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-659586	66148	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-659711	69188	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-659712	69189	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-659713	69189	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-659967	66147	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-659968	66147	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-659975	69320	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-659977	69321	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-663114	70761	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-663116	70762	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-663830	71369	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-663833	71368	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-663835	71367	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-663836	71367	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-663837	71366	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-663838	71366	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-663854	71377	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-663857	71378	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-673244	61448	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-677580	73538	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-677581	73537	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-677582	73537	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-682512	74476	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-695147	76843	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-695153	76847	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-696063	77013	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-696064	77013	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-696065	77014	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-696068	77014	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-696119	62316	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-696126	62317	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-696429	77051	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-696431	77052	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-696433	77052	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-696436	77053	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-696438	77053	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-696440	77054	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-696441	77054	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-696954	61221	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-696956	62325	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-698630	77738	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-698633	77739	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-698646	77740	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-698649	77741	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-704698	79339	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-704701	79340	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-704702	79340	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-708631	66223	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-708633	66224	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-708634	67576	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-708636	67577	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-713095	81311	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-715016	81311	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-722446	83305	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-722448	83305	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-723573	77013	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-723574	77014	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-723600	69320	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-723602	69321	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-726604	66145	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
-726950	66145	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
-726992	66146	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			
-727107	66147	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-727206	66148	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-727433	66146	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			
-727434	66145	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
-727706	66128	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
-729917	66428	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			
-729918	66486	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
-731622	66223	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-731623	66224	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-738823	59785	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-752089	66219	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-752097	66220	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-752287	66221	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
-754499	66226	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-817791	66092	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-819607	66240	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843				
-820225	66241	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277				
-870519	65474	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			
-872622	65475	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			
-893974	66127	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			
-895102	66128	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			
+650171	66349	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+650172	66350	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+650173	66350	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+650362	66428	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+650479	66486	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+650480	66486	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+650778	66224	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+650779	66223	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+652928	67355	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+652930	67356	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+653233	66091	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+653307	66148	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+653869	67576	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+653870	67577	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+654269	59785	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+656257	67431	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+656259	67430	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+659585	66148	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+659586	66148	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+659711	69188	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+659712	69189	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+659713	69189	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+659967	66147	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+659968	66147	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+659975	69320	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+659977	69321	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+663114	70761	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+663116	70762	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+663830	71369	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+663833	71368	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+663835	71367	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+663836	71367	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+663837	71366	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+663838	71366	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+663854	71377	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+663857	71378	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+673244	61448	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	BROAD	no RxNorm branded concept for Opiren	lansoprazole 15 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+677580	73538	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+677581	73537	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+677582	73537	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+682512	74476	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+695147	76843	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+695153	76847	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+696063	77013	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+696064	77013	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+696065	77014	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+696068	77014	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+696119	62316	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+696126	62317	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+696429	77051	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+696431	77052	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+696433	77052	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+696436	77053	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+696438	77053	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+696440	77054	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+696441	77054	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+696954	61221	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+696956	62325	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+698630	77738	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+698633	77739	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+698646	77740	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+698649	77741	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+704698	79339	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+704701	79340	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+704702	79340	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+708631	66223	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+708633	66224	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+708634	67576	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+708636	67577	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+713095	81311	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+715016	81311	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+722446	83305	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+722448	83305	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+723573	77013	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+723574	77014	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+723600	69320	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+723602	69321	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+726604	66145	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+726950	66145	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+726992	66146	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+727107	66147	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+727206	66148	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+727433	66146	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+727434	66145	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+727706	66128	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+729917	66428	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+729918	66486	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+731622	66223	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+731623	66224	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+738823	59785	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+752089	66219	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+752097	66220	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	BROAD	no RxNorm branded concept for Lanzol	lansoprazole 15 MG Delayed Release Oral Capsule [Lanzol]	2026-03-12
+752287	66221	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+754499	66226	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+817791	66092	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+819607	66240	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+820225	66241	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+870519	65474	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+872622	65475	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+893974	66127	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+895102	66128	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+651150	66720	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Protoner	lansoprazole 30 MG Delayed Release Oral Capsule [Protoner]	2026-03-12
+651151	66721	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	BROAD	no RxNorm branded concept for Protoner	lansoprazole 15 MG Delayed Release Oral Capsule [Protoner]	2026-03-12
+654285	61219	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Pro Ulco	lansoprazole 30 MG Delayed Release Oral Capsule [Pro Ulco]	2026-03-12
+659930	68058	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+659932	68059	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+669974	72252	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+669985	72253	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+682490	74475	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+686582	68059	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+697532	72252	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+697533	72253	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+698321	77621	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+698322	77621	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+698323	77622	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+698324	77622	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+698325	77622	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+698326	77622	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+701251	78395	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	BROAD	no RxNorm branded concept for Dostab Flas	lansoprazole 15 MG Disintegrating Oral Tablet [Dostab Flas]	2026-03-12
+701254	78396	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	BROAD	no RxNorm branded concept for Dostab Flas	lansoprazole 30 MG Disintegrating Oral Tablet [Dostab Flas]	2026-03-12
+702705	78839	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+702707	78840	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+710002	80662	929924	lansoprazole 15 MG Disintegrating Oral Tablet	351261	EXACT			2026-03-12
+710005	80663	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+710006	80663	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	EXACT			2026-03-12
+721341	68059	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+722073	3400939239989	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	BROAD	no RxNorm branded concept for Opiren Flas	lansoprazole 30 MG Disintegrating Oral Tablet [Opiren Flas]	2026-03-12
+722343	36286-00-00	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+722344	36286-00-00	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+724622	36286-00-00IP	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+724623	36286-00-00IP	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+726727	36286-00-00IP1	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+727714	36286-00-00IP2	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+732550	340039239989IP	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	BROAD	no RxNorm branded concept for Opiren Flas	lansoprazole 30 MG Disintegrating Oral Tablet [Opiren Flas]	2026-03-12
+752600	66222	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+754481	66225	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+762804	3400939239989IP1	19098167	lansoprazole 30 MG Disintegrating Oral Tablet	351260	BROAD	no RxNorm branded concept for Opiren Flas	lansoprazole 30 MG Disintegrating Oral Tablet [Opiren Flas]	2026-03-12
+765427	28600056	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+769842	28600056IP	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	BROAD	no RxNorm branded concept for Opiren	lansoprazole 30 MG Delayed Release Oral Capsule [Opiren]	2026-03-12
+832329	66274	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+832345	66275	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+847723	66105	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+848358	66106	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+853655	66107	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+853663	66108	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+854174	66112	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+858506	62984	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	BROAD	no RxNorm branded concept for Pro Ulco	lansoprazole 15 MG Delayed Release Oral Capsule [Pro Ulco]	2026-03-12
+859215	66113	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+865444	66114	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+867606	66115	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+873562	66118	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+896787	66132	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+897181	66133	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+904557	66134	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
+941559	66137	929953	lansoprazole 15 MG Delayed Release Oral Capsule	596843	EXACT			2026-03-12
+941567	66138	929889	lansoprazole 30 MG Delayed Release Oral Capsule	311277	EXACT			2026-03-12
