@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-654766	48921	ASTONIN 0,1 mg  COMPRIMIDOS	Fludrocortisona 0,1 mg comprimido	0,1 mg	Blister	40	comprimido	FLUDROCORTISONA 0,1 mg	VÍA ORAL	COMPRIMIDO	H02AA02 - Fludrocortisona	LABORATORIOS ERN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+654766	48921	ASTONIN 0,1 mg  COMPRIMIDOS	Fludrocortisona 0,1 mg comprimido	0,1 mg	Blister	40	comprimido	FLUDROCORTISONA 0,1 mg	VÍA ORAL	COMPRIMIDO	H02AA02 - Fludrocortisona	LABORATORIOS ERN S.A.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-767032	1241898001	LYVDELZI 10 MG CAPSULAS DURAS	Seladelpar 10 mg cápsula	10 mg	Frasco	30	cápsula	SELADELPAR LISINA DIHIDRATO 10 mg	VÍA ORAL	CÁPSULA DURA	A05AX07 - Seladelpar	GILEAD SCIENCES IRELAND UNLIMITED COMPANY	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+767032	1241898001	LYVDELZI 10 MG CAPSULAS DURAS	Seladelpar 10 mg cápsula	10 mg	Frasco	30	cápsula	SELADELPAR LISINA DIHIDRATO 10 mg	VÍA ORAL	CÁPSULA DURA	A05AX07 - Seladelpar	GILEAD SCIENCES IRELAND UNLIMITED COMPANY	0	0	0	0

@@ -1,9 +1,9 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-626689	55343	NURIL CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	500	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0
-633156	55872	URISAN	Ácido pipemídico 400 mg cápsula	400 mg	Desconocido	500	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	MEIJI PHARMA SPAIN S.A.	0	0	0
-757401	55343	NURIL CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	20	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0
-757518	55343	NURIL CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	10	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0
-942979	55224	GALUSAN CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	20	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0
-946673	55224	GALUSAN CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	10	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0
-953877	55872	URISAN	Ácido pipemídico 400 mg cápsula	400 mg	Desconocido	10	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	MEIJI PHARMA SPAIN S.A.	0	0	0
-953885	55872	URISAN	Ácido pipemídico 400 mg cápsula	400 mg	Desconocido	20	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	MEIJI PHARMA SPAIN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+626689	55343	NURIL CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	500	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0	0
+633156	55872	URISAN	Ácido pipemídico 400 mg cápsula	400 mg	Desconocido	500	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	MEIJI PHARMA SPAIN S.A.	0	0	0	0
+757401	55343	NURIL CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	20	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0	0
+757518	55343	NURIL CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	10	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0	0
+942979	55224	GALUSAN CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	20	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0	0
+946673	55224	GALUSAN CAPSULAS	Ácido pipemídico 400 mg cápsula	400 mg	Blister	10	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	LABORATORIOS ALMIRALL S.L.	0	0	0	0
+953877	55872	URISAN	Ácido pipemídico 400 mg cápsula	400 mg	Desconocido	10	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	MEIJI PHARMA SPAIN S.A.	0	0	0	0
+953885	55872	URISAN	Ácido pipemídico 400 mg cápsula	400 mg	Desconocido	20	cápsula	PIPEMIDICO ACIDO 400 mg	VÍA ORAL	CÁPSULA DURA	J01MB04 - Acido pipemidico	MEIJI PHARMA SPAIN S.A.	0	0	0	0

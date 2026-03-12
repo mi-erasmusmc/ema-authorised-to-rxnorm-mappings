@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-770818	18697	CEMIDON 60 MG/ML SOLUCIÓN INYECTABLE	Isoniazida 300 mg inyectable 5 ml	300 mg	Ampolla	5	ampolla para inyección	ISONIAZIDA 60 mg	VÍA INTRAMUSCULAR|VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	J04AC01 - Isoniazida	CHIESI ESPAÑA S.A.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+770818	18697	CEMIDON 60 MG/ML SOLUCIÓN INYECTABLE	Isoniazida 300 mg inyectable 5 ml	300 mg	Ampolla	5	ampolla para inyección	ISONIAZIDA 60 mg	VÍA INTRAMUSCULAR|VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	J04AC01 - Isoniazida	CHIESI ESPAÑA S.A.U.	0	0	0	0

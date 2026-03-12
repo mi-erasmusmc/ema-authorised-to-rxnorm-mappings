@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-718780	82368	VERDYE 25 MG POLVO PARA SOLUCION INYECTABLE	Verde indocianina 25 mg inyectable	25 mg	Vial	5	vial para inyección	VERDE INDOCIANINA SODICO 25 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	V04CX01 - Verde de indocianina	DIAGNOSTIC GREEN LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+718780	82368	VERDYE 25 MG POLVO PARA SOLUCION INYECTABLE	Verde indocianina 25 mg inyectable	25 mg	Vial	5	vial para inyección	VERDE INDOCIANINA SODICO 25 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	V04CX01 - Verde de indocianina	DIAGNOSTIC GREEN LIMITED	0	0	0	0

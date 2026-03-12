@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-765020	89596	TENTIN 10 MG COMPRIMIDOS	Dexanfetamina 10 mg comprimido	10 mg	Blister	30	comprimido	DEXANFETAMINA SULFATO 10 mg	VÍA ORAL	COMPRIMIDO	N06BA02 - Dexanfetamina	MEDICE ARZNEIMITTEL PUETTER GMBH & CO. KG	0	0	0
-765025	89597	TENTIN 20 MG COMPRIMIDOS	Dexanfetamina 20 mg comprimido	20 mg	Blister	30	comprimido	DEXANFETAMINA SULFATO 20 mg	VÍA ORAL	COMPRIMIDO	N06BA02 - Dexanfetamina	MEDICE ARZNEIMITTEL PUETTER GMBH & CO. KG	0	0	0
-765028	89601	TENTIN 5 MG COMPRIMIDOS	Dexanfetamina 5 mg comprimido	5 mg	Blister	30	comprimido	DEXANFETAMINA SULFATO 5 mg	VÍA ORAL	COMPRIMIDO	N06BA02 - Dexanfetamina	MEDICE ARZNEIMITTEL PUETTER GMBH & CO. KG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+765020	89596	TENTIN 10 MG COMPRIMIDOS	Dexanfetamina 10 mg comprimido	10 mg	Blister	30	comprimido	DEXANFETAMINA SULFATO 10 mg	VÍA ORAL	COMPRIMIDO	N06BA02 - Dexanfetamina	MEDICE ARZNEIMITTEL PUETTER GMBH & CO. KG	0	0	0	0
+765025	89597	TENTIN 20 MG COMPRIMIDOS	Dexanfetamina 20 mg comprimido	20 mg	Blister	30	comprimido	DEXANFETAMINA SULFATO 20 mg	VÍA ORAL	COMPRIMIDO	N06BA02 - Dexanfetamina	MEDICE ARZNEIMITTEL PUETTER GMBH & CO. KG	0	0	0	0
+765028	89601	TENTIN 5 MG COMPRIMIDOS	Dexanfetamina 5 mg comprimido	5 mg	Blister	30	comprimido	DEXANFETAMINA SULFATO 5 mg	VÍA ORAL	COMPRIMIDO	N06BA02 - Dexanfetamina	MEDICE ARZNEIMITTEL PUETTER GMBH & CO. KG	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-959957	56273	EMOVATE CREMA	Clobetasona 0,5 mg/g crema	0,5 mg/g	Tubo	15	g	CLOBETASONA BUTIRATO 0,5 mg	USO CUTÁNEO	CREMA	D07AB01 - Clobetasona	NUTRICION MEDICA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+959957	56273	EMOVATE CREMA	Clobetasona 0,5 mg/g crema	0,5 mg/g	Tubo	15	g	CLOBETASONA BUTIRATO 0,5 mg	USO CUTÁNEO	CREMA	D07AB01 - Clobetasona	NUTRICION MEDICA S.L.	0	0	0	0

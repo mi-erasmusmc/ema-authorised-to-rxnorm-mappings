@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-808360	49927	POLIBUTIN SUSPENSION ORAL	Trimebutina 24 mg/5 ml solución/suspensión oral	24 mg/5 ml	Sobre	250	ml	TRIMEBUTINA 4.8 mg	VÍA ORAL	SUSPENSIÓN ORAL	A03AA05 - Trimebutina	DESMA LABORATORIO FARMACEUTICO S.L.	0	0	0
-808386	49925	POLIBUTIN COMPRIMIDOS RECUBIERTOS	Trimebutina 100 mg comprimido	100 mg	Blister	20	comprimido	TRIMEBUTINA MALEATO 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	A03AA05 - Trimebutina	DESMA LABORATORIO FARMACEUTICO S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+808360	49927	POLIBUTIN SUSPENSION ORAL	Trimebutina 24 mg/5 ml solución/suspensión oral	24 mg/5 ml	Sobre	250	ml	TRIMEBUTINA 4.8 mg	VÍA ORAL	SUSPENSIÓN ORAL	A03AA05 - Trimebutina	DESMA LABORATORIO FARMACEUTICO S.L.	0	0	0	0
+808386	49925	POLIBUTIN COMPRIMIDOS RECUBIERTOS	Trimebutina 100 mg comprimido	100 mg	Blister	20	comprimido	TRIMEBUTINA MALEATO 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	A03AA05 - Trimebutina	DESMA LABORATORIO FARMACEUTICO S.L.	0	0	0	0

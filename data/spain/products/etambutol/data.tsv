@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700537	44430	Myambutol 400 mg comprimidos recubiertos	Etambutol 400 mg comprimido	400 mg	Blister	100	comprimido	ETAMBUTOL 400 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	J04AK02 - Etambutol	TEOFARMA S.R.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700537	44430	Myambutol 400 mg comprimidos recubiertos	Etambutol 400 mg comprimido	400 mg	Blister	100	comprimido	ETAMBUTOL 400 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	J04AK02 - Etambutol	TEOFARMA S.R.L.	0	0	0	0

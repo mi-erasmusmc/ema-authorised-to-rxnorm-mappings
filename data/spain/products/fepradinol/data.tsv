@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-853457	60170	DALGEN GEL	Fepradinol 60 mg/g gel	60 mg/g	Tubo	60	g	FEPRADINOL 60 mg	USO CUTÁNEO	GEL	M02AA99 - Fepradinol	CASEN RECORDATI S.L.	0	0	0
-975995	57498	DALGEN SPRAY SOLUCION	Fepradinol 60 mg/ml líquido uso tópico	60 mg/ml	Frasco	75	ml	FEPRADINOL HIDROCLORURO 60 mg	USO CUTÁNEO	SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	M02AA99 - Fepradinol	CASEN RECORDATI S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+853457	60170	DALGEN GEL	Fepradinol 60 mg/g gel	60 mg/g	Tubo	60	g	FEPRADINOL 60 mg	USO CUTÁNEO	GEL	M02AA99 - Fepradinol	CASEN RECORDATI S.L.	0	0	0	0
+975995	57498	DALGEN SPRAY SOLUCION	Fepradinol 60 mg/ml líquido uso tópico	60 mg/ml	Frasco	75	ml	FEPRADINOL HIDROCLORURO 60 mg	USO CUTÁNEO	SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	M02AA99 - Fepradinol	CASEN RECORDATI S.L.	0	0	0	0

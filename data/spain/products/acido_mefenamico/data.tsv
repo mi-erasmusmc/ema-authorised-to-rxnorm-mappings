@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-993188	39520	COSLAN 250 MG CAPSULAS DURAS	Ácido mefenámico 250 mg cápsula	250 mg	Blister	20	cápsula	MEFENAMICO ACIDO 250 mg	VÍA ORAL	CÁPSULA DURA	M01AG01 - Acido mefenamico	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+993188	39520	COSLAN 250 MG CAPSULAS DURAS	Ácido mefenámico 250 mg cápsula	250 mg	Blister	20	cápsula	MEFENAMICO ACIDO 250 mg	VÍA ORAL	CÁPSULA DURA	M01AG01 - Acido mefenamico	PFIZER S.L.	0	0	0	0

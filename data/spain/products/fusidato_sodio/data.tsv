@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-680445	74063	FUSIDATO DE SODIO ISDIN 20 mg/g POMADA	Fusidato sodio 20 mg/g pomada	20 mg/g	Tubo	30	g	FUSIDATO SODIO 20 mg	USO CUTÁNEO	POMADA	D06AX01 - Acido fusidico	ISDIN S.A.	0	0	0
-697148	39143	FUCIDINE 250 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Fusidato sodio 250 mg comprimido	250 mg	Blister	10	comprimido	FUSIDATO SODIO 250 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	J01XC01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0
-999795	44460	FUCIDINE 20 mg/g POMADA	Fusidato sodio 20 mg/g pomada	20 mg/g	Tubo	15	g	FUSIDATO SODIO 20 mg	USO CUTÁNEO	POMADA	D06AX01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0
-999796	44460	FUCIDINE 20 mg/g POMADA	Fusidato sodio 20 mg/g pomada	20 mg/g	Tubo	30	g	FUSIDATO SODIO 20 mg	USO CUTÁNEO	POMADA	D06AX01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+680445	74063	FUSIDATO DE SODIO ISDIN 20 mg/g POMADA	Fusidato sodio 20 mg/g pomada	20 mg/g	Tubo	30	g	FUSIDATO SODIO 20 mg	USO CUTÁNEO	POMADA	D06AX01 - Acido fusidico	ISDIN S.A.	0	0	0	0
+697148	39143	FUCIDINE 250 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Fusidato sodio 250 mg comprimido	250 mg	Blister	10	comprimido	FUSIDATO SODIO 250 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	J01XC01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0	0
+999795	44460	FUCIDINE 20 mg/g POMADA	Fusidato sodio 20 mg/g pomada	20 mg/g	Tubo	15	g	FUSIDATO SODIO 20 mg	USO CUTÁNEO	POMADA	D06AX01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0	0
+999796	44460	FUCIDINE 20 mg/g POMADA	Fusidato sodio 20 mg/g pomada	20 mg/g	Tubo	30	g	FUSIDATO SODIO 20 mg	USO CUTÁNEO	POMADA	D06AX01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0	0

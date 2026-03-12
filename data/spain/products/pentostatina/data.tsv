@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-710764	59993	NIPENT 10 mg POLVO PARA SOLUCION INYECTABLE Y PARA PERFUSION	Pentostatina 10 mg inyectable	10 mg	Vial	1	vial para inyección	PENTOSTATINA 10 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE Y PARA PERFUSIÓN	L01XX08 - Pentostatina	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+710764	59993	NIPENT 10 mg POLVO PARA SOLUCION INYECTABLE Y PARA PERFUSION	Pentostatina 10 mg inyectable	10 mg	Vial	1	vial para inyección	PENTOSTATINA 10 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE Y PARA PERFUSIÓN	L01XX08 - Pentostatina	PFIZER S.L.	0	0	0	0

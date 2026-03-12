@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-671705	72587	ZOVIDUO 50 mg/g + 10 mg/g CREMA	Aciclovir/Hidrocortisona 50 mg/g + 10 mg/g crema	50 mg/g + 10 mg/g	Tubo	2	g	ACICLOVIR 50 mg|HIDROCORTISONA 10 mg	USO CUTÁNEO	CREMA	D06BB53 - Aciclovir, combinaciones con	HALEON SPAIN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+671705	72587	ZOVIDUO 50 mg/g + 10 mg/g CREMA	Aciclovir/Hidrocortisona 50 mg/g + 10 mg/g crema	50 mg/g + 10 mg/g	Tubo	2	g	ACICLOVIR 50 mg|HIDROCORTISONA 10 mg	USO CUTÁNEO	CREMA	D06BB53 - Aciclovir, combinaciones con	HALEON SPAIN S.A.	0	0	0	0

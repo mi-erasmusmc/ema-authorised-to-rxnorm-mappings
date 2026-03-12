@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-688523	60557	REUTENOX  20 mg GRANULADO PARA SUSPENSION ORAL	Tenoxicam 20 mg solución/suspensión oral sobre	20 mg	Sobre	20	sobre	TENOXICAM 20 mg	VÍA ORAL	GRANULADO PARA SUSPENSIÓN ORAL	M01AC02 - Tenoxicam	LABORATORIOS RUBIO S.A.	0	0	0
-732578	58665	REUTENOX 20 mg COMPRIMIDOS RECUBIERTOS	Tenoxicam 20 mg comprimido	20 mg	Blister	20	comprimido	TENOXICAM 20 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	M01AC02 - Tenoxicam	LABORATORIOS RUBIO S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+688523	60557	REUTENOX  20 mg GRANULADO PARA SUSPENSION ORAL	Tenoxicam 20 mg solución/suspensión oral sobre	20 mg	Sobre	20	sobre	TENOXICAM 20 mg	VÍA ORAL	GRANULADO PARA SUSPENSIÓN ORAL	M01AC02 - Tenoxicam	LABORATORIOS RUBIO S.A.	0	0	0	0
+732578	58665	REUTENOX 20 mg COMPRIMIDOS RECUBIERTOS	Tenoxicam 20 mg comprimido	20 mg	Blister	20	comprimido	TENOXICAM 20 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	M01AC02 - Tenoxicam	LABORATORIOS RUBIO S.A.	0	0	0	0

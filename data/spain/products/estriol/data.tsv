@@ -1,8 +1,8 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-661340	57467	OVESTINON 0,5 mg OVULOS	Estriol 0,5 mg óvulo/cápsula/comprimido vaginal	0,5 mg	Blister	30	óvulo	ESTRIOL 0,5 mg	VÍA VAGINAL	ÓVULO	G03CA04 - Estriol	ASPEN PHARMA TRADING LIMITED	0	0	0
-671628	61533	OVESTINON 1 mg/g CREMA VAGINAL	Estriol 1 mg/g semisólido vaginal	1 mg/g	Tubo	15	g	ESTRIOL 1 mg	VÍA VAGINAL	CREMA VAGINAL	G03CA04 - Estriol	ASPEN PHARMA TRADING LIMITED	0	0	0
-684559	72727	GELISTROL 50 microgramos/g GEL VAGINAL	Estriol 0,05 mg/g semisólido vaginal	50 microgramos/g	Tubo	10	g	ESTRIOL 0,05 mg	VÍA VAGINAL	GEL VAGINAL	G03CA04 - Estriol	ITALFARMACO S.A.	0	0	0
-684560	72726	BLISSEL 50 microgramos/g GEL VAGINAL	Estriol 0,05 mg/g semisólido vaginal	50 microgramos/g	Tubo	10	g	ESTRIOL 0,05 mg	VÍA VAGINAL	GEL VAGINAL	G03CA04 - Estriol	ITALFARMACO S.A.	0	0	0
-719524	82222	FEMMYN 0,03 MG ÓVULOS	Estriol 0,03 mg óvulo/cápsula/comprimido vaginal	0,03 mg	Tiras	10	óvulo	ESTRIOL 0,03 mg	VÍA VAGINAL	ÓVULO	G03CA04 - Estriol	KERN PHARMA S.L.	0	0	0
-762456	72726	BLISSEL 50 microgramos/g GEL VAGINAL	Estriol 0,05 mg/g semisólido vaginal	50 microgramos/g	Tubo	10	g	ESTRIOL 50 microgramos	VÍA VAGINAL	GEL VAGINAL	G03CA04 - Estriol	ITALFARMACO S.A.	0	0	0
-762457	72726	BLISSEL 50 microgramos/g GEL VAGINAL	Estriol 0,05 mg/g semisólido vaginal	50 microgramos/g	Tubo	30	g	ESTRIOL 50 microgramos	VÍA VAGINAL	GEL VAGINAL	G03CA04 - Estriol	ITALFARMACO S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+661340	57467	OVESTINON 0,5 mg OVULOS	Estriol 0,5 mg óvulo/cápsula/comprimido vaginal	0,5 mg	Blister	30	óvulo	ESTRIOL 0,5 mg	VÍA VAGINAL	ÓVULO	G03CA04 - Estriol	ASPEN PHARMA TRADING LIMITED	0	0	0	0
+671628	61533	OVESTINON 1 mg/g CREMA VAGINAL	Estriol 1 mg/g semisólido vaginal	1 mg/g	Tubo	15	g	ESTRIOL 1 mg	VÍA VAGINAL	CREMA VAGINAL	G03CA04 - Estriol	ASPEN PHARMA TRADING LIMITED	0	0	0	0
+684559	72727	GELISTROL 50 microgramos/g GEL VAGINAL	Estriol 0,05 mg/g semisólido vaginal	50 microgramos/g	Tubo	10	g	ESTRIOL 0,05 mg	VÍA VAGINAL	GEL VAGINAL	G03CA04 - Estriol	ITALFARMACO S.A.	0	0	0	0
+684560	72726	BLISSEL 50 microgramos/g GEL VAGINAL	Estriol 0,05 mg/g semisólido vaginal	50 microgramos/g	Tubo	10	g	ESTRIOL 0,05 mg	VÍA VAGINAL	GEL VAGINAL	G03CA04 - Estriol	ITALFARMACO S.A.	0	0	0	0
+719524	82222	FEMMYN 0,03 MG ÓVULOS	Estriol 0,03 mg óvulo/cápsula/comprimido vaginal	0,03 mg	Tiras	10	óvulo	ESTRIOL 0,03 mg	VÍA VAGINAL	ÓVULO	G03CA04 - Estriol	KERN PHARMA S.L.	0	0	0	0
+762456	72726	BLISSEL 50 microgramos/g GEL VAGINAL	Estriol 0,05 mg/g semisólido vaginal	50 microgramos/g	Tubo	10	g	ESTRIOL 50 microgramos	VÍA VAGINAL	GEL VAGINAL	G03CA04 - Estriol	ITALFARMACO S.A.	0	0	0	0
+762457	72726	BLISSEL 50 microgramos/g GEL VAGINAL	Estriol 0,05 mg/g semisólido vaginal	50 microgramos/g	Tubo	30	g	ESTRIOL 50 microgramos	VÍA VAGINAL	GEL VAGINAL	G03CA04 - Estriol	ITALFARMACO S.A.	0	0	0	0

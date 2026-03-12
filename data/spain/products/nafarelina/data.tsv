@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-696831	60079	SYNAREL 200 microgramos, SOLUCION PARA PULVERIZACION NASAL	Nafarelina 2 mg/ml producto uso nasal	2 mg/ml	Frasco	8	ml	NAFARELINA ACETATO 2 mg	VÍA NASAL	SOLUCION PARA PULVERIZACION NASAL	H01CA02 - Nafarelina	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+696831	60079	SYNAREL 200 microgramos, SOLUCION PARA PULVERIZACION NASAL	Nafarelina 2 mg/ml producto uso nasal	2 mg/ml	Frasco	8	ml	NAFARELINA ACETATO 2 mg	VÍA NASAL	SOLUCION PARA PULVERIZACION NASAL	H01CA02 - Nafarelina	PFIZER S.L.	0	0	0	0

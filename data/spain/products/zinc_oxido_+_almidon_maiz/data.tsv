@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-741793	33302	ANTICONGESTIVA CUSI (PASTA LASSAR)	Zinc óxido/Almidon maíz 250 mg/g + 250 mg/g pasta cutánea	250 mg/g + 250 mg/g	Tubo	45	g	ZINC OXIDO 250 mg|MAIZ ALMIDON 250 mg	USO CUTÁNEO	PASTA CUTÁNEA	D02AB - Productos con zinc	LABORATORIO STADA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+741793	33302	ANTICONGESTIVA CUSI (PASTA LASSAR)	Zinc óxido/Almidon maíz 250 mg/g + 250 mg/g pasta cutánea	250 mg/g + 250 mg/g	Tubo	45	g	ZINC OXIDO 250 mg|MAIZ ALMIDON 250 mg	USO CUTÁNEO	PASTA CUTÁNEA	D02AB - Productos con zinc	LABORATORIO STADA S.L.	0	0	0	0

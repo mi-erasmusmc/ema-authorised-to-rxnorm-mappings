@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-733268	1211605002	TAVNEOS 10 MG CAPSULAS DURAS	Avacopán 10 mg cápsula	10 mg	Frasco	180	cápsula	AVACOPAN 10 mg	VÍA ORAL	CÁPSULA DURA	L04AJ05 - Avacopan	VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+733268	1211605002	TAVNEOS 10 MG CAPSULAS DURAS	Avacopán 10 mg cápsula	10 mg	Frasco	180	cápsula	AVACOPAN 10 mg	VÍA ORAL	CÁPSULA DURA	L04AJ05 - Avacopan	VIFOR FRESENIUS MEDICAL CARE RENAL PHARMA FRANCE	0	0	0	0

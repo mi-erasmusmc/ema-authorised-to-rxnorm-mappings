@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-656560	18498	MYSOLINE 250 MG COMPRIMIDOS	Primidona 250 mg comprimido	250 mg	Blister	100	comprimido	PRIMIDONA 250 mg	VÍA ORAL	COMPRIMIDO	N03AA03 - Primidona	SERB	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+656560	18498	MYSOLINE 250 MG COMPRIMIDOS	Primidona 250 mg comprimido	250 mg	Blister	100	comprimido	PRIMIDONA 250 mg	VÍA ORAL	COMPRIMIDO	N03AA03 - Primidona	SERB	0	0	0	0

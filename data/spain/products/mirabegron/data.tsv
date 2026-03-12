@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-696527	112809010	BETMIGA 50mg comprimidos de liberacion prolongada	Mirabegrón 50 mg comprimido liberación modificada	50 mg	Blister	30	comprimido	MIRABEGRON 50 mg	VÍA ORAL	COMPRIMIDO DE LIBERACIÓN PROLONGADA	G04BD12 - Mirabegron	ASTELLAS PHARMA EUROPE B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+696527	112809010	BETMIGA 50mg comprimidos de liberacion prolongada	Mirabegrón 50 mg comprimido liberación modificada	50 mg	Blister	30	comprimido	MIRABEGRON 50 mg	VÍA ORAL	COMPRIMIDO DE LIBERACIÓN PROLONGADA	G04BD12 - Mirabegron	ASTELLAS PHARMA EUROPE B.V.	0	0	0	0

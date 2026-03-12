@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-727586	84725	BRIVUDINA ARISTO 125 MG COMPRIMIDOS EFG	Brivudina 125 mg comprimido	125 mg	Blister	7	comprimido	BRIVUDINA 125 mg	VÍA ORAL	COMPRIMIDO	J05AB15 - Brivudina	ARISTO PHARMA GMBH	0	0	0
-786111	64917	NERVINEX 125 mg COMPRIMIDOS	Brivudina 125 mg comprimido	125 mg	Blister	7	comprimido	BRIVUDINA 125 mg	VÍA ORAL	COMPRIMIDO	J05AB15 - Brivudina	LABORATORI GUIDOTTI S.P.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+727586	84725	BRIVUDINA ARISTO 125 MG COMPRIMIDOS EFG	Brivudina 125 mg comprimido	125 mg	Blister	7	comprimido	BRIVUDINA 125 mg	VÍA ORAL	COMPRIMIDO	J05AB15 - Brivudina	ARISTO PHARMA GMBH	0	1	0	0
+786111	64917	NERVINEX 125 mg COMPRIMIDOS	Brivudina 125 mg comprimido	125 mg	Blister	7	comprimido	BRIVUDINA 125 mg	VÍA ORAL	COMPRIMIDO	J05AB15 - Brivudina	LABORATORI GUIDOTTI S.P.A.	0	0	0	0

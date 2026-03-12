@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-705021	114983001	EXVIERA 250 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Dasabuvir 250 mg comprimido	250 mg	Caja	56	comprimido	DASABUVIR 250 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AP09 - Dasabuvir	ABBVIE DEUTSCHLAND GMBH & CO. KG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+705021	114983001	EXVIERA 250 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Dasabuvir 250 mg comprimido	250 mg	Caja	56	comprimido	DASABUVIR 250 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AP09 - Dasabuvir	ABBVIE DEUTSCHLAND GMBH & CO. KG	0	0	0	0

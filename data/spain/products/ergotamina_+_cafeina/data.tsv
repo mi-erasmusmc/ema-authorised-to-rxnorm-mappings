@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700566	17558	CAFERGOT 1 mg/100 mg COMPRIMIDOS	Ergotamina/Cafeína 1 mg/100 mg comprimido	1 mg/100 mg	Blister	10	comprimido	ERGOTAMINA TARTRATO 1 mg|CAFEINA 100 mg	VÍA ORAL	COMPRIMIDO	N02CA52 - Ergotamina, combinaciones excluyendo psicolepticos	AMDIPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700566	17558	CAFERGOT 1 mg/100 mg COMPRIMIDOS	Ergotamina/Cafeína 1 mg/100 mg comprimido	1 mg/100 mg	Blister	10	comprimido	ERGOTAMINA TARTRATO 1 mg|CAFEINA 100 mg	VÍA ORAL	COMPRIMIDO	N02CA52 - Ergotamina, combinaciones excluyendo psicolepticos	AMDIPHARM LIMITED	0	0	0	0

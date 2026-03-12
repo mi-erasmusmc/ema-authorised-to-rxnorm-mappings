@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-950584	55626	ENISON 5 MG POLVO PARA SOLUCIoN INYECTABLE	Vindesina 5 mg inyectable	5 mg	Vial	1	vial para inyección	VINDESINA SULFATO 5 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	L01CA03 - Vindesina	LABORATORIO STADA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+950584	55626	ENISON 5 MG POLVO PARA SOLUCIoN INYECTABLE	Vindesina 5 mg inyectable	5 mg	Vial	1	vial para inyección	VINDESINA SULFATO 5 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	L01CA03 - Vindesina	LABORATORIO STADA S.L.	0	0	0	0

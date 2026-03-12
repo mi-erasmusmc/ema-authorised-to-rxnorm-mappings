@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-701697	113894001	SOVALDI 400mg comprimidos recubiertos con pelicula	Sofosbuvir 400 mg comprimido	400 mg	Frasco	28	comprimido	SOFOSBUVIR 400 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AP08 - Sofosbuvir	GILEAD SCIENCES IRELAND UNLIMITED COMPANY	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+701697	113894001	SOVALDI 400mg comprimidos recubiertos con pelicula	Sofosbuvir 400 mg comprimido	400 mg	Frasco	28	comprimido	SOFOSBUVIR 400 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AP08 - Sofosbuvir	GILEAD SCIENCES IRELAND UNLIMITED COMPANY	0	0	0	0

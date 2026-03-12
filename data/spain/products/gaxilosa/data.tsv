@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-689247	75797	LACTEST 0,45 g POLVO PARA SOLUCION ORAL	Gaxilosa 0,45 g solución/suspensión oral sobre	0,45 g	Sobre	1	sobre	GAXILOSA 0,45 g	VÍA ORAL	POLVO PARA SOLUCIÓN ORAL	V04CX - Otros agentes diagnosticos	VENTER PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+689247	75797	LACTEST 0,45 g POLVO PARA SOLUCION ORAL	Gaxilosa 0,45 g solución/suspensión oral sobre	0,45 g	Sobre	1	sobre	GAXILOSA 0,45 g	VÍA ORAL	POLVO PARA SOLUCIÓN ORAL	V04CX - Otros agentes diagnosticos	VENTER PHARMA S.L.	0	0	0	0

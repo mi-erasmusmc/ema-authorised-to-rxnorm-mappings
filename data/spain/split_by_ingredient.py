@@ -39,6 +39,7 @@ DATA_COLUMNS = [
     "atc",                  # ATC code + description, e.g. "J01CR02 - Amoxicilina..."
     "laboratorio_titular",  # MAH
     "sw_base_a_plantas",    # herbal (may lack RxNorm concept)
+    "sw_generico",          # generic (helps determine appropriate RxNorm concept)
     "biosimilar",           # biosimilar (maps differently to originator)
     "radiofarmaco",         # radiopharmaceutical (specialist RxNorm handling)
 ]

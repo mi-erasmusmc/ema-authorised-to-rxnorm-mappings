@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-727277	1191399001	XOSPATA 40 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Gilteritinib 40 mg comprimido	40 mg	Blister	84	comprimido	GILTERITINIB FUMARATO 40 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EX13 - Gilteritinib	ASTELLAS PHARMA EUROPE B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+727277	1191399001	XOSPATA 40 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Gilteritinib 40 mg comprimido	40 mg	Blister	84	comprimido	GILTERITINIB FUMARATO 40 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EX13 - Gilteritinib	ASTELLAS PHARMA EUROPE B.V.	0	0	0	0

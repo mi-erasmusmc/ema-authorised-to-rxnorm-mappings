@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-660113	03268004	CHOLESTAGEL 625 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Colesevelam 625 mg comprimido	625 mg	Frasco	180	comprimido	COLESEVELAM HIDROCLORURO 625 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	C10AC04 - Colesevelam	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+660113	03268004	CHOLESTAGEL 625 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Colesevelam 625 mg comprimido	625 mg	Frasco	180	comprimido	COLESEVELAM HIDROCLORURO 625 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	C10AC04 - Colesevelam	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0	0

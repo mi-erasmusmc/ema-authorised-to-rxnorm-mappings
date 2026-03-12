@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-791285	42248	NATULAN 50 MG CÁPULAS DURAS	Procarbazina 50 mg cápsula	50 mg	Frasco	50	cápsula	PROCARBAZINA HIDROCLORURO 50 mg	VÍA ORAL	CÁPSULA DURA	L01XB01 - Procarbazina	LEADIANT GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+791285	42248	NATULAN 50 MG CÁPULAS DURAS	Procarbazina 50 mg cápsula	50 mg	Frasco	50	cápsula	PROCARBAZINA HIDROCLORURO 50 mg	VÍA ORAL	CÁPSULA DURA	L01XB01 - Procarbazina	LEADIANT GMBH	0	0	0	0

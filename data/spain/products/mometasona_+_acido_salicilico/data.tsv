@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-865915	63777	ELOCOM PLUS 1 mg/g + 50 mg/g POMADA	Mometasona/Ácido salicílico 1 mg/g + 50 mg/g pomada	1 mg/g + 50 mg/g	Tubo	45	g	MOMETASONA FUROATO 1 mg|SALICILICO ACIDO 50 mg	USO CUTÁNEO	POMADA	D07XC03 - Mometasona	MERCK SHARP & DOHME DE ESPANA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+865915	63777	ELOCOM PLUS 1 mg/g + 50 mg/g POMADA	Mometasona/Ácido salicílico 1 mg/g + 50 mg/g pomada	1 mg/g + 50 mg/g	Tubo	45	g	MOMETASONA FUROATO 1 mg|SALICILICO ACIDO 50 mg	USO CUTÁNEO	POMADA	D07XC03 - Mometasona	MERCK SHARP & DOHME DE ESPANA S.A.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700503	29406	DECENTAN 8 MG COMPRIMIDOS	Perfenazina 8 mg comprimido	8 mg	Blister	50	comprimido	PERFENAZINA 8 mg	VÍA ORAL	COMPRIMIDO	N05AB03 - Perfenazina	LABORATORIOS ERN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700503	29406	DECENTAN 8 MG COMPRIMIDOS	Perfenazina 8 mg comprimido	8 mg	Blister	50	comprimido	PERFENAZINA 8 mg	VÍA ORAL	COMPRIMIDO	N05AB03 - Perfenazina	LABORATORIOS ERN S.A.	0	0	0	0

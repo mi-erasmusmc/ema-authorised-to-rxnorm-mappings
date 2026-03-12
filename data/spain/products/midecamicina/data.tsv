@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-638007	57810	MYOXAM 600 mg COMPRIMIDOS RECUBIERTOS	Midecamicina 600 mg comprimido	600 mg	Desconocido	500	comprimido	MIDECAMICINA ACETATO 600 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	J01FA11 - Miocamicina	LABORATORIOS MENARINI S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+638007	57810	MYOXAM 600 mg COMPRIMIDOS RECUBIERTOS	Midecamicina 600 mg comprimido	600 mg	Desconocido	500	comprimido	MIDECAMICINA ACETATO 600 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	J01FA11 - Miocamicina	LABORATORIOS MENARINI S.A.	0	0	0	0

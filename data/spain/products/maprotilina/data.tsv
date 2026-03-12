@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-606079	55706	LUDIOMIL 75 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Maprotilina 75 mg comprimido	75 mg	Blister	500	comprimido	MAPROTILINA HIDROCLORURO 75 mg	VÍA ORAL	COMPRIMIDO	N06AA21 - Maprotilina	AMDIPHARM LIMITED	0	0	0
-782391	51649	LUDIOMIL 10 mg	Maprotilina 10 mg comprimido	10 mg	Blister	30	comprimido	MAPROTILINA HIDROCLORURO 10 mg	VÍA ORAL	COMPRIMIDO	N06AA21 - Maprotilina	AMDIPHARM LIMITED	0	0	0
-782409	51648	LUDIOMIL 25 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Maprotilina 25 mg comprimido	25 mg	Blister	30	comprimido	MAPROTILINA HIDROCLORURO 25 mg	VÍA ORAL	COMPRIMIDO	N06AA21 - Maprotilina	AMDIPHARM LIMITED	0	0	0
-991240	55706	LUDIOMIL 75 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Maprotilina 75 mg comprimido	75 mg	Blister	28	comprimido	MAPROTILINA HIDROCLORURO 75 mg	VÍA ORAL	COMPRIMIDO	N06AA21 - Maprotilina	AMDIPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+606079	55706	LUDIOMIL 75 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Maprotilina 75 mg comprimido	75 mg	Blister	500	comprimido	MAPROTILINA HIDROCLORURO 75 mg	VÍA ORAL	COMPRIMIDO	N06AA21 - Maprotilina	AMDIPHARM LIMITED	0	0	0	0
+782391	51649	LUDIOMIL 10 mg	Maprotilina 10 mg comprimido	10 mg	Blister	30	comprimido	MAPROTILINA HIDROCLORURO 10 mg	VÍA ORAL	COMPRIMIDO	N06AA21 - Maprotilina	AMDIPHARM LIMITED	0	0	0	0
+782409	51648	LUDIOMIL 25 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Maprotilina 25 mg comprimido	25 mg	Blister	30	comprimido	MAPROTILINA HIDROCLORURO 25 mg	VÍA ORAL	COMPRIMIDO	N06AA21 - Maprotilina	AMDIPHARM LIMITED	0	0	0	0
+991240	55706	LUDIOMIL 75 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Maprotilina 75 mg comprimido	75 mg	Blister	28	comprimido	MAPROTILINA HIDROCLORURO 75 mg	VÍA ORAL	COMPRIMIDO	N06AA21 - Maprotilina	AMDIPHARM LIMITED	0	0	0	0

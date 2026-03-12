@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-725324	84019	LANVIS 40 MG COMPRIMIDOS	Tioguanina 40 mg comprimido	40 mg	Frasco	25	comprimido	TIOGUANINA 40 mg	VÍA ORAL	COMPRIMIDO	L01BB03 - Tioguanina	ASPEN PHARMA TRADING LIMITED	0	0	0
-836106	52363	TIOGUANINA ASPEN 40 MG COMPRIMIDOS	Tioguanina 40 mg comprimido	40 mg	Frasco	25	comprimido	TIOGUANINA 40 mg	VÍA ORAL	COMPRIMIDO	L01BB03 - Tioguanina	ASPEN PHARMA TRADING LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+725324	84019	LANVIS 40 MG COMPRIMIDOS	Tioguanina 40 mg comprimido	40 mg	Frasco	25	comprimido	TIOGUANINA 40 mg	VÍA ORAL	COMPRIMIDO	L01BB03 - Tioguanina	ASPEN PHARMA TRADING LIMITED	0	0	0	0
+836106	52363	TIOGUANINA ASPEN 40 MG COMPRIMIDOS	Tioguanina 40 mg comprimido	40 mg	Frasco	25	comprimido	TIOGUANINA 40 mg	VÍA ORAL	COMPRIMIDO	L01BB03 - Tioguanina	ASPEN PHARMA TRADING LIMITED	0	0	0	0

@@ -1,13 +1,13 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-674010	61387	BENZAC WASH 50 MG/G GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	100	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	LABORATORIOS GALDERMA S.A.	0	0	0
-688840	62106	SOLUCEL 40 mg/g CREMA	Peróxido de benzoilo 40 mg/g crema	40 mg/g	Tubo	5	g	BENZOILO PEROXIDO 40 mg	USO CUTÁNEO	CREMA	D10AE01 - Peroxido de benzoilo	STIEFEL FARMA S.A.	0	0	0
-688841	62106	SOLUCEL 40 mg/g CREMA	Peróxido de benzoilo 40 mg/g crema	40 mg/g	Tubo	50	g	BENZOILO PEROXIDO 40 mg	USO CUTÁNEO	CREMA	D10AE01 - Peroxido de benzoilo	STIEFEL FARMA S.A.	0	0	0
-905968	59315	PEROXACNE 50 mg/g GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	30	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ARAFARMA GROUP S.A.	0	0	0
-905976	59316	PEROXACNE 100 mg/g GEL	Peróxido de benzoilo 100 mg/g gel	100 mg/g	Tubo	30	g	BENZOILO PEROXIDO 100 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ARAFARMA GROUP S.A.	0	0	0
-972778	57261	PEROXIBEN 100 mg/g GEL	Peróxido de benzoilo 100 mg/g gel	100 mg/g	Tubo	30	g	BENZOILO PEROXIDO 100 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0
-974170	57352	BENZAC 50 MG/G GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	40	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	LABORATORIOS GALDERMA S.A.	0	0	0
-974188	57353	BENZAC 100 MG/G GEL	Peróxido de benzoilo 100 mg/g gel	100 mg/g	Tubo	40	g	BENZOILO PEROXIDO 100 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	LABORATORIOS GALDERMA S.A.	0	0	0
-974436	57369	PEROXIBEN  25 mg/g GEL	Peróxido de benzoilo 25 mg/g gel	25 mg/g	Tubo	30	g	BENZOILO PEROXIDO 25 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0
-974451	57371	PEROXIBEN  50 mg/g GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	30	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0
-994277	57261	PEROXIBEN 100 mg/g GEL	Peróxido de benzoilo 100 mg/g gel	100 mg/g	Tubo	60	g	BENZOILO PEROXIDO 100 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0
-994285	57371	PEROXIBEN  50 mg/g GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	60	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+674010	61387	BENZAC WASH 50 MG/G GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	100	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	LABORATORIOS GALDERMA S.A.	0	0	0	0
+688840	62106	SOLUCEL 40 mg/g CREMA	Peróxido de benzoilo 40 mg/g crema	40 mg/g	Tubo	5	g	BENZOILO PEROXIDO 40 mg	USO CUTÁNEO	CREMA	D10AE01 - Peroxido de benzoilo	STIEFEL FARMA S.A.	0	0	0	0
+688841	62106	SOLUCEL 40 mg/g CREMA	Peróxido de benzoilo 40 mg/g crema	40 mg/g	Tubo	50	g	BENZOILO PEROXIDO 40 mg	USO CUTÁNEO	CREMA	D10AE01 - Peroxido de benzoilo	STIEFEL FARMA S.A.	0	0	0	0
+905968	59315	PEROXACNE 50 mg/g GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	30	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ARAFARMA GROUP S.A.	0	0	0	0
+905976	59316	PEROXACNE 100 mg/g GEL	Peróxido de benzoilo 100 mg/g gel	100 mg/g	Tubo	30	g	BENZOILO PEROXIDO 100 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ARAFARMA GROUP S.A.	0	0	0	0
+972778	57261	PEROXIBEN 100 mg/g GEL	Peróxido de benzoilo 100 mg/g gel	100 mg/g	Tubo	30	g	BENZOILO PEROXIDO 100 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0	0
+974170	57352	BENZAC 50 MG/G GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	40	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	LABORATORIOS GALDERMA S.A.	0	0	0	0
+974188	57353	BENZAC 100 MG/G GEL	Peróxido de benzoilo 100 mg/g gel	100 mg/g	Tubo	40	g	BENZOILO PEROXIDO 100 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	LABORATORIOS GALDERMA S.A.	0	0	0	0
+974436	57369	PEROXIBEN  25 mg/g GEL	Peróxido de benzoilo 25 mg/g gel	25 mg/g	Tubo	30	g	BENZOILO PEROXIDO 25 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0	0
+974451	57371	PEROXIBEN  50 mg/g GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	30	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0	0
+994277	57261	PEROXIBEN 100 mg/g GEL	Peróxido de benzoilo 100 mg/g gel	100 mg/g	Tubo	60	g	BENZOILO PEROXIDO 100 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0	0
+994285	57371	PEROXIBEN  50 mg/g GEL	Peróxido de benzoilo 50 mg/g gel	50 mg/g	Tubo	60	g	BENZOILO PEROXIDO 50 mg	USO CUTÁNEO	GEL	D10AE01 - Peroxido de benzoilo	ISDIN S.A.	0	0	0	0

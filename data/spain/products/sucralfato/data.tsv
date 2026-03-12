@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-960856	56352	URBAL COMPRIMIDOS	Sucralfato 1.000 mg comprimido	1.000 mg	Blister	50	comprimido	SUCRALFATO 1000 mg	VÍA ORAL	COMPRIMIDO	A02BX02 - Sucralfato	MERCK S.L.	0	0	0
-975672	56352	URBAL COMPRIMIDOS	Sucralfato 1.000 mg comprimido	1.000 mg	Blister	100	comprimido	SUCRALFATO 1000 mg	VÍA ORAL	COMPRIMIDO	A02BX02 - Sucralfato	MERCK S.L.	0	0	0
-976225	57511	URBAL 1 g SUSPENSION ORAL	Sucralfato 1.000 mg solución/suspensión oral sobre	1.000 mg	Sobre	50	sobre	SUCRALFATO 1000 mg	VÍA ORAL	SUSPENSIÓN ORAL	A02BX02 - Sucralfato	MERCK S.L.	0	0	0
-984344	57511	URBAL 1 g SUSPENSION ORAL	Sucralfato 1.000 mg solución/suspensión oral sobre	1.000 mg	Sobre	100	sobre	SUCRALFATO 1000 mg	VÍA ORAL	SUSPENSIÓN ORAL	A02BX02 - Sucralfato	MERCK S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+960856	56352	URBAL COMPRIMIDOS	Sucralfato 1.000 mg comprimido	1.000 mg	Blister	50	comprimido	SUCRALFATO 1000 mg	VÍA ORAL	COMPRIMIDO	A02BX02 - Sucralfato	MERCK S.L.	0	0	0	0
+975672	56352	URBAL COMPRIMIDOS	Sucralfato 1.000 mg comprimido	1.000 mg	Blister	100	comprimido	SUCRALFATO 1000 mg	VÍA ORAL	COMPRIMIDO	A02BX02 - Sucralfato	MERCK S.L.	0	0	0	0
+976225	57511	URBAL 1 g SUSPENSION ORAL	Sucralfato 1.000 mg solución/suspensión oral sobre	1.000 mg	Sobre	50	sobre	SUCRALFATO 1000 mg	VÍA ORAL	SUSPENSIÓN ORAL	A02BX02 - Sucralfato	MERCK S.L.	0	0	0	0
+984344	57511	URBAL 1 g SUSPENSION ORAL	Sucralfato 1.000 mg solución/suspensión oral sobre	1.000 mg	Sobre	100	sobre	SUCRALFATO 1000 mg	VÍA ORAL	SUSPENSIÓN ORAL	A02BX02 - Sucralfato	MERCK S.L.	0	0	0	0

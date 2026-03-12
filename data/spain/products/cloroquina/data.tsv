@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-793653	15797	RESOCHIN 155 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Cloroquina 155 mg comprimido	155 mg	Blister	50	comprimido	CLOROQUINA FOSFATO 155 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	P01BA01 - Cloroquina	KERN PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+793653	15797	RESOCHIN 155 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Cloroquina 155 mg comprimido	155 mg	Blister	50	comprimido	CLOROQUINA FOSFATO 155 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	P01BA01 - Cloroquina	KERN PHARMA S.L.	0	0	0	0

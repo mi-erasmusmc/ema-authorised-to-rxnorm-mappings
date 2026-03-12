@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-706655	62312	BONALFA 4 MICROGRAMOS/G POMADA	Tacalcitol 4 microgramos/g pomada	4 microgramos/g	Tubo	30	g	TACALCITOL MONOHIDRATO 4 microgramos	USO CUTÁNEO	POMADA	D05AX04 - Tacalcitol	ISDIN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+706655	62312	BONALFA 4 MICROGRAMOS/G POMADA	Tacalcitol 4 microgramos/g pomada	4 microgramos/g	Tubo	30	g	TACALCITOL MONOHIDRATO 4 microgramos	USO CUTÁNEO	POMADA	D05AX04 - Tacalcitol	ISDIN S.A.	0	0	0	0

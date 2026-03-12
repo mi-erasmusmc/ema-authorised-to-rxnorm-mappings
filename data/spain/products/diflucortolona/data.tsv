@@ -1,7 +1,7 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-743757	54811	CLARAL 1 mg/g POMADA	Diflucortolona 1 mg/g pomada	1 mg/g	Tubo	30	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	POMADA	D07AC06 - Diflucortolona	BAYER HISPANIA S.L.	0	0	0
-743765	54811	CLARAL 1 mg/g POMADA	Diflucortolona 1 mg/g pomada	1 mg/g	Tubo	60	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	POMADA	D07AC06 - Diflucortolona	BAYER HISPANIA S.L.	0	0	0
-743815	54812	CLARAL 1 mg/g CREMA	Diflucortolona 1 mg/g crema	1 mg/g	Tubo	30	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	CREMA	D07AC06 - Diflucortolona	LEO PHARMA A/S	0	0	0
-743823	54812	CLARAL 1 mg/g CREMA	Diflucortolona 1 mg/g crema	1 mg/g	Tubo	60	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	CREMA	D07AC06 - Diflucortolona	LEO PHARMA A/S	0	0	0
-743831	54810	CLARAL 1 mg/g UNGÜENTO	Diflucortolona 1 mg/g pomada	1 mg/g	Tubo	30	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D07AC06 - Diflucortolona	BAYER HISPANIA S.L.	0	0	0
-743872	54810	CLARAL 1 mg/g UNGÜENTO	Diflucortolona 1 mg/g pomada	1 mg/g	Tubo	60	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D07AC06 - Diflucortolona	BAYER HISPANIA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+743757	54811	CLARAL 1 mg/g POMADA	Diflucortolona 1 mg/g pomada	1 mg/g	Tubo	30	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	POMADA	D07AC06 - Diflucortolona	BAYER HISPANIA S.L.	0	0	0	0
+743765	54811	CLARAL 1 mg/g POMADA	Diflucortolona 1 mg/g pomada	1 mg/g	Tubo	60	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	POMADA	D07AC06 - Diflucortolona	BAYER HISPANIA S.L.	0	0	0	0
+743815	54812	CLARAL 1 mg/g CREMA	Diflucortolona 1 mg/g crema	1 mg/g	Tubo	30	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	CREMA	D07AC06 - Diflucortolona	LEO PHARMA A/S	0	0	0	0
+743823	54812	CLARAL 1 mg/g CREMA	Diflucortolona 1 mg/g crema	1 mg/g	Tubo	60	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	CREMA	D07AC06 - Diflucortolona	LEO PHARMA A/S	0	0	0	0
+743831	54810	CLARAL 1 mg/g UNGÜENTO	Diflucortolona 1 mg/g pomada	1 mg/g	Tubo	30	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D07AC06 - Diflucortolona	BAYER HISPANIA S.L.	0	0	0	0
+743872	54810	CLARAL 1 mg/g UNGÜENTO	Diflucortolona 1 mg/g pomada	1 mg/g	Tubo	60	g	DIFLUCORTOLONA VALERATO 1 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D07AC06 - Diflucortolona	BAYER HISPANIA S.L.	0	0	0	0

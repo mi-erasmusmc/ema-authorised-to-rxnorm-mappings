@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-711168	15734	ARGENPAL 42,5 mg  BARRA CUTANEA	Plata nitrato 50 mg sólido uso tópico	50 mg	Tubo	10	envase uso tópico unidosis	PLATA NITRATO 42.5 mg	USO CUTÁNEO	BARRA CUTÁNEA	D08AL01 - Nitrato de plata	B BRAUN MEDICAL S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+711168	15734	ARGENPAL 42,5 mg  BARRA CUTANEA	Plata nitrato 50 mg sólido uso tópico	50 mg	Tubo	10	envase uso tópico unidosis	PLATA NITRATO 42.5 mg	USO CUTÁNEO	BARRA CUTÁNEA	D08AL01 - Nitrato de plata	B BRAUN MEDICAL S.A.	0	0	0	0

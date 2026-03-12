@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-979278	57745	FLUOR LACER 1 mg COMPRIMIDOS	Sodio fluoruro 1 mg comprimido	1 mg	Blister	100	comprimido	SODIO FLUORURO 1 mg	VÍA ORAL	COMPRIMIDO	A01AA01 - Fluoruro de sodio	LACER S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+979278	57745	FLUOR LACER 1 mg COMPRIMIDOS	Sodio fluoruro 1 mg comprimido	1 mg	Blister	100	comprimido	SODIO FLUORURO 1 mg	VÍA ORAL	COMPRIMIDO	A01AA01 - Fluoruro de sodio	LACER S.A.	0	0	0	0

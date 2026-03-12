@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-684169	74726	ACITRETINA IFC 25 mg CAPSULAS DURAS EFG	Acitretina 25 mg cápsula	25 mg	Blister	30	cápsula	ACITRETINA 25 mg	VÍA ORAL	CÁPSULA DURA	D05BB02 - Acitretina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
-684171	74727	ACITRETINA IFC 10 mg CAPSULAS DURAS EFG	Acitretina 10 mg cápsula	10 mg	Blister	30	cápsula	ACITRETINA 10 mg	VÍA ORAL	CÁPSULA DURA	D05BB02 - Acitretina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
-692616	60303	NEOTIGASON 10 MG CAPSULAS DURAS	Acitretina 10 mg cápsula	10 mg	Blister	30	cápsula	ACITRETINA 10 mg	VÍA ORAL	CÁPSULA DURA	D05BB02 - Acitretina	AUROVITAS SPAIN, S.A.U.	0	0	0
-692624	60302	NEOTIGASON 25 MG CAPSULAS DURAS	Acitretina 25 mg cápsula	25 mg	Blister	30	cápsula	ACITRETINA 25 mg	VÍA ORAL	CÁPSULA DURA	D05BB02 - Acitretina	AUROVITAS SPAIN, S.A.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+684169	74726	ACITRETINA IFC 25 mg CAPSULAS DURAS EFG	Acitretina 25 mg cápsula	25 mg	Blister	30	cápsula	ACITRETINA 25 mg	VÍA ORAL	CÁPSULA DURA	D05BB02 - Acitretina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	1	0	0
+684171	74727	ACITRETINA IFC 10 mg CAPSULAS DURAS EFG	Acitretina 10 mg cápsula	10 mg	Blister	30	cápsula	ACITRETINA 10 mg	VÍA ORAL	CÁPSULA DURA	D05BB02 - Acitretina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	1	0	0
+692616	60303	NEOTIGASON 10 MG CAPSULAS DURAS	Acitretina 10 mg cápsula	10 mg	Blister	30	cápsula	ACITRETINA 10 mg	VÍA ORAL	CÁPSULA DURA	D05BB02 - Acitretina	AUROVITAS SPAIN, S.A.U.	0	0	0	0
+692624	60302	NEOTIGASON 25 MG CAPSULAS DURAS	Acitretina 25 mg cápsula	25 mg	Blister	30	cápsula	ACITRETINA 25 mg	VÍA ORAL	CÁPSULA DURA	D05BB02 - Acitretina	AUROVITAS SPAIN, S.A.U.	0	0	0	0

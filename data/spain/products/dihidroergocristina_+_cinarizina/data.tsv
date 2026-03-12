@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-939587	53105	CLINADIL CAPSULAS	Dihidroergocristina/Cinarizina 1,5 mg/20 mg cápsula	1,5 mg/20 mg	Blister	45	cápsula	DIHIDROERGOCRISTINA MESILATO 1,5 mg|CINARIZINA 20 mg	VÍA ORAL	CÁPSULA DURA	C04AE54 - Dihidroergocristina, combinaciones con	LABORATORIO STADA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+939587	53105	CLINADIL CAPSULAS	Dihidroergocristina/Cinarizina 1,5 mg/20 mg cápsula	1,5 mg/20 mg	Blister	45	cápsula	DIHIDROERGOCRISTINA MESILATO 1,5 mg|CINARIZINA 20 mg	VÍA ORAL	CÁPSULA DURA	C04AE54 - Dihidroergocristina, combinaciones con	LABORATORIO STADA S.L.	0	0	0	0

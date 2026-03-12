@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-749267	24408	EDEMOX 250 mg COMPRIMIDOS	Acetazolamida 250 mg comprimido	250 mg	Blister	20	comprimido	ACETAZOLAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	S01EC01 - Acetazolamida	CHIESI ESPAÑA S.A.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+749267	24408	EDEMOX 250 mg COMPRIMIDOS	Acetazolamida 250 mg comprimido	250 mg	Blister	20	comprimido	ACETAZOLAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	S01EC01 - Acetazolamida	CHIESI ESPAÑA S.A.U.	0	0	0	0

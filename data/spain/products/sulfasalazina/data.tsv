@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700634	39681	SALAZOPYRINA 500 MG COMPRIMIDOS	Sulfasalazina 500 mg comprimido	500 mg	Frasco	50	comprimido	SULFASALAZINA 500 mg	VÍA ORAL	COMPRIMIDO	A07EC01 - Sulfasalazina	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700634	39681	SALAZOPYRINA 500 MG COMPRIMIDOS	Sulfasalazina 500 mg comprimido	500 mg	Frasco	50	comprimido	SULFASALAZINA 500 mg	VÍA ORAL	COMPRIMIDO	A07EC01 - Sulfasalazina	PFIZER S.L.	0	0	0	0

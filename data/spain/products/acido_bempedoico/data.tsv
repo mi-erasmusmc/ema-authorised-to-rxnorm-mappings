@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-729840	1201425002	NILEMDO 180 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Ácido bempedoico 180 mg comprimido	180 mg	Blister	28	comprimido	BEMPEDOICO ACIDO 180 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	C10AX15 - Acido bempedoico	DAIICHI SANKYO EUROPE GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+729840	1201425002	NILEMDO 180 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Ácido bempedoico 180 mg comprimido	180 mg	Blister	28	comprimido	BEMPEDOICO ACIDO 180 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	C10AX15 - Acido bempedoico	DAIICHI SANKYO EUROPE GMBH	0	0	0	0

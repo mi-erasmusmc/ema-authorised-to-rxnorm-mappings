@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-652366	52255	DOLCOPIN 1 g POLVO PARA SUSPENSION ORAL	Almasilato 1.000 mg solución/suspensión oral sobre	1.000 mg	Sobre	30	sobre	ALMASILATO 1000 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	A02AD05 - Almasilato	MEDA PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+652366	52255	DOLCOPIN 1 g POLVO PARA SUSPENSION ORAL	Almasilato 1.000 mg solución/suspensión oral sobre	1.000 mg	Sobre	30	sobre	ALMASILATO 1000 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	A02AD05 - Almasilato	MEDA PHARMA S.L.	0	0	0	0

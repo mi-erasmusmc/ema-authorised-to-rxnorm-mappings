@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-647693	41134	MAGION 450 mg COMPRIMIDOS MASTICABLES	Magaldrato 450 mg comprimido masticable	450 mg	Blister	1000	comprimido	MAGALDRATO 450 mg	VÍA ORAL	COMPRIMIDO	A02AD02 - Magaldrato	LABORATORIOS ERN S.A.	0	0	0
-656649	41134	MAGION 450 mg COMPRIMIDOS MASTICABLES	Magaldrato 450 mg comprimido masticable	450 mg	Blister	40	comprimido	MAGALDRATO 450 mg	VÍA ORAL	COMPRIMIDO	A02AD02 - Magaldrato	LABORATORIOS ERN S.A.	0	0	0
-684902	60765	BEMOLAN 2000 mg GEL ORAL	Magaldrato 2.000 mg solución/suspensión oral sobre	2.000 mg	Sobre	30	sobre	MAGALDRATO 2000 mg	VÍA ORAL	GEL ORAL	A02AD02 - Magaldrato	TAKEDA FARMACEUTICA ESPANA S.A.	0	0	0
-973388	57295	BEMOLAN 800 mg GEL ORAL	Magaldrato 800 mg solución/suspensión oral sobre	800 mg	Sobre	30	sobre	MAGALDRATO 800 mg	VÍA ORAL	GEL ORAL	A02AD02 - Magaldrato	TAKEDA FARMACEUTICA ESPANA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+647693	41134	MAGION 450 mg COMPRIMIDOS MASTICABLES	Magaldrato 450 mg comprimido masticable	450 mg	Blister	1000	comprimido	MAGALDRATO 450 mg	VÍA ORAL	COMPRIMIDO	A02AD02 - Magaldrato	LABORATORIOS ERN S.A.	0	0	0	0
+656649	41134	MAGION 450 mg COMPRIMIDOS MASTICABLES	Magaldrato 450 mg comprimido masticable	450 mg	Blister	40	comprimido	MAGALDRATO 450 mg	VÍA ORAL	COMPRIMIDO	A02AD02 - Magaldrato	LABORATORIOS ERN S.A.	0	0	0	0
+684902	60765	BEMOLAN 2000 mg GEL ORAL	Magaldrato 2.000 mg solución/suspensión oral sobre	2.000 mg	Sobre	30	sobre	MAGALDRATO 2000 mg	VÍA ORAL	GEL ORAL	A02AD02 - Magaldrato	TAKEDA FARMACEUTICA ESPANA S.A.	0	0	0	0
+973388	57295	BEMOLAN 800 mg GEL ORAL	Magaldrato 800 mg solución/suspensión oral sobre	800 mg	Sobre	30	sobre	MAGALDRATO 800 mg	VÍA ORAL	GEL ORAL	A02AD02 - Magaldrato	TAKEDA FARMACEUTICA ESPANA S.A.	0	0	0	0

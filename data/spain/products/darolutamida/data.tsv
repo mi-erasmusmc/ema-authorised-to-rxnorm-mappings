@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-728305	1201432001	NUBEQA 300 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Darolutamida 300 mg comprimido	300 mg	Blister	112	comprimido	DAROLUTAMIDA 300 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L02BB06 - Darolutamida	BAYER AG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+728305	1201432001	NUBEQA 300 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Darolutamida 300 mg comprimido	300 mg	Blister	112	comprimido	DAROLUTAMIDA 300 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L02BB06 - Darolutamida	BAYER AG	0	0	0	0

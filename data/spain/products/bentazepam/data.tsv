@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-947523	55464	TIADIPONA	Bentazepam 25 mg comprimido	25 mg	Blister	30	comprimido	BENTAZEPAM 25 mg	VÍA ORAL	COMPRIMIDO	N05BA24 - Bentazepam	MYLAN IRE HEALTHCARE LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+947523	55464	TIADIPONA	Bentazepam 25 mg comprimido	25 mg	Blister	30	comprimido	BENTAZEPAM 25 mg	VÍA ORAL	COMPRIMIDO	N05BA24 - Bentazepam	MYLAN IRE HEALTHCARE LIMITED	0	0	0	0

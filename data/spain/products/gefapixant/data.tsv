@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-765188	1211613002	LYFNUA 45 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Gefapixant 45 mg comprimido	45 mg	Blister	56	comprimido	GEFAPIXANT 45 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	R05DB29 - gefapixant	MERCK SHARP & DOHME B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+765188	1211613002	LYFNUA 45 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Gefapixant 45 mg comprimido	45 mg	Blister	56	comprimido	GEFAPIXANT 45 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	R05DB29 - gefapixant	MERCK SHARP & DOHME B.V.	0	0	0	0

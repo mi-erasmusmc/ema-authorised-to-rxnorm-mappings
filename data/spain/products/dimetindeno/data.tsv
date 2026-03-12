@@ -1,10 +1,10 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-703220	54083	FENISTIL 1 mg/g GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	50	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	HALEON SPAIN S.A.	0	0	0
-712070	0228308	FENISTIL EMULSION	Dimetindeno 1 mg/g emulsión cutánea	1 mg/ml	Frasco	8	ml	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	EMULSIÓN CUTÁNEA	D04AA13 - Dimetindeno	GLAXOSMITHKLINE CONSUMER HEALTHCARE HELLAS S.A.	0	0	0
-723919	83552	DERMAPIC 1 MG/G GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	30	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	LABORATORIOS NORMON S.A.	0	0	0
-723920	83552	DERMAPIC 1 MG/G GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	50	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	LABORATORIOS NORMON S.A.	0	0	0
-728621	LT-1-95-0933-001	FENISTIL 1 mg/g GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	30	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	GLAXOSMITHKLINE DUNGARVAN LIMITED	0	0	0
-728901	37189-7-6-2010	FENISTIL 1 MG/ML EMULSION CUTANEA	Dimetindeno 1 mg/g emulsión cutánea	1 mg/ml	Frasco	8	ml	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	EMULSIÓN CUTÁNEA	D04AA13 - Dimetindeno	GLAXOSMITHKLINE CONSUMER HEALTHCARE HELLAS S.A.	0	0	0
-756034	87838	DIMESTIL 1MG/G GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	30	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	GRINDEKS AS	0	0	0
-857227	54083	FENISTIL 1 mg/g GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	30	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	HALEON SPAIN S.A.	0	0	0
-881581	63138	FENISTIL 1 MG/ML EMULSIÓN CUTÁNEA	Dimetindeno 1 mg/g emulsión cutánea	1 mg/g	Frasco	8	ml	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	EMULSIÓN CUTÁNEA	D04AA13 - Dimetindeno	HALEON SPAIN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+703220	54083	FENISTIL 1 mg/g GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	50	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	HALEON SPAIN S.A.	0	0	0	0
+712070	0228308	FENISTIL EMULSION	Dimetindeno 1 mg/g emulsión cutánea	1 mg/ml	Frasco	8	ml	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	EMULSIÓN CUTÁNEA	D04AA13 - Dimetindeno	GLAXOSMITHKLINE CONSUMER HEALTHCARE HELLAS S.A.	0	0	0	0
+723919	83552	DERMAPIC 1 MG/G GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	30	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	LABORATORIOS NORMON S.A.	0	0	0	0
+723920	83552	DERMAPIC 1 MG/G GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	50	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	LABORATORIOS NORMON S.A.	0	0	0	0
+728621	LT-1-95-0933-001	FENISTIL 1 mg/g GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	30	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	GLAXOSMITHKLINE DUNGARVAN LIMITED	0	0	0	0
+728901	37189-7-6-2010	FENISTIL 1 MG/ML EMULSION CUTANEA	Dimetindeno 1 mg/g emulsión cutánea	1 mg/ml	Frasco	8	ml	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	EMULSIÓN CUTÁNEA	D04AA13 - Dimetindeno	GLAXOSMITHKLINE CONSUMER HEALTHCARE HELLAS S.A.	0	0	0	0
+756034	87838	DIMESTIL 1MG/G GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	30	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	GRINDEKS AS	0	0	0	0
+857227	54083	FENISTIL 1 mg/g GEL	Dimetindeno 1 mg/g gel	1 mg/g	Tubo	30	g	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	GEL	D04AA13 - Dimetindeno	HALEON SPAIN S.A.	0	0	0	0
+881581	63138	FENISTIL 1 MG/ML EMULSIÓN CUTÁNEA	Dimetindeno 1 mg/g emulsión cutánea	1 mg/g	Frasco	8	ml	DIMETINDENO MALEATO 1 mg	USO CUTÁNEO	EMULSIÓN CUTÁNEA	D04AA13 - Dimetindeno	HALEON SPAIN S.A.	0	0	0	0

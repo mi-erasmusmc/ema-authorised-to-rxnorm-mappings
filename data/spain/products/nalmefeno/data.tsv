@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-697871	112815002	SELINCRO 18 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Nalmefeno 18 mg comprimido	18 mg	Blister	14	comprimido	NALMEFENO 18 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	N07BB05 - Nalmefeno	H. LUNDBECK A/S	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+697871	112815002	SELINCRO 18 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Nalmefeno 18 mg comprimido	18 mg	Blister	14	comprimido	NALMEFENO 18 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	N07BB05 - Nalmefeno	H. LUNDBECK A/S	0	0	0	0

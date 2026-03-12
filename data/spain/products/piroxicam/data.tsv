@@ -1,8 +1,8 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-667147	58708	SASULEN 5 MG/G GEL	Piroxicam 5 mg/g gel	5 mg/g	Tubo	60	g	PIROXICAM 5 mg	USO CUTÁNEO	GEL	M02AA07 - Piroxicam	LABORATORIOS VERIS S.A.	0	0	0
-699702	60070	FELDENE FLAS 20 mg LIOFILIZADO ORAL	Piroxicam 20 mg comprimido bucodispersable/liotab	20 mg	Blister	20	comprimido	PIROXICAM 20 mg	VÍA ORAL	LIOFILIZADO ORAL	M01AC01 - Piroxicam	PFIZER S.L.	0	0	0
-741058	62418	PIROXICAM CINFA 20 mg COMPRIMIDOS DISPERSABLES EFG	Piroxicam 20 mg comprimido	20 mg	Blister	20	comprimido	PIROXICAM 20 mg	VÍA ORAL	COMPRIMIDO DISPERSABLE	M01AC01 - Piroxicam	LABORATORIOS CINFA S.A.	0	0	0
-946202	55382	FELDENE 10 MG CAPSULAS DURAS	Piroxicam 10 mg cápsula	10 mg	Blister	30	cápsula	PIROXICAM 10 mg	VÍA ORAL	CÁPSULA DURA	M01AC01 - Piroxicam	PFIZER S.L.	0	0	0
-985549	58198	IMPRONTAL 5 mg/g CREMA	Piroxicam 5 mg/g crema	5 mg/g	Tubo	60	g	PIROXICAM 5 mg	USO CUTÁNEO	CREMA	M02AA07 - Piroxicam	MEDA PHARMA S.L.	0	0	0
-995431	55806	FELDENE 20 MG CAPSULAS DURAS	Piroxicam 20 mg cápsula	20 mg	Blister	20	cápsula	PIROXICAM 20 mg	VÍA ORAL	CÁPSULA DURA	M01AC01 - Piroxicam	PFIZER S.L.	0	0	0
-999441	58986	SALVACAM 5mg/g  GEL	Piroxicam 5 mg/g gel	5 mg/g	Tubo	60	g	PIROXICAM 5 mg	USO CUTÁNEO	GEL	M02AA07 - Piroxicam	LABORATORIOS SALVAT S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+667147	58708	SASULEN 5 MG/G GEL	Piroxicam 5 mg/g gel	5 mg/g	Tubo	60	g	PIROXICAM 5 mg	USO CUTÁNEO	GEL	M02AA07 - Piroxicam	LABORATORIOS VERIS S.A.	0	0	0	0
+699702	60070	FELDENE FLAS 20 mg LIOFILIZADO ORAL	Piroxicam 20 mg comprimido bucodispersable/liotab	20 mg	Blister	20	comprimido	PIROXICAM 20 mg	VÍA ORAL	LIOFILIZADO ORAL	M01AC01 - Piroxicam	PFIZER S.L.	0	0	0	0
+741058	62418	PIROXICAM CINFA 20 mg COMPRIMIDOS DISPERSABLES EFG	Piroxicam 20 mg comprimido	20 mg	Blister	20	comprimido	PIROXICAM 20 mg	VÍA ORAL	COMPRIMIDO DISPERSABLE	M01AC01 - Piroxicam	LABORATORIOS CINFA S.A.	0	1	0	0
+946202	55382	FELDENE 10 MG CAPSULAS DURAS	Piroxicam 10 mg cápsula	10 mg	Blister	30	cápsula	PIROXICAM 10 mg	VÍA ORAL	CÁPSULA DURA	M01AC01 - Piroxicam	PFIZER S.L.	0	0	0	0
+985549	58198	IMPRONTAL 5 mg/g CREMA	Piroxicam 5 mg/g crema	5 mg/g	Tubo	60	g	PIROXICAM 5 mg	USO CUTÁNEO	CREMA	M02AA07 - Piroxicam	MEDA PHARMA S.L.	0	0	0	0
+995431	55806	FELDENE 20 MG CAPSULAS DURAS	Piroxicam 20 mg cápsula	20 mg	Blister	20	cápsula	PIROXICAM 20 mg	VÍA ORAL	CÁPSULA DURA	M01AC01 - Piroxicam	PFIZER S.L.	0	0	0	0
+999441	58986	SALVACAM 5mg/g  GEL	Piroxicam 5 mg/g gel	5 mg/g	Tubo	60	g	PIROXICAM 5 mg	USO CUTÁNEO	GEL	M02AA07 - Piroxicam	LABORATORIOS SALVAT S.A.	0	0	0	0

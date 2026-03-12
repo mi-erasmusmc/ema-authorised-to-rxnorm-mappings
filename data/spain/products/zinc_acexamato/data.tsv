@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-696344	60096	COPINAL 300 mg SUSPENSIÓN ORAL	Zinc acexamato 300 mg solución/suspensión oral sobre	300 mg	Sobre	60	sobre	ACEXAMATO ZINC 300 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	A02BX91 - Zinc acexamato	LABORATORIOS VINAS S.A.	0	0	0
-696351	60096	COPINAL 300 mg SUSPENSIÓN ORAL	Zinc acexamato 300 mg solución/suspensión oral sobre	300 mg	Sobre	30	sobre	ACEXAMATO ZINC 300 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	A02BX91 - Zinc acexamato	LABORATORIOS VINAS S.A.	0	0	0
-699900	56926	COPINAL 300 mg CAPSULAS	Zinc acexamato 300 mg cápsula	300 mg	Blister	60	cápsula	ACEXAMATO ZINC 300 mg	VÍA ORAL	CÁPSULA DURA	A02BX91 - Zinc acexamato	LABORATORIOS VINAS S.A.	0	0	0
-699918	56926	COPINAL 300 mg CAPSULAS	Zinc acexamato 300 mg cápsula	300 mg	Blister	30	cápsula	ACEXAMATO ZINC 300 mg	VÍA ORAL	CÁPSULA DURA	A02BX91 - Zinc acexamato	LABORATORIOS VINAS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+696344	60096	COPINAL 300 mg SUSPENSIÓN ORAL	Zinc acexamato 300 mg solución/suspensión oral sobre	300 mg	Sobre	60	sobre	ACEXAMATO ZINC 300 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	A02BX91 - Zinc acexamato	LABORATORIOS VINAS S.A.	0	0	0	0
+696351	60096	COPINAL 300 mg SUSPENSIÓN ORAL	Zinc acexamato 300 mg solución/suspensión oral sobre	300 mg	Sobre	30	sobre	ACEXAMATO ZINC 300 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	A02BX91 - Zinc acexamato	LABORATORIOS VINAS S.A.	0	0	0	0
+699900	56926	COPINAL 300 mg CAPSULAS	Zinc acexamato 300 mg cápsula	300 mg	Blister	60	cápsula	ACEXAMATO ZINC 300 mg	VÍA ORAL	CÁPSULA DURA	A02BX91 - Zinc acexamato	LABORATORIOS VINAS S.A.	0	0	0	0
+699918	56926	COPINAL 300 mg CAPSULAS	Zinc acexamato 300 mg cápsula	300 mg	Blister	30	cápsula	ACEXAMATO ZINC 300 mg	VÍA ORAL	CÁPSULA DURA	A02BX91 - Zinc acexamato	LABORATORIOS VINAS S.A.	0	0	0	0

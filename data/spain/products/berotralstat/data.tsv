@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-759139	1211544001	ORLADEYO 150 MG CAPSULAS DURAS	Berotralstat 150 mg cápsula	150 mg	Blister	28	cápsula	BEROTRALSTAT DIHIDROCLORURO 150 mg	VÍA ORAL	CÁPSULA DURA	B06AC06 - Berotralstat	BIOCRYST IRELAND LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+759139	1211544001	ORLADEYO 150 MG CAPSULAS DURAS	Berotralstat 150 mg cápsula	150 mg	Blister	28	cápsula	BEROTRALSTAT DIHIDROCLORURO 150 mg	VÍA ORAL	CÁPSULA DURA	B06AC06 - Berotralstat	BIOCRYST IRELAND LIMITED	0	0	0	0

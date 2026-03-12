@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-727607	1181311001	NERLYNX 40 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Neratinib 40 mg comprimido	40 mg	Frasco	180	comprimido	NERATINIB MALEATO 40 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EH02 - Neratinib	PIERRE FABRE MEDICAMENT	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+727607	1181311001	NERLYNX 40 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Neratinib 40 mg comprimido	40 mg	Frasco	180	comprimido	NERATINIB MALEATO 40 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EH02 - Neratinib	PIERRE FABRE MEDICAMENT	0	0	0	0

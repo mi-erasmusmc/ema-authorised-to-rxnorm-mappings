@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-719879	1171224001	XERMELO 250 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Telotristat 250 mg comprimido	250 mg	Blister	90	comprimido	TELOTRISTAT ETIPRATO 250 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	A16AX15 - Telotristat	SERB	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+719879	1171224001	XERMELO 250 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Telotristat 250 mg comprimido	250 mg	Blister	90	comprimido	TELOTRISTAT ETIPRATO 250 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	A16AX15 - Telotristat	SERB	0	0	0	0

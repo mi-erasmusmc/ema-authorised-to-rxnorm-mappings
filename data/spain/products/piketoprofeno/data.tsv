@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-719468	60028	CALMATEL 18 mg/g GEL	Piketoprofeno 18 mg/g gel	18 mg/g	Tubo	60	g	PIKETOPROFENO 18 mg	USO CUTÁNEO	GEL	M02AA28 - Piketoprofeno	ALMIRALL S.A.	0	0	0
-953273	55832	CALMATEL 18 mg/g CREMA	Piketoprofeno 18 mg/g crema	18 mg/g	Tubo	60	g	PIKETOPROFENO 18 mg	USO CUTÁNEO	CREMA	M02AA28 - Piketoprofeno	ALMIRALL S.A.	0	0	0
-954495	55909	CALMATEL 33,28 mg/ml SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	Piketoprofeno 33,28 mg/ml líquido uso tópico	20 mg/ml	Envase a presión	60	ml	PIKETOPROFENO 20 mg	USO CUTÁNEO	SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	M02AA28 - Piketoprofeno	ALMIRALL S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+719468	60028	CALMATEL 18 mg/g GEL	Piketoprofeno 18 mg/g gel	18 mg/g	Tubo	60	g	PIKETOPROFENO 18 mg	USO CUTÁNEO	GEL	M02AA28 - Piketoprofeno	ALMIRALL S.A.	0	0	0	0
+953273	55832	CALMATEL 18 mg/g CREMA	Piketoprofeno 18 mg/g crema	18 mg/g	Tubo	60	g	PIKETOPROFENO 18 mg	USO CUTÁNEO	CREMA	M02AA28 - Piketoprofeno	ALMIRALL S.A.	0	0	0	0
+954495	55909	CALMATEL 33,28 mg/ml SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	Piketoprofeno 33,28 mg/ml líquido uso tópico	20 mg/ml	Envase a presión	60	ml	PIKETOPROFENO 20 mg	USO CUTÁNEO	SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	M02AA28 - Piketoprofeno	ALMIRALL S.A.	0	0	0	0

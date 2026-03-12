@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-788869	51293	MINODIAB 5 mg COMPRIMIDOS	Glipizida 5 mg comprimido	5 mg	Blister	100	comprimido	GLIPIZIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB07 - Glipizida	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+788869	51293	MINODIAB 5 mg COMPRIMIDOS	Glipizida 5 mg comprimido	5 mg	Blister	100	comprimido	GLIPIZIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB07 - Glipizida	PFIZER S.L.	0	0	0	0

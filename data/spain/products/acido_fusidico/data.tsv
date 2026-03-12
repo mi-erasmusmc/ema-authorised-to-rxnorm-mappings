@@ -1,8 +1,8 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-680446	74064	ACIDO FUSIDICO ISDIN 20 mg/g CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	15	g	FUSIDICO ACIDO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	ISDIN S.A.	0	0	0
-680448	74064	ACIDO FUSIDICO ISDIN 20 mg/g CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	30	g	FUSIDICO ACIDO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	ISDIN S.A.	0	0	0
-700569	57812	FUCITHALMIC 10 mg/g  GEL OFTALMICO	Ácido fusídico 10 mg/g gel oftálmico	10 mg/g	Tubo	5	g	FUSIDICO ACIDO 10 mg	VÍA OFTÁLMICA	GEL OFTÁLMICO	S01AA13 - Acido fusidico	AMDIPHARM LIMITED	0	0	0
-725326	84020	ACIDO FUSIDICO REDOXFARMA 20 MG/G CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	30	g	ACIDO FUSIDICO HEMIHIDRATO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	REDOX FARMA S.L.U.	0	0	0
-725638	84020	ACIDO FUSIDICO REDOXFARMA 20 MG/G CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	15	g	ACIDO FUSIDICO HEMIHIDRATO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	REDOX FARMA S.L.U.	0	0	0
-999793	58016	FUCIDINE 20 mg/g CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	15	g	FUSIDICO ACIDO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0
-999794	58016	FUCIDINE 20 mg/g CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	30	g	FUSIDICO ACIDO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+680446	74064	ACIDO FUSIDICO ISDIN 20 mg/g CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	15	g	FUSIDICO ACIDO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	ISDIN S.A.	0	0	0	0
+680448	74064	ACIDO FUSIDICO ISDIN 20 mg/g CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	30	g	FUSIDICO ACIDO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	ISDIN S.A.	0	0	0	0
+700569	57812	FUCITHALMIC 10 mg/g  GEL OFTALMICO	Ácido fusídico 10 mg/g gel oftálmico	10 mg/g	Tubo	5	g	FUSIDICO ACIDO 10 mg	VÍA OFTÁLMICA	GEL OFTÁLMICO	S01AA13 - Acido fusidico	AMDIPHARM LIMITED	0	0	0	0
+725326	84020	ACIDO FUSIDICO REDOXFARMA 20 MG/G CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	30	g	ACIDO FUSIDICO HEMIHIDRATO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	REDOX FARMA S.L.U.	0	0	0	0
+725638	84020	ACIDO FUSIDICO REDOXFARMA 20 MG/G CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	15	g	ACIDO FUSIDICO HEMIHIDRATO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	REDOX FARMA S.L.U.	0	0	0	0
+999793	58016	FUCIDINE 20 mg/g CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	15	g	FUSIDICO ACIDO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0	0
+999794	58016	FUCIDINE 20 mg/g CREMA	Ácido fusídico 20 mg/g crema	20 mg/g	Tubo	30	g	FUSIDICO ACIDO 20 mg	USO CUTÁNEO	CREMA	D06AX01 - Acido fusidico	LABORATORIOS LEO PHARMA S.A.	0	0	0	0

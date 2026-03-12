@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-654793	17536	LAROSCORBINE 1000 mg/5 ml SOLUCION INYECTABLE	Ácido ascórbico 1.000 mg inyectable 5 ml	1.000 mg	Ampolla	6	ampolla para inyección	ASCORBICO ACIDO 200 mg	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	A11GA01 - Acido ascorbico (vit C)	BAYER HISPANIA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+654793	17536	LAROSCORBINE 1000 mg/5 ml SOLUCION INYECTABLE	Ácido ascórbico 1.000 mg inyectable 5 ml	1.000 mg	Ampolla	6	ampolla para inyección	ASCORBICO ACIDO 200 mg	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	A11GA01 - Acido ascorbico (vit C)	BAYER HISPANIA S.L.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-760694	45578	FUNGUSOL	Zinc óxido/Ácido bórico 100 mg/g + 50 mg/g sólido uso tópico	100 mg/g + 50 mg/g	Frasco	60	g	ZINC OXIDO 100 mg|BORICO ACIDO 50 mg	USO CUTÁNEO	POLVO CUTÁNEO	D01AE20 - Combinaciones	BAYER HISPANIA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+760694	45578	FUNGUSOL	Zinc óxido/Ácido bórico 100 mg/g + 50 mg/g sólido uso tópico	100 mg/g + 50 mg/g	Frasco	60	g	ZINC OXIDO 100 mg|BORICO ACIDO 50 mg	USO CUTÁNEO	POLVO CUTÁNEO	D01AE20 - Combinaciones	BAYER HISPANIA S.L.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700570	45843	HIGROTONA 50 mg comprimidos	Clortalidona 50 mg comprimido	50 mg	Blister	30	comprimido	CLORTALIDONA 50 mg	VÍA ORAL	COMPRIMIDO	C03BA04 - Clortalidona	AMDIPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700570	45843	HIGROTONA 50 mg comprimidos	Clortalidona 50 mg comprimido	50 mg	Blister	30	comprimido	CLORTALIDONA 50 mg	VÍA ORAL	COMPRIMIDO	C03BA04 - Clortalidona	AMDIPHARM LIMITED	0	0	0	0

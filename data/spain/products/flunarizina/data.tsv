@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-945667	55352	SIBELIUM 5 mg COMPRIMIDOS	Flunarizina 5 mg comprimido	5 mg	Blister	30	comprimido	FLUNARIZINA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	N07CA03 - Flunarizina	ESTEVE PHARMACEUTICALS S.A.	0	0	0
-957837	56129	FLURPAX 5 mg CAPSULAS DURAS	Flunarizina 5 mg cápsula	5 mg	Blister	30	cápsula	FLUNARIZINA DIHIDROCLORURO 5 mg	VÍA ORAL	CÁPSULA DURA	N07CA03 - Flunarizina	TEOFARMA S.R.L.	0	0	0
-974311	56129	FLURPAX 5 mg CAPSULAS DURAS	Flunarizina 5 mg cápsula	5 mg	Blister	60	cápsula	FLUNARIZINA DIHIDROCLORURO 5 mg	VÍA ORAL	CÁPSULA DURA	N07CA03 - Flunarizina	TEOFARMA S.R.L.	0	0	0
-974352	55352	SIBELIUM 5 mg COMPRIMIDOS	Flunarizina 5 mg comprimido	5 mg	Blister	60	comprimido	FLUNARIZINA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	N07CA03 - Flunarizina	ESTEVE PHARMACEUTICALS S.A.	0	0	0
-994319	56524	FLERUDIN 5 mg COMPRIMIDOS	Flunarizina 5 mg comprimido	5 mg	Blister	60	comprimido	FLUNARIZINA 5 mg	VÍA ORAL	COMPRIMIDO	N07CA03 - Flunarizina	JANSSEN CILAG S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+945667	55352	SIBELIUM 5 mg COMPRIMIDOS	Flunarizina 5 mg comprimido	5 mg	Blister	30	comprimido	FLUNARIZINA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	N07CA03 - Flunarizina	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0
+957837	56129	FLURPAX 5 mg CAPSULAS DURAS	Flunarizina 5 mg cápsula	5 mg	Blister	30	cápsula	FLUNARIZINA DIHIDROCLORURO 5 mg	VÍA ORAL	CÁPSULA DURA	N07CA03 - Flunarizina	TEOFARMA S.R.L.	0	0	0	0
+974311	56129	FLURPAX 5 mg CAPSULAS DURAS	Flunarizina 5 mg cápsula	5 mg	Blister	60	cápsula	FLUNARIZINA DIHIDROCLORURO 5 mg	VÍA ORAL	CÁPSULA DURA	N07CA03 - Flunarizina	TEOFARMA S.R.L.	0	0	0	0
+974352	55352	SIBELIUM 5 mg COMPRIMIDOS	Flunarizina 5 mg comprimido	5 mg	Blister	60	comprimido	FLUNARIZINA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	N07CA03 - Flunarizina	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0
+994319	56524	FLERUDIN 5 mg COMPRIMIDOS	Flunarizina 5 mg comprimido	5 mg	Blister	60	comprimido	FLUNARIZINA 5 mg	VÍA ORAL	COMPRIMIDO	N07CA03 - Flunarizina	JANSSEN CILAG S.A.	0	0	0	0

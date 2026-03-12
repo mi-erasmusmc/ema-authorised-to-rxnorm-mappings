@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-855403	62951	STIMOL 1 g  SOLUCION ORAL	Citrulina 1.000 mg solución/suspensión oral sobre	1.000 mg	Sobre	18	sobre	CITRULINA MALATO 1000 mg	VÍA ORAL	SOLUCIÓN ORAL	A16AA - Aminoacidos y derivados	BIOCODEX	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+855403	62951	STIMOL 1 g  SOLUCION ORAL	Citrulina 1.000 mg solución/suspensión oral sobre	1.000 mg	Sobre	18	sobre	CITRULINA MALATO 1000 mg	VÍA ORAL	SOLUCIÓN ORAL	A16AA - Aminoacidos y derivados	BIOCODEX	0	0	0	0

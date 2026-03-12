@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-896308	64291	NADIXA  1% CREMA	Nadifloxacino 10 mg/g crema	10 mg/g	Tubo	30	g	NADIFLOXACINO 10 mg	USO CUTÁNEO	CREMA	D10AF05 - Nadifloxacino	FERRER INTERNACIONAL S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+896308	64291	NADIXA  1% CREMA	Nadifloxacino 10 mg/g crema	10 mg/g	Tubo	30	g	NADIFLOXACINO 10 mg	USO CUTÁNEO	CREMA	D10AF05 - Nadifloxacino	FERRER INTERNACIONAL S.A.	0	0	0	0

@@ -1,9 +1,9 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-693352	76537	CINITAPRIDA NORMON 1MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA 1 mg	VÍA ORAL	COMPRIMIDO	A03FA - Propulsivos	LABORATORIOS NORMON S.A.	0	0	0
-693578	76576	CINITAPRIDA CINFA 1 MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA 1 mg	VÍA ORAL	COMPRIMIDO	A03FA - Propulsivos	LABORATORIOS CINFA S.A.	0	0	0
-700986	78321	CINITAPRIDA KERN PHARMA 1MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	KERN PHARMA S.L.	0	0	0
-728909	85237	CINITAPRIDA STADA 1 MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA HIDROGENO TARTRATO 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	LABORATORIO STADA S.L.	0	0	0
-730766	85895	CINITAPRIDA TEVA 1 MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA HIDROGENO TARTRATO 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	TEVA B.V.	0	0	0
-737262	59032	BLASTON  1 mg COMPRIMIDOS	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA TARTRATO ACIDO 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	LACER S.A.	0	0	0
-991265	58459	CIDINE 1 mg COMPRIMIDOS	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA TARTRATO ACIDO 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	ALMIRALL S.A.	0	0	0
-991273	58460	CIDINE 1 mg/5 ml SOLUCION ORAL	Cinitaprida 1 mg/5 ml solución/suspensión oral	1 mg/5 ml	Frasco	250	ml	CINITAPRIDA TARTRATO ACIDO 0.2 mg	VÍA ORAL	SOLUCIÓN ORAL	A03FA08 - Cinitaprida	ALMIRALL S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+693352	76537	CINITAPRIDA NORMON 1MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA 1 mg	VÍA ORAL	COMPRIMIDO	A03FA - Propulsivos	LABORATORIOS NORMON S.A.	0	1	0	0
+693578	76576	CINITAPRIDA CINFA 1 MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA 1 mg	VÍA ORAL	COMPRIMIDO	A03FA - Propulsivos	LABORATORIOS CINFA S.A.	0	1	0	0
+700986	78321	CINITAPRIDA KERN PHARMA 1MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	KERN PHARMA S.L.	0	1	0	0
+728909	85237	CINITAPRIDA STADA 1 MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA HIDROGENO TARTRATO 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	LABORATORIO STADA S.L.	0	1	0	0
+730766	85895	CINITAPRIDA TEVA 1 MG COMPRIMIDOS EFG	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA HIDROGENO TARTRATO 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	TEVA B.V.	0	1	0	0
+737262	59032	BLASTON  1 mg COMPRIMIDOS	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA TARTRATO ACIDO 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	LACER S.A.	0	0	0	0
+991265	58459	CIDINE 1 mg COMPRIMIDOS	Cinitaprida 1 mg comprimido	1 mg	Blister	50	comprimido	CINITAPRIDA TARTRATO ACIDO 1 mg	VÍA ORAL	COMPRIMIDO	A03FA08 - Cinitaprida	ALMIRALL S.A.	0	0	0	0
+991273	58460	CIDINE 1 mg/5 ml SOLUCION ORAL	Cinitaprida 1 mg/5 ml solución/suspensión oral	1 mg/5 ml	Frasco	250	ml	CINITAPRIDA TARTRATO ACIDO 0.2 mg	VÍA ORAL	SOLUCIÓN ORAL	A03FA08 - Cinitaprida	ALMIRALL S.A.	0	0	0	0

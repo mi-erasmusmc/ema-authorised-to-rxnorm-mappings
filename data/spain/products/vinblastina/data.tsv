@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700683	37275	VINBLASTINA STADA 10 MG POLVO PARA SOLUCIÓN INYECTABLE	Vinblastina 10 mg inyectable	10 mg	Vial	1	vial para inyección	VINBLASTINA SULFATO 10 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	L01CA01 - Vinblastina	LABORATORIO STADA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700683	37275	VINBLASTINA STADA 10 MG POLVO PARA SOLUCIÓN INYECTABLE	Vinblastina 10 mg inyectable	10 mg	Vial	1	vial para inyección	VINBLASTINA SULFATO 10 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	L01CA01 - Vinblastina	LABORATORIO STADA S.L.	0	0	0	0

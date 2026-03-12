@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-713326	1151066003	ONGENTYS 50 MG CÁPSULAS DURAS	Opicapona 50 mg cápsula	50 mg	Blister	30	cápsula	OPICAPONA 50 mg	VÍA ORAL	CÁPSULA DURA	N04BX04 - Opicapona	BIAL PORTELA & CA S.A.	0	0	0
-763333	1151066003IP	ONGENTYS 50 MG CÁPSULAS DURAS	Opicapona 50 mg cápsula	50 mg	Blister	30	cápsula	OPICAPONA 50 mg	VÍA ORAL	CÁPSULA DURA	N04BX04 - Opicapona	BIAL PORTELA & CA S.A.	0	0	0
-767102	1151066003IP2	ONGENTYS 50 MG CAPSULAS DURAS	Opicapona 50 mg cápsula	50 mg	Blister	30	cápsula	OPICAPONA 50 mg	VÍA ORAL	CÁPSULA DURA	N04BX04 - Opicapona	BIAL PORTELA & CA S.A.	0	0	0
-767104	1151066003IP3	ONGENTYS 50 MG CAPSULAS DURAS	Opicapona 50 mg cápsula	50 mg	Blister	30	cápsula	OPICAPONA 50 mg	VÍA ORAL	CÁPSULA DURA	N04BX04 - Opicapona	BIAL PORTELA & CA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+713326	1151066003	ONGENTYS 50 MG CÁPSULAS DURAS	Opicapona 50 mg cápsula	50 mg	Blister	30	cápsula	OPICAPONA 50 mg	VÍA ORAL	CÁPSULA DURA	N04BX04 - Opicapona	BIAL PORTELA & CA S.A.	0	0	0	0
+763333	1151066003IP	ONGENTYS 50 MG CÁPSULAS DURAS	Opicapona 50 mg cápsula	50 mg	Blister	30	cápsula	OPICAPONA 50 mg	VÍA ORAL	CÁPSULA DURA	N04BX04 - Opicapona	BIAL PORTELA & CA S.A.	0	0	0	0
+767102	1151066003IP2	ONGENTYS 50 MG CAPSULAS DURAS	Opicapona 50 mg cápsula	50 mg	Blister	30	cápsula	OPICAPONA 50 mg	VÍA ORAL	CÁPSULA DURA	N04BX04 - Opicapona	BIAL PORTELA & CA S.A.	0	0	0	0
+767104	1151066003IP3	ONGENTYS 50 MG CAPSULAS DURAS	Opicapona 50 mg cápsula	50 mg	Blister	30	cápsula	OPICAPONA 50 mg	VÍA ORAL	CÁPSULA DURA	N04BX04 - Opicapona	BIAL PORTELA & CA S.A.	0	0	0	0

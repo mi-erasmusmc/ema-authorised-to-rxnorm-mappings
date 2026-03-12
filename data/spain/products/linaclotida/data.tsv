@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-697254	112801002	Constella 290 microgramos capsulas duras	Linaclotida 290 microgramos cápsula	290 microgramos	Frasco	28	cápsula	LINACLOTIDA 290 microgramos	VÍA ORAL	CÁPSULA DURA	A06AX04 - Linaclotida	ABBVIE DEUTSCHLAND GMBH & CO. KG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+697254	112801002	Constella 290 microgramos capsulas duras	Linaclotida 290 microgramos cápsula	290 microgramos	Frasco	28	cápsula	LINACLOTIDA 290 microgramos	VÍA ORAL	CÁPSULA DURA	A06AX04 - Linaclotida	ABBVIE DEUTSCHLAND GMBH & CO. KG	0	0	0	0

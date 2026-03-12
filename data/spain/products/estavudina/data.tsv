@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-648139	96009004	ZERIT 20 mg CAPSULA DURA	Estavudina 20 mg cápsula	20 mg	Blister	448	cápsula	ESTAVUDINA 20 mg	VÍA ORAL	CÁPSULA DURA	J05AF04 - Estavudina	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0
-648147	96009006	ZERIT 30 mg CAPSULA DURA	Estavudina 30 mg cápsula	30 mg	Blister	448	cápsula	ESTAVUDINA 30 mg	VÍA ORAL	CÁPSULA DURA	J05AF04 - Estavudina	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0
-648154	96009008	ZERIT 40 mg CAPSULA DURA	Estavudina 40 mg cápsula	40 mg	Blister	448	cápsula	ESTAVUDINA 40 mg	VÍA ORAL	CÁPSULA DURA	J05AF04 - Estavudina	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0
-649855	96009009	ZERIT 200 mg POLVO PARA SOLUCION ORAL	Estavudina 1 mg/ml solución/suspensión oral	1 mg/ml	Frasco	2000	ml	ESTAVUDINA 1 mg	VÍA ORAL	POLVO PARA SOLUCIÓN ORAL	J05AF04 - Estavudina	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+648139	96009004	ZERIT 20 mg CAPSULA DURA	Estavudina 20 mg cápsula	20 mg	Blister	448	cápsula	ESTAVUDINA 20 mg	VÍA ORAL	CÁPSULA DURA	J05AF04 - Estavudina	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0	0
+648147	96009006	ZERIT 30 mg CAPSULA DURA	Estavudina 30 mg cápsula	30 mg	Blister	448	cápsula	ESTAVUDINA 30 mg	VÍA ORAL	CÁPSULA DURA	J05AF04 - Estavudina	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0	0
+648154	96009008	ZERIT 40 mg CAPSULA DURA	Estavudina 40 mg cápsula	40 mg	Blister	448	cápsula	ESTAVUDINA 40 mg	VÍA ORAL	CÁPSULA DURA	J05AF04 - Estavudina	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0	0
+649855	96009009	ZERIT 200 mg POLVO PARA SOLUCION ORAL	Estavudina 1 mg/ml solución/suspensión oral	1 mg/ml	Frasco	2000	ml	ESTAVUDINA 1 mg	VÍA ORAL	POLVO PARA SOLUCIÓN ORAL	J05AF04 - Estavudina	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0	0

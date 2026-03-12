@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-664821	61827	VINPOCETINA COVEX 5 mg COMPRIMIDOS	Vinpocetina 5 mg comprimido	5 mg	Blister	50	comprimido	VINPOCETINA 5 mg	VÍA ORAL	COMPRIMIDO	N06BX18 - Vinpocetina	COVEX S.A.	0	0	0
-664839	61827	VINPOCETINA COVEX 5 mg COMPRIMIDOS	Vinpocetina 5 mg comprimido	5 mg	Blister	25	comprimido	VINPOCETINA 5 mg	VÍA ORAL	COMPRIMIDO	N06BX18 - Vinpocetina	COVEX S.A.	0	0	0
-729281	85430	VINPOCETINA COVEX 10 MG COMPRIMIDOS	Vinpocetina 10 mg comprimido	10 mg	Blister	45	comprimido	VINPOCETINA 10 mg	VÍA ORAL	COMPRIMIDO	N06BX18 - Vinpocetina	COVEX S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+664821	61827	VINPOCETINA COVEX 5 mg COMPRIMIDOS	Vinpocetina 5 mg comprimido	5 mg	Blister	50	comprimido	VINPOCETINA 5 mg	VÍA ORAL	COMPRIMIDO	N06BX18 - Vinpocetina	COVEX S.A.	0	0	0	0
+664839	61827	VINPOCETINA COVEX 5 mg COMPRIMIDOS	Vinpocetina 5 mg comprimido	5 mg	Blister	25	comprimido	VINPOCETINA 5 mg	VÍA ORAL	COMPRIMIDO	N06BX18 - Vinpocetina	COVEX S.A.	0	0	0	0
+729281	85430	VINPOCETINA COVEX 10 MG COMPRIMIDOS	Vinpocetina 10 mg comprimido	10 mg	Blister	45	comprimido	VINPOCETINA 10 mg	VÍA ORAL	COMPRIMIDO	N06BX18 - Vinpocetina	COVEX S.A.	0	0	0	0

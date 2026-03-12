@@ -1,8 +1,8 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-665924	98080002	ALDARA 5% CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	24	envase uso tópico unidosis	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	VIATRIS HEALTHCARE LIMITED	0	0	0
-694012	12783002	ZYCLARA 3,75% CREMA	Imiquimod 37,5 mg/g crema sobre	37,5 mg/g	Sobre	28	envase uso tópico unidosis	IMIQUIMOD 37.5 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	VIATRIS HEALTHCARE LIMITED	0	0	0
-701282	78406	IMUNOCARE 50 MG/G CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	12	envase uso tópico unidosis	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
-701283	78406	IMUNOCARE 50 MG/G CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	24	envase uso tópico unidosis	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
-722710	98080001	ALDARA 5% CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	12	envase uso tópico unidosis	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	VIATRIS HEALTHCARE LIMITED	0	0	0
-758153	88034	IMIKERADERM 50 MG/G CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	12	sobre	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	MIBE PHARMA ESPAÑA S.L.U.	0	0	0
-758154	88034	IMIKERADERM 50 MG/G CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	24	sobre	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	MIBE PHARMA ESPAÑA S.L.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+665924	98080002	ALDARA 5% CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	24	envase uso tópico unidosis	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	VIATRIS HEALTHCARE LIMITED	0	0	0	0
+694012	12783002	ZYCLARA 3,75% CREMA	Imiquimod 37,5 mg/g crema sobre	37,5 mg/g	Sobre	28	envase uso tópico unidosis	IMIQUIMOD 37.5 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	VIATRIS HEALTHCARE LIMITED	0	0	0	0
+701282	78406	IMUNOCARE 50 MG/G CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	12	envase uso tópico unidosis	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0	0
+701283	78406	IMUNOCARE 50 MG/G CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	24	envase uso tópico unidosis	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0	0
+722710	98080001	ALDARA 5% CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	12	envase uso tópico unidosis	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	VIATRIS HEALTHCARE LIMITED	0	0	0	0
+758153	88034	IMIKERADERM 50 MG/G CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	12	sobre	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	MIBE PHARMA ESPAÑA S.L.U.	0	0	0	0
+758154	88034	IMIKERADERM 50 MG/G CREMA	Imiquimod 50 mg/g crema sobre	50 mg/g	Sobre	24	sobre	IMIQUIMOD 50 mg	USO CUTÁNEO	CREMA	D06BB10 - Imiquimod	MIBE PHARMA ESPAÑA S.L.U.	0	0	0	0

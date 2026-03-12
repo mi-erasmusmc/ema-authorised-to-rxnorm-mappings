@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-600071	04286001	WILZIN 25 MG CAPSULAS DURAS	Zinc acetato 25 mg cápsula	25 mg	Frasco	250	cápsula	ZINC ACETATO DIHIDRATO 25 mg	VÍA ORAL	CÁPSULA DURA	A16AX05 - Acetato de zinc	RECORDATI RARE DISEASES	0	0	0
-600073	04286002	WILZIN 50 mg CAPSULAS DURAS	Zinc acetato 50 mg cápsula	50 mg	Frasco	250	cápsula	ZINC ACETATO DIHIDRATO 50 mg	VÍA ORAL	CÁPSULA DURA	A16AX05 - Acetato de zinc	RECORDATI RARE DISEASES	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+600071	04286001	WILZIN 25 MG CAPSULAS DURAS	Zinc acetato 25 mg cápsula	25 mg	Frasco	250	cápsula	ZINC ACETATO DIHIDRATO 25 mg	VÍA ORAL	CÁPSULA DURA	A16AX05 - Acetato de zinc	RECORDATI RARE DISEASES	0	0	0	0
+600073	04286002	WILZIN 50 mg CAPSULAS DURAS	Zinc acetato 50 mg cápsula	50 mg	Frasco	250	cápsula	ZINC ACETATO DIHIDRATO 50 mg	VÍA ORAL	CÁPSULA DURA	A16AX05 - Acetato de zinc	RECORDATI RARE DISEASES	0	0	0	0

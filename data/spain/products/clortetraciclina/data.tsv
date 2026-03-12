@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-653520	13909	OFTALMOLOSA CUSI AUREOMICINA 5 mg/g POMADA OFTÁLMICA	Clortetraciclina 5 mg/g pomada oftálmica	5 mg/g	Tubo	3	g	CLORTETRACICLINA HIDROCLORURO 5 mg	VÍA OFTÁLMICA	POMADA OFTÁLMICA	S01AA02 - Clortetraciclina	NTC S.R.L.	0	0	0
-741819	17890	DERMOSA AUREOMICINA 30 MG/G POMADA	Clortetraciclina 30 mg/g pomada	30 mg/g	Tubo	15	g	CLORTETRACICLINA HIDROCLORURO 30 mg	USO CUTÁNEO	POMADA	D06AA02 - Clortetraciclina	TEOFARMA S.R.L.	0	0	0
-741827	17503	DERMOSA AUREOMICINA 10 MG/G POMADA	Clortetraciclina 10 mg/g pomada oftálmica	10 mg/g	Tubo	15	g	CLORTETRACICLINA HIDROCLORURO 10 mg	USO CUTÁNEO	POMADA	D06AA02 - Clortetraciclina	TEOFARMA S.R.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+653520	13909	OFTALMOLOSA CUSI AUREOMICINA 5 mg/g POMADA OFTÁLMICA	Clortetraciclina 5 mg/g pomada oftálmica	5 mg/g	Tubo	3	g	CLORTETRACICLINA HIDROCLORURO 5 mg	VÍA OFTÁLMICA	POMADA OFTÁLMICA	S01AA02 - Clortetraciclina	NTC S.R.L.	0	0	0	0
+741819	17890	DERMOSA AUREOMICINA 30 MG/G POMADA	Clortetraciclina 30 mg/g pomada	30 mg/g	Tubo	15	g	CLORTETRACICLINA HIDROCLORURO 30 mg	USO CUTÁNEO	POMADA	D06AA02 - Clortetraciclina	TEOFARMA S.R.L.	0	0	0	0
+741827	17503	DERMOSA AUREOMICINA 10 MG/G POMADA	Clortetraciclina 10 mg/g pomada oftálmica	10 mg/g	Tubo	15	g	CLORTETRACICLINA HIDROCLORURO 10 mg	USO CUTÁNEO	POMADA	D06AA02 - Clortetraciclina	TEOFARMA S.R.L.	0	0	0	0

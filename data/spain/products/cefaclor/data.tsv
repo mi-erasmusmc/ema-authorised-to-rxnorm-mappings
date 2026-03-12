@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-687152	59825	CECLOR 250 mg/5 ml GRANULADO PARA SUSPENSIÓN ORAL	Cefaclor 250 mg/5 ml solución/suspensión oral	250 mg/5 ml	Frasco	100	ml	CEFACLOR MONOHIDRATO 50 mg	VÍA ORAL	GRANULADO PARA SUSPENSIÓN ORAL	J01DC04 - Cefaclor	MEDA PHARMA S.L.	0	0	0
-695929	55186	CECLOR 500 mg CAPSULAS DURAS	Cefaclor 500 mg cápsula	500 mg	Blister	30	cápsula	CEFACLOR MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DC04 - Cefaclor	MEDA PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+687152	59825	CECLOR 250 mg/5 ml GRANULADO PARA SUSPENSIÓN ORAL	Cefaclor 250 mg/5 ml solución/suspensión oral	250 mg/5 ml	Frasco	100	ml	CEFACLOR MONOHIDRATO 50 mg	VÍA ORAL	GRANULADO PARA SUSPENSIÓN ORAL	J01DC04 - Cefaclor	MEDA PHARMA S.L.	0	0	0	0
+695929	55186	CECLOR 500 mg CAPSULAS DURAS	Cefaclor 500 mg cápsula	500 mg	Blister	30	cápsula	CEFACLOR MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DC04 - Cefaclor	MEDA PHARMA S.L.	0	0	0	0

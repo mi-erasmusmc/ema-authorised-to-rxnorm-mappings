@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-729970	1201496001	OXLUMO 94,5 mg/0,5 ml SOLUCION INYECTABLE	Lumasirán 189 mg/ml inyectable 0,5 ml	189 mg/ml inyectable 0,5 ml	Vial	1	vial para inyección	LUMASIRAN SODIO 189 mg	VÍA SUBCUTÁNEA	SOLUCIÓN INYECTABLE	A16AX18 - LUMASIRAN	ALNYLAM NETHERLANDS B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+729970	1201496001	OXLUMO 94,5 mg/0,5 ml SOLUCION INYECTABLE	Lumasirán 189 mg/ml inyectable 0,5 ml	189 mg/ml inyectable 0,5 ml	Vial	1	vial para inyección	LUMASIRAN SODIO 189 mg	VÍA SUBCUTÁNEA	SOLUCIÓN INYECTABLE	A16AX18 - LUMASIRAN	ALNYLAM NETHERLANDS B.V.	0	0	0	0

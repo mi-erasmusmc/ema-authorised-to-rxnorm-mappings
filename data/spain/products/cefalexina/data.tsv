@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-624486	54302	CEFALEXINA NORMON 500 mg CAPSULAS DURAS	Cefalexina 500 mg cápsula	500 mg	Blister	500	cápsula	CEFALEXINA MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DB01 - Cefalexina	LABORATORIOS NORMON S.A.	0	0	0
-694030	51115	KEFLORIDINA FORTE 500 MG CAPSULAS DURAS	Cefalexina 500 mg cápsula	500 mg	Blister	28	cápsula	CEFALEXINA MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DB01 - Cefalexina	LABORATORIO STADA S.L.	0	0	0
-694060	54302	CEFALEXINA NORMON 500 mg CAPSULAS DURAS	Cefalexina 500 mg cápsula	500 mg	Blister	28	cápsula	CEFALEXINA MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DB01 - Cefalexina	LABORATORIOS NORMON S.A.	0	0	0
-729113	85347	CEFALEXINA REIWA HEALTHCARE 500 MG CAPSULAS DURAS EFG	Cefalexina 500 mg cápsula	500 mg	Blister	28	cápsula	CEFALEXINA MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DB01 - Cefalexina	REIWA HEALTHCARE S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+624486	54302	CEFALEXINA NORMON 500 mg CAPSULAS DURAS	Cefalexina 500 mg cápsula	500 mg	Blister	500	cápsula	CEFALEXINA MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DB01 - Cefalexina	LABORATORIOS NORMON S.A.	0	0	0	0
+694030	51115	KEFLORIDINA FORTE 500 MG CAPSULAS DURAS	Cefalexina 500 mg cápsula	500 mg	Blister	28	cápsula	CEFALEXINA MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DB01 - Cefalexina	LABORATORIO STADA S.L.	0	0	0	0
+694060	54302	CEFALEXINA NORMON 500 mg CAPSULAS DURAS	Cefalexina 500 mg cápsula	500 mg	Blister	28	cápsula	CEFALEXINA MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DB01 - Cefalexina	LABORATORIOS NORMON S.A.	0	0	0	0
+729113	85347	CEFALEXINA REIWA HEALTHCARE 500 MG CAPSULAS DURAS EFG	Cefalexina 500 mg cápsula	500 mg	Blister	28	cápsula	CEFALEXINA MONOHIDRATO 500 mg	VÍA ORAL	CÁPSULA DURA	J01DB01 - Cefalexina	REIWA HEALTHCARE S.L.	0	1	0	0

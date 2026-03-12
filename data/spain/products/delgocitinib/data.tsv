@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-765899	1241851002	ANZUPGO 20 MG/G CREMA	Delgocitinib 20 mg/g crema	20 mg/g	Tubo	60	g	DELGOCITINIB 20 mg	USO CUTÁNEO	CREMA	D11AH11 - Delgocitinib	LEO PHARMA A/S	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+765899	1241851002	ANZUPGO 20 MG/G CREMA	Delgocitinib 20 mg/g crema	20 mg/g	Tubo	60	g	DELGOCITINIB 20 mg	USO CUTÁNEO	CREMA	D11AH11 - Delgocitinib	LEO PHARMA A/S	0	0	0	0

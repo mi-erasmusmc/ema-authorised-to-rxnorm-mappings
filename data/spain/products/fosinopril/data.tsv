@@ -1,8 +1,8 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-656545	66779	FOSINOPRIL TEVA 20 mg COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	TEVA PHARMA S.L.U.	0	0	0
-658960	68751	FOSINOPRIL MYLAN 20 mg COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	MYLAN PHARMACEUTICALS S.L.	0	0	0
-661224	59716	FOSITENS 20 mg COMPRIMIDOS	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	BAUSCH HEALTH IRELAND LIMITED	0	0	0
-672109	71033	FOSINOPRIL AUROVITAS SPAIN 20 mg COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	AUROVITAS SPAIN, S.A.U.	0	0	0
-685538	74975	FOSINOPRIL AUROBINDO 20 mg COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	LABORATORIOS AUROBINDO S.L.U.	0	0	0
-722172	83239	FOSINOPRIL AUROVITAS 20 MG COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	AUROVITAS SPAIN, S.A.U.	0	0	0
-798942	59716	FOSITENS 20 mg COMPRIMIDOS	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	BAUSCH HEALTH IRELAND LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+656545	66779	FOSINOPRIL TEVA 20 mg COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	TEVA PHARMA S.L.U.	0	1	0	0
+658960	68751	FOSINOPRIL MYLAN 20 mg COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	MYLAN PHARMACEUTICALS S.L.	0	1	0	0
+661224	59716	FOSITENS 20 mg COMPRIMIDOS	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	BAUSCH HEALTH IRELAND LIMITED	0	0	0	0
+672109	71033	FOSINOPRIL AUROVITAS SPAIN 20 mg COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	AUROVITAS SPAIN, S.A.U.	0	1	0	0
+685538	74975	FOSINOPRIL AUROBINDO 20 mg COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	LABORATORIOS AUROBINDO S.L.U.	0	1	0	0
+722172	83239	FOSINOPRIL AUROVITAS 20 MG COMPRIMIDOS EFG	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL SODICO 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	AUROVITAS SPAIN, S.A.U.	0	1	0	0
+798942	59716	FOSITENS 20 mg COMPRIMIDOS	Fosinopril 20 mg comprimido	20 mg	Blister	28	comprimido	FOSINOPRIL 20 mg	VÍA ORAL	COMPRIMIDO	C09AA09 - Fosinopril	BAUSCH HEALTH IRELAND LIMITED	0	0	0	0

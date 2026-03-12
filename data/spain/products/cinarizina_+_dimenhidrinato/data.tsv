@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-727565	84721	DIZINEL 20 MG/40 MG COMPRIMIDOS EFG	Cinarizina/Dimenhidrinato 20 mg/40 mg comprimido	20 mg/40 mg	Blister	20	comprimido	CINARIZINA 20 mg|DIMENHIDRINATO 40 mg	VÍA ORAL	COMPRIMIDO	N07CA52 - Cinarizina, combinaciones con	ITALFARMACO S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+727565	84721	DIZINEL 20 MG/40 MG COMPRIMIDOS EFG	Cinarizina/Dimenhidrinato 20 mg/40 mg comprimido	20 mg/40 mg	Blister	20	comprimido	CINARIZINA 20 mg|DIMENHIDRINATO 40 mg	VÍA ORAL	COMPRIMIDO	N07CA52 - Cinarizina, combinaciones con	ITALFARMACO S.A.	0	1	0	0

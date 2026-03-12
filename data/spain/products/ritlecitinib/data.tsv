@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-763337	1231755002	LITFULO 50 MG CAPSULAS DURAS	Ritlecitinib 50 mg cápsula	50 mg	Blister	30	cápsula	RITLECITINIB TOSILATO 50 mg	VÍA ORAL	CÁPSULA DURA	L04AF08 - Ritlecitinib	PFIZER EUROPE MA EEIG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+763337	1231755002	LITFULO 50 MG CAPSULAS DURAS	Ritlecitinib 50 mg cápsula	50 mg	Blister	30	cápsula	RITLECITINIB TOSILATO 50 mg	VÍA ORAL	CÁPSULA DURA	L04AF08 - Ritlecitinib	PFIZER EUROPE MA EEIG	0	0	0	0

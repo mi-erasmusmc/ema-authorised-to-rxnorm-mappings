@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-732304	1211585001	VUMERITY 231 MG CAPSULAS DURAS GASTRORRESISTENTES	Fumarato de diroximel 231 mg cápsula	231 mg	Frasco	120	cápsula	FUMARATO DE DIROXIMEL 231 mg	VÍA ORAL	CÁPSULA DURA GASTRORRESISTENTE	L04AX09 - Fumarato de diroximel	BIOGEN NETHERLANDS B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+732304	1211585001	VUMERITY 231 MG CAPSULAS DURAS GASTRORRESISTENTES	Fumarato de diroximel 231 mg cápsula	231 mg	Frasco	120	cápsula	FUMARATO DE DIROXIMEL 231 mg	VÍA ORAL	CÁPSULA DURA GASTRORRESISTENTE	L04AX09 - Fumarato de diroximel	BIOGEN NETHERLANDS B.V.	0	0	0	0

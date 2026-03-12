@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-955039	55942	DIERTINE 2 MG/ML GOTAS ORALES EN SOLUCIÓN	Dihidroergocristina 2 mg/ml solución/suspensión gotas orales	2 mg/ml	Frasco	50	ml	DIHIDROERGOCRISTINA MESILATO 2 mg	VÍA ORAL	GOTAS ORALES EN SOLUCIÓN	C04AE04 - Dihidroergocristina	TORA LABORATORIES S.L.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+955039	55942	DIERTINE 2 MG/ML GOTAS ORALES EN SOLUCIÓN	Dihidroergocristina 2 mg/ml solución/suspensión gotas orales	2 mg/ml	Frasco	50	ml	DIHIDROERGOCRISTINA MESILATO 2 mg	VÍA ORAL	GOTAS ORALES EN SOLUCIÓN	C04AE04 - Dihidroergocristina	TORA LABORATORIES S.L.U.	0	0	0	0

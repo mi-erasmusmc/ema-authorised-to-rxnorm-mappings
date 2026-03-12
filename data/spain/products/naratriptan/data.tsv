@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-664797	61828	NARAMIG 2,5 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Naratriptán 2,5 mg comprimido	2,5 mg	Blister	6	comprimido	NARATRIPTAN HIDROCLORURO 2,5 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	N02CC02 - Naratriptan	GLAXO S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+664797	61828	NARAMIG 2,5 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Naratriptán 2,5 mg comprimido	2,5 mg	Blister	6	comprimido	NARATRIPTAN HIDROCLORURO 2,5 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	N02CC02 - Naratriptan	GLAXO S.A.	0	0	0	0

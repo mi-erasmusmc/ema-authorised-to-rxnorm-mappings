@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-714069	1161147003	IBRANCE 100 MG CAPSULAS DURAS	Palbociclib 100 mg cápsula	100 mg	Blister	21	cápsula	PALBOCICLIB 100 mg	VÍA ORAL	CÁPSULA DURA	L01EF01 - Palbociclib	PFIZER EUROPE MA EEIG	0	0	0
-714070	1161147005	IBRANCE 125 MG CAPSULAS DURAS	Palbociclib 125 mg cápsula	125 mg	Blister	21	cápsula	PALBOCICLIB 125 mg	VÍA ORAL	CÁPSULA DURA	L01EF01 - Palbociclib	PFIZER EUROPE MA EEIG	0	0	0
-714071	1161147001	IBRANCE 75 MG CAPSULAS DURAS	Palbociclib 75 mg cápsula	75 mg	Blister	21	cápsula	PALBOCICLIB 75 mg	VÍA ORAL	CÁPSULA DURA	L01EF01 - Palbociclib	PFIZER EUROPE MA EEIG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+714069	1161147003	IBRANCE 100 MG CAPSULAS DURAS	Palbociclib 100 mg cápsula	100 mg	Blister	21	cápsula	PALBOCICLIB 100 mg	VÍA ORAL	CÁPSULA DURA	L01EF01 - Palbociclib	PFIZER EUROPE MA EEIG	0	0	0	0
+714070	1161147005	IBRANCE 125 MG CAPSULAS DURAS	Palbociclib 125 mg cápsula	125 mg	Blister	21	cápsula	PALBOCICLIB 125 mg	VÍA ORAL	CÁPSULA DURA	L01EF01 - Palbociclib	PFIZER EUROPE MA EEIG	0	0	0	0
+714071	1161147001	IBRANCE 75 MG CAPSULAS DURAS	Palbociclib 75 mg cápsula	75 mg	Blister	21	cápsula	PALBOCICLIB 75 mg	VÍA ORAL	CÁPSULA DURA	L01EF01 - Palbociclib	PFIZER EUROPE MA EEIG	0	0	0	0

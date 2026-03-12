@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-606342	77617	MIFEPRISTONA LINEPHARMA 200 MG COMPRIMIDOS	Mifepristona 200 mg comprimido	200 mg	Blister	30	comprimido	MIFEPRISTONA 200 mg	VÍA ORAL	COMPRIMIDO	G03XB01 - Mifepristona	LINEPHARMA	0	0	0
-698283	77617	MIFEPRISTONA LINEPHARMA 200 MG COMPRIMIDOS	Mifepristona 200 mg comprimido	200 mg	Blister	1	comprimido	MIFEPRISTONA 200 mg	VÍA ORAL	COMPRIMIDO	G03XB01 - Mifepristona	LINEPHARMA	0	0	0
-815100	62728	MIFEGYNE 200 mg COMPRIMIDOS	Mifepristona 200 mg comprimido	200 mg	Blister	3	comprimido	MIFEPRISTONA 200 mg	VÍA ORAL	COMPRIMIDO	G03XB01 - Mifepristona	EXELGYN	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+606342	77617	MIFEPRISTONA LINEPHARMA 200 MG COMPRIMIDOS	Mifepristona 200 mg comprimido	200 mg	Blister	30	comprimido	MIFEPRISTONA 200 mg	VÍA ORAL	COMPRIMIDO	G03XB01 - Mifepristona	LINEPHARMA	0	0	0	0
+698283	77617	MIFEPRISTONA LINEPHARMA 200 MG COMPRIMIDOS	Mifepristona 200 mg comprimido	200 mg	Blister	1	comprimido	MIFEPRISTONA 200 mg	VÍA ORAL	COMPRIMIDO	G03XB01 - Mifepristona	LINEPHARMA	0	0	0	0
+815100	62728	MIFEGYNE 200 mg COMPRIMIDOS	Mifepristona 200 mg comprimido	200 mg	Blister	3	comprimido	MIFEPRISTONA 200 mg	VÍA ORAL	COMPRIMIDO	G03XB01 - Mifepristona	EXELGYN	0	0	0	0

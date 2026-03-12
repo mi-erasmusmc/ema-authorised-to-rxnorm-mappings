@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-666362	97044003	TASMAR 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Tolcapona 100 mg comprimido	100 mg	Frasco	100	comprimido	TOLCAPONA 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	N04BX01 - Tolcapona	VIATRIS HEALTHCARE LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+666362	97044003	TASMAR 100 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Tolcapona 100 mg comprimido	100 mg	Frasco	100	comprimido	TOLCAPONA 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	N04BX01 - Tolcapona	VIATRIS HEALTHCARE LIMITED	0	0	0	0

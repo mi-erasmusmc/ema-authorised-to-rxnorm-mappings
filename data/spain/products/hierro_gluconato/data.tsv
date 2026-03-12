@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-873448	65479	LOSFERRON 695 MG COMPRIMIDOS EFERVESCENTES	Hierro gluconato 80 mg comprimido efervescente	80 mg	Tubo	30	comprimido	GLUCONATO HIERRO 80 mg	VÍA ORAL	COMPRIMIDO EFERVESCENTE	B03AA03 - Ferroso gluconato	CASEN RECORDATI S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+873448	65479	LOSFERRON 695 MG COMPRIMIDOS EFERVESCENTES	Hierro gluconato 80 mg comprimido efervescente	80 mg	Tubo	30	comprimido	GLUCONATO HIERRO 80 mg	VÍA ORAL	COMPRIMIDO EFERVESCENTE	B03AA03 - Ferroso gluconato	CASEN RECORDATI S.L.	0	0	0	0

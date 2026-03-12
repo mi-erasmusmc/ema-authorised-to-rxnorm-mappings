@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-659051	07388001	SEBIVO 600 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Telbivudina 600 mg comprimido	600 mg	Blister	28	comprimido	TELBIVUDINA 600 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AF11 - Telbivudina	NOVARTIS EUROPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+659051	07388001	SEBIVO 600 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Telbivudina 600 mg comprimido	600 mg	Blister	28	comprimido	TELBIVUDINA 600 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AF11 - Telbivudina	NOVARTIS EUROPHARM LIMITED	0	0	0	0

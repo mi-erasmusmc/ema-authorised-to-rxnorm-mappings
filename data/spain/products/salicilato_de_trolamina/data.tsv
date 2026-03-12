@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-983155	58032	BEXIDERMIL 100 mg/g CREMA	Salicilato de trolamina 100 mg/g crema	100 mg/g	Tubo	50	g	TROLAMINA SALICILATO 100 mg	USO CUTÁNEO	CREMA	M02AC - Preparados con acido salicilico y derivados	ISDIN S.A.	0	0	0
-983163	58033	BEXIDERMIL 100 mg/g GEL	Salicilato de trolamina 100 mg/g gel	100 mg/g	Tubo	50	g	TROLAMINA SALICILATO 100 mg	USO CUTÁNEO	GEL	M02AC - Preparados con acido salicilico y derivados	ISDIN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+983155	58032	BEXIDERMIL 100 mg/g CREMA	Salicilato de trolamina 100 mg/g crema	100 mg/g	Tubo	50	g	TROLAMINA SALICILATO 100 mg	USO CUTÁNEO	CREMA	M02AC - Preparados con acido salicilico y derivados	ISDIN S.A.	0	0	0	0
+983163	58033	BEXIDERMIL 100 mg/g GEL	Salicilato de trolamina 100 mg/g gel	100 mg/g	Tubo	50	g	TROLAMINA SALICILATO 100 mg	USO CUTÁNEO	GEL	M02AC - Preparados con acido salicilico y derivados	ISDIN S.A.	0	0	0	0

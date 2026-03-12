@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-946632	55406	SURMENALIT 200 MG COMPRIMIDOS RECUBIERTOS	Sulbutiamina 200 mg comprimido	200 mg	Blister	30	comprimido	SULBUTIAMINA 200 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	A11DA02 - Sulbutiamina	FAES FARMA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+946632	55406	SURMENALIT 200 MG COMPRIMIDOS RECUBIERTOS	Sulbutiamina 200 mg comprimido	200 mg	Blister	30	comprimido	SULBUTIAMINA 200 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	A11DA02 - Sulbutiamina	FAES FARMA S.A.	0	0	0	0

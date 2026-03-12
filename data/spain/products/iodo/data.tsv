@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-961862	56434	TINTURA DE IODO PEREZ GIMENEZ SOLUCION	Iodo 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	25	ml	IODO 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AG03 - Yodo	LABORATORIOS PEREZ GIMENEZ S.A.	0	0	0
-971705	57179	TINTURA DE YODO ARAFARMA GROUP	Iodo 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	30	ml	POTASIO IODURO 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AG - Productos con iodo	ARAFARMA GROUP S.A.	0	0	0
-972364	57232	TINTURA DE YODO REIG JOFRE 20 MG/ML SOLUCIÓN CUTÁNEA	Iodo 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	25	ml	IODO 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AG03 - Yodo	LABORATORIO REIG JOFRE, S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+961862	56434	TINTURA DE IODO PEREZ GIMENEZ SOLUCION	Iodo 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	25	ml	IODO 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AG03 - Yodo	LABORATORIOS PEREZ GIMENEZ S.A.	0	0	0	0
+971705	57179	TINTURA DE YODO ARAFARMA GROUP	Iodo 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	30	ml	POTASIO IODURO 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AG - Productos con iodo	ARAFARMA GROUP S.A.	0	0	0	0
+972364	57232	TINTURA DE YODO REIG JOFRE 20 MG/ML SOLUCIÓN CUTÁNEA	Iodo 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	25	ml	IODO 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AG03 - Yodo	LABORATORIO REIG JOFRE, S.A.	0	0	0	0

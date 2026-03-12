@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-803031	59748	CANESMYCOSPOR ONICOSET 10mg/ g + 400mg/g POMADA	Bifonazol/Urea 10 mg/g + 400 mg/g pomada	10 mg/g + 400 mg/g	Tubo	10	g	BIFONAZOL 10 mg|UREA 400 mg	USO CUTÁNEO	POMADA	D01AC10 - Bifonazol	BAYER HISPANIA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+803031	59748	CANESMYCOSPOR ONICOSET 10mg/ g + 400mg/g POMADA	Bifonazol/Urea 10 mg/g + 400 mg/g pomada	10 mg/g + 400 mg/g	Tubo	10	g	BIFONAZOL 10 mg|UREA 400 mg	USO CUTÁNEO	POMADA	D01AC10 - Bifonazol	BAYER HISPANIA S.L.	0	0	0	0

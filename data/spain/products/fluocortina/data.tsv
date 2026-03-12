@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-743427	59797	VASPIT 7.5 mg/g CREMA	Fluocortina 7,5 mg/g crema	7,5 mg/g	Tubo	30	g	FLUOCORTINA BUTILO 7,5 mg	USO CUTÁNEO	CREMA	D07AB04 - Fluocortina	BAYER HISPANIA S.L.	0	0	0
-743484	56892	VASPIT 7,5 mg / g POMADA	Fluocortina 7,5 mg/g pomada	7,5 mg/g	Tubo	30	g	FLUOCORTINA BUTILO 7,5 mg	USO CUTÁNEO	POMADA	D07AB04 - Fluocortina	BAYER HISPANIA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+743427	59797	VASPIT 7.5 mg/g CREMA	Fluocortina 7,5 mg/g crema	7,5 mg/g	Tubo	30	g	FLUOCORTINA BUTILO 7,5 mg	USO CUTÁNEO	CREMA	D07AB04 - Fluocortina	BAYER HISPANIA S.L.	0	0	0	0
+743484	56892	VASPIT 7,5 mg / g POMADA	Fluocortina 7,5 mg/g pomada	7,5 mg/g	Tubo	30	g	FLUOCORTINA BUTILO 7,5 mg	USO CUTÁNEO	POMADA	D07AB04 - Fluocortina	BAYER HISPANIA S.L.	0	0	0	0

@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-673183	62971	SARCOP 50 MG/G CREMA	Permetrina 50 mg/g crema	50 mg/g	Tubo	40	g	PERMETRINA 50 mg	USO CUTÁNEO	CREMA	P03AC04 - Permetrina	UNIPHARMA S.A.	0	0	0
-673184	62971	SARCOP 50 MG/G CREMA	Permetrina 50 mg/g crema	50 mg/g	Tubo	70	g	PERMETRINA 50 mg	USO CUTÁNEO	CREMA	P03AC04 - Permetrina	UNIPHARMA S.A.	0	0	0
-913590	64052	PERME-CURE 50 MG/G CREMA	Permetrina 50 mg/g crema	50 mg/g	Tubo	40	g	PERMETRINA 50 mg	USO CUTÁNEO	CREMA	P03AC04 - Permetrina	GALENICUM DERMA S.L.U.	0	0	0
-941690	64052	PERME-CURE 50 MG/G CREMA	Permetrina 50 mg/g crema	50 mg/g	Tubo	70	g	PERMETRINA 50 mg	USO CUTÁNEO	CREMA	P03AC04 - Permetrina	GALENICUM DERMA S.L.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+673183	62971	SARCOP 50 MG/G CREMA	Permetrina 50 mg/g crema	50 mg/g	Tubo	40	g	PERMETRINA 50 mg	USO CUTÁNEO	CREMA	P03AC04 - Permetrina	UNIPHARMA S.A.	0	0	0	0
+673184	62971	SARCOP 50 MG/G CREMA	Permetrina 50 mg/g crema	50 mg/g	Tubo	70	g	PERMETRINA 50 mg	USO CUTÁNEO	CREMA	P03AC04 - Permetrina	UNIPHARMA S.A.	0	0	0	0
+913590	64052	PERME-CURE 50 MG/G CREMA	Permetrina 50 mg/g crema	50 mg/g	Tubo	40	g	PERMETRINA 50 mg	USO CUTÁNEO	CREMA	P03AC04 - Permetrina	GALENICUM DERMA S.L.U.	0	0	0	0
+941690	64052	PERME-CURE 50 MG/G CREMA	Permetrina 50 mg/g crema	50 mg/g	Tubo	70	g	PERMETRINA 50 mg	USO CUTÁNEO	CREMA	P03AC04 - Permetrina	GALENICUM DERMA S.L.U.	0	0	0	0

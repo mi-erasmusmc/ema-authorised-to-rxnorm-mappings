@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-701810	113872001	TYBOST 150mg comprimidos recubiertos con pelicula	Cobicistat 150 mg comprimido	150 MG	Bote	30	comprimido	COBICISTAT 150 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	V03AX03 - Cobicistat	GILEAD SCIENCES IRELAND UNLIMITED COMPANY	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+701810	113872001	TYBOST 150mg comprimidos recubiertos con pelicula	Cobicistat 150 mg comprimido	150 MG	Bote	30	comprimido	COBICISTAT 150 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	V03AX03 - Cobicistat	GILEAD SCIENCES IRELAND UNLIMITED COMPANY	0	0	0	0

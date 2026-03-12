@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-682898	56256	DANATROL 100 mg CAPSULAS	Danazol 100 mg cápsula	100 mg	Blister	60	cápsula	DANAZOL 100 mg	VÍA ORAL	CÁPSULA DURA	G03XA01 - Danazol	LABORATORIOS FIDIA FARMACEUTICA S.L.	0	0	0
-682906	56255	DANATROL 50 mg CAPSULAS	Danazol 50 mg cápsula	50 mg	Blister	60	cápsula	DANAZOL 50 mg	VÍA ORAL	CÁPSULA DURA	G03XA01 - Danazol	LABORATORIOS FIDIA FARMACEUTICA S.L.	0	0	0
-682914	55580	DANATROL 200 mg CAPSULAS	Danazol 200 mg cápsula	200 mg	Blister	60	cápsula	DANAZOL 200 mg	VÍA ORAL	CÁPSULA DURA	G03XA01 - Danazol	LABORATORIOS FIDIA FARMACEUTICA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+682898	56256	DANATROL 100 mg CAPSULAS	Danazol 100 mg cápsula	100 mg	Blister	60	cápsula	DANAZOL 100 mg	VÍA ORAL	CÁPSULA DURA	G03XA01 - Danazol	LABORATORIOS FIDIA FARMACEUTICA S.L.	0	0	0	0
+682906	56255	DANATROL 50 mg CAPSULAS	Danazol 50 mg cápsula	50 mg	Blister	60	cápsula	DANAZOL 50 mg	VÍA ORAL	CÁPSULA DURA	G03XA01 - Danazol	LABORATORIOS FIDIA FARMACEUTICA S.L.	0	0	0	0
+682914	55580	DANATROL 200 mg CAPSULAS	Danazol 200 mg cápsula	200 mg	Blister	60	cápsula	DANAZOL 200 mg	VÍA ORAL	CÁPSULA DURA	G03XA01 - Danazol	LABORATORIOS FIDIA FARMACEUTICA S.L.	0	0	0	0

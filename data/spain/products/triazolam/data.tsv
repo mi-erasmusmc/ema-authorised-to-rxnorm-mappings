@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-698993	58118	HALCION 0,125 mg COMPRIMIDOS	Triazolam 0,125 mg comprimido	0,125 mg	Blister	30	comprimido	TRIAZOLAM 0,125 mg	VÍA ORAL	COMPRIMIDO	N05CD05 - Triazolam	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+698993	58118	HALCION 0,125 mg COMPRIMIDOS	Triazolam 0,125 mg comprimido	0,125 mg	Blister	30	comprimido	TRIAZOLAM 0,125 mg	VÍA ORAL	COMPRIMIDO	N05CD05 - Triazolam	PFIZER S.L.	0	0	0	0

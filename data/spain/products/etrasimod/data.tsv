@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-764422	1231790001	VELSIPITY 2 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Etrasimod 2 mg comprimido	2 mg	Blister	28	comprimido	ETRASIMOD L-ARGININA 2 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L04AE05 - Etrasimod	PFIZER EUROPE MA EEIG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+764422	1231790001	VELSIPITY 2 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Etrasimod 2 mg comprimido	2 mg	Blister	28	comprimido	ETRASIMOD L-ARGININA 2 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L04AE05 - Etrasimod	PFIZER EUROPE MA EEIG	0	0	0	0

@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-687194	41448	PAXTIBI 25 MG COMPRIMIDOS RECUBIERTOS	Nortriptilina 25 mg comprimido	25 mg	Blister	25	comprimido	NORTRIPTILINA HIDROCLORURO 25 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	N06AA10 - Nortriptilina	TEVA B.V.	0	0	0
-761247	48462	NORFENAZIN 10 MG COMPRIMIDOS	Nortriptilina 10 mg comprimido	10 mg	Blister	30	comprimido	NORTRIPTILINA HIDROCLORURO 10 mg	VÍA ORAL	COMPRIMIDO	N06AA10 - Nortriptilina	BIOWISE PHARMACEUTICALS, S.L.	0	0	0
-761254	48463	NORFENAZIN 25 MG COMPRIMIDOS	Nortriptilina 25 mg comprimido	25 mg	Blister	30	comprimido	NORTRIPTILINA HIDROCLORURO 25 mg	VÍA ORAL	COMPRIMIDO	N06AA10 - Nortriptilina	BIOWISE PHARMACEUTICALS, S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+687194	41448	PAXTIBI 25 MG COMPRIMIDOS RECUBIERTOS	Nortriptilina 25 mg comprimido	25 mg	Blister	25	comprimido	NORTRIPTILINA HIDROCLORURO 25 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	N06AA10 - Nortriptilina	TEVA B.V.	0	0	0	0
+761247	48462	NORFENAZIN 10 MG COMPRIMIDOS	Nortriptilina 10 mg comprimido	10 mg	Blister	30	comprimido	NORTRIPTILINA HIDROCLORURO 10 mg	VÍA ORAL	COMPRIMIDO	N06AA10 - Nortriptilina	BIOWISE PHARMACEUTICALS, S.L.	0	0	0	0
+761254	48463	NORFENAZIN 25 MG COMPRIMIDOS	Nortriptilina 25 mg comprimido	25 mg	Blister	30	comprimido	NORTRIPTILINA HIDROCLORURO 25 mg	VÍA ORAL	COMPRIMIDO	N06AA10 - Nortriptilina	BIOWISE PHARMACEUTICALS, S.L.	0	0	0	0

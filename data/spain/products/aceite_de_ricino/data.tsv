@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-866665	34912	ACEITE DE RICINO REIG JOFRE 1G/ML LIQUIDO ORAL	Aceite de ricino 1 g/ml solución/suspensión oral	1 g/ml	Frasco	25	ml	ACEITE RICINO 1 g	VÍA ORAL	LÍQUIDO ORAL	A06AB05 - Aceite de ricino	LABORATORIO REIG JOFRE, S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+866665	34912	ACEITE DE RICINO REIG JOFRE 1G/ML LIQUIDO ORAL	Aceite de ricino 1 g/ml solución/suspensión oral	1 g/ml	Frasco	25	ml	ACEITE RICINO 1 g	VÍA ORAL	LÍQUIDO ORAL	A06AB05 - Aceite de ricino	LABORATORIO REIG JOFRE, S.A.	0	0	0	0

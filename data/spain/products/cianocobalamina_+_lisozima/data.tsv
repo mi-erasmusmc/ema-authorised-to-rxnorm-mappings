@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-840199	48698	TROFALGON CAPSULAS DURAS	Cianocobalamina/Lisozima 1 mg/40 mg cápsula	1 mg/40 mg	Blister	20	cápsula	CIANOCOBALAMINA 1 mg|LISOZIMA HIDROCLORURO 40 mg	VÍA ORAL	CÁPSULA DURA	B03BA - Vitamina B12 (cianocobalamina y analogos)	FARMASIERRA LABORATORIOS S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+840199	48698	TROFALGON CAPSULAS DURAS	Cianocobalamina/Lisozima 1 mg/40 mg cápsula	1 mg/40 mg	Blister	20	cápsula	CIANOCOBALAMINA 1 mg|LISOZIMA HIDROCLORURO 40 mg	VÍA ORAL	CÁPSULA DURA	B03BA - Vitamina B12 (cianocobalamina y analogos)	FARMASIERRA LABORATORIOS S.L.	0	0	0	0

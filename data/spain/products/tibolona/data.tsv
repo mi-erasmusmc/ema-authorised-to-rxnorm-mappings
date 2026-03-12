@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-696294	60100	BOLTIN 2,5 mg COMPRIMIDOS	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	ORGANON SALUD S.L.	0	0	0
-701398	78447	TIBOCINA 2,5 MG COMPRIMIDOS EFG	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	SANDOZ FARMACEUTICA S.A.	0	0	0
-701412	78460	TIBOLONA ARISTO 2,5 MG COMRPIMIDOS EFG	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	ARISTO PHARMA GMBH	0	0	0
-701576	78484	TILIA 2,5 MG COMPRIMIDOS EFG	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	ARISTO PHARMA IBERIA S.L.	0	0	0
-711480	81026	TIBICARE 2,5 MG COMPRIMIDOS EFG	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	PROCARE HEALTH IBERIA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+696294	60100	BOLTIN 2,5 mg COMPRIMIDOS	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	ORGANON SALUD S.L.	0	0	0	0
+701398	78447	TIBOCINA 2,5 MG COMPRIMIDOS EFG	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	SANDOZ FARMACEUTICA S.A.	0	1	0	0
+701412	78460	TIBOLONA ARISTO 2,5 MG COMRPIMIDOS EFG	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	ARISTO PHARMA GMBH	0	1	0	0
+701576	78484	TILIA 2,5 MG COMPRIMIDOS EFG	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	ARISTO PHARMA IBERIA S.L.	0	1	0	0
+711480	81026	TIBICARE 2,5 MG COMPRIMIDOS EFG	Tibolona 2,5 mg comprimido	2,5 mg	Blister	28	comprimido	TIBOLONA 2,5 mg	VÍA ORAL	COMPRIMIDO	G03CX01 - Tibolona	PROCARE HEALTH IBERIA S.L.	0	1	0	0

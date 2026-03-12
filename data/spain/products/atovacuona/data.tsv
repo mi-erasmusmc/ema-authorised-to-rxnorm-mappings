@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-727334	84635	ATOVACUONA GLENMARK 750 MG/5 ML SUSPENSION ORAL EFG	Atovacuona 750 mg/5 ml solución/suspensión oral	750 mg/5 ml	Frasco	250	ml	ATOVACUONA 150 mg	VÍA ORAL	SUSPENSIÓN ORAL	P01AX06 - Atovacuona	GLENMARK ARZNEIMITTEL GMBH	0	0	0
-918318	63390	WELLVONE  750mg/5ml SUSPENSION ORAL	Atovacuona 750 mg/5 ml solución/suspensión oral	750 mg/5 ml	Frasco	226	ml	ATOVACUONA 150 mg	VÍA ORAL	SUSPENSIÓN ORAL	P01AX06 - Atovacuona	GLAXOSMITHKLINE S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+727334	84635	ATOVACUONA GLENMARK 750 MG/5 ML SUSPENSION ORAL EFG	Atovacuona 750 mg/5 ml solución/suspensión oral	750 mg/5 ml	Frasco	250	ml	ATOVACUONA 150 mg	VÍA ORAL	SUSPENSIÓN ORAL	P01AX06 - Atovacuona	GLENMARK ARZNEIMITTEL GMBH	0	1	0	0
+918318	63390	WELLVONE  750mg/5ml SUSPENSION ORAL	Atovacuona 750 mg/5 ml solución/suspensión oral	750 mg/5 ml	Frasco	226	ml	ATOVACUONA 150 mg	VÍA ORAL	SUSPENSIÓN ORAL	P01AX06 - Atovacuona	GLAXOSMITHKLINE S.A.	0	0	0	0

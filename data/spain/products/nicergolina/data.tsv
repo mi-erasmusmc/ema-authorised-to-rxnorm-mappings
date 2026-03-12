@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-844738	53366	VARSON CAPSULAS	Nicergolina 5 mg cápsula	5 mg	Blister	45	cápsula	NICERGOLINA 5 mg	VÍA ORAL	CÁPSULA DURA	C04AE02 - Nicergolina	LABORATORIOS ALMIRALL S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+844738	53366	VARSON CAPSULAS	Nicergolina 5 mg cápsula	5 mg	Blister	45	cápsula	NICERGOLINA 5 mg	VÍA ORAL	CÁPSULA DURA	C04AE02 - Nicergolina	LABORATORIOS ALMIRALL S.L.	0	0	0	0

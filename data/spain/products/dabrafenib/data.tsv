@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-699781	113865003	TAFINLAR 75 mg capsulas duras	Dabrafenib 75 mg cápsula	75 mg	Frasco	28	cápsula	DABRAFENIB MESILATO 75 mg	VÍA ORAL	CÁPSULA DURA	L01EC02 - Dabrafenib	NOVARTIS EUROPHARM LIMITED	0	0	0
-701613	113865001	TAFINLAR 50 mg capsulas duras	Dabrafenib 50 mg cápsula	50 mg	Frasco	28	cápsula	DABRAFENIB MESILATO 50 mg	VÍA ORAL	CÁPSULA DURA	L01EC02 - Dabrafenib	NOVARTIS EUROPHARM LIMITED	0	0	0
-764753	1231767001	FINLEE 10 MG COMPRIMIDOS DISPERSABLES	Dabrafenib 10 mg comprimido	10 mg	Frasco	210	comprimido	DABRAFENIB MESILATO 10 mg	VÍA ORAL	COMPRIMIDO DISPERSABLE	L01EC02 - Dabrafenib	NOVARTIS EUROPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+699781	113865003	TAFINLAR 75 mg capsulas duras	Dabrafenib 75 mg cápsula	75 mg	Frasco	28	cápsula	DABRAFENIB MESILATO 75 mg	VÍA ORAL	CÁPSULA DURA	L01EC02 - Dabrafenib	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+701613	113865001	TAFINLAR 50 mg capsulas duras	Dabrafenib 50 mg cápsula	50 mg	Frasco	28	cápsula	DABRAFENIB MESILATO 50 mg	VÍA ORAL	CÁPSULA DURA	L01EC02 - Dabrafenib	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+764753	1231767001	FINLEE 10 MG COMPRIMIDOS DISPERSABLES	Dabrafenib 10 mg comprimido	10 mg	Frasco	210	comprimido	DABRAFENIB MESILATO 10 mg	VÍA ORAL	COMPRIMIDO DISPERSABLE	L01EC02 - Dabrafenib	NOVARTIS EUROPHARM LIMITED	0	0	0	0

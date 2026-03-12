@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-969196	56981	PERSANTIN 100 mg COMPRIMIDOS RECUBIERTOS	Dipiridamol 100 mg comprimido	100 mg	Blister	50	comprimido	DIPIRIDAMOL 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	B01AC07 - Dipiridamol	GLENWOOD GMBH PHARMAZEUTISCHE ERZEUGNISSE	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+969196	56981	PERSANTIN 100 mg COMPRIMIDOS RECUBIERTOS	Dipiridamol 100 mg comprimido	100 mg	Blister	50	comprimido	DIPIRIDAMOL 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	B01AC07 - Dipiridamol	GLENWOOD GMBH PHARMAZEUTISCHE ERZEUGNISSE	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-672088	19495	OFTALMOLOSA CUSI CLORAMFENICOL 10 MG/G POMADA OFTÁLMICA	Cloranfenicol 10 mg/g pomada oftálmica	10 mg/g	Tubo	3	g	CLORANFENICOL 10 mg	VÍA OFTÁLMICA	POMADA OFTÁLMICA	S01AA01 - Cloranfenicol	OMNIVISION GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+672088	19495	OFTALMOLOSA CUSI CLORAMFENICOL 10 MG/G POMADA OFTÁLMICA	Cloranfenicol 10 mg/g pomada oftálmica	10 mg/g	Tubo	3	g	CLORANFENICOL 10 mg	VÍA OFTÁLMICA	POMADA OFTÁLMICA	S01AA01 - Cloranfenicol	OMNIVISION GMBH	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-664233	42250	ETOSUXIMIDA FAES 250 mg CAPSULAS DURAS	Etosuximida 250 mg cápsula	250 mg	Blister	30	cápsula	ETOSUXIMIDA 250 mg	VÍA ORAL	CÁPSULA DURA	N03AD01 - Etosuximida	FAES FARMA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+664233	42250	ETOSUXIMIDA FAES 250 mg CAPSULAS DURAS	Etosuximida 250 mg cápsula	250 mg	Blister	30	cápsula	ETOSUXIMIDA 250 mg	VÍA ORAL	CÁPSULA DURA	N03AD01 - Etosuximida	FAES FARMA S.A.	0	0	0	0

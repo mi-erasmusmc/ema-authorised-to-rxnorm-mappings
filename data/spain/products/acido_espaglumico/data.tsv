@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-794305	60127	NAAXIA  38 mg/ml COLIRIO EN SOLUCION	Ácido espaglúmico 38 mg/ml colirio	38 mg/ml	Frasco	10	ml	ESPAGLUMICO ACIDO 38 mg	VÍA OFTÁLMICA	COLIRIO EN SOLUCIÓN	S01GX03 - Acido espaglumico	LABORATORIOS THEA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+794305	60127	NAAXIA  38 mg/ml COLIRIO EN SOLUCION	Ácido espaglúmico 38 mg/ml colirio	38 mg/ml	Frasco	10	ml	ESPAGLUMICO ACIDO 38 mg	VÍA OFTÁLMICA	COLIRIO EN SOLUCIÓN	S01GX03 - Acido espaglumico	LABORATORIOS THEA S.A.	0	0	0	0

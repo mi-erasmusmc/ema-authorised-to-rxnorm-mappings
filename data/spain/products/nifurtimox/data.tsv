@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-764762	89506	LAMPIT 120 MG COMPRIMIDOS	Nifurtimox 120 mg comprimido	120 mg	Frasco	100	comprimido	NIFURTIMOX 120 mg	VÍA ORAL	COMPRIMIDO	P01CC01 - Nifurtimox	BAYER HISPANIA S.L.	0	0	0
-764763	89507	LAMPIT 30 MG COMPRIMIDOS	Nifurtimox 30 mg comprimido	30 mg	Frasco	100	comprimido	NIFURTIMOX 30 mg	VÍA ORAL	COMPRIMIDO	P01CC01 - Nifurtimox	BAYER HISPANIA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+764762	89506	LAMPIT 120 MG COMPRIMIDOS	Nifurtimox 120 mg comprimido	120 mg	Frasco	100	comprimido	NIFURTIMOX 120 mg	VÍA ORAL	COMPRIMIDO	P01CC01 - Nifurtimox	BAYER HISPANIA S.L.	0	0	0	0
+764763	89507	LAMPIT 30 MG COMPRIMIDOS	Nifurtimox 30 mg comprimido	30 mg	Frasco	100	comprimido	NIFURTIMOX 30 mg	VÍA ORAL	COMPRIMIDO	P01CC01 - Nifurtimox	BAYER HISPANIA S.L.	0	0	0	0

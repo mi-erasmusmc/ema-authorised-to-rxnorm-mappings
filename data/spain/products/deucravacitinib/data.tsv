@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-762324	1231718006	SOTYKTU 6 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Deucravacitinib 6 mg comprimido	6 mg	Blister	28	comprimido	DEUCRAVACITINIB 6 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L04AF07 - Deucravacitinib	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+762324	1231718006	SOTYKTU 6 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Deucravacitinib 6 mg comprimido	6 mg	Blister	28	comprimido	DEUCRAVACITINIB 6 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L04AF07 - Deucravacitinib	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0	0

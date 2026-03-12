@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-776211	47034	KETOLAR 50 mg/ml SOLUCION INYECTABLE	Ketamina 50 mg/ml inyectable 10 ml	50 mg/ml inyectable 10 ml	Vial	1	vial para inyección	KETAMINA HIDROCLORURO 50 mg	VÍA INTRAMUSCULAR|VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	N01AX03 - Ketamina	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+776211	47034	KETOLAR 50 mg/ml SOLUCION INYECTABLE	Ketamina 50 mg/ml inyectable 10 ml	50 mg/ml inyectable 10 ml	Vial	1	vial para inyección	KETAMINA HIDROCLORURO 50 mg	VÍA INTRAMUSCULAR|VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	N01AX03 - Ketamina	PFIZER S.L.	0	0	0	0

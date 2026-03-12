@@ -1,9 +1,9 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-656685	32357	TOSEINA 2 mg/ml SOLUCION ORAL	Codeína 10 mg/5 ml solución/suspensión oral	10 mg/5 ml	Frasco	250	ml	CODEINA FOSFATO HEMIHIDRATO 2 mg	VÍA ORAL	SOLUCIÓN ORAL	R05DA04 - Codeina	ITALFARMACO S.A.	0	0	0
-673090	24797	HISTAVERIN 2 mg/ml JARABE	Codeína 10 mg/5 ml solución/suspensión oral	10 mg/5 ml	Frasco	250	ml	CODEINA FOSFATO 2 mg	VÍA ORAL	JARABE	R05DA04 - Codeina	LABORATORIO ESTEDI S.L.	0	0	0
-701240	78388	TUSIKERN 2 MG/ML SOLUCION ORAL EFG	Codeína 10 mg/5 ml solución/suspensión oral	2 mg/ml	Frasco	250	ml	CODEINA FOSFATO HEMIHIDRATO 2 mg	VÍA ORAL	SOLUCIÓN ORAL	R05DA04 - Codeina	KERN PHARMA S.L.	0	0	0
-795112	65343	NOTUSIN SOLUCION ORAL	Codeína 10 mg/5 ml solución/suspensión oral	10 mg/5 ml	Frasco	250	ml	CODEINA FOSFATO HEMIHIDRATO 2 mg	VÍA ORAL	SOLUCIÓN ORAL	R05DA04 - Codeina	LABORATORIO REIG JOFRE, S.A.	0	0	0
-795971	1778	CODEISAN 28,7 mg COMPRIMIDOS	Codeína 28,7 mg comprimido	28,7 mg	Blister	10	comprimido	CODEINA FOSFATO HEMIHIDRATO 28,7 mg	VÍA ORAL	COMPRIMIDO	R05DA04 - Codeina	TEVA PHARMA S.L.U.	0	0	0
-796052	1778	CODEISAN 28,7 mg COMPRIMIDOS	Codeína 28,7 mg comprimido	28,7 mg	Blister	20	comprimido	CODEINA FOSFATO HEMIHIDRATO 28,7 mg	VÍA ORAL	COMPRIMIDO	R05DA04 - Codeina	TEVA PHARMA S.L.U.	0	0	0
-824078	20709	FLUDAN CODEÍNA 10 mg/ 5 ml SOLUCIÓN ORAL	Codeína 10 mg/5 ml solución/suspensión oral	10 mg/5 ml	Frasco	200	ml	CODEINA FOSFATO 2 mg	VÍA ORAL	SOLUCIÓN ORAL	R05DA04 - Codeina	FAES FARMA S.A.	0	0	0
-936518	5255	CODEISAN 1,26 mg/ml JARABE	Codeína 6,33 mg/5 ml solución/suspensión oral	6,33 mg/5 ml	Frasco	250	ml	CODEINA FOSFATO HEMIHIDRATO 1,26 mg	VÍA ORAL	JARABE	R05DA04 - Codeina	TEVA PHARMA S.L.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+656685	32357	TOSEINA 2 mg/ml SOLUCION ORAL	Codeína 10 mg/5 ml solución/suspensión oral	10 mg/5 ml	Frasco	250	ml	CODEINA FOSFATO HEMIHIDRATO 2 mg	VÍA ORAL	SOLUCIÓN ORAL	R05DA04 - Codeina	ITALFARMACO S.A.	0	0	0	0
+673090	24797	HISTAVERIN 2 mg/ml JARABE	Codeína 10 mg/5 ml solución/suspensión oral	10 mg/5 ml	Frasco	250	ml	CODEINA FOSFATO 2 mg	VÍA ORAL	JARABE	R05DA04 - Codeina	LABORATORIO ESTEDI S.L.	0	0	0	0
+701240	78388	TUSIKERN 2 MG/ML SOLUCION ORAL EFG	Codeína 10 mg/5 ml solución/suspensión oral	2 mg/ml	Frasco	250	ml	CODEINA FOSFATO HEMIHIDRATO 2 mg	VÍA ORAL	SOLUCIÓN ORAL	R05DA04 - Codeina	KERN PHARMA S.L.	0	1	0	0
+795112	65343	NOTUSIN SOLUCION ORAL	Codeína 10 mg/5 ml solución/suspensión oral	10 mg/5 ml	Frasco	250	ml	CODEINA FOSFATO HEMIHIDRATO 2 mg	VÍA ORAL	SOLUCIÓN ORAL	R05DA04 - Codeina	LABORATORIO REIG JOFRE, S.A.	0	0	0	0
+795971	1778	CODEISAN 28,7 mg COMPRIMIDOS	Codeína 28,7 mg comprimido	28,7 mg	Blister	10	comprimido	CODEINA FOSFATO HEMIHIDRATO 28,7 mg	VÍA ORAL	COMPRIMIDO	R05DA04 - Codeina	TEVA PHARMA S.L.U.	0	0	0	0
+796052	1778	CODEISAN 28,7 mg COMPRIMIDOS	Codeína 28,7 mg comprimido	28,7 mg	Blister	20	comprimido	CODEINA FOSFATO HEMIHIDRATO 28,7 mg	VÍA ORAL	COMPRIMIDO	R05DA04 - Codeina	TEVA PHARMA S.L.U.	0	0	0	0
+824078	20709	FLUDAN CODEÍNA 10 mg/ 5 ml SOLUCIÓN ORAL	Codeína 10 mg/5 ml solución/suspensión oral	10 mg/5 ml	Frasco	200	ml	CODEINA FOSFATO 2 mg	VÍA ORAL	SOLUCIÓN ORAL	R05DA04 - Codeina	FAES FARMA S.A.	0	0	0	0
+936518	5255	CODEISAN 1,26 mg/ml JARABE	Codeína 6,33 mg/5 ml solución/suspensión oral	6,33 mg/5 ml	Frasco	250	ml	CODEINA FOSFATO HEMIHIDRATO 1,26 mg	VÍA ORAL	JARABE	R05DA04 - Codeina	TEVA PHARMA S.L.U.	0	0	0	0

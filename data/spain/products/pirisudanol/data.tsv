@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-936120	54990	MENTIS	Pirisudanol 300 mg cápsula	300 mg	Blister	24	cápsula	PIRISUDANOL MALEATO 300 mg	VÍA ORAL	CÁPSULA DURA	N06BX08 - Pirisudanol	A. MENARINI LATIN AMERICA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+936120	54990	MENTIS	Pirisudanol 300 mg cápsula	300 mg	Blister	24	cápsula	PIRISUDANOL MALEATO 300 mg	VÍA ORAL	CÁPSULA DURA	N06BX08 - Pirisudanol	A. MENARINI LATIN AMERICA S.L.	0	0	0	0

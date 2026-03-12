@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-650630	14011	HYDERGINA SOLUCION GOTAS	Dihidroergotoxina 1 mg/ml solución/suspensión gotas orales	1 mg/ml	Frasco	40	ml	DIHIDROERGOTOXINA MESILATO 1 mg	VÍA ORAL	GOTAS ORALES EN SOLUCIÓN	C04AE01 - Ergoloides mesilatos	DEFIANTE FARMACEUTICA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+650630	14011	HYDERGINA SOLUCION GOTAS	Dihidroergotoxina 1 mg/ml solución/suspensión gotas orales	1 mg/ml	Frasco	40	ml	DIHIDROERGOTOXINA MESILATO 1 mg	VÍA ORAL	GOTAS ORALES EN SOLUCIÓN	C04AE01 - Ergoloides mesilatos	DEFIANTE FARMACEUTICA S.A.	0	0	0	0

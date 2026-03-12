@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-724313	1181332001	PIFELTRO 100 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Doravirina 100 mg comprimido	100 mg	Frasco	30	comprimido	DORAVIRINA 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AG06 - Doravirina	MERCK SHARP & DOHME B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+724313	1181332001	PIFELTRO 100 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Doravirina 100 mg comprimido	100 mg	Frasco	30	comprimido	DORAVIRINA 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AG06 - Doravirina	MERCK SHARP & DOHME B.V.	0	0	0	0

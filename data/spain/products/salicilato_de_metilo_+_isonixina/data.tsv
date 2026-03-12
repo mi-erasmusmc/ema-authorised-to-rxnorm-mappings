@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-795203	53752	NIXYN HERMES CREMA FLUIDA	Salicilato de metilo/Isonixina 50 mg/g + 25 mg/g crema	50 mg/g + 25 mg/g	Tubo	60	ml	SALICILATO METILO 50 mg|ISONIXINO 25 mg	USO CUTÁNEO	CREMA	M02AC92 - Salicilico acido combinaciones con	TEOFARMA S.R.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+795203	53752	NIXYN HERMES CREMA FLUIDA	Salicilato de metilo/Isonixina 50 mg/g + 25 mg/g crema	50 mg/g + 25 mg/g	Tubo	60	ml	SALICILATO METILO 50 mg|ISONIXINO 25 mg	USO CUTÁNEO	CREMA	M02AC92 - Salicilico acido combinaciones con	TEOFARMA S.R.L.	0	0	0	0

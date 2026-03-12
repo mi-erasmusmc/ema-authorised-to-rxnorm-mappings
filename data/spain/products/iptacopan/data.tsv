@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-765342	1241802002	FABHALTA 200 MG CAPSULAS DURAS	Iptacopán 200 mg cápsula	200 mg	Blister	56	cápsula	IPTACOPAN HIDROCLORURO MONOHIDRATO 200 mg	VÍA ORAL	CÁPSULA DURA	L04AJ08 - Iptacopan	NOVARTIS EUROPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+765342	1241802002	FABHALTA 200 MG CAPSULAS DURAS	Iptacopán 200 mg cápsula	200 mg	Blister	56	cápsula	IPTACOPAN HIDROCLORURO MONOHIDRATO 200 mg	VÍA ORAL	CÁPSULA DURA	L04AJ08 - Iptacopan	NOVARTIS EUROPHARM LIMITED	0	0	0	0

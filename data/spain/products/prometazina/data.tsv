@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-756403	17471	FENERGAN CREMA	Prometazina 20 mg/g crema	20 mg/g	Tubo	30	g	PROMETAZINA 20 mg	USO CUTÁNEO	CREMA	D04AA10 - Prometazina	TEOFARMA S.R.L.	0	0	0
-756411	17471	FENERGAN CREMA	Prometazina 20 mg/g crema	20 mg/g	Tubo	60	g	PROMETAZINA 20 mg	USO CUTÁNEO	CREMA	D04AA10 - Prometazina	TEOFARMA S.R.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+756403	17471	FENERGAN CREMA	Prometazina 20 mg/g crema	20 mg/g	Tubo	30	g	PROMETAZINA 20 mg	USO CUTÁNEO	CREMA	D04AA10 - Prometazina	TEOFARMA S.R.L.	0	0	0	0
+756411	17471	FENERGAN CREMA	Prometazina 20 mg/g crema	20 mg/g	Tubo	60	g	PROMETAZINA 20 mg	USO CUTÁNEO	CREMA	D04AA10 - Prometazina	TEOFARMA S.R.L.	0	0	0	0

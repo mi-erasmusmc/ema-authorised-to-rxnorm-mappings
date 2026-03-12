@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-753137	54190	ESTRACYT 140 mg CAPSULAS DURAS	Estramustina 140 mg cápsula	140 mg	Frasco	100	cápsula	ESTRAMUSTINA FOSFATO SODIO 140 mg	VÍA ORAL	CÁPSULA DURA	L01XX11 - Estramustina	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+753137	54190	ESTRACYT 140 mg CAPSULAS DURAS	Estramustina 140 mg cápsula	140 mg	Frasco	100	cápsula	ESTRAMUSTINA FOSFATO SODIO 140 mg	VÍA ORAL	CÁPSULA DURA	L01XX11 - Estramustina	PFIZER S.L.	0	0	0	0

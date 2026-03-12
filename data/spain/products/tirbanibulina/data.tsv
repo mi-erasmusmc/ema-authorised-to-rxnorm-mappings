@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-731502	1211558001	KLISYRI 10 MG/G POMADA	Tirbanibulina 10 mg/g pomada	10 mg/g	Sobre	1,25	g	TIRBANIBULINA 10 mg	USO CUTÁNEO	POMADA	D06BX03 - Tirbanibulina	ALMIRALL S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+731502	1211558001	KLISYRI 10 MG/G POMADA	Tirbanibulina 10 mg/g pomada	10 mg/g	Sobre	1,25	g	TIRBANIBULINA 10 mg	USO CUTÁNEO	POMADA	D06BX03 - Tirbanibulina	ALMIRALL S.A.	0	0	0	0

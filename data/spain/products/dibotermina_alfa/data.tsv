@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-749770	02226001	INDUCTOS 1,5 MG/ML POLVO, DISOLVENTE Y MATRIZ PARA MATRIZ DE IMPLANTACIÓN	Dibotermina alfa 12 mg implante	12 mg	Vial	1	implante	DIBOTERMINA ALFA 12 mg	IMPLANTACIÓN	IMPLANTE	M05BC01 - BMP-2	MEDTRONIC BIOPHARMA B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+749770	02226001	INDUCTOS 1,5 MG/ML POLVO, DISOLVENTE Y MATRIZ PARA MATRIZ DE IMPLANTACIÓN	Dibotermina alfa 12 mg implante	12 mg	Vial	1	implante	DIBOTERMINA ALFA 12 mg	IMPLANTACIÓN	IMPLANTE	M05BC01 - BMP-2	MEDTRONIC BIOPHARMA B.V.	0	0	0	0

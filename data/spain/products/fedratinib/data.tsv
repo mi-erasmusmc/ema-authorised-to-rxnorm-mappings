@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-730437	1201514001	INREBIC 100 mg CAPSULAS DURAS	Fedratinib 100 mg capsula	100 mg	Frasco	120	cápsula	FEDRATINIB DIHIDROCLORURO MONOHIDRATO 100 mg	VÍA ORAL	CÁPSULA DURA	L01EJ02 - Fedratinib	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+730437	1201514001	INREBIC 100 mg CAPSULAS DURAS	Fedratinib 100 mg capsula	100 mg	Frasco	120	cápsula	FEDRATINIB DIHIDROCLORURO MONOHIDRATO 100 mg	VÍA ORAL	CÁPSULA DURA	L01EJ02 - Fedratinib	BRISTOL-MYERS SQUIBB PHARMA EEIG	0	0	0	0

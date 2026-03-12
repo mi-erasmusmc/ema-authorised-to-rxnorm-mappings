@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-662790	70843	TOCTINO 10 mg CAPSULAS BLANDAS	Alitretinoína 10 mg cápsula	10 mg	Blister	30	cápsula	ALITRETINOINA 10 mg	VÍA ORAL	CÁPSULA BLANDA	D11AH04 - Alitretinoina	GLAXOSMITHKLINE S.A.	0	0	0
-662792	70844	TOCTINO 30 mg CAPSULAS BLANDAS	Alitretinoína 30 mg cápsula	30 mg	Blister	30	cápsula	ALITRETINOINA 30 mg	VÍA ORAL	CÁPSULA BLANDA	D11AH04 - Alitretinoina	GLAXOSMITHKLINE S.A.	0	0	0
-665281	00149001	PANRETIN GEL 0,1%	Alitretinoína 1 mg/g gel	1 mg/g	Tubo	60	g	ALITRETINOINA 1 mg	USO CUTÁNEO	GEL	L01XF02 - Alitretinoin	AMDIPHARM LIMITED	0	0	0
-725444	84057	ALITRETINOINA IFC 10 MG CAPSULAS BLANDAS EFG	Alitretinoína 10 mg cápsula	10 mg	Blister	30	cápsula	ALITRETINOINA 10 mg	VÍA ORAL	CÁPSULA BLANDA	D11AH04 - Alitretinoina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
-725445	84058	ALITRETINOINA IFC 30 MG CAPSULAS BLANDAS EFG	Alitretinoína 30 mg cápsula	30 mg	Blister	30	cápsula	ALITRETINOINA 30 mg	VÍA ORAL	CÁPSULA BLANDA	D11AH04 - Alitretinoina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+662790	70843	TOCTINO 10 mg CAPSULAS BLANDAS	Alitretinoína 10 mg cápsula	10 mg	Blister	30	cápsula	ALITRETINOINA 10 mg	VÍA ORAL	CÁPSULA BLANDA	D11AH04 - Alitretinoina	GLAXOSMITHKLINE S.A.	0	0	0	0
+662792	70844	TOCTINO 30 mg CAPSULAS BLANDAS	Alitretinoína 30 mg cápsula	30 mg	Blister	30	cápsula	ALITRETINOINA 30 mg	VÍA ORAL	CÁPSULA BLANDA	D11AH04 - Alitretinoina	GLAXOSMITHKLINE S.A.	0	0	0	0
+665281	00149001	PANRETIN GEL 0,1%	Alitretinoína 1 mg/g gel	1 mg/g	Tubo	60	g	ALITRETINOINA 1 mg	USO CUTÁNEO	GEL	L01XF02 - Alitretinoin	AMDIPHARM LIMITED	0	0	0	0
+725444	84057	ALITRETINOINA IFC 10 MG CAPSULAS BLANDAS EFG	Alitretinoína 10 mg cápsula	10 mg	Blister	30	cápsula	ALITRETINOINA 10 mg	VÍA ORAL	CÁPSULA BLANDA	D11AH04 - Alitretinoina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	1	0	0
+725445	84058	ALITRETINOINA IFC 30 MG CAPSULAS BLANDAS EFG	Alitretinoína 30 mg cápsula	30 mg	Blister	30	cápsula	ALITRETINOINA 30 mg	VÍA ORAL	CÁPSULA BLANDA	D11AH04 - Alitretinoina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	1	0	0

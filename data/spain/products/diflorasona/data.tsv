@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-960781	56346	MURODE 0,5 mg/g  GEL	Diflorasona 0,5 mg/g gel	0,5 mg/g	Tubo	30	g	DIFLORASONA DIACETATO 0,5 mg	USO CUTÁNEO	GEL	D07AC10 - Diflorasona	TEOFARMA S.R.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+960781	56346	MURODE 0,5 mg/g  GEL	Diflorasona 0,5 mg/g gel	0,5 mg/g	Tubo	30	g	DIFLORASONA DIACETATO 0,5 mg	USO CUTÁNEO	GEL	D07AC10 - Diflorasona	TEOFARMA S.R.L.	0	0	0	0

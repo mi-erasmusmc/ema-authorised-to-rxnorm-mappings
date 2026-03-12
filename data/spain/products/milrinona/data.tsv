@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-998880	58849	COROTROPE 1 mg/ml SOLUCIÓN INYECTABLE	Milrinona 1 mg/ml inyectable 10 ml	1 mg/ml inyectable 10 ml	Ampolla	10	ampolla para inyección	MILRINONA 1 mg	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	C01CE02 - Milrinona	SANOFI AVENTIS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+998880	58849	COROTROPE 1 mg/ml SOLUCIÓN INYECTABLE	Milrinona 1 mg/ml inyectable 10 ml	1 mg/ml inyectable 10 ml	Ampolla	10	ampolla para inyección	MILRINONA 1 mg	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	C01CE02 - Milrinona	SANOFI AVENTIS S.A.	0	0	0	0

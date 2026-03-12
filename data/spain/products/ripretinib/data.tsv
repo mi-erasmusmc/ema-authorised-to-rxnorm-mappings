@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-762507	1211569001	QINLOCK 50 MG COMPRIMIDOS	Ripretinib 50 mg comprimido	50 mg	Frasco	90	comprimido	RIPRETINIB 50 mg	VÍA ORAL	COMPRIMIDO	L01EX19 - Ripretinib	DECIPHERA PHARMACEUTICALS (NETHERLANDS) B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+762507	1211569001	QINLOCK 50 MG COMPRIMIDOS	Ripretinib 50 mg comprimido	50 mg	Frasco	90	comprimido	RIPRETINIB 50 mg	VÍA ORAL	COMPRIMIDO	L01EX19 - Ripretinib	DECIPHERA PHARMACEUTICALS (NETHERLANDS) B.V.	0	0	0	0

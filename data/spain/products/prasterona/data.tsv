@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-723501	1171255001	INTRAROSA 6,5 MG OVULOS	Prasterona 6,5 mg óvulo/cápsula/comprimido vaginal	6,5 mg	Blister	28	óvulo	PRASTERONA 6,5 mg	VÍA VAGINAL	ÓVULO	G03XX01 - Prasterona	ENDOCEUTICS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+723501	1171255001	INTRAROSA 6,5 MG OVULOS	Prasterona 6,5 mg óvulo/cápsula/comprimido vaginal	6,5 mg	Blister	28	óvulo	PRASTERONA 6,5 mg	VÍA VAGINAL	ÓVULO	G03XX01 - Prasterona	ENDOCEUTICS S.A.	0	0	0	0

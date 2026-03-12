@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-672684	72922	ARKOCAPSULAS MIGRANELA 260 mg CAPSULAS DURAS	Preparado de partes aéreas de Tanacetum parthenium 260 mg cápsula	260 mg	Frasco	48	cápsula	MIGRANELA 260 mg	VÍA ORAL	CÁPSULA DURA	N02CX - Otros preparados antimigrañosos	ARKOPHARMA LABORATORIOS S.A.	1	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+672684	72922	ARKOCAPSULAS MIGRANELA 260 mg CAPSULAS DURAS	Preparado de partes aéreas de Tanacetum parthenium 260 mg cápsula	260 mg	Frasco	48	cápsula	MIGRANELA 260 mg	VÍA ORAL	CÁPSULA DURA	N02CX - Otros preparados antimigrañosos	ARKOPHARMA LABORATORIOS S.A.	1	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-725927	84186	LADIVA CAPSULAS	Extracto seco de hojas de Rubus idaeus L. (frambueso) 226 mg cápsula	226 mg	Blister	16	cápsula	HOJA DE FRAMBUESO EXTO SECO 226 mg	VÍA ORAL	CÁPSULA DURA	G02CX - Otros productos ginecologicos	MEDIS GMBH	1	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+725927	84186	LADIVA CAPSULAS	Extracto seco de hojas de Rubus idaeus L. (frambueso) 226 mg cápsula	226 mg	Blister	16	cápsula	HOJA DE FRAMBUESO EXTO SECO 226 mg	VÍA ORAL	CÁPSULA DURA	G02CX - Otros productos ginecologicos	MEDIS GMBH	1	0	0	0

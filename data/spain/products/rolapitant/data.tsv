@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-716457	1171180001	VARUBY 90 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Rolapitant 90 mg comprimido	90 mg	Blister	2	comprimido	ROLAPITANT 90 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	A04AD14 - Rolapitant	TESARO UK LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+716457	1171180001	VARUBY 90 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Rolapitant 90 mg comprimido	90 mg	Blister	2	comprimido	ROLAPITANT 90 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	A04AD14 - Rolapitant	TESARO UK LIMITED	0	0	0	0

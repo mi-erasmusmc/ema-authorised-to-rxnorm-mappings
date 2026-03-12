@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-789693	50671	MOSEGOR 0,5 mg/10 ml SOLUCION ORAL	Pizotifeno 0,25 mg/5 ml solución/suspensión oral	0,25 mg/5 ml	Frasco	200	ml	PIZOTIFENO 0.05 mg	VÍA ORAL	SOLUCIÓN ORAL	N02CX01 - Pizotifeno	ETHYX PHARMACEUTICALS	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+789693	50671	MOSEGOR 0,5 mg/10 ml SOLUCION ORAL	Pizotifeno 0,25 mg/5 ml solución/suspensión oral	0,25 mg/5 ml	Frasco	200	ml	PIZOTIFENO 0.05 mg	VÍA ORAL	SOLUCIÓN ORAL	N02CX01 - Pizotifeno	ETHYX PHARMACEUTICALS	0	0	0	0

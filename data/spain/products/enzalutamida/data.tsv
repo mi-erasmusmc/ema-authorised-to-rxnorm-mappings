@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-698718	113846001	XTANDI 40 MG CAPSULAS BLANDAS	Enzalutamida 40 mg cápsula	40 mg	Blister	112	cápsula	ENZALUTAMIDA 40 mg	VÍA ORAL	CÁPSULA BLANDA	L02BB04 - Enzalutamida	ASTELLAS PHARMA EUROPE B.V.	0	0	0
-719453	113846002	XTANDI 40 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Enzalutamida 40 mg comprimido	40 mg	Blister	112	comprimido	ENZALUTAMIDA 40 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L02BB04 - Enzalutamida	ASTELLAS PHARMA EUROPE B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+698718	113846001	XTANDI 40 MG CAPSULAS BLANDAS	Enzalutamida 40 mg cápsula	40 mg	Blister	112	cápsula	ENZALUTAMIDA 40 mg	VÍA ORAL	CÁPSULA BLANDA	L02BB04 - Enzalutamida	ASTELLAS PHARMA EUROPE B.V.	0	0	0	0
+719453	113846002	XTANDI 40 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Enzalutamida 40 mg comprimido	40 mg	Blister	112	comprimido	ENZALUTAMIDA 40 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L02BB04 - Enzalutamida	ASTELLAS PHARMA EUROPE B.V.	0	0	0	0

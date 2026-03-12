@@ -1,12 +1,12 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-689660	75862	MUPIROCINA ISDIN 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	ISDIN S.A.	0	0	0
-689662	75862	MUPIROCINA ISDIN 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	30	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	ISDIN S.A.	0	0	0
-689691	75869	MUPIROCINA FARMALIDER 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	FARMALIDER S.A.	0	0	0
-726094	84241	BACNAS 20 MG/G POMADA NASAL	Mupirocina 20 mg/g producto uso nasal	20 mg/g	Tubo	5	g	MUPIROCINA CALCICA 20 mg	VÍA NASAL	POMADA NASAL	D06AX09 - Mupirocina	INFECTOPHARM ARZNEIMITTEL UND CONSILIUM GMBH	0	0	0
-732509	86458	MUPIROCINA GALENICUMDERMA 20 MG/G POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GALENICUM DERMA S.L.U.	0	0	0
-767111	59531	BACTROBAN NASAL 20 mg/g POMADA NASAL	Mupirocina 20 mg/g producto uso nasal	20 mg/g	Tubo	3	g	MUPIROCINA CALCICA 20 mg	VÍA NASAL	POMADA NASAL	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0
-767711	86458	MUPIROCINA GALENICUMDERMA 20 MG/G POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	30	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GALENICUM DERMA S.L.U.	0	0	0
-997585	58868	BACTROBAN 20 mg/g pomada	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0
-997593	58868	BACTROBAN 20 mg/g pomada	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	30	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0
-999458	58987	PLASIMINE 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0
-999466	58987	PLASIMINE 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	30	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+689660	75862	MUPIROCINA ISDIN 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	ISDIN S.A.	0	0	0	0
+689662	75862	MUPIROCINA ISDIN 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	30	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	ISDIN S.A.	0	0	0	0
+689691	75869	MUPIROCINA FARMALIDER 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	FARMALIDER S.A.	0	0	0	0
+726094	84241	BACNAS 20 MG/G POMADA NASAL	Mupirocina 20 mg/g producto uso nasal	20 mg/g	Tubo	5	g	MUPIROCINA CALCICA 20 mg	VÍA NASAL	POMADA NASAL	D06AX09 - Mupirocina	INFECTOPHARM ARZNEIMITTEL UND CONSILIUM GMBH	0	0	0	0
+732509	86458	MUPIROCINA GALENICUMDERMA 20 MG/G POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GALENICUM DERMA S.L.U.	0	0	0	0
+767111	59531	BACTROBAN NASAL 20 mg/g POMADA NASAL	Mupirocina 20 mg/g producto uso nasal	20 mg/g	Tubo	3	g	MUPIROCINA CALCICA 20 mg	VÍA NASAL	POMADA NASAL	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0	0
+767711	86458	MUPIROCINA GALENICUMDERMA 20 MG/G POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	30	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GALENICUM DERMA S.L.U.	0	0	0	0
+997585	58868	BACTROBAN 20 mg/g pomada	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0	0
+997593	58868	BACTROBAN 20 mg/g pomada	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	30	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0	0
+999458	58987	PLASIMINE 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	15	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0	0
+999466	58987	PLASIMINE 20 mg/g POMADA	Mupirocina 20 mg/g pomada	20 mg/g	Tubo	30	g	MUPIROCINA 20 mg	USO CUTÁNEO	POMADA	D06AX09 - Mupirocina	GLAXOSMITHKLINE S.A.	0	0	0	0

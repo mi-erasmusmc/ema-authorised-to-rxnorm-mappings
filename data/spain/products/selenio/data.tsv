@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-718759	21386	BIOSELENIUM 25 mg/ml  SUSPENSION CUTANEA	Selenio sulfuro 25 mg/ml líquido uso tópico	25 mg/ml	Frasco	100	ml	SELENIO SULFURO 25 mg	USO CUTÁNEO	SUSPENSIÓN CUTÁNEA	D11AC03 - Selenio, compuestos con	URIACH CONSUMER HEALTHCARE S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+718759	21386	BIOSELENIUM 25 mg/ml  SUSPENSION CUTANEA	Selenio sulfuro 25 mg/ml líquido uso tópico	25 mg/ml	Frasco	100	ml	SELENIO SULFURO 25 mg	USO CUTÁNEO	SUSPENSIÓN CUTÁNEA	D11AC03 - Selenio, compuestos con	URIACH CONSUMER HEALTHCARE S.L.	0	0	0	0

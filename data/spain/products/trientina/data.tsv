@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-728144	1171199001	CUPRIOR 150 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Trientina 150 mg comprimido	150 mg	Blister	72	comprimido	TRIENTINA TETRAHIDROCLORURO 150 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	A16AX12 - Trientina	ORPHALAN	0	0	0
-729076	1191365001	CUFENCE 200 MG CAPSULAS DURAS	Trientina 200 mg cápsula	200 mg	Frasco	100	cápsula	TRIENTINA DIHIDROCLORURO 200 mg	VÍA ORAL	CÁPSULA DURA	A16AX12 - Trientina	UNIVAR SOLUTIONS B.V.	0	0	0
-758465	88131	TRIENTINA WAYMADE 200 MG CAPSULAS DURAS EFG	Trientina 200 mg cápsula	200 mg	Frasco	100	cápsula	TRIENTINA DIHIDROCLORURO 200 mg	VÍA ORAL	CÁPSULA DURA	A16AX12 - Trientina	WAYMADE B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+728144	1171199001	CUPRIOR 150 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Trientina 150 mg comprimido	150 mg	Blister	72	comprimido	TRIENTINA TETRAHIDROCLORURO 150 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	A16AX12 - Trientina	ORPHALAN	0	0	0	0
+729076	1191365001	CUFENCE 200 MG CAPSULAS DURAS	Trientina 200 mg cápsula	200 mg	Frasco	100	cápsula	TRIENTINA DIHIDROCLORURO 200 mg	VÍA ORAL	CÁPSULA DURA	A16AX12 - Trientina	UNIVAR SOLUTIONS B.V.	0	0	0	0
+758465	88131	TRIENTINA WAYMADE 200 MG CAPSULAS DURAS EFG	Trientina 200 mg cápsula	200 mg	Frasco	100	cápsula	TRIENTINA DIHIDROCLORURO 200 mg	VÍA ORAL	CÁPSULA DURA	A16AX12 - Trientina	WAYMADE B.V.	0	1	0	0

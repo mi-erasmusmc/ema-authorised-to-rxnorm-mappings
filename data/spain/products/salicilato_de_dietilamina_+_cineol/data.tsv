@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-990895	15961	DOLMITIN POMADA	Salicilato de dietilamina/Cineol 100 mg/g + 4 mg/g pomada	100 mg/g + 4 mg/g	Tubo	60	g	SALICILATO DIETILAMINA 100 mg|CINEOL 4 mg	USO CUTÁNEO	POMADA	M02AC92 - Salicilico acido combinaciones con	INDUSTRIA QUIMICA Y FARMACEUTICA VIR S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+990895	15961	DOLMITIN POMADA	Salicilato de dietilamina/Cineol 100 mg/g + 4 mg/g pomada	100 mg/g + 4 mg/g	Tubo	60	g	SALICILATO DIETILAMINA 100 mg|CINEOL 4 mg	USO CUTÁNEO	POMADA	M02AC92 - Salicilico acido combinaciones con	INDUSTRIA QUIMICA Y FARMACEUTICA VIR S.A.	0	0	0	0

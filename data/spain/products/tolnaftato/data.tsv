@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-662924	61933	SOLUFUNGIN 10 mg/ml SOLUCION CUTANEA	Tolnaftato 10 mg/ml líquido uso tópico	10 mg/ml	Nebulizador	50	ml	TOLNAFTATO 10 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D01AE18 - Tolnaftato	ARAFARMA GROUP S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+662924	61933	SOLUFUNGIN 10 mg/ml SOLUCION CUTANEA	Tolnaftato 10 mg/ml líquido uso tópico	10 mg/ml	Nebulizador	50	ml	TOLNAFTATO 10 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D01AE18 - Tolnaftato	ARAFARMA GROUP S.A.	0	0	0	0

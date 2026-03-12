@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-654112	47797	COLCHIMAX 0,5/5 mg COMPRIMIDOS	Colchicina/Dicicloverina 0,5 mg/5 mg comprimido	0,5 mg/5 mg	Blister	60	comprimido	COLCHICINA 0,5 mg|DICICLOVERINA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	M04AC51 - Colchicina combinaciones con	SEID S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+654112	47797	COLCHIMAX 0,5/5 mg COMPRIMIDOS	Colchicina/Dicicloverina 0,5 mg/5 mg comprimido	0,5 mg/5 mg	Blister	60	comprimido	COLCHICINA 0,5 mg|DICICLOVERINA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	M04AC51 - Colchicina combinaciones con	SEID S.A.	0	0	0	0

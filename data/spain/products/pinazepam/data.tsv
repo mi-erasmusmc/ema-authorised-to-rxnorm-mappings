@@ -1,7 +1,7 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-633123	53884	DUNA 2,5 mg cápsulas duras	Pinazepam 2,5 mg cápsula	2,5 mg	Blister	500	cápsula	PINAZEPAM 2,5 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0
-633131	53885	DUNA 5 mg CAPSULAS DURAS	Pinazepam 5 mg cápsula	5 mg	Blister	500	cápsula	PINAZEPAM 5 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0
-633149	53886	DUNA 10 mg cápsulas duras	Pinazepam 10 mg cápsula	10 mg	Blister	500	cápsula	PINAZEPAM 10 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0
-700652	53885	DUNA 5 mg CAPSULAS DURAS	Pinazepam 5 mg cápsula	5 mg	Blister	20	cápsula	PINAZEPAM 5 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0
-700653	53884	DUNA 2,5 mg cápsulas duras	Pinazepam 2,5 mg cápsula	2,5 mg	Blister	20	cápsula	PINAZEPAM 2,5 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0
-700654	53886	DUNA 10 mg cápsulas duras	Pinazepam 10 mg cápsula	10 mg	Blister	20	cápsula	PINAZEPAM 10 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+633123	53884	DUNA 2,5 mg cápsulas duras	Pinazepam 2,5 mg cápsula	2,5 mg	Blister	500	cápsula	PINAZEPAM 2,5 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0	0
+633131	53885	DUNA 5 mg CAPSULAS DURAS	Pinazepam 5 mg cápsula	5 mg	Blister	500	cápsula	PINAZEPAM 5 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0	0
+633149	53886	DUNA 10 mg cápsulas duras	Pinazepam 10 mg cápsula	10 mg	Blister	500	cápsula	PINAZEPAM 10 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0	0
+700652	53885	DUNA 5 mg CAPSULAS DURAS	Pinazepam 5 mg cápsula	5 mg	Blister	20	cápsula	PINAZEPAM 5 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0	0
+700653	53884	DUNA 2,5 mg cápsulas duras	Pinazepam 2,5 mg cápsula	2,5 mg	Blister	20	cápsula	PINAZEPAM 2,5 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0	0
+700654	53886	DUNA 10 mg cápsulas duras	Pinazepam 10 mg cápsula	10 mg	Blister	20	cápsula	PINAZEPAM 10 mg	VÍA ORAL	CÁPSULA DURA	N05BA14 - Pinazepam	MEIJI PHARMA SPAIN S.A.	0	0	0	0

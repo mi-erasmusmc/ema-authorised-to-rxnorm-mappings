@@ -1,7 +1,7 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-630251	16737	FURACIN 2 mg/g POMADA	Nitrofural 2 mg/g pomada	2 mg/g	Tubo	500	g	NITROFURAL 2 mg	USO CUTÁNEO	POMADA	D08AF01 - Nitrofural	SEID S.A.	0	0	0
-630269	22435	FURACIN 2 mg/ml SOLUCIÓN CUTÁNEA	Nitrofural 2 mg/ml líquido uso tópico	2 mg/ml	Frasco	1000	ml	NITROFURAL 2 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AF01 - Nitrofural	SEID S.A.	0	0	0
-696997	16737	FURACIN 2 mg/g POMADA	Nitrofural 2 mg/g pomada	2 mg/g	Tubo	30	g	NITROFURAL 2 mg	USO CUTÁNEO	POMADA	D08AF01 - Nitrofural	SEID S.A.	0	0	0
-760702	23909	BOTINIT 2 mg/g POLVO CUTANEO	Nitrofural 2 mg/g sólido uso tópico	2 mg/g	Tubo	15	g	NITROFURAL 2 mg	USO CUTÁNEO	POLVO CUTÁNEO	D08AF01 - Nitrofural	ANOTACIONES FARMACEUTICAS, S.L.	0	0	0
-760710	16737	FURACIN 2 mg/g POMADA	Nitrofural 2 mg/g pomada	2 mg/g	Tubo	100	g	NITROFURAL 2 mg	USO CUTÁNEO	POMADA	D08AF01 - Nitrofural	SEID S.A.	0	0	0
-760728	22435	FURACIN 2 mg/ml SOLUCIÓN CUTÁNEA	Nitrofural 2 mg/ml líquido uso tópico	2 mg/ml	Frasco	100	ml	NITROFURAL 2 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AF01 - Nitrofural	SEID S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+630251	16737	FURACIN 2 mg/g POMADA	Nitrofural 2 mg/g pomada	2 mg/g	Tubo	500	g	NITROFURAL 2 mg	USO CUTÁNEO	POMADA	D08AF01 - Nitrofural	SEID S.A.	0	0	0	0
+630269	22435	FURACIN 2 mg/ml SOLUCIÓN CUTÁNEA	Nitrofural 2 mg/ml líquido uso tópico	2 mg/ml	Frasco	1000	ml	NITROFURAL 2 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AF01 - Nitrofural	SEID S.A.	0	0	0	0
+696997	16737	FURACIN 2 mg/g POMADA	Nitrofural 2 mg/g pomada	2 mg/g	Tubo	30	g	NITROFURAL 2 mg	USO CUTÁNEO	POMADA	D08AF01 - Nitrofural	SEID S.A.	0	0	0	0
+760702	23909	BOTINIT 2 mg/g POLVO CUTANEO	Nitrofural 2 mg/g sólido uso tópico	2 mg/g	Tubo	15	g	NITROFURAL 2 mg	USO CUTÁNEO	POLVO CUTÁNEO	D08AF01 - Nitrofural	ANOTACIONES FARMACEUTICAS, S.L.	0	0	0	0
+760710	16737	FURACIN 2 mg/g POMADA	Nitrofural 2 mg/g pomada	2 mg/g	Tubo	100	g	NITROFURAL 2 mg	USO CUTÁNEO	POMADA	D08AF01 - Nitrofural	SEID S.A.	0	0	0	0
+760728	22435	FURACIN 2 mg/ml SOLUCIÓN CUTÁNEA	Nitrofural 2 mg/ml líquido uso tópico	2 mg/ml	Frasco	100	ml	NITROFURAL 2 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AF01 - Nitrofural	SEID S.A.	0	0	0	0

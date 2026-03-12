@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-885764	42021	ANTICUDE	Edrofonio bromuro 25 mg inyectable 2 ml	25 mg	Ampolla	2	ampolla para inyección	EDROFONIO BROMURO 12.5 mg	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	V04CX07 - Edrofonio	MANA PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+885764	42021	ANTICUDE	Edrofonio bromuro 25 mg inyectable 2 ml	25 mg	Ampolla	2	ampolla para inyección	EDROFONIO BROMURO 12.5 mg	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	V04CX07 - Edrofonio	MANA PHARMA S.L.	0	0	0	0

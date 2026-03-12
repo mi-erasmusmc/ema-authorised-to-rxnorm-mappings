@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-765349	1241805001	AGILUS 120 MG POLVO PARA SOLUCION INYECTABLE	Dantroleno 120 mg inyectable	120 mg	Vial	6	vial para inyección	DANTROLENO SODIO HEMIHEPTAHIDRATO 120 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	M03CA01 - Dantroleno	NORGINE B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+765349	1241805001	AGILUS 120 MG POLVO PARA SOLUCION INYECTABLE	Dantroleno 120 mg inyectable	120 mg	Vial	6	vial para inyección	DANTROLENO SODIO HEMIHEPTAHIDRATO 120 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	M03CA01 - Dantroleno	NORGINE B.V.	0	0	0	0

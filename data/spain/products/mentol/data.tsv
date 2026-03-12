@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-845024	34412	VASELINA MENTOLADA ORRAVAN 20 mg/g POMADA	Mentol 20 mg/g pomada	20 mg/g	Tubo	13	g	MENTOL 20 mg	USO CUTÁNEO	POMADA	D02AC - Parafina blanda y productos con grasa	LABORATORIO REIG JOFRE, S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+845024	34412	VASELINA MENTOLADA ORRAVAN 20 mg/g POMADA	Mentol 20 mg/g pomada	20 mg/g	Tubo	13	g	MENTOL 20 mg	USO CUTÁNEO	POMADA	D02AC - Parafina blanda y productos con grasa	LABORATORIO REIG JOFRE, S.A.	0	0	0	0

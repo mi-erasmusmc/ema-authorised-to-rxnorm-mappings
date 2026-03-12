@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-742890	41030	DETRAMAX 2,5 mg/g + 15 mg/g POMADA	Hidrocortisona/Propanocaína 2,5 mg/g + 15 mg/g pomada	2,5 mg/g + 15 mg/g	Tubo	30	g	HIDROCORTISONA 2,5 mg|PROPANOCAINA HIDROCLORURO 15 mg	USO CUTÁNEO	POMADA	D07XA01 - Hidrocortisona	ANOTACIONES FARMACEUTICAS S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+742890	41030	DETRAMAX 2,5 mg/g + 15 mg/g POMADA	Hidrocortisona/Propanocaína 2,5 mg/g + 15 mg/g pomada	2,5 mg/g + 15 mg/g	Tubo	30	g	HIDROCORTISONA 2,5 mg|PROPANOCAINA HIDROCLORURO 15 mg	USO CUTÁNEO	POMADA	D07XA01 - Hidrocortisona	ANOTACIONES FARMACEUTICAS S.L.	0	0	0	0

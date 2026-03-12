@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-704848	113870004	Orphacol 250mg capsulas duras	Ácido cólico 250 mg cápsula	250 mg	Blister	30	cápsula	COLICO ACIDO 250 mg	VÍA ORAL	CÁPSULA DURA	A05AA03 - Acido colico	THERAVIA	0	0	0
-704875	113870001	Orphacol 50mg capsulas duras	Ácido cólico 50 mg cápsula	50 mg	Blister	30	cápsula	COLICO ACIDO 50 mg	VÍA ORAL	CÁPSULA DURA	A05AA03 - Acido colico	THERAVIA	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+704848	113870004	Orphacol 250mg capsulas duras	Ácido cólico 250 mg cápsula	250 mg	Blister	30	cápsula	COLICO ACIDO 250 mg	VÍA ORAL	CÁPSULA DURA	A05AA03 - Acido colico	THERAVIA	0	0	0	0
+704875	113870001	Orphacol 50mg capsulas duras	Ácido cólico 50 mg cápsula	50 mg	Blister	30	cápsula	COLICO ACIDO 50 mg	VÍA ORAL	CÁPSULA DURA	A05AA03 - Acido colico	THERAVIA	0	0	0	0

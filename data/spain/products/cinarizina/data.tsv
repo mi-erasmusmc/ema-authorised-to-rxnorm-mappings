@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-827600	53025	STUGERON CAPSULAS 75 mg	Cinarizina 75 mg cápsula	75 mg	Blister	30	cápsula	CINARIZINA 75 mg	VÍA ORAL	CÁPSULA DURA	N07CA02 - Cinarizina	ESTEVE PHARMACEUTICALS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+827600	53025	STUGERON CAPSULAS 75 mg	Cinarizina 75 mg cápsula	75 mg	Blister	30	cápsula	CINARIZINA 75 mg	VÍA ORAL	CÁPSULA DURA	N07CA02 - Cinarizina	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0

@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-695205	60159	ZELIDERM 200 mg/g CREMA	Ácido azelaico 200 mg/g gel	200 mg/g	Tubo	30	g	AZELAICO ACIDO 200 mg	USO CUTÁNEO	CREMA	D10AX03 - Acido azelaico	LABORATORIOS VINAS S.A.	0	0	0
-774638	59578	SKINOREN 200 mg/g CREMA	Ácido azelaico 200 mg/g gel	200 mg/g	Tubo	30	g	AZELAICO ACIDO 200 mg	USO CUTÁNEO	CREMA	D10AX03 - Acido azelaico	BAYER HISPANIA S.L.	0	0	0
-812727	65365	FINACEA 150 mg/g GEL	Ácido azelaico 150 mg/g gel	150 mg/g	Tubo	30	g	AZELAICO ACIDO 150 mg	USO CUTÁNEO	GEL	D10AX03 - Acido azelaico	LEO PHARMA A/S	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+695205	60159	ZELIDERM 200 mg/g CREMA	Ácido azelaico 200 mg/g gel	200 mg/g	Tubo	30	g	AZELAICO ACIDO 200 mg	USO CUTÁNEO	CREMA	D10AX03 - Acido azelaico	LABORATORIOS VINAS S.A.	0	0	0	0
+774638	59578	SKINOREN 200 mg/g CREMA	Ácido azelaico 200 mg/g gel	200 mg/g	Tubo	30	g	AZELAICO ACIDO 200 mg	USO CUTÁNEO	CREMA	D10AX03 - Acido azelaico	BAYER HISPANIA S.L.	0	0	0	0
+812727	65365	FINACEA 150 mg/g GEL	Ácido azelaico 150 mg/g gel	150 mg/g	Tubo	30	g	AZELAICO ACIDO 150 mg	USO CUTÁNEO	GEL	D10AX03 - Acido azelaico	LEO PHARMA A/S	0	0	0	0

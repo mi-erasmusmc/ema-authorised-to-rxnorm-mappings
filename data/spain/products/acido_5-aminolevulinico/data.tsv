@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-661524	07413001	GLIOLAN 30 MG/ML POLVO PARA SOLUCION ORAL	Ácido 5-aminolevulínico 30 mg/ml solución/suspensión oral	1.500 mg	Frasco	50	ml	AMINOLEVULINICO ACIDO 30 mg	VÍA ORAL	POLVO PARA SOLUCIÓN ORAL	L01XD04 - Acido aminolevulinico	PHOTONAMIC GMBH & CO. KG	0	0	0
-700696	11740001	AMELUZ 78 MG/G GEL	Ácido 5-aminolevulínico 78 mg/g gel	78 mg/g	Tubo	2	g	AMINOLEVULINICO ACIDO 78 mg	USO CUTÁNEO	GEL	L01XD04 - Acido aminolevulinico	BIOFRONTERA BIOSCIENCE GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+661524	07413001	GLIOLAN 30 MG/ML POLVO PARA SOLUCION ORAL	Ácido 5-aminolevulínico 30 mg/ml solución/suspensión oral	1.500 mg	Frasco	50	ml	AMINOLEVULINICO ACIDO 30 mg	VÍA ORAL	POLVO PARA SOLUCIÓN ORAL	L01XD04 - Acido aminolevulinico	PHOTONAMIC GMBH & CO. KG	0	0	0	0
+700696	11740001	AMELUZ 78 MG/G GEL	Ácido 5-aminolevulínico 78 mg/g gel	78 mg/g	Tubo	2	g	AMINOLEVULINICO ACIDO 78 mg	USO CUTÁNEO	GEL	L01XD04 - Acido aminolevulinico	BIOFRONTERA BIOSCIENCE GMBH	0	0	0	0

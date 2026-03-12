@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-716047	113875004	DELTYBA 50 MG COMPRIMIDOS RECUBIERTOS CON  PELICULA	Delamanid 50 mg comprimido	50 mg	Blister	48	comprimido	DELAMANID 50 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J04AK06 - Delamanid	OTSUKA NOVEL PRODUCTS GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+716047	113875004	DELTYBA 50 MG COMPRIMIDOS RECUBIERTOS CON  PELICULA	Delamanid 50 mg comprimido	50 mg	Blister	48	comprimido	DELAMANID 50 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J04AK06 - Delamanid	OTSUKA NOVEL PRODUCTS GMBH	0	0	0	0

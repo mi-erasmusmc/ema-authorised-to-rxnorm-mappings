@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-729186	33924	CHICLIDA 25 mg CHICLES MEDICAMENTOSOS	Meclozina 25 mg chicle medicamentoso	25 mg	Blister	6	chicle	MECLOZINA 25 mg	USO BUCOFARÍNGEO	CHICLE MEDICAMENTOSO	R06AE05 - Meclozina	FLEER ESPAÑOLA S.L.	0	0	0
-729194	33924	CHICLIDA 25 mg CHICLES MEDICAMENTOSOS	Meclozina 25 mg chicle medicamentoso	25 mg	Blister	12	chicle	MECLOZINA 25 mg	USO BUCOFARÍNGEO	CHICLE MEDICAMENTOSO	R06AE05 - Meclozina	FLEER ESPAÑOLA S.L.	0	0	0
-924472	59405	NAVICALM 25 MG COMPRIMIDOS	Meclozina 25 mg comprimido	25 mg	Blister	20	comprimido	MECLOZINA DIHIDROCLORURO 25 mg	VÍA ORAL	COMPRIMIDO	R06AE05 - Meclozina	ARAFARMA GROUP S.A.	0	0	0
-924506	59406	NAVICALM 5 MG/5 ML JARABE	Meclozina 1 mg/ml solución/suspensión oral	1 mg/ml	Frasco	150	ml	MECLOZINA DIHIDROCLORURO 1 mg	VÍA ORAL	JARABE	R06AE05 - Meclozina	ARAFARMA GROUP S.A.	0	0	0
-981506	57907	CHICLIDA 25 mg COMPRIMIDOS PARA CHUPAR	Meclozina 25 mg comprimido bucal/para chupar	25 mg	Blister	6	pastilla	MECLOZINA HIDROCLORURO 25 mg	USO BUCOFARÍNGEO	PASTILLA PARA CHUPAR	R06AE05 - Meclozina	FLEER ESPAÑOLA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+729186	33924	CHICLIDA 25 mg CHICLES MEDICAMENTOSOS	Meclozina 25 mg chicle medicamentoso	25 mg	Blister	6	chicle	MECLOZINA 25 mg	USO BUCOFARÍNGEO	CHICLE MEDICAMENTOSO	R06AE05 - Meclozina	FLEER ESPAÑOLA S.L.	0	0	0	0
+729194	33924	CHICLIDA 25 mg CHICLES MEDICAMENTOSOS	Meclozina 25 mg chicle medicamentoso	25 mg	Blister	12	chicle	MECLOZINA 25 mg	USO BUCOFARÍNGEO	CHICLE MEDICAMENTOSO	R06AE05 - Meclozina	FLEER ESPAÑOLA S.L.	0	0	0	0
+924472	59405	NAVICALM 25 MG COMPRIMIDOS	Meclozina 25 mg comprimido	25 mg	Blister	20	comprimido	MECLOZINA DIHIDROCLORURO 25 mg	VÍA ORAL	COMPRIMIDO	R06AE05 - Meclozina	ARAFARMA GROUP S.A.	0	0	0	0
+924506	59406	NAVICALM 5 MG/5 ML JARABE	Meclozina 1 mg/ml solución/suspensión oral	1 mg/ml	Frasco	150	ml	MECLOZINA DIHIDROCLORURO 1 mg	VÍA ORAL	JARABE	R06AE05 - Meclozina	ARAFARMA GROUP S.A.	0	0	0	0
+981506	57907	CHICLIDA 25 mg COMPRIMIDOS PARA CHUPAR	Meclozina 25 mg comprimido bucal/para chupar	25 mg	Blister	6	pastilla	MECLOZINA HIDROCLORURO 25 mg	USO BUCOFARÍNGEO	PASTILLA PARA CHUPAR	R06AE05 - Meclozina	FLEER ESPAÑOLA S.L.	0	0	0	0

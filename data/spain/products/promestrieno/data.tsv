@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-653113	55594	COLPOTROFIN 10 mg/g CREMA VAGINAL	Promestrieno 10 mg/g semisólido vaginal	10 mg/g	Tubo	30	g	PROMESTRIENO 10 mg	VÍA VAGINAL	CREMA VAGINAL	G03CA09 - Promestrieno	THERAMEX IRELAND LIMITED	0	0	0
-731649	55594	COLPOTROFIN 10 mg/g CREMA VAGINAL	Promestrieno 10 mg/g semisólido vaginal	10 mg/g	Tubo	15	g	PROMESTRIENO 10 mg	VÍA VAGINAL	CREMA VAGINAL	G03CA09 - Promestrieno	THERAMEX IRELAND LIMITED	0	0	0
-759454	8626408	COLPOTROFIN 10 MG/G CREMA VAGINAL	Promestrieno 10 mg/g semisólido vaginal	10 mg/g	Tubo	30	g	PROMESTRIENO 10 mg	VÍA VAGINAL	CREMA VAGINAL	G03CA09 - Promestrieno	THERAMEX IRELAND LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+653113	55594	COLPOTROFIN 10 mg/g CREMA VAGINAL	Promestrieno 10 mg/g semisólido vaginal	10 mg/g	Tubo	30	g	PROMESTRIENO 10 mg	VÍA VAGINAL	CREMA VAGINAL	G03CA09 - Promestrieno	THERAMEX IRELAND LIMITED	0	0	0	0
+731649	55594	COLPOTROFIN 10 mg/g CREMA VAGINAL	Promestrieno 10 mg/g semisólido vaginal	10 mg/g	Tubo	15	g	PROMESTRIENO 10 mg	VÍA VAGINAL	CREMA VAGINAL	G03CA09 - Promestrieno	THERAMEX IRELAND LIMITED	0	0	0	0
+759454	8626408	COLPOTROFIN 10 MG/G CREMA VAGINAL	Promestrieno 10 mg/g semisólido vaginal	10 mg/g	Tubo	30	g	PROMESTRIENO 10 mg	VÍA VAGINAL	CREMA VAGINAL	G03CA09 - Promestrieno	THERAMEX IRELAND LIMITED	0	0	0	0

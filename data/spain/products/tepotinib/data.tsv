@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-732896	1211596001	TEPMETKO 225 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Tepotinib 225 mg comprimido	225 mg	Caja	60	comprimido	TEPOTINIB HIDROCLORURO MONOHIDRATO 225 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EP02 - Tepotinib	MERCK EUROPE B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+732896	1211596001	TEPMETKO 225 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Tepotinib 225 mg comprimido	225 mg	Caja	60	comprimido	TEPOTINIB HIDROCLORURO MONOHIDRATO 225 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EP02 - Tepotinib	MERCK EUROPE B.V.	0	0	0	0

@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-657361	62205	DRESPLAN COMPRIMIDOS	Oxibutinina 5 mg comprimido	5 mg	Blister	60	comprimido	OXIBUTININA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	G04BD04 - Oxibutinina	MACURE HEALTHCARE LIMITED	0	0	0
-700642	03270001	KENTERA 3,9 mg/24 HORAS, PARCHE TRANSDERMICO	Oxibutinina 3,9 mg/24 h parche transdérmico	3,9 mg/24 h	Parche	8	parche	OXIBUTININA 3,9 mg/24 h	VÍA TRANSDÉRMICA	PARCHE TRANSDÉRMICO	G04BD04 - Oxibutinina	TEVA B.V.	0	0	0
-971812	57185	DITROPAN 5 mg COMPRIMIDOS	Oxibutinina 5 mg comprimido	5 mg	Blister	60	comprimido	OXIBUTININA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	G04BD04 - Oxibutinina	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+657361	62205	DRESPLAN COMPRIMIDOS	Oxibutinina 5 mg comprimido	5 mg	Blister	60	comprimido	OXIBUTININA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	G04BD04 - Oxibutinina	MACURE HEALTHCARE LIMITED	0	0	0	0
+700642	03270001	KENTERA 3,9 mg/24 HORAS, PARCHE TRANSDERMICO	Oxibutinina 3,9 mg/24 h parche transdérmico	3,9 mg/24 h	Parche	8	parche	OXIBUTININA 3,9 mg/24 h	VÍA TRANSDÉRMICA	PARCHE TRANSDÉRMICO	G04BD04 - Oxibutinina	TEVA B.V.	0	0	0	0
+971812	57185	DITROPAN 5 mg COMPRIMIDOS	Oxibutinina 5 mg comprimido	5 mg	Blister	60	comprimido	OXIBUTININA HIDROCLORURO 5 mg	VÍA ORAL	COMPRIMIDO	G04BD04 - Oxibutinina	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0	0

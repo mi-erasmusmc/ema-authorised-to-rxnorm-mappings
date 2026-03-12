@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-654138	50271	DAKTARIN CREMA	Miconazol 20 mg/g crema	20 mg/g	Tubo	40	g	MICONAZOL NITRATO 20 mg	USO CUTÁNEO|VÍA VAGINAL	CREMA	G01AF04 - Miconazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0
-654633	50272	DAKTARIN POLVO	Miconazol 20 mg/g sólido uso tópico	20 mg/g	Bote	20	g	MICONAZOL NITRATO 20 mg	USO CUTÁNEO	POLVO CUTÁNEO	D01AC02 - Miconazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0
-760538	52875	FUNGISDIN 8,7 MG/ML SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	Miconazol 10 mg/ml líquido uso tópico	10 mg/ml	Frasco	125	ml	MICONAZOL 10 mg	USO CUTÁNEO	SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	D01AC02 - Miconazol	ISDIN S.A.	0	0	0
-955419	55962	DAKTARIN 20 MG/G GEL ORAL	Miconazol 20 mg/g solución/suspensión oral	20 mg/g	Tubo	40	g	MICONAZOL 20 mg	VÍA ORAL	GEL ORAL	A01AB09 - Miconazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+654138	50271	DAKTARIN CREMA	Miconazol 20 mg/g crema	20 mg/g	Tubo	40	g	MICONAZOL NITRATO 20 mg	USO CUTÁNEO|VÍA VAGINAL	CREMA	G01AF04 - Miconazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0
+654633	50272	DAKTARIN POLVO	Miconazol 20 mg/g sólido uso tópico	20 mg/g	Bote	20	g	MICONAZOL NITRATO 20 mg	USO CUTÁNEO	POLVO CUTÁNEO	D01AC02 - Miconazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0
+760538	52875	FUNGISDIN 8,7 MG/ML SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	Miconazol 10 mg/ml líquido uso tópico	10 mg/ml	Frasco	125	ml	MICONAZOL 10 mg	USO CUTÁNEO	SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	D01AC02 - Miconazol	ISDIN S.A.	0	0	0	0
+955419	55962	DAKTARIN 20 MG/G GEL ORAL	Miconazol 20 mg/g solución/suspensión oral	20 mg/g	Tubo	40	g	MICONAZOL 20 mg	VÍA ORAL	GEL ORAL	A01AB09 - Miconazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0

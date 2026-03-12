@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-753608	98095001	EMADINE 0,5 MG/ML COLIRIO EN SOLUCION	Emedastina 0,5 mg/ml colirio	0,5 mg/ml	Envase unidosis	5	ml	EMEDASTINA DIFUMARATO 0,5 mg	VÍA OFTÁLMICA	COLIRIO EN SOLUCIÓN	S01GX06 - Emedastina	IMMEDICA PHARMA AB	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+753608	98095001	EMADINE 0,5 MG/ML COLIRIO EN SOLUCION	Emedastina 0,5 mg/ml colirio	0,5 mg/ml	Envase unidosis	5	ml	EMEDASTINA DIFUMARATO 0,5 mg	VÍA OFTÁLMICA	COLIRIO EN SOLUCIÓN	S01GX06 - Emedastina	IMMEDICA PHARMA AB	0	0	0	0

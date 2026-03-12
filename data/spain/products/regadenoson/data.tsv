@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-698441	110643001	Rapiscan 400mcg solucion inyectable	Regadenosón 400 microgramos inyectable 5 ml	400 microgramos	Vial	1	vial para inyección	REGADENOSON 80 microgramos	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	C01EB21 - Regadenoson	GE HEALTHCARE AS	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+698441	110643001	Rapiscan 400mcg solucion inyectable	Regadenosón 400 microgramos inyectable 5 ml	400 microgramos	Vial	1	vial para inyección	REGADENOSON 80 microgramos	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	C01EB21 - Regadenoson	GE HEALTHCARE AS	0	0	0	0

@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-681759	60944	DAIVONEX 50 MICROGRAMOS/G CREMA	Calcipotriol 50 microgramos/g crema	50 microgramos/g	Tubo	30	g	CALCIPOTRIOL 50 microgramos	USO CUTÁNEO	CREMA	D05AX02 - Calcipotriol	LEO PHARMA A/S	0	0	0
-733038	60944	DAIVONEX 50 MICROGRAMOS/G CREMA	Calcipotriol 50 microgramos/g crema	50 microgramos/g	Tubo	120	g	CALCIPOTRIOL 50 microgramos	USO CUTÁNEO	CREMA	D05AX02 - Calcipotriol	LEO PHARMA A/S	0	0	0
-738260	60944	DAIVONEX 50 MICROGRAMOS/G CREMA	Calcipotriol 50 microgramos/g crema	50 microgramos/g	Tubo	100	g	CALCIPOTRIOL 50 microgramos	USO CUTÁNEO	CREMA	D05AX02 - Calcipotriol	LEO PHARMA A/S	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+681759	60944	DAIVONEX 50 MICROGRAMOS/G CREMA	Calcipotriol 50 microgramos/g crema	50 microgramos/g	Tubo	30	g	CALCIPOTRIOL 50 microgramos	USO CUTÁNEO	CREMA	D05AX02 - Calcipotriol	LEO PHARMA A/S	0	0	0	0
+733038	60944	DAIVONEX 50 MICROGRAMOS/G CREMA	Calcipotriol 50 microgramos/g crema	50 microgramos/g	Tubo	120	g	CALCIPOTRIOL 50 microgramos	USO CUTÁNEO	CREMA	D05AX02 - Calcipotriol	LEO PHARMA A/S	0	0	0	0
+738260	60944	DAIVONEX 50 MICROGRAMOS/G CREMA	Calcipotriol 50 microgramos/g crema	50 microgramos/g	Tubo	100	g	CALCIPOTRIOL 50 microgramos	USO CUTÁNEO	CREMA	D05AX02 - Calcipotriol	LEO PHARMA A/S	0	0	0	0

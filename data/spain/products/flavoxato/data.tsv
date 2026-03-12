@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-763334	53032	URONID 200 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Flavoxato 200 mg comprimido	200 mg	Blister	60	comprimido	FLAVOXATO HIDROCLORURO 200 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	G04BD02 - Flavoxato	CASEN RECORDATI S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+763334	53032	URONID 200 MG COMPRIMIDOS RECUBIERTOS CON PELÍCULA	Flavoxato 200 mg comprimido	200 mg	Blister	60	comprimido	FLAVOXATO HIDROCLORURO 200 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	G04BD02 - Flavoxato	CASEN RECORDATI S.L.	0	0	0	0

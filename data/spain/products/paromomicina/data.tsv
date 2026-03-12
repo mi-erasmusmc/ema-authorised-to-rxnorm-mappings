@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700701	36795	HUMATIN 250 MG CAPSULAS DURAS	Paromomicina 250 mg cápsula	250 mg	Frasco	8	cápsula	PAROMOMICINA 250 mg	VÍA ORAL	CÁPSULA DURA	A07AA06 - Paromomicina	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700701	36795	HUMATIN 250 MG CAPSULAS DURAS	Paromomicina 250 mg cápsula	250 mg	Frasco	8	cápsula	PAROMOMICINA 250 mg	VÍA ORAL	CÁPSULA DURA	A07AA06 - Paromomicina	PFIZER S.L.	0	0	0	0

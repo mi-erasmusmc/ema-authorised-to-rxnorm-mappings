@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-752881	7769	TANAGEL 250 mg POLVO PARA SUSPENSION ORAL	Tanato de gelatina 250 mg solución/suspensión oral sobre	250 mg	Sobre	20	sobre	GELATINA TANATO 250 mg	VÍA ORAL	POLVO ORAL	A07XA01 - Tanato de albumina	LABORATORIOS FRANCISCO DURBAN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+752881	7769	TANAGEL 250 mg POLVO PARA SUSPENSION ORAL	Tanato de gelatina 250 mg solución/suspensión oral sobre	250 mg	Sobre	20	sobre	GELATINA TANATO 250 mg	VÍA ORAL	POLVO ORAL	A07XA01 - Tanato de albumina	LABORATORIOS FRANCISCO DURBAN S.A.	0	0	0	0

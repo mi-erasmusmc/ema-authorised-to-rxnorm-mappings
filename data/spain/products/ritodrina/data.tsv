@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-809319	51227	PRE-PAR 10 mg/ml SOLUCION INYECTABLE	Ritodrina 10 mg/ml inyectable 5 ml	10 mg/ml inyectable 5 ml	Ampolla	3	ampolla para inyección	RITODRINA HIDROCLORURO 10 mg	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	G02CA01 - Ritodrina	LABORATORIO REIG JOFRE, S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+809319	51227	PRE-PAR 10 mg/ml SOLUCION INYECTABLE	Ritodrina 10 mg/ml inyectable 5 ml	10 mg/ml inyectable 5 ml	Ampolla	3	ampolla para inyección	RITODRINA HIDROCLORURO 10 mg	VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	G02CA01 - Ritodrina	LABORATORIO REIG JOFRE, S.A.	0	0	0	0

@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700670	51200	LOMPER 100 mg  COMPRIMIDOS	Mebendazol 100 mg comprimido	100 mg	Blister	6	comprimido	MEBENDAZOL 100 mg	VÍA ORAL	COMPRIMIDO	P02CA01 - Mebendazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0
-700671	53775	LOMPER 20 mg/ml SUSPENSION ORAL	Mebendazol 20 mg/ml solución/suspensión oral	20 mg/ml	Frasco	30	ml	MEBENDAZOL 20 mg	VÍA ORAL	SUSPENSIÓN ORAL	P02CA01 - Mebendazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700670	51200	LOMPER 100 mg  COMPRIMIDOS	Mebendazol 100 mg comprimido	100 mg	Blister	6	comprimido	MEBENDAZOL 100 mg	VÍA ORAL	COMPRIMIDO	P02CA01 - Mebendazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0
+700671	53775	LOMPER 20 mg/ml SUSPENSION ORAL	Mebendazol 20 mg/ml solución/suspensión oral	20 mg/ml	Frasco	30	ml	MEBENDAZOL 20 mg	VÍA ORAL	SUSPENSIÓN ORAL	P02CA01 - Mebendazol	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0

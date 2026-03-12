@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-714287	81627	BELKYRA 10 MG/ML SOLUCION INYECTABLE	Ácido desoxicólico 10 mg/ml inyectable 2 ml	10 mg/ml inyectable 2 ml	Vial	4	vial para inyección	DESOXICOLICO ACIDO 10 mg	VÍA SUBCUTÁNEA	SOLUCIÓN INYECTABLE	D11AX24 - Acido desoxicolico	ABBVIE SPAIN, S.L.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+714287	81627	BELKYRA 10 MG/ML SOLUCION INYECTABLE	Ácido desoxicólico 10 mg/ml inyectable 2 ml	10 mg/ml inyectable 2 ml	Vial	4	vial para inyección	DESOXICOLICO ACIDO 10 mg	VÍA SUBCUTÁNEA	SOLUCIÓN INYECTABLE	D11AX24 - Acido desoxicolico	ABBVIE SPAIN, S.L.U.	0	0	0	0

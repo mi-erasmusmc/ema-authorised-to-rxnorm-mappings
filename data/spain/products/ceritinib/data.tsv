@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-706852	115999001	ZYKADIA 150 MG CAPSULAS DURAS	Ceritinib 150 mg cápsula	150 mg	Blister	150	cápsula	CERITINIB 150 mg	VÍA ORAL	CÁPSULA DURA	L01ED02 - Ceritinib	NOVARTIS EUROPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+706852	115999001	ZYKADIA 150 MG CAPSULAS DURAS	Ceritinib 150 mg cápsula	150 mg	Blister	150	cápsula	CERITINIB 150 mg	VÍA ORAL	CÁPSULA DURA	L01ED02 - Ceritinib	NOVARTIS EUROPHARM LIMITED	0	0	0	0

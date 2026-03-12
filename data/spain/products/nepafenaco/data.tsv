@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-688045	07433001	NEVANAC 1 mg/ml COLIRIO EN SUSPENSION	Nepafenaco 1 mg/ml colirio	1 mg/ml	Frasco	5	ml	NEPAFENACO 1 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	NOVARTIS EUROPHARM LIMITED	0	0	0
-698853	107433002	NEVANAC 3mg/ml colirio en suspension	Nepafenaco 3 mg/ml colirio	3 mg/ml	Frasco	4	ml	NEPAFENACO 3 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	NOVARTIS EUROPHARM LIMITED	0	0	0
-704372	107433003	NEVANAC 3mg/ml colirio en suspension	Nepafenaco 3 mg/ml colirio	3 mg/ml	Frasco	4	ml	NEPAFENACO 3 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	NOVARTIS EUROPHARM LIMITED	0	0	0
-709887	07433001IP	NEVANAC 1mg/ml colirio en suspension	Nepafenaco 1 mg/ml colirio	1 mg/ml	Frasco	5	ml	NEPAFENACO 1 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	ALCON LABORATORIES LTD (UK)	0	0	0
-764690	107433003IP1	NEVANAC 3MG/ML COLIRIO EN SUSPENSION	Nepafenaco 3 mg/ml colirio	3 mg/ml	Frasco	3	ml	NEPAFENACO 3 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	NOVARTIS EUROPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+688045	07433001	NEVANAC 1 mg/ml COLIRIO EN SUSPENSION	Nepafenaco 1 mg/ml colirio	1 mg/ml	Frasco	5	ml	NEPAFENACO 1 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+698853	107433002	NEVANAC 3mg/ml colirio en suspension	Nepafenaco 3 mg/ml colirio	3 mg/ml	Frasco	4	ml	NEPAFENACO 3 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+704372	107433003	NEVANAC 3mg/ml colirio en suspension	Nepafenaco 3 mg/ml colirio	3 mg/ml	Frasco	4	ml	NEPAFENACO 3 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+709887	07433001IP	NEVANAC 1mg/ml colirio en suspension	Nepafenaco 1 mg/ml colirio	1 mg/ml	Frasco	5	ml	NEPAFENACO 1 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	ALCON LABORATORIES LTD (UK)	0	0	0	0
+764690	107433003IP1	NEVANAC 3MG/ML COLIRIO EN SUSPENSION	Nepafenaco 3 mg/ml colirio	3 mg/ml	Frasco	3	ml	NEPAFENACO 3 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01BC10 - Nepafenaco	NOVARTIS EUROPHARM LIMITED	0	0	0	0

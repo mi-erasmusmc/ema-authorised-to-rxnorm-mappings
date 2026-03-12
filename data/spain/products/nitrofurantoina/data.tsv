@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-631705	22974	FURANTOINA 50 mg COMPRIMIDOS	Nitrofurantoína 50 mg comprimido	50 mg	Blister	500	comprimido	NITROFURANTOINA 50 mg	VÍA ORAL	COMPRIMIDO	J01XE01 - Nitrofurantoina	LABORATORIOS ERN S.A.	0	0	0
-700667	22974	FURANTOINA 50 mg COMPRIMIDOS	Nitrofurantoína 50 mg comprimido	50 mg	Blister	21	comprimido	NITROFURANTOINA 50 mg	VÍA ORAL	COMPRIMIDO	J01XE01 - Nitrofurantoina	LABORATORIOS ERN S.A.	0	0	0
-700668	22974	FURANTOINA 50 mg COMPRIMIDOS	Nitrofurantoína 50 mg comprimido	50 mg	Blister	42	comprimido	NITROFURANTOINA 50 mg	VÍA ORAL	COMPRIMIDO	J01XE01 - Nitrofurantoina	LABORATORIOS ERN S.A.	0	0	0
-700669	34388	FURANTOINA 10 mg/ml SUSPENSION ORAL	Nitrofurantoína 10 mg/ml solución/suspensión oral	10 mg/ml	Frasco	80	ml	NITROFURANTOINA 10 mg	VÍA ORAL	SUSPENSIÓN ORAL	J01XE01 - Nitrofurantoina	LABORATORIOS ERN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+631705	22974	FURANTOINA 50 mg COMPRIMIDOS	Nitrofurantoína 50 mg comprimido	50 mg	Blister	500	comprimido	NITROFURANTOINA 50 mg	VÍA ORAL	COMPRIMIDO	J01XE01 - Nitrofurantoina	LABORATORIOS ERN S.A.	0	0	0	0
+700667	22974	FURANTOINA 50 mg COMPRIMIDOS	Nitrofurantoína 50 mg comprimido	50 mg	Blister	21	comprimido	NITROFURANTOINA 50 mg	VÍA ORAL	COMPRIMIDO	J01XE01 - Nitrofurantoina	LABORATORIOS ERN S.A.	0	0	0	0
+700668	22974	FURANTOINA 50 mg COMPRIMIDOS	Nitrofurantoína 50 mg comprimido	50 mg	Blister	42	comprimido	NITROFURANTOINA 50 mg	VÍA ORAL	COMPRIMIDO	J01XE01 - Nitrofurantoina	LABORATORIOS ERN S.A.	0	0	0	0
+700669	34388	FURANTOINA 10 mg/ml SUSPENSION ORAL	Nitrofurantoína 10 mg/ml solución/suspensión oral	10 mg/ml	Frasco	80	ml	NITROFURANTOINA 10 mg	VÍA ORAL	SUSPENSIÓN ORAL	J01XE01 - Nitrofurantoina	LABORATORIOS ERN S.A.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-703433	79004	METOPIRONE 250 MG CAPSULAS BLANDAS	Metirapona 250 mg cápsula	250 mg	Frasco	50	cápsula	METIRAPONA 250 mg	VÍA ORAL	CÁPSULA BLANDA	V04CD01 - Metirapona	ESTEVE PHARMACEUTICALS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+703433	79004	METOPIRONE 250 MG CAPSULAS BLANDAS	Metirapona 250 mg cápsula	250 mg	Frasco	50	cápsula	METIRAPONA 250 mg	VÍA ORAL	CÁPSULA BLANDA	V04CD01 - Metirapona	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0

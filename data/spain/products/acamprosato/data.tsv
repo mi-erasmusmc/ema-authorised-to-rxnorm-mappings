@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-677732	61201	CAMPRAL 333 mg COMPRIMIDOS RECUBIERTOS	Acamprosato 333 mg comprimido	333 mg	Blister	84	comprimido	ACAMPROSATO 333 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	N07BB03 - Acamprosato	MERCK SANTE	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+677732	61201	CAMPRAL 333 mg COMPRIMIDOS RECUBIERTOS	Acamprosato 333 mg comprimido	333 mg	Blister	84	comprimido	ACAMPROSATO 333 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	N07BB03 - Acamprosato	MERCK SANTE	0	0	0	0

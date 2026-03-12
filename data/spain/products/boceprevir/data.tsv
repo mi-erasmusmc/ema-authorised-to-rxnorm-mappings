@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-682555	11704001	VICTRELIS 200 mg CAPSULAS DURAS	Boceprevir 200 mg cápsula	200 mg	Blister	336	cápsula	BOCEPREVIR 200 mg	VÍA ORAL	CÁPSULA DURA	J05AP03 - Boceprevir	MERCK SHARP & DOHME (UK) LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+682555	11704001	VICTRELIS 200 mg CAPSULAS DURAS	Boceprevir 200 mg cápsula	200 mg	Blister	336	cápsula	BOCEPREVIR 200 mg	VÍA ORAL	CÁPSULA DURA	J05AP03 - Boceprevir	MERCK SHARP & DOHME (UK) LIMITED	0	0	0	0

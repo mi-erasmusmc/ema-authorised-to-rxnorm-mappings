@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-872820	52548	TEDIPRIMA 160 MG CÁPSULAS DURAS	Trimetoprima 160 mg cápsula	160 mg	Blister	16	cápsula	TRIMETOPRIMA 160 mg	VÍA ORAL	CÁPSULA DURA	J01EA01 - Trimetoprima	LABORATORIO ESTEDI S.L.	0	0	0
-872838	52547	TEDIPRIMA 16 MG/ML SUSPENSIÓN ORAL	Trimetoprima 16 mg/ml solución/suspensión oral	16 mg/ml	Botella	100	ml	TRIMETOPRIMA 16 mg	VÍA ORAL	SUSPENSIÓN ORAL	J01EA01 - Trimetoprima	LABORATORIO ESTEDI S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+872820	52548	TEDIPRIMA 160 MG CÁPSULAS DURAS	Trimetoprima 160 mg cápsula	160 mg	Blister	16	cápsula	TRIMETOPRIMA 160 mg	VÍA ORAL	CÁPSULA DURA	J01EA01 - Trimetoprima	LABORATORIO ESTEDI S.L.	0	0	0	0
+872838	52547	TEDIPRIMA 16 MG/ML SUSPENSIÓN ORAL	Trimetoprima 16 mg/ml solución/suspensión oral	16 mg/ml	Botella	100	ml	TRIMETOPRIMA 16 mg	VÍA ORAL	SUSPENSIÓN ORAL	J01EA01 - Trimetoprima	LABORATORIO ESTEDI S.L.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-651457	96026002	INVIRASE 500 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Saquinavir 500 mg comprimido	500 mg	Frasco	120	comprimido	SAQUINAVIR 500 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AE01 - Saquinavir	ROCHE REGISTRATION GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+651457	96026002	INVIRASE 500 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Saquinavir 500 mg comprimido	500 mg	Frasco	120	comprimido	SAQUINAVIR 500 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	J05AE01 - Saquinavir	ROCHE REGISTRATION GMBH	0	0	0	0

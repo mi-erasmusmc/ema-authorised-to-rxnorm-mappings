@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-702255	113893002	OPSUMIT 10 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Macitentán 10 mg comprimido	10 mg	Blister	30	comprimido	MACITENTAN 10 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	C02KX04 - Macitentan	JANSSEN-CILAG INTERNATIONAL N.V	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+702255	113893002	OPSUMIT 10 mg COMPRIMIDOS RECUBIERTOS CON PELICULA	Macitentán 10 mg comprimido	10 mg	Blister	30	comprimido	MACITENTAN 10 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	C02KX04 - Macitentan	JANSSEN-CILAG INTERNATIONAL N.V	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-653426	50560	LANIRAPID 0,1 mg COMPRIMIDOS	Metildigoxina 0,1 mg comprimido	0,1 mg	Blister	50	comprimido	METILDIGOXINA 0,1 mg	VÍA ORAL	COMPRIMIDO	C01AA08 - Metildigoxina	KERN PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+653426	50560	LANIRAPID 0,1 mg COMPRIMIDOS	Metildigoxina 0,1 mg comprimido	0,1 mg	Blister	50	comprimido	METILDIGOXINA 0,1 mg	VÍA ORAL	COMPRIMIDO	C01AA08 - Metildigoxina	KERN PHARMA S.L.	0	0	0	0

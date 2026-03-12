@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-652835	50056	NORGLICEM 5 mg COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Tubo	100	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB01 - Glibenclamida	ROTTAPHARM S.L.	0	0	0
-656597	50337	GLUCOLON 5 MG COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Frasco	30	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB01 - Glibenclamida	LABORATORIO GENERFARMA S.L.	0	0	0
-673092	50337	GLUCOLON 5 MG COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Blister	100	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB01 - Glibenclamida	LABORATORIO GENERFARMA S.L.	0	0	0
-732543	50337	GLUCOLON 5 MG COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Blister	40	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB01 - Glibenclamida	LABORATORIO GENERFARMA S.L.	0	0	0
-739888	48545	DAONIL 5 mg COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Blister	30	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB - Derivados de las sulfonilureas	SANOFI AVENTIS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+652835	50056	NORGLICEM 5 mg COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Tubo	100	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB01 - Glibenclamida	ROTTAPHARM S.L.	0	0	0	0
+656597	50337	GLUCOLON 5 MG COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Frasco	30	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB01 - Glibenclamida	LABORATORIO GENERFARMA S.L.	0	0	0	0
+673092	50337	GLUCOLON 5 MG COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Blister	100	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB01 - Glibenclamida	LABORATORIO GENERFARMA S.L.	0	0	0	0
+732543	50337	GLUCOLON 5 MG COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Blister	40	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB01 - Glibenclamida	LABORATORIO GENERFARMA S.L.	0	0	0	0
+739888	48545	DAONIL 5 mg COMPRIMIDOS	Glibenclamida 5 mg comprimido	5 mg	Blister	30	comprimido	GLIBENCLAMIDA 5 mg	VÍA ORAL	COMPRIMIDO	A10BB - Derivados de las sulfonilureas	SANOFI AVENTIS S.A.	0	0	0	0

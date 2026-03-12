@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-659859	07402001	INCRELEX 10 mg/ml SOLUCION INYECTABLE	Mecasermina 10 mg/ml inyectable 4 ml	10 mg/ml inyectable 4 ml	Vial	1	vial para inyección	MECASERMINA 10 mg	VÍA SUBCUTÁNEA	SOLUCIÓN INYECTABLE	H01AC03 - Mecasermina	ESTEVE PHARMACEUTICALS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+659859	07402001	INCRELEX 10 mg/ml SOLUCION INYECTABLE	Mecasermina 10 mg/ml inyectable 4 ml	10 mg/ml inyectable 4 ml	Vial	1	vial para inyección	MECASERMINA 10 mg	VÍA SUBCUTÁNEA	SOLUCIÓN INYECTABLE	H01AC03 - Mecasermina	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0

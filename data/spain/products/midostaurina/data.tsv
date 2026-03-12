@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-720071	1171218001	RYDAPT 25 MG CAPSULAS BLANDAS	Midostaurina 25 mg cápsula	25 mg	Blister	56	cápsula	MIDOSTAURINA 25 mg	VÍA ORAL	CÁPSULA BLANDA	L01EX10 - Midostaurina	NOVARTIS EUROPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+720071	1171218001	RYDAPT 25 MG CAPSULAS BLANDAS	Midostaurina 25 mg cápsula	25 mg	Blister	56	cápsula	MIDOSTAURINA 25 mg	VÍA ORAL	CÁPSULA BLANDA	L01EX10 - Midostaurina	NOVARTIS EUROPHARM LIMITED	0	0	0	0

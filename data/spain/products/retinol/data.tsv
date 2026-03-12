@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700333	24328	AUXINA A MASIVA 50.000 UI CAPSULAS BLANDAS	Retinol 50.000 UI cápsula	50.000 UI	Blister	20	cápsula	RETINOL PALMITATO 50000 UI	VÍA ORAL	CÁPSULA DURA	A11CA01 - Retinol (vit A)	CHIESI ESPAÑA S.A.U.	0	0	0
-787382	24328	AUXINA A MASIVA 50.000 UI CAPSULAS BLANDAS	Retinol 50.000 UI cápsula	50.000 UI	Blister	10	cápsula	RETINOL PALMITATO 50000 UI	VÍA ORAL	CÁPSULA DURA	A11CA01 - Retinol (vit A)	CHIESI ESPAÑA S.A.U.	0	0	0
-818534	28811	RINOCUSI VITAMÍNICO 12.500 UI/g POMADA NASAL	Retinol 12.500 UI/g pomada	12.500 UI/g	Tubo	10	g	RETINOL ACETATO 12500 UI	VÍA NASAL	POMADA NASAL	R01AX02 - Retinol	LABORATORIO STADA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700333	24328	AUXINA A MASIVA 50.000 UI CAPSULAS BLANDAS	Retinol 50.000 UI cápsula	50.000 UI	Blister	20	cápsula	RETINOL PALMITATO 50000 UI	VÍA ORAL	CÁPSULA DURA	A11CA01 - Retinol (vit A)	CHIESI ESPAÑA S.A.U.	0	0	0	0
+787382	24328	AUXINA A MASIVA 50.000 UI CAPSULAS BLANDAS	Retinol 50.000 UI cápsula	50.000 UI	Blister	10	cápsula	RETINOL PALMITATO 50000 UI	VÍA ORAL	CÁPSULA DURA	A11CA01 - Retinol (vit A)	CHIESI ESPAÑA S.A.U.	0	0	0	0
+818534	28811	RINOCUSI VITAMÍNICO 12.500 UI/g POMADA NASAL	Retinol 12.500 UI/g pomada	12.500 UI/g	Tubo	10	g	RETINOL ACETATO 12500 UI	VÍA NASAL	POMADA NASAL	R01AX02 - Retinol	LABORATORIO STADA S.L.	0	0	0	0

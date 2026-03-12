@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-961763	56428	YURELAX 10 mg CAPSULAS DURAS	Ciclobenzaprina 10 mg cápsula	10 mg	Blister	30	cápsula	CICLOBENZAPRINA HIDROCLORURO 10 mg	VÍA ORAL	CÁPSULA DURA	M03BX08 - Ciclobenzaprina	VIATRIS HEALTHCARE LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+961763	56428	YURELAX 10 mg CAPSULAS DURAS	Ciclobenzaprina 10 mg cápsula	10 mg	Blister	30	cápsula	CICLOBENZAPRINA HIDROCLORURO 10 mg	VÍA ORAL	CÁPSULA DURA	M03BX08 - Ciclobenzaprina	VIATRIS HEALTHCARE LIMITED	0	0	0	0

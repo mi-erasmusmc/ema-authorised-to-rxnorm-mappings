@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-729114	1201460001	ROZLYTREK 100 MG CAPSULAS DURAS	Entrectinib 100 mg cápsula	100 mg	Frasco	30	cápsula	ENTRECTINIB 100 mg	VÍA ORAL	CÁPSULA DURA	L01EX14 - Entrectinib	ROCHE REGISTRATION GMBH	0	0	0
-729115	1201460002	ROZLYTREK 200 MG CAPSULAS DURAS	Entrectinib 200 mg cápsula	200 mg	Frasco	90	cápsula	ENTRECTINIB 200 mg	VÍA ORAL	CÁPSULA DURA	L01EX14 - Entrectinib	ROCHE REGISTRATION GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+729114	1201460001	ROZLYTREK 100 MG CAPSULAS DURAS	Entrectinib 100 mg cápsula	100 mg	Frasco	30	cápsula	ENTRECTINIB 100 mg	VÍA ORAL	CÁPSULA DURA	L01EX14 - Entrectinib	ROCHE REGISTRATION GMBH	0	0	0	0
+729115	1201460002	ROZLYTREK 200 MG CAPSULAS DURAS	Entrectinib 200 mg cápsula	200 mg	Frasco	90	cápsula	ENTRECTINIB 200 mg	VÍA ORAL	CÁPSULA DURA	L01EX14 - Entrectinib	ROCHE REGISTRATION GMBH	0	0	0	0

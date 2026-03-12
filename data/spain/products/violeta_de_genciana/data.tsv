@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-917716	37480	VIGENCIAL 0,5% SOLUCION	Violeta de genciana 5 mg/ml líquido uso tópico	5 mg/ml	Frasco	30	ml	VIOLETA GENCIANA 5 mg	USO CUTÁNEO|Vía bucal (buccal use)	SOLUCIÓN CUTÁNEA	D01AE02 - Metilrosanilina	LABORATORIO ESTEDI S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+917716	37480	VIGENCIAL 0,5% SOLUCION	Violeta de genciana 5 mg/ml líquido uso tópico	5 mg/ml	Frasco	30	ml	VIOLETA GENCIANA 5 mg	USO CUTÁNEO|Vía bucal (buccal use)	SOLUCIÓN CUTÁNEA	D01AE02 - Metilrosanilina	LABORATORIO ESTEDI S.L.	0	0	0	0

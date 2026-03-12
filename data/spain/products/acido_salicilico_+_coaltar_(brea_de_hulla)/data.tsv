@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-848291	62860	IONIL CHAMPU	Ácido salicílico/Coaltar (Brea de hulla) 20 mg/ml + 42,5 mg/ml champú	20 mg/ml + 42,5 mg/ml	Frasco	200	ml	SALICILICO ACIDO 20 mg|BREA HULLA 42,5 mg	USO CUTÁNEO	CHAMPÚ	D11AC - Champues medicinales	LABORATOIRES BAILLEUL S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+848291	62860	IONIL CHAMPU	Ácido salicílico/Coaltar (Brea de hulla) 20 mg/ml + 42,5 mg/ml champú	20 mg/ml + 42,5 mg/ml	Frasco	200	ml	SALICILICO ACIDO 20 mg|BREA HULLA 42,5 mg	USO CUTÁNEO	CHAMPÚ	D11AC - Champues medicinales	LABORATOIRES BAILLEUL S.A.	0	0	0	0

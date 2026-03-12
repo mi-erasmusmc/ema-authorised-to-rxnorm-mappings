@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-734368	31271	ZOLINA LLORENS COLIRIO	Nafazolina 1 mg/ml colirio	1 mg/ml	Desconocido	5	ml	NAFAZOLINA HIDROCLORURO 1 mg	VÍA OFTÁLMICA	COLIRIO EN SOLUCIÓN	S01GA01 - Nafazolina	LABORATORIOS LLORENS S.A.	0	0	0
-845149	21032	VASOCONSTRICTOR PENSA	Nafazolina 0,5 mg/ml producto uso nasal	0,5 mg/ml	Frasco	35	ml	NAFAZOLINA HIDROCLORURO 0,5 mg	VÍA NASAL	SOLUCION PARA PULVERIZACION NASAL	R01AA08 - Nafazolina	DOSE INNOVA S.L.	0	0	0
-845156	21032	VASOCONSTRICTOR PENSA	Nafazolina 0,5 mg/ml producto uso nasal	0,5 mg/ml	Frasco	70	ml	NAFAZOLINA HIDROCLORURO 0,5 mg	VÍA NASAL	SOLUCION PARA PULVERIZACION NASAL	R01AA08 - Nafazolina	DOSE INNOVA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+734368	31271	ZOLINA LLORENS COLIRIO	Nafazolina 1 mg/ml colirio	1 mg/ml	Desconocido	5	ml	NAFAZOLINA HIDROCLORURO 1 mg	VÍA OFTÁLMICA	COLIRIO EN SOLUCIÓN	S01GA01 - Nafazolina	LABORATORIOS LLORENS S.A.	0	0	0	0
+845149	21032	VASOCONSTRICTOR PENSA	Nafazolina 0,5 mg/ml producto uso nasal	0,5 mg/ml	Frasco	35	ml	NAFAZOLINA HIDROCLORURO 0,5 mg	VÍA NASAL	SOLUCION PARA PULVERIZACION NASAL	R01AA08 - Nafazolina	DOSE INNOVA S.L.	0	0	0	0
+845156	21032	VASOCONSTRICTOR PENSA	Nafazolina 0,5 mg/ml producto uso nasal	0,5 mg/ml	Frasco	70	ml	NAFAZOLINA HIDROCLORURO 0,5 mg	VÍA NASAL	SOLUCION PARA PULVERIZACION NASAL	R01AA08 - Nafazolina	DOSE INNOVA S.L.	0	0	0	0

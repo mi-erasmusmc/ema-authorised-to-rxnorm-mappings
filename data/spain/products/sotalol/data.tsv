@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-661678	62001	SOTAPOR  80 mg COMPRIMIDOS	Sotalol 80 mg comprimido	80 mg	Blister	30	comprimido	SOTALOL HIDROCLORURO 80 mg	VÍA ORAL	COMPRIMIDO	C07AA07 - Sotalol	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0
-764475	89413	SOTALOL SANDOZ 80 MG COMPRIMIDOS EFG	Sotalol 80 mg comprimido	80 mg	Blister	30	comprimido	SOTALOL HIDROCLORURO 80 mg	VÍA ORAL	COMPRIMIDO	C07AA07 - Sotalol	SANDOZ FARMACEUTICA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+661678	62001	SOTAPOR  80 mg COMPRIMIDOS	Sotalol 80 mg comprimido	80 mg	Blister	30	comprimido	SOTALOL HIDROCLORURO 80 mg	VÍA ORAL	COMPRIMIDO	C07AA07 - Sotalol	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0	0
+764475	89413	SOTALOL SANDOZ 80 MG COMPRIMIDOS EFG	Sotalol 80 mg comprimido	80 mg	Blister	30	comprimido	SOTALOL HIDROCLORURO 80 mg	VÍA ORAL	COMPRIMIDO	C07AA07 - Sotalol	SANDOZ FARMACEUTICA S.A.	0	1	0	0

@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-696864	51864	FLUTENAL POMADA	Flupamesona 3 mg/g pomada	3 mg/g	Tubo	60	g	FLUPAMESONA 3 mg	USO CUTÁNEO	POMADA	D07AC91 - Flupamesona	RECORDATI ESPAÑA, S.L.	0	0	0
-696898	51862	FLUTENAL CREMA	Flupamesona 3 mg/g crema	3 mg/g	Tubo	60	g	FLUPAMESONA 3 mg	USO CUTÁNEO	CREMA	D07AC91 - Flupamesona	RECORDATI ESPAÑA, S.L.	0	0	0
-758813	51862	FLUTENAL CREMA	Flupamesona 3 mg/g crema	3 mg/g	Tubo	30	g	FLUPAMESONA 3 mg	USO CUTÁNEO	CREMA	D07AC91 - Flupamesona	RECORDATI ESPAÑA, S.L.	0	0	0
-758888	51864	FLUTENAL POMADA	Flupamesona 3 mg/g pomada	3 mg/g	Tubo	30	g	FLUPAMESONA 3 mg	USO CUTÁNEO	POMADA	D07AC91 - Flupamesona	RECORDATI ESPAÑA, S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+696864	51864	FLUTENAL POMADA	Flupamesona 3 mg/g pomada	3 mg/g	Tubo	60	g	FLUPAMESONA 3 mg	USO CUTÁNEO	POMADA	D07AC91 - Flupamesona	RECORDATI ESPAÑA, S.L.	0	0	0	0
+696898	51862	FLUTENAL CREMA	Flupamesona 3 mg/g crema	3 mg/g	Tubo	60	g	FLUPAMESONA 3 mg	USO CUTÁNEO	CREMA	D07AC91 - Flupamesona	RECORDATI ESPAÑA, S.L.	0	0	0	0
+758813	51862	FLUTENAL CREMA	Flupamesona 3 mg/g crema	3 mg/g	Tubo	30	g	FLUPAMESONA 3 mg	USO CUTÁNEO	CREMA	D07AC91 - Flupamesona	RECORDATI ESPAÑA, S.L.	0	0	0	0
+758888	51864	FLUTENAL POMADA	Flupamesona 3 mg/g pomada	3 mg/g	Tubo	30	g	FLUPAMESONA 3 mg	USO CUTÁNEO	POMADA	D07AC91 - Flupamesona	RECORDATI ESPAÑA, S.L.	0	0	0	0

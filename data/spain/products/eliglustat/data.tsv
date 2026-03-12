@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-709844	114974001	CERDELGA 84 MG CAPSULAS DURAS	Eliglustat 84 mg cápsula	84 mg	Blister	56	cápsula	ELIGLUSTAT 84 mg	VÍA ORAL	CÁPSULA DURA	A16AX10 - Eliglustat	SANOFI B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+709844	114974001	CERDELGA 84 MG CAPSULAS DURAS	Eliglustat 84 mg cápsula	84 mg	Blister	56	cápsula	ELIGLUSTAT 84 mg	VÍA ORAL	CÁPSULA DURA	A16AX10 - Eliglustat	SANOFI B.V.	0	0	0	0

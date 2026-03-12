@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-732440	1191390002	INBRIJA 33 MG POLVO PARA INHALACION  CAPSULAS DURAS	Levodopa 33 mg/dosis inhalación pulmonar (polvo)	33 mg/dosis	Caja	92	cápsula	LEVODOPA 33 mg	VÍA INHALATORIA	POLVO PARA INHALACIÓN (CÁPSULA DURA)	N04BA01 - Levodopa	MERZ THERAPEUTICS GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+732440	1191390002	INBRIJA 33 MG POLVO PARA INHALACION  CAPSULAS DURAS	Levodopa 33 mg/dosis inhalación pulmonar (polvo)	33 mg/dosis	Caja	92	cápsula	LEVODOPA 33 mg	VÍA INHALATORIA	POLVO PARA INHALACIÓN (CÁPSULA DURA)	N04BA01 - Levodopa	MERZ THERAPEUTICS GMBH	0	0	0	0

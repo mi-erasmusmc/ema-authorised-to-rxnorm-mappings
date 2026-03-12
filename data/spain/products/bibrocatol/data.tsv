@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-733023	86633	POSIFORLID 20 MG/G POMADA OFTALMICA	Bibrocatol 20 mg/g pomada oftálmica	20 mg/g	Tubo	5	g	BIBROCATOL 20 mg	VÍA OFTÁLMICA	POMADA OFTÁLMICA	S01AX05 - Bibrocatol	BRILL PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+733023	86633	POSIFORLID 20 MG/G POMADA OFTALMICA	Bibrocatol 20 mg/g pomada oftálmica	20 mg/g	Tubo	5	g	BIBROCATOL 20 mg	VÍA OFTÁLMICA	POMADA OFTÁLMICA	S01AX05 - Bibrocatol	BRILL PHARMA S.L.	0	0	0	0

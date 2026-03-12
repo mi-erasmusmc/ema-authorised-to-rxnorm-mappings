@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-702944	53308	ALDACTACINE 25 mg/15 mg COMPRIMIDOS	Espironolactona/Altizida 25 mg/15 mg comprimido	25 mg/15 mg	Blister	40	comprimido	ESPIRONOLACTONA 25 mg|ALTIZIDA 15 mg	VÍA ORAL	COMPRIMIDO	C03EA04 - Altizida y agentes ahorradores de potasio	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+702944	53308	ALDACTACINE 25 mg/15 mg COMPRIMIDOS	Espironolactona/Altizida 25 mg/15 mg comprimido	25 mg/15 mg	Blister	40	comprimido	ESPIRONOLACTONA 25 mg|ALTIZIDA 15 mg	VÍA ORAL	COMPRIMIDO	C03EA04 - Altizida y agentes ahorradores de potasio	PFIZER S.L.	0	0	0	0

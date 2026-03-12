@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-796615	38061	NOVO-DERMOQUINONA 100 mg/g POMADA	Mequinol 100 mg/g pomada	100 mg/g	Frasco	20	g	MEQUINOL 100 mg	USO CUTÁNEO	POMADA	D11AX06 - Mequinol	LABORATORIOS ERN S.A.	0	0	0
-796623	44619	NOVO-DERMOQUINONA 200 mg/g POMADA	Mequinol 200 mg/g pomada	200 mg/g	Frasco	20	g	MEQUINOL 200 mg	USO CUTÁNEO	POMADA	D11AX06 - Mequinol	LABORATORIOS ERN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+796615	38061	NOVO-DERMOQUINONA 100 mg/g POMADA	Mequinol 100 mg/g pomada	100 mg/g	Frasco	20	g	MEQUINOL 100 mg	USO CUTÁNEO	POMADA	D11AX06 - Mequinol	LABORATORIOS ERN S.A.	0	0	0	0
+796623	44619	NOVO-DERMOQUINONA 200 mg/g POMADA	Mequinol 200 mg/g pomada	200 mg/g	Frasco	20	g	MEQUINOL 200 mg	USO CUTÁNEO	POMADA	D11AX06 - Mequinol	LABORATORIOS ERN S.A.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-789040	19681	UTAGAR 1 mg/2mg COMPRIMIDOS PARA CHUPAR	Benzocaína/Tirotricina 2 mg/1 mg comprimido bucodispersable/para chupar	2 mg/1 mg	Blister	20	comprimido	BENZOCAINA 2 mg|TIROTRICINA 1 mg	VÍA ORAL	COMPRIMIDO	R02AB - Antibioticos	URIACH AQUILEA OTC, S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+789040	19681	UTAGAR 1 mg/2mg COMPRIMIDOS PARA CHUPAR	Benzocaína/Tirotricina 2 mg/1 mg comprimido bucodispersable/para chupar	2 mg/1 mg	Blister	20	comprimido	BENZOCAINA 2 mg|TIROTRICINA 1 mg	VÍA ORAL	COMPRIMIDO	R02AB - Antibioticos	URIACH AQUILEA OTC, S.L.	0	0	0	0

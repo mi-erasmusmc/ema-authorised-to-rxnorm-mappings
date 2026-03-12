@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-965541	56720	MUCIPLAZMA 500 mg CAPSULAS DURAS	Metilcelulosa 500 mg cápsula	500 mg	Tarro	50	cápsula	METILCELULOSA 500 mg	VÍA ORAL	CÁPSULA DURA	A06AC06 - Metilcelulosa	LABORATORIOS SERRA PAMIES S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+965541	56720	MUCIPLAZMA 500 mg CAPSULAS DURAS	Metilcelulosa 500 mg cápsula	500 mg	Tarro	50	cápsula	METILCELULOSA 500 mg	VÍA ORAL	CÁPSULA DURA	A06AC06 - Metilcelulosa	LABORATORIOS SERRA PAMIES S.A.	0	0	0	0

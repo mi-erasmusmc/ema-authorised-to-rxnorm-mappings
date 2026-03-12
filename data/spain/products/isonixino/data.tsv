@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700657	53891	NIXYN HERMES 400 mg CAPSULAS	Isonixino 400 mg cápsula	400 mg	Blister	30	cápsula	ISONIXINO 400 mg	VÍA ORAL	CÁPSULA DURA	M01AX93 - Isonixina	TEOFARMA S.R.L.	0	0	0
-941229	53892	NIXYN HERMES 200 mg SUPOSITORIOS INFANTILES	Isonixino 200 mg supositorio	200 mg	Desconocido	12	supositorio	ISONIXINO 200 mg	VÍA RECTAL	SUPOSITORIO	M01AX93 - Isonixina	TEOFARMA S.R.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700657	53891	NIXYN HERMES 400 mg CAPSULAS	Isonixino 400 mg cápsula	400 mg	Blister	30	cápsula	ISONIXINO 400 mg	VÍA ORAL	CÁPSULA DURA	M01AX93 - Isonixina	TEOFARMA S.R.L.	0	0	0	0
+941229	53892	NIXYN HERMES 200 mg SUPOSITORIOS INFANTILES	Isonixino 200 mg supositorio	200 mg	Desconocido	12	supositorio	ISONIXINO 200 mg	VÍA RECTAL	SUPOSITORIO	M01AX93 - Isonixina	TEOFARMA S.R.L.	0	0	0	0

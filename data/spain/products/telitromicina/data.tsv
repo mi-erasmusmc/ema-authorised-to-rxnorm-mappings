@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-929091	01191001	KETEK 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Telitromicina 400 mg comprimido	400 mg	Blister	10	comprimido	TELITROMICINA 400 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	J01FA15 - Telitromicina	AVENTIS PHARMA S.A.R.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+929091	01191001	KETEK 400 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Telitromicina 400 mg comprimido	400 mg	Blister	10	comprimido	TELITROMICINA 400 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	J01FA15 - Telitromicina	AVENTIS PHARMA S.A.R.L.	0	0	0	0

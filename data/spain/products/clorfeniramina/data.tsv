@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-733907	36434	ANTIHISTAMINICO LLORENS COLIRIO	Clorfenamina 2,5 mg/ml colirio	2,5 mg/ml	Desconocido	5	ml	CLORFENAMINA MALEATO 2,5 mg	VÍA OFTÁLMICA	COLIRIO EN SOLUCIÓN	S01GX91 - Clorfenamina	LABORATORIOS LLORENS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+733907	36434	ANTIHISTAMINICO LLORENS COLIRIO	Clorfenamina 2,5 mg/ml colirio	2,5 mg/ml	Desconocido	5	ml	CLORFENAMINA MALEATO 2,5 mg	VÍA OFTÁLMICA	COLIRIO EN SOLUCIÓN	S01GX91 - Clorfenamina	LABORATORIOS LLORENS S.A.	0	0	0	0

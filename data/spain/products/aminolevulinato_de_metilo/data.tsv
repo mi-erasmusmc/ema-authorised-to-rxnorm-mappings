@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-803734	64968	METVIX 160 mg/g CREMA	Aminolevulinato de metilo 160 mg/g crema	160 mg/g	Tubo	2	g	AMINOLEVULINATO METILO 160 mg	USO CUTÁNEO	CREMA	L01XD03 - Aminolevulinato de metilo	LABORATORIOS GALDERMA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+803734	64968	METVIX 160 mg/g CREMA	Aminolevulinato de metilo 160 mg/g crema	160 mg/g	Tubo	2	g	AMINOLEVULINATO METILO 160 mg	USO CUTÁNEO	CREMA	L01XD03 - Aminolevulinato de metilo	LABORATORIOS GALDERMA S.A.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-908988	46534	ADALGUR 500 mg/2 mg COMPRIMIDOS	Paracetamol/Tiocolchicósido 500 mg/2 mg comprimido	500 mg/2 mg	Blister	30	comprimido	PARACETAMOL 500 mg|TIOCOLCHICOSIDO 2 mg	VÍA ORAL	COMPRIMIDO	M03BX55 - Tiocolchicosido, combinaciones con	TEOFARMA S.R.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+908988	46534	ADALGUR 500 mg/2 mg COMPRIMIDOS	Paracetamol/Tiocolchicósido 500 mg/2 mg comprimido	500 mg/2 mg	Blister	30	comprimido	PARACETAMOL 500 mg|TIOCOLCHICOSIDO 2 mg	VÍA ORAL	COMPRIMIDO	M03BX55 - Tiocolchicosido, combinaciones con	TEOFARMA S.R.L.	0	0	0	0

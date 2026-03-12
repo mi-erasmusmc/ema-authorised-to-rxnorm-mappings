@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-856567	54347	MAGNESIOBOI 48,62 mg COMPRIMIDOS	Magnesio lactato 48,62 mg comprimido	48,62 mg	Blister	50	comprimido	LACTATO MAGNESIO 48,62 mg	VÍA ORAL	COMPRIMIDO	A12CC06 - Lactato de magnesio	LABORATORIOS CINFA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+856567	54347	MAGNESIOBOI 48,62 mg COMPRIMIDOS	Magnesio lactato 48,62 mg comprimido	48,62 mg	Blister	50	comprimido	LACTATO MAGNESIO 48,62 mg	VÍA ORAL	COMPRIMIDO	A12CC06 - Lactato de magnesio	LABORATORIOS CINFA S.A.	0	0	0	0

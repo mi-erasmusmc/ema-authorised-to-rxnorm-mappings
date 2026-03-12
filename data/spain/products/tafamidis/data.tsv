@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-686211	11717001	VYNDAQEL 20 MG CAPSULAS BLANDAS	Tafamidis meglumina 20 mg cápsula	20 mg	Blister	30	cápsula	TAFAMIDIS MEGLUMINA 20 mg	VÍA ORAL	CÁPSULA BLANDA	N07XX08 - Tafamidis	PFIZER EUROPE MA EEIG	0	0	0
-728101	1110717003	VYNDAQEL 61 MG CAPSULAS BLANDAS	Tafamidis 61 mg cápsula	61 mg	Blister	30	cápsula	TAFAMIDIS 61 mg	VÍA ORAL	CÁPSULA BLANDA	N07XX08 - Tafamidis	PFIZER EUROPE MA EEIG	0	0	0
-729658	11717001IP	VYNDAQEL 20 MG CAPSULAS BLANDAS	Tafamidis meglumina 20 mg cápsula	20 mg	Blister	30	cápsula	TAFAMIDIS MEGLUMINA 20 mg	VÍA ORAL	CÁPSULA BLANDA	N07XX08 - Tafamidis	PFIZER EUROPE MA EEIG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+686211	11717001	VYNDAQEL 20 MG CAPSULAS BLANDAS	Tafamidis meglumina 20 mg cápsula	20 mg	Blister	30	cápsula	TAFAMIDIS MEGLUMINA 20 mg	VÍA ORAL	CÁPSULA BLANDA	N07XX08 - Tafamidis	PFIZER EUROPE MA EEIG	0	0	0	0
+728101	1110717003	VYNDAQEL 61 MG CAPSULAS BLANDAS	Tafamidis 61 mg cápsula	61 mg	Blister	30	cápsula	TAFAMIDIS 61 mg	VÍA ORAL	CÁPSULA BLANDA	N07XX08 - Tafamidis	PFIZER EUROPE MA EEIG	0	0	0	0
+729658	11717001IP	VYNDAQEL 20 MG CAPSULAS BLANDAS	Tafamidis meglumina 20 mg cápsula	20 mg	Blister	30	cápsula	TAFAMIDIS MEGLUMINA 20 mg	VÍA ORAL	CÁPSULA BLANDA	N07XX08 - Tafamidis	PFIZER EUROPE MA EEIG	0	0	0	0

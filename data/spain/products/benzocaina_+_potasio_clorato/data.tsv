@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-802496	37565	FARINGENILO	Benzocaína/Potasio clorato 10 mg/15 mg comprimido bucal/para chupar	10 mg/15 mg	Blister	20	comprimido	BENZOCAINA 10 mg|POTASIO CLORATO 15 mg	Vía bucal (buccal use)	COMPRIMIDO PARA CHUPAR	R02AD - Anestesicos locales	FAES FARMA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+802496	37565	FARINGENILO	Benzocaína/Potasio clorato 10 mg/15 mg comprimido bucal/para chupar	10 mg/15 mg	Blister	20	comprimido	BENZOCAINA 10 mg|POTASIO CLORATO 15 mg	Vía bucal (buccal use)	COMPRIMIDO PARA CHUPAR	R02AD - Anestesicos locales	FAES FARMA S.A.	0	0	0	0

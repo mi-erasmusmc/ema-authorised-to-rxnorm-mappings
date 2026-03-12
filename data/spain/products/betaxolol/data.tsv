@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-680470	61015	BETOPTIC SUSPENSIÓN 2,5 MG/ML COLIRIO EN SUSPENSIÓN	Betaxolol 2,5 mg/ml colirio	2,5 mg/ml	Envase cuentagotas	5	ml	BETAXOLOL HIDROCLORURO 2,5 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01ED02 - Betaxolol	IMMEDICA PHARMA AB	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+680470	61015	BETOPTIC SUSPENSIÓN 2,5 MG/ML COLIRIO EN SUSPENSIÓN	Betaxolol 2,5 mg/ml colirio	2,5 mg/ml	Envase cuentagotas	5	ml	BETAXOLOL HIDROCLORURO 2,5 mg	VÍA OFTÁLMICA	COLIRIO EN SUSPENSIÓN	S01ED02 - Betaxolol	IMMEDICA PHARMA AB	0	0	0	0

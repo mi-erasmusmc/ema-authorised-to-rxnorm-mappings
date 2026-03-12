@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-698799	113848001	ERIVEDGE 150 MG CAPSULAS DURAS	Vismodegib 150 mg cápsula	150 mg	Frasco	28	cápsula	VISMODEGIB 150 mg	VÍA ORAL	CÁPSULA DURA	L01XJ01 - Vismodegib	ROCHE REGISTRATION GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+698799	113848001	ERIVEDGE 150 MG CAPSULAS DURAS	Vismodegib 150 mg cápsula	150 mg	Frasco	28	cápsula	VISMODEGIB 150 mg	VÍA ORAL	CÁPSULA DURA	L01XJ01 - Vismodegib	ROCHE REGISTRATION GMBH	0	0	0	0

@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-707961	1151002001	LENVIMA 4 MG CAPSULAS DURAS	Lenvatinib 4 mg cápsula	4 mg	Blister	30	cápsula	LENVATINIB 4 mg	VÍA ORAL	CÁPSULA DURA	L01EX08 - Lenvatinib	EISAI GMBH	0	0	0
-707962	1151002002	LENVIMA 10 MG CAPSULAS DURAS	Lenvatinib 10 mg cápsula	10 mg	Blister	30	cápsula	LENVATINIB 10 mg	VÍA ORAL	CÁPSULA DURA	L01EX08 - Lenvatinib	EISAI GMBH	0	0	0
-713491	1161128002	KISPLYX 10 MG CAPSULAS DURAS	Lenvatinib 10 mg cápsula	10 mg	Blister	30	cápsula	LENVATINIB MESILATO 10 mg	VÍA ORAL	CÁPSULA DURA	L01EX08 - Lenvatinib	EISAI GMBH	0	0	0
-713492	1161128001	KISPLYX 4 MG CAPSULAS DURAS	Lenvatinib 4 mg cápsula	4 mg	Blister	30	cápsula	LENVATINIB MESILATO 4 mg	VÍA ORAL	CÁPSULA DURA	L01EX08 - Lenvatinib	EISAI GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+707961	1151002001	LENVIMA 4 MG CAPSULAS DURAS	Lenvatinib 4 mg cápsula	4 mg	Blister	30	cápsula	LENVATINIB 4 mg	VÍA ORAL	CÁPSULA DURA	L01EX08 - Lenvatinib	EISAI GMBH	0	0	0	0
+707962	1151002002	LENVIMA 10 MG CAPSULAS DURAS	Lenvatinib 10 mg cápsula	10 mg	Blister	30	cápsula	LENVATINIB 10 mg	VÍA ORAL	CÁPSULA DURA	L01EX08 - Lenvatinib	EISAI GMBH	0	0	0	0
+713491	1161128002	KISPLYX 10 MG CAPSULAS DURAS	Lenvatinib 10 mg cápsula	10 mg	Blister	30	cápsula	LENVATINIB MESILATO 10 mg	VÍA ORAL	CÁPSULA DURA	L01EX08 - Lenvatinib	EISAI GMBH	0	0	0	0
+713492	1161128001	KISPLYX 4 MG CAPSULAS DURAS	Lenvatinib 4 mg cápsula	4 mg	Blister	30	cápsula	LENVATINIB MESILATO 4 mg	VÍA ORAL	CÁPSULA DURA	L01EX08 - Lenvatinib	EISAI GMBH	0	0	0	0

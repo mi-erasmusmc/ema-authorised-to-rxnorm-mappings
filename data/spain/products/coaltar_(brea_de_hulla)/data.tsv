@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-673988	61390	TARMED 40 MG/G CHAMPÚ	Coaltar (Brea de hulla) 40 mg/ml champú	40 mg/ml	Frasco	150	ml	BREA HULLA 40 mg	USO CUTÁNEO	CHAMPÚ	D05AA - Alquitranes	BILLEV PHARMA APS	0	0	0
-702482	3612280	TARMED solucion	Coaltar (Brea de hulla) 40 mg/ml champú	40 mg/ml	Frasco	150	ml	BREA HULLA 40 mg	USO CUTÁNEO	CHAMPÚ	D11AC30 - Champues Medicinales. Otros	LABORATORIOS FARMACEUTICOS STIEFEL (PORTUGAL) LDA.	0	0	0
-735100	64512	EXOREX  EMULSION	Coaltar (Brea de hulla) 10 mg/g emulsión cutánea	10 mg/g	Frasco	100	ml	BREA HULLA 10 mg	USO CUTÁNEO	LÍQUIDO CUTÁNEO	D05AA - Alquitranes	TOSARA PHARMA LIMITED	0	0	0
-735118	64512	EXOREX  EMULSION	Coaltar (Brea de hulla) 10 mg/g emulsión cutánea	10 mg/g	Frasco	250	ml	BREA HULLA 10 mg	USO CUTÁNEO	LÍQUIDO CUTÁNEO	D05AA - Alquitranes	TOSARA PHARMA LIMITED	0	0	0
-786160	62499	PIROXGEL 6 mg/ml CHAMPU	Coaltar (Brea de hulla) 6 mg/ml champú	6 mg/ml	Frasco	200	ml	BREA HULLA 6 mg	USO CUTÁNEO	CHAMPÚ	D11AC30 - Champues Medicinales. Otros	ISDIN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+673988	61390	TARMED 40 MG/G CHAMPÚ	Coaltar (Brea de hulla) 40 mg/ml champú	40 mg/ml	Frasco	150	ml	BREA HULLA 40 mg	USO CUTÁNEO	CHAMPÚ	D05AA - Alquitranes	BILLEV PHARMA APS	0	0	0	0
+702482	3612280	TARMED solucion	Coaltar (Brea de hulla) 40 mg/ml champú	40 mg/ml	Frasco	150	ml	BREA HULLA 40 mg	USO CUTÁNEO	CHAMPÚ	D11AC30 - Champues Medicinales. Otros	LABORATORIOS FARMACEUTICOS STIEFEL (PORTUGAL) LDA.	0	0	0	0
+735100	64512	EXOREX  EMULSION	Coaltar (Brea de hulla) 10 mg/g emulsión cutánea	10 mg/g	Frasco	100	ml	BREA HULLA 10 mg	USO CUTÁNEO	LÍQUIDO CUTÁNEO	D05AA - Alquitranes	TOSARA PHARMA LIMITED	0	0	0	0
+735118	64512	EXOREX  EMULSION	Coaltar (Brea de hulla) 10 mg/g emulsión cutánea	10 mg/g	Frasco	250	ml	BREA HULLA 10 mg	USO CUTÁNEO	LÍQUIDO CUTÁNEO	D05AA - Alquitranes	TOSARA PHARMA LIMITED	0	0	0	0
+786160	62499	PIROXGEL 6 mg/ml CHAMPU	Coaltar (Brea de hulla) 6 mg/ml champú	6 mg/ml	Frasco	200	ml	BREA HULLA 6 mg	USO CUTÁNEO	CHAMPÚ	D11AC30 - Champues Medicinales. Otros	ISDIN S.A.	0	0	0	0

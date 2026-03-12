@@ -1,7 +1,7 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-706651	79911	SOOLANTRA 10 MG/G CREMA	Ivermectina 10 mg/g crema	10 mg/g	Tubo	30	g	IVERMECTINA 10 mg	USO CUTÁNEO	CREMA	D11AX22 - Ivermectina	LABORATORIOS GALDERMA S.A.	0	0	0
-730253	85728	IVERGALEN 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	4	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	GALENICUM DERMA S.L.U.	0	0	0
-731884	86297	IVERCARE 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	4	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
-761806	88545	IVERMECTINA TEVA 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	4	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	TEVA B.V.	0	0	0
-765457	88545	IVERMECTINA TEVA 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	6	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	TEVA B.V.	0	0	0
-766702	90070	IVERTILENE 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	4	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	GLENMARK ARZNEIMITTEL GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+706651	79911	SOOLANTRA 10 MG/G CREMA	Ivermectina 10 mg/g crema	10 mg/g	Tubo	30	g	IVERMECTINA 10 mg	USO CUTÁNEO	CREMA	D11AX22 - Ivermectina	LABORATORIOS GALDERMA S.A.	0	0	0	0
+730253	85728	IVERGALEN 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	4	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	GALENICUM DERMA S.L.U.	0	1	0	0
+731884	86297	IVERCARE 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	4	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	1	0	0
+761806	88545	IVERMECTINA TEVA 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	4	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	TEVA B.V.	0	1	0	0
+765457	88545	IVERMECTINA TEVA 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	6	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	TEVA B.V.	0	1	0	0
+766702	90070	IVERTILENE 3 MG COMPRIMIDOS EFG	Ivermectina 3 mg comprimido	3 mg	Blister	4	comprimido	IVERMECTINA 3 mg	VÍA ORAL	COMPRIMIDO	P02CF01 - Ivermectina	GLENMARK ARZNEIMITTEL GMBH	0	1	0	0

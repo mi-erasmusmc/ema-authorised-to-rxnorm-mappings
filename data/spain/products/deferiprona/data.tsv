@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-664101	99108003	FERRIPROX 100 MG/ML SOLUCION ORAL	Deferiprona 100 mg/ml solución/suspensión oral	100 mg/ml	Frasco	500	ml	DEFERIPRONA 100 mg	VÍA ORAL	SOLUCIÓN ORAL	V03AC02 - Deferiprona	CHIESI FARMACEUTICI S.P.A.	0	0	0
-821041	99108001	FERRIPROX 500 mg COMPRIMIDOS CON CUBIERTA PELICULAR	Deferiprona 500 mg comprimido	500 mg	Frasco	100	comprimido	DEFERIPRONA 500 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	V03AC02 - Deferiprona	CHIESI FARMACEUTICI S.P.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+664101	99108003	FERRIPROX 100 MG/ML SOLUCION ORAL	Deferiprona 100 mg/ml solución/suspensión oral	100 mg/ml	Frasco	500	ml	DEFERIPRONA 100 mg	VÍA ORAL	SOLUCIÓN ORAL	V03AC02 - Deferiprona	CHIESI FARMACEUTICI S.P.A.	0	0	0	0
+821041	99108001	FERRIPROX 500 mg COMPRIMIDOS CON CUBIERTA PELICULAR	Deferiprona 500 mg comprimido	500 mg	Frasco	100	comprimido	DEFERIPRONA 500 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	V03AC02 - Deferiprona	CHIESI FARMACEUTICI S.P.A.	0	0	0	0

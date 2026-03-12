@@ -1,9 +1,9 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-651542	66899	LICOFORTE 40 mg/g GEL	Hidroquinona 40 mg/g gel	40 mg/g	Tubo	30	g	HIDROQUINONA 40 mg	USO CUTÁNEO	GEL	D11AX11 - Hidroquinona	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
-651543	66900	DESPIGMENTAL  4% GEL	Hidroquinona 40 mg/g gel	40 mg/g	Tubo	30	g	HIDROQUINONA 40 mg	USO CUTÁNEO	GEL	D11AX11 - Hidroquinona	KERN PHARMA S.L.	0	0	0
-668376	63558	LICOSTRATA 20 mg/g GEL	Hidroquinona 20 mg/g gel	20 mg/g	Tubo	30	g	HIDROQUINONA 20 mg	USO CUTÁNEO	GEL	D11AX11 - Hidroquinona	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
-713508	81390	HQUIN 40 MG/G CREMA	Hidroquinona 40 mg/g crema	40 mg/g	Tubo	30	g	HIDROQUINONA 40 mg	USO CUTÁNEO	CREMA	D11AX11 - Hidroquinona	GALENICUM DERMA S.L.U.	0	0	0
-729152	64736	PIGMENTASA 40 MG/G CREMA	Hidroquinona 40 mg/g gel	40 mg/ml	Tubo	25	g	HIDROQUINONA 40 mg	USO CUTÁNEO	CREMA	D11AX11 - Hidroquinona	LABORATORIOS VINAS S.A.	0	0	0
-762922	63695	SOLUMELAN 20 mg/g GEL	Hidroquinona 20 mg/g gel	20 mg/g	Tubo	30	g	HIDROQUINONA 20 mg	USO CUTÁNEO	GEL	D11AX11 - Hidroquinona	ARAFARMA GROUP S.A.	0	0	0
-853424	63945	NADONA 20 mg/g CREMA	Hidroquinona 20 mg/g crema	20 mg/g	Tubo	30	g	HIDROQUINONA 20 mg	USO CUTÁNEO	CREMA	D11AX11 - Hidroquinona	LABORATORIO REIG JOFRE, S.A.	0	0	0
-909333	64023	MELANASA 20 mg/g CREMA	Hidroquinona 20 mg/g gel	20 mg/g	Tubo	15	g	HIDROQUINONA 20 mg	USO CUTÁNEO	CREMA	D11AX11 - Hidroquinona	LABORATORIOS VINAS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+651542	66899	LICOFORTE 40 mg/g GEL	Hidroquinona 40 mg/g gel	40 mg/g	Tubo	30	g	HIDROQUINONA 40 mg	USO CUTÁNEO	GEL	D11AX11 - Hidroquinona	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0	0
+651543	66900	DESPIGMENTAL  4% GEL	Hidroquinona 40 mg/g gel	40 mg/g	Tubo	30	g	HIDROQUINONA 40 mg	USO CUTÁNEO	GEL	D11AX11 - Hidroquinona	KERN PHARMA S.L.	0	0	0	0
+668376	63558	LICOSTRATA 20 mg/g GEL	Hidroquinona 20 mg/g gel	20 mg/g	Tubo	30	g	HIDROQUINONA 20 mg	USO CUTÁNEO	GEL	D11AX11 - Hidroquinona	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0	0
+713508	81390	HQUIN 40 MG/G CREMA	Hidroquinona 40 mg/g crema	40 mg/g	Tubo	30	g	HIDROQUINONA 40 mg	USO CUTÁNEO	CREMA	D11AX11 - Hidroquinona	GALENICUM DERMA S.L.U.	0	0	0	0
+729152	64736	PIGMENTASA 40 MG/G CREMA	Hidroquinona 40 mg/g gel	40 mg/ml	Tubo	25	g	HIDROQUINONA 40 mg	USO CUTÁNEO	CREMA	D11AX11 - Hidroquinona	LABORATORIOS VINAS S.A.	0	0	0	0
+762922	63695	SOLUMELAN 20 mg/g GEL	Hidroquinona 20 mg/g gel	20 mg/g	Tubo	30	g	HIDROQUINONA 20 mg	USO CUTÁNEO	GEL	D11AX11 - Hidroquinona	ARAFARMA GROUP S.A.	0	0	0	0
+853424	63945	NADONA 20 mg/g CREMA	Hidroquinona 20 mg/g crema	20 mg/g	Tubo	30	g	HIDROQUINONA 20 mg	USO CUTÁNEO	CREMA	D11AX11 - Hidroquinona	LABORATORIO REIG JOFRE, S.A.	0	0	0	0
+909333	64023	MELANASA 20 mg/g CREMA	Hidroquinona 20 mg/g gel	20 mg/g	Tubo	15	g	HIDROQUINONA 20 mg	USO CUTÁNEO	CREMA	D11AX11 - Hidroquinona	LABORATORIOS VINAS S.A.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-795344	64256	UTAMUCOL 2,5 MG/ML SUSPENSION ORAL	Brovanexina 2,5 mg/ml solución/suspensión oral	2,5 mg/ml	Frasco	200	ml	BROVANEXINA HIDROCLORURO 2,5 mg	VÍA ORAL	SUSPENSIÓN ORAL	R05CB - Mucoliticos	URIACH CONSUMER HEALTHCARE S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+795344	64256	UTAMUCOL 2,5 MG/ML SUSPENSION ORAL	Brovanexina 2,5 mg/ml solución/suspensión oral	2,5 mg/ml	Frasco	200	ml	BROVANEXINA HIDROCLORURO 2,5 mg	VÍA ORAL	SUSPENSIÓN ORAL	R05CB - Mucoliticos	URIACH CONSUMER HEALTHCARE S.L.	0	0	0	0

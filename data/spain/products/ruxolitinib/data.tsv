@@ -1,8 +1,8 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-698272	112773005	JAKAVI 5 MG COMPRIMIDOS	Ruxolitinib 5 mg comprimido	5 mg	Blister	56	comprimido	RUXOLITINIB 5 mg	VÍA ORAL	COMPRIMIDO	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0
-698273	112773008	JAKAVI 15 MG COMPRIMIDOS	Ruxolitinib 15 mg comprimido	15 mg	Blister	56	comprimido	RUXOLITINIB 15 mg	VÍA ORAL	COMPRIMIDO	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0
-698274	112773011	JAKAVI 20 MG COMPRIMIDOS	Ruxolitinib 20 mg comprimido	20 mg	Blister	56	comprimido	RUXOLITINIB 20 mg	VÍA ORAL	COMPRIMIDO	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0
-706636	112773015	JAKAVI 10 MG COMPRIMIDOS	Ruxolitinib 10 mg comprimido	10 mg	Blister	56	comprimido	RUXOLITINIB 10 mg	VÍA ORAL	COMPRIMIDO	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0
-762978	1231726001	OPZELURA 15 MG/G CREMA	Ruxolitinib 15 mg/g crema	15 mg/g	Tubo	100	g	RUXOLITINIB FOSFATO 15 mg	USO CUTÁNEO	CREMA	D11AH09 - Ruxolitinib	INCYTE BIOSCIENCES DISTRIBUTION B.V.	0	0	0
-764336	1231726001	OPZELURA 15 MG/G CREMA	Ruxolitinib 15 mg/g crema	15 mg/g	Tubo	100	g	RUXOLITINIB FOSFATO 15 mg	USO CUTÁNEO	CREMA	D11AH09 - Ruxolitinib	INCYTE BIOSCIENCES DISTRIBUTION B.V.	0	0	0
-768174	112773017	JAKAVI 5 MG/ML SOLUCION ORAL	Ruxolitinib 5 mg/ml solución/suspensión oral	5 mg/ml	Frasco	60	ml	RUXOLITINIB FOSFATO 5 mg	VÍA ORAL	SOLUCIÓN ORAL	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+698272	112773005	JAKAVI 5 MG COMPRIMIDOS	Ruxolitinib 5 mg comprimido	5 mg	Blister	56	comprimido	RUXOLITINIB 5 mg	VÍA ORAL	COMPRIMIDO	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+698273	112773008	JAKAVI 15 MG COMPRIMIDOS	Ruxolitinib 15 mg comprimido	15 mg	Blister	56	comprimido	RUXOLITINIB 15 mg	VÍA ORAL	COMPRIMIDO	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+698274	112773011	JAKAVI 20 MG COMPRIMIDOS	Ruxolitinib 20 mg comprimido	20 mg	Blister	56	comprimido	RUXOLITINIB 20 mg	VÍA ORAL	COMPRIMIDO	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+706636	112773015	JAKAVI 10 MG COMPRIMIDOS	Ruxolitinib 10 mg comprimido	10 mg	Blister	56	comprimido	RUXOLITINIB 10 mg	VÍA ORAL	COMPRIMIDO	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0	0
+762978	1231726001	OPZELURA 15 MG/G CREMA	Ruxolitinib 15 mg/g crema	15 mg/g	Tubo	100	g	RUXOLITINIB FOSFATO 15 mg	USO CUTÁNEO	CREMA	D11AH09 - Ruxolitinib	INCYTE BIOSCIENCES DISTRIBUTION B.V.	0	0	0	0
+764336	1231726001	OPZELURA 15 MG/G CREMA	Ruxolitinib 15 mg/g crema	15 mg/g	Tubo	100	g	RUXOLITINIB FOSFATO 15 mg	USO CUTÁNEO	CREMA	D11AH09 - Ruxolitinib	INCYTE BIOSCIENCES DISTRIBUTION B.V.	0	0	0	0
+768174	112773017	JAKAVI 5 MG/ML SOLUCION ORAL	Ruxolitinib 5 mg/ml solución/suspensión oral	5 mg/ml	Frasco	60	ml	RUXOLITINIB FOSFATO 5 mg	VÍA ORAL	SOLUCIÓN ORAL	L01EJ01 - Ruxolitinib	NOVARTIS EUROPHARM LIMITED	0	0	0	0

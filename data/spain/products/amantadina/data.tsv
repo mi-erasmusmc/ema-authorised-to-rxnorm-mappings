@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-722701	44541	AMANTADINE LEVEL 100 mg CAPSULAS DURAS	Amantadina 100 mg cápsula	100 mg	Blister	20	cápsula	AMANTADINA HIDROCLORURO 100 mg	VÍA ORAL	CÁPSULA DURA	N04BB01 - Amantadina	LABORATORIOS ERN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+722701	44541	AMANTADINE LEVEL 100 mg CAPSULAS DURAS	Amantadina 100 mg cápsula	100 mg	Blister	20	cápsula	AMANTADINA HIDROCLORURO 100 mg	VÍA ORAL	CÁPSULA DURA	N04BB01 - Amantadina	LABORATORIOS ERN S.A.	0	0	0	0

@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-605873	25670	SINTROM 4 mg COMPRIMIDOS	Acenocumarol 4 mg comprimido	4 mg	Blister	500	comprimido	ACENOCUMAROL 4 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	MERUS LABS LUXCO II S.À.R.L.	0	0	0
-654177	58994	SINTROM 1 mg COMPRIMIDOS	Acenocumarol 1 mg comprimido	1 mg	Blister	60	comprimido	ACENOCUMAROL 1 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	MERUS LABS LUXCO II S.À.R.L.	0	0	0
-654179	25670	SINTROM 4 mg COMPRIMIDOS	Acenocumarol 4 mg comprimido	4 mg	Blister	20	comprimido	ACENOCUMAROL 4 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	MERUS LABS LUXCO II S.À.R.L.	0	0	0
-759184	88278	ACENOCUMAROL AUROVITAS 1 MG COMPRIMIDOS EFG	Acenocumarol 1 mg comprimido	1 mg	Blister	60	comprimido	ACENOCUMAROL 1 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	AUROVITAS SPAIN, S.A.U.	0	0	0
-759289	88315	ACENOCUMAROL AUROVITAS 4 MG COMPRIMIDOS EFG	Acenocumarol 4 mg comprimido	4 mg	Blister	20	comprimido	ACENOCUMAROL 4 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	AUROVITAS SPAIN, S.A.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+605873	25670	SINTROM 4 mg COMPRIMIDOS	Acenocumarol 4 mg comprimido	4 mg	Blister	500	comprimido	ACENOCUMAROL 4 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	MERUS LABS LUXCO II S.À.R.L.	0	0	0	0
+654177	58994	SINTROM 1 mg COMPRIMIDOS	Acenocumarol 1 mg comprimido	1 mg	Blister	60	comprimido	ACENOCUMAROL 1 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	MERUS LABS LUXCO II S.À.R.L.	0	0	0	0
+654179	25670	SINTROM 4 mg COMPRIMIDOS	Acenocumarol 4 mg comprimido	4 mg	Blister	20	comprimido	ACENOCUMAROL 4 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	MERUS LABS LUXCO II S.À.R.L.	0	0	0	0
+759184	88278	ACENOCUMAROL AUROVITAS 1 MG COMPRIMIDOS EFG	Acenocumarol 1 mg comprimido	1 mg	Blister	60	comprimido	ACENOCUMAROL 1 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	AUROVITAS SPAIN, S.A.U.	0	1	0	0
+759289	88315	ACENOCUMAROL AUROVITAS 4 MG COMPRIMIDOS EFG	Acenocumarol 4 mg comprimido	4 mg	Blister	20	comprimido	ACENOCUMAROL 4 mg	VÍA ORAL	COMPRIMIDO	B01AA07 - Acenocumarol	AUROVITAS SPAIN, S.A.U.	0	1	0	0

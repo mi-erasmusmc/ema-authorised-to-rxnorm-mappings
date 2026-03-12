@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-758029	1211586001	VORAXAZE 1.000 UNIDADES POLVO PARA SOLUCION INYECTABLE	Glucarpidasa 1.000 U inyectable	1.000 U	Vial	1	vial para inyección	GLUCARPIDASA 1000 U	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	V03AF09 - Glucarpidasa	SERB	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+758029	1211586001	VORAXAZE 1.000 UNIDADES POLVO PARA SOLUCION INYECTABLE	Glucarpidasa 1.000 U inyectable	1.000 U	Vial	1	vial para inyección	GLUCARPIDASA 1000 U	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN INYECTABLE	V03AF09 - Glucarpidasa	SERB	0	0	0	0

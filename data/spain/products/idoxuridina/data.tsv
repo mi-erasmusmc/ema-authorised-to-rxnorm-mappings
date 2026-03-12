@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-725192	58135	VIREXEN SOLUCION 40%	Idoxuridina 400 mg/ml líquido uso tópico	400 mg/ml	Frasco	5	ml	IDOXURIDINA 400 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D06BB01 - Idoxuridina	LABORATORIOS VINAS S.A.	0	0	0
-725200	51201	VIREXEN SOLUCION 10%	Idoxuridina 100 mg/ml líquido uso tópico	100 mg/ml	Frasco	5	ml	IDOXURIDINA 100 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D06BB01 - Idoxuridina	LABORATORIOS VINAS S.A.	0	0	0
-725218	51202	VIREXEN SOLUCION 2%	Idoxuridina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	5	ml	IDOXURIDINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D06BB01 - Idoxuridina	LABORATORIOS VINAS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+725192	58135	VIREXEN SOLUCION 40%	Idoxuridina 400 mg/ml líquido uso tópico	400 mg/ml	Frasco	5	ml	IDOXURIDINA 400 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D06BB01 - Idoxuridina	LABORATORIOS VINAS S.A.	0	0	0	0
+725200	51201	VIREXEN SOLUCION 10%	Idoxuridina 100 mg/ml líquido uso tópico	100 mg/ml	Frasco	5	ml	IDOXURIDINA 100 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D06BB01 - Idoxuridina	LABORATORIOS VINAS S.A.	0	0	0	0
+725218	51202	VIREXEN SOLUCION 2%	Idoxuridina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	5	ml	IDOXURIDINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D06BB01 - Idoxuridina	LABORATORIOS VINAS S.A.	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-961789	56430	DEXIDE 500 mg CAPSULAS	Dietilaminoetil dextran 500 mg cápsula	500 mg	Blister	50	cápsula	DIETILAMINOETIL DEXTRANO HIDROCLORURO 500 mg	VÍA ORAL	CÁPSULA DURA	C10AC03 - Colextran	ROTTAPHARM S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+961789	56430	DEXIDE 500 mg CAPSULAS	Dietilaminoetil dextran 500 mg cápsula	500 mg	Blister	50	cápsula	DIETILAMINOETIL DEXTRANO HIDROCLORURO 500 mg	VÍA ORAL	CÁPSULA DURA	C10AC03 - Colextran	ROTTAPHARM S.L.	0	0	0	0

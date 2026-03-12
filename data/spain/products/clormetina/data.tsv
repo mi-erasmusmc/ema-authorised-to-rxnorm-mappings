@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-715777	1161171001	LEDAGA 160 MICROGRAMOS/G GEL	Clormetina 160 microgramos/g gel	160 microgramos/ml	Tubo	60	g	CLORMETINA 160 microgramos	USO CUTÁNEO	GEL	L01AA05 - Clormetina	HELSINN BIREX PHARMACEUTICALS LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+715777	1161171001	LEDAGA 160 MICROGRAMOS/G GEL	Clormetina 160 microgramos/g gel	160 microgramos/ml	Tubo	60	g	CLORMETINA 160 microgramos	USO CUTÁNEO	GEL	L01AA05 - Clormetina	HELSINN BIREX PHARMACEUTICALS LIMITED	0	0	0	0

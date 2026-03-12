@@ -1,8 +1,8 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-782425	41346	MERBROMINA SERRA	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	15	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK - Productos mercuriales	LABORATORIOS SERRA PAMIES S.A.	0	0	0
-785576	49319	MERCROMINA FILM 20 MG/ML SOLUCIÓN CUTÁNEA	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	10	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LAINCO S.A.	0	0	0
-785584	49319	MERCROMINA FILM 20 MG/ML SOLUCIÓN CUTÁNEA	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	30	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LAINCO S.A.	0	0	0
-785691	45419	MERCUROCROMO PEREZ GIMENEZ	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	100	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LABORATORIOS PEREZ GIMENEZ S.A.	0	0	0
-785709	45419	MERCUROCROMO PEREZ GIMENEZ	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	25	ml	MERBROMINA 25 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LABORATORIOS PEREZ GIMENEZ S.A.	0	0	0
-949826	49319	MERCROMINA FILM 20 MG/ML SOLUCIÓN CUTÁNEA	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Envase cuentagotas	250	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LAINCO S.A.	0	0	0
-967042	56844	MERCUROCROMO ARAFARMA GROUP	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Desconocido	30	ml	MERCUROCROMO 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK - Productos mercuriales	ARAFARMA GROUP S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+782425	41346	MERBROMINA SERRA	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	15	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK - Productos mercuriales	LABORATORIOS SERRA PAMIES S.A.	0	0	0	0
+785576	49319	MERCROMINA FILM 20 MG/ML SOLUCIÓN CUTÁNEA	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	10	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LAINCO S.A.	0	0	0	0
+785584	49319	MERCROMINA FILM 20 MG/ML SOLUCIÓN CUTÁNEA	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	30	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LAINCO S.A.	0	0	0	0
+785691	45419	MERCUROCROMO PEREZ GIMENEZ	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	100	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LABORATORIOS PEREZ GIMENEZ S.A.	0	0	0	0
+785709	45419	MERCUROCROMO PEREZ GIMENEZ	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Frasco	25	ml	MERBROMINA 25 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LABORATORIOS PEREZ GIMENEZ S.A.	0	0	0	0
+949826	49319	MERCROMINA FILM 20 MG/ML SOLUCIÓN CUTÁNEA	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Envase cuentagotas	250	ml	MERBROMINA 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK04 - Merbromina	LAINCO S.A.	0	0	0	0
+967042	56844	MERCUROCROMO ARAFARMA GROUP	Merbromina 20 mg/ml líquido uso tópico	20 mg/ml	Desconocido	30	ml	MERCUROCROMO 20 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D08AK - Productos mercuriales	ARAFARMA GROUP S.A.	0	0	0	0

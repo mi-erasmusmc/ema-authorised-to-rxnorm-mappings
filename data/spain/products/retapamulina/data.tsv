@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-659238	07390002	ALTARGO 1 % POMADA	Retapamulina 10 mg/g pomada	10 mg/g	Tubo	5	g	RETAPAMULINA 10 mg	USO CUTÁNEO	POMADA	D06AX13 - Retapamulina	GLAXO GROUP LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+659238	07390002	ALTARGO 1 % POMADA	Retapamulina 10 mg/g pomada	10 mg/g	Tubo	5	g	RETAPAMULINA 10 mg	USO CUTÁNEO	POMADA	D06AX13 - Retapamulina	GLAXO GROUP LIMITED	0	0	0	0

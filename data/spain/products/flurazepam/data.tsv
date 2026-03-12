@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-851451	50234	DORMODOR 30 mg CAPSULAS DURAS	Flurazepam 30 mg cápsula	30 mg	Blister	30	cápsula	FLURAZEPAM HIDROCLORURO 30 mg	VÍA ORAL	CÁPSULA DURA	N05CD01 - Flurazepam	VIATRIS HEALTHCARE LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+851451	50234	DORMODOR 30 mg CAPSULAS DURAS	Flurazepam 30 mg cápsula	30 mg	Blister	30	cápsula	FLURAZEPAM HIDROCLORURO 30 mg	VÍA ORAL	CÁPSULA DURA	N05CD01 - Flurazepam	VIATRIS HEALTHCARE LIMITED	0	0	0	0

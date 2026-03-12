@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-700705	41198	TERRAMICINA POMADA OFTALMICA ESTERIL	Oxitetraciclina 10 mg/g pomada oftálmica	10 mg/g	Tubo	3,5	g	OXITETRACICLINA HIDROCLORURO 10 mg	VÍA OFTÁLMICA	POMADA OFTÁLMICA	S01AA04 - Oxitetraciclina	FARMASIERRA LABORATORIOS S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+700705	41198	TERRAMICINA POMADA OFTALMICA ESTERIL	Oxitetraciclina 10 mg/g pomada oftálmica	10 mg/g	Tubo	3,5	g	OXITETRACICLINA HIDROCLORURO 10 mg	VÍA OFTÁLMICA	POMADA OFTÁLMICA	S01AA04 - Oxitetraciclina	FARMASIERRA LABORATORIOS S.L.	0	0	0	0

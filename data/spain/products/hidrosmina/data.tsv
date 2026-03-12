@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-754291	57089	VENOLEP 200 MG CÁPSULAS DURAS	Hidrosmina 200 mg cápsula	200 mg	Blister	60	cápsula	HIDROSMINA 200 mg	VÍA ORAL	CÁPSULA DURA	C05CA05 - Hidrosmina	FAES FARMA S.A.	0	0	0
-965376	56707	VENOSMIL 200 mg CAPSULAS	Hidrosmina 200 mg cápsula	200 mg	Blister	60	cápsula	HIDROSMINA 200 mg	VÍA ORAL	CÁPSULA DURA	C05CA05 - Hidrosmina	FAES FARMA S.A.	0	0	0
-999045	56709	VENOSMIL 20 mg/g GEL	Hidrosmina 20 mg/g gel	20 mg/g	Tubo	60	g	HIDROSMINA 20 mg	USO CUTÁNEO	GEL	C05CA05 - Hidrosmina	FAES FARMA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+754291	57089	VENOLEP 200 MG CÁPSULAS DURAS	Hidrosmina 200 mg cápsula	200 mg	Blister	60	cápsula	HIDROSMINA 200 mg	VÍA ORAL	CÁPSULA DURA	C05CA05 - Hidrosmina	FAES FARMA S.A.	0	0	0	0
+965376	56707	VENOSMIL 200 mg CAPSULAS	Hidrosmina 200 mg cápsula	200 mg	Blister	60	cápsula	HIDROSMINA 200 mg	VÍA ORAL	CÁPSULA DURA	C05CA05 - Hidrosmina	FAES FARMA S.A.	0	0	0	0
+999045	56709	VENOSMIL 20 mg/g GEL	Hidrosmina 20 mg/g gel	20 mg/g	Tubo	60	g	HIDROSMINA 20 mg	USO CUTÁNEO	GEL	C05CA05 - Hidrosmina	FAES FARMA S.A.	0	0	0	0

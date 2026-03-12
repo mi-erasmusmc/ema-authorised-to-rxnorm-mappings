@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-665780	08502001	MEPACT 4 mg POLVO PARA SUSPENSION PARA PERFUSION	Mifamurtida 4 mg inyectable perfusión	4 mg	Vial	1	vial para inyección	MIFAMURTIDA 4 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN PARA PERFUSIÓN	L03AX15 - Mifamurtida	ESTEVE PHARMACEUTICALS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+665780	08502001	MEPACT 4 mg POLVO PARA SUSPENSION PARA PERFUSION	Mifamurtida 4 mg inyectable perfusión	4 mg	Vial	1	vial para inyección	MIFAMURTIDA 4 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN PARA PERFUSIÓN	L03AX15 - Mifamurtida	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0

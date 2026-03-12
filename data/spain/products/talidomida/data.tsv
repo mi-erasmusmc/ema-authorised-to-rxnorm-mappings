@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-728515	85082	TALIDOMIDA ACCORD 50 MG CAPSULAS DURAS EFG	Talidomida 50 mg cápsula	50 mg	Blister	28	cápsula	TALIDOMIDA 50 mg	VÍA ORAL	CÁPSULA DURA	L04AX02 - Talidomida	ACCORD HEALTHCARE S.L.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+728515	85082	TALIDOMIDA ACCORD 50 MG CAPSULAS DURAS EFG	Talidomida 50 mg cápsula	50 mg	Blister	28	cápsula	TALIDOMIDA 50 mg	VÍA ORAL	CÁPSULA DURA	L04AX02 - Talidomida	ACCORD HEALTHCARE S.L.U.	0	1	0	0

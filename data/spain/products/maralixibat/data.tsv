@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-762407	1221704001	LIVMARLI 9,5 MG/ML SOLUCION ORAL	Maralixibat 9,5 mg/ml solución/suspensión oral	9,5 mg/ml	Frasco	30	ml	MARALIXIBAT CLORURO DE 9,5 mg	VÍA ORAL	SOLUCIÓN ORAL	A05AX04 - cloruro de maralixibat	MIRUM PHARMACEUTICALS INTERNATIONAL B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+762407	1221704001	LIVMARLI 9,5 MG/ML SOLUCION ORAL	Maralixibat 9,5 mg/ml solución/suspensión oral	9,5 mg/ml	Frasco	30	ml	MARALIXIBAT CLORURO DE 9,5 mg	VÍA ORAL	SOLUCIÓN ORAL	A05AX04 - cloruro de maralixibat	MIRUM PHARMACEUTICALS INTERNATIONAL B.V.	0	0	0	0

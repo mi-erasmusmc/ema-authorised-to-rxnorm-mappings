@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-768191	1251930001	DUVYZAT 8,86 MG/ML SUSPENSION ORAL	Givinostat 8,86 mg/ml solución/suspensión oral	8,86 mg/ml	Frasco	140	ml	GIVINOSTAT HIDROCLORURO MONOHIDRATO 8,86 mg	VÍA ORAL	SUSPENSIÓN ORAL	M09AX14 - Givinostat	ITALFARMACO S.P.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+768191	1251930001	DUVYZAT 8,86 MG/ML SUSPENSION ORAL	Givinostat 8,86 mg/ml solución/suspensión oral	8,86 mg/ml	Frasco	140	ml	GIVINOSTAT HIDROCLORURO MONOHIDRATO 8,86 mg	VÍA ORAL	SUSPENSIÓN ORAL	M09AX14 - Givinostat	ITALFARMACO S.P.A.	0	0	0	0

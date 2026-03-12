@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-681825	60937	ALCOHOL ALCANFORADO REIG JOFRE  SOLUCION CUTANEA	Alcanfor 100 mg/ml líquido uso tópico	100 mg/ml	Frasco	250	ml	ALCANFOR 100 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	M02AX10 - Varios	LABORATORIO REIG JOFRE, S.A.	0	0	0
-694062	60937	ALCOHOL ALCANFORADO REIG JOFRE  SOLUCION CUTANEA	Alcanfor 100 mg/ml líquido uso tópico	100 mg/ml	Frasco	500	ml	ALCANFOR 100 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	M02AX10 - Varios	LABORATORIO REIG JOFRE, S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+681825	60937	ALCOHOL ALCANFORADO REIG JOFRE  SOLUCION CUTANEA	Alcanfor 100 mg/ml líquido uso tópico	100 mg/ml	Frasco	250	ml	ALCANFOR 100 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	M02AX10 - Varios	LABORATORIO REIG JOFRE, S.A.	0	0	0	0
+694062	60937	ALCOHOL ALCANFORADO REIG JOFRE  SOLUCION CUTANEA	Alcanfor 100 mg/ml líquido uso tópico	100 mg/ml	Frasco	500	ml	ALCANFOR 100 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	M02AX10 - Varios	LABORATORIO REIG JOFRE, S.A.	0	0	0	0

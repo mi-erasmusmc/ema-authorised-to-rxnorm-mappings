@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-656157	17466	BEPANMED 500 mg/2 ml, SOLUCION INYECTABLE	Dexpantenol 500 mg inyectable 2 ml	500 mg	Ampolla	6	ampolla para inyección	D-PANTENOL 250 mg	VÍA INTRAMUSCULAR|VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	A11HA30 - Dexpantenol	BAYER HISPANIA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+656157	17466	BEPANMED 500 mg/2 ml, SOLUCION INYECTABLE	Dexpantenol 500 mg inyectable 2 ml	500 mg	Ampolla	6	ampolla para inyección	D-PANTENOL 250 mg	VÍA INTRAMUSCULAR|VÍA INTRAVENOSA	SOLUCIÓN INYECTABLE	A11HA30 - Dexpantenol	BAYER HISPANIA S.L.	0	0	0	0

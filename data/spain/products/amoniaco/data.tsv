@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-665553	72467	GOIPIC 35 mg/ml SOLUCION CUTANEA	Amoniaco 35 mg/ml líquido uso tópico	35 mg/ml	Frasco	14	ml	AMONIACO 35 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D04AX - Otros antipruriginosos	LABORATORIOS CINFA S.A.	0	0	0
-924449	59404	CALMAPICA 32,5 MG/ML EMULSION CUTANEA	Amoniaco 32,5 mg/ml emulsión cutánea	32,5 mg/ml	Tubo	15	ml	AMONIACO 32,5 mg	USO CUTÁNEO	EMULSIÓN CUTÁNEA	D04AX - Otros antipruriginosos	PHARMEX ADVANCED LABORATORIES S.L.	0	0	0
-988337	58267	TRAS PIC 35 mg/ml SOLUCION CUTANEA	Amoniaco 35 mg/ml líquido uso tópico	35 mg/ml	Frasco	14	ml	AMONIACO 35 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D04AX - Otros antipruriginosos	ESTEVE PHARMACEUTICALS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+665553	72467	GOIPIC 35 mg/ml SOLUCION CUTANEA	Amoniaco 35 mg/ml líquido uso tópico	35 mg/ml	Frasco	14	ml	AMONIACO 35 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D04AX - Otros antipruriginosos	LABORATORIOS CINFA S.A.	0	0	0	0
+924449	59404	CALMAPICA 32,5 MG/ML EMULSION CUTANEA	Amoniaco 32,5 mg/ml emulsión cutánea	32,5 mg/ml	Tubo	15	ml	AMONIACO 32,5 mg	USO CUTÁNEO	EMULSIÓN CUTÁNEA	D04AX - Otros antipruriginosos	PHARMEX ADVANCED LABORATORIES S.L.	0	0	0	0
+988337	58267	TRAS PIC 35 mg/ml SOLUCION CUTANEA	Amoniaco 35 mg/ml líquido uso tópico	35 mg/ml	Frasco	14	ml	AMONIACO 35 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D04AX - Otros antipruriginosos	ESTEVE PHARMACEUTICALS S.A.	0	0	0	0

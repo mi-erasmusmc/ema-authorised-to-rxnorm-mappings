@@ -1,4 +1,4 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-663955	58172	NITRENDIPINO STADA  20 mg COMPRIMIDOS EFG	Nitrendipino 20 mg comprimido	20 mg	Blister	30	comprimido	NITRENDIPINO 20 mg	VÍA ORAL	COMPRIMIDO	C08CA08 - Nitrendipino	LABORATORIO STADA S.L.	0	0	0
-739490	58104	TENSOGRADAL 20 mg COMPRIMIDOS	Nitrendipino 20 mg comprimido	20 mg	Blister	30	comprimido	NITRENDIPINO 20 mg	VÍA ORAL	COMPRIMIDO	C08CA08 - Nitrendipino	KERN PHARMA S.L.	0	0	0
-994202	58647	NITRENDIPINO RATIOPHARM  20 mg COMPRIMIDOS	Nitrendipino 20 mg comprimido	20 mg	Desconocido	30	comprimido	NITRENDIPINO 20 mg	VÍA ORAL	COMPRIMIDO	C08CA08 - Nitrendipino	RATIOPHARM ESPANA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+663955	58172	NITRENDIPINO STADA  20 mg COMPRIMIDOS EFG	Nitrendipino 20 mg comprimido	20 mg	Blister	30	comprimido	NITRENDIPINO 20 mg	VÍA ORAL	COMPRIMIDO	C08CA08 - Nitrendipino	LABORATORIO STADA S.L.	0	1	0	0
+739490	58104	TENSOGRADAL 20 mg COMPRIMIDOS	Nitrendipino 20 mg comprimido	20 mg	Blister	30	comprimido	NITRENDIPINO 20 mg	VÍA ORAL	COMPRIMIDO	C08CA08 - Nitrendipino	KERN PHARMA S.L.	0	0	0	0
+994202	58647	NITRENDIPINO RATIOPHARM  20 mg COMPRIMIDOS	Nitrendipino 20 mg comprimido	20 mg	Desconocido	30	comprimido	NITRENDIPINO 20 mg	VÍA ORAL	COMPRIMIDO	C08CA08 - Nitrendipino	RATIOPHARM ESPANA S.A.	0	0	0	0

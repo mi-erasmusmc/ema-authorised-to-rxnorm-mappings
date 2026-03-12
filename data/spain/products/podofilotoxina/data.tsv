@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-656584	61338	WARTEC 1,5 mg/g CREMA	Podofilotoxina 1,5 mg/g crema	1,5 mg/g	Tubo	5	g	PODOFILOTOXINA 1,5 mg	USO CUTÁNEO	CREMA	D06BB04 - Podofilotoxina	PHOENIX LABS UNLIMITED COMPANY	0	0	0
-656585	58844	WARTEC 5 mg/ml  SOLUCION CUTANEA	Podofilotoxina 5 mg/ml líquido uso tópico	5 mg/ml	Frasco	3	ml	PODOFILOTOXINA 5 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D06BB04 - Podofilotoxina	PHOENIX LABS UNLIMITED COMPANY	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+656584	61338	WARTEC 1,5 mg/g CREMA	Podofilotoxina 1,5 mg/g crema	1,5 mg/g	Tubo	5	g	PODOFILOTOXINA 1,5 mg	USO CUTÁNEO	CREMA	D06BB04 - Podofilotoxina	PHOENIX LABS UNLIMITED COMPANY	0	0	0	0
+656585	58844	WARTEC 5 mg/ml  SOLUCION CUTANEA	Podofilotoxina 5 mg/ml líquido uso tópico	5 mg/ml	Frasco	3	ml	PODOFILOTOXINA 5 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D06BB04 - Podofilotoxina	PHOENIX LABS UNLIMITED COMPANY	0	0	0	0

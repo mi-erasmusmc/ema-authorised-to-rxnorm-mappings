@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-672101	23524	MESTINON 60 MG COMPRIMIDOS	Piridostigmina 60 mg comprimido	60 mg	Frasco	100	comprimido	PIRIDOSTIGMINA BROMURO 60 mg	VÍA ORAL	COMPRIMIDO	N07AA02 - Piridostigmina	VIATRIS HEALTHCARE LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+672101	23524	MESTINON 60 MG COMPRIMIDOS	Piridostigmina 60 mg comprimido	60 mg	Frasco	100	comprimido	PIRIDOSTIGMINA BROMURO 60 mg	VÍA ORAL	COMPRIMIDO	N07AA02 - Piridostigmina	VIATRIS HEALTHCARE LIMITED	0	0	0	0

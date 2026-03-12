@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-725003	1181325003	NAMUSCLA 167 MG CAPSULAS DURAS	Mexiletina 167 mg cápsula	167 mg	Blister	100	cápsula	MEXILETINA HIDROCLORURO 167 mg	VÍA ORAL	CÁPSULA DURA	C01BB02 - Mexiletina	LUPIN EUROPE GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+725003	1181325003	NAMUSCLA 167 MG CAPSULAS DURAS	Mexiletina 167 mg cápsula	167 mg	Blister	100	cápsula	MEXILETINA HIDROCLORURO 167 mg	VÍA ORAL	CÁPSULA DURA	C01BB02 - Mexiletina	LUPIN EUROPE GMBH	0	0	0	0

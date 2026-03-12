@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-694399	112793003	XALKORI 250  MG CAPSULAS DURAS	Crizotinib 250 mg cápsula	250 mg	Blister	60	cápsula	CRIZOTINIB 250 mg	VÍA ORAL	CÁPSULA DURA	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0
-694400	112793001	XALKORI 200 MG CAPSULAS DURAS	Crizotinib 200 mg cápsula	200 mg	Blister	60	cápsula	CRIZOTINIB 200 mg	VÍA ORAL	CÁPSULA DURA	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0
-765761	112793007	XALKORI 150 MG GRANULADO EN CAPSULAS PARA ABRIR	Crizotinib 150 mg cápsula	150 mg	Frasco	60	cápsula	CRIZOTINIB 150 mg	VÍA ORAL	GRANULADO EN CAPSULAS PARA ABRIR	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0
-765765	112793005	XALKORI 20 MG GRANULADO EN CAPSULAS PARA ABRIR	Crizotinib 20 mg cápsula	20 mg	Frasco	60	cápsula	CRIZOTINIB 20 mg	VÍA ORAL	GRANULADO EN CAPSULAS PARA ABRIR	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0
-765766	112793006	XALKORI 50 MG GRANULADO EN CAPSULAS PARA ABRIR	Crizotinib 50 mg cápsula	50 mg	Frasco	60	cápsula	CRIZOTINIB 50 mg	VÍA ORAL	GRANULADO EN CAPSULAS PARA ABRIR	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+694399	112793003	XALKORI 250  MG CAPSULAS DURAS	Crizotinib 250 mg cápsula	250 mg	Blister	60	cápsula	CRIZOTINIB 250 mg	VÍA ORAL	CÁPSULA DURA	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0	0
+694400	112793001	XALKORI 200 MG CAPSULAS DURAS	Crizotinib 200 mg cápsula	200 mg	Blister	60	cápsula	CRIZOTINIB 200 mg	VÍA ORAL	CÁPSULA DURA	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0	0
+765761	112793007	XALKORI 150 MG GRANULADO EN CAPSULAS PARA ABRIR	Crizotinib 150 mg cápsula	150 mg	Frasco	60	cápsula	CRIZOTINIB 150 mg	VÍA ORAL	GRANULADO EN CAPSULAS PARA ABRIR	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0	0
+765765	112793005	XALKORI 20 MG GRANULADO EN CAPSULAS PARA ABRIR	Crizotinib 20 mg cápsula	20 mg	Frasco	60	cápsula	CRIZOTINIB 20 mg	VÍA ORAL	GRANULADO EN CAPSULAS PARA ABRIR	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0	0
+765766	112793006	XALKORI 50 MG GRANULADO EN CAPSULAS PARA ABRIR	Crizotinib 50 mg cápsula	50 mg	Frasco	60	cápsula	CRIZOTINIB 50 mg	VÍA ORAL	GRANULADO EN CAPSULAS PARA ABRIR	L01ED01 - Crizotinib	PFIZER EUROPE MA EEIG	0	0	0	0

@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-763025	1231738007	JAYPIRCA 100 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Pirtobrutinib 100 mg comprimido	100 mg	Blister	60	comprimido	PIRTOBRUTINIB 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EL05 - Pirtobrutinib	ELI LILLY NEDERLAND B.V.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+763025	1231738007	JAYPIRCA 100 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Pirtobrutinib 100 mg comprimido	100 mg	Blister	60	comprimido	PIRTOBRUTINIB 100 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EL05 - Pirtobrutinib	ELI LILLY NEDERLAND B.V.	0	0	0	0

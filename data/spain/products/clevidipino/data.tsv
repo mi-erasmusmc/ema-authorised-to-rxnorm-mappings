@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-693620	76595	CLEVIPREX 0,5MG/ML EMULSION INYECTABLE	Clevidipino 0,5 mg/ml inyectable 50 ml	0,5 mg/ml inyectable 50 ml	Vial	10	vial para inyección	CLEVIDIPINO 0,5 mg	VÍA INTRAVENOSA	EMULSIÓN INYECTABLE	C08CA16 - Clevidipino	CHIESI ESPAÑA S.A.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+693620	76595	CLEVIPREX 0,5MG/ML EMULSION INYECTABLE	Clevidipino 0,5 mg/ml inyectable 50 ml	0,5 mg/ml inyectable 50 ml	Vial	10	vial para inyección	CLEVIDIPINO 0,5 mg	VÍA INTRAVENOSA	EMULSIÓN INYECTABLE	C08CA16 - Clevidipino	CHIESI ESPAÑA S.A.U.	0	0	0	0

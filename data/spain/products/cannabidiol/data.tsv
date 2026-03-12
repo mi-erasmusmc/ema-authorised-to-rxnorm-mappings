@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-727061	1191389001	EPIDYOLEX 100 MG/ML SOLUCION ORAL	Cannabidiol 100 mg/ml solucion/suspension oral	100 mg/ml	Frasco	100	ml	CANNABIDIOL 100 mg	VÍA ORAL	SOLUCIÓN ORAL	N03AX24 - Cannabidiol	JAZZ PHARMACEUTICALS IRELAND LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+727061	1191389001	EPIDYOLEX 100 MG/ML SOLUCION ORAL	Cannabidiol 100 mg/ml solucion/suspension oral	100 mg/ml	Frasco	100	ml	CANNABIDIOL 100 mg	VÍA ORAL	SOLUCIÓN ORAL	N03AX24 - Cannabidiol	JAZZ PHARMACEUTICALS IRELAND LIMITED	0	0	0	0

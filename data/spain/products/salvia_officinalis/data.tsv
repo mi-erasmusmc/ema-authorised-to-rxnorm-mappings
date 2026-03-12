@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-701728	78542	SALVIAMED COMPRIMIDOS	Extracto seco de hoja de Salvia officinalis 51 mg comprimido	51 mg	Frasco	30	comprimido	SALVIA OFFICINALIS 51 mg	VÍA ORAL	COMPRIMIDO	V03AX - Otros productos terapeuticos	BIOFORCE ESPANA A VOGEL S.A.	1	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+701728	78542	SALVIAMED COMPRIMIDOS	Extracto seco de hoja de Salvia officinalis 51 mg comprimido	51 mg	Frasco	30	comprimido	SALVIA OFFICINALIS 51 mg	VÍA ORAL	COMPRIMIDO	V03AX - Otros productos terapeuticos	BIOFORCE ESPANA A VOGEL S.A.	1	0	0	0

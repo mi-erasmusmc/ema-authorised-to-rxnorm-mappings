@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-681536	44352	SANODIN 20 mg/g POMADA BUCAL	Carbenoxolona 20 mg/g gel/pasta/líquido bucal	20 mg/g	Tubo	15	g	CARBENOXOLONA 20 mg	Vía bucal (buccal use)	POMADA BUCAL	A01AD92 - Carbenoxolona	LABORATORIOS ERN S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+681536	44352	SANODIN 20 mg/g POMADA BUCAL	Carbenoxolona 20 mg/g gel/pasta/líquido bucal	20 mg/g	Tubo	15	g	CARBENOXOLONA 20 mg	Vía bucal (buccal use)	POMADA BUCAL	A01AD92 - Carbenoxolona	LABORATORIOS ERN S.A.	0	0	0	0

@@ -1,7 +1,7 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-701113	14261	AUXINA E-50 UI CAPSULAS BLANDAS	Tocoferol 50 mg cápsula	50 UI	Blister	60	cápsula	TODO-ALFA-TOCOFEROL 50 UI	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0
-701122	34892	AUXINA E-200 UI CAPSULAS BLANDAS	Tocoferol 200 mg cápsula	200 mg	Blister	60	cápsula	TODO-ALFA-TOCOFEROL 200 mg	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0
-701725	62277	AUXINA E-400 UI CAPSULAS BLANDAS	Tocoferol 400 mg cápsula	400 UI	Blister	60	cápsula	TODO-RAC-ALFA-TOCOFERILO ACETATO DE 400 UI	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0
-770586	14261	AUXINA E-50 UI CAPSULAS BLANDAS	Tocoferol 50 mg cápsula	50 mg	Blister	20	cápsula	TODO-ALFA-TOCOFEROL 50 mg	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0
-786426	62277	AUXINA E-400 UI CAPSULAS BLANDAS	Tocoferol 400 mg cápsula	400 mg	Blister	30	cápsula	TODO-RAC-ALFA-TOCOFERILO ACETATO DE 400 mg	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0
-787267	34892	AUXINA E-200 UI CAPSULAS BLANDAS	Tocoferol 200 mg cápsula	200 mg	Blister	20	cápsula	TODO-ALFA-TOCOFEROL 200 mg	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+701113	14261	AUXINA E-50 UI CAPSULAS BLANDAS	Tocoferol 50 mg cápsula	50 UI	Blister	60	cápsula	TODO-ALFA-TOCOFEROL 50 UI	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0	0
+701122	34892	AUXINA E-200 UI CAPSULAS BLANDAS	Tocoferol 200 mg cápsula	200 mg	Blister	60	cápsula	TODO-ALFA-TOCOFEROL 200 mg	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0	0
+701725	62277	AUXINA E-400 UI CAPSULAS BLANDAS	Tocoferol 400 mg cápsula	400 UI	Blister	60	cápsula	TODO-RAC-ALFA-TOCOFERILO ACETATO DE 400 UI	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0	0
+770586	14261	AUXINA E-50 UI CAPSULAS BLANDAS	Tocoferol 50 mg cápsula	50 mg	Blister	20	cápsula	TODO-ALFA-TOCOFEROL 50 mg	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0	0
+786426	62277	AUXINA E-400 UI CAPSULAS BLANDAS	Tocoferol 400 mg cápsula	400 mg	Blister	30	cápsula	TODO-RAC-ALFA-TOCOFERILO ACETATO DE 400 mg	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0	0
+787267	34892	AUXINA E-200 UI CAPSULAS BLANDAS	Tocoferol 200 mg cápsula	200 mg	Blister	20	cápsula	TODO-ALFA-TOCOFEROL 200 mg	VÍA ORAL	CÁPSULA BLANDA	A11HA03 - Tocoferol (vit E)	CHIESI ESPAÑA S.A.U.	0	0	0	0

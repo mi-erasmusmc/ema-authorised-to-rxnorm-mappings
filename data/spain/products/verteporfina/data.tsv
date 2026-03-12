@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-909713	00140001	VISUDYNE 15 MG POLVO PARA SOLUCION PARA PERFUSION	Verteporfina 15 mg inyectable perfusión	15 mg	Vial	1	vial para inyección	VERTEPORFINA 15 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN PARA PERFUSIÓN	S01LA01 - Verteporfina	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+909713	00140001	VISUDYNE 15 MG POLVO PARA SOLUCION PARA PERFUSION	Verteporfina 15 mg inyectable perfusión	15 mg	Vial	1	vial para inyección	VERTEPORFINA 15 mg	VÍA INTRAVENOSA	POLVO PARA SOLUCIÓN PARA PERFUSIÓN	S01LA01 - Verteporfina	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0	0

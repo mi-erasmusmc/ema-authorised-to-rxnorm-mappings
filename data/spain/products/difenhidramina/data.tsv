@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-654400	38322	SOÑODOR DIFENHIDRAMINA 50 mg COMPRIMIDOS	Difenhidramina 50 mg comprimido	50 mg	Tiras	10	comprimido	DIFENHIDRAMINA HIDROCLORURO 50 mg	VÍA ORAL	COMPRIMIDO	N05CM - Otros hipnoticos y sedantes	LABORATORIOS URGO S.L.	0	0	0
-673061	61459	NEOSAYOMOL 20 mg/ g CREMA	Difenhidramina 20 mg/g crema	20 mg/g	Tubo	30	g	DIFENHIDRAMINA HIDROCLORURO 20 mg	USO CUTÁNEO	CREMA	D04AA32 - Difenhidramina	LABORATORIOS CINFA S.A.	0	0	0
-733358	61459	NEOSAYOMOL 20 mg/ g CREMA	Difenhidramina 20 mg/g crema	20 mg/g	Tubo	60	g	DIFENHIDRAMINA HIDROCLORURO 20 mg	USO CUTÁNEO	CREMA	D04AA32 - Difenhidramina	LABORATORIOS CINFA S.A.	0	0	0
-901439	38322	SOÑODOR DIFENHIDRAMINA 50 mg COMPRIMIDOS	Difenhidramina 50 mg comprimido	50 mg	Tiras	16	comprimido	DIFENHIDRAMINA HIDROCLORURO 50 mg	VÍA ORAL	COMPRIMIDO	N05CM - Otros hipnoticos y sedantes	LABORATORIOS URGO S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+654400	38322	SOÑODOR DIFENHIDRAMINA 50 mg COMPRIMIDOS	Difenhidramina 50 mg comprimido	50 mg	Tiras	10	comprimido	DIFENHIDRAMINA HIDROCLORURO 50 mg	VÍA ORAL	COMPRIMIDO	N05CM - Otros hipnoticos y sedantes	LABORATORIOS URGO S.L.	0	0	0	0
+673061	61459	NEOSAYOMOL 20 mg/ g CREMA	Difenhidramina 20 mg/g crema	20 mg/g	Tubo	30	g	DIFENHIDRAMINA HIDROCLORURO 20 mg	USO CUTÁNEO	CREMA	D04AA32 - Difenhidramina	LABORATORIOS CINFA S.A.	0	0	0	0
+733358	61459	NEOSAYOMOL 20 mg/ g CREMA	Difenhidramina 20 mg/g crema	20 mg/g	Tubo	60	g	DIFENHIDRAMINA HIDROCLORURO 20 mg	USO CUTÁNEO	CREMA	D04AA32 - Difenhidramina	LABORATORIOS CINFA S.A.	0	0	0	0
+901439	38322	SOÑODOR DIFENHIDRAMINA 50 mg COMPRIMIDOS	Difenhidramina 50 mg comprimido	50 mg	Tiras	16	comprimido	DIFENHIDRAMINA HIDROCLORURO 50 mg	VÍA ORAL	COMPRIMIDO	N05CM - Otros hipnoticos y sedantes	LABORATORIOS URGO S.L.	0	0	0	0

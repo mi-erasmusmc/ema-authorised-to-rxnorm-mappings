@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-699574	113858002	STIVARGA 40 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Regorafenib 40 mg comprimido	40 mg	Frasco	84	comprimido	REGORAFENIB 40 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EX05 - Regorafenib	BAYER AG	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+699574	113858002	STIVARGA 40 MG COMPRIMIDOS RECUBIERTOS CON PELICULA	Regorafenib 40 mg comprimido	40 mg	Frasco	84	comprimido	REGORAFENIB 40 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO CON PELÍCULA	L01EX05 - Regorafenib	BAYER AG	0	0	0	0

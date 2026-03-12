@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-656549	56610	FOMENE SOBRES	Tetridamina 500 mg líquido vaginal sobre	500 mg	Sobre	10	envase uso vaginal unidosis	TETRIDAMINA MALEATO 500 mg	VÍA VAGINAL	SOLUCIÓN VAGINAL	G02CC91 - Tetridamina	ANGELINI PHARMA ESPANA S.L.	0	0	0
-656550	56610	FOMENE SOBRES	Tetridamina 500 mg líquido vaginal sobre	500 mg	Sobre	20	envase uso vaginal unidosis	TETRIDAMINA MALEATO 500 mg	VÍA VAGINAL	SOLUCIÓN VAGINAL	G02CC91 - Tetridamina	ANGELINI PHARMA ESPANA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+656549	56610	FOMENE SOBRES	Tetridamina 500 mg líquido vaginal sobre	500 mg	Sobre	10	envase uso vaginal unidosis	TETRIDAMINA MALEATO 500 mg	VÍA VAGINAL	SOLUCIÓN VAGINAL	G02CC91 - Tetridamina	ANGELINI PHARMA ESPANA S.L.	0	0	0	0
+656550	56610	FOMENE SOBRES	Tetridamina 500 mg líquido vaginal sobre	500 mg	Sobre	20	envase uso vaginal unidosis	TETRIDAMINA MALEATO 500 mg	VÍA VAGINAL	SOLUCIÓN VAGINAL	G02CC91 - Tetridamina	ANGELINI PHARMA ESPANA S.L.	0	0	0	0

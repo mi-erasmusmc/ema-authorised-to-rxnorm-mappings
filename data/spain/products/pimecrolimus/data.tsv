@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-847483	65029	ELIDEL 10 mg/g CREMA	Pimecrolimus 10 mg/g crema	10 mg/g	Tubo	30	g	PIMECROLIMUS 10 mg	USO CUTÁNEO	CREMA	D11AH02 - Pimecrolimus	VIATRIS HEALTHCARE LIMITED	0	0	0
-847491	65029	ELIDEL 10 mg/g CREMA	Pimecrolimus 10 mg/g crema	10 mg/g	Tubo	60	g	PIMECROLIMUS 10 mg	USO CUTÁNEO	CREMA	D11AH02 - Pimecrolimus	VIATRIS HEALTHCARE LIMITED	0	0	0
-853622	65055	RIZAN 10 mg/g CREMA	Pimecrolimus 10 mg/g crema	10 mg/g	Tubo	30	g	PIMECROLIMUS 10 mg	USO CUTÁNEO	CREMA	D11AH02 - Pimecrolimus	MEDA PHARMA S.L.	0	0	0
-854281	65055	RIZAN 10 mg/g CREMA	Pimecrolimus 10 mg/g crema	10 mg/g	Tubo	60	g	PIMECROLIMUS 10 mg	USO CUTÁNEO	CREMA	D11AH02 - Pimecrolimus	MEDA PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+847483	65029	ELIDEL 10 mg/g CREMA	Pimecrolimus 10 mg/g crema	10 mg/g	Tubo	30	g	PIMECROLIMUS 10 mg	USO CUTÁNEO	CREMA	D11AH02 - Pimecrolimus	VIATRIS HEALTHCARE LIMITED	0	0	0	0
+847491	65029	ELIDEL 10 mg/g CREMA	Pimecrolimus 10 mg/g crema	10 mg/g	Tubo	60	g	PIMECROLIMUS 10 mg	USO CUTÁNEO	CREMA	D11AH02 - Pimecrolimus	VIATRIS HEALTHCARE LIMITED	0	0	0	0
+853622	65055	RIZAN 10 mg/g CREMA	Pimecrolimus 10 mg/g crema	10 mg/g	Tubo	30	g	PIMECROLIMUS 10 mg	USO CUTÁNEO	CREMA	D11AH02 - Pimecrolimus	MEDA PHARMA S.L.	0	0	0	0
+854281	65055	RIZAN 10 mg/g CREMA	Pimecrolimus 10 mg/g crema	10 mg/g	Tubo	60	g	PIMECROLIMUS 10 mg	USO CUTÁNEO	CREMA	D11AH02 - Pimecrolimus	MEDA PHARMA S.L.	0	0	0	0

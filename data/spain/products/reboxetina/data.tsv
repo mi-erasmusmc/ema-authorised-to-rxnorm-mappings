@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-662387	61969	NOREBOX 4 mg COMPRIMIDOS	Reboxetina 4 mg comprimido	4 mg	Blister	60	comprimido	REBOXETINA MESILATO 4 mg	VÍA ORAL	COMPRIMIDO	N06AX18 - Reboxetina	PFIZER S.L.	0	0	0
-662395	61969	NOREBOX 4 mg COMPRIMIDOS	Reboxetina 4 mg comprimido	4 mg	Blister	20	comprimido	REBOXETINA MESILATO 4 mg	VÍA ORAL	COMPRIMIDO	N06AX18 - Reboxetina	PFIZER S.L.	0	0	0
-885863	63157	IRENOR 4 mg COMPRIMIDOS	Reboxetina 4 mg comprimido	4 mg	Blister	20	comprimido	REBOXETINA 4 mg	VÍA ORAL	COMPRIMIDO	N06AX18 - Reboxetina	PFIZER S.L.	0	0	0
-885897	63157	IRENOR 4 mg COMPRIMIDOS	Reboxetina 4 mg comprimido	4 mg	Blister	60	comprimido	REBOXETINA 4 mg	VÍA ORAL	COMPRIMIDO	N06AX18 - Reboxetina	PFIZER S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+662387	61969	NOREBOX 4 mg COMPRIMIDOS	Reboxetina 4 mg comprimido	4 mg	Blister	60	comprimido	REBOXETINA MESILATO 4 mg	VÍA ORAL	COMPRIMIDO	N06AX18 - Reboxetina	PFIZER S.L.	0	0	0	0
+662395	61969	NOREBOX 4 mg COMPRIMIDOS	Reboxetina 4 mg comprimido	4 mg	Blister	20	comprimido	REBOXETINA MESILATO 4 mg	VÍA ORAL	COMPRIMIDO	N06AX18 - Reboxetina	PFIZER S.L.	0	0	0	0
+885863	63157	IRENOR 4 mg COMPRIMIDOS	Reboxetina 4 mg comprimido	4 mg	Blister	20	comprimido	REBOXETINA 4 mg	VÍA ORAL	COMPRIMIDO	N06AX18 - Reboxetina	PFIZER S.L.	0	0	0	0
+885897	63157	IRENOR 4 mg COMPRIMIDOS	Reboxetina 4 mg comprimido	4 mg	Blister	60	comprimido	REBOXETINA 4 mg	VÍA ORAL	COMPRIMIDO	N06AX18 - Reboxetina	PFIZER S.L.	0	0	0	0

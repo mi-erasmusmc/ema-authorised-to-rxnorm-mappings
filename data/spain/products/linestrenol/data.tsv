@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-999926	49377	ORGAMETRIL 5 mg COMPRIMIDOS	Linestrenol 5 mg comprimido	5 mg	Blister	30	comprimido	LINESTRENOL 5 mg	VÍA ORAL	COMPRIMIDO	G03DC03 - Linestrerol	LABORATORIOS FROSST S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+999926	49377	ORGAMETRIL 5 mg COMPRIMIDOS	Linestrenol 5 mg comprimido	5 mg	Blister	30	comprimido	LINESTRENOL 5 mg	VÍA ORAL	COMPRIMIDO	G03DC03 - Linestrerol	LABORATORIOS FROSST S.A.	0	0	0	0

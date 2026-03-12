@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-694216	60228	ANSATIPIN 150 MG CÁPSULAS DURAS	Rifabutina 150 mg cápsula	150 mg	Blister	30	cápsula	RIFABUTINA 150 mg	VÍA ORAL	CÁPSULA DURA	J04AB04 - Rifabutina	BINESA 2002 S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+694216	60228	ANSATIPIN 150 MG CÁPSULAS DURAS	Rifabutina 150 mg cápsula	150 mg	Blister	30	cápsula	RIFABUTINA 150 mg	VÍA ORAL	CÁPSULA DURA	J04AB04 - Rifabutina	BINESA 2002 S.L.	0	0	0	0

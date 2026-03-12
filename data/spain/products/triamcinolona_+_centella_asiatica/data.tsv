@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-655654	50543	CEMALYT 1 mg/g + 10 mg/g CREMA	Triamcinolona/Extracto de Centella asiática 1 mg/g + 10 mg/g crema	1 mg/g + 10 mg/g	Tubo	30	g	TRIAMCINOLONA ACETONIDO 1 mg|CENTELLA ASIATICA EXTO 10 mg	USO CUTÁNEO	CREMA	D07XB02 - Triamcinolona	MEDA PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+655654	50543	CEMALYT 1 mg/g + 10 mg/g CREMA	Triamcinolona/Extracto de Centella asiática 1 mg/g + 10 mg/g crema	1 mg/g + 10 mg/g	Tubo	30	g	TRIAMCINOLONA ACETONIDO 1 mg|CENTELLA ASIATICA EXTO 10 mg	USO CUTÁNEO	CREMA	D07XB02 - Triamcinolona	MEDA PHARMA S.L.	0	0	0	0

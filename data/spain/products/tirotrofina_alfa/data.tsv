@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-792440	99122002	THYROGEN 0,9 MG POLVO PARA SOLUCION INYECTABLE	Tirotropina alfa 0,9 mg inyectable	0,9 mg	Vial	2	vial para inyección	TIROTROPINA ALFA 0.9 mg	VÍA INTRAMUSCULAR	POLVO PARA SOLUCIÓN INYECTABLE	V04CJ01 - Tirotropina	SANOFI WINTHROP INDUSTRIE	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+792440	99122002	THYROGEN 0,9 MG POLVO PARA SOLUCION INYECTABLE	Tirotropina alfa 0,9 mg inyectable	0,9 mg	Vial	2	vial para inyección	TIROTROPINA ALFA 0.9 mg	VÍA INTRAMUSCULAR	POLVO PARA SOLUCIÓN INYECTABLE	V04CJ01 - Tirotropina	SANOFI WINTHROP INDUSTRIE	0	0	0	0

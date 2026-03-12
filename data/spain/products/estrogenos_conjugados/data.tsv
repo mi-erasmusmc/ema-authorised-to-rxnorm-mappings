@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-766287	34239	EQUIN 0,6 mg COMPRIMIDOS	Estrógenos conjugados 0,625 mg comprimido	0,625 mg	Blister	28	comprimido	ESTROGENOS CONJUGADOS 0,625 mg	VÍA ORAL	COMPRIMIDO	G03CA57 - Estrogenos conjugados	LABORATORIO ALDO UNION S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+766287	34239	EQUIN 0,6 mg COMPRIMIDOS	Estrógenos conjugados 0,625 mg comprimido	0,625 mg	Blister	28	comprimido	ESTROGENOS CONJUGADOS 0,625 mg	VÍA ORAL	COMPRIMIDO	G03CA57 - Estrogenos conjugados	LABORATORIO ALDO UNION S.L.	0	0	0	0

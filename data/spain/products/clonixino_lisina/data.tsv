@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-683748	52738	DOLALGIAL CLONIXINO LISINA 125 mg COMPRIMIDOS RECUBIERTOS	Clonixino lisina 125 mg comprimido	125 mg	Blister	20	comprimido	CLONIXINO LISINA 125 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	N02BG91 - Clonixinato de lisina	LABORATORIO STADA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+683748	52738	DOLALGIAL CLONIXINO LISINA 125 mg COMPRIMIDOS RECUBIERTOS	Clonixino lisina 125 mg comprimido	125 mg	Blister	20	comprimido	CLONIXINO LISINA 125 mg	VÍA ORAL	COMPRIMIDO RECUBIERTO	N02BG91 - Clonixinato de lisina	LABORATORIO STADA S.L.	0	0	0	0

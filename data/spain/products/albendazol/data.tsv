@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-690792	60407	ESKAZOLE 400 MG COMPRIMIDOS	Albendazol 400 mg comprimido	400 mg	Blister	60	comprimido	ALBENDAZOL 400 mg	VÍA ORAL	COMPRIMIDO	P02CA03 - Albendazol	GLAXOSMITHKLINE S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+690792	60407	ESKAZOLE 400 MG COMPRIMIDOS	Albendazol 400 mg comprimido	400 mg	Blister	60	comprimido	ALBENDAZOL 400 mg	VÍA ORAL	COMPRIMIDO	P02CA03 - Albendazol	GLAXOSMITHKLINE S.A.	0	0	0	0

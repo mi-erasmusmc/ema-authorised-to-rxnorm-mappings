@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-729707	41167	WINSTROL COMPRIMIDOS	Estanozolol 2 mg comprimido	2 mg	Blister	40	comprimido	ESTANOZOLOL 2 mg	VÍA ORAL	COMPRIMIDO	A14AA02 - Estanozolol	DESMA LABORATORIO FARMACEUTICO S.L.	0	0	0
-793372	46948	WINSTROL DEPOT	Estanozolol 50 mg inyectable 1 ml	50 mg	Ampolla	3	ampolla para inyección	ESTANOZOLOL 50 mg	VÍA INTRAMUSCULAR	SOLUCIÓN INYECTABLE	A14AA02 - Estanozolol	DESMA LABORATORIO FARMACEUTICO S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+729707	41167	WINSTROL COMPRIMIDOS	Estanozolol 2 mg comprimido	2 mg	Blister	40	comprimido	ESTANOZOLOL 2 mg	VÍA ORAL	COMPRIMIDO	A14AA02 - Estanozolol	DESMA LABORATORIO FARMACEUTICO S.L.	0	0	0	0
+793372	46948	WINSTROL DEPOT	Estanozolol 50 mg inyectable 1 ml	50 mg	Ampolla	3	ampolla para inyección	ESTANOZOLOL 50 mg	VÍA INTRAMUSCULAR	SOLUCIÓN INYECTABLE	A14AA02 - Estanozolol	DESMA LABORATORIO FARMACEUTICO S.L.	0	0	0	0

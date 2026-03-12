@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-693812	59593	PROSTACUR COMPRIMIDOS	Flutamida 250 mg comprimido	250 mg	Blister	90	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	MYLAN PHARMACEUTICALS S.L.	0	0	0
-767848	62543	FLUTAMIDA MYLAN 250 mg COMPRIMIDOS EFG	Flutamida 250 mg comprimido	250 mg	Blister	84	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	MYLAN PHARMACEUTICALS S.L.	0	0	0
-777540	59593	PROSTACUR COMPRIMIDOS	Flutamida 250 mg comprimido	250 mg	Blister	50	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	MYLAN PHARMACEUTICALS S.L.	0	0	0
-851576	62912	FLUTAMIDA CINFA 250 mg COMPRIMIDOS EFG	Flutamida 250 mg comprimido	250 mg	Blister	50	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	LABORATORIOS CINFA S.A.	0	0	0
-851642	62912	FLUTAMIDA CINFA 250 mg COMPRIMIDOS EFG	Flutamida 250 mg comprimido	250 mg	Blister	84	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	LABORATORIOS CINFA S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+693812	59593	PROSTACUR COMPRIMIDOS	Flutamida 250 mg comprimido	250 mg	Blister	90	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	MYLAN PHARMACEUTICALS S.L.	0	0	0	0
+767848	62543	FLUTAMIDA MYLAN 250 mg COMPRIMIDOS EFG	Flutamida 250 mg comprimido	250 mg	Blister	84	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	MYLAN PHARMACEUTICALS S.L.	0	1	0	0
+777540	59593	PROSTACUR COMPRIMIDOS	Flutamida 250 mg comprimido	250 mg	Blister	50	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	MYLAN PHARMACEUTICALS S.L.	0	0	0	0
+851576	62912	FLUTAMIDA CINFA 250 mg COMPRIMIDOS EFG	Flutamida 250 mg comprimido	250 mg	Blister	50	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	LABORATORIOS CINFA S.A.	0	1	0	0
+851642	62912	FLUTAMIDA CINFA 250 mg COMPRIMIDOS EFG	Flutamida 250 mg comprimido	250 mg	Blister	84	comprimido	FLUTAMIDA 250 mg	VÍA ORAL	COMPRIMIDO	L02BB01 - Flutamida	LABORATORIOS CINFA S.A.	0	1	0	0

@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-620286	46029	RIFALDIN 300 mg CAPSULAS	Rifampicina 300 mg cápsula	300 mg	Blister	500	cápsula	RIFAMPICINA 300 mg	VÍA ORAL	CÁPSULA DURA	J04AB02 - Rifampicina	SANOFI AVENTIS S.A.	0	0	0
-817866	46028	RIFALDIN 20 mg/ml SUSPENSION ORAL	Rifampicina 20 mg/ml solución/suspensión oral	20 mg/ml	Frasco	120	ml	RIFAMPICINA 20 mg	VÍA ORAL	SUSPENSIÓN ORAL	J04AB02 - Rifampicina	SANOFI AVENTIS S.A.	0	0	0
-817882	46029	RIFALDIN 300 mg CAPSULAS	Rifampicina 300 mg cápsula	300 mg	Blister	24	cápsula	RIFAMPICINA 300 mg	VÍA ORAL	CÁPSULA DURA	J04AB02 - Rifampicina	SANOFI AVENTIS S.A.	0	0	0
-859645	49034	RIMACTAN 300 mg CAPSULAS DURAS	Rifampicina 300 mg cápsula	300 mg	Blister	60	cápsula	RIFAMPICINA 300 mg	VÍA ORAL	CÁPSULA DURA	J04AB02 - Rifampicina	SANDOZ FARMACEUTICA S.A.	0	0	0
-962696	56487	RIFALDIN 600 mg POLVO Y DISOLVENTE PARA SOLUCION PARA PERFUSION	Rifampicina 600 mg inyectable	600 mg	Vial	1	vial para inyección	RIFAMPICINA 600 mg	VÍA INTRAVENOSA	POLVO Y DISOLVENTE PARA SOLUCIÓN PARA PERFUSIÓN	J04AB02 - Rifampicina	SANOFI AVENTIS S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+620286	46029	RIFALDIN 300 mg CAPSULAS	Rifampicina 300 mg cápsula	300 mg	Blister	500	cápsula	RIFAMPICINA 300 mg	VÍA ORAL	CÁPSULA DURA	J04AB02 - Rifampicina	SANOFI AVENTIS S.A.	0	0	0	0
+817866	46028	RIFALDIN 20 mg/ml SUSPENSION ORAL	Rifampicina 20 mg/ml solución/suspensión oral	20 mg/ml	Frasco	120	ml	RIFAMPICINA 20 mg	VÍA ORAL	SUSPENSIÓN ORAL	J04AB02 - Rifampicina	SANOFI AVENTIS S.A.	0	0	0	0
+817882	46029	RIFALDIN 300 mg CAPSULAS	Rifampicina 300 mg cápsula	300 mg	Blister	24	cápsula	RIFAMPICINA 300 mg	VÍA ORAL	CÁPSULA DURA	J04AB02 - Rifampicina	SANOFI AVENTIS S.A.	0	0	0	0
+859645	49034	RIMACTAN 300 mg CAPSULAS DURAS	Rifampicina 300 mg cápsula	300 mg	Blister	60	cápsula	RIFAMPICINA 300 mg	VÍA ORAL	CÁPSULA DURA	J04AB02 - Rifampicina	SANDOZ FARMACEUTICA S.A.	0	0	0	0
+962696	56487	RIFALDIN 600 mg POLVO Y DISOLVENTE PARA SOLUCION PARA PERFUSION	Rifampicina 600 mg inyectable	600 mg	Vial	1	vial para inyección	RIFAMPICINA 600 mg	VÍA INTRAVENOSA	POLVO Y DISOLVENTE PARA SOLUCIÓN PARA PERFUSIÓN	J04AB02 - Rifampicina	SANOFI AVENTIS S.A.	0	0	0	0

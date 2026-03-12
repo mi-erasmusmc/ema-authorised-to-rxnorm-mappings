@@ -1,5 +1,5 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-661639	06367002	DIACOMIT 250 mg CAPSULAS DURAS	Estiripentol 250 mg cápsula	250 mg	Frasco	60	cápsula	ESTIRIPENTOL 250 mg	VÍA ORAL	CÁPSULA DURA	N03AX17 - Estiripentol	BIOCODEX	0	0	0
-661640	06367008	DIACOMIT 250 mg POLVO PARA SUSPENSION ORAL	Estiripentol 250 mg solución/suspensión oral sobre	250 mg	Sobre	60	sobre	ESTIRIPENTOL 250 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	N03AX17 - Estiripentol	BIOCODEX	0	0	0
-661641	06367005	DIACOMIT 500 mg CAPSULAS DURAS	Estiripentol 500 mg cápsula	500 mg	Frasco	60	cápsula	ESTIRIPENTOL 500 mg	VÍA ORAL	CÁPSULA DURA	N03AX17 - Estiripentol	BIOCODEX	0	0	0
-661642	06367011	DIACOMIT 500 mg POLVO PARA SUSPENSION ORAL	Estiripentol 500 mg solución/suspensión oral sobre	500 mg	Sobre	60	sobre	ESTIRIPENTOL 500 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	N03AX17 - Estiripentol	BIOCODEX	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+661639	06367002	DIACOMIT 250 mg CAPSULAS DURAS	Estiripentol 250 mg cápsula	250 mg	Frasco	60	cápsula	ESTIRIPENTOL 250 mg	VÍA ORAL	CÁPSULA DURA	N03AX17 - Estiripentol	BIOCODEX	0	0	0	0
+661640	06367008	DIACOMIT 250 mg POLVO PARA SUSPENSION ORAL	Estiripentol 250 mg solución/suspensión oral sobre	250 mg	Sobre	60	sobre	ESTIRIPENTOL 250 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	N03AX17 - Estiripentol	BIOCODEX	0	0	0	0
+661641	06367005	DIACOMIT 500 mg CAPSULAS DURAS	Estiripentol 500 mg cápsula	500 mg	Frasco	60	cápsula	ESTIRIPENTOL 500 mg	VÍA ORAL	CÁPSULA DURA	N03AX17 - Estiripentol	BIOCODEX	0	0	0	0
+661642	06367011	DIACOMIT 500 mg POLVO PARA SUSPENSION ORAL	Estiripentol 500 mg solución/suspensión oral sobre	500 mg	Sobre	60	sobre	ESTIRIPENTOL 500 mg	VÍA ORAL	POLVO PARA SUSPENSIÓN ORAL	N03AX17 - Estiripentol	BIOCODEX	0	0	0	0

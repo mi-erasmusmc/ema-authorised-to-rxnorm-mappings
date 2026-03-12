@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-986273	53094	FISIOBIL CAPSULAS	Ácido dimecrótico sal de magnesio 50 mg cápsula	50 mg	Desconocido	60	cápsula	DIMECROTATO MAGNESIO 50 mg	VÍA ORAL	CÁPSULA DURA	A05AX91 - Dimecrotico acido	LABORATORIOS SALVAT S.A.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+986273	53094	FISIOBIL CAPSULAS	Ácido dimecrótico sal de magnesio 50 mg cápsula	50 mg	Desconocido	60	cápsula	DIMECROTATO MAGNESIO 50 mg	VÍA ORAL	CÁPSULA DURA	A05AX91 - Dimecrotico acido	LABORATORIOS SALVAT S.A.	0	0	0	0

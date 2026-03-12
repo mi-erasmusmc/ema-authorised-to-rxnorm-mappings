@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-713818	35027	AZOL POLVO	Sulfanilamida 1.000 mg/g sólido uso tópico	1.000 mg/g	Bote	5	g	SULFANILAMIDA 1000 mg	USO CUTÁNEO	POLVO CUTÁNEO	D06BA05 - Sulfanilamida	KERN PHARMA S.L.	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+713818	35027	AZOL POLVO	Sulfanilamida 1.000 mg/g sólido uso tópico	1.000 mg/g	Bote	5	g	SULFANILAMIDA 1000 mg	USO CUTÁNEO	POLVO CUTÁNEO	D06BA05 - Sulfanilamida	KERN PHARMA S.L.	0	0	0	0

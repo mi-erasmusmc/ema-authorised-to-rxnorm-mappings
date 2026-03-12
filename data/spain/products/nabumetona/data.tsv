@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-920728	59395	RELIF 1000 MG COMPRIMIDOS DISPERSABLES	Nabumetona 1.000 mg comprimido	1.000 mg	Blister	20	comprimido	NABUMETONA 1000 mg	VÍA ORAL	COMPRIMIDO DISPERSABLE	M01AX01 - Nabumetona	VIATRIS HEALTHCARE LIMITED	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+920728	59395	RELIF 1000 MG COMPRIMIDOS DISPERSABLES	Nabumetona 1.000 mg comprimido	1.000 mg	Blister	20	comprimido	NABUMETONA 1000 mg	VÍA ORAL	COMPRIMIDO DISPERSABLE	M01AX01 - Nabumetona	VIATRIS HEALTHCARE LIMITED	0	0	0	0

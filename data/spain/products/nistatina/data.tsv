@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
-790527	28262	MYCOSTATIN 100.000 UI/ml SUSPENSION ORAL	Nistatina 100.000 UI/ml solución/suspensión oral	100.000 UI/ml	Frasco	60	ml	NISTATINA 100000 UI	VÍA ORAL	SUSPENSIÓN ORAL	A07AA02 - Nistatina	SUBSTIPHARM	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	sw_generico	biosimilar	radiofarmaco
+790527	28262	MYCOSTATIN 100.000 UI/ml SUSPENSION ORAL	Nistatina 100.000 UI/ml solución/suspensión oral	100.000 UI/ml	Frasco	60	ml	NISTATINA 100000 UI	VÍA ORAL	SUSPENSIÓN ORAL	A07AA02 - Nistatina	SUBSTIPHARM	0	0	0	0
