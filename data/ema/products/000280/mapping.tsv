@@ -29,18 +29,19 @@ EU/1/00/131/027	19131810	peginterferon alfa-2b 0.08 MG Injection [Pegintron]	805
 EU/1/00/131/028	21055348	peginterferon alfa-2b 0.1 MG Injection	OMOP414742	EXACT			2025-12-04
 EU/1/00/131/029	19131811	peginterferon alfa-2b 0.12 MG Injection [Pegintron]	805009	EXACT			2025-12-04
 EU/1/00/131/030	19131812	peginterferon alfa-2b 0.15 MG Injection [Pegintron]	805010	EXACT			2025-12-04
-EU/1/00/131/031	35606670	peginterferon alfa-2b 0.05 MG [Pegintron]	1720778	BROAD			2025-12-04
-EU/1/00/131/032	35606670	peginterferon alfa-2b 0.05 MG [Pegintron]	1720778	BROAD			2025-12-04
-EU/1/00/131/034	35606670	peginterferon alfa-2b 0.05 MG [Pegintron]	1720778	BROAD			2025-12-04
-EU/1/00/131/035	35606673	peginterferon alfa-2b 0.08 MG [Pegintron]	1720787	BROAD			2025-12-04
-EU/1/00/131/036	35606673	peginterferon alfa-2b 0.08 MG [Pegintron]	1720787	BROAD			2025-12-04
-EU/1/00/131/038	35606673	peginterferon alfa-2b 0.08 MG [Pegintron]	1720787	BROAD			2025-12-04
-EU/1/00/131/039	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
-EU/1/00/131/040	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
-EU/1/00/131/042	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
-EU/1/00/131/043	35606675	peginterferon alfa-2b 0.12 MG [Pegintron]	1720797	BROAD			2025-12-04
-EU/1/00/131/044	35606675	peginterferon alfa-2b 0.12 MG [Pegintron]	1720797	BROAD			2025-12-04
-EU/1/00/131/046	35606675	peginterferon alfa-2b 0.12 MG [Pegintron]	1720797	BROAD			2025-12-04
-EU/1/00/131/047	35606677	peginterferon alfa-2b 0.15 MG [Pegintron]	1720801	BROAD			2025-12-04
-EU/1/00/131/048	35606677	peginterferon alfa-2b 0.15 MG [Pegintron]	1720801	BROAD			2025-12-04
-EU/1/00/131/050	35606677	peginterferon alfa-2b 0.15 MG [Pegintron]	1720801	BROAD			2025-12-04
+EU/1/00/131/031	19129660	0.5 ML peginterferon alfa-2b 0.1 MG/ML Pen Injector [Pegintron]	790247	EXACT			2026-03-12
+EU/1/00/131/032	19129660	0.5 ML peginterferon alfa-2b 0.1 MG/ML Pen Injector [Pegintron]	790247	EXACT			2026-03-12
+EU/1/00/131/034	19129660	0.5 ML peginterferon alfa-2b 0.1 MG/ML Pen Injector [Pegintron]	790247	EXACT			2026-03-12
+EU/1/00/131/035	19129312	0.5 ML peginterferon alfa-2b 0.16 MG/ML Pen Injector [Pegintron]	760039	EXACT			2026-03-12
+EU/1/00/131/036	19129312	0.5 ML peginterferon alfa-2b 0.16 MG/ML Pen Injector [Pegintron]	760039	EXACT			2026-03-12
+EU/1/00/131/038	19129312	0.5 ML peginterferon alfa-2b 0.16 MG/ML Pen Injector [Pegintron]	760039	EXACT			2026-03-12
+EU/1/00/131/039	36281069	0.5 ML peginterferon alfa-2b 0.2 MG/ML Pen Injector [Pegintron]	OMOP3131944	EXACT			2026-03-12
+EU/1/00/131/040	36281069	0.5 ML peginterferon alfa-2b 0.2 MG/ML Pen Injector [Pegintron]	OMOP3131944	EXACT			2026-03-12
+EU/1/00/131/042	36281069	0.5 ML peginterferon alfa-2b 0.2 MG/ML Pen Injector [Pegintron]	OMOP3131944	EXACT			2026-03-12
+EU/1/00/131/043	19129302	0.5 ML peginterferon alfa-2b 0.24 MG/ML Pen Injector [Pegintron]	760029	EXACT			2026-03-12
+EU/1/00/131/044	19129302	0.5 ML peginterferon alfa-2b 0.24 MG/ML Pen Injector [Pegintron]	760029	EXACT			2026-03-12
+EU/1/00/131/046	19129302	0.5 ML peginterferon alfa-2b 0.24 MG/ML Pen Injector [Pegintron]	760029	EXACT			2026-03-12
+EU/1/00/131/047	19129658	0.5 ML peginterferon alfa-2b 0.3 MG/ML Pen Injector [Pegintron]	790245	EXACT			2026-03-12
+EU/1/00/131/048	19129658	0.5 ML peginterferon alfa-2b 0.3 MG/ML Pen Injector [Pegintron]	790245	EXACT			2026-03-12
+EU/1/00/131/050	19129658	0.5 ML peginterferon alfa-2b 0.3 MG/ML Pen Injector [Pegintron]	790245	EXACT			2026-03-12
+

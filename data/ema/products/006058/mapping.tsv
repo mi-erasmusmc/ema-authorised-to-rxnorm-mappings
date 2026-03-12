@@ -1,11 +1,12 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/22/1709/001							2025-12-04
-EU/1/22/1709/002	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
-EU/1/22/1709/003	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
-EU/1/22/1709/004	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
-EU/1/22/1709/005	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
-EU/1/22/1709/006	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
-EU/1/22/1709/007	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
-EU/1/22/1709/008	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
-EU/1/22/1709/009	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
-EU/1/22/1709/010	780152	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein	2606074	BROAD			2025-12-04
+EU/1/22/1709/001	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/002	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/003	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/004	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/005	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/006	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/007	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/008	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/009	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+EU/1/22/1709/010	780155	SARS-COV-2 (COVID-19) vaccine, subunit, recombinant spike protein Injectable Suspension	2606077	BROAD		0.5 ML SARS-CoV-2 (COVID-19) vaccine, recombinant spike protein RBD 0.08 MG/ML Injection	2026-03-12
+
