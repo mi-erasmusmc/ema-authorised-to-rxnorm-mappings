@@ -21,3 +21,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768073	113909013IP	46234179	0.48 ML follitropin alfa 625 UNT/ML Pen Injector	1654171	EXACT			2026-03-12
 837013	95001027	1543009	follitropin alfa 75 UNT Injection	562724	EXACT			2026-03-12
 926683	95001025	1543009	follitropin alfa 75 UNT Injection	562724	EXACT			2026-03-12
+727949	95001036	46234182	follitropin alfa 600 UNT/ML Pen Injector [Gonal F]	1654175	BROAD	RxNorm has branded Gonal F pen concepts for 0.48, 0.72, and 1.44 mL, but not the 0.24 mL presentation	0.24 ML follitropin alfa 625 UNT/ML Pen Injector [Gonal F]	2026-03-12
+802314	95001033	45776023	0.48 ML follitropin alfa 625 UNT/ML Pen Injector [Gonal F]	1594432	EXACT			2026-03-12
+802777	95001034	45776021	0.72 ML follitropin alfa 625 UNT/ML Pen Injector [Gonal F]	1594418	EXACT			2026-03-12
+802785	95001035	45776016	1.44 ML follitropin alfa 625 UNT/ML Pen Injector [Gonal F]	1594334	EXACT			2026-03-12

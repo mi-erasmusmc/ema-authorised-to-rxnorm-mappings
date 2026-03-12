@@ -6,3 +6,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 607372	57110	35603836	10 ML bupivacaine hydrochloride 5 MG/ML Injection	1724880	EXACT			2026-03-12
 607373	58023	35603817	10 ML bupivacaine hydrochloride 7.5 MG/ML Injection	1724787	EXACT			2026-03-12
 607377	58023	35603815	bupivacaine hydrochloride 7.5 MG/ML Injection	1724785	BROAD		2 ml vial; no 2 ML volume-specific concept in RxNorm	2026-03-12
+637033	57110	35603836	10 ML bupivacaine hydrochloride 5 MG/ML Injection	1724880	EXACT			2026-03-12

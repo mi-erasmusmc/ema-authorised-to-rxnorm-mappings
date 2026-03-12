@@ -1,46 +1,102 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-651118	72312	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-651126	72309	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-651134	72310	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			
-652199	71998	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-652207	71997	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-665434	72347	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-665435	72348	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-665443	72357	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-665444	72358	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-665445	72356	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			
-672425	72816	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-672427	72815	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-672429	72817	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-677413	73340	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-677414	73341	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-677415	73342	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-679369	73823	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-679380	73824	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-679393	73825	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-681267	74247	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-683663	74654	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			
-684765	74807	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-684772	74809	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-684773	74810	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-684917	74851	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-684918	74852	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-684920	74854	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-688706	75645	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-688708	75646	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-688986	75735	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-688987	75736	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-696793	77139	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			
-696946	77187	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-696987	77186	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-696988	77188	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-698714	77771	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-714262	81614	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-714263	81615	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-714264	81616	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-719590	82555	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-719592	82555	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				
-719593	82556	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-719594	82556	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				
-719595	82557	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
-719596	82557	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				
+651118	72312	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+651126	72309	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+651134	72310	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+652199	71998	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+652207	71997	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+665434	72347	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+665435	72348	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+665443	72357	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+665444	72358	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+665445	72356	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+672425	72816	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+672427	72815	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+672429	72817	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+677413	73340	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+677414	73341	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+677415	73342	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+679369	73823	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+679380	73824	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+679393	73825	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+681267	74247	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+683663	74654	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+684765	74807	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+684772	74809	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+684773	74810	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+684917	74851	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+684918	74852	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+684920	74854	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+688706	75645	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+688708	75646	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+688986	75735	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+688987	75736	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+696793	77139	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+696946	77187	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+696987	77186	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+696988	77188	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+698714	77771	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+714262	81614	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+714263	81615	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+714264	81616	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+719590	82555	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+719592	82555	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471				2026-03-12
+719593	82556	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+719594	82556	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793				2026-03-12
+719595	82557	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+719596	82557	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792				2026-03-12
+650221	98085012	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+650222	98085017	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+656037	98086024	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+656038	98085024	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+665755	09583017	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+665756	09583041	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+665757	09583065	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+673229	73705	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+673883	73706	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+677408	73349	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+677409	73350	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+677410	73348	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+677412	73343	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+677447	73344	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+679494	73854	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+679499	73856	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+679507	73859	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+682684	74513	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+682685	74514	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+682686	74515	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+685360	74938	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+685361	74939	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+685363	74940	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+692455	06377012	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+692456	06377018	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+692457	06377024	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+692971	11673010	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+692972	11673018	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+693003	11673002	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+694143	76682	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+694154	76683	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+694167	76684	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+695661	76911	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+695663	76912	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+695665	76913	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+696772	77137	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+696783	77138	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+714466	09583017	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+714467	09583041	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+714469	09583065	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+723683	98086024	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+723685	98086017IP	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+724752	98086017IP1	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+727260	98086024IP1	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+727428	98086024IP2	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+727988	98086017IP2	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+728524	98086024IP3	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+728608	98086017IP3	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+731556	98086024IP4	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+753665	98086012	19078080	hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	310792	EXACT			2026-03-12
+754234	98086017	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+763376	98085024IP	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+764090	98086017IP4	19078101	hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	310793	EXACT			2026-03-12
+765411	98085024IP1	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+768727	98085024IP2	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12
+768859	98086024IP5	974677	hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	485471	EXACT			2026-03-12

@@ -19,8 +19,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 766568	1241872001	37355072	0.5 ML ustekinumab-srlf 90 MG/ML Prefilled Syringe [Imuldosa]	2717083	EXACT			2026-03-11
 766569	1241872002	37355074	1 ML ustekinumab-srlf 90 MG/ML Prefilled Syringe [Imuldosa]	2717086	EXACT			2026-03-11
 766570	1241872003	37355070	26 ML ustekinumab-srlf 5 MG/ML Injection [Imuldosa]	2717074	EXACT			2026-03-11
-766974	1241801004	0			EXACT			2025-12-04
-766975	1241801005	0			EXACT			2025-12-04
+766974	1241801004	37355121	0.5 ML ustekinumab-ttwe 90 MG/ML Auto-Injector [Pyzchiva]	2720516	EXACT			2026-03-12
+766975	1241801005	37355127	1 ML ustekinumab-ttwe 90 MG/ML Auto-Injector [Pyzchiva]	2721431	EXACT			2026-03-12
 767042	1241823005	1466382	0.5 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700685	EXACT			2025-12-04
 767043	1241823006	1466384	1 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700691	EXACT			2025-12-04
 767048	1231784005	1718931	26 ML ustekinumab 5 MG/ML Injection	1811255	BROAD	Biosimilar; no FDA suffix assigned	26 ML ustekinumab-xxxx 5 MG/ML Injection [Uzpruvo]	2026-03-11
@@ -32,6 +32,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768395	1251957004	37355170	26 ML ustekinumab-hmny 5 MG/ML Injection	2725111	EXACT			2026-03-11
 662133	08494001	46234170	0.5 ML ustekinumab 90 MG/ML Injection [Stelara]	1654079	EXACT			2026-03-12
 665779	08494003	40160988	0.5 ML ustekinumab 90 MG/ML Prefilled Syringe [Stelara]	853354	EXACT			2026-03-12
-762981	1080494006	40160988	0.5 ML ustekinumab 90 MG/ML Prefilled Syringe [Stelara]	853354	BROAD	No pen/autoinjector concept in RxNorm; mapped to prefilled syringe		2026-03-12
-762982	1080494007	40160960	1 ML ustekinumab 90 MG/ML Prefilled Syringe [Stelara]	853356	BROAD	No pen/autoinjector concept in RxNorm; mapped to prefilled syringe		2026-03-12
-767965	1241863004	1466401	0.5 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702616	BROAD	No vial concept in RxNorm for aauz; mapped to prefilled syringe		2026-03-12
+762981	1080494006	46234170	0.5 ML ustekinumab 90 MG/ML Injection [Stelara]	1654079	BROAD	No pen/autoinjector Stelara concept found in RxNorm; mapped to branded injection presentation	0.5 ML ustekinumab 90 MG/ML Auto-Injector [Stelara]	2026-03-12
+762982	1080494007	46234174	1 ML ustekinumab 90 MG/ML Injection [Stelara]	1654083	BROAD	No pen/autoinjector Stelara concept found in RxNorm; mapped to branded injection presentation	1 ML ustekinumab 90 MG/ML Auto-Injector [Stelara]	2026-03-12
+767965	1241863004	37355161	0.5 ML ustekinumab-aauz 90 MG/ML Injection [Otulfi]	2724431	EXACT			2026-03-12

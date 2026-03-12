@@ -1,2 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606855	79380	35603399	erythromycin Injection	1668263	BROAD			
+606855	79380	35603399	erythromycin Injection	1668263	BROAD	No 1G lactobionate injection concept in RxNorm; mapped to generic erythromycin Injection	erythromycin lactobionate 500 MG Injection	2026-03-12
+625202	39690		erythromycin ethylsuccinate 500 MG oral tablet		BROAD	No RxNorm concept for erythromycin ethylsuccinate 500 MG; closest is 400 MG (686405)	erythromycin ethylsuccinate 400 MG Oral Tablet	2026-03-12

@@ -3,3 +3,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 706414	100133034	46221557	1.5 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo]	1604544	EXACT			2025-12-04
 711261	114944012	19078559	insulin glargine 100 UNT/ML Injectable Solution	311041	EXACT			2025-12-04
 724639	1181270003	1146756	3 ML insulin glargine 100 UNT/ML Pen Injector [Semglee]	2377231	EXACT			2025-12-04
+700603	00134033	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT			2026-03-12
+727918	1000133038	42544060	3 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo]	2002420	EXACT			2026-03-12
+831453	00134012	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	BROAD	RxNorm has a branded Lantus injectable-solution concept but not an explicit 10 mL vial presentation	10 ML insulin glargine 100 UNT/ML Injectable Solution [Lantus]	2026-03-12
+901504	00134001	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	BROAD	RxNorm has a branded Lantus injectable-solution concept but not an explicit 5 mL vial presentation	5 ML insulin glargine 100 UNT/ML Injectable Solution [Lantus]	2026-03-12
+901579	00134006	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	BROAD	RxNorm has no branded Lantus cartridge concept; mapped to the broader branded injectable-solution concept	3 ML insulin glargine 100 UNT/ML Cartridge [Lantus]	2026-03-12

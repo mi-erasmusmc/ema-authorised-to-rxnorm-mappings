@@ -1,44 +1,44 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 606979	1161132003	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2025-12-04
-607006	82496	40141787	enoxaparin Prefilled Syringe	727722				
-607007	82495	43648125	0.4 ML Enoxaparin 100 MG/ML Injectable Solution	OMOP716595				
+607006	82496	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
+607007	82495	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
 607026	1161132003	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2025-12-04
 607027	1161132001	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2025-12-04
 607029	1161132001	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2025-12-04
-607162	82490	41211417	Enoxaparin 10000 UNT/ML Prefilled Syringe	OMOP2409379				
-607165	82494	43612148	0.6 ML Enoxaparin 100 MG/ML Injectable Solution	OMOP720197				
-607166	82493	40141787	enoxaparin Prefilled Syringe	727722				
-639484	58502	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458				
-639492	58503	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235				
-671972	58502	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458				
-671975	58503	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235				
-671976	62470	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238				
-671977	62471	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241				
-671993	58502	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458				
-671995	58503	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235				
-671996	58503	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235				
-671997	62470	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238				
-671998	62471	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241				
-672593	62470	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238				
-675294	62471	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241				
-719275	82490	41211417	Enoxaparin 10000 UNT/ML Prefilled Syringe	OMOP2409379				
-719277	82490	41211417	Enoxaparin 10000 UNT/ML Prefilled Syringe	OMOP2409379				
-719281	82490	41211417	Enoxaparin 10000 UNT/ML Prefilled Syringe	OMOP2409379				
-719284	82491	36882716	Enoxaparin Injection	OMOP1005271	BROAD			
-719285	82491	36882716	Enoxaparin Injection	OMOP1005271	BROAD			
-719287	82492	36882716	Enoxaparin Injection	OMOP1005271	BROAD			
-719288	82492	36882716	Enoxaparin Injection	OMOP1005271	BROAD			
-719289	82493	40141787	enoxaparin Prefilled Syringe	727722				
-719291	82493	40141787	enoxaparin Prefilled Syringe	727722				
-719295	82493	40141787	enoxaparin Prefilled Syringe	727722				
-719296	82494	43612148	0.6 ML Enoxaparin 100 MG/ML Injectable Solution	OMOP720197				
-719298	82494	43612148	0.6 ML Enoxaparin 100 MG/ML Injectable Solution	OMOP720197				
-719301	82494	43612148	0.6 ML Enoxaparin 100 MG/ML Injectable Solution	OMOP720197				
-719302	82495	43648125	0.4 ML Enoxaparin 100 MG/ML Injectable Solution	OMOP716595				
-719304	82495	43648125	0.4 ML Enoxaparin 100 MG/ML Injectable Solution	OMOP716595				
-719306	82495	43648125	0.4 ML Enoxaparin 100 MG/ML Injectable Solution	OMOP716595				
-719308	82496	40141787	enoxaparin Prefilled Syringe	727722				
-719311	82496	40141787	enoxaparin Prefilled Syringe	727722				
+607162	82490	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+607165	82494	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+607166	82493	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
+639484	58502	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
+639492	58503	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+671972	58502	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
+671975	58503	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+671976	62470	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+671977	62471	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
+671993	58502	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
+671995	58503	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+671996	58503	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+671997	62470	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+671998	62471	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
+672593	62470	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+675294	62471	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
+719275	82490	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+719277	82490	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+719281	82490	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+719284	82491	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2026-03-12
+719285	82491	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2026-03-12
+719287	82492	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2026-03-12
+719288	82492	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2026-03-12
+719289	82493	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
+719291	82493	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
+719295	82493	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
+719296	82494	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+719298	82494	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+719301	82494	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+719302	82495	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+719304	82495	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+719306	82495	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+719308	82496	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
+719311	82496	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
 720563	1161132007	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2025-12-04
 720564	1161132007	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2025-12-04
 720566	1161132007	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2025-12-04
@@ -67,29 +67,42 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 720591	1161132001	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2025-12-04
 720592	1161132001	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2025-12-04
 720593	1161132001	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2025-12-04
-722364	83288	40160949	enoxaparin sodium 100 MG/ML Injectable Solution [Lovenox]	854256	EXACT			
-722366	83288	40160949	enoxaparin sodium 100 MG/ML Injectable Solution [Lovenox]	854256	EXACT			
-722373	83289	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252				
-722376	83290	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245				
-722377	83291	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			
-722379	83291	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			
-722383	83293	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458				
-722385	83293	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458				
-722386	83294	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			
-722388	83294	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			
+722364	83288	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+722366	83288	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+722373	83289	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2026-03-12
+722376	83290	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2026-03-12
+722377	83291	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+722379	83291	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+722383	83293	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
+722385	83293	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
+722386	83294	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
+722388	83294	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
 723914	1161132070	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2025-12-04
 723915	1161132069	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2025-12-04
 724240	1161132069	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2025-12-04
-724473	83289	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252				
-724474	83288	40160949	enoxaparin sodium 100 MG/ML Injectable Solution [Lovenox]	854256	EXACT			
-724475	83290	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245				
-724478	83291	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			
-724479	83294	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			
+724473	83289	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2026-03-12
+724474	83288	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+724475	83290	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2026-03-12
+724478	83291	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+724479	83294	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12
 724780	1161132069	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2025-12-04
 724782	1161132069	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2025-12-04
 724784	1161132070	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2025-12-04
 724785	1161132070	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2025-12-04
-726573	84424	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248				
-726579	84426	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238				
-726582	84427	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235				
-726585	84428	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458				
+726573	84424	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+726579	84426	40160989	0.6 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854238	EXACT			2026-03-12
+726582	84427	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+726585	84428	42708409	0.2 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	1245458	EXACT			2026-03-12
+671971	60337	40160949	enoxaparin sodium 100 MG/ML Injectable Solution [Lovenox]	854256	BROAD	RxNorm has a branded Lovenox injectable-solution concept but not an explicit 0.2 mL ampoule presentation	0.2 ML enoxaparin sodium 100 MG/ML Injectable Solution [Lovenox]	2026-03-12
+671973	60338	40160949	enoxaparin sodium 100 MG/ML Injectable Solution [Lovenox]	854256	BROAD	RxNorm has a branded Lovenox injectable-solution concept but not an explicit 0.4 mL ampoule presentation	0.4 ML enoxaparin sodium 100 MG/ML Injectable Solution [Lovenox]	2026-03-12
+671978	62472	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+671979	63002	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2026-03-12
+671980	63000	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2026-03-12
+671999	62472	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+675195	62472	40160995	1 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854248	EXACT			2026-03-12
+675296	63002	40160993	0.8 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854245	EXACT			2026-03-12
+675297	63000	40160997	1 ML enoxaparin sodium 150 MG/ML Prefilled Syringe	854252	EXACT			2026-03-12
+722380	83292	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+722382	83292	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+724477	83292	40160973	0.4 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854235	EXACT			2026-03-12
+726576	84425	40160991	0.8 ML enoxaparin sodium 100 MG/ML Prefilled Syringe	854241	EXACT			2026-03-12

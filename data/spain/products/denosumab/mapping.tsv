@@ -3,22 +3,24 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 765218	1241812001	37355056	1.7 ML denosumab-bbdz 70 MG/ML Injection [Wyost]	2715393	EXACT			2026-03-11
 767872	1251921003	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar; FDA suffix denosumab-desu exists but no brand-matched RxNorm concept found	1.7 ML denosumab-desu 70 MG/ML Injection [Jubereq]	2026-03-12
 767873	1251922002	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar; FDA suffix denosumab-desu exists but no brand-matched RxNorm concept found	1 ML denosumab-desu 60 MG/ML Prefilled Syringe [Osvyrti]	2026-03-12
-767973	1241890001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD			2025-12-04
-767974	1241889001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD			2025-12-04
-768041	1251933001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD			2025-12-04
-768042	1251934001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD			2025-12-04
-768126	1251935001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD		1 ML denosumab-xxxx 60 MG/ML Prefilled Syringe [Izamby]	2025-12-04
-768146	1251958001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD			2025-12-04
+767973	1241890001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1 ML denosumab 60 MG/ML Prefilled Syringe [Obodence]	2026-03-12
+767974	1241889001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1.7 ML denosumab 70 MG/ML Injection [Xbryk]	2026-03-12
+768041	1251933001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1 ML denosumab 60 MG/ML Prefilled Syringe [Junod]	2026-03-12
+768042	1251934001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1.7 ML denosumab 70 MG/ML Injection [Yaxwer]	2026-03-12
+768126	1251935001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1 ML denosumab 60 MG/ML Prefilled Syringe [Izamby]	2026-03-12
+768146	1251958001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1 ML denosumab 60 MG/ML Prefilled Syringe [Rolcya]	2026-03-12
 768163	1251953004	37355086	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2717555	EXACT			2026-03-11
 768166	1251953001	37355084	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2717549	EXACT			2026-03-11
-768227	1251937001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA equivalent; mapped to plain INN concept	1 ML denosumab-xxxx 60 MG/ML Prefilled Syringe [Zadenvi]	2026-02-16
+768227	1251937001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA equivalent; mapped to plain INN concept	1 ML denosumab 60 MG/ML Prefilled Syringe [Zadenvi]	2026-03-12
 768234	1241905001	37355089	1 ML denosumab-bmwo 60 MG/ML Prefilled Syringe [Stoboclo]	2717862	EXACT			2026-03-11
-768310	1251944001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar with no FDA equivalent; mapped to plain INN concept	1.7 ML denosumab-xxxx 70 MG/ML Injection [Enwylma]	2026-02-16
+768310	1251944001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar with no FDA equivalent; mapped to plain INN concept	1.7 ML denosumab 70 MG/ML Injection [Enwylma]	2026-03-12
 768323	1241904001	37355091	1.7 ML denosumab-bmwo 70 MG/ML Injection [Osenvelt]	2717873	EXACT			2026-03-11
-768513	1251946001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD			2025-12-04
-768685	1251979001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD		1.7 ML denosumab-xxxx 70 MG/ML Injection [Bilprevda]	2026-03-12
-769223	1251980001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD		1 ML denosumab-xxxx 60 MG/ML Prefilled Syringe [Kefdensis]	2026-03-11
-769245	1251982001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD		1.7 ML denosumab-xxxx 70 MG/ML Injection [Xbonzy]	2026-03-12
-769246	1251983001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD		1 ML denosumab-xxxx 60 MG/ML Prefilled Syringe [Acvybra]	2026-03-12
-769313	1251986001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD		1 ML denosumab-xxxx 60 MG/ML Prefilled Syringe [Ponlimsi]	2026-03-12
+768513	1251946001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1 ML denosumab 60 MG/ML Prefilled Syringe [Evfraxy]	2026-03-12
+768685	1251979001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1.7 ML denosumab 70 MG/ML Injection [Bilprevda]	2026-03-12
+769223	1251980001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1 ML denosumab 60 MG/ML Prefilled Syringe [Kefdensis]	2026-03-12
+769245	1251982001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1.7 ML denosumab 70 MG/ML Injection [Xbonzy]	2026-03-12
+769246	1251983001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1 ML denosumab 60 MG/ML Prefilled Syringe [Acvybra]	2026-03-12
+769313	1251986001	40221836	1 ML denosumab 60 MG/ML Prefilled Syringe	993452	BROAD	Biosimilar with no FDA-equivalent branded RxNorm presentation found	1 ML denosumab 60 MG/ML Prefilled Syringe [Ponlimsi]	2026-03-12
 768684	1251978001	37354167	denosumab-nxxp 60 MG/ML Prefilled Syringe [Bildyos]	2723358	EXACT			2026-03-12
+682806	11703001	40230586	1.7 ML denosumab 70 MG/ML Injection [Xgeva]	1046402	EXACT			2026-03-12
+700504	10618003	40221837	1 ML denosumab 60 MG/ML Prefilled Syringe [Prolia]	993456	EXACT			2026-03-12

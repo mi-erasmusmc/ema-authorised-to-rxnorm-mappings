@@ -1,48 +1,51 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600530	67677	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-602437	45449	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-602438	45449	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-607640	67677	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-607752	60418	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-607753	65588	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-609511	60267	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-609677	60267	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-610147	43845	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-610584	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-610634	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-614958	49869	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-615047	49869	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-615237	27523	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-616029	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-616086	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-620989	60418	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-622431	47338	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-622589	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-622639	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-622647	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-622944	39858	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-622951	39858	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-622969	39858	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-627349	53063	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-631879	65590	40044592	glucose / sodium chloride Injectable Solution	371774	BROAD			
-631937	65588	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-632000	65588	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-634873	43845	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-643197	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-645721	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-646026	60418	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-646372	60418	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-651446	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-651447	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-651450	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-730917	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-825190	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-857425	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-857433	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-860775	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			
-925446	45449	36249588	glucose / sodium chloride Injection	1794561	BROAD			
-966028	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD			
+600530	67677	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+602437	45449	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 35 MG/ML / sodium chloride 3.5 MG/ML Injection	2026-03-12
+602438	45449	36249588	glucose / sodium chloride Injection	1794561	BROAD		1000 ML glucose 35 MG/ML / sodium chloride 3.5 MG/ML Injection	2026-03-12
+607640	67677	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+607752	60418	36249588	glucose / sodium chloride Injection	1794561	BROAD		1000 ML glucose 50 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+607753	65588	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+609511	60267	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+609677	60267	36249588	glucose / sodium chloride Injection	1794561	BROAD		1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+610147	43845	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 35 MG/ML / sodium chloride 3.5 MG/ML Injection	2026-03-12
+610584	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+610634	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+614958	49869	36249588	glucose / sodium chloride Injection	1794561	BROAD		50 ML glucose 50 MG/ML / sodium chloride 2 MG/ML Injection	2026-03-12
+615047	49869	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 50 MG/ML / sodium chloride 2 MG/ML Injection	2026-03-12
+615237	27523	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+616029	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 33 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+616086	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD		1000 ML glucose 33 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+620989	60418	36249588	glucose / sodium chloride Injection	1794561	BROAD		50 ML glucose 50 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+622431	47338	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+622589	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+622639	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD		50 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+622647	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD		1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+622944	39858	36249588	glucose / sodium chloride Injection	1794561	BROAD		50 ML glucose 36 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+622951	39858	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 36 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+622969	39858	36249588	glucose / sodium chloride Injection	1794561	BROAD		1000 ML glucose 36 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+627349	53063	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+631879	65590	40044592	glucose / sodium chloride Injectable Solution	371774	BROAD		500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+631937	65588	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+632000	65588	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+634873	43845	36249588	glucose / sodium chloride Injection	1794561	BROAD		50 ML glucose 35 MG/ML / sodium chloride 3.5 MG/ML Injection	2026-03-12
+643197	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+645721	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD		50 ML glucose 33 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+646026	60418	36249588	glucose / sodium chloride Injection	1794561	BROAD		1000 ML glucose 50 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+646372	60418	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 50 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
+651446	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+651447	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+651450	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+730917	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+825190	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+857425	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+857433	39002	36249588	glucose / sodium chloride Injection	1794561	BROAD		1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
+860775	34372	36249588	glucose / sodium chloride Injection	1794561	EXACT			2026-03-12
+925446	45449	36249588	glucose / sodium chloride Injection	1794561	BROAD		500 ML glucose 35 MG/ML / sodium chloride 3.5 MG/ML Injection	2026-03-12
+966028	32728	36249588	glucose / sodium chloride Injection	1794561	BROAD		100 ML glucose 33 MG/ML / sodium chloride 3 MG/ML Injection	2026-03-12
 600415	67290	36249702	glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	1795345	BROAD	No 50ml-specific concept in RxNorm	50 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	2026-03-12
 600416	67290	36249704	250 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	1795348	EXACT			2026-03-12
 600417	67290	36249701	500 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	1795344	EXACT			2026-03-12
 600418	67290	36249703	1000 ML glucose 50 MG/ML / sodium chloride 9 MG/ML Injection	1795346	EXACT			2026-03-12
+633388	46306	36249588	glucose / sodium chloride Injection	1794561	BROAD	No RxNorm concept for glucose 35 MG/ML / sodium chloride 3.5 MG/ML injection; mapping to ingredient-level	glucose 35 MG/ML / sodium chloride 3.5 MG/ML Injection	2026-03-12
+633578	46306	36249588	glucose / sodium chloride Injection	1794561	BROAD	No RxNorm concept for glucose 35 MG/ML / sodium chloride 3.5 MG/ML injection; mapping to ingredient-level	glucose 35 MG/ML / sodium chloride 3.5 MG/ML Injection	2026-03-12
+633602	46306	36249588	glucose / sodium chloride Injection	1794561	BROAD	No RxNorm concept for glucose 35 MG/ML / sodium chloride 3.5 MG/ML injection; mapping to ingredient-level	glucose 35 MG/ML / sodium chloride 3.5 MG/ML Injection	2026-03-12
