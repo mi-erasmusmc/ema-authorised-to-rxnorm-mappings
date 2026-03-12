@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	nro_pactiv	atc	laboratorio_titular	fecha_autorizacion	sw_comercializado	fec_comer	situacion_registro	fecha_situacion_registro	sw_receta	sw_base_a_plantas	biosimilar	radiofarmaco
-738559	59896	BAMBEC 10 mg COMPRIMIDOS	Bambuterol 10 mg comprimido	10 mg	Blister	30	comprimido	BAMBUTEROL HIDROCLORURO 10 mg	VÍA ORAL	COMPRIMIDO	1	R03CC12 - Bambuterol	LABORATORIO LAILAN S.A.	1993-06-01	0	2025-07-21	Anulado	2025-07-21	1	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
+738559	59896	BAMBEC 10 mg COMPRIMIDOS	Bambuterol 10 mg comprimido	10 mg	Blister	30	comprimido	BAMBUTEROL HIDROCLORURO 10 mg	VÍA ORAL	COMPRIMIDO	R03CC12 - Bambuterol	LABORATORIO LAILAN S.A.	0	0	0

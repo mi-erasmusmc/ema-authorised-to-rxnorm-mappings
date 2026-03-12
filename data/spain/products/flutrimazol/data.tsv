@@ -1,9 +1,9 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	nro_pactiv	atc	laboratorio_titular	fecha_autorizacion	sw_comercializado	fec_comer	situacion_registro	fecha_situacion_registro	sw_receta	sw_base_a_plantas	biosimilar	radiofarmaco
-652131	60461	MICETAL 10 MG/G CREMA	Flutrimazol 10 mg/g crema	10 mg/g	Tubo	60	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	CREMA	1	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	1994-12-01	1	2011-10-24	Autorizado	1994-12-01	1	0	0	0
-654392	60460	FLUSPORAN CREMA DERMICA	Flutrimazol 10 mg/g crema	10 mg/g	Tubo	60	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	CREMA	1	D01AC16 - Flutrimazol	GRUPO J URIACH S.L.	1994-12-01	0	2021-06-11	Anulado	2021-06-11	1	0	0	0
-681387	60962	MICETAL 10 MG/ML SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	Flutrimazol 10 mg/ml líquido uso tópico	10 mg/ml	Frasco	30	ml	FLUTRIMAZOL 10 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	1	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	1996-01-01	1	2011-10-24	Autorizado	1996-01-01	1	0	0	0
-682716	60877	FLUSPORAN GEL	Flutrimazol 10 mg/g gel	10 mg/g	Frasco	100	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	GEL	1	D01AC16 - Flutrimazol	GRUPO J URIACH S.L.	1995-11-01	0	2021-06-11	Anulado	2021-06-11	1	0	0	0
-682724	60876	MICETAL 10 mg/g GEL	Flutrimazol 10 mg/g gel	10 mg/g	Frasco	100	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	GEL	1	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	1995-11-01	1	2011-10-24	Autorizado	1995-11-01	1	0	0	0
-690099	60461	MICETAL 10 MG/G CREMA	Flutrimazol 10 mg/g crema	10 mg/g	Tubo	30	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	CREMA	1	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	1994-12-01	1	2011-10-24	Autorizado	1994-12-01	1	0	0	0
-690107	60460	FLUSPORAN CREMA DERMICA	Flutrimazol 10 mg/g crema	10 mg/g	Tubo	30	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	CREMA	1	D01AC16 - Flutrimazol	GRUPO J URIACH S.L.	1994-12-01	0	2021-06-11	Anulado	2021-06-11	1	0	0	0
-847103	62853	MICETAL 10 MG/G POLVO CUTÁNEO	Flutrimazol 10 mg/g sólido uso tópico	10 mg/g	Tarro	30	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	POLVO CUTÁNEO	1	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	2000-01-04	1	2011-10-24	Autorizado	2000-01-04	1	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
+652131	60461	MICETAL 10 MG/G CREMA	Flutrimazol 10 mg/g crema	10 mg/g	Tubo	60	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	CREMA	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	0	0	0
+654392	60460	FLUSPORAN CREMA DERMICA	Flutrimazol 10 mg/g crema	10 mg/g	Tubo	60	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	CREMA	D01AC16 - Flutrimazol	GRUPO J URIACH S.L.	0	0	0
+681387	60962	MICETAL 10 MG/ML SOLUCIÓN PARA PULVERIZACIÓN CUTÁNEA	Flutrimazol 10 mg/ml líquido uso tópico	10 mg/ml	Frasco	30	ml	FLUTRIMAZOL 10 mg	USO CUTÁNEO	SOLUCIÓN CUTÁNEA	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	0	0	0
+682716	60877	FLUSPORAN GEL	Flutrimazol 10 mg/g gel	10 mg/g	Frasco	100	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	GEL	D01AC16 - Flutrimazol	GRUPO J URIACH S.L.	0	0	0
+682724	60876	MICETAL 10 mg/g GEL	Flutrimazol 10 mg/g gel	10 mg/g	Frasco	100	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	GEL	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	0	0	0
+690099	60461	MICETAL 10 MG/G CREMA	Flutrimazol 10 mg/g crema	10 mg/g	Tubo	30	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	CREMA	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	0	0	0
+690107	60460	FLUSPORAN CREMA DERMICA	Flutrimazol 10 mg/g crema	10 mg/g	Tubo	30	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	CREMA	D01AC16 - Flutrimazol	GRUPO J URIACH S.L.	0	0	0
+847103	62853	MICETAL 10 MG/G POLVO CUTÁNEO	Flutrimazol 10 mg/g sólido uso tópico	10 mg/g	Tarro	30	g	FLUTRIMAZOL 10 mg	USO CUTÁNEO	POLVO CUTÁNEO	D01AC16 - Flutrimazol	LABORATORIOS ERN S.A.	0	0	0

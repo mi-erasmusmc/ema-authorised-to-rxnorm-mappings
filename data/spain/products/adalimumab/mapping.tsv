@@ -17,7 +17,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 723344	1181286001	747844	0.8 ML adalimumab-adaz 50 MG/ML Prefilled Syringe [Hyrimoz]	2665426	EXACT			2025-12-04
 723688	1181319002	747712	0.8 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe [Hulio]	2640418	EXACT			2025-12-04
 723689	1181319005	747708	0.8 ML adalimumab-fkjp 50 MG/ML Auto-Injector [Hulio]	2640410	EXACT			2025-12-04
-723690	1181319007	747712	0.8 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe [Hulio]	2640418	NARROW		0.8 ML adalimumab-fkjp 50 MG/ML Injection [Hulio]	2025-12-04
+723690	1181319007	745906	adalimumab-fkjp 50 MG/ML [Hulio]	2640407	BROAD		0.8 ML adalimumab-fkjp 50 MG/ML Injection [Hulio]	2026-03-11
 725963	1191356002	747720	0.8 ML adalimumab-aacf 50 MG/ML Prefilled Syringe [Idacio]	2640857	EXACT			2025-12-04
 725964	1191356003	747722	0.8 ML adalimumab-aacf 50 MG/ML Auto-Injector [Idacio]	2640862	EXACT			2025-12-04
 730614	1201513010	2901938	0.4 ML adalimumab 100 MG/ML Pen Injector	OMOP5118815	EXACT			2025-12-04

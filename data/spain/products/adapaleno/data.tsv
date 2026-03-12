@@ -1,3 +1,3 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	nro_pactiv	atc	laboratorio_titular	fecha_autorizacion	sw_comercializado	fec_comer	situacion_registro	fecha_situacion_registro	sw_receta	sw_base_a_plantas	biosimilar	radiofarmaco
-651401	66158	DIFFERINE 1 mg/g CREMA	Adapaleno 1 mg/g crema	1 mg/g	Tubo	50	g	ADAPALENO 1 mg	USO CUTÁNEO	CREMA	1	D10AD - Retinoides para uso topico en acne	LABORATORIOS GALDERMA S.A.	2004-06-23	1	2011-10-18	Autorizado	2004-06-23	1	0	0	0
-800136	61066	DIFFERINE 1 mg/g    GEL	Adapaleno 1 mg/g gel	1 mg/g	Tubo	50	g	ADAPALENO 1 mg	USO CUTÁNEO	GEL	1	D10AD03 - Adapaleno	LABORATORIOS GALDERMA S.A.	1996-11-01	1	2011-10-18	Autorizado	1996-11-01	1	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
+651401	66158	DIFFERINE 1 mg/g CREMA	Adapaleno 1 mg/g crema	1 mg/g	Tubo	50	g	ADAPALENO 1 mg	USO CUTÁNEO	CREMA	D10AD - Retinoides para uso topico en acne	LABORATORIOS GALDERMA S.A.	0	0	0
+800136	61066	DIFFERINE 1 mg/g    GEL	Adapaleno 1 mg/g gel	1 mg/g	Tubo	50	g	ADAPALENO 1 mg	USO CUTÁNEO	GEL	D10AD03 - Adapaleno	LABORATORIOS GALDERMA S.A.	0	0	0

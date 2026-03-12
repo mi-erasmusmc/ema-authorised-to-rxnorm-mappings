@@ -7,4 +7,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 716816	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-08
 716817	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-08
 717050	199126023	19132639	0.5 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	809159	BROAD	pen injector mapped to prefilled syringe to preserve 0.5 ML dose	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-02-16
-765653	1201436005	1151884	etanercept 50 MG/ML Injectable Solution	582671				2025-12-04
+765653	1201436005	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-04

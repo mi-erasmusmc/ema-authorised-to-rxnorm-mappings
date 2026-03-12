@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-697858	100131040	21123900	peginterferon alfa-2b 0.1 MG	OMOP414739	BROAD			2025-12-04
-697859	100131044	35606675	peginterferon alfa-2b 0.12 MG [Pegintron]	1720797	BROAD			2025-12-04
-697860	100131048	35606677	peginterferon alfa-2b 0.15 MG [Pegintron]	1720801	BROAD			2025-12-04
-697861	100131036	35606673	peginterferon alfa-2b 0.08 MG [Pegintron]	1720787	BROAD			2025-12-04
-697862	100131032	35606670	peginterferon alfa-2b 0.05 MG [Pegintron]	1720778	BROAD			2025-12-04
+697858	100131040	36281069	0.5 ML peginterferon alfa-2b 0.2 MG/ML Pen Injector [Pegintron]	OMOP3131944	EXACT			2026-03-12
+697859	100131044	19129302	0.5 ML peginterferon alfa-2b 0.24 MG/ML Pen Injector [Pegintron]	760029	EXACT			2026-03-12
+697860	100131048	19129658	0.5 ML peginterferon alfa-2b 0.3 MG/ML Pen Injector [Pegintron]	790245	EXACT			2026-03-12
+697861	100131036	19129312	0.5 ML peginterferon alfa-2b 0.16 MG/ML Pen Injector [Pegintron]	760039	EXACT			2026-03-12
+697862	100131032	19129660	0.5 ML peginterferon alfa-2b 0.1 MG/ML Pen Injector [Pegintron]	790247	EXACT			2026-03-12

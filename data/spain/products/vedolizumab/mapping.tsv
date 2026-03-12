@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 702821	114923001	45774673	vedolizumab 300 MG Injection [Entyvio]	1538142	EXACT			2025-12-04
-728929	114923002	747852	0.68 ML vedolizumab 159 MG/ML Auto-Injector [Entyvio]	2667342				2025-12-04
-728931	114923005	747852	0.68 ML vedolizumab 159 MG/ML Auto-Injector [Entyvio]	2667342				2025-12-04
+728929	114923002	747850	0.68 ML vedolizumab 159 MG/ML Prefilled Syringe [Entyvio]	2667336	EXACT			2025-12-04
+728931	114923005	747852	0.68 ML vedolizumab 159 MG/ML Auto-Injector [Entyvio]	2667342	EXACT			2025-12-04

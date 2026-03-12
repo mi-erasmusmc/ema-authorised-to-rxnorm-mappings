@@ -7,5 +7,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 709802	80600	21090035	Beclomethasone / formoterol Inhalant Solution	OMOP286036	BROAD			
 710247	80707	36407525	Beclomethasone 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP3099567	EXACT			
 710249	80708	36894458	Beclomethasone / formoterol Inhalant Powder	OMOP1002030	BROAD			
+761741	88525	21158944	Beclomethasone / formoterol Dry Powder Inhaler	OMOP286058	BROAD			
 764529	89439	21090035	Beclomethasone / formoterol Inhalant Solution	OMOP286036	BROAD			
 764531	89440	21090035	Beclomethasone / formoterol Inhalant Solution	OMOP286036	BROAD			

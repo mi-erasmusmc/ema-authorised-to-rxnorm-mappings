@@ -1,6 +1,6 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	nro_pactiv	atc	laboratorio_titular	fecha_autorizacion	sw_comercializado	fec_comer	situacion_registro	fecha_situacion_registro	sw_receta	sw_base_a_plantas	biosimilar	radiofarmaco
-686436	52751	NEOCARE 4 mg/g CREMA	Tretinoína 4 mg/g crema	4 mg/g	Tubo	20	g	TRETINOINA 4 mg	USO CUTÁNEO	CREMA	1	D10AD01 - Tretinoina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	1975-11-01	1	2012-01-02	Autorizado	1975-11-01	1	0	0	0
-695569	60142	RETIRIDES 1 MG/G CREMA	Tretinoína 1 mg/g crema	1 mg/g	Tubo	30	g	TRETINOINA 1 mg	USO CUTÁNEO	CREMA	1	D10AD01 - Tretinoina	GALENICUM DERMA S.L.U.	1993-11-01	1	2011-03-18	Autorizado	1993-11-01	1	0	0	0
-695577	60141	RETIRIDES 0,5 MG/G CREMA	Tretinoína 0,5 mg/g crema	0,5 mg/g	Tubo	30	g	TRETINOINA 0,5 mg	USO CUTÁNEO	CREMA	1	D10AD01 - Tretinoina	GALENICUM DERMA S.L.U.	1993-11-01	1	2011-03-18	Autorizado	1993-11-01	1	0	0	0
-695585	60140	RETIRIDES 0,25 MG/G CREMA	Tretinoína 0,25 mg/g crema	0,25 mg/g	Tubo	30	g	TRETINOINA 0,25 mg	USO CUTÁNEO	CREMA	1	D10AD01 - Tretinoina	GALENICUM DERMA S.L.U.	1993-11-01	1	2011-03-18	Autorizado	1993-11-01	1	0	0	0
-700700	65396	VESANOID 10 mg CAPSULAS BLANDAS	Tretinoína 10 mg cápsula	10 mg	Frasco	100	cápsula	TRETINOINA 10 mg	VÍA ORAL	CÁPSULA BLANDA	1	L01XF01 - Tretinoina	CHEPLAPHARM ARZNEIMITTEL GMBH	2003-07-10	1	2011-10-19	Autorizado	2003-07-10	1	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
+686436	52751	NEOCARE 4 mg/g CREMA	Tretinoína 4 mg/g crema	4 mg/g	Tubo	20	g	TRETINOINA 4 mg	USO CUTÁNEO	CREMA	D10AD01 - Tretinoina	INDUSTRIAL FARMACEUTICA CANTABRIA S.A.	0	0	0
+695569	60142	RETIRIDES 1 MG/G CREMA	Tretinoína 1 mg/g crema	1 mg/g	Tubo	30	g	TRETINOINA 1 mg	USO CUTÁNEO	CREMA	D10AD01 - Tretinoina	GALENICUM DERMA S.L.U.	0	0	0
+695577	60141	RETIRIDES 0,5 MG/G CREMA	Tretinoína 0,5 mg/g crema	0,5 mg/g	Tubo	30	g	TRETINOINA 0,5 mg	USO CUTÁNEO	CREMA	D10AD01 - Tretinoina	GALENICUM DERMA S.L.U.	0	0	0
+695585	60140	RETIRIDES 0,25 MG/G CREMA	Tretinoína 0,25 mg/g crema	0,25 mg/g	Tubo	30	g	TRETINOINA 0,25 mg	USO CUTÁNEO	CREMA	D10AD01 - Tretinoina	GALENICUM DERMA S.L.U.	0	0	0
+700700	65396	VESANOID 10 mg CAPSULAS BLANDAS	Tretinoína 10 mg cápsula	10 mg	Frasco	100	cápsula	TRETINOINA 10 mg	VÍA ORAL	CÁPSULA BLANDA	L01XF01 - Tretinoina	CHEPLAPHARM ARZNEIMITTEL GMBH	0	0	0

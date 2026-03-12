@@ -4,7 +4,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728315	1201430008	37496838	semaglutide 14 MG Oral Tablet [Rybelsus]	2200650	EXACT			2025-12-04
 728316	1201430002	37496842	semaglutide 3 MG Oral Tablet [Rybelsus]	2200654	EXACT			2025-12-04
 728317	1201430005	37496746	semaglutide 7 MG Oral Tablet [Rybelsus]	2200658	EXACT			2025-12-04
-758085	1211608006	741832	0.25 MG, 0.5 MG Dose 3 ML semaglutide 0.68 MG/ML Pen Injector	2619152	NARROW		0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 0.68 MG/ML Pen Injector [Wegovy]	2025-12-04
+758085	1211608006	741832	0.25 MG, 0.5 MG Dose 3 ML semaglutide 0.68 MG/ML Pen Injector	2619152	BROAD		0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 0.68 MG/ML Pen Injector [Wegovy]	2026-03-11
 758086	1211608007	793147	0.25 MG, 0.5 MG Dose 1.5 ML semaglutide 1.34 MG/ML Pen Injector	1991306	EXACT			2025-12-04
 758087	1211608008	37003616	3 ML semaglutide 1.34 MG/ML Pen Injector	2398841	EXACT			2025-12-04
 758088	1211608009	1537039	semaglutide 2.27 MG/ML Auto-Injector [Wegovy]	2553905	BROAD		3 ML semaglutide 2.27 MG/ML Auto-Injector [Wegovy]	2025-12-04

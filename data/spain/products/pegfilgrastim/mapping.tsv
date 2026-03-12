@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-723691	1181313001	1537587	0.6 ML pegfilgrastim 10 MG/ML Injection	2549331				2025-12-04
-724162	1181328001	1537587	0.6 ML pegfilgrastim 10 MG/ML Injection	2549331				2025-12-04
-724603	1181327001	1537587	0.6 ML pegfilgrastim 10 MG/ML Injection	2549331				2025-12-04
-726446	1181329002	1537587	0.6 ML pegfilgrastim 10 MG/ML Injection	2549331				2025-12-04
-727276	1181313002	1537587	0.6 ML pegfilgrastim 10 MG/ML Injection	2549331				2025-12-04
+723691	1181313001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
+724162	1181328001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
+724603	1181327001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
+726446	1181329002	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
+727276	1181313002	1301943	pegfilgrastim Auto-Injector	2632543	BROAD		0.6 ML pegfilgrastim 10 MG/ML Auto-Injector	2025-12-04
 729949	1201486001	1537587	0.6 ML pegfilgrastim 10 MG/ML Injection	2549331	EXACT			2025-12-04

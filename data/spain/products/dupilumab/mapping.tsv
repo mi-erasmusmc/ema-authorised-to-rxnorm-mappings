@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-718735	1171229006	1593493	dupilumab 150 MG/ML [Dupixent]	1876403				2025-12-04
-727309	1171229010	35202011	1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent]	2099302				2025-12-04
-727310	1171229014	35202011	1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent]	2099302				2025-12-04
-727471	1171229018	1593493	dupilumab 150 MG/ML [Dupixent]	1876403				2025-12-04
-758027	1171229014	35202011	1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent]	2099302				2025-12-04
-758028	1171229018	1593493	dupilumab 150 MG/ML [Dupixent]	1876403				2025-12-04
+718735	1171229006	1593496	2 ML dupilumab 150 MG/ML Prefilled Syringe [Dupixent]	1876406	EXACT			2025-12-04
+727309	1171229010	35202011	1.14 ML dupilumab 175 MG/ML Prefilled Syringe [Dupixent]	2099302	EXACT			2025-12-04
+727310	1171229014	1537617	1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent]	2559707	EXACT			2025-12-04
+727471	1171229018	1146755	2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent]	2375329	EXACT			2025-12-04
+758027	1171229014	1537617	1.14 ML dupilumab 175 MG/ML Auto-Injector [Dupixent]	2559707	EXACT			2025-12-04
+758028	1171229018	1146755	2 ML dupilumab 150 MG/ML Auto-Injector [Dupixent]	2375329	EXACT			2025-12-04

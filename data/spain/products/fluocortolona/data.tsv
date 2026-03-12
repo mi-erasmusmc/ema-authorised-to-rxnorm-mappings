@@ -1,2 +1,2 @@
-cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	nro_pactiv	atc	laboratorio_titular	fecha_autorizacion	sw_comercializado	fec_comer	situacion_registro	fecha_situacion_registro	sw_receta	sw_base_a_plantas	biosimilar	radiofarmaco
-744342	56688	ULTRALAN M 2 mg/g CREMA	Fluocortolona 2 mg/g crema	2 mg/g	Tubo	30	g	FLUOCORTOLONA 2 mg	USO CUTÁNEO	CREMA	1	D07AC05 - Fluocortolona	LEO PHARMA A/S	1987-04-01	0	2020-06-30	Anulado	2020-06-30	1	0	0	0
+cod_nacion	nro_definitivo	des_nomco	des_dcp	des_dosific	envase	contenido	unidad_contenido	principios_activos	vias_administracion	forma_farmaceutica	atc	laboratorio_titular	sw_base_a_plantas	biosimilar	radiofarmaco
+744342	56688	ULTRALAN M 2 mg/g CREMA	Fluocortolona 2 mg/g crema	2 mg/g	Tubo	30	g	FLUOCORTOLONA 2 mg	USO CUTÁNEO	CREMA	D07AC05 - Fluocortolona	LEO PHARMA A/S	0	0	0

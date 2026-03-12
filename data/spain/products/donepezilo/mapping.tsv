@@ -78,3 +78,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 765311	73987	40057961	donepezil Oral Tablet	371957	BROAD			
 765832	75216	40223779	donepezil hydrochloride 5 MG Oral Tablet [Aricept]	997230	EXACT			
 765833	75217	40223769	donepezil hydrochloride 10 MG Oral Tablet [Aricept]	997224	EXACT			
+768445	75274	40223769	donepezil hydrochloride 10 MG Oral Tablet [Aricept]	997224	EXACT			
+768446	75275	40223779	donepezil hydrochloride 5 MG Oral Tablet [Aricept]	997230	EXACT			
