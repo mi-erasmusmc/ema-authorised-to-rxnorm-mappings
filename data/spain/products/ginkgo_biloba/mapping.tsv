@@ -1,9 +1,16 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-701577	78485	19098505	Ginkgo biloba leaf extract	259265	BROAD			
-701578	78485	19098505	Ginkgo biloba leaf extract	259265	BROAD			
-701580	78485	19098505	Ginkgo biloba leaf extract	259265	BROAD			
-701583	78486	19098505	Ginkgo biloba leaf extract	259265	BROAD			
-701584	78486	19098505	Ginkgo biloba leaf extract	259265	BROAD			
-718775	82367	19098505	Ginkgo biloba leaf extract	259265	BROAD			
-718776	82367	19098505	Ginkgo biloba leaf extract	259265	BROAD			
-874164	63114	43656717	Ginkgo biloba extract 40 MG [Ginkgo Sandoz]	OMOP936249	BROAD			
+701577	78485	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 120 MG Oral Tablet	2026-03-12
+701578	78485	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 120 MG Oral Tablet	2026-03-12
+701580	78485	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 120 MG Oral Tablet	2026-03-12
+701583	78486	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 120 MG Oral Tablet	2026-03-12
+701584	78486	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 120 MG Oral Tablet	2026-03-12
+718775	82367	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 240 MG Oral Tablet	2026-03-12
+718776	82367	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 240 MG Oral Tablet	2026-03-12
+874164	63114	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 40 MG Oral Tablet	2026-03-12
+664354	71703	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 140 MG/ML Oral Drops	2026-03-12
+682473	74474	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf preparation 180 MG Oral Capsule	2026-03-12
+682474	74474	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf preparation 180 MG Oral Capsule	2026-03-12
+682475	74474	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf preparation 180 MG Oral Capsule	2026-03-12
+765135	9418214	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 120 MG Oral Tablet	2026-03-12
+765136	9418214	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 120 MG Oral Tablet	2026-03-12
+874776	71703	1391889	Ginkgo biloba extract	236809	BROAD		Ginkgo biloba leaf dry extract 40 MG/ML Oral Solution	2026-03-12

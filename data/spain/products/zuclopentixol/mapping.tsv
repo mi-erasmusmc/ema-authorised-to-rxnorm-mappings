@@ -1,8 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-682948	60875	19010887	zuclopenthixol 50 MG/ML Injectable Solution	248373				
-682955	60875	19010887	zuclopenthixol 50 MG/ML Injectable Solution	248373				
-682963	60874	19004701	zuclopenthixol 200 MG/ML Injectable Solution [Clopixol]	104794	EXACT			
-682971	60873	19004666	zuclopenthixol 25 MG Oral Tablet [Clopixol]	104771				
-682989	60872	19004665	zuclopenthixol 10 MG Oral Tablet [Clopixol]	104770				
-682997	60872	19004665	zuclopenthixol 10 MG Oral Tablet [Clopixol]	104770				
-683003	60871	19064640	zuclopenthixol 20 MG/ML Oral Solution	251880				
+682948	60875	19004692	zuclopenthixol 50 MG/ML Injectable Solution [Clopixol Acuphase]	104779	EXACT			2026-03-12
+682955	60875	19004692	zuclopenthixol 50 MG/ML Injectable Solution [Clopixol Acuphase]	104779	EXACT			2026-03-12
+682963	60874	19004701	zuclopenthixol 200 MG/ML Injectable Solution [Clopixol]	104794	EXACT			2026-03-12
+682971	60873	19004666	zuclopenthixol 25 MG Oral Tablet [Clopixol]	104771	EXACT			2026-03-12
+682989	60872	19004665	zuclopenthixol 10 MG Oral Tablet [Clopixol]	104770	EXACT			2026-03-12
+682997	60872	19004665	zuclopenthixol 10 MG Oral Tablet [Clopixol]	104770	EXACT			2026-03-12
+683003	60871	19064640	zuclopenthixol 20 MG/ML Oral Solution	251880	EXACT			2026-03-12
+767546	6816281C	19004701	zuclopenthixol 200 MG/ML Injectable Solution [Clopixol]	104794	EXACT			2026-03-12
+769503	6816281CIP	19004701	zuclopenthixol 200 MG/ML Injectable Solution [Clopixol]	104794	EXACT			2026-03-12

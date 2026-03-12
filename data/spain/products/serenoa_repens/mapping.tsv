@@ -1,2 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-727288	84613	41277119	Saw palmetto extract 320 MG Oral Capsule [Se Saegepalme]	OMOP2475081	BROAD			
+727288	84613	36249258	Serenoa repens whole extract	1799374	BROAD		Serenoa repens lipid extract 320 MG Oral Capsule	2026-03-12
+667683	61729	43201616	Serenoa preparation 160 MG Oral Capsule	OMOP453887	EXACT			2026-03-12
+706030	79702	36249258	Serenoa repens whole extract	1799374	BROAD		Serenoa repens ethanolic extract 320 MG Oral Capsule	2026-03-12
+967398	56872	36249258	Serenoa repens whole extract	1799374	BROAD		Serenoa repens lipid extract 80 MG Oral Tablet	2026-03-12

@@ -1,3 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-658358	68398	2930722	Phleum pratense top extract 75000 UNT Disintegrating Oral Tablet	OMOP5147504				
-724710	68398	2930722	Phleum pratense top extract 75000 UNT Disintegrating Oral Tablet	OMOP5147504				
+658358	68398	2930722	Phleum pratense top extract 75000 UNT Disintegrating Oral Tablet	OMOP5147504	EXACT			2026-03-12
+724710	68398	2930722	Phleum pratense top extract 75000 UNT Disintegrating Oral Tablet	OMOP5147504	EXACT			2026-03-12
+664726	71879	1594456	Phleum pratense allergenic extract	1922743	BROAD		Phleum pratense pollen extract 10 HEP Allergen Skin Test Solution	2026-03-12

@@ -1,39 +1,66 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650136	66323	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469				
-650137	66324	43154958	Acetylcysteine 200 MG Powder for Oral Solution	OMOP453812	EXACT			
-650156	66339	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469				
-650157	66340	43154958	Acetylcysteine 200 MG Powder for Oral Solution	OMOP453812	EXACT			
-650426	66458	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469				
-650427	66459	43154958	Acetylcysteine 200 MG Powder for Oral Solution	OMOP453812	EXACT			
-650429	66460	36267555	Acetylcysteine 100 MG Granules for Oral Solution	OMOP3118430	EXACT			
-654306	67761	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-654312	67763	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-654450	67829	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-654568	67874	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-655938	67988	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-656242	68108	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439				
-656303	68136	19106588	acetylcysteine 200 MG Oral Tablet	429044				
-656304	68137	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-656456	68217	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-659208	68888	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469				
-661066	63512	19128691	acetylcysteine 20 MG/ML Oral Solution	755493	EXACT			
-685704	74993	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-694047	76660	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-702836	58931	35606336	acetylcysteine 200 MG/ML Injection	1742778	EXACT			
-703245	67988	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-710395	80760	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-713615	76660	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-723720	67761	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-725008	83881	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-725009	83881	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-729933	85628	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-730287	80760	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-730705	62389	43154958	Acetylcysteine 200 MG Powder for Oral Solution	OMOP453812	EXACT			
-731216	62390	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-732551	86475	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-763280	67829	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-800813	62652	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439				
-848531	62665	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439				
-884403	62663	19106586	acetylcysteine 600 MG Oral Tablet	429042	EXACT			
-894055	63268	19106586	acetylcysteine 600 MG Oral Tablet	429042				
-999727	63267	43154958	Acetylcysteine 200 MG Powder for Oral Solution	OMOP453812	EXACT			
+650136	66323	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+650137	66324	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+650156	66339	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+650157	66340	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+650426	66458	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+650427	66459	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+650429	66460	36267555	Acetylcysteine 100 MG Granules for Oral Solution	OMOP3118430	EXACT			2026-03-12
+654306	67761	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+654312	67763	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+654450	67829	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+654568	67874	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+655938	67988	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+656242	68108	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+656303	68136	43187936	Acetylcysteine 200 MG Effervescent Oral Tablet	OMOP452447	EXACT			2026-03-12
+656304	68137	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+656456	68217	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+659208	68888	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+661066	63512	19128691	acetylcysteine 20 MG/ML Oral Solution	755493	EXACT			2026-03-12
+685704	74993	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+694047	76660	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+702836	58931	43628966	25 ML Acetylcysteine 200 MG/ML Injection	OMOP799890	EXACT	Single-use vial; volume-specific Injection concept available.		2026-03-12
+703245	67988	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+710395	80760	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+713615	76660	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+723720	67761	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+725008	83881	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+725009	83881	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+729933	85628	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+730287	80760	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+730705	62389	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+731216	62390	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+732551	86475	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+763280	67829	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+800813	62652	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+848531	62665	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+884403	62663	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+894055	63268	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+999727	63267	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+653993	67621	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+664110	63523	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+701406	78452	19128691	acetylcysteine 20 MG/ML Oral Solution	755493	EXACT			2026-03-12
+703244	67621	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+703376	78984	19106586	acetylcysteine 600 MG Oral Tablet	429042	EXACT			2026-03-12
+704186	79190	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+730517	85822	19106586	acetylcysteine 600 MG Oral Tablet	429042	EXACT			2026-03-12
+730549	62388	36267555	Acetylcysteine 100 MG Granules for Oral Solution	OMOP3118430	EXACT			2026-03-12
+730833	85923	19106586	acetylcysteine 600 MG Oral Tablet	429042	EXACT			2026-03-12
+758706	41474	43752926	3 ML Acetylcysteine 100 MG/ML Injectable Solution	OMOP760213	EXACT			2026-03-12
+764182	2274-2009-01IP	43752926	3 ML Acetylcysteine 100 MG/ML Injectable Solution	OMOP760213	EXACT			2026-03-12
+766532	90038	43752926	3 ML Acetylcysteine 100 MG/ML Injectable Solution	OMOP760213	EXACT			2026-03-12
+767682	150202	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+768418	BE150202	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
+773622	65292	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+774455	65293	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+788927	64920	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+789099	64921	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+799809	65345	43743945	Acetylcysteine 40 MG/ML Oral Solution	OMOP767079	EXACT			2026-03-12
+800474	62651	36267555	Acetylcysteine 100 MG Granules for Oral Solution	OMOP3118430	EXACT			2026-03-12
+804666	62664	36267555	Acetylcysteine 100 MG Granules for Oral Solution	OMOP3118430	EXACT			2026-03-12
+808501	64924	42479670	Acetylcysteine 200 MG Disintegrating Oral Tablet	OMOP419111	EXACT			2026-03-12
+821900	66247	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+849679	65048	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12
+849711	65049	36272594	Acetylcysteine 600 MG Granules for Oral Solution	OMOP3123469	EXACT			2026-03-12
+851683	65047	36267555	Acetylcysteine 100 MG Granules for Oral Solution	OMOP3118430	EXACT			2026-03-12
+939942	65532	43743945	Acetylcysteine 40 MG/ML Oral Solution	OMOP767079	EXACT			2026-03-12
