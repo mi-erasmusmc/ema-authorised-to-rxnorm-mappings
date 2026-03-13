@@ -7,3 +7,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 994657	58678	41210847	heparin 1000 UNT/ML Topical Gel	OMOP2408809	EXACT			2026-03-12
 607732	58693	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT		no 5 ML vial-specific concept in RxNorm; 5000 UNT/ML strength matches exactly	2026-03-12
 607779	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT		no 5 ML vial-specific concept in RxNorm; 5000 UNT/ML strength matches exactly	2026-03-12
+608687	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT			2026-03-13
+641639	58693	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT			2026-03-13
+673049	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT			2026-03-13
+994665	58679	40047406	heparinoids Topical Ointment	393530	BROAD	No heparin-specific topical ointment concept in RxNorm; heparin 1000 IU/g cream mapped to heparinoids Topical Ointment	heparin 1000 UNT/G Topical Ointment	2026-03-13

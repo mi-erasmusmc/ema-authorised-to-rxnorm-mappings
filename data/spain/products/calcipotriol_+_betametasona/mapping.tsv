@@ -1,13 +1,18 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661752	70191	36030600	betamethasone / calcipotriene	690419	BROAD			
-661753	70191	36030600	betamethasone / calcipotriene	690419	BROAD			
-703431	70191	36030600	betamethasone / calcipotriene	690419	BROAD			
-710966	80896	35602975	betamethasone dipropionate 0.643 MG/ML / calcipotriene 0.05 MG/ML Topical Foam [Enstilar]	1716099	EXACT			
-710967	80896	35602975	betamethasone dipropionate 0.643 MG/ML / calcipotriene 0.05 MG/ML Topical Foam [Enstilar]	1716099	EXACT			
-725197	70191	36030600	betamethasone / calcipotriene	690419	BROAD			
-726928	84526	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			
-728954	85258	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			
-731344	86088	36934054	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Cream	OMOP5182741	EXACT			
-732357	86428	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			
-749493	86088	36934054	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Cream	OMOP5182741	EXACT			
-765247	85258	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			
+661752	70191	36030600	betamethasone / calcipotriene	690419	BROAD	calcipotriene/betamethasone gel presentation not exposed exactly in RxNorm	calcipotriene 0.05 MG/ML / betamethasone 0.5 MG/ML Topical Gel	2026-03-13
+661753	70191	36030600	betamethasone / calcipotriene	690419	BROAD	calcipotriene/betamethasone gel presentation not exposed exactly in RxNorm	calcipotriene 0.05 MG/ML / betamethasone 0.5 MG/ML Topical Gel	2026-03-13
+703431	70191	36030600	betamethasone / calcipotriene	690419	BROAD	calcipotriene/betamethasone gel presentation not exposed exactly in RxNorm	calcipotriene 0.05 MG/ML / betamethasone 0.5 MG/ML Topical Gel	2026-03-13
+710966	80896	35602975	betamethasone dipropionate 0.643 MG/ML / calcipotriene 0.05 MG/ML Topical Foam [Enstilar]	1716099	EXACT			2026-03-13
+710967	80896	35602975	betamethasone dipropionate 0.643 MG/ML / calcipotriene 0.05 MG/ML Topical Foam [Enstilar]	1716099	EXACT			2026-03-13
+725197	70191	36030600	betamethasone / calcipotriene	690419	BROAD	calcipotriene/betamethasone gel presentation not exposed exactly in RxNorm	calcipotriene 0.05 MG/ML / betamethasone 0.5 MG/ML Topical Gel	2026-03-13
+726928	84526	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			2026-03-13
+728954	85258	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			2026-03-13
+731344	86088	36934054	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Cream	OMOP5182741	EXACT			2026-03-13
+732357	86428	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			2026-03-13
+749493	86088	36934054	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Cream	OMOP5182741	EXACT			2026-03-13
+765247	85258	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			2026-03-13
+661745	70210	36030600	betamethasone / calcipotriene	690419	BROAD	calcipotriene/betamethasone gel presentation not exposed exactly in RxNorm	calcipotriene 0.05 MG/ML / betamethasone 0.5 MG/ML Topical Gel	2026-03-13
+700744	78251	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			2026-03-13
+700746	78252	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			2026-03-13
+709377	80522	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			2026-03-13
+748970	64543	908951	betamethasone 0.0005 MG/MG / calcipotriene 0.00005 MG/MG Topical Ointment	388525	EXACT			2026-03-13

@@ -1,7 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-620419	56234	19000954	ketazolam 30 MG Oral Capsule	102536	EXACT			
-620435	56235	19000953	ketazolam 15 MG Oral Capsule	102535	EXACT			
-959452	56234	19000954	ketazolam 30 MG Oral Capsule	102536	EXACT			
-959460	56235	19000953	ketazolam 15 MG Oral Capsule	102535	EXACT			
-959775	56260	19000954	ketazolam 30 MG Oral Capsule	102536	EXACT			
-988113	56259	19000953	ketazolam 15 MG Oral Capsule	102535	EXACT			
+620419	56234	19000954	ketazolam 30 MG Oral Capsule	102536	EXACT			2026-03-13
+620435	56235	19000953	ketazolam 15 MG Oral Capsule	102535	EXACT			2026-03-13
+959452	56234	19000954	ketazolam 30 MG Oral Capsule	102536	EXACT			2026-03-13
+959460	56235	19000953	ketazolam 15 MG Oral Capsule	102535	EXACT			2026-03-13
+959775	56260	19000954	ketazolam 30 MG Oral Capsule	102536	EXACT			2026-03-13
+988113	56259	19000953	ketazolam 15 MG Oral Capsule	102535	EXACT			2026-03-13
+620401	56271	40057781	ketazolam Oral Capsule	372530	BROAD	No 45 MG ketazolam capsule concept in RxNorm; mapped to the ketazolam oral capsule class concept.	ketazolam 45 MG Oral Capsule	2026-03-13
+959783	56261	40057781	ketazolam Oral Capsule	372530	BROAD	No 45 MG ketazolam capsule concept in RxNorm; mapped to the ketazolam oral capsule class concept.	ketazolam 45 MG Oral Capsule	2026-03-13
+959924	56271	40057781	ketazolam Oral Capsule	372530	BROAD	No 45 MG ketazolam capsule concept in RxNorm; mapped to the ketazolam oral capsule class concept.	ketazolam 45 MG Oral Capsule	2026-03-13

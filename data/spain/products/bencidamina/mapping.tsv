@@ -1,16 +1,21 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602607	56573	19019620	benzydamine	1425	BROAD			
-650117	56573	19019620	benzydamine	1425	BROAD			
-650118	56573	19019620	benzydamine	1425	BROAD			
-650438	66467	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-662837	58900	42707728	benzydamine hydrochloride 1.5 MG/ML Mouthwash	1236077	EXACT			
-676114	63609	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-679962	73980	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-679965	73982	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-712357	81193	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-713470	81378	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-724684	83798	42707762	benzydamine hydrochloride 3 MG/ML Oral Solution	1236151				
-763078	63609	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-763085	66467	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-763088	73982	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
-763894	73980	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			
+602607	56573	19019620	benzydamine	1425	BROAD		benzydamine hydrochloride 500 MG Vaginal Douche	2026-03-13
+650117	56573	19019620	benzydamine	1425	BROAD		benzydamine hydrochloride 500 MG Vaginal Douche	2026-03-13
+650118	56573	19019620	benzydamine	1425	BROAD		benzydamine hydrochloride 500 MG Vaginal Douche	2026-03-13
+650438	66467	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+662837	58900	42707728	benzydamine hydrochloride 1.5 MG/ML Mouthwash	1236077	EXACT			2026-03-13
+676114	63609	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+679962	73980	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+679965	73982	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+712357	81193	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+713470	81378	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+724684	83798	42707762	benzydamine hydrochloride 3 MG/ML Oral Solution	1236151				2026-03-13
+763078	63609	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+763085	66467	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+763088	73982	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+763894	73980	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+698671	77753	42707731	benzydamine hydrochloride 1.5 MG/ML Oral Spray	1236079	EXACT			2026-03-13
+723893	83540	42707734	benzydamine hydrochloride 3 MG Oral Lozenge	1236089	EXACT			2026-03-13
+768572	59541	42707749	benzydamine hydrochloride 250 MG Douche	1236110	BROAD		benzydamine hydrochloride 140 MG Vaginal Douche	2026-03-13
+832295	46221	42707735	benzydamine hydrochloride 30 MG/ML Topical Cream	1236090	BROAD		benzydamine hydrochloride 30 MG/G Topical Ointment	2026-03-13
+880286	50643	42707771	benzydamine hydrochloride 50 MG/ML Topical Cream	1236134	BROAD		benzydamine hydrochloride 50 MG/G Topical Cream	2026-03-13

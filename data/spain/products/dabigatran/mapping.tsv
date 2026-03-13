@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-732863	108442025	40228152	dabigatran etexilate	1037042	BROAD	RxNorm does not expose the Spain powder-and-solvent oral-solution presentation.	dabigatran etexilate 6.25 MG/ML Powder for Oral Solution [Pradaxa]	2026-03-13
-732864	108442026	40228152	dabigatran etexilate	1037042	BROAD	RxNorm does not expose the Spain powder-and-solvent oral-solution presentation.	dabigatran etexilate 6.25 MG/ML Powder for Oral Solution [Pradaxa]	2026-03-13
-732865	108442027	40228152	dabigatran etexilate	1037042	BROAD	RxNorm does not expose the Spain powder-and-solvent oral-solution presentation.	dabigatran etexilate 6.25 MG/ML Powder for Oral Solution [Pradaxa]	2026-03-13
-732866	108442028	40228152	dabigatran etexilate	1037042	BROAD	RxNorm does not expose the Spain powder-and-solvent oral-solution presentation.	dabigatran etexilate 6.25 MG/ML Powder for Oral Solution [Pradaxa]	2026-03-13
-732867	108442029	35606210	dabigatran etexilate 110 MG Oral Capsule [Pradaxa]	1723478	EXACT			2026-03-13
-732868	108442030	40228158	dabigatran etexilate 150 MG Oral Capsule [Pradaxa]	1037049	EXACT			2026-03-13
+732863	108442025	1758813	dabigatran etexilate 20 MG Oral Pellet [Pradaxa]	2590625	EXACT			2026-03-13
+732864	108442026	1758817	dabigatran etexilate 30 MG Oral Pellet [Pradaxa]	2590629	EXACT			2026-03-13
+732865	108442027	1758821	dabigatran etexilate 40 MG Oral Pellet [Pradaxa]	2590633	EXACT			2026-03-13
+732866	108442028	1758825	dabigatran etexilate 50 MG Oral Pellet [Pradaxa]	2590637	EXACT			2026-03-13
+732867	108442029	1758807	dabigatran etexilate 110 MG Oral Pellet [Pradaxa]	2590619	EXACT			2026-03-13
+732868	108442030	1758809	dabigatran etexilate 150 MG Oral Pellet [Pradaxa]	2590621	EXACT			2026-03-13
 734534	86841	40228154	dabigatran etexilate 150 MG Oral Capsule	1037045	EXACT			2026-03-13
 734540	86842	40228161	dabigatran etexilate 75 MG Oral Capsule	1037179	EXACT			2026-03-13
 734544	86843	35606208	dabigatran etexilate 110 MG Oral Capsule	1723476	EXACT			2026-03-13

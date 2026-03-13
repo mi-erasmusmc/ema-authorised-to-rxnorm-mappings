@@ -7,3 +7,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 730241	85535	42902781	atropine sulfate 0.1 MG/ML Prefilled Syringe	1359894	EXACT			2026-03-12
 896829	27535	35603355	atropine sulfate 1 MG/ML Injection	1668034	EXACT			2026-03-12
 635631	49070	40243418	atropine sulfate 0.5 MG/ML	1190778	BROAD		1 ML atropine sulfate 0.5 MG/ML Injection	2026-03-12
+654826	45046	40243474	atropine sulfate 5 MG/ML Ophthalmic Solution	1190668	EXACT			2026-03-13
+654827	39474	40243447	atropine sulfate 10 MG/ML Ophthalmic Solution	1190655	EXACT			2026-03-13
+733923	30259	40243474	atropine sulfate 5 MG/ML Ophthalmic Solution	1190668	EXACT			2026-03-13
+733931	26260	40243447	atropine sulfate 10 MG/ML Ophthalmic Solution	1190655	EXACT			2026-03-13

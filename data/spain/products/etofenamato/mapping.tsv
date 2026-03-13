@@ -1,2 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-727205	84578	19095561	etofenamate	24608	BROAD			
+727205	84578	19095561	etofenamate	24608	BROAD	RxNorm does not expose an etofenamate medicated patch concept.	etofenamate 70 MG Medicated Patch	2026-03-13
+700464	55380	19060294	etofenamate 0.05 MG/MG Topical Gel	246206	EXACT			2026-03-13
+756866	54646	19060294	etofenamate 0.05 MG/MG Topical Gel	246206	EXACT			2026-03-13
+946137	55380	19060294	etofenamate 0.05 MG/MG Topical Gel	246206	EXACT			2026-03-13
+951392	55701	43603716	etofenamate Topical Spray	OMOP957487	BROAD	Cutaneous spray strength is not exposed exactly in RxNorm.	etofenamate 50 MG/ML Topical Spray	2026-03-13
+988303	56338	19060294	etofenamate 0.05 MG/MG Topical Gel	246206	EXACT			2026-03-13

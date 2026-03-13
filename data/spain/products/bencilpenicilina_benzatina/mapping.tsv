@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603283	53848	36272051	Penicillin G Intramuscular Solution	OMOP3122926	BROAD			
-603284	55835	36272051	Penicillin G Intramuscular Solution	OMOP3122926	BROAD			
-603285	22295	36272051	Penicillin G Intramuscular Solution	OMOP3122926	BROAD			
-700715	22295	36272051	Penicillin G Intramuscular Solution	OMOP3122926	BROAD			
-700717	55835	36272051	Penicillin G Intramuscular Solution	OMOP3122926	BROAD			
-700718	53848	36272051	Penicillin G Intramuscular Solution	OMOP3122926	BROAD			
+603283	53848	1728609	penicillin G benzathine 600000 UNT/ML Injectable Suspension	731572	BROAD		penicillin G benzathine 600000 UNT Injectable Suspension	2026-03-13
+603284	55835	747514	penicillin G benzathine 1200000 UNT Injection	2671687	EXACT			2026-03-13
+603285	22295	747521	penicillin G benzathine 2400000 UNT Injection	2671695	EXACT			2026-03-13
+700715	22295	747521	penicillin G benzathine 2400000 UNT Injection	2671695	EXACT			2026-03-13
+700717	55835	747514	penicillin G benzathine 1200000 UNT Injection	2671687	EXACT			2026-03-13
+700718	53848	1728609	penicillin G benzathine 600000 UNT/ML Injectable Suspension	731572	BROAD		penicillin G benzathine 600000 UNT Injectable Suspension	2026-03-13

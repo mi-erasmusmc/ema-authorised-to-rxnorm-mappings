@@ -1,60 +1,65 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661430	70042	40174972	levothyroxine sodium 0.112 MG Oral Tablet	966248	EXACT			
-661432	70043	40175026	levothyroxine sodium 0.137 MG Oral Tablet	966270	EXACT			
-661434	70044	40174907	levothyroxine sodium 0.088 MG Oral Tablet	966253	EXACT			
-671981	64011	40175174	levothyroxine sodium 0.025 MG Oral Tablet	966220	EXACT			
-671983	64012	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			
-671984	64013	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			
-671985	64014	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			
-671986	64015	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			
-671987	64016	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			
-671988	64017	40175077	levothyroxine sodium 0.175 MG Oral Tablet	966249	EXACT			
-671989	64018	40169770	levothyroxine sodium 0.2 MG Oral Tablet	892251	EXACT			
-696243	77044	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			
-696277	77045	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			
-696281	77045	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			
-696283	77045	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			
-696318	77046	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			
-696356	77047	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			
-696390	77048	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			
-696394	77048	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			
-698079	70042	40174972	levothyroxine sodium 0.112 MG Oral Tablet	966248	EXACT			
-698080	64015	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			
-698081	70043	40175026	levothyroxine sodium 0.137 MG Oral Tablet	966270	EXACT			
-698082	64016	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			
-698083	64017	40175077	levothyroxine sodium 0.175 MG Oral Tablet	966249	EXACT			
-698084	64018	40169770	levothyroxine sodium 0.2 MG Oral Tablet	892251	EXACT			
-698089	64011	40175174	levothyroxine sodium 0.025 MG Oral Tablet	966220	EXACT			
-698092	64012	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			
-698093	64013	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			
-698094	70044	40174907	levothyroxine sodium 0.088 MG Oral Tablet	966253	EXACT			
-698095	64014	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			
-698786	77800	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			
-698788	77801	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			
-698790	77802	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			
-715588	77048	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			
-715589	77044	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			
-715590	77046	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			
-715591	77047	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			
-726802	84481	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			
-726803	84482	40175174	levothyroxine sodium 0.025 MG Oral Tablet	966220	EXACT			
-726804	84483	40169770	levothyroxine sodium 0.2 MG Oral Tablet	892251	EXACT			
-726805	84484	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			
-729889	85609	1501700	levothyroxine	10582	BROAD			
-729891	85610	1501700	levothyroxine	10582	BROAD			
-729893	85611	1501700	levothyroxine	10582	BROAD			
-729895	85612	1501700	levothyroxine	10582	BROAD			
-729897	85613	1501700	levothyroxine	10582	BROAD			
-729899	85614	1501700	levothyroxine	10582	BROAD			
-729901	85615	1501700	levothyroxine	10582	BROAD			
-729903	85616	1501700	levothyroxine	10582	BROAD			
-729906	85617	1501700	levothyroxine	10582	BROAD			
-729908	85618	1501700	levothyroxine	10582	BROAD			
-729910	85619	1501700	levothyroxine	10582	BROAD			
-729912	85620	1501700	levothyroxine	10582	BROAD			
-733105	86546	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			
-733106	86547	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			
-733107	86545	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			
-760439	39795	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			
-765667	89799	1301790	levothyroxine sodium 0.0375 MG	2630737	BROAD			
-765668	89800	1301798	levothyroxine sodium 0.0625 MG	2630745	EXACT			
+661430	70042	40174972	levothyroxine sodium 0.112 MG Oral Tablet	966248	EXACT			2026-03-13
+661432	70043	40175026	levothyroxine sodium 0.137 MG Oral Tablet	966270	EXACT			2026-03-13
+661434	70044	40174907	levothyroxine sodium 0.088 MG Oral Tablet	966253	EXACT			2026-03-13
+671981	64011	40175174	levothyroxine sodium 0.025 MG Oral Tablet	966220	EXACT			2026-03-13
+671983	64012	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			2026-03-13
+671984	64013	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			2026-03-13
+671985	64014	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
+671986	64015	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			2026-03-13
+671987	64016	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			2026-03-13
+671988	64017	40175077	levothyroxine sodium 0.175 MG Oral Tablet	966249	EXACT			2026-03-13
+671989	64018	40169770	levothyroxine sodium 0.2 MG Oral Tablet	892251	EXACT			2026-03-13
+696243	77044	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			2026-03-13
+696277	77045	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
+696281	77045	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
+696283	77045	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
+696318	77046	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			2026-03-13
+696356	77047	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			2026-03-13
+696390	77048	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			2026-03-13
+696394	77048	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			2026-03-13
+698079	70042	40174972	levothyroxine sodium 0.112 MG Oral Tablet	966248	EXACT			2026-03-13
+698080	64015	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			2026-03-13
+698081	70043	40175026	levothyroxine sodium 0.137 MG Oral Tablet	966270	EXACT			2026-03-13
+698082	64016	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			2026-03-13
+698083	64017	40175077	levothyroxine sodium 0.175 MG Oral Tablet	966249	EXACT			2026-03-13
+698084	64018	40169770	levothyroxine sodium 0.2 MG Oral Tablet	892251	EXACT			2026-03-13
+698089	64011	40175174	levothyroxine sodium 0.025 MG Oral Tablet	966220	EXACT			2026-03-13
+698092	64012	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			2026-03-13
+698093	64013	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			2026-03-13
+698094	70044	40174907	levothyroxine sodium 0.088 MG Oral Tablet	966253	EXACT			2026-03-13
+698095	64014	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
+698786	77800	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			2026-03-13
+698788	77801	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			2026-03-13
+698790	77802	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
+715588	77048	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			2026-03-13
+715589	77044	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			2026-03-13
+715590	77046	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			2026-03-13
+715591	77047	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			2026-03-13
+726802	84481	40175210	levothyroxine sodium 0.05 MG Oral Tablet	966221	EXACT			2026-03-13
+726803	84482	40175174	levothyroxine sodium 0.025 MG Oral Tablet	966220	EXACT			2026-03-13
+726804	84483	40169770	levothyroxine sodium 0.2 MG Oral Tablet	892251	EXACT			2026-03-13
+726805	84484	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
+729889	85609	1501700	levothyroxine	10582	BROAD		levothyroxine 100 MCG Oral Solution in unit-dose container	2026-03-13
+729891	85610	1501700	levothyroxine	10582	BROAD		levothyroxine 112 MCG Oral Solution in unit-dose container	2026-03-13
+729893	85611	1501700	levothyroxine	10582	BROAD		levothyroxine 125 MCG Oral Solution in unit-dose container	2026-03-13
+729895	85612	1501700	levothyroxine	10582	BROAD		levothyroxine 137 MCG Oral Solution in unit-dose container	2026-03-13
+729897	85613	1501700	levothyroxine	10582	BROAD		levothyroxine 13 MCG Oral Solution in unit-dose container	2026-03-13
+729899	85614	1501700	levothyroxine	10582	BROAD		levothyroxine 150 MCG Oral Solution in unit-dose container	2026-03-13
+729901	85615	1501700	levothyroxine	10582	BROAD		levothyroxine 175 MCG Oral Solution in unit-dose container	2026-03-13
+729903	85616	1501700	levothyroxine	10582	BROAD		levothyroxine 200 MCG Oral Solution in unit-dose container	2026-03-13
+729906	85617	1501700	levothyroxine	10582	BROAD		levothyroxine 25 MCG Oral Solution in unit-dose container	2026-03-13
+729908	85618	1501700	levothyroxine	10582	BROAD		levothyroxine 50 MCG Oral Solution in unit-dose container	2026-03-13
+729910	85619	1501700	levothyroxine	10582	BROAD		levothyroxine 75 MCG Oral Solution in unit-dose container	2026-03-13
+729912	85620	1501700	levothyroxine	10582	BROAD		levothyroxine 88 MCG Oral Solution in unit-dose container	2026-03-13
+733105	86546	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			2026-03-13
+733106	86547	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			2026-03-13
+733107	86545	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			2026-03-13
+760439	39795	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
+765667	89799	1301790	levothyroxine sodium 0.0375 MG	2630737	BROAD		levothyroxine sodium 0.038 MG Oral Tablet	2026-03-13
+765668	89800	1301798	levothyroxine sodium 0.0625 MG	2630745	EXACT			2026-03-13
+696687	77114	40174964	levothyroxine sodium 0.5 MG Injection	966219	EXACT			2026-03-13
+764212	89301	40175026	levothyroxine sodium 0.137 MG Oral Tablet	966270	EXACT			2026-03-13
+764213	89302	40175077	levothyroxine sodium 0.175 MG Oral Tablet	966249	EXACT			2026-03-13
+764214	89303	40174907	levothyroxine sodium 0.088 MG Oral Tablet	966253	EXACT			2026-03-13
+764215	89304	40174972	levothyroxine sodium 0.112 MG Oral Tablet	966248	EXACT			2026-03-13

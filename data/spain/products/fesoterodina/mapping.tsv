@@ -1,14 +1,20 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-730799	85912	19134959	fesoterodine fumarate 8 MG Extended Release Oral Tablet	845152				
-730800	85913	19134957	fesoterodine fumarate 4 MG Extended Release Oral Tablet	845150				
-730931	85951	19134957	fesoterodine fumarate 4 MG Extended Release Oral Tablet	845150				
-730932	85952	19134959	fesoterodine fumarate 8 MG Extended Release Oral Tablet	845152				
-731282	86065	19134959	fesoterodine fumarate 8 MG Extended Release Oral Tablet	845152				
-731471	86136	19134957	fesoterodine fumarate 4 MG Extended Release Oral Tablet	845150				
-731472	86137	19134959	fesoterodine fumarate 8 MG Extended Release Oral Tablet	845152				
-732497	86449	43185008	fesoterodine 3.1 MG Oral Tablet	OMOP502482				
-732498	86450	43206916	fesoterodine 6.2 MG Oral Tablet	OMOP502488				
-756685	87877	19134957	fesoterodine fumarate 4 MG Extended Release Oral Tablet	845150				
-756686	87878	19134959	fesoterodine fumarate 8 MG Extended Release Oral Tablet	845152				
-757987	87956	19134959	fesoterodine fumarate 8 MG Extended Release Oral Tablet	845152				
-757988	87957	19134957	fesoterodine fumarate 4 MG Extended Release Oral Tablet	845150				
+730799	85912	19132870	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet	810077	EXACT			2026-03-13
+730800	85913	19132866	24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet	810071	EXACT			2026-03-13
+730931	85951	19132866	24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet	810071	EXACT			2026-03-13
+730932	85952	19132870	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet	810077	EXACT			2026-03-13
+731282	86065	19132870	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet	810077	EXACT			2026-03-13
+731471	86136	19132866	24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet	810071	EXACT			2026-03-13
+731472	86137	19132870	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet	810077	EXACT			2026-03-13
+732497	86449	19132866	24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet	810071	EXACT			2026-03-13
+732498	86450	19132870	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet	810077	EXACT			2026-03-13
+756685	87877	19132866	24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet	810071	EXACT			2026-03-13
+756686	87878	19132870	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet	810077	EXACT			2026-03-13
+757987	87956	19132870	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet	810077	EXACT			2026-03-13
+757988	87957	19132866	24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet	810071	EXACT			2026-03-13
+658976	07386003	19132868	24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet [Toviaz]	810075	EXACT			2026-03-13
+658977	07386008	19132872	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet [Toviaz]	810079	EXACT			2026-03-13
+688988	07386008IP	19132872	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet [Toviaz]	810079	EXACT			2026-03-13
+704972	07386008IP1	19132872	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet [Toviaz]	810079	EXACT			2026-03-13
+726346	07386008IP2	19132872	24 HR fesoterodine fumarate 8 MG Extended Release Oral Tablet [Toviaz]	810079	EXACT			2026-03-13
+731280	86064	19132866	24 HR fesoterodine fumarate 4 MG Extended Release Oral Tablet	810071	EXACT			2026-03-13

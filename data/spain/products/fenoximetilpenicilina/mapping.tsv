@@ -1,7 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-619171	44967	1729720	penicillin V	7984	BROAD			
-663236	44967	1729720	penicillin V	7984	BROAD			
-695753	56749	1729720	penicillin V	7984	BROAD			
-695754	56749	1729720	penicillin V	7984	BROAD			
-723826	83518	1729720	penicillin V	7984	EXACT			
-723827	83518	1729720	penicillin V	7984	EXACT			
+619171	44967	19106634	penicillin V 375 MG Oral Tablet	429180	BROAD	Capsule presentation not exposed exactly in RxNorm.	penicillin V 375 MG Oral Capsule	2026-03-13
+663236	44967	19106634	penicillin V 375 MG Oral Tablet	429180	BROAD	Capsule presentation not exposed exactly in RxNorm.	penicillin V 375 MG Oral Capsule	2026-03-13
+695753	56749	19133872	penicillin V potassium 250 MG	834060	BROAD	oral powder/granule sachet; no exact oral powder concept in RxNorm	19133873|penicillin V potassium 250 MG Oral Tablet|834061	2026-03-13
+695754	56749	19133872	penicillin V potassium 250 MG	834060	BROAD	oral powder/granule sachet; no exact oral powder concept in RxNorm	19133873|penicillin V potassium 250 MG Oral Tablet|834061	2026-03-13
+723826	83518	19021886	penicillin V 500 MG Oral Capsule	199497	EXACT			2026-03-13
+723827	83518	19021886	penicillin V 500 MG Oral Capsule	199497	EXACT			2026-03-13
+700710	52008	44071239	Penicillin V 50000 UNT/ML Oral Suspension	OMOP1065870	EXACT			2026-03-13

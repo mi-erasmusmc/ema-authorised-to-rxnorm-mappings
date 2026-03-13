@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+672141	10619009	1322184	clopidogrel	32968	BROAD	No clopidogrel/aspirin combination concept in RxNorm	clopidogrel 75 MG / aspirin 100 MG Oral Tablet	2026-03-13
+730332	10619009IP	1322184	clopidogrel	32968	BROAD	No clopidogrel/aspirin combination concept in RxNorm	clopidogrel 75 MG / aspirin 100 MG Oral Tablet	2026-03-13
+769157	10619009IP2	1322184	clopidogrel	32968	BROAD	No clopidogrel/aspirin combination concept in RxNorm	clopidogrel 75 MG / aspirin 100 MG Oral Tablet	2026-03-13
+704580	79306	1322184	clopidogrel	32968	BROAD	No clopidogrel/aspirin combination concept in RxNorm	clopidogrel 75 MG / aspirin 75 MG Oral Tablet	2026-03-13

@@ -1,11 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650622	59791	41087610	azelastine 1 MG/ML Nasal Spray	OMOP2285572				
-706849	79959	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			
-712187	79105	40166899	azelastine hydrochloride 1.5 MG/ML Nasal Spray	866653	EXACT			
-712198	79061	40166899	azelastine hydrochloride 1.5 MG/ML Nasal Spray	866653	EXACT			
-712199	81144	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			
-721074	82967	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			
-723692	62373	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			
-731541	86178	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	BROAD			
-741520	59791	41087610	azelastine 1 MG/ML Nasal Spray	OMOP2285572				
-759295	88318	41087610	azelastine 1 MG/ML Nasal Spray	OMOP2285572				
+650622	59791	41087610	azelastine 1 MG/ML Nasal Spray	OMOP2285572				2026-03-13
+706849	79959	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			2026-03-13
+712187	79105	40166899	azelastine hydrochloride 1.5 MG/ML Nasal Spray	866653	EXACT			2026-03-13
+712198	79061	40166899	azelastine hydrochloride 1.5 MG/ML Nasal Spray	866653	EXACT			2026-03-13
+712199	81144	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			2026-03-13
+721074	82967	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			2026-03-13
+723692	62373	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			2026-03-13
+731541	86178	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	BROAD		azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
+741520	59791	41087610	azelastine 1 MG/ML Nasal Spray	OMOP2285572				2026-03-13
+759295	88318	41087610	azelastine 1 MG/ML Nasal Spray	OMOP2285572				2026-03-13
+696051	77005	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			2026-03-13
+696052	77005	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			2026-03-13
+723676	62372	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			2026-03-13
+728746	77005	40164098	azelastine hydrochloride 0.5 MG/ML Ophthalmic Solution	860805	EXACT			2026-03-13

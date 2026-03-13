@@ -42,3 +42,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 893271	64686	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
 967224	56858	40015181	buprenorphine Sublingual Tablet	371161	BROAD		buprenorphine 0.2 MG Sublingual Tablet [1133224]	2026-03-12
 608117	56403	1133223	1 ML buprenorphine 0.3 MG/ML Injection	238129	EXACT			2026-03-12
+679588	56403	1133223	1 ML buprenorphine 0.3 MG/ML Injection	238129	EXACT			2026-03-13
+709852	80620	19101660	72 HR buprenorphine 0.035 MG/HR Transdermal System	388508	BROAD		96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-13
+709853	80621	19101659	72 HR buprenorphine 0.0525 MG/HR Transdermal System	388507	BROAD		96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-13
+709854	80622	19101658	72 HR buprenorphine 0.07 MG/HR Transdermal System	388506	BROAD		96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-13
+961425	56403	1133223	1 ML buprenorphine 0.3 MG/ML Injection	238129	EXACT			2026-03-13

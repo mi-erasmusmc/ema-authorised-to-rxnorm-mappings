@@ -1,8 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-680927	74156	19112658	colistimethate sodium	48305	BROAD			
-680928	74156	19112658	colistimethate sodium	48305	BROAD			
-700905	78300	19112658	colistimethate sodium	48305	BROAD			
-701286	111747003	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905	EXACT	Competing concept exists colistimethate 1660000 UNT Inhalant Powder [Colobreathe]		2025-12-04
-710972	80898	43215037	colistimethate 125 MG	OMOP476900				
-710973	80899	19112658	colistimethate sodium	48305	BROAD			
-838185	66292	43215037	colistimethate 125 MG	OMOP476900				
+680927	74156	43204178	colistimethate 1000000 UNT	OMOP476888	BROAD	Mixed injectable/inhalation powder presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 1000000 UNT Powder for Inhalation Solution	2026-03-13
+680928	74156	43204178	colistimethate 1000000 UNT	OMOP476888	BROAD	Mixed injectable/inhalation powder presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 1000000 UNT Powder for Inhalation Solution	2026-03-13
+700905	78300	36274298	colistimethate 2000000 UNT	OMOP3125173	BROAD	Mixed injectable/inhalation powder presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 2000000 UNT Powder for Inhalation Solution	2026-03-13
+701286	111747003	43193155	colistimethate 125 MG Dry Powder Inhaler [Colobreathe]	OMOP476905	EXACT	Competing concept exists colistimethate 1660000 UNT Inhalant Powder [Colobreathe]		2026-03-13
+710972	80898	43204178	colistimethate 1000000 UNT	OMOP476888	BROAD	Mixed injectable/inhalation powder presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 1000000 UNT Powder for Inhalation Solution	2026-03-13
+710973	80899	36274298	colistimethate 2000000 UNT	OMOP3125173	BROAD	Mixed injectable/inhalation powder presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 2000000 UNT Powder for Inhalation Solution	2026-03-13
+838185	66292	43204178	colistimethate 1000000 UNT	OMOP476888	BROAD	Mixed injectable/inhalation powder presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 1000000 UNT Powder for Inhalation Solution	2026-03-13
+650255	66387	43204178	colistimethate 1000000 UNT	OMOP476888	BROAD	Nebulizer solution presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 1000000 UNT Powder for Inhalation Solution	2026-03-13
+688852	75706	43204178	colistimethate 1000000 UNT	OMOP476888	BROAD	Nebulizer solution presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 1000000 UNT Powder for Inhalation Solution	2026-03-13
+688855	75707	36274298	colistimethate 2000000 UNT	OMOP3125173	BROAD	Nebulizer solution presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 2000000 UNT Powder for Inhalation Solution	2026-03-13
+700399	78208	43204178	colistimethate 1000000 UNT	OMOP476888	BROAD	Injectable powder presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 1000000 UNT Injection	2026-03-13
+702124	78689	43204178	colistimethate 1000000 UNT	OMOP476888	BROAD	Nebulizer solution presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 1000000 UNT Powder for Inhalation Solution	2026-03-13
+702237	78737	36274298	colistimethate 2000000 UNT	OMOP3125173	BROAD	Nebulizer solution presentation not exposed exactly in RxNorm Extension.	colistimethate sodium 2000000 UNT Powder for Inhalation Solution	2026-03-13

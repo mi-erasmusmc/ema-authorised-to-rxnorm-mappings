@@ -1,3 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 602507	64252	19104885	pentosan polysulfate 0.005 MG/MG Topical Ointment	417004	EXACT			2026-03-12
 602509	32762	924176	pentosan polysulfate 0.001 MG/MG Topical Ointment	251516	EXACT			2026-03-12
+696971	32762	924176	pentosan polysulfate 0.001 MG/MG Topical Ointment	251516	EXACT			2026-03-13
+696989	32762	924176	pentosan polysulfate 0.001 MG/MG Topical Ointment	251516	EXACT			2026-03-13
+722170	83237	924176	pentosan polysulfate 0.001 MG/MG Topical Ointment	251516	BROAD	RxNorm does not expose the cream presentation.	pentosan polysulfate 1 MG/G Topical Cream	2026-03-13
+722171	83238	19104885	pentosan polysulfate 0.005 MG/MG Topical Ointment	417004	BROAD	RxNorm does not expose the cream presentation.	pentosan polysulfate 5 MG/G Topical Cream	2026-03-13
+726431	64252	19104885	pentosan polysulfate 0.005 MG/MG Topical Ointment	417004	EXACT			2026-03-13
+843987	64252	19104885	pentosan polysulfate 0.005 MG/MG Topical Ointment	417004	EXACT			2026-03-13

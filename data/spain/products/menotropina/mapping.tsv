@@ -1,4 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-706233	79762	19080159	follicle stimulating hormone 75 UNT / luteinizing hormone 75 UNT Injection	314097	EXACT			
-706236	79762	19080159	follicle stimulating hormone 75 UNT / luteinizing hormone 75 UNT Injection	314097	EXACT			
-762359	88705	42629401	follicle stimulating hormone / luteinizing hormone Injection	1790195	BROAD			
+706233	79762	19080159	follicle stimulating hormone 75 UNT / luteinizing hormone 75 UNT Injection	314097	EXACT			2026-03-13
+706236	79762	19080159	follicle stimulating hormone 75 UNT / luteinizing hormone 75 UNT Injection	314097	EXACT			2026-03-13
+762359	88705	42629401	follicle stimulating hormone / luteinizing hormone Injection	1790195	BROAD		menotropins Injection matching the labeled presentation	2026-03-13
+654308	55890	19080159	follicle stimulating hormone 75 UNT / luteinizing hormone 75 UNT Injection	314097	EXACT			2026-03-13
+654320	55890	19080159	follicle stimulating hormone 75 UNT / luteinizing hormone 75 UNT Injection	314097	EXACT			2026-03-13
+677430	73586	42629401	follicle stimulating hormone / luteinizing hormone Injection	1790195	BROAD	RxNorm does not expose the exact high-dose menotropin presentation.	menotropins Injection matching the labeled 600 or 1200 UNT presentation	2026-03-13
+677431	73585	42629401	follicle stimulating hormone / luteinizing hormone Injection	1790195	BROAD	RxNorm does not expose the exact high-dose menotropin presentation.	menotropins Injection matching the labeled 600 or 1200 UNT presentation	2026-03-13
+706230	79761	1589797	follicle stimulating hormone 150 UNT/ML / luteinizing hormone 150 UNT/ML Injectable Solution	347764	EXACT			2026-03-13
+706232	79761	1589797	follicle stimulating hormone 150 UNT/ML / luteinizing hormone 150 UNT/ML Injectable Solution	347764	EXACT			2026-03-13
