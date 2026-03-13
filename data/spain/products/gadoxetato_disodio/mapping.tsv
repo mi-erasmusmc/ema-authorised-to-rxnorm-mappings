@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650913	66648	43290805	gadoxetate 181 MG/ML Injection	OMOP554546				
+650913	66648	43290805	gadoxetate 181 MG/ML Injection	OMOP554546	BROAD	No exact RxNorm prefilled syringe concept found for gadoxetate disodium 10 ML prefilled syringe.	gadoxetate disodium 0.25 MMOL/ML 10 ML Prefilled Syringe	2026-03-13

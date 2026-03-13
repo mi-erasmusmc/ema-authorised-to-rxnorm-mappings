@@ -1,2 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 699533	109546005	46234039	1 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653166	EXACT			2026-01-01
+664240	09546001	46234033	0.5 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653144	EXACT			2026-03-13
+728473	09546005IP1	46234039	1 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653166	EXACT			2026-03-13
+732106	09546001IP1	46234033	0.5 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653144	EXACT			2026-03-13

@@ -1,15 +1,18 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-665250	72234	40220940	doxylamine succinate 12.5 MG	1804751	BROAD			
-665251	72235	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-687015	60154	40220940	doxylamine succinate 12.5 MG	1804751	BROAD			
-687016	58658	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-697270	77280	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-697272	77281	40220940	doxylamine succinate 12.5 MG	1804751	BROAD			
-698059	77517	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-698154	77551	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-698155	77551	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-705082	79497	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-705083	79497	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-712717	81255	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-720772	82876	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
-722475	83321	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD			
+665250	72234	40220940	doxylamine succinate 12.5 MG	1804751	BROAD	No exact RxNorm standard concept found for doxylamine succinate 12.5 MG oral tablet.	doxylamine succinate 12.5 MG Oral Tablet	2026-03-13
+665251	72235	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+687015	60154	40220940	doxylamine succinate 12.5 MG	1804751	BROAD	No exact RxNorm standard concept found for doxylamine succinate 12.5 MG oral tablet.	doxylamine succinate 12.5 MG Oral Tablet	2026-03-13
+687016	58658	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+697270	77280	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+697272	77281	40220940	doxylamine succinate 12.5 MG	1804751	BROAD	No exact RxNorm standard concept found for doxylamine succinate 12.5 MG oral tablet.	doxylamine succinate 12.5 MG Oral Tablet	2026-03-13
+698059	77517	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+698154	77551	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+698155	77551	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+705082	79497	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+705083	79497	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+710243	80704	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+712717	81255	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+720772	82876	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+722475	83321	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+722474	83320	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
+710397	80761	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD	Source is doxylamine 25 MG oral powder sachet; RxNorm exposes the closest oral tablet concept.	doxylamine succinate 25 MG Oral Powder Sachet	2026-03-13

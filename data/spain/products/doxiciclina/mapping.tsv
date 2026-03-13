@@ -1,6 +1,22 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-620427	48194	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988				2026-03-12
-694967	59345	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988				2026-03-12
-695435	46406	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988				2026-03-12
-695532	48194	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988				2026-03-12
+620427	48194	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
+656664	47796	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
+673323	73622	40171394	doxycycline anhydrous 40 MG Delayed Release Oral Capsule [Oracea]	901401	EXACT			2026-03-12
+677112	61230	46234415	doxycycline hyclate 50 MG Oral Capsule	1649405	EXACT			2026-03-12
+693766	47077	46233711	doxycycline hyclate 100 MG Oral Tablet	1650143	EXACT			2026-03-12
+693767	47077	46233711	doxycycline hyclate 100 MG Oral Tablet	1650143	EXACT			2026-03-12
+693768	47077	46233711	doxycycline hyclate 100 MG Oral Tablet	1650143	EXACT			2026-03-12
+694055	47796	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
+694057	50404	46233711	doxycycline hyclate 100 MG Oral Tablet	1650143	EXACT			2026-03-12
+694058	50404	46233711	doxycycline hyclate 100 MG Oral Tablet	1650143	EXACT			2026-03-12
+694967	59345	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
+695435	46406	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
+695532	48194	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
+697404	61226	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
+697405	61227	19103300	doxycycline 200 MG Oral Capsule	409837	EXACT			2026-03-12
+699841	47831	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
+701108	78353	40239976	doxycycline hyclate 0.1 MG/MG Oral Gel	1113433	BROAD	periodontal gel; mapped to closest RxNorm oral gel concept	doxycycline hyclate 0.1 MG/MG Oral Gel	2026-03-12
+703176	73622	40171393	doxycycline anhydrous 40 MG Delayed Release Oral Capsule	901399	EXACT			2026-03-12
 626283	50521	19076753	doxycycline hyclate 100 MG Injection	310027	EXACT			2026-03-12
+846220	46554	19076752	doxycycline calcium 10 MG/ML Oral Suspension	310026	BROAD	hyclate salt in product; closest available suspension strength	doxycycline calcium 10 MG/ML Oral Suspension	2026-03-12
+846246	50521	19076753	doxycycline hyclate 100 MG Injection	310027	EXACT			2026-03-12

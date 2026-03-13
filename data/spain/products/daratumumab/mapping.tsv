@@ -2,3 +2,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 711285	1161101002	35604271	20 ML daratumumab 20 MG/ML Injection [Darzalex]	1726440	EXACT			2025-12-04
 711286	1161101001	35605751	5 ML daratumumab 20 MG/ML Injection [Darzalex]	1721956	EXACT			2025-12-04
 728747	1161101004	36054115	15 ML daratumumab 120 MG/ML Injectable Solution	OMOP4979330	EXACT			2025-12-04
+726787	1161101002IP	35604271	20 ML daratumumab 20 MG/ML Injection [Darzalex]	1726440	EXACT			2026-03-13
+730077	1161101001IP	35605751	5 ML daratumumab 20 MG/ML Injection [Darzalex]	1721956	EXACT			2026-03-13
+730338	1161101004IP	36054115	15 ML daratumumab 120 MG/ML Injectable Solution	OMOP4979330	EXACT			2026-03-13

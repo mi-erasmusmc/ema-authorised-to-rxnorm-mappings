@@ -346,7 +346,7 @@ def _load_spain_mappings(products_dir):
             for row in csv.DictReader(f, delimiter="\t"):
                 cod = row.get("cod_nacion", "").strip()
                 if cod:
-                    mappings[cod] = {col: row.get(col, "").strip() for col in SPAIN_MAPPING_COLUMNS}
+                    mappings[cod] = {col: (row.get(col) or "").strip() for col in SPAIN_MAPPING_COLUMNS}
     return mappings
 
 

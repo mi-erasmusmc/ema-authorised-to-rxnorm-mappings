@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 708391	199117003	46276199	0.5 ML palivizumab 100 MG/ML Injection [Synagis]	1657362	EXACT			2025-12-04
 708392	199117004	537648	palivizumab 100 MG/ML Injectable Solution [Synagis]	261359	EXACT			2025-12-04
+836577	99117002	46276193	1 ML palivizumab 100 MG/ML Injection [Synagis]	1657343	BROAD	powder for solution; no powder-specific concept in RxNorm	palivizumab 100 MG powder for injectable solution [Synagis]	2026-03-13
+836668	99117001	46276199	0.5 ML palivizumab 100 MG/ML Injection [Synagis]	1657362	BROAD	powder for solution; no powder-specific concept in RxNorm	palivizumab 50 MG powder for injectable solution [Synagis]	2026-03-13

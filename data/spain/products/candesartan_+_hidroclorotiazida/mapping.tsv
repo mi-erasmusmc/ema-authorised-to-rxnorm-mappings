@@ -7,7 +7,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 663118	71022	19131518	candesartan cilexetil 32 MG / hydrochlorothiazide 25 MG Oral Tablet	802749	EXACT			2026-03-12
 663135	71062	19121339	candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578330	EXACT			2026-03-12
 663234	71068	19131518	candesartan cilexetil 32 MG / hydrochlorothiazide 25 MG Oral Tablet	802749	EXACT			2026-03-12
-673815	73690	40095410	candesartan / hydrochlorothiazide Oral Tablet	374934	BROAD		candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet	2026-03-12
+673815	73690	974702	candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578325	EXACT			2026-03-12
 683632	74645	19131973	candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Atacand HCT]	805863	EXACT			2026-03-12
 686215	75109	40095410	candesartan / hydrochlorothiazide Oral Tablet	374934	BROAD		candesartan cilexetil 8 MG / hydrochlorothiazide 12.5 MG Oral Tablet	2026-03-12
 686234	75110	974702	candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578325	EXACT			2026-03-12
@@ -29,7 +29,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 696618	77093	19121339	candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578330	EXACT			2026-03-12
 696619	77094	19131518	candesartan cilexetil 32 MG / hydrochlorothiazide 25 MG Oral Tablet	802749	EXACT			2026-03-12
 696620	77095	43211712	candesartan 8 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	OMOP447597	BROAD		candesartan cilexetil 8 MG / hydrochlorothiazide 12.5 MG Oral Tablet	2026-03-12
-697438	76096	40095410	candesartan / hydrochlorothiazide Oral Tablet	374934	BROAD		candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet	2026-03-12
+697438	76096	974702	candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578325	EXACT			2026-03-12
 697470	77349	19131518	candesartan cilexetil 32 MG / hydrochlorothiazide 25 MG Oral Tablet	802749	EXACT			2026-03-12
 697471	77350	19121339	candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578330	EXACT			2026-03-12
 700207	78153	19131973	candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet [Atacand HCT]	805863	EXACT			2026-03-12
@@ -85,4 +85,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 706794	79942	19121339	candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578330	EXACT			2026-03-12
 706795	79943	43211712	candesartan 8 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	OMOP447597	BROAD		candesartan cilexetil 8 MG / hydrochlorothiazide 12.5 MG Oral Tablet	2026-03-12
 765543	89755	19121339	candesartan cilexetil 32 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578330	EXACT			2026-03-12
-769845	69025080	974702	candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578325	BROAD		candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet (dosage under review)	2026-03-12
+769845	69025080	974702	candesartan cilexetil 16 MG / hydrochlorothiazide 12.5 MG Oral Tablet	578325	EXACT			2026-03-12

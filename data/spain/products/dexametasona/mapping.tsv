@@ -22,3 +22,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 759423	36225	40231785	dexamethasone sodium phosphate 4 MG/ML Injectable Solution	1049400	EXACT			2026-03-12
 607478	57036	19101595	dexamethasone 8 MG/ML Injectable Solution	387080	EXACT			2026-03-12
 607672	88798	1719046	1 ML dexamethasone phosphate 4 MG/ML Injection	1812194	EXACT			2026-03-12
+615567	57036	19101595	dexamethasone 8 MG/ML Injectable Solution	387080	EXACT			2026-03-13
+653445	40602	1518490	dexamethasone phosphate 1 MG/ML Ophthalmic Solution	226343	EXACT			2026-03-13
+665887	10638001	40160931	dexamethasone 0.7 MG Drug Implant [Ozurdex]	854181	EXACT			2026-03-13
+672087	40309	19076139	dexamethasone phosphate 0.0005 MG/MG Ophthalmic Ointment	309690	EXACT			2026-03-13
+697428	12090	43526126	dexamethasone sodium phosphate 1 MG/ML Ophthalmic Solution	1374378	EXACT			2026-03-13
+703797	374776-8	43526126	dexamethasone sodium phosphate 1 MG/ML Ophthalmic Solution	1374378	EXACT			2026-03-13
+723335	3400937477680	43526126	dexamethasone sodium phosphate 1 MG/ML Ophthalmic Solution	1374378	EXACT			2026-03-13
+727060	84548	40028592	dexamethasone Ophthalmic Solution	377418	BROAD		No RxNorm concept for dexamethasone 1.5 MG/ML ophthalmic solution; nearest is generic dexamethasone Ophthalmic Solution	2026-03-13
+727081	84559	40028592	dexamethasone Ophthalmic Solution	377418	BROAD		No RxNorm concept for dexamethasone metasulfobenzoate 1 MG/ML; mapped to generic dexamethasone Ophthalmic Solution	2026-03-13
+732862	57036	19101595	dexamethasone 8 MG/ML Injectable Solution	387080	EXACT			2026-03-13
+764306	3400937477680IP	43526126	dexamethasone sodium phosphate 1 MG/ML Ophthalmic Solution	1374378	EXACT			2026-03-13
+768546	3400937477680IP1	43526126	dexamethasone sodium phosphate 1 MG/ML Ophthalmic Solution	1374378	EXACT			2026-03-13

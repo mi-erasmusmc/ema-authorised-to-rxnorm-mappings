@@ -1,14 +1,29 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-714625	81703	43031252	Caspofungin 5 MG/ML	OMOP4846316				
-714626	81704	43031255	Caspofungin 7 MG/ML Injectable Solution	OMOP4846319				
-714629	81707	35606499	caspofungin acetate 70 MG	1734696	BROAD			
-714630	81708	43031252	Caspofungin 5 MG/ML	OMOP4846316				
-714927	81762	43031252	Caspofungin 5 MG/ML	OMOP4846316				
-714928	81763	43031255	Caspofungin 7 MG/ML Injectable Solution	OMOP4846319				
-716526	82149	43031252	Caspofungin 5 MG/ML	OMOP4846316				
-716527	82150	43031255	Caspofungin 7 MG/ML Injectable Solution	OMOP4846319				
-720418	82789	43031252	Caspofungin 5 MG/ML	OMOP4846316				
-720419	82790	43031255	Caspofungin 7 MG/ML Injectable Solution	OMOP4846319				
-726849	84502	1718059	caspofungin acetate 50 MG Injection	828755				
-726850	84503	1718056	caspofungin acetate 70 MG Injection	828539				
-729636	85532	43031252	Caspofungin 5 MG/ML	OMOP4846316				
+714625	81703	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+714626	81704	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+714629	81707	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+714630	81708	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+714927	81762	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+714928	81763	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+716526	82149	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+716527	82150	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+720418	82789	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+720419	82790	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+726849	84502	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+726850	84503	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+729636	85532	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+711742	81094	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+711743	81095	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+713143	81315	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+713144	81316	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+713553	81412	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+713554	81413	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+713571	81424	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+713572	81425	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+714037	81549	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+714038	81550	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+714929	81764	1718059	caspofungin acetate 50 MG Injection	828755	EXACT			2026-03-12
+714930	81765	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+719849	01196001	1718060	caspofungin acetate 50 MG Injection [Cancidas]	828757	EXACT			2026-03-12
+729637	85533	1718056	caspofungin acetate 70 MG Injection	828539	EXACT			2026-03-12
+842047	01196003	1718057	caspofungin acetate 70 MG Injection [Cancidas]	828541	EXACT			2026-03-12

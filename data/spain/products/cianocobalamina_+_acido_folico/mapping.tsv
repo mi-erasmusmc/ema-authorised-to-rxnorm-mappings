@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+866152	63022	19021449	folic acid 0.4 MG / vitamin B12 0.5 MG Oral Tablet	199240	BROAD	No RxNorm concept for the low-dose cyanocobalamin/folic acid tablet; mapped to the closest folic acid and vitamin B12 tablet combination concept.	folic acid 0.4 MG / cyanocobalamin 0.002 MG Oral Tablet	2026-03-13

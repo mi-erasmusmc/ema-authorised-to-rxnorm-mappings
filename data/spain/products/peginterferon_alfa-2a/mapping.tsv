@@ -1,2 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 697508	102221017	21078867	0.5 ML peginterferon alfa-2a 0.18 MG/ML Prefilled Syringe	OMOP287267	EXACT			2025-12-04
+765014	102221017IP	21078867	0.5 ML peginterferon alfa-2a 0.18 MG/ML Prefilled Syringe	OMOP287267	EXACT			2026-03-13
+747956	02221006	19127528	0.5 ML peginterferon alfa-2a 0.27 MG/ML Prefilled Syringe	731330	EXACT			2026-03-13
+748095	02221008	1714171	0.5 ML peginterferon alfa-2a 0.36 MG/ML Prefilled Syringe	731326	EXACT			2026-03-13
+677727	02221012	46233799	0.5 ML peginterferon alfa-2a 0.27 MG/ML Auto-Injector	1650894	EXACT			2026-03-13
+677728	02221015	46233809	0.5 ML peginterferon alfa-2a 0.36 MG/ML Auto-Injector	1650922	EXACT			2026-03-13

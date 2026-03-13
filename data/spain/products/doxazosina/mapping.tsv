@@ -1,35 +1,52 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-615500	63788	1363059	doxazosin 4 MG Oral Tablet	197627				2026-03-12
-615518	63789	1363053	doxazosin	49276	BROAD		doxazosin 2 MG Oral Tablet	2026-03-12
-621243	63153	1363053	doxazosin	49276	BROAD		doxazosin 2 MG Oral Tablet	2026-03-12
-621250	63154	1363059	doxazosin 4 MG Oral Tablet	197627				2026-03-12
-650155	66338	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131				2026-03-12
-650888	69240	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131				2026-03-12
-653245	63215	1363058	doxazosin 2 MG Oral Tablet	197626				2026-03-12
-653248	63216	1363059	doxazosin 4 MG Oral Tablet	197627				2026-03-12
+615500	63788	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+615518	63789	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+621243	63153	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+621250	63154	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+650155	66338	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
+650557	69239	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
+650888	69240	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
+653245	63215	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+653248	63216	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
 655891	67973	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
+659020	68781	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
 661003	69824	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
-661006	69826	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131				2026-03-12
-664024	70679	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131				2026-03-12
+661006	69826	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
+664024	70679	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
 664079	70691	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
+677262	73323	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+677263	73320	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+677383	73504	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
 685518	74973	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
 685543	74976	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
 685563	74977	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
+685581	74978	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
 685600	74979	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
-685650	74986	40032250	doxazosin Extended Release Oral Tablet	393431	BROAD		doxazosin 8 MG Extended Release Oral Tablet	2026-03-12
+685650	74986	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
 685799	75009	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
 685807	75010	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
-713888	81504	1363058	doxazosin 2 MG Oral Tablet	197626				2026-03-12
+701581	64379	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+713888	81504	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
 713901	81505	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
-870600	63067	1363053	doxazosin	49276	BROAD		doxazosin 2 MG Oral Tablet	2026-03-12
-870642	63068	1363059	doxazosin 4 MG Oral Tablet	197627				2026-03-12
-871285	63788	1363059	doxazosin 4 MG Oral Tablet	197627				2026-03-12
-871293	63789	1363053	doxazosin	49276	BROAD		doxazosin 2 MG Oral Tablet	2026-03-12
-885673	63153	1363053	doxazosin	49276	BROAD		doxazosin 2 MG Oral Tablet	2026-03-12
-885681	63154	1363059	doxazosin 4 MG Oral Tablet	197627				2026-03-12
-892166	63240	1363059	doxazosin 4 MG Oral Tablet	197627				2026-03-12
-997502	58860	1363053	doxazosin	49276	BROAD		doxazosin 2 MG Oral Tablet	2026-03-12
-997510	58861	1363053	doxazosin	49276	BROAD		doxazosin 4 MG Oral Tablet	2026-03-12
-999964	65124	1363058	doxazosin 2 MG Oral Tablet	197626				2026-03-12
-999965	65123	1363059	doxazosin 4 MG Oral Tablet	197627				2026-03-12
+806786	63921	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+811646	63922	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+856906	64378	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+870600	63067	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+870642	63068	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+871285	63788	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+871293	63789	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+885673	63153	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+885681	63154	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+892166	63240	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+892307	63245	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+999964	65124	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+999965	65123	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
+608638	62656	1363089	doxazosin 8 MG Extended Release Oral Tablet [Cardura]	631243	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12
+721887	3400937625784	1363089	doxazosin 8 MG Extended Release Oral Tablet [Cardura]	631243	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12
+801480	62656	1363089	doxazosin 8 MG Extended Release Oral Tablet [Cardura]	631243	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12
+801324	62655	19124193	doxazosin 4 MG Extended Release Oral Tablet [Cardura]	631240	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12
+853010	62929	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	BROAD	PROGANDOL NEO brand not in RxNorm; mapped to clinical drug concept	doxazosin 4 MG Extended Release Oral Tablet	2026-03-12
+853036	62930	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	BROAD	PROGANDOL NEO brand not in RxNorm; mapped to clinical drug concept	doxazosin 8 MG Extended Release Oral Tablet	2026-03-12
+997502	58860	1363058	doxazosin 2 MG Oral Tablet	197626	BROAD	PROGANDOL brand not in RxNorm; mapped to clinical drug concept	doxazosin 2 MG Oral Tablet	2026-03-12
+997510	58861	1363059	doxazosin 4 MG Oral Tablet	197627	BROAD	PROGANDOL brand not in RxNorm; mapped to clinical drug concept	doxazosin 4 MG Oral Tablet	2026-03-12
 621904	62655	19124193	doxazosin 4 MG Extended Release Oral Tablet [Cardura]	631240	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12

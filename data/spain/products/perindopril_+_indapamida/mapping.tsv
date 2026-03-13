@@ -1,17 +1,30 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-625335	64363	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			
-663103	70996	41312668	Indapamide 2.5 MG / Perindopril 8 MG Oral Tablet [Perindopril Erbumin Indapamid Ct]	OMOP2510630				
-665231	72242	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			
-665233	72241	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			
-685666	74988	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			
-685670	74989	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			
-696597	77077	40049453	indapamide / perindopril Oral Tablet	393357	BROAD			
-696598	77078	40049453	indapamide / perindopril Oral Tablet	393357	BROAD			
-697236	77257	40049453	indapamide / perindopril Oral Tablet	393357	BROAD			
-697244	77262	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			
-700104	64363	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			
-701402	78449	41312668	Indapamide 2.5 MG / Perindopril 8 MG Oral Tablet [Perindopril Erbumin Indapamid Ct]	OMOP2510630				
-703576	79045	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			
-703577	79046	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			
-703580	79047	41312668	Indapamide 2.5 MG / Perindopril 8 MG Oral Tablet [Perindopril Erbumin Indapamid Ct]	OMOP2510630				
-736686	62407	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			
+625335	64363	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			2026-03-13
+663103	70996	40049453	indapamide / perindopril Oral Tablet	393357	BROAD		indapamide 2.5 MG / perindopril erbumine 8 MG Oral Tablet	2026-03-13
+665231	72242	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			2026-03-13
+665233	72241	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+684180	74729	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			2026-03-13
+684184	74730	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+685666	74988	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			2026-03-13
+685670	74989	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+692429	76286	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+696597	77077	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+696598	77078	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			2026-03-13
+697236	77257	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+697244	77262	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			2026-03-13
+700104	64363	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			2026-03-13
+701402	78449	40049453	indapamide / perindopril Oral Tablet	393357	BROAD		indapamide 2.5 MG / perindopril erbumine 8 MG Oral Tablet	2026-03-13
+703576	79045	978575	indapamide 0.625 MG / perindopril 2 MG Oral Tablet	429647	EXACT			2026-03-13
+703577	79046	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+703580	79047	40049453	indapamide / perindopril Oral Tablet	393357	BROAD		indapamide 2.5 MG / perindopril erbumine 8 MG Oral Tablet	2026-03-13
+728309	OGYI-T-6831-01	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+728310	OGYI-T-6831-02	40049453	indapamide / perindopril Oral Tablet	393357	BROAD		indapamide 2.5 MG / perindopril erbumine 8 MG Oral Tablet	2026-03-13
+732459	OGYI-T-6831-01IP1	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+732460	OGYI-T-6831-02IP	40049453	indapamide / perindopril Oral Tablet	393357	BROAD		indapamide 2.5 MG / perindopril erbumine 8 MG Oral Tablet	2026-03-13
+736686	62407	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+758825	OGYI-T-6831-02IP1	40049453	indapamide / perindopril Oral Tablet	393357	BROAD		indapamide 2.5 MG / perindopril erbumine 8 MG Oral Tablet	2026-03-13
+763553	OGYI-T-6831-01IP2	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+763636	OGYI-T-6831-02IP2	40049453	indapamide / perindopril Oral Tablet	393357	BROAD		indapamide 2.5 MG / perindopril erbumine 8 MG Oral Tablet	2026-03-13
+765473	OGYI-T-6831-01IP3	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+768441	OGYI-T-6831-01IP4	40163142	indapamide 1.25 MG / perindopril erbumine 4 MG Oral Tablet	854993	EXACT			2026-03-13
+768442	OGYI-T-6831-02IP3	40049453	indapamide / perindopril Oral Tablet	393357	BROAD		indapamide 2.5 MG / perindopril erbumine 8 MG Oral Tablet	2026-03-13

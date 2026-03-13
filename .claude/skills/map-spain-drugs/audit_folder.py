@@ -15,22 +15,23 @@ Use --details to print tab-separated rows grouped by issue type.
 Use --issue to limit details to one issue type when drilling down.
 
 Issue types:
-    MISSING           - cod_nacion in data.tsv with no row in mapping.tsv
-    NO_TYPE           - mapping row with empty mapping_type
-    NO_CONCEPT        - mapping row with empty concept_id
-    BROAD             - mapping row with mapping_type=BROAD (for review)
-    STALE_MAPPING     - mapping row whose cod_nacion no longer exists in data.tsv
-    NRO_MISMATCH      - mapping row whose nro_definitivo disagrees with data.tsv
-    DUPLICATE_DATA    - duplicate cod_nacion in data.tsv
-    DUPLICATE_MAPPING - duplicate cod_nacion in mapping.tsv
-    REVIEW_VOLUME     - likely single-use injectable mapped to a concentration-only concept
+    MISSING               - cod_nacion in data.tsv with no row in mapping.tsv
+    NO_TYPE               - mapping row with empty mapping_type
+    NO_CONCEPT            - mapping row with empty concept_id
+    BROAD                 - mapping row with mapping_type=BROAD (for review)
+    STALE_MAPPING         - mapping row whose cod_nacion no longer exists in data.tsv
+    NRO_MISMATCH          - mapping row whose nro_definitivo disagrees with data.tsv
+    DUPLICATE_DATA        - duplicate cod_nacion in data.tsv
+    DUPLICATE_MAPPING     - duplicate cod_nacion in mapping.tsv
+    REVIEW_VOLUME         - likely single-use injectable mapped to a concentration-only concept
+    INCONSISTENT_CONCEPT  - EXACT rows with the same des_dcp and sw_generico map to different concept_ids
 """
 
 import argparse
 import csv
 import re
 import sys
-from collections import Counter
+from collections import Counter, defaultdict
 from pathlib import Path
 
 DETAIL_HEADER = [
@@ -218,6 +219,39 @@ def main():
             issues.append(make_issue("BROAD", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
         elif mapping_type == "EXACT" and needs_volume_review(data_row, concept):
             issues.append(make_issue("REVIEW_VOLUME", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
+
+    # INCONSISTENT_CONCEPT: EXACT rows with same (des_dcp, sw_generico) but different concept_ids
+    sig_to_concepts = defaultdict(set)
+    sig_to_rows = defaultdict(list)
+    for row in mapping_rows:
+        cod = clean(row.get("cod_nacion", ""))
+        data_row = data_by_cod.get(cod, {})
+        concept_id = clean(row.get("concept_id", ""))
+        mapping_type = clean(row.get("mapping_type", ""))
+        if not concept_id or mapping_type != "EXACT":
+            continue
+        des_dcp = clean(data_row.get("des_dcp", ""))
+        sw_generico = clean(data_row.get("sw_generico", ""))
+        if not des_dcp:
+            continue
+        sig = (des_dcp, sw_generico)
+        sig_to_concepts[sig].add(concept_id)
+        sig_to_rows[sig].append(row)
+
+    for sig, concepts in sig_to_concepts.items():
+        if len(concepts) > 1:
+            for row in sig_to_rows[sig]:
+                cod = clean(row.get("cod_nacion", ""))
+                data_row = data_by_cod.get(cod, {})
+                issues.append(make_issue(
+                    "INCONSISTENT_CONCEPT",
+                    cod,
+                    clean(row.get("nro_definitivo", "")),
+                    clean(data_row.get("des_dcp", "")),
+                    clean(row.get("concept_id", "")),
+                    clean(row.get("concept_name", "")),
+                    clean(row.get("mapping_type", "")),
+                ))
 
     if not issues:
         print("OK - no issues found")

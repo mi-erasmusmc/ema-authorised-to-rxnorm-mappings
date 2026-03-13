@@ -1,2 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 716850	109564004	1593213	1 ML canakinumab 150 MG/ML Injection [Ilaris]	1864326	EXACT			2025-12-04
+664294	09564001	1593215	canakinumab 150 MG/ML Injection [Ilaris]	1864328	BROAD	powder for solution; no powder-specific concept in RxNorm	canakinumab 150 MG powder for injectable solution [Ilaris]	2026-03-13

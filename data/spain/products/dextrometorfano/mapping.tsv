@@ -1,33 +1,44 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650104	24379	1119510	dextromethorphan	3289	BROAD			
-650345	66417	1119510	dextromethorphan	3289	BROAD			
-650346	66417	1119510	dextromethorphan	3289	BROAD			
-650625	66543	40235212	dextromethorphan hydrobromide 15 MG Oral Capsule	1090487	EXACT			
-650871	66632	1119510	dextromethorphan	3289	BROAD			
-652460	67155	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			
-652649	67208	1119510	dextromethorphan	3289	BROAD			
-652851	67311	1119510	dextromethorphan	3289	BROAD			
-653043	67400	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			
-654147	28727	1119510	dextromethorphan	3289	BROAD			
-663100	70997	1119510	dextromethorphan	3289	BROAD			
-683466	63640	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			
-686542	75141	1396651	dextromethorphan hydrobromide 15 MG Oral Tablet	2173733	EXACT			
-691758	60357	1119510	dextromethorphan	3289	BROAD			
-691766	60357	1119510	dextromethorphan	3289	BROAD			
-697660	77424	1119510	dextromethorphan	3289	BROAD			
-697661	77424	1119510	dextromethorphan	3289	BROAD			
-702359	78764	1119510	dextromethorphan	3289	BROAD			
-708317	80341	1119510	dextromethorphan	3289	BROAD			
-708319	80342	1119510	dextromethorphan	3289	BROAD			
-708320	80342	1119510	dextromethorphan	3289	BROAD			
-718654	57623	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			
-718655	57623	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			
-724317	83679	1396651	dextromethorphan hydrobromide 15 MG Oral Tablet	2173733	EXACT			
-726653	64727	1119510	dextromethorphan	3289	BROAD			
-727461	84688	43013590	dextromethorphan hydrobromide 1.5 MG/ML Oral Solution	1370211				
-730492	85817	1119510	dextromethorphan	3289	BROAD			
-748111	57623	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			
-779165	58910	43013590	dextromethorphan hydrobromide 1.5 MG/ML Oral Solution	1370211				
-855270	62943	1119510	dextromethorphan	3289	BROAD			
-971747	57174	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			
-977736	57623	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			
+650104	24379	40034499	dextromethorphan Oral Solution	371757	BROAD	No exact RxNorm standard concept found for dextromethorphan 15 MG/ML oral drops.	dextromethorphan hydrobromide 15 MG/ML Oral Drops	2026-03-13
+650345	66417	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+650346	66417	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+650625	66543	40235212	dextromethorphan hydrobromide 15 MG Oral Capsule	1090487	EXACT			2026-03-13
+650871	66632	1718812	dextromethorphan hydrobromide 10 MG Oral Lozenge	1861935	EXACT			2026-03-13
+652460	67155	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+652649	67208	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+652851	67311	40235201	dextromethorphan hydrobromide 1 MG/ML Oral Solution	1090946	EXACT			2026-03-13
+653043	67400	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+654147	28727	40235220	dextromethorphan hydrobromide 3 MG/ML Oral Solution	1090496	EXACT			2026-03-13
+663100	70997	40235220	dextromethorphan hydrobromide 3 MG/ML Oral Solution	1090496	EXACT			2026-03-13
+664286	71680	40034499	dextromethorphan Oral Solution	371757	BROAD	No exact RxNorm standard concept found for dextromethorphan 15 MG oral solution sachet.	dextromethorphan hydrobromide 15 MG Oral Solution Sachet	2026-03-13
+664329	71681	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+673897	61398	40235220	dextromethorphan hydrobromide 3 MG/ML Oral Solution	1090496	EXACT			2026-03-13
+673962	61392	789886	dextromethorphan hydrobromide 7.5 MG Oral Lozenge	2167801	BROAD	No exact RxNorm standard concept found for dextromethorphan 7.33 MG lozenge; mapped to the closest strength lozenge concept.	dextromethorphan hydrobromide 7.33 MG Oral Lozenge	2026-03-13
+683466	63640	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+686542	75141	1396651	dextromethorphan hydrobromide 15 MG Oral Tablet	2173733	EXACT			2026-03-13
+691758	60357	42708527	dextromethorphan hydrobromide 1.33 MG/ML Oral Solution	1246338	EXACT			2026-03-13
+691766	60357	42708527	dextromethorphan hydrobromide 1.33 MG/ML Oral Solution	1246338	EXACT			2026-03-13
+694642	76770	1718812	dextromethorphan hydrobromide 10 MG Oral Lozenge	1861935	EXACT			2026-03-13
+697660	77424	1718812	dextromethorphan hydrobromide 10 MG Oral Lozenge	1861935	EXACT			2026-03-13
+697661	77424	1718812	dextromethorphan hydrobromide 10 MG Oral Lozenge	1861935	EXACT			2026-03-13
+702081	78676	40034499	dextromethorphan Oral Solution	371757	BROAD	No exact RxNorm standard concept found for dextromethorphan 15 MG oral solution sachet.	dextromethorphan hydrobromide 15 MG Oral Solution Sachet	2026-03-13
+702359	78764	40034499	dextromethorphan Oral Solution	371757	BROAD	No exact RxNorm standard concept found for dextromethorphan 15 MG oral solution sachet.	dextromethorphan hydrobromide 15 MG Oral Solution Sachet	2026-03-13
+708317	80341	40034499	dextromethorphan Oral Solution	371757	BROAD	No exact RxNorm standard concept found for dextromethorphan 10 MG oral solution sachet.	dextromethorphan hydrobromide 10 MG Oral Solution Sachet	2026-03-13
+708319	80342	40034499	dextromethorphan Oral Solution	371757	BROAD	No exact RxNorm standard concept found for dextromethorphan 20 MG oral solution sachet.	dextromethorphan hydrobromide 20 MG Oral Solution Sachet	2026-03-13
+708320	80342	40034499	dextromethorphan Oral Solution	371757	BROAD	No exact RxNorm standard concept found for dextromethorphan 20 MG oral solution sachet.	dextromethorphan hydrobromide 20 MG Oral Solution Sachet	2026-03-13
+718654	57623	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+718655	57623	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+724317	83679	1396651	dextromethorphan hydrobromide 15 MG Oral Tablet	2173733	EXACT			2026-03-13
+726653	64727	1718812	dextromethorphan hydrobromide 10 MG Oral Lozenge	1861935	EXACT			2026-03-13
+727461	84688	43013590	dextromethorphan hydrobromide 1.5 MG/ML Oral Solution	1370211	EXACT			2026-03-13
+727599	83295	40034499	dextromethorphan Oral Solution	371757	BROAD	No exact RxNorm standard concept found for dextromethorphan 15 MG oral solution sachet.	dextromethorphan hydrobromide 15 MG Oral Solution Sachet	2026-03-13
+730492	85817	40241514	dextromethorphan Disintegrating Oral Tablet	1145673	BROAD	No exact RxNorm standard concept found for dextromethorphan 15 MG orally disintegrating tablet.	dextromethorphan hydrobromide 15 MG Disintegrating Oral Tablet	2026-03-13
+748111	57623	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+751636	64797	1718812	dextromethorphan hydrobromide 10 MG Oral Lozenge	1861935	EXACT			2026-03-13
+779165	58910	43013590	dextromethorphan hydrobromide 1.5 MG/ML Oral Solution	1370211	EXACT			2026-03-13
+819581	24381	1396651	dextromethorphan hydrobromide 15 MG Oral Tablet	2173733	EXACT			2026-03-13
+855270	62943	40235220	dextromethorphan hydrobromide 3 MG/ML Oral Solution	1090496	EXACT			2026-03-13
+885384	64003	1718812	dextromethorphan hydrobromide 10 MG Oral Lozenge	1861935	EXACT			2026-03-13
+971721	57177	1718812	dextromethorphan hydrobromide 10 MG Oral Lozenge	1861935	EXACT			2026-03-13
+971747	57174	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13
+977736	57623	43013597	dextromethorphan hydrobromide 2 MG/ML Oral Solution	1370216	EXACT			2026-03-13

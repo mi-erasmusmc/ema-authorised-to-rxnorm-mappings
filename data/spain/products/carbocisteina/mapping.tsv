@@ -1,11 +1,25 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-655456	50883	19041843	carbocysteine	2023	BROAD			
-659767	69214	19041843	carbocysteine	2023	BROAD			
-660870	69748	19041843	carbocysteine	2023	BROAD			
-660874	69749	19087057	carbocysteine 50 MG/ML	331067	EXACT			
-664259	71628	19041843	carbocysteine	2023	BROAD			
-701276	49550	19041843	carbocysteine	2023	BROAD			
-701292	46247	19041843	carbocysteine	2023	BROAD			
-702593	78816	19041843	carbocysteine	2023	BROAD			
-716279	76906	19041843	carbocysteine	2023	BROAD			
-936369	44833	19041843	carbocysteine	2023	BROAD			
+655456	50883	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+659767	69214	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+660870	69748	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+660874	69749	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+664259	71628	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+701276	49550	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+701292	46247	19128743	carbocysteine 20 MG/ML Oral Solution	755606	EXACT			2026-03-13
+702593	78816	19087217	carbocysteine 750 MG	331301	BROAD		carbocysteine 750 MG Oral Solution	2026-03-13
+716279	76906	19105690	carbocysteine 100 MG/ML Oral Solution	422073	EXACT			2026-03-13
+936369	44833	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+677435	61209	43532256	carbocysteine-lysine	1427149	BROAD		carbocysteine-lysine oral sachet	2026-03-13
+679515	73864	19087217	carbocysteine 750 MG	331301	BROAD		carbocysteine 750 MG Oral Solution	2026-03-13
+687517	60625	43532256	carbocysteine-lysine	1427149	BROAD		carbocysteine-lysine oral sachet	2026-03-13
+698435	60625	43532256	carbocysteine-lysine	1427149	BROAD		carbocysteine-lysine oral sachet	2026-03-13
+702065	78667	19087217	carbocysteine 750 MG	331301	BROAD		carbocysteine 750 MG Oral Solution	2026-03-13
+703998	79149	43532256	carbocysteine-lysine	1427149	BROAD		carbocysteine-lysine oral sachet	2026-03-13
+704511	79282	43532256	carbocysteine-lysine	1427149	BROAD		carbocysteine-lysine oral sachet	2026-03-13
+707822	79282	43532256	carbocysteine-lysine	1427149	BROAD		carbocysteine-lysine oral sachet	2026-03-13
+721563	49352	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+721571	49352	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+803908	51909	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+827253	65928	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+897298	51909	19041846	carbocysteine 50 MG/ML Oral Solution	246661	EXACT			2026-03-13
+935171	63432	19087217	carbocysteine 750 MG	331301	BROAD		carbocysteine 750 MG Oral Solution	2026-03-13

@@ -1,8 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-681919	74360	790315	clorazepate dipotassium 5 MG Oral Capsule	618737	EXACT			
-681922	74362	790332	clorazepate dipotassium 10 MG Oral Capsule	618747	EXACT			
-681923	74363	790253	clorazepate	2353	BROAD			
-721605	48985	790315	clorazepate dipotassium 5 MG Oral Capsule	618737	EXACT			
-724989	48986	790332	clorazepate dipotassium 10 MG Oral Capsule	618747	EXACT			
-725028	52112	790253	clorazepate	2353	BROAD			
-951269	55689	790253	clorazepate	2353	BROAD			
+681919	74360	790315	clorazepate dipotassium 5 MG Oral Capsule	618737	EXACT			2026-03-13
+681922	74362	790332	clorazepate dipotassium 10 MG Oral Capsule	618747	EXACT			2026-03-13
+681923	74363	790301	clorazepate dipotassium 15 MG Oral Capsule	576647	EXACT			2026-03-13
+721605	48985	790315	clorazepate dipotassium 5 MG Oral Capsule	618737	EXACT			2026-03-13
+724989	48986	790332	clorazepate dipotassium 10 MG Oral Capsule	618747	EXACT			2026-03-13
+725028	52112	790301	clorazepate dipotassium 15 MG Oral Capsule	576647	EXACT			2026-03-13
+951269	55689	19123845	clorazepate dipotassium 50 MG Oral Tablet	618764	EXACT			2026-03-13
+700640	51378	790253	clorazepate	2353	BROAD	No RxNorm injection concept found for clorazepate dipotassium 20 MG powder and solvent for injection; mapped to the ingredient concept.	clorazepate dipotassium 20 MG Injection	2026-03-13

@@ -4,3 +4,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 697860	100131048	19129658	0.5 ML peginterferon alfa-2b 0.3 MG/ML Pen Injector [Pegintron]	790245	EXACT			2026-03-12
 697861	100131036	19129312	0.5 ML peginterferon alfa-2b 0.16 MG/ML Pen Injector [Pegintron]	760039	EXACT			2026-03-12
 697862	100131032	19129660	0.5 ML peginterferon alfa-2b 0.1 MG/ML Pen Injector [Pegintron]	790247	EXACT			2026-03-12
+740753	00131031	19129660	0.5 ML peginterferon alfa-2b 0.1 MG/ML Pen Injector [Pegintron]	790247	EXACT			2026-03-13
+741066	00131035	19129312	0.5 ML peginterferon alfa-2b 0.16 MG/ML Pen Injector [Pegintron]	760039	EXACT			2026-03-13
+741496	00131039	36281069	0.5 ML peginterferon alfa-2b 0.2 MG/ML Pen Injector [Pegintron]	OMOP3131944	EXACT			2026-03-13
+741710	00131043	19129302	0.5 ML peginterferon alfa-2b 0.24 MG/ML Pen Injector [Pegintron]	760029	EXACT			2026-03-13
+741777	00131047	19129658	0.5 ML peginterferon alfa-2b 0.3 MG/ML Pen Injector [Pegintron]	790245	EXACT			2026-03-13
+873018	00131002	19131809	peginterferon alfa-2b 0.05 MG Injection [Pegintron]	805007	EXACT			2026-03-13

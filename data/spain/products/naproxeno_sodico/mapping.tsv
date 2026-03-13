@@ -1,13 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-714937	81767	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-714947	81767	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-721033	82949	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-721034	82949	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-729596	85518	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-729597	85518	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-755330	65730	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-755348	65730	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-765466	89738	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-765467	89738	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-971457	57152	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
-998484	57152	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			
+714937	81767	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+714947	81767	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+721033	82949	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+721034	82949	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+729596	85518	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+729597	85518	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+755330	65730	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+755348	65730	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+765466	89738	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+765467	89738	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+971457	57152	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+998484	57152	1115129	naproxen sodium 550 MG Oral Tablet	849431	EXACT			2026-03-13
+723358	83348	1115069	naproxen 500 MG Extended Release Oral Tablet	311917	BROAD	No exact RxNorm standard concept found for naproxen sodium 660 MG modified-release tablet; mapped to the closest naproxen extended-release tablet concept.	naproxen sodium 660 MG Extended Release Oral Tablet	2026-03-13

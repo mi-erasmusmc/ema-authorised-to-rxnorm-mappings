@@ -1,10 +1,29 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-698738	77783	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707				
-698739	77783	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707				
-736355	59864	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357				
-736363	59864	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357				
-862391	65062	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357				
-862730	65062	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357				
-863613	56706	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707				
-866913	63034	43817479	Desogestrel 0.025 MG / Ethinyl Estradiol 0.04 MG Oral Tablet	OMOP918869	EXACT			
-866921	63034	43817479	Desogestrel 0.025 MG / Ethinyl Estradiol 0.04 MG Oral Tablet	OMOP918869	EXACT			
+653823	67558	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+691317	76047	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+691318	76047	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+691320	76003	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+698738	77783	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+698739	77783	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+699055	PL-00065-0085	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+699056	PL-00065-0085	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+699142	77864	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+699143	77864	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+699149	77868	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+701651	78512	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+701652	78512	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+703799	BE117591IP	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+704195	79192	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+704196	79192	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+709175	RVG08859	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+712771	RVG11508	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+712772	RVG11508	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+727563	BE339412	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+727564	BE339412	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+736355	59864	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+736363	59864	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+862391	65062	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+862730	65062	1549852	desogestrel 0.15 MG / ethinyl estradiol 0.02 MG Oral Tablet	249357	EXACT			2026-03-12
+863613	56706	19058045	desogestrel 0.15 MG / ethinyl estradiol 0.03 MG Oral Tablet	240707	EXACT			2026-03-12
+866913	63034	43817479	Desogestrel 0.025 MG / Ethinyl Estradiol 0.04 MG Oral Tablet	OMOP918869	EXACT			2026-03-12
+866921	63034	43817479	Desogestrel 0.025 MG / Ethinyl Estradiol 0.04 MG Oral Tablet	OMOP918869	EXACT			2026-03-12

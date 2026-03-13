@@ -1,39 +1,52 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-654783	71125	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-667951	71124	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			
-667969	71126	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			
-667988	71127	21091527	Naloxone 2.5 MG / Oxycodone 5 MG Extended Release Oral Tablet	OMOP360721				
-708668	80411	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-712112	81129	21091527	Naloxone 2.5 MG / Oxycodone 5 MG Extended Release Oral Tablet	OMOP360721				
-712122	81130	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			
-712132	81131	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-712144	81132	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			
-712503	81209	21091527	Naloxone 2.5 MG / Oxycodone 5 MG Extended Release Oral Tablet	OMOP360721				
-712504	81210	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			
-712506	81211	41017321	Naloxone / Oxycodone Oral Tablet	OMOP2215283	BROAD			
-712507	81212	41017321	Naloxone / Oxycodone Oral Tablet	OMOP2215283	BROAD			
-714742	81723	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911				
-714758	81724	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-714776	81725	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			
-714794	81726	21091527	Naloxone 2.5 MG / Oxycodone 5 MG Extended Release Oral Tablet	OMOP360721				
-714811	81727	36887666	Naloxone 16.4 MG / Oxycodone 30 MG Extended Release Oral Tablet	OMOP993799				
-716529	82151	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			
-716531	82152	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-716533	82153	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			
-716908	82277	21091527	Naloxone 2.5 MG / Oxycodone 5 MG Extended Release Oral Tablet	OMOP360721				
-716922	82278	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			
-716937	82279	36887666	Naloxone 16.4 MG / Oxycodone 30 MG Extended Release Oral Tablet	OMOP993799				
-716951	82280	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-716965	82281	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911				
-720676	82860	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			
-720690	82861	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-720721	82862	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911				
-724899	83856	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911				
-724915	83857	36887666	Naloxone 16.4 MG / Oxycodone 30 MG Extended Release Oral Tablet	OMOP993799				
-724929	83858	21091527	Naloxone 2.5 MG / Oxycodone 5 MG Extended Release Oral Tablet	OMOP360721				
-724943	83859	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			
-724958	83860	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-768471	82278	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			
-768477	82280	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			
-768478	82281	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911				
-768479	82277	21091527	Naloxone 2.5 MG / Oxycodone 5 MG Extended Release Oral Tablet	OMOP360721				
+654783	71125	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+667951	71124	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+667969	71126	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
+667988	71127	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+708654	80410	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+708668	80411	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+708686	80412	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
+708703	80413	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
+708717	80414	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+712112	81129	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+712122	81130	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+712132	81131	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+712144	81132	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
+712503	81209	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+712504	81210	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+712506	81211	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+712507	81212	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
+714653	81718	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+714670	81719	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+714687	81720	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+714704	81721	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
+714742	81723	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+714758	81724	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+714776	81725	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
+714794	81726	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+714811	81727	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
+716529	82151	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+716531	82152	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+716533	82153	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
+716908	82277	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+716922	82278	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
+716937	82279	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
+716951	82280	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+716965	82281	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+720116	82718	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+720140	82719	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+720163	82720	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
+720676	82860	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
+720690	82861	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+720721	82862	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+720736	82863	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+724899	83856	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+724915	83857	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
+724929	83858	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+724943	83859	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
+724958	83860	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+731272	86060	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
+768471	82278	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
+768477	82280	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+768478	82281	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
+768479	82277	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13

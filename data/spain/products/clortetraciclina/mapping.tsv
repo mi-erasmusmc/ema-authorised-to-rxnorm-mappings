@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+653520	13909	19095050	chlortetracycline 0.01 MG/MG Ophthalmic Ointment	313912	EXACT			2026-03-13
+741819	17890	19008726	chlortetracycline 0.03 MG/MG Topical Ointment	106353	EXACT			2026-03-13
+741827	17503	40030833	chlortetracycline Topical Ointment	376479	BROAD	No exact RxNorm standard concept found for chlortetracycline 10 MG/G topical ointment; mapped to the closest topical ointment concept.	chlortetracycline 10 MG/G Topical Ointment	2026-03-13

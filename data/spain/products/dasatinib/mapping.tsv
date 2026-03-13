@@ -1,8 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-725598	84092	19130458	dasatinib 100 MG Oral Tablet	799047				
-728889	85230	19124392	dasatinib 50 MG Oral Tablet	643107				
-728892	85231	19124394	dasatinib 70 MG Oral Tablet	643109				
-729018	85288	19124392	dasatinib 50 MG Oral Tablet	643107				
-729019	85289	19124394	dasatinib 70 MG Oral Tablet	643109				
-733127	84089	19124392	dasatinib 50 MG Oral Tablet	643107				
-733129	84090	19124394	dasatinib 70 MG Oral Tablet	643109				
+725598	84092	19130458	dasatinib 100 MG Oral Tablet	799047	EXACT			2026-03-13
+728889	85230	19124392	dasatinib 50 MG Oral Tablet	643107	EXACT			2026-03-13
+728892	85231	19124394	dasatinib 70 MG Oral Tablet	643109	EXACT			2026-03-13
+729018	85288	19124392	dasatinib 50 MG Oral Tablet	643107	EXACT			2026-03-13
+729019	85289	19124394	dasatinib 70 MG Oral Tablet	643109	EXACT			2026-03-13
+733127	84089	19124392	dasatinib 50 MG Oral Tablet	643107	EXACT			2026-03-13
+733129	84090	19124394	dasatinib 70 MG Oral Tablet	643109	EXACT			2026-03-13
+652751	06363006	19124394	dasatinib 70 MG Oral Tablet	643109	EXACT			2026-03-13
+652769	06363005	19124392	dasatinib 50 MG Oral Tablet	643107	EXACT			2026-03-13
+656939	06363004	19124390	dasatinib 20 MG Oral Tablet	643105	EXACT			2026-03-13

@@ -1,10 +1,29 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-700754	78258	1735673	Saccharomyces boulardii 250 MG Powder for Oral Suspension	2697765	EXACT			
-700755	78258	1735673	Saccharomyces boulardii 250 MG Powder for Oral Suspension	2697765	EXACT			
-700788	78272	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			
-700789	78272	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			
-710176	78272	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			
-710177	78272	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			
-735115	86878	1253955	SACCHAROMYCES CEREVISIAE VAR. BOULARDII CNCM I-745	OMOP5556087	BROAD			
-841627	46035	1253955	SACCHAROMYCES CEREVISIAE VAR. BOULARDII CNCM I-745	OMOP5556087	BROAD			
-936872	46035	1253955	SACCHAROMYCES CEREVISIAE VAR. BOULARDII CNCM I-745	OMOP5556087	BROAD			
+700754	78258	1735673	Saccharomyces boulardii 250 MG Powder for Oral Suspension	2697765	EXACT			2026-03-12
+700755	78258	1735673	Saccharomyces boulardii 250 MG Powder for Oral Suspension	2697765	EXACT			2026-03-12
+700788	78272	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+700789	78272	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+710176	78272	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+710177	78272	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+712566	34009325988541	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+715788	0697702	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+716312	46177-19-6-2013	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+716313	46177-19-6-2013IP	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+724621	3400932598854	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+725441	2113-13-1-2010	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+725442	2113-13-1-2010	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+725443	2123-13-1-2010	1735673	Saccharomyces boulardii 250 MG Powder for Oral Suspension	2697765	EXACT			2026-03-12
+725574	2123-13-1-2010	1735673	Saccharomyces boulardii 250 MG Powder for Oral Suspension	2697765	EXACT			2026-03-12
+726681	67618-_22-06-2018	1735672	Saccharomyces boulardii Powder for Oral Suspension	2697764	BROAD		Saccharomyces boulardii 250 MG Oral Granules (no RxNorm match)	2026-03-12
+726682	67618-_22-06-2018	1735672	Saccharomyces boulardii Powder for Oral Suspension	2697764	BROAD		Saccharomyces boulardii 250 MG Oral Granules (no RxNorm match)	2026-03-12
+726706	46177-19-6-2013IP1	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+726707	67617-22-6-2018	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+726708	67617-22-6-2018	19121591	Saccharomyces boulardii 250 MG Oral Capsule	580285	EXACT			2026-03-12
+726817	34009_369_913_0_9	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+726818	34009_369_913_0_9	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+728986	62989610	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+728987	62989610	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
+735115	86878	1735672	Saccharomyces boulardii Powder for Oral Suspension	2697764	BROAD		Saccharomyces boulardii 250 MG powder+diluent oral suspension	2026-03-12
+841627	46035	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT	des_dosific 56.6mg = 50mg des_dcp label		2026-03-12
+936872	46035	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT	des_dosific 56.6mg = 50mg des_dcp label		2026-03-12
+946608	311001-9	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT	des_dosific 56.6mg = 50mg des_dcp label		2026-03-12

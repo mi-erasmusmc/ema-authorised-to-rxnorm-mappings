@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+737486	48622	40095928	cobamamide / cyproheptadine Oral Tablet	438866	BROAD	No RxNorm concept for the cyproheptadine/cobamamide capsule; mapped to the closest standard oral combination concept.	cyproheptadine 3 MG / cobamamide 1 MG Oral Capsule	2026-03-13
+836825	49107	40138628	cyproheptadine Oral Solution	702213	BROAD	No RxNorm concept for the cyproheptadine/cobamamide oral suspension; mapped to cyproheptadine oral solution as the primary standard ingredient concept.	cyproheptadine 1 MG/ML / cobamamide 0.25 MCG/ML Powder for Oral Suspension	2026-03-13

@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-721293	83016	42929951	Amlodipine 5 MG / candesartan 16 MG Oral Tablet	OMOP4656726				
-721315	83017	42929931	Amlodipine 5 MG / candesartan 8 MG Oral Tablet	OMOP4656706	EXACT			
-727604	84728	42929938	Amlodipine 10 MG / candesartan 16 MG Oral Tablet	OMOP4656713				
+721293	83016	42929951	Amlodipine 5 MG / candesartan 16 MG Oral Tablet	OMOP4656726	EXACT			2026-03-12
+721315	83017	42929931	Amlodipine 5 MG / candesartan 8 MG Oral Tablet	OMOP4656706	EXACT			2026-03-12
+727604	84728	42929938	Amlodipine 10 MG / candesartan 16 MG Oral Tablet	OMOP4656713	EXACT			2026-03-12

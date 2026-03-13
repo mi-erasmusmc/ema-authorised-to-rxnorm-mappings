@@ -1,8 +1,16 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-711276	80988	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			
-715025	1161133004	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-726450	84380	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			
-727967	84875	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			
-728821	85198	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			
-729950	84380	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			
-758141	1161133004	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
+711276	80988	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+715025	1161133004	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	1703093	EXACT			2026-03-13
+726450	84380	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+727967	84875	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+728821	85198	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+729950	84380	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+758141	1161133004	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	1703093	EXACT			2026-03-13
+650921	04305001	1710316	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet [Truvada]	639888	EXACT			2026-03-13
+714934	81766	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+716032	82013	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+716440	82128	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+716846	82260	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+716851	82261	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+723438	83388	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
+726552	84414	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2026-03-13
