@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607452	1201493001	42609449	atidarsagene autotemcel Injection	2677919	BROAD	Autologous gene therapy with variable concentration (2-10 x 10^6 cells/ml); EU brand Libmeldy, US brand Lenmeldy		2026-02-11
+607452	1201493001	42609449	atidarsagene autotemcel Injection	2677919	BROAD	Autologous gene therapy with variable concentration (2-10 x 10^6 cells/ml); EU brand Libmeldy, US brand Lenmeldy. RxNorm only has fixed concentration (11.8e6 cells/ml) for Lenmeldy (US brand); no volume-specific concept for Libmeldy exists	No better concept available — unbranded clinical drug injection is the best standard match	2026-03-13

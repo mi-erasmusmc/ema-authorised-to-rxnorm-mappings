@@ -1,7 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-703390	78987	19102160	miglustat 100 MG Oral Capsule	401938				
+703390	78987	19102160	miglustat 100 MG Oral Capsule	401938	EXACT			2026-03-13
 728859	1171232001	19102160	miglustat 100 MG Oral Capsule	401938	EXACT			2025-12-04
-731122	1171176001	746149	miglustat 100 MG Oral Capsule [Yargesa]	2642350	EXACT			2025-12-04
+731122	1171176001	746149	miglustat 100 MG Oral Capsule [Yargesa]	2642350	EXACT			2026-03-13
 737612	1181346002	19102160	miglustat 100 MG Oral Capsule	401938	EXACT			2025-12-04
 763013	1231737001	746788	miglustat 65 MG Oral Capsule [Opfolda]	2667432	EXACT			2025-12-04
 763014	1231737001	746788	miglustat 65 MG Oral Capsule [Opfolda]	2667432	EXACT			2025-12-04
+756304	02238001	19113619	miglustat 100 MG Oral Capsule [Zavesca]	541070	EXACT			2026-03-13

@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+962720	56489	914646	naphazoline 0.5 MG/ML Ophthalmic Solution	251796	BROAD	RxNorm lacks a naphazoline plus hamamelis ophthalmic combination concept.	naphazoline 0.3 MG/ML / Hamamelis virginiana Water 0.08 ML/ML Ophthalmic Solution	2026-03-13
+962738	56489	914646	naphazoline 0.5 MG/ML Ophthalmic Solution	251796	BROAD	RxNorm lacks a naphazoline plus hamamelis ophthalmic combination concept and does not expose the unit-dose presentation.	naphazoline 0.3 MG/ML / Hamamelis virginiana Water 0.08 ML/ML Ophthalmic Solution in unit-dose container	2026-03-13

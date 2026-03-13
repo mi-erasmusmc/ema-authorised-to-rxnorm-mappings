@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+686220	60684	43203037	L-Arginine L-aspartate 500 MG/ML Oral Solution	OMOP466506	EXACT	Source package text gives 10 mL drinkable ampoules containing 5000 MG total.		2026-03-13
+821322	54043	43147962	L-Arginine L-aspartate 200 MG/ML Oral Solution	OMOP466496	EXACT	Source package text gives 5 mL drinkable ampoules containing 1000 MG total.		2026-03-13
