@@ -1,8 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-658226	68316	40164515	clobetasol propionate 0.5 MG/ML Medicated Shampoo [Clobex]	861492	EXACT			
-704888	79415	998415	clobetasol	2590	BROAD			
-728934	85249	40164514	clobetasol propionate 0.5 MG/ML Medicated Shampoo	861490	EXACT			
-761619	66071	35407407	Clobetasol 0.0005 MG/MG Topical Foam	OMOP1140992	BROAD			
-952036	55746	40164500	clobetasol propionate 0.0005 MG/MG	861433	BROAD			
-963330	56530	998415	clobetasol	2590	BROAD			
-963348	56530	998415	clobetasol	2590	BROAD			
+658226	68316	40164515	clobetasol propionate 0.5 MG/ML Medicated Shampoo [Clobex]	861492	EXACT			2026-03-13
+704888	79415	40164525	clobetasol propionate 0.5 MG/ML Topical Solution	861487	EXACT			2026-03-13
+661571	70111	35409166	Clobetasol 0.0005 MG/MG Topical Ointment [Clarelux]	OMOP1142751	EXACT			2026-03-13
+728934	85249	40164514	clobetasol propionate 0.5 MG/ML Medicated Shampoo	861490	EXACT			2026-03-13
+761619	66071	35407407	Clobetasol 0.0005 MG/MG Topical Foam	OMOP1140992	EXACT			2026-03-13
+952036	55746	35407408	Clobetasol 0.0005 MG/MG Topical Cream	OMOP1140993	EXACT			2026-03-13
+963330	56530	40164505	clobetasol propionate 0.0005 MG/MG Topical Ointment	861448	EXACT			2026-03-13
+963348	56530	40164505	clobetasol propionate 0.0005 MG/MG Topical Ointment	861448	EXACT			2026-03-13

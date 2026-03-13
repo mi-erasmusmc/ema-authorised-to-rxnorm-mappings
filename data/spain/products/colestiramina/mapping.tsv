@@ -1,2 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-824284	49340	19095325	cholestyramine resin 4000 MG Powder for Oral Suspension	848943	EXACT			
+824284	49340	19095325	cholestyramine resin 4000 MG Powder for Oral Suspension	848943	EXACT			2026-03-13
+663228	56701	36249629	cholestyramine resin Powder for Oral Suspension	1801266	BROAD	RxNorm does not expose the Spain 3000 MG powder-for-suspension strength.	cholestyramine resin 3000 MG Powder for Oral Suspension	2026-03-13
