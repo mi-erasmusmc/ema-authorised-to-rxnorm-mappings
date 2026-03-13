@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-700589	11731008	40229046	24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet [Kombiglyze]	1043567	BROAD		metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Oral Tablet	2026-03-12
-700600	11731002	40229045	24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet	1043563	BROAD		metformin hydrochloride 850 MG / saxagliptin 2.5 MG Oral Tablet	2026-03-12
+700589	11731008	40229046	24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet [Kombiglyze]	1043567	BROAD	No non-XR saxagliptin/metformin 1000 MG concept in RxNorm	metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Oral Tablet	2026-03-13
+700600	11731002	40229045	24 HR metformin hydrochloride 1000 MG / saxagliptin 2.5 MG Extended Release Oral Tablet	1043563	BROAD	No saxagliptin/metformin 850 MG concept in RxNorm	metformin hydrochloride 850 MG / saxagliptin 2.5 MG Oral Tablet	2026-03-13

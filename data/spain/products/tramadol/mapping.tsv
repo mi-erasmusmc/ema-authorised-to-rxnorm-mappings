@@ -14,8 +14,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 658540	68502	19134122	tramadol hydrochloride 150 MG Extended Release Oral Capsule	836488	EXACT			2026-03-12
 658541	68503	19134124	tramadol hydrochloride 200 MG Extended Release Oral Capsule	836490	EXACT			2026-03-12
 658543	68503	19134124	tramadol hydrochloride 200 MG Extended Release Oral Capsule	836490	EXACT			2026-03-12
-658668	68570	19135765	tramadol hydrochloride 50 MG Extended Release Oral Capsule	849903	BROAD		No tramadol hydrochloride 50 MG Extended Release Oral Tablet in RxNorm	2026-03-12
-658669	68570	19135765	tramadol hydrochloride 50 MG Extended Release Oral Capsule	849903	BROAD		No tramadol hydrochloride 50 MG Extended Release Oral Tablet in RxNorm	2026-03-12
+658668	68570	19135765	tramadol hydrochloride 50 MG Extended Release Oral Capsule	849903	BROAD		tramadol hydrochloride 50 MG Extended Release Oral Tablet	2026-03-12
+658669	68570	19135765	tramadol hydrochloride 50 MG Extended Release Oral Capsule	849903	BROAD		tramadol hydrochloride 50 MG Extended Release Oral Tablet	2026-03-12
 659151	62113	19134124	tramadol hydrochloride 200 MG Extended Release Oral Capsule	836490	EXACT			2026-03-12
 659169	62112	19134122	tramadol hydrochloride 150 MG Extended Release Oral Capsule	836488	EXACT			2026-03-12
 659177	62111	19134120	tramadol hydrochloride 100 MG Extended Release Oral Capsule	836486	EXACT			2026-03-12
@@ -146,8 +146,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 724542	83760	19135536	tramadol hydrochloride 50 MG/ML Injectable Solution	849329	EXACT			2026-03-12
 724810	83837	19135629	tramadol hydrochloride 100 MG/ML Oral Solution	849569	EXACT			2026-03-12
 724811	83837	19135629	tramadol hydrochloride 100 MG/ML Oral Solution	849569	EXACT			2026-03-12
-731035	85977	19134120	tramadol hydrochloride 100 MG Extended Release Oral Capsule	836486	BROAD		No tramadol hydrochloride 100 MG Oral Capsule in RxNorm	2026-03-12
-731036	85977	19134120	tramadol hydrochloride 100 MG Extended Release Oral Capsule	836486	BROAD		No tramadol hydrochloride 100 MG Oral Capsule in RxNorm	2026-03-12
+731035	85977	19134120	tramadol hydrochloride 100 MG Extended Release Oral Capsule	836486	BROAD		tramadol hydrochloride 100 MG Oral Capsule	2026-03-12
+731036	85977	19134120	tramadol hydrochloride 100 MG Extended Release Oral Capsule	836486	BROAD		tramadol hydrochloride 100 MG Oral Capsule	2026-03-12
 762451	88746	19135536	tramadol hydrochloride 50 MG/ML Injectable Solution	849329	EXACT			2026-03-12
 783365	65801	19134123	tramadol hydrochloride 150 MG Extended Release Oral Tablet	836489	EXACT			2026-03-12
 783639	65801	19134123	tramadol hydrochloride 150 MG Extended Release Oral Tablet	836489	EXACT			2026-03-12

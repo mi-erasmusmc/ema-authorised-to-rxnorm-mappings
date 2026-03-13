@@ -66,7 +66,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 864769	63957	742344	topiramate 15 MG Oral Capsule [Topamax]	845478	EXACT			2026-03-12
 865436	63959	742345	topiramate 25 MG Oral Capsule [Topamax]	845479	EXACT			2026-03-12
 867564	63960	21170591	topiramate 50 MG Oral Capsule [Topamax]	OMOP367466	EXACT			2026-03-12
-658835	68666	742304	topiramate 100 MG Oral Tablet	199889	BROAD	no RxNorm concept for Topibrain brand	topiramate 100 MG Oral Tablet	2026-03-12
+658835	68666	742304	topiramate 100 MG Oral Tablet	199889	BROAD	no RxNorm concept for Topibrain brand	topiramate 100 MG Oral Tablet [Topibrain]	2026-03-12
 659265	68930	742303	topiramate 25 MG Oral Tablet	199888	EXACT			2026-03-12
 659266	68931	742268	topiramate 50 MG Oral Tablet	151226	EXACT			2026-03-12
 659267	68932	742304	topiramate 100 MG Oral Tablet	199889	EXACT			2026-03-12

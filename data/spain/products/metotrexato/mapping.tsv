@@ -112,9 +112,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 704943	79440	19007336	methotrexate 100 MG/ML Injectable Solution	105589	EXACT			2026-03-12
 704945	79440	19007336	methotrexate 100 MG/ML Injectable Solution	105589	EXACT			2026-03-12
 673135	71400	1305083	methotrexate 10 MG/ML Injectable Solution	245256	EXACT			2026-03-12
-673138	70999	46275600	methotrexate Injection	1655955	BROAD		No standard RxNorm concept for methotrexate 20 MG/ML prefilled syringe	2026-03-12
-673139	71787	46275600	methotrexate Injection	1655955	BROAD		No standard RxNorm concept for methotrexate 20 MG/ML prefilled syringe	2026-03-12
-673140	71788	46275600	methotrexate Injection	1655955	BROAD		No standard RxNorm concept for methotrexate 20 MG/ML prefilled syringe	2026-03-12
+673138	70999	46275600	methotrexate Injection	1655955	BROAD		1 ML methotrexate 20 MG/ML Prefilled Syringe	2026-03-12
+673139	71787	46275600	methotrexate Injection	1655955	BROAD		1.25 ML methotrexate 20 MG/ML Prefilled Syringe	2026-03-12
+673140	71788	46275600	methotrexate Injection	1655955	BROAD		1.5 ML methotrexate 20 MG/ML Prefilled Syringe	2026-03-12
 673209	71108	21088501	0.2 ML Methotrexate 50 MG/ML Prefilled Syringe	OMOP285489	EXACT			2026-03-12
 673211	71109	21137600	0.3 ML Methotrexate 50 MG/ML Prefilled Syringe	OMOP285801	EXACT			2026-03-12
 680775	71108	21088501	0.2 ML Methotrexate 50 MG/ML Prefilled Syringe	OMOP285489	EXACT			2026-03-12

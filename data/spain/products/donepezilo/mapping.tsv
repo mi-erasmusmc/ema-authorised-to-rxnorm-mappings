@@ -124,7 +124,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 720953	75519-20-11-2007	40223769	donepezil hydrochloride 10 MG Oral Tablet [Aricept]	997224	EXACT	branded Aricept (sw_generico=0, Pfizer)		2026-03-12
 720954	76110-4-12-2006	40223767	donepezil hydrochloride 10 MG Disintegrating Oral Tablet [Aricept]	997222	EXACT	branded Aricept FLAS (sw_generico=0, Pfizer)		2026-03-12
 725882	10159-2017-05	40223768	donepezil hydrochloride 10 MG Oral Tablet	997223	EXACT	generic EFG (YASNAL EFG by KRKA)		2026-03-12
-727648	84747	40223762	donepezil hydrochloride 1 MG/ML Oral Solution	997216	BROAD	PEZIMAX 2 mg/ml oral solution; no 2 mg/ml RxNorm concept exists	No RxNorm concept for donepezil 2 MG/ML oral solution; mapped BROAD to 1 MG/ML as closest standard concept	2026-03-12
+727648	84747	40223762	donepezil hydrochloride 1 MG/ML Oral Solution	997216	BROAD	PEZIMAX 2 mg/ml oral solution; no 2 mg/ml RxNorm concept exists	donepezil hydrochloride 2 MG/ML Oral Solution	2026-03-12
 728191	76110-04-12-2006IP	40223767	donepezil hydrochloride 10 MG Disintegrating Oral Tablet [Aricept]	997222	EXACT	branded Aricept FLAS (sw_generico=0, Pfizer)		2026-03-12
 728192	75519-20-11-2007IP	40223769	donepezil hydrochloride 10 MG Oral Tablet [Aricept]	997224	EXACT	branded Aricept (sw_generico=0, Pfizer)		2026-03-12
 730626	3400937306447	40223767	donepezil hydrochloride 10 MG Disintegrating Oral Tablet [Aricept]	997222	EXACT	branded Aricept FLAS (sw_generico=0, Eisai)		2026-03-12

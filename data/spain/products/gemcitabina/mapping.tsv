@@ -13,8 +13,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 710614	80814	35200816	gemcitabine 10 MG/ML Injection	2058864	EXACT			2026-03-12
 710618	80814	35200816	gemcitabine 10 MG/ML Injection	2058864	EXACT			2026-03-12
 710621	80814	35200816	gemcitabine 10 MG/ML Injection	2058864	EXACT			2026-03-12
-710786	80845	40242699	gemcitabine 38 MG/ML	1148918	BROAD		No 40 MG/ML concept in RxNorm; 38 MG/ML closest available	2026-03-12
-710787	80846	40242699	gemcitabine 38 MG/ML	1148918	BROAD		No 40 MG/ML concept in RxNorm; 38 MG/ML closest available	2026-03-12
+710786	80845	40242699	gemcitabine 38 MG/ML	1148918	BROAD		gemcitabine 40 MG/ML Injection	2026-03-12
+710787	80846	40242699	gemcitabine 38 MG/ML	1148918	BROAD		gemcitabine 40 MG/ML Injection	2026-03-12
 721289	80814	35200816	gemcitabine 10 MG/ML Injection	2058864	EXACT			2026-03-12
 722266	83260	35603176	gemcitabine 2000 MG Injection	1719005	EXACT			2026-03-12
 722297	83263	35603172	gemcitabine 200 MG Injection	1719000	EXACT			2026-03-12
@@ -28,15 +28,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 667708	71169	35603172	gemcitabine 200 MG Injection	1719000	EXACT			2026-03-12
 667710	71170	35603174	gemcitabine 1000 MG Injection	1719003	EXACT			2026-03-12
 668986	72102	35603172	gemcitabine 200 MG Injection	1719000	EXACT			2026-03-12
-668987	72103	35603176	gemcitabine 2000 MG Injection	1719005	BROAD		gemcitabine 2000 MG Injection	2026-03-12
+668987	72103	35603176	gemcitabine 2000 MG Injection	1719005	BROAD		52.6 ML gemcitabine 38 MG/ML Injection	2026-03-12
 668989	72104	35603174	gemcitabine 1000 MG Injection	1719003	EXACT			2026-03-12
 673326	73626	35603172	gemcitabine 200 MG Injection	1719000	EXACT			2026-03-12
 673412	73627	35603174	gemcitabine 1000 MG Injection	1719003	EXACT			2026-03-12
-675952	72980	35605113	gemcitabine 38 MG/ML Injection	1720961	BROAD		No 40 MG/ML concept; 38 MG/ML closest available concentration	2026-03-12
-676194	72979	35603172	gemcitabine 200 MG Injection	1719000	BROAD		No 40 MG/ML volume-specific concept; matched by total dose	2026-03-12
-676195	72981	35603174	gemcitabine 1000 MG Injection	1719003	BROAD		No 40 MG/ML volume-specific concept; matched by total dose	2026-03-12
-680708	74083	35605123	5.26 ML gemcitabine 38 MG/ML Injection	1720977	BROAD		Volume listed as 5.3 ml vs RxNorm 5.26 ml	2026-03-12
-681967	74408	35603174	gemcitabine 1000 MG Injection	1719003	BROAD		No 40 MG/ML volume-specific concept; matched by total dose	2026-03-12
-701413	78458	35603172	gemcitabine 200 MG Injection	1719000	BROAD		No 40 MG/ML volume-specific concept; matched by total dose	2026-03-12
-701415	78459	35603174	gemcitabine 1000 MG Injection	1719003	BROAD		No 40 MG/ML volume-specific concept; matched by total dose	2026-03-12
-701424	78463	35603176	gemcitabine 2000 MG Injection	1719005	BROAD		No 40 MG/ML volume-specific concept; matched by total dose	2026-03-12
+675952	72980	35605113	gemcitabine 38 MG/ML Injection	1720961	BROAD		52.6 ML gemcitabine 38 MG/ML Injection	2026-03-12
+676194	72979	35603172	gemcitabine 200 MG Injection	1719000	BROAD		5.26 ML gemcitabine 38 MG/ML Injection	2026-03-12
+676195	72981	35603174	gemcitabine 1000 MG Injection	1719003	BROAD		26.3 ML gemcitabine 38 MG/ML Injection	2026-03-12
+680708	74083	35605123	5.26 ML gemcitabine 38 MG/ML Injection	1720977	BROAD		5.3 ML gemcitabine 38 MG/ML Injection	2026-03-12
+681967	74408	35603174	gemcitabine 1000 MG Injection	1719003	BROAD		26.3 ML gemcitabine 38 MG/ML Injection	2026-03-12
+701413	78458	35603172	gemcitabine 200 MG Injection	1719000	BROAD		5.26 ML gemcitabine 38 MG/ML Injection	2026-03-12
+701415	78459	35603174	gemcitabine 1000 MG Injection	1719003	BROAD		26.3 ML gemcitabine 38 MG/ML Injection	2026-03-12
+701424	78463	35603176	gemcitabine 2000 MG Injection	1719005	BROAD		52.6 ML gemcitabine 38 MG/ML Injection	2026-03-12

@@ -28,9 +28,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 634568	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
 641167	58804	36890948	Fluconazole 100 MG Oral Capsule [Diflucan]	OMOP991882	EXACT	Diflucan branded 100mg cap (sw_generico=0)		2026-03-12
 641175	58803	19025903	fluconazole 200 MG Oral Capsule [Diflucan]	201898	EXACT	Diflucan branded 200mg cap (sw_generico=0)		2026-03-12
-641324	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-641332	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-641381	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+641324	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule	2026-03-12
+641332	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule	2026-03-12
+641381	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule	2026-03-12
 650583	64616	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
 650584	64617	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 650585	64618	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
@@ -43,8 +43,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 654680	67928	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
 654683	67928	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
 654684	67929	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
-654889	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-654905	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+654889	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule	2026-03-12
+654905	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule	2026-03-12
 659126	68846	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
 659127	68847	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
 659129	68848	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
@@ -78,11 +78,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 714483	70815	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 714484	70814	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
 714486	70814	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
-714487	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-714488	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-714489	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-714490	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-714491	59052	1755001	fluconazole 50 MG Oral Capsule	199747	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 50 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+714487	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule	2026-03-12
+714488	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule	2026-03-12
+714489	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule	2026-03-12
+714490	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule	2026-03-12
+714491	59052	1755001	fluconazole 50 MG Oral Capsule	199747	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 50 MG Oral Capsule	2026-03-12
 726721	64332	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
 726722	64334	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 726723	64335	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
@@ -93,11 +93,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728390	85035	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
 728391	85036	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
 728392	85037	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
-773390	59052	1755001	fluconazole 50 MG Oral Capsule	199747	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 50 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-774190	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-775221	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-775247	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule branded concept not in RxNorm	2026-03-12
-780569	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule branded concept not in RxNorm	2026-03-12
+773390	59052	1755001	fluconazole 50 MG Oral Capsule	199747	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 50 MG Oral Capsule	2026-03-12
+774190	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule	2026-03-12
+775221	59054	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 150 MG Oral Capsule	2026-03-12
+775247	59055	1755000	fluconazole 200 MG Oral Capsule	199746	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 200 MG Oral Capsule	2026-03-12
+780569	59059	1754999	fluconazole 150 MG Oral Capsule	199745	BROAD	Kern Pharma brand not in RxNorm	Kern Pharma fluconazole 150 MG Oral Capsule	2026-03-12
 790915	59672	19025905	fluconazole 10 MG/ML Oral Suspension [Diflucan]	201900	EXACT	Diflucan branded suspension (sw_generico=0)		2026-03-12
 790923	59673	19025906	fluconazole 40 MG/ML Oral Suspension [Diflucan]	201901	EXACT	Diflucan branded suspension (sw_generico=0)		2026-03-12
 798967	64952	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
@@ -116,8 +116,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 843854	64623	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
 847038	64629	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 847616	64631	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
-853051	62931	43155248	Fluconazole 40 MG/ML Powder for Oral Suspension	OMOP457424	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 40 MG/ML oral suspension branded concept not in RxNorm	2026-03-12
-853093	62933	19077380	fluconazole 10 MG/ML Oral Suspension	310352	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 10 MG/ML oral suspension branded concept not in RxNorm	2026-03-12
+853051	62931	43155248	Fluconazole 40 MG/ML Powder for Oral Suspension	OMOP457424	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 40 MG/ML oral suspension	2026-03-12
+853093	62933	19077380	fluconazole 10 MG/ML Oral Suspension	310352	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 10 MG/ML oral suspension	2026-03-12
 872432	65089	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
 875146	65090	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
 875294	65091	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
@@ -132,11 +132,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 605750	73952	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
 606601	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
 606602	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
-623827	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection branded concept not in RxNorm	2026-03-12
+623827	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection	2026-03-12
 640482	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
 640490	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
-641340	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection branded concept not in RxNorm	2026-03-12
-641357	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection branded concept not in RxNorm	2026-03-12
+641340	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection	2026-03-12
+641357	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection	2026-03-12
 653072	69849	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
 653106	69847	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 671534	72542	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12

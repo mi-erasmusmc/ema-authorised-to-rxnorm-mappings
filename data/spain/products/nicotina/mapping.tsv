@@ -64,8 +64,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 874255	63795	19101636	nicotine 1 MG Oral Lozenge	388082	EXACT			2026-03-12
 975342	57455	19041171	nicotine 2 MG Chewing Gum [Nicorette]	209326	EXACT			2026-03-12
 979187	57736	19006314	nicotine 4 MG Chewing Gum [Nicorette]	105071	EXACT			2026-03-12
-669785	70553	40067651	nicotine Oral Lozenge	379040	BROAD		nicotine 1.5 MG Oral Lozenge not in RxNorm; nearest is 1 MG or 2 MG	2026-03-12
-687891	70553	40067651	nicotine Oral Lozenge	379040	BROAD		nicotine 1.5 MG Oral Lozenge not in RxNorm; nearest is 1 MG or 2 MG	2026-03-12
+669785	70553	40067651	nicotine Oral Lozenge	379040	BROAD		nicotine 1.5 MG Oral Lozenge	2026-03-12
+687891	70553	40067651	nicotine Oral Lozenge	379040	BROAD		nicotine 1.5 MG Oral Lozenge	2026-03-12
 693267	60256	718782	24 HR nicotine 0.625 MG/HR Transdermal System	419168	EXACT			2026-03-12
 696124	65902	718670	nicotine 2 MG Chewing Gum	314119	EXACT			2026-03-12
 698949	77820	718670	nicotine 2 MG Chewing Gum	314119	EXACT			2026-03-12

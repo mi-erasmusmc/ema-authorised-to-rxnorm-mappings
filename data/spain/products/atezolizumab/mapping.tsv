@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 719470	1171220001	42629086	20 ML atezolizumab 60 MG/ML Injection [Tecentriq]	1792785	EXACT			2025-12-04
 726499	1171220002	1366763	14 ML atezolizumab 60 MG/ML Injection [Tecentriq]	2119696	EXACT			2025-12-04
-764093	1171220003	42629085	atezolizumab Injection [Tecentriq]	1792783	BROAD		15 ML atezolizumab-tqjs 125 MG/ML / hyaluronidase-tqjs 2000 UNT/ML Injection [Tecentriq Hybreza] (concept_id 1735868; concept_code 2693899) — Spanish product is subcutaneous 1875mg/15ml (125mg/ml) but listed as plain atezolizumab, not the combo with hyaluronidase; no exact RxNorm match for plain atezolizumab 125 MG/ML injection	2026-03-13
+764093	1171220003	42629085	atezolizumab Injection [Tecentriq]	1792783	BROAD		15 ML atezolizumab 125 MG/ML Injection	2026-03-13
 729669	1171220001IP	42629086	20 ML atezolizumab 60 MG/ML Injection [Tecentriq]	1792785	EXACT			2026-03-13
 730996	1171220001IP1	42629086	20 ML atezolizumab 60 MG/ML Injection [Tecentriq]	1792785	EXACT			2026-03-13
 765389	1171220002IP1	1366763	14 ML atezolizumab 60 MG/ML Injection [Tecentriq]	2119696	EXACT			2026-03-13

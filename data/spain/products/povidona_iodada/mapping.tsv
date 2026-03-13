@@ -20,8 +20,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 838151	59097	1750297	povidone-iodine 100 MG/ML Topical Solution	312564	EXACT			2026-03-12
 866830	63031	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			2026-03-13
 866871	63031	19045906	povidone-iodine 100 MG/ML Topical Solution [Betadine]	211108	EXACT			2026-03-13
-875765	63804	19008820	povidone-iodine 40 MG/ML Topical Solution	106429	BROAD	Spain source is 40 MG/ML cutaneous solution; mapped to closest RxNorm topical solution at same concentration.	povidone-iodine 40 MG/ML Topical Solution	2026-03-13
-875914	63804	19008820	povidone-iodine 40 MG/ML Topical Solution	106429	BROAD	Spain source is 40 MG/ML cutaneous solution; mapped to closest RxNorm topical solution at same concentration.	povidone-iodine 40 MG/ML Topical Solution	2026-03-13
+875765	63804	19008820	povidone-iodine 40 MG/ML Topical Solution	106429	BROAD	Spain source is 40 MG/ML cutaneous solution; mapped to closest RxNorm topical solution at same concentration.	povidone-iodine 40 MG/ML Cutaneous Solution	2026-03-13
+875914	63804	19008820	povidone-iodine 40 MG/ML Topical Solution	106429	BROAD	Spain source is 40 MG/ML cutaneous solution; mapped to closest RxNorm topical solution at same concentration.	povidone-iodine 40 MG/ML Cutaneous Solution	2026-03-13
 917906	54521	1750295	povidone-iodine 0.1 MG/MG Topical Gel	312562	EXACT			2026-03-13
 968198	54521	1750295	povidone-iodine 0.1 MG/MG Topical Gel	312562	EXACT			2026-03-13
 971523	57159	40150860	povidone-iodine Medicated Pad	797729	BROAD	Spain source is 250 MG povidone-iodine impregnated medicated pad; RxNorm has no total-dose pad concept at this amount.	povidone-iodine 250 MG Medicated Pad	2026-03-13

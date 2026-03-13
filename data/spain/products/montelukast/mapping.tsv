@@ -114,7 +114,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726086	7957IP3	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
 729610	7956IP3	1154193	montelukast 5 MG Chewable Tablet [Singulair]	153893	EXACT			2026-03-12
 759453	7957IP4	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
-767037	90179	19023368	montelukast 10 MG Oral Tablet	200224	BROAD	no RxNorm concept for oral capsule	No RxNorm concept exists for montelukast 10 MG Hard Capsule; mapped BROAD to Oral Tablet	2026-03-12
+767037	90179	19023368	montelukast 10 MG Oral Tablet	200224	BROAD	no RxNorm concept for oral capsule	montelukast 10 MG Oral Capsule	2026-03-12
 767966	10455201702	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
 768627	1435199C	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12
 768950	10455201702IP	1154192	montelukast 10 MG Oral Tablet [Singulair]	153892	EXACT			2026-03-12

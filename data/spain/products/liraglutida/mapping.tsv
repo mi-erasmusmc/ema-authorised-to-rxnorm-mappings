@@ -1,6 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 710663	115992003	45892686	3 ML liraglutide 6 MG/ML Pen Injector [Saxenda]	1598268	EXACT			2025-12-04
 724999	115992002	45892686	3 ML liraglutide 6 MG/ML Pen Injector [Saxenda]	1598268	EXACT			2025-12-04
-765634	89788	42902992	liraglutide 6 MG/ML Pen Injector	1360105	EXACT			
-766761	90098	42902992	liraglutide 6 MG/ML Pen Injector	1360105	EXACT			
-767364	90098	42902992	liraglutide 6 MG/ML Pen Injector	1360105	EXACT			
+765634	89788	42902992	liraglutide 6 MG/ML Pen Injector	1360105	EXACT			2026-03-13
+766761	90098	42902992	liraglutide 6 MG/ML Pen Injector	1360105	EXACT			2026-03-13
+767364	90098	42902992	liraglutide 6 MG/ML Pen Injector	1360105	EXACT			2026-03-13
+662979	09529002	40169223	3 ML liraglutide 6 MG/ML Pen Injector [Victoza]	897126	EXACT			2026-03-13
+768329	09529002IP	40169223	3 ML liraglutide 6 MG/ML Pen Injector [Victoza]	897126	EXACT			2026-03-13

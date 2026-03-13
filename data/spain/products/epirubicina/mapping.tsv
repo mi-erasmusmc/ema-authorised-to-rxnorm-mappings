@@ -13,7 +13,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 697619	60847	35605877	25 ML epirubicin hydrochloride 2 MG/ML Injection	1732182	EXACT			2026-03-13
 697620	60847	35605881	100 ML epirubicin hydrochloride 2 MG/ML Injection	1732186	EXACT			2026-03-13
 698145	71700	21127562	50 ML Epirubicin 2 MG/ML Injection	OMOP317962	EXACT			2026-03-13
-972018	57201	35605877	25 ML epirubicin hydrochloride 2 MG/ML Injection	1732182	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact powder presentation.	25 ML epirubicin hydrochloride 2 MG/ML Injection	2026-03-13
+972018	57201	35605877	25 ML epirubicin hydrochloride 2 MG/ML Injection	1732182	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact powder presentation.	25 ML epirubicin hydrochloride 2 MG/ML Powder for Solution for Injection/Infusion	2026-03-13
 654365	67794	43275338	5 ML Epirubicin 2 MG/ML Injection	OMOP562381	EXACT			2026-03-13
 654366	67794	35605877	25 ML epirubicin hydrochloride 2 MG/ML Injection	1732182	EXACT			2026-03-13
 654367	67794	21127562	50 ML Epirubicin 2 MG/ML Injection	OMOP317962	EXACT			2026-03-13

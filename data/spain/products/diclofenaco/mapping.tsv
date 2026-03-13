@@ -7,7 +7,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 609552	57202	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
 609560	57203	40162328	diclofenac sodium 100 MG Rectal Suppository	857696	EXACT			2026-03-12
 638213	57592	40162328	diclofenac sodium 100 MG Rectal Suppository	857696	EXACT			2026-03-12
-652775	67266	40228941	diclofenac sodium 10 MG/ML Topical Cream	1043479	BROAD	Spain source is 10 MG/ML cutaneous emulsion; RxNorm has no topical emulsion concept — mapped to closest topical cream.	diclofenac sodium 10 MG/ML Topical Cream	2026-03-13
+652775	67266	40228941	diclofenac sodium 10 MG/ML Topical Cream	1043479	BROAD	Spain source is 10 MG/ML cutaneous emulsion; RxNorm has no topical emulsion concept — mapped to closest topical cream.	diclofenac sodium 10 MG/ML Cutaneous Emulsion	2026-03-13
 653234	61866	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
 655134	62024	40162362	diclofenac sodium 75 MG Extended Release Oral Tablet	857713	EXACT			2026-03-12
 656712	64442	40235197	diclofenac sodium 50 MG Disintegrating Oral Tablet	1088257	EXACT			2026-03-12

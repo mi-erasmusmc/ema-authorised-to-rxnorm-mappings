@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+808956	62701	19029030	miglitol 50 MG Oral Tablet	205330	EXACT	Plumarol brand (Spain) not in RxNorm; using unbranded concept		2026-03-13
+809236	62702	19029061	miglitol 100 MG Oral Tablet	205331	EXACT	Plumarol brand (Spain) not in RxNorm; using unbranded concept		2026-03-13

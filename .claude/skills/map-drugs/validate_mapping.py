@@ -8,11 +8,17 @@ Validates:
 - last_updated_date is YYYY-MM-DD formatted and not null
 - concept_id is a number or empty
 - mapping_type is EXACT, BROAD, or empty
+- suggestion is not identical to concept_name
+- suggestion is not a stray YYYY-MM-DD value
+- suggestion does not contain pipe-delimited pseudo-records
+- non-empty suggestions contain a recognized RxNorm dose form
 
 Exit code 0 if all files pass, 1 if any errors found.
 """
 
 import csv
+import json
+from pathlib import Path
 import re
 import sys
 
@@ -26,6 +32,23 @@ REQUIRED_COLUMNS = [
     "concept_id", "concept_name", "concept_code",
     "mapping_type", "comment", "suggestion", "last_updated_date",
 ]
+DOSE_FORM_LOOKUP_PATH = Path(__file__).with_name("dose_form_lookup.json")
+
+
+def load_dose_forms() -> list[str]:
+    with DOSE_FORM_LOOKUP_PATH.open() as f:
+        data = json.load(f)
+    names = [item["name"].strip() for item in data if item.get("name")]
+    # Match more specific dose forms first.
+    return sorted(names, key=len, reverse=True)
+
+
+VALID_DOSE_FORMS = load_dose_forms()
+
+
+def suggestion_has_valid_dose_form(suggestion: str) -> bool:
+    lower_suggestion = suggestion.casefold()
+    return any(dose_form.casefold() in lower_suggestion for dose_form in VALID_DOSE_FORMS)
 
 
 def validate_file(path: str) -> list[str]:
@@ -85,11 +108,29 @@ def validate_file(path: str) -> list[str]:
                     )
 
                 # BROAD mappings require a suggestion
+                concept_name = row.get("concept_name", "").strip()
                 suggestion = row.get("suggestion", "").strip()
                 if mt == "BROAD" and not suggestion:
                     errors.append(
                         f"  {line}: BROAD mappings require suggestion"
                     )
+                if suggestion:
+                    if suggestion == concept_name:
+                        errors.append(
+                            f"  {line}: suggestion must not equal concept_name"
+                        )
+                    if DATE_RE.fullmatch(suggestion):
+                        errors.append(
+                            f"  {line}: suggestion must not be a date"
+                        )
+                    if "|" in suggestion:
+                        errors.append(
+                            f"  {line}: suggestion must not contain pipe-delimited data"
+                        )
+                    if not suggestion_has_valid_dose_form(suggestion):
+                        errors.append(
+                            f"  {line}: suggestion must contain a valid dose form from dose_form_lookup.json"
+                        )
 
     except FileNotFoundError:
         errors.append(f"  File not found: {path}")

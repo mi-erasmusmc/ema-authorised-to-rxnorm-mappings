@@ -1,13 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 617308	63854	46221666	gentamicin 3 MG/ML	1606016	BROAD	240mg/80ml=3MG/ML; no dose-form-specific 3 MG/ML Injection concept in RxNorm	gentamicin 3 MG/ML Injection	2026-03-13
-601286	62203	1594668	gentamicin 1 MG/ML Injection	1870622	BROAD		80 ML gentamicin 1 MG/ML Injection - no 80ml volume concept in RxNorm; closest is 100 ML (242816)	2026-03-12
+601286	62203	1594668	gentamicin 1 MG/ML Injection	1870622	BROAD		80 ML gentamicin 1 MG/ML Injectable Solution	2026-03-12
 624577	54324	1594391	gentamicin Injection	1870244	BROAD	240mg/3ml=80MG/ML; no 80 MG/ML concentration concept in RxNorm	gentamicin 80 MG/ML Injection	2026-03-12
 624593	51886	1594391	gentamicin Injection	1870244	BROAD	40mg/2ml=20MG/ML; no 20 MG/ML concentration concept in RxNorm	gentamicin 20 MG/ML Injection	2026-03-12
 624601	51885	1594686	2 ML gentamicin 40 MG/ML Injection	1870650	EXACT	80mg/2ml=40MG/ML; exact volume and concentration match		2026-03-12
-606088	62203	1594668	gentamicin 1 MG/ML Injection	1870622	BROAD		80 ML gentamicin 1 MG/ML Injection - no 80ml volume concept in RxNorm; closest is 100 ML (242816)	2026-03-13
+606088	62203	1594668	gentamicin 1 MG/ML Injection	1870622	BROAD		80 ML gentamicin 1 MG/ML Injectable Solution	2026-03-13
 653470	50958	19077601	gentamicin 3 MG/ML Ophthalmic Solution	310467	EXACT			2026-03-13
 653536	52662	19077580	gentamicin 0.003 MG/MG Ophthalmic Ointment	310466	EXACT			2026-03-13
-657387	62203	1594668	gentamicin 1 MG/ML Injection	1870622	BROAD		80 ML gentamicin 1 MG/ML Injection - no 80ml volume concept in RxNorm; closest is 100 ML (242816)	2026-03-13
+657387	62203	1594668	gentamicin 1 MG/ML Injection	1870622	BROAD		80 ML gentamicin 1 MG/ML Injectable Solution	2026-03-13
 763011	54324	1594391	gentamicin Injection	1870244	BROAD	240mg/3ml=80MG/ML; no 80 MG/ML concentration concept in RxNorm	gentamicin 80 MG/ML Injection	2026-03-13
 882811	51886	1594391	gentamicin Injection	1870244	BROAD	40mg/2ml=20MG/ML; no 20 MG/ML concentration concept in RxNorm	gentamicin 20 MG/ML Injection	2026-03-13
 999037	51885	1594686	2 ML gentamicin 40 MG/ML Injection	1870650	EXACT	80mg/2ml=40MG/ML; exact volume and concentration match		2026-03-13

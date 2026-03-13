@@ -69,13 +69,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606109	77393	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-03-12
 606187	77636	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-03-12
 606262	77962	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-03-12
-607060	83328	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	BROAD	50mg/100ml infusion (0.5mg/ml); no dexketoprofen 0.5MG/ML concept exists	If a dexketoprofen 0.5 MG/ML injectable solution concept is created in RxNorm, upgrade to EXACT	2026-03-12
+607060	83328	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	BROAD	50mg/100ml infusion (0.5mg/ml); no dexketoprofen 0.5MG/ML concept exists	dexketoprofen 0.5 MG/ML Injectable Solution	2026-03-12
 647867	60927	40961433	Dexketoprofen 12.5 MG Oral Tablet	OMOP2159395	EXACT			2026-03-12
 651375	66823	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
 651376	66824	41086417	Dexketoprofen 12.5 MG Oral Solution	OMOP2284379	BROAD	no dexketoprofen 12.5mg granules/oral solution concept; mapped to 12.5mg oral solution	If a dexketoprofen 12.5 MG granules for oral solution concept is created, upgrade to EXACT	2026-03-12
 662876	70885	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
-673814	61404	19056874	dexketoprofen	237162	BROAD	no dexketoprofen topical gel concept in RxNorm	If a dexketoprofen topical gel concept is created in RxNorm, upgrade to EXACT	2026-03-12
-673822	61403	19056874	dexketoprofen	237162	BROAD	no dexketoprofen topical gel concept in RxNorm	If a dexketoprofen topical gel concept is created in RxNorm, upgrade to EXACT	2026-03-12
+673814	61404	19056874	dexketoprofen	237162	BROAD	no dexketoprofen topical gel concept in RxNorm	dexketoprofen Topical Gel	2026-03-12
+673822	61403	19056874	dexketoprofen	237162	BROAD	no dexketoprofen topical gel concept in RxNorm	dexketoprofen Topical Gel	2026-03-12
 681908	60931	40961433	Dexketoprofen 12.5 MG Oral Tablet	OMOP2159395	EXACT			2026-03-12
 681916	60931	40961433	Dexketoprofen 12.5 MG Oral Tablet	OMOP2159395	EXACT			2026-03-12
 681932	60929	36260560	Dexketoprofen 12.5 MG Oral Tablet [KETESSE]	OMOP3111435	EXACT			2026-03-12
@@ -113,18 +113,18 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 699642	77975	40961433	Dexketoprofen 12.5 MG Oral Tablet	OMOP2159395	EXACT			2026-03-12
 700148	78111	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
 700149	78112	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
-702160	78705	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	If a dexketoprofen 25 MG oral capsule concept is created in RxNorm, upgrade to EXACT	2026-03-12
+702160	78705	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	dexketoprofen 25 MG Oral Capsule	2026-03-12
 705060	79488	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
 730350	79419	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
-730483	85811	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	If a dexketoprofen 25 MG oral capsule concept is created in RxNorm, upgrade to EXACT	2026-03-12
+730483	85811	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	dexketoprofen 25 MG Oral Capsule	2026-03-12
 731576	86182	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-03-12
 732821	86567	40961433	Dexketoprofen 12.5 MG Oral Tablet	OMOP2159395	EXACT			2026-03-12
 732823	86568	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-03-12
 732999	79422	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
-758232	88076	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	If a dexketoprofen 25 MG oral capsule concept is created in RxNorm, upgrade to EXACT	2026-03-12
+758232	88076	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	dexketoprofen 25 MG Oral Capsule	2026-03-12
 762910	88900	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
 763745	89152	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
 764482	89416	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
-764881	89548	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	If a dexketoprofen 25 MG oral capsule concept is created in RxNorm, upgrade to EXACT	2026-03-12
+764881	89548	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	dexketoprofen 25 MG Oral Capsule	2026-03-12
 781047	64890	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-03-12
 885699	63155	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-03-12

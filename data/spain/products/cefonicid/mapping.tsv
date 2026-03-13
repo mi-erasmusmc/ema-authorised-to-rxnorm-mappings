@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-774125	63913	40024441	cefonicid Injectable Solution	377080	BROAD		No cefonicid 1000 MG Injection concept in RxNorm	2026-03-13
-964429	56627	40024441	cefonicid Injectable Solution	377080	BROAD		No cefonicid 1000 MG Injection concept in RxNorm	2026-03-13
-964437	56628	40024441	cefonicid Injectable Solution	377080	BROAD		No cefonicid 1000 MG Injection concept in RxNorm	2026-03-13
+774125	63913	40024441	cefonicid Injectable Solution	377080	BROAD		cefonicid 1000 MG Injection	2026-03-13
+964429	56627	40024441	cefonicid Injectable Solution	377080	BROAD		cefonicid 1000 MG Injection	2026-03-13
+964437	56628	40024441	cefonicid Injectable Solution	377080	BROAD		cefonicid 1000 MG Injection	2026-03-13

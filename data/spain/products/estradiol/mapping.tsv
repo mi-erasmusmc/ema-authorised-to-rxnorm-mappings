@@ -4,7 +4,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 668079	61701	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 75 MCG/24HR Transdermal System	2026-03-13
 668087	61700	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 25 MCG/24HR Transdermal System	2026-03-13
 692160	60334	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 50 MCG/24HR Transdermal System	2026-03-13
-711046	80608	1548968	estradiol 1.53 MG/ACTUAT Topical Spray	728118	BROAD		estradiol 1.53 MG/ACTUAT Topical Spray	2026-03-13
+711046	80608	1548968	estradiol 1.53 MG/ACTUAT Topical Spray	728118	BROAD		estradiol 1.53 MG/ACTUAT Transdermal Spray [Lenzetto]	2026-03-13
 716413	82115	1548199	estradiol 2 MG Oral Tablet	197659	EXACT			2026-03-13
 717546	64704	40221070	estradiol Transdermal System	1805869	EXACT			2026-03-13
 718346	64705	40221070	estradiol Transdermal System	1805869	EXACT			2026-03-13

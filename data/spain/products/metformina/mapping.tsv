@@ -49,8 +49,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 766327	83864	40164946	metformin hydrochloride 850 MG Oral Tablet	861010	EXACT			2026-03-12
 605965	76578	40164897	metformin hydrochloride 1000 MG Oral Tablet	861004	EXACT			2026-03-12
 652200	67066	40164946	metformin hydrochloride 850 MG Oral Tablet	861010	EXACT			2026-03-12
-662267	70545	40164884	metformin hydrochloride 1000 MG	860995	BROAD		No RxNorm concept for metformin 1000 MG powder for oral solution; closest Extension: 43137749 Metformin Powder for Oral Solution (OMOP473230)	2026-03-12
-662321	70546	40164942	metformin hydrochloride 850 MG	861009	BROAD		No RxNorm concept for metformin 850 MG powder for oral solution; closest Extension: 43137749 Metformin Powder for Oral Solution (OMOP473230)	2026-03-12
+662267	70545	40164884	metformin hydrochloride 1000 MG	860995	BROAD		metformin hydrochloride 1000 MG Powder for Oral Solution	2026-03-12
+662321	70546	40164942	metformin hydrochloride 850 MG	861009	BROAD		metformin hydrochloride 850 MG Powder for Oral Solution	2026-03-12
 663156	71119	40164946	metformin hydrochloride 850 MG Oral Tablet	861010	EXACT			2026-03-12
 663667	71136	40164946	metformin hydrochloride 850 MG Oral Tablet	861010	EXACT			2026-03-12
 665010	72045	40164946	metformin hydrochloride 850 MG Oral Tablet	861010	EXACT			2026-03-12
