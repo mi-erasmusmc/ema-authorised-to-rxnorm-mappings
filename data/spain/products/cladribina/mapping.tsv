@@ -1,4 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-718777	1171212001	1511142	cladribine 10 MG Oral Tablet [Mavenclad]	2122641	EXACT			2025-12-04
-718778	1171212001	1511142	cladribine 10 MG Oral Tablet [Mavenclad]	2122641	EXACT			2025-12-04
-718779	1171212001	1511142	cladribine 10 MG Oral Tablet [Mavenclad]	2122641	EXACT			2025-12-04
+718777	1171212001	1511142	cladribine 10 MG Oral Tablet [Mavenclad]	2122641	EXACT			2026-03-13
+718778	1171212001	1511142	cladribine 10 MG Oral Tablet [Mavenclad]	2122641	EXACT			2026-03-13
+718779	1171212001	1511142	cladribine 10 MG Oral Tablet [Mavenclad]	2122641	EXACT			2026-03-13
+658425	04275001	43296907	5 ML Cladribine 2 MG/ML Injection	OMOP562355	EXACT			2026-03-13
+658426	04275002	43296907	5 ML Cladribine 2 MG/ML Injection	OMOP562355	EXACT			2026-03-13
+674242	61380	19058076	10 ML cladribine 1 MG/ML Injection	240754	EXACT			2026-03-13

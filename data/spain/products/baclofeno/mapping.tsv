@@ -1,7 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-717439	62346	46287593	baclofen 0.05 MG/ML Injection [Lioresal]	1666629	EXACT			
-717447	62347	19131952	20 ML baclofen 0.5 MG/ML Injection [Lioresal]	805678	EXACT			
-717454	62348	36035229	baclofen 2 MG/ML Injectable Solution	OMOP5045239				
-764356	89367	715235	baclofen 10 MG Oral Tablet	197391				
-780627	52180	19026066	baclofen 10 MG Oral Tablet [Lioresal]	202109				
-780635	52181	19021513	baclofen 25 MG Oral Tablet	199280				
+717439	62346	19131953	1 ML baclofen 0.05 MG/ML Injection [Lioresal]	805679	EXACT			2026-03-13
+717447	62347	19131952	20 ML baclofen 0.5 MG/ML Injection [Lioresal]	805678	EXACT			2026-03-13
+717454	62348	46287591	5 ML baclofen 2 MG/ML Injection [Lioresal]	1666623	EXACT			2026-03-13
+764356	89367	715235	baclofen 10 MG Oral Tablet	197391	EXACT			2026-03-13
+780627	52180	19026066	baclofen 10 MG Oral Tablet [Lioresal]	202109	EXACT			2026-03-13
+780635	52181	19021513	baclofen 25 MG Oral Tablet	199280	EXACT			2026-03-13
+665048	72100	19073877	1 ML baclofen 0.05 MG/ML Injection	308516	EXACT			2026-03-13
+665050	72099	46287590	5 ML baclofen 2 MG/ML Injection	1666622	EXACT			2026-03-13
+665052	72098	19073878	20 ML baclofen 0.5 MG/ML Injection	308517	EXACT			2026-03-13

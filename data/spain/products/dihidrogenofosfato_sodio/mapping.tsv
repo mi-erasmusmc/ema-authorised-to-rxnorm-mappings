@@ -1,2 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600210	63545	990499	sodium phosphate, monobasic	235496	BROAD	120 mg/ml (1M) IV concentrate 10ml; no exact RxNorm injection concept at this concentration	sodium phosphate monobasic 120 MG/ML Injectable Solution	2026-03-12
+600210	63545	990499	sodium phosphate, monobasic	235496	BROAD	120 mg/mL (1 M) IV concentrate 10 mL; no exact RxNorm injection concept at this concentration.	sodium phosphate monobasic 120 MG/ML Injectable Solution	2026-03-13
+712074	81120	990499	sodium phosphate, monobasic	235496	BROAD	3.56g oral powder sachet; no strength-specific oral powder concept in RxNorm	sodium phosphate monobasic 3560 MG Powder for Oral Solution	2026-03-13
+712076	81120	990499	sodium phosphate, monobasic	235496	BROAD	3.56g oral powder sachet; no strength-specific oral powder concept in RxNorm	sodium phosphate monobasic 3560 MG Powder for Oral Solution	2026-03-13
+726520	63545	990499	sodium phosphate, monobasic	235496	BROAD	120 mg/ml (1M) IV concentrate 10ml; no exact RxNorm injection concept at this concentration	sodium phosphate monobasic 120 MG/ML Injectable Solution	2026-03-13

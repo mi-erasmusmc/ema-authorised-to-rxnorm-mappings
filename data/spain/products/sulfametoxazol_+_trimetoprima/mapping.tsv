@@ -1,5 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-823245	48670	19024445	sulfamethoxazole 400 MG / trimethoprim 80 MG Oral Tablet [Septrin]	201027	EXACT			2026-03-12
-823252	48670	19024445	sulfamethoxazole 400 MG / trimethoprim 80 MG Oral Tablet [Septrin]	201027	EXACT			2026-03-12
-991901	58501	19024449	sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet [Septrin]	201031	EXACT			2026-03-12
-991919	58501	19024449	sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet [Septrin]	201031	EXACT			2026-03-12
+823245	48670	19024445	sulfamethoxazole 400 MG / trimethoprim 80 MG Oral Tablet [Septrin]	201027	EXACT			2026-03-13
+823252	48670	19024445	sulfamethoxazole 400 MG / trimethoprim 80 MG Oral Tablet [Septrin]	201027	EXACT			2026-03-13
+991901	58501	19024449	sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet [Septrin]	201031	EXACT			2026-03-13
+991919	58501	19024449	sulfamethoxazole 800 MG / trimethoprim 160 MG Oral Tablet [Septrin]	201031	EXACT			2026-03-13
+656754	54920	1836452	sulfamethoxazole 80 MG/ML / trimethoprim 16 MG/ML Injectable Solution	313137	EXACT			2026-03-13
+823211	48671	1836449	sulfamethoxazole 40 MG/ML / trimethoprim 8 MG/ML Oral Suspension	313134	EXACT			2026-03-13
+823229	48669	40081405	sulfamethoxazole / trimethoprim Oral Tablet [Septrin]	402966	BROAD	RxNorm does not expose the exact 100 mg / 20 mg pediatric tablet strength.	sulfamethoxazole 100 MG / trimethoprim 20 MG Oral Tablet [Septrin]	2026-03-13
+823237	48669	40081405	sulfamethoxazole / trimethoprim Oral Tablet [Septrin]	402966	BROAD	RxNorm does not expose the exact 100 mg / 20 mg pediatric tablet strength.	sulfamethoxazole 100 MG / trimethoprim 20 MG Oral Tablet [Septrin]	2026-03-13

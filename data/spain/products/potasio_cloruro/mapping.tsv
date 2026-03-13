@@ -1,17 +1,18 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602462	61371	19049603	potassium chloride 150 MG/ML	335496	EXACT			2026-03-12
-602463	61371	19049603	potassium chloride 150 MG/ML	335496	EXACT			2026-03-12
-602584	61371	19049603	potassium chloride 150 MG/ML	335496	EXACT			2026-03-12
-602586	61371	19049603	potassium chloride 150 MG/ML	335496	EXACT			2026-03-12
-607142	60353	36785774	Potassium Chloride Intravenous Solution	OMOP4774052	EXACT			2026-03-12
-607145	60354	36785774	Potassium Chloride Intravenous Solution	OMOP4774052	EXACT			2026-03-12
-607146	60354	36785774	Potassium Chloride Intravenous Solution	OMOP4774052	EXACT			2026-03-12
-607147	60354	36785774	Potassium Chloride Intravenous Solution	OMOP4774052	EXACT			2026-03-12
-615096	35083	19049603	potassium chloride 150 MG/ML	335496	EXACT			2026-03-12
-671531	72540	19027661	potassium chloride 2 MEQ/ML Injectable Solution	204520	EXACT			2026-03-12
-671532	72540	19027661	potassium chloride 2 MEQ/ML Injectable Solution	204520	EXACT			2026-03-12
-671533	72540	19027661	potassium chloride 2 MEQ/ML Injectable Solution	204520	EXACT			2026-03-12
-700635	59805	19049105	potassium chloride	8591	BROAD			2026-03-12
-724700	60354	36785774	Potassium Chloride Intravenous Solution	OMOP4774052	EXACT			2026-03-12
-724701	60354	36785774	Potassium Chloride Intravenous Solution	OMOP4774052	EXACT			2026-03-12
-600216	63783	1718694	potassium chloride 2 MEQ/ML Injection	1860133	BROAD	Spanish product is 1 mEq/ml (74.5 mg/ml) in 10ml concentrate; no 1 mEq/ml concept in RxNorm	10 ML potassium chloride 1 MEQ/ML Injection	2026-03-12
+602462	61371	1718693	5 ML potassium chloride 2 MEQ/ML Injection	1860132	EXACT			2026-03-13
+602463	61371	1718696	10 ML potassium chloride 2 MEQ/ML Injection	1860136	EXACT			2026-03-13
+602584	61371	1718693	5 ML potassium chloride 2 MEQ/ML Injection	1860132	EXACT			2026-03-13
+602586	61371	1718698	20 ML potassium chloride 2 MEQ/ML Injection	1860139	EXACT			2026-03-13
+607142	60353	21125567	Potassium Chloride 150 MG/ML Injection	OMOP279897	EXACT			2026-03-13
+607145	60354	1718693	5 ML potassium chloride 2 MEQ/ML Injection	1860132	EXACT			2026-03-13
+607146	60354	1718696	10 ML potassium chloride 2 MEQ/ML Injection	1860136	EXACT			2026-03-13
+607147	60354	1718698	20 ML potassium chloride 2 MEQ/ML Injection	1860139	EXACT			2026-03-13
+615096	35083	1718698	20 ML potassium chloride 2 MEQ/ML Injection	1860139	EXACT			2026-03-13
+671531	72540	1718693	5 ML potassium chloride 2 MEQ/ML Injection	1860132	EXACT			2026-03-13
+671532	72540	1718696	10 ML potassium chloride 2 MEQ/ML Injection	1860136	EXACT			2026-03-13
+671533	72540	1718698	20 ML potassium chloride 2 MEQ/ML Injection	1860139	EXACT			2026-03-13
+700635	59805	19103561	potassium chloride 8 MEQ Oral Capsule	410958	EXACT			2026-03-13
+724700	60354	1718693	5 ML potassium chloride 2 MEQ/ML Injection	1860132	EXACT			2026-03-13
+724701	60354	1718698	20 ML potassium chloride 2 MEQ/ML Injection	1860139	EXACT			2026-03-13
+600216	63783	21125567	Potassium Chloride 150 MG/ML Injection	OMOP279897	EXACT			2026-03-13
+644799	60057	21125567	Potassium Chloride 150 MG/ML Injection	OMOP279897	EXACT			2026-03-13

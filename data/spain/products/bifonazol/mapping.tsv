@@ -1,5 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-683659	74651	19037591	bifonazole 10 MG/ML Topical Cream	199434	EXACT			
-693838	58476	19037591	bifonazole 10 MG/ML Topical Cream	199434	EXACT			
-726359	74651	19037591	bifonazole 10 MG/ML Topical Cream	199434	EXACT			
-973487	57303	19037591	bifonazole 10 MG/ML Topical Cream	199434	EXACT			
+683659	74651	19037591	bifonazole 10 MG/ML Topical Cream	199434	EXACT			2026-03-13
+693838	58476	19037591	bifonazole 10 MG/ML Topical Cream	199434	EXACT			2026-03-13
+726359	74651	19037591	bifonazole 10 MG/ML Topical Cream	199434	EXACT			2026-03-13
+973487	57303	19037591	bifonazole 10 MG/ML Topical Cream	199434	EXACT			2026-03-13
+973495	57304	19061133	bifonazole 10 MG/ML Topical Solution	248079	EXACT			2026-03-13
+991620	58478	19061133	bifonazole 10 MG/ML Topical Solution	248079	EXACT			2026-03-13
+991638	58479	35855891	bifonazole 10 MG	OMOP5012397	BROAD	Cutaneous powder presentation is not exposed exactly in RxNorm.	bifonazole 10 MG/G Topical Powder	2026-03-13

@@ -161,14 +161,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 660380	67252	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
 693952	39260	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
 693960	39260	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-03-12
-694174		19079523	sodium chloride 9 MG/ML Nasal Solution	313000	BROAD		No RxNorm concept for 0.9% (8.5 mg/ml) nasal drops; mapped to 9 MG/ML Nasal Solution as closest concentration	2026-03-12
-694182		19079523	sodium chloride 9 MG/ML Nasal Solution	313000	BROAD		No RxNorm concept for 0.9% nasal drops; mapped to 9 MG/ML Nasal Solution as closest	2026-03-12
+694174	60230	19079523	sodium chloride 9 MG/ML Nasal Solution	313000	BROAD	0.85% (8.5 mg/mL) nasal drops; no 8.5 MG/ML Nasal Solution concept in RxNorm	sodium chloride 8.5 MG/ML Nasal Solution	2026-03-13
+694182	60230	19079523	sodium chloride 9 MG/ML Nasal Solution	313000	BROAD	0.85% (8.5 mg/mL) nasal drops; no 8.5 MG/ML Nasal Solution concept in RxNorm	sodium chloride 8.5 MG/ML Nasal Solution	2026-03-13
 703206	78956	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-03-12
 703208	78956	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-03-12
 703209	78956	40221386	250 ML sodium chloride 9 MG/ML Injection	1807633	EXACT			2026-03-12
 703210	78956	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
 703716	78956	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
-961847		19079523	sodium chloride 9 MG/ML Nasal Solution	313000	BROAD		No RxNorm concept for 0.9% nasal drops; mapped to 9 MG/ML Nasal Solution as closest	2026-03-12
-961920		19079523	sodium chloride 9 MG/ML Nasal Solution	313000	BROAD		No RxNorm concept for 0.9% nasal drops; mapped to 9 MG/ML Nasal Solution as closest	2026-03-12
+961847	56432	19079523	sodium chloride 9 MG/ML Nasal Solution	313000	EXACT			2026-03-13
+961920	56432	19079523	sodium chloride 9 MG/ML Nasal Solution	313000	EXACT			2026-03-13
 990051		21025070	Sodium Chloride 50 MG/ML Ophthalmic Solution	OMOP398736	EXACT			2026-03-12
-990473		40080105	sodium chloride Ophthalmic Ointment	373900	BROAD		No strength-specific ophthalmic ointment concept in RxNorm; 50 mg/g ointment mapped to class-level concept	2026-03-12
+990473	58415	42801149	sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment	1298435	EXACT			2026-03-13

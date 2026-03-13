@@ -1,19 +1,19 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-605710	74823	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			
-607812	45544	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			
-607838	45544	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			
-634477	49811	1593935	sodium bicarbonate Injection	1868187	EXACT			
-645705	60324	1593935	sodium bicarbonate Injection	1868187	EXACT			
-722030	65507	1593935	sodium bicarbonate Injection	1868187	EXACT			
-722032	65508	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364				
-908293	65507	1593935	sodium bicarbonate Injection	1868187	EXACT			
-909309	65508	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364				
+605710	74823	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-13
+607812	45544	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-13
+607838	45544	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-13
+634477	49811	1593967	sodium bicarbonate 84 MG/ML Injection	1868487	BROAD	Spain source is 8.4% (1 M) perfusion solution in 250 mL; RxNorm does not expose the exact 250 mL infusion presentation as a standard concept.	250 ML Sodium Bicarbonate 84 MG/ML Injectable Solution	2026-03-13
+645705	60324	1594718	10 ML sodium bicarbonate 84 MG/ML Injection	1923484	EXACT			2026-03-13
+722030	65507	1593935	sodium bicarbonate Injection	1868187	BROAD	Hemofiltration solution at 145 mmol/L (about 12.18 mg/mL); no matching standard sodium bicarbonate concentration concept found.	sodium bicarbonate 145 mmol/L Injectable Solution	2026-03-13
+722032	65508	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364	BROAD	167 mmol/L (about 14.03 mg/mL) hemodialysis solution; nearest available concept is 14.4 MG/ML injectable solution.	sodium bicarbonate 167 mmol/L Injectable Solution	2026-03-13
+908293	65507	1593935	sodium bicarbonate Injection	1868187	BROAD	Hemofiltration solution at 145 mmol/L (about 12.18 mg/mL); no matching standard sodium bicarbonate concentration concept found.	sodium bicarbonate 145 mmol/L Injectable Solution	2026-03-13
+909309	65508	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364	BROAD	167 mmol/L (about 14.03 mg/mL) hemodialysis solution; nearest available concept is 14.4 MG/ML injectable solution.	sodium bicarbonate 167 mmol/L Injectable Solution	2026-03-13
 622290	47517	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-12
 646380	60454	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-12
-652635	67201	1593935	sodium bicarbonate Injection	1868187	BROAD	hemodialysis solution; volume-specific concentration not in RxNorm		2026-03-12
-711270	80983	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1g sachet oral powder		2026-03-12
-717322	35153	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1000mg/g oral powder		2026-03-12
-717330	35154	40078854	sodium bicarbonate Oral Tablet	373899	BROAD	500mg tablet		2026-03-12
-717355	35153	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1000mg/g oral powder		2026-03-12
+652635	67201	1593935	sodium bicarbonate Injection	1868187	BROAD	Hemofiltration solution at 60 mmol/L (about 5.04 mg/mL); no matching standard sodium bicarbonate concentration concept found.	sodium bicarbonate 60 mmol/L Injectable Solution	2026-03-13
+711270	80983	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1g sachet oral powder; no 1000 MG Powder for Oral Solution concept in RxNorm	sodium bicarbonate 1000 MG Powder for Oral Solution	2026-03-13
+717322	35153	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1000 mg/g (pure) oral powder; no strength-specific powder concept in RxNorm	sodium bicarbonate 1000 MG/G Oral Powder	2026-03-13
+717330	35154	939539	sodium bicarbonate 500 MG Oral Tablet	249362	EXACT			2026-03-13
+717355	35153	1355834	sodium bicarbonate Powder for Oral Solution	2105954	BROAD	1000 mg/g (pure) oral powder; no strength-specific powder concept in RxNorm	sodium bicarbonate 1000 MG/G Oral Powder	2026-03-13
 857722	47517	939682	sodium bicarbonate 14.4 MG/ML	335552	EXACT			2026-03-12
-954974	40876	44818328	citric acid 1343 MG / sodium bicarbonate 1940 MG Effervescent Oral Tablet	1536867	BROAD	effervescent tablet with citric acid; dose slightly different		2026-03-12
+954974	40876	44818328	citric acid 1343 MG / sodium bicarbonate 1940 MG Effervescent Oral Tablet	1536867	BROAD	Alka-Seltzer 2081.8 mg NaHCO3 + citric acid; no exact dose match in RxNorm	sodium bicarbonate 2081.8 MG Effervescent Oral Tablet	2026-03-13
