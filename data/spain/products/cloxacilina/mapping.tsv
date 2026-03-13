@@ -2,12 +2,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 602326	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			2026-03-12
 694052	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			2026-03-12
 694053	55398	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			2026-03-12
-602334	55418	44123591	Cloxacillin 500 MG Injectable Solution	OMOP1118222	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact perfusion presentation.	Cloxacillin 500 MG Powder for Solution for Injection or Infusion	2026-03-13
-602342	55419	44071740	Cloxacillin 1000 MG Injectable Suspension	OMOP1066371	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact reconstitution/perfusion presentation.	Cloxacillin 1000 MG Powder for Solution for Injection or Infusion	2026-03-13
-607721	63637	44123591	Cloxacillin 500 MG Injectable Solution	OMOP1118222	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact perfusion presentation.	Cloxacillin 500 MG Powder for Solution for Injection or Infusion	2026-03-13
-607846	63636	44071740	Cloxacillin 1000 MG Injectable Suspension	OMOP1066371	BROAD	Spain source is powder for suspension/perfusion; RxNorm does not expose the exact reconstitution/perfusion presentation.	Cloxacillin 1000 MG Powder for Solution for Injection or Infusion	2026-03-13
+602334	55418	44123591	Cloxacillin 500 MG Injectable Solution	OMOP1118222	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact perfusion presentation.	Cloxacillin 500 MG Injection	2026-03-13
+602342	55419	44071740	Cloxacillin 1000 MG Injectable Suspension	OMOP1066371	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact reconstitution/perfusion presentation.	Cloxacillin 1000 MG Injection	2026-03-13
+607721	63637	44123591	Cloxacillin 500 MG Injectable Solution	OMOP1118222	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact perfusion presentation.	Cloxacillin 500 MG Injection	2026-03-13
+607846	63636	44071740	Cloxacillin 1000 MG Injectable Suspension	OMOP1066371	BROAD	Spain source is powder for suspension/perfusion; RxNorm does not expose the exact reconstitution/perfusion presentation.	Cloxacillin 1000 MG Injection	2026-03-13
 636399	54323	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			2026-03-12
-682054	63636	44071740	Cloxacillin 1000 MG Injectable Suspension	OMOP1066371	BROAD	Spain source is powder for suspension/perfusion; RxNorm does not expose the exact reconstitution/perfusion presentation.	Cloxacillin 1000 MG Powder for Solution for Injection or Infusion	2026-03-13
-682062	63637	44123591	Cloxacillin 500 MG Injectable Solution	OMOP1118222	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact perfusion presentation.	Cloxacillin 500 MG Powder for Solution for Injection or Infusion	2026-03-13
+682054	63636	44071740	Cloxacillin 1000 MG Injectable Suspension	OMOP1066371	BROAD	Spain source is powder for suspension/perfusion; RxNorm does not expose the exact reconstitution/perfusion presentation.	Cloxacillin 1000 MG Injection	2026-03-13
+682062	63637	44123591	Cloxacillin 500 MG Injectable Solution	OMOP1118222	BROAD	Spain source is powder for solution for injection/perfusion; RxNorm does not expose the exact perfusion presentation.	Cloxacillin 500 MG Injection	2026-03-13
 697090	54323	1800837	cloxacillin 500 MG Oral Capsule	197534	EXACT			2026-03-13
 798660	40464	19075606	cloxacillin 25 MG/ML Oral Suspension	329709	EXACT			2026-03-13

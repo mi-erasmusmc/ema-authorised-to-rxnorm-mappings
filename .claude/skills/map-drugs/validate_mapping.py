@@ -23,6 +23,7 @@ import re
 import sys
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+BRAND_SUFFIX_RE = re.compile(r"^(?P<base>.+?) \[[^\]]+\]$")
 VALID_MAPPING_TYPES = {"EXACT", "BROAD", ""}
 
 VALID_ID_COLUMNS = {"ma_number", "product_id", "cod_nacion"}
@@ -44,6 +45,9 @@ def load_dose_forms() -> list[str]:
 
 
 VALID_DOSE_FORMS = load_dose_forms()
+SUGGESTION_OPTIONAL_FILES = {
+    Path("data/spain/products/multicomponente/mapping.tsv"),
+}
 
 
 def suggestion_has_valid_dose_form(suggestion: str) -> bool:
@@ -53,6 +57,7 @@ def suggestion_has_valid_dose_form(suggestion: str) -> bool:
 
 def validate_file(path: str) -> list[str]:
     errors = []
+    normalized_path = Path(path)
     try:
         with open(path, newline="") as f:
             reader = csv.DictReader(f, delimiter="\t")
@@ -110,7 +115,8 @@ def validate_file(path: str) -> list[str]:
                 # BROAD mappings require a suggestion
                 concept_name = row.get("concept_name", "").strip()
                 suggestion = row.get("suggestion", "").strip()
-                if mt == "BROAD" and not suggestion:
+                suggestion_required = normalized_path not in SUGGESTION_OPTIONAL_FILES
+                if mt == "BROAD" and suggestion_required and not suggestion:
                     errors.append(
                         f"  {line}: BROAD mappings require suggestion"
                     )
@@ -118,6 +124,11 @@ def validate_file(path: str) -> list[str]:
                     if suggestion == concept_name:
                         errors.append(
                             f"  {line}: suggestion must not equal concept_name"
+                        )
+                    m = BRAND_SUFFIX_RE.fullmatch(suggestion)
+                    if mt == "BROAD" and m and m.group("base") == concept_name:
+                        errors.append(
+                            f"  {line}: BROAD suggestion must not differ from concept_name only by brand suffix"
                         )
                     if DATE_RE.fullmatch(suggestion):
                         errors.append(

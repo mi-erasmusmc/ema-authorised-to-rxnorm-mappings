@@ -7,9 +7,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 651019	69490	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 651662	66982	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 651956	66982	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
-651960	66985	725178	mirtazapine 15 MG Oral Tablet	311725	BROAD		mirtazapine 15 MG Oral Tablet [Afloyan]	2026-03-12
-651961	66985	725178	mirtazapine 15 MG Oral Tablet	311725	BROAD		mirtazapine 15 MG Oral Tablet [Afloyan]	2026-03-12
-651962	66986	725180	mirtazapine 30 MG Oral Tablet	314111	BROAD		mirtazapine 30 MG Oral Tablet [Afloyan]	2026-03-12
+651960	66985	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-13
+651961	66985	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-13
+651962	66986	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-13
 652078	67015	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 652091	67026	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 652092	67026	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
@@ -48,7 +48,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 664737	71806	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 664738	71807	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 664739	71808	725177	mirtazapine 45 MG Disintegrating Oral Tablet	283485	EXACT			2026-03-12
-680454	61017	725173	mirtazapine 30 MG Oral Tablet [Remeron]	211323	BROAD		mirtazapine 30 MG Oral Tablet [Rexer]	2026-03-12
+680454	61017	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-13
 689631	75856	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 689634	75856	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 689640	75857	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
@@ -65,11 +65,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 730514	69705	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 730616	69008	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 732604	66981	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
-732605	66986	725180	mirtazapine 30 MG Oral Tablet	314111	BROAD		mirtazapine 30 MG Oral Tablet [Afloyan]	2026-03-12
+732605	66986	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-13
 735347	86890	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 735348	86890	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
-760322	64817	19128280	mirtazapine 30 MG Disintegrating Oral Tablet [Remeron]	752870	BROAD		mirtazapine 30 MG Disintegrating Oral Tablet [Rexer Flas]	2026-03-12
-761924	64819	725206	mirtazapine 15 MG Disintegrating Oral Tablet [Remeron]	752869	BROAD		mirtazapine 15 MG Disintegrating Oral Tablet [Rexer Flas]	2026-03-12
+760322	64817	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-13
+761924	64819	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-13
 762786	88858	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 762788	88858	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 762792	88859	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
@@ -108,4 +108,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 812404	65892	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 835579	66284	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 839464	65964	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
-900597	64007	21170634	Mirtazapine 15 MG/ML Oral Solution	OMOP368344	BROAD		mirtazapine 15 MG/ML Oral Solution [Rexer]	2026-03-12
+900597	64007	21170634	Mirtazapine 15 MG/ML Oral Solution	OMOP368344	EXACT			2026-03-13
