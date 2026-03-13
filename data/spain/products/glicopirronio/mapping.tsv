@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 698271	112790003	41054121	glycopyrronium 0.044 MG Dry Powder Inhaler	OMOP2252083	EXACT			2025-12-04
 698537	112789003	41054121	glycopyrronium 0.044 MG Dry Powder Inhaler	OMOP2252083	EXACT			2025-12-04
+694302	12778003	1356200	glycopyrronium Inhalation Powder [Seebri]	2108421	BROAD	Seebri Breezhaler 44 mcg (EU nominal dose); RxNorm does not carry a 44 mcg glycopyrronium/glycopyrrolate inhalation powder concept — closest is the branded Seebri class-level concept.	glycopyrronium 44 MCG/ACTUAT Dry Powder Inhaler [Seebri]	2026-03-13
+758234	88077	35200243	glycopyrronium 24 MG/ML Medicated Pad	2054118	BROAD	Axhidrox 2.2 mg/actuation topical cream for hyperhidrosis; RxNorm encodes glycopyrronium topical only as a medicated pad (Qbrexza). No cream dose form concept available.	glycopyrronium 2.2 MG/ACTUAT Topical Cream	2026-03-13

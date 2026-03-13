@@ -1,10 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-640904	58636	19003853	perindopril erbumine 4 MG Oral Tablet [Coversyl]	104382	EXACT			
-659103	68827	40163271	perindopril erbumine 4 MG Oral Tablet	854988	EXACT			
-664880	71940	21041304	Perindopril 5 MG Oral Tablet	OMOP331762	BROAD			
-664881	71941	21056210	Perindopril 10 MG Oral Tablet	OMOP265884	BROAD			
-665229	72240	40163271	perindopril erbumine 4 MG Oral Tablet	854988	EXACT			
-665230	72239	40163275	perindopril erbumine 8 MG Oral Tablet	854925	EXACT			
-684777	74813	40163271	perindopril erbumine 4 MG Oral Tablet	854988	EXACT			
-699333	70143	40163275	perindopril erbumine 8 MG Oral Tablet	854925	EXACT			
-994038	58636	19003853	perindopril erbumine 4 MG Oral Tablet [Coversyl]	104382	EXACT			
+640904	58636	19003853	perindopril erbumine 4 MG Oral Tablet [Coversyl]	104382	EXACT			2026-03-13
+659103	68827	40163271	perindopril erbumine 4 MG Oral Tablet	854988	EXACT			2026-03-13
+664880	71940	21041304	Perindopril 5 MG Oral Tablet	OMOP331762	BROAD	Bucodispersable presentation is not exposed exactly in RxNorm.	perindopril arginine 5 MG Chewable Tablet	2026-03-13
+664881	71941	21056210	Perindopril 10 MG Oral Tablet	OMOP265884	BROAD	Bucodispersable presentation is not exposed exactly in RxNorm.	perindopril arginine 10 MG Chewable Tablet	2026-03-13
+665229	72240	40163271	perindopril erbumine 4 MG Oral Tablet	854988	EXACT			2026-03-13
+665230	72239	40163275	perindopril erbumine 8 MG Oral Tablet	854925	EXACT			2026-03-13
+684777	74813	40163271	perindopril erbumine 4 MG Oral Tablet	854988	EXACT			2026-03-13
+699333	70143	40163275	perindopril erbumine 8 MG Oral Tablet	854925	EXACT			2026-03-13
+994038	58636	19003853	perindopril erbumine 4 MG Oral Tablet [Coversyl]	104382	EXACT			2026-03-13
+659101	68826	40163267	perindopril erbumine 2 MG Oral Tablet	854984	EXACT			2026-03-13
+660462	69568	40163271	perindopril erbumine 4 MG Oral Tablet	854988	EXACT			2026-03-13
+660721	69692	40163271	perindopril erbumine 4 MG Oral Tablet	854988	EXACT			2026-03-13
+683696	74662	40163275	perindopril erbumine 8 MG Oral Tablet	854925	EXACT			2026-03-13

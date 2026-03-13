@@ -1,26 +1,30 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650685	66574	41170134	Oxycodone 5 MG/ML	OMOP2368096	BROAD			
-650687	66575	40232706	oxycodone hydrochloride 10 MG Oral Capsule	1049717	EXACT			
-650691	66576	40232734	oxycodone hydrochloride 20 MG/ML	1049614	EXACT			
-650823	66614	40232713	oxycodone hydrochloride 10 MG/ML Oral Solution	1049720	EXACT			
-651505	63446	40232705	oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]	1049506	EXACT			
-651679	63447	40232728	oxycodone hydrochloride 20 MG Extended Release Oral Tablet [Oxycontin]	1049567	EXACT			
-652099	63448	40232751	oxycodone hydrochloride 40 MG Extended Release Oral Tablet [Oxycontin]	1049588	EXACT			
-652511	63449	40232770	oxycodone hydrochloride 80 MG Extended Release Oral Tablet [Oxycontin]	1049603	EXACT			
-658743	68605	40232753	oxycodone hydrochloride 5 MG Extended Release Oral Tablet	1049727	EXACT			
-663684	71243	40232712	oxycodone hydrochloride 10 MG/ML Injectable Solution	1049719	EXACT			
-663685	71243	40232712	oxycodone hydrochloride 10 MG/ML Injectable Solution	1049719	EXACT			
-667918	70687	40232705	oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]	1049506	EXACT			
-667934	70686	40232727	oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1049566	EXACT			
-695367	76865	40232750	oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1049587	EXACT			
-695373	76867	40232769	oxycodone hydrochloride 80 MG Extended Release Oral Tablet	1049602	EXACT			
-696137	77029	40232753	oxycodone hydrochloride 5 MG Extended Release Oral Tablet	1049727	EXACT			
-696139	77030	40232705	oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]	1049506	EXACT			
-696140	77031	40232727	oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1049566	EXACT			
-696141	77032	40232750	oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1049587	EXACT			
-696142	77033	40232769	oxycodone hydrochloride 80 MG Extended Release Oral Tablet	1049602	EXACT			
-763932	77030	40232705	oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]	1049506	EXACT			
-763933	77031	40232727	oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1049566	EXACT			
-763934	77032	40232750	oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1049587	EXACT			
-763935	77029	40232753	oxycodone hydrochloride 5 MG Extended Release Oral Tablet	1049727	EXACT			
-763936	77033	40232769	oxycodone hydrochloride 80 MG Extended Release Oral Tablet	1049602	EXACT			
+650685	66574	40232754	oxycodone hydrochloride 5 MG Oral Capsule	1049696	EXACT			2026-03-13
+650687	66575	40232706	oxycodone hydrochloride 10 MG Oral Capsule	1049717	EXACT			2026-03-13
+650691	66576	40232729	oxycodone hydrochloride 20 MG Oral Capsule	1049721	EXACT			2026-03-13
+650823	66614	40232713	oxycodone hydrochloride 10 MG/ML Oral Solution	1049720	EXACT			2026-03-13
+651505	63446	40232705	oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]	1049506	EXACT			2026-03-13
+651679	63447	40232728	oxycodone hydrochloride 20 MG Extended Release Oral Tablet [Oxycontin]	1049567	EXACT			2026-03-13
+652099	63448	40232751	oxycodone hydrochloride 40 MG Extended Release Oral Tablet [Oxycontin]	1049588	EXACT			2026-03-13
+652511	63449	40232770	oxycodone hydrochloride 80 MG Extended Release Oral Tablet [Oxycontin]	1049603	EXACT			2026-03-13
+658743	68605	40232753	oxycodone hydrochloride 5 MG Extended Release Oral Tablet	1049727	EXACT			2026-03-13
+663684	71243	40232712	oxycodone hydrochloride 10 MG/ML Injectable Solution	1049719	EXACT			2026-03-13
+663685	71243	40232712	oxycodone hydrochloride 10 MG/ML Injectable Solution	1049719	EXACT			2026-03-13
+667918	70687	40231804	12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1049502	EXACT			2026-03-13
+667934	70686	40231810	12 HR oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1049563	EXACT			2026-03-13
+695367	76865	40231814	12 HR oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1049584	EXACT			2026-03-13
+695373	76867	40231818	12 HR oxycodone hydrochloride 80 MG Extended Release Oral Tablet	1049599	EXACT			2026-03-13
+696137	77029	40232753	oxycodone hydrochloride 5 MG Extended Release Oral Tablet	1049727	EXACT			2026-03-13
+696139	77030	40231804	12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1049502	EXACT			2026-03-13
+696140	77031	40231810	12 HR oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1049563	EXACT			2026-03-13
+696141	77032	40231814	12 HR oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1049584	EXACT			2026-03-13
+696142	77033	40231818	12 HR oxycodone hydrochloride 80 MG Extended Release Oral Tablet	1049599	EXACT			2026-03-13
+763932	77030	40231804	12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1049502	EXACT			2026-03-13
+763933	77031	40231810	12 HR oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1049563	EXACT			2026-03-13
+763934	77032	40231814	12 HR oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1049584	EXACT			2026-03-13
+763935	77029	40232753	oxycodone hydrochloride 5 MG Extended Release Oral Tablet	1049727	EXACT			2026-03-13
+763936	77033	40231818	12 HR oxycodone hydrochloride 80 MG Extended Release Oral Tablet	1049599	EXACT			2026-03-13
+683931	74692	40231804	12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1049502	EXACT			2026-03-13
+683945	74693	40231810	12 HR oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1049563	EXACT			2026-03-13
+683962	74695	40231814	12 HR oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1049584	EXACT			2026-03-13
+683976	74696	40231818	12 HR oxycodone hydrochloride 80 MG Extended Release Oral Tablet	1049599	EXACT			2026-03-13

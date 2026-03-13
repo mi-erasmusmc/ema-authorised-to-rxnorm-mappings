@@ -5,6 +5,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 711251	80981	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			2026-03-12
 725702	69589	35603331	tiotropium 0.00125 MG/ACTUAT Inhalation Spray [Spiriva]	1667884	EXACT			2026-03-12
 725948	69589	35603331	tiotropium 0.00125 MG/ACTUAT Inhalation Spray [Spiriva]	1667884	EXACT			2026-03-12
-726149	84261	19112761	tiotropium 0.018 MG Inhalation Powder	485032	BROAD			2026-03-12
+726149	84261	19112761	tiotropium 0.018 MG Inhalation Powder	485032	BROAD	Spain labels Sirkava as 12 mcg/actuation (Breezhaler DPI); RxNorm has no 12 mcg tiotropium inhalation powder concept — 18 mcg is the closest available.	tiotropium 12 MCG/ACTUAT Dry Powder Inhaler	2026-03-13
 731040	85978	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			2026-03-12
 731041	85978	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			2026-03-12

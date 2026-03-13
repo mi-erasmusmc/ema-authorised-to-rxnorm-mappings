@@ -1,2 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-707360	80104	19122186	lopinavir 200 MG / ritonavir 50 MG Oral Tablet	597730				
+707360	80104	19122186	lopinavir 200 MG / ritonavir 50 MG Oral Tablet	597730	EXACT			2026-03-13
+660752	01172006	1748987	lopinavir 100 MG / ritonavir 25 MG Oral Tablet [Kaletra]	847745	EXACT			2026-03-13
+665875	01172008	1748986	lopinavir 200 MG / ritonavir 50 MG Oral Tablet [Kaletra]	847741	EXACT			2026-03-13
+730481	01172008	1748986	lopinavir 200 MG / ritonavir 50 MG Oral Tablet [Kaletra]	847741	EXACT			2026-03-13
+906990	01172003	1748988	lopinavir 80 MG/ML / ritonavir 20 MG/ML Oral Solution [Kaletra]	847749	EXACT			2026-03-13

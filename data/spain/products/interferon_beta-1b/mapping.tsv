@@ -1,2 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 701104	108454008	40165659	interferon beta-1b 0.3 MG Injection [Extavia]	860244	EXACT			2026-02-14
+659320	95003005	19034358	interferon beta-1b 0.3 MG Injection [Betaseron]	207059	EXACT	Betaferon is the EU brand name for Betaseron (same Bayer product).		2026-03-13
+661073	08454002	40165659	interferon beta-1b 0.3 MG Injection [Extavia]	860244	EXACT			2026-03-13
+661932	95003008	19034358	interferon beta-1b 0.3 MG Injection [Betaseron]	207059	EXACT	Betaferon is the EU brand name for Betaseron (same Bayer product).		2026-03-13
+726848	95003005IP1	19034358	interferon beta-1b 0.3 MG Injection [Betaseron]	207059	EXACT	Betaferon is the EU brand name for Betaseron (same Bayer product).		2026-03-13

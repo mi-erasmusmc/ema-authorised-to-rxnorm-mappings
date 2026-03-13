@@ -1,5 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656685	32357	35143248	Codeine Oral Powder	OMOP4800353	BROAD			
-795971	1778	35143248	Codeine Oral Powder	OMOP4800353	BROAD			
-796052	1778	35143248	Codeine Oral Powder	OMOP4800353	BROAD			
-936518	5255	35143248	Codeine Oral Powder	OMOP4800353	BROAD			
+656685	32357	40223090	codeine phosphate 2 MG/ML Oral Solution	997398	EXACT			2026-03-13
+795971	1778	40223099	codeine phosphate 30 MG Oral Tablet	997285	BROAD	Spain strength is 28.7 mg codeine phosphate hemihydrate; RxNorm exposes 30 mg codeine phosphate tablet.	codeine phosphate 28.7 MG Oral Tablet	2026-03-13
+796052	1778	40223099	codeine phosphate 30 MG Oral Tablet	997285	BROAD	Spain strength is 28.7 mg codeine phosphate hemihydrate; RxNorm exposes 30 mg codeine phosphate tablet.	codeine phosphate 28.7 MG Oral Tablet	2026-03-13
+936518	5255	40223059	codeine phosphate 0.6 MG/ML Oral Solution	997014	BROAD	Spain strength is 1.26 mg/mL codeine phosphate hemihydrate (6.33 mg/5 mL); closest standard concept is 0.6 mg/mL codeine phosphate oral solution.	codeine phosphate 1.26 MG/ML Oral Solution	2026-03-13
+673090	24797	40223090	codeine phosphate 2 MG/ML Oral Solution	997398	EXACT			2026-03-13
+701240	78388	40223090	codeine phosphate 2 MG/ML Oral Solution	997398	EXACT			2026-03-13
+795112	65343	40223090	codeine phosphate 2 MG/ML Oral Solution	997398	EXACT			2026-03-13
+824078	20709	40223090	codeine phosphate 2 MG/ML Oral Solution	997398	EXACT			2026-03-13

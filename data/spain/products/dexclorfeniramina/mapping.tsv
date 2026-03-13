@@ -1,2 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-809459	31195	19039814	dexchlorpheniramine maleate 2 MG Oral Tablet [Polaramine]	208842	EXACT			
+809459	31195	19039814	dexchlorpheniramine maleate 2 MG Oral Tablet [Polaramine]	208842	EXACT			2026-03-13
+687499	75389	43028269	dexchlorpheniramine 5 MG/ML Injectable Solution	OMOP4843487	EXACT			2026-03-13
+788489	31511	1361526	dexchlorpheniramine maleate 6 MG Extended Release Oral Tablet	1346553	EXACT			2026-03-13
+806224	32801	1361502	dexchlorpheniramine maleate 0.4 MG/ML Oral Solution	1346571	EXACT			2026-03-13
+813071	40135	43028269	dexchlorpheniramine 5 MG/ML Injectable Solution	OMOP4843487	EXACT			2026-03-13

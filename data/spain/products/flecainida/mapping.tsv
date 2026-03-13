@@ -1,8 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-696919	77173	40169047	flecainide acetate 100 MG Oral Tablet [Tambocor]	886668	EXACT			
-696924	77173	40169047	flecainide acetate 100 MG Oral Tablet [Tambocor]	886668	EXACT			
-704661	79329	40169047	flecainide acetate 100 MG Oral Tablet [Tambocor]	886668	EXACT			
-704662	79329	40169047	flecainide acetate 100 MG Oral Tablet [Tambocor]	886668	EXACT			
-859991	57532	40169047	flecainide acetate 100 MG Oral Tablet [Tambocor]	886668	EXACT			
-860213	57532	40169047	flecainide acetate 100 MG Oral Tablet [Tambocor]	886668	EXACT			
-976258	57514	40169044	flecainide acetate 10 MG/ML Injectable Solution	886676				
+696919	77173	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT			2026-03-13
+696924	77173	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT			2026-03-13
+704661	79329	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT			2026-03-13
+704662	79329	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT			2026-03-13
+859991	57532	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT	No matching RxNorm APOCARD brand concept found.		2026-03-13
+860213	57532	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT	No matching RxNorm APOCARD brand concept found.		2026-03-13
+976258	57514	40169044	flecainide acetate 10 MG/ML Injectable Solution	886676	EXACT			2026-03-13
+700055	78070	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT			2026-03-13
+700056	78070	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT			2026-03-13
+704691	79337	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT			2026-03-13
+704693	79337	40169046	flecainide acetate 100 MG Oral Tablet	886666	EXACT			2026-03-13

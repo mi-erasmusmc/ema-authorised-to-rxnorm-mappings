@@ -4,3 +4,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 750992	59538	19134811	nifedipine 30 MG Extended Release Oral Tablet [Adalat]	845004	EXACT			2026-03-12
 603258	52661	1318988	nifedipine 10 MG Oral Capsule [Adalat]	91691	EXACT			2026-03-12
 603340	56920	19134275	nifedipine 20 MG Extended Release Oral Tablet [Adalat Retard 20]	844455	EXACT			2026-03-12
+643353	59537	19134812	nifedipine 60 MG Extended Release Oral Tablet [Adalat]	845005	EXACT			2026-03-13
+665901	61772	1318887	nifedipine 20 MG Extended Release Oral Tablet	246262	EXACT			2026-03-13
+700446	78233	1318853	nifedipine	7417	BROAD	No nifedipine 5 MG/ML oral solution concept exists in RxNorm.	nifedipine 5 MG/ML Oral Solution	2026-03-13

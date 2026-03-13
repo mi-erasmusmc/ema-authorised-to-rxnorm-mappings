@@ -1,3 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-719066	82434	36421164	Desfesoterodine 3.5 MG Extended Release Oral Tablet	OMOP4763449	BROAD			
-719073	82435	36421159	Desfesoterodine 7 MG Extended Release Oral Tablet	OMOP4763444	BROAD			
+719066	82434	36421164	Desfesoterodine 3.5 MG Extended Release Oral Tablet	OMOP4763449	BROAD	Extension concept only; no standard RxNorm desfesoterodine concept is available.	desfesoterodine 3.5 MG Extended Release Oral Tablet	2026-03-13
+719073	82435	36421159	Desfesoterodine 7 MG Extended Release Oral Tablet	OMOP4763444	BROAD	Extension concept only; no standard RxNorm desfesoterodine concept is available.	desfesoterodine 7 MG Extended Release Oral Tablet	2026-03-13
+765076	957700000IP	36421164	Desfesoterodine 3.5 MG Extended Release Oral Tablet	OMOP4763449	BROAD	Extension concept only; no standard RxNorm desfesoterodine concept is available.	desfesoterodine 3.5 MG Extended Release Oral Tablet	2026-03-13
+765077	957710000IP	36421159	Desfesoterodine 7 MG Extended Release Oral Tablet	OMOP4763444	BROAD	Extension concept only; no standard RxNorm desfesoterodine concept is available.	desfesoterodine 7 MG Extended Release Oral Tablet	2026-03-13
+769704	957700000IP3	36421164	Desfesoterodine 3.5 MG Extended Release Oral Tablet	OMOP4763449	BROAD	Extension concept only; no standard RxNorm desfesoterodine concept is available.	desfesoterodine 3.5 MG Extended Release Oral Tablet	2026-03-13
+769705	957710000IP3	36421159	Desfesoterodine 7 MG Extended Release Oral Tablet	OMOP4763444	BROAD	Extension concept only; no standard RxNorm desfesoterodine concept is available.	desfesoterodine 7 MG Extended Release Oral Tablet	2026-03-13

@@ -34,7 +34,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 681411	60960	905236	mometasone furoate 1 MG/ML Topical Cream	311753	EXACT			2026-03-12
 681429	60960	905236	mometasone furoate 1 MG/ML Topical Cream	311753	EXACT			2026-03-12
 699634	77973	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
-701179	78372	905236	mometasone furoate 1 MG/ML Topical Cream	311753	BROAD		Mometasone 1mg/g cutaneous emulsion; no emulsion dose form in RxNorm, mapped to topical cream as closest equivalent	2026-03-12
+701179	78372	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	Mometasona 1 mg/g cutaneous emulsion; RxNorm Topical Lotion is the closest dose-form match for a cutaneous emulsion.		2026-03-13
 703001	78899	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
 710406	80766	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
 720444	82795	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12

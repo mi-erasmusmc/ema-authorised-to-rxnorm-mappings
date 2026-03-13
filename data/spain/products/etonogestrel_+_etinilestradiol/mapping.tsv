@@ -1,13 +1,17 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-673304	73615	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-673305	73615	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-716435	82125	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-716436	82125	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-716620	82175	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-716622	82175	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-717008	82291	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-717010	82291	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-719797	64570	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-720320	82755	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-720321	82755	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
-823971	64570	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111				
+673304	73615	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+673305	73615	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+716435	82125	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+716436	82125	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+716620	82175	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+716622	82175	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+717008	82291	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+717010	82291	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+719797	64570	37496968	ethinyl estradiol / etonogestrel Vaginal System [NuvaRing]	2201660	EXACT			2026-03-13
+720320	82755	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+720321	82755	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+823971	64570	37496968	ethinyl estradiol / etonogestrel Vaginal System [NuvaRing]	2201660	EXACT			2026-03-13
+716664	82183	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+716665	82183	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+721497	83064	43266441	Ethinyl Estradiol 0.000625 MG/HR / Etonogestrel 0.005 MG/HR Vaginal delivery system	OMOP531111	EXACT			2026-03-13
+729254	5717756	37496968	ethinyl estradiol / etonogestrel Vaginal System [NuvaRing]	2201660	EXACT			2026-03-13

@@ -1,3 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-686905	75242	42628908	idarubicin hydrochloride 1 MG/ML Injection	1791496	EXACT			
-686906	75242	42628908	idarubicin hydrochloride 1 MG/ML Injection	1791496	EXACT			
+686905	75242	42628912	5 ML idarubicin hydrochloride 1 MG/ML Injection	1791500	EXACT			2026-03-13
+686906	75242	42628910	10 ML idarubicin hydrochloride 1 MG/ML Injection	1791498	EXACT			2026-03-13
+699686	60072	42628912	5 ML idarubicin hydrochloride 1 MG/ML Injection	1791500	BROAD	Spain source is powder for concentrate for infusion; RxNorm does not expose the exact powder presentation or Zavedos brand at the matching 5 mL injectable concept.	5 ML idarubicin hydrochloride 1 MG/ML Injection [Zavedos]	2026-03-13
+699694	60071	42628910	10 ML idarubicin hydrochloride 1 MG/ML Injection	1791498	BROAD	Spain source is powder for concentrate for infusion; RxNorm does not expose the exact powder presentation or Zavedos brand at the matching 10 mL injectable concept.	10 ML idarubicin hydrochloride 1 MG/ML Injection [Zavedos]	2026-03-13
+731098	86001	42628912	5 ML idarubicin hydrochloride 1 MG/ML Injection	1791500	EXACT			2026-03-13
+731099	86001	42628910	10 ML idarubicin hydrochloride 1 MG/ML Injection	1791498	EXACT			2026-03-13

@@ -1,12 +1,16 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602684	69299	40754955	Lactulose 10000 MG Oral Powder Box of 10	OMOP4702075	EXACT			
-602685	69300	987245	lactulose	6218	BROAD			
-650316	60189	40754955	Lactulose 10000 MG Oral Powder Box of 10	OMOP4702075	EXACT			
-653453	59469	987245	lactulose	6218	BROAD			
-659919	69299	40754955	Lactulose 10000 MG Oral Powder Box of 10	OMOP4702075	EXACT			
-659921	69299	40754955	Lactulose 10000 MG Oral Powder Box of 10	OMOP4702075	EXACT			
-659922	69300	987245	lactulose	6218	BROAD			
-659923	69300	987245	lactulose	6218	BROAD			
-694760	60189	40754955	Lactulose 10000 MG Oral Powder Box of 10	OMOP4702075	EXACT			
-698109	60189	40754955	Lactulose 10000 MG Oral Powder Box of 10	OMOP4702075	EXACT			
-698110	60189	40754955	Lactulose 10000 MG Oral Powder Box of 10	OMOP4702075	EXACT			
+602684	69299	43022652	Lactulose 10000 MG Oral Solution	OMOP4837780	BROAD	Unit-dose sachet presentation is not exposed exactly in RxNorm.	Lactulose 10000 MG Oral Solution in Sachet	2026-03-13
+602685	69300	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
+650316	60189	43022652	Lactulose 10000 MG Oral Solution	OMOP4837780	BROAD	Unit-dose sachet presentation is not exposed exactly in RxNorm.	Lactulose 10000 MG Oral Solution [Duphalac] in Sachet	2026-03-13
+653453	59469	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
+659919	69299	43022652	Lactulose 10000 MG Oral Solution	OMOP4837780	BROAD	Unit-dose sachet presentation is not exposed exactly in RxNorm.	Lactulose 10000 MG Oral Solution in Sachet	2026-03-13
+659921	69299	43022652	Lactulose 10000 MG Oral Solution	OMOP4837780	BROAD	Unit-dose sachet presentation is not exposed exactly in RxNorm.	Lactulose 10000 MG Oral Solution in Sachet	2026-03-13
+659922	69300	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
+659923	69300	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
+694760	60189	43022652	Lactulose 10000 MG Oral Solution	OMOP4837780	BROAD	Unit-dose sachet presentation is not exposed exactly in RxNorm.	Lactulose 10000 MG Oral Solution [Duphalac] in Sachet	2026-03-13
+698109	60189	43022652	Lactulose 10000 MG Oral Solution	OMOP4837780	BROAD	Unit-dose sachet presentation is not exposed exactly in RxNorm.	Lactulose 10000 MG Oral Solution [Duphalac] in Sachet	2026-03-13
+698110	60189	43022652	Lactulose 10000 MG Oral Solution	OMOP4837780	BROAD	Unit-dose sachet presentation is not exposed exactly in RxNorm.	Lactulose 10000 MG Oral Solution [Duphalac] in Sachet	2026-03-13
+664991	71695	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
+677342	73281	19003454	lactulose 670 MG/ML Oral Solution	104148	EXACT			2026-03-13
+748582	46197	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	EXACT			2026-03-13
+748590	46197	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	EXACT			2026-03-13

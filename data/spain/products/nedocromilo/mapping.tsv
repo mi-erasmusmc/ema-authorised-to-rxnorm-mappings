@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+640284	58605	42902716	nedocromil sodium 1.75 MG/ACTUAT Metered Dose Inhaler	1359829	BROAD	Spain labels Tilad as 2 mg/actuation; RxNorm encodes nedocromil sodium at 1.75 mg/actuation (delivered dose). No 2 mg/actuation concept exists.	nedocromil 2 MG/ACTUAT Inhalation Aerosol	2026-03-13
+685628	60719	40173195	nedocromil sodium 20 MG/ML Ophthalmic Solution	897292	EXACT			2026-03-13
