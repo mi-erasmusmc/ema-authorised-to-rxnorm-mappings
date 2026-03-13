@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656810	57463	964780	betamethasone 0.0005 MG/MG / salicylic acid 0.03 MG/MG Topical Ointment	247451	EXACT			
-730618	85763	43797650	Betamethasone 0.0006 MG/MG / Salicylic Acid 0.02 MG/MG Topical Solution	OMOP741499				
-766456	85763	43797650	Betamethasone 0.0006 MG/MG / Salicylic Acid 0.02 MG/MG Topical Solution	OMOP741499				
+656810	57463	964780	betamethasone 0.0005 MG/MG / salicylic acid 0.03 MG/MG Topical Ointment	247451	EXACT			2026-03-13
+730618	85763	964779	betamethasone 0.5 MG/ML / salicylic acid 20 MG/ML Topical Lotion	247443	BROAD	SYRACERIN is a cutaneous solution; no betamethasone/salicylic acid Topical Solution exists in standard RxNorm; concentrations match but dose form is Lotion not Solution	betamethasone 0.0005 MG/MG / salicylic acid 0.02 MG/MG Topical Solution	2026-03-13
+766456	85763	964779	betamethasone 0.5 MG/ML / salicylic acid 20 MG/ML Topical Lotion	247443	BROAD	SYRACERIN is a cutaneous solution; no betamethasone/salicylic acid Topical Solution exists in standard RxNorm; concentrations match but dose form is Lotion not Solution	betamethasone 0.0005 MG/MG / salicylic acid 0.02 MG/MG Topical Solution	2026-03-13

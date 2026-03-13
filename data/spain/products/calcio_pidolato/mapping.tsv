@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+653220	59970	19062821	calcium pidolate 1000 MG Oral Granules	250455	BROAD	RxNorm lacks the exact 3750 MG calcium pidolate sachet strength.	calcium pidolate 3750 MG Oral Granules	2026-03-13
+654103	60440	19062821	calcium pidolate 1000 MG Oral Granules	250455	BROAD	RxNorm lacks the exact 3750 MG calcium pidolate sachet strength.	calcium pidolate 3750 MG Oral Granules	2026-03-13
+708057	59971	19052862	calcium pidolate 1000 MG	343248	BROAD	RxNorm lacks the exact 1852 MG effervescent-tablet concept.	calcium pidolate 1852 MG Effervescent Oral Tablet	2026-03-13

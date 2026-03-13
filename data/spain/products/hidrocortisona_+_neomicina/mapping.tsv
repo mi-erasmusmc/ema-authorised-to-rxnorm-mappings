@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-779314	28267	975125	hydrocortisone	5492	BROAD		hydrocortisone / neomycin Vaginal Suppository	2026-03-13
-792143	25489	40052967	hydrocortisone / neomycin Otic Solution	373035	BROAD		hydrocortisone 5 MG/ML / neomycin 3.5 MG/ML Otic Solution	2026-03-13
-836411	47968	40052969	hydrocortisone / neomycin Topical Ointment	374385	BROAD		hydrocortisone 25 MG/MG / neomycin 3.5 MG/MG Topical Ointment	2026-03-13
-836429	47968	40052969	hydrocortisone / neomycin Topical Ointment	374385	BROAD		hydrocortisone 25 MG/MG / neomycin 3.5 MG/MG Topical Ointment	2026-03-13
+779314	28267	40955186	Hydrocortisone / Neomycin Vaginal Tablet	OMOP2153148	BROAD	Source is a vaginal ovule and includes lactose excipient; RxNorm only exposes a non-strength-specific hydrocortisone/neomycin vaginal tablet concept.	hydrocortisone 10 MG / neomycin 17.5 MG Vaginal Insert	2026-03-13
+792143	25489	40052967	hydrocortisone / neomycin Otic Solution	373035	BROAD	RxNorm lacks the exact 5 MG/ML hydrocortisone strength for this otic combination.	hydrocortisone 5 MG/ML / neomycin 3.5 MG/ML Otic Solution	2026-03-13
+836411	47968	40052969	hydrocortisone / neomycin Topical Ointment	374385	BROAD	RxNorm lacks the exact hydrocortisone 25 MG/G plus neomycin 3.5 MG/G topical ointment concept.	hydrocortisone 25 MG/G / neomycin 3.5 MG/G Topical Ointment	2026-03-13
+836429	47968	40052969	hydrocortisone / neomycin Topical Ointment	374385	BROAD	RxNorm lacks the exact hydrocortisone 25 MG/G plus neomycin 3.5 MG/G topical ointment concept.	hydrocortisone 25 MG/G / neomycin 3.5 MG/G Topical Ointment	2026-03-13

@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+742288	25490	19115223	bacitracin 0.4 UNT/MG / hydrocortisone 0.01 MG/MG / neomycin 0.0035 MG/MG Topical Ointment	562635	BROAD	RxNorm lacks the exact bacitracin strength; source is 600 UI/g rather than 400 UI/g.	bacitracin 600 UNT/G / hydrocortisone 10 MG/G / neomycin 3.5 MG/G Topical Ointment	2026-03-13

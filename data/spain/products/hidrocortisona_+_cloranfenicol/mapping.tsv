@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+737189	26230	975587	chloramphenicol 0.01 MG/MG / hydrocortisone 0.005 MG/MG Topical Ointment	249564	EXACT			2026-03-13
+737197	26231	40022933	chloramphenicol / hydrocortisone Topical Ointment	376469	BROAD	RxNorm lacks the exact higher-strength topical ointment concept.	chloramphenicol 0.02 MG/MG / hydrocortisone 0.025 MG/MG Topical Ointment	2026-03-13
