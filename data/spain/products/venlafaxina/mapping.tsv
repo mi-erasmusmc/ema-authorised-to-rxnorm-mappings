@@ -64,9 +64,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 713260	81338	19103820	venlafaxine 150 MG Extended Release Oral Capsule	411816	EXACT			2026-03-12
 713427	81363	21022292	venlafaxine 225 MG Extended Release Oral Capsule	OMOP349546	EXACT			2026-03-12
 713430	81364	21022292	venlafaxine 225 MG Extended Release Oral Capsule	OMOP349546	EXACT			2026-03-12
-714307	81636	19131403	venlafaxine 225 MG Extended Release Oral Tablet	801849	EXACT			2026-03-12
+714307	81636	21022292	venlafaxine 225 MG Extended Release Oral Capsule	OMOP349546	EXACT			2026-03-13
 719137	82452	19103819	venlafaxine 75 MG Extended Release Oral Capsule	411815	EXACT			2026-03-12
-719140	82453	19131403	venlafaxine 225 MG Extended Release Oral Tablet	801849	EXACT			2026-03-12
+719140	82453	21022292	venlafaxine 225 MG Extended Release Oral Capsule	OMOP349546	EXACT			2026-03-13
 719142	82454	19103820	venlafaxine 150 MG Extended Release Oral Capsule	411816	EXACT			2026-03-12
 723410	83373	19103820	venlafaxine 150 MG Extended Release Oral Capsule	411816	EXACT			2026-03-12
 723413	83374	19103819	venlafaxine 75 MG Extended Release Oral Capsule	411815	EXACT			2026-03-12

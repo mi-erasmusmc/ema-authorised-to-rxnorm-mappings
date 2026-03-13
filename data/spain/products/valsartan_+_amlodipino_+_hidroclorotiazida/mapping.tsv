@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 701935	109574050	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2025-12-04
-702080	109569050	974861	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet [Exforge HCT]	848139	EXACT			2025-12-04
+702080	109569050	974861	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet [Exforge HCT]	848139	EXACT			2026-03-13
 724506	83739	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
 724507	83740	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
 724508	83741	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
@@ -42,10 +42,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 732096	86363	974860	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	848135	EXACT			2026-03-12
 732097	86364	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12
 732098	86365	974884	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848145	EXACT			2026-03-12
-654851	09569002	974883	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848144	EXACT			2026-03-12
-654852	09569014	974859	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848134	EXACT			2026-03-12
-654853	09569026	974885	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848149	EXACT			2026-03-12
-654854	09569038	974887	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848155	EXACT			2026-03-12
+654851	09569002	974883	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848144	EXACT			2026-03-13
+654852	09569014	974859	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848134	EXACT			2026-03-13
+654853	09569026	974885	amlodipine 5 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848149	EXACT			2026-03-13
+654854	09569038	974887	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT]	848155	EXACT			2026-03-13
 654858	09574014	974858	amlodipine 10 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848131	EXACT			2026-03-12
 654859	09574038	974886	amlodipine 10 MG / hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	848151	EXACT			2026-03-12
 654860	09574002	19135441	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	848140	EXACT			2026-03-12

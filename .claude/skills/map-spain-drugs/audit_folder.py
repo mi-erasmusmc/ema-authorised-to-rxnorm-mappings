@@ -24,7 +24,8 @@ Issue types:
     DUPLICATE_DATA        - duplicate cod_nacion in data.tsv
     DUPLICATE_MAPPING     - duplicate cod_nacion in mapping.tsv
     REVIEW_VOLUME         - likely single-use injectable mapped to a concentration-only concept
-    INCONSISTENT_CONCEPT  - EXACT rows with the same des_dcp and sw_generico map to different concept_ids
+    INCONSISTENT_CONCEPT  - EXACT rows with the same des_dcp, sw_generico, and forma_farmaceutica map to different
+                            concept_ids. For branded products the comparison is narrowed to the same brand key.
 """
 
 import argparse
@@ -83,6 +84,17 @@ def needs_volume_review(data_row, concept_name):
     if "mg/ml" not in concept_lower:
         return False
     return not concept_lower.startswith(f"{volume} ml ")
+
+
+def branded_signature_key(data_row):
+    des_nomco = clean(data_row.get("des_nomco", ""))
+    if des_nomco:
+        match = re.match(r"^(.*?)(?:\s+\d+(?:[.,]\d+)?\s*(?:mg|mcg|g|ui|iu|ml)\b|$)", des_nomco, flags=re.IGNORECASE)
+        if match:
+            brand = clean(match.group(1))
+            if brand:
+                return brand.upper()
+    return clean(data_row.get("laboratorio_titular", "")).upper()
 
 
 def make_issue(issue, cod, nro_definitivo, des_dcp, concept_id, concept_name, mapping_type):
@@ -220,7 +232,7 @@ def main():
         elif mapping_type == "EXACT" and needs_volume_review(data_row, concept):
             issues.append(make_issue("REVIEW_VOLUME", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
 
-    # INCONSISTENT_CONCEPT: EXACT rows with same (des_dcp, sw_generico) but different concept_ids
+    # INCONSISTENT_CONCEPT: EXACT rows with same clinical signature but different concept_ids
     sig_to_concepts = defaultdict(set)
     sig_to_rows = defaultdict(list)
     for row in mapping_rows:
@@ -232,9 +244,17 @@ def main():
             continue
         des_dcp = clean(data_row.get("des_dcp", ""))
         sw_generico = clean(data_row.get("sw_generico", ""))
+        forma = clean(data_row.get("forma_farmaceutica", ""))
         if not des_dcp:
             continue
-        sig = (des_dcp, sw_generico)
+        # For branded products (sw_generico=0), include the brand key from des_nomco so that
+        # different brands marketed by the same manufacturer are evaluated independently.
+        # Cross-brand concept differences are expected.
+        if sw_generico == "0":
+            brand_key = branded_signature_key(data_row)
+            sig = (des_dcp, sw_generico, forma, brand_key)
+        else:
+            sig = (des_dcp, sw_generico, forma)
         sig_to_concepts[sig].add(concept_id)
         sig_to_rows[sig].append(row)
 

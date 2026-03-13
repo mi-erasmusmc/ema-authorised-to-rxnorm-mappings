@@ -12,8 +12,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 762436	1231719002	35145367	tolvaptan 7.5 MG Oral Tablet	OMOP4802458	EXACT			2025-12-04
 762437	1231719006	37353700	tolvaptan 15 MG Oral Tablet	2719335	EXACT			2026-03-12
 762438	1231719010	37353701	tolvaptan 30 MG Oral Tablet	2719337	EXACT			2026-03-12
-663723	09539001	19036800	Hyponatremia tolvaptan 15 MG Oral Tablet [Samsca]	849831	EXACT			2026-03-12
-663726	09539003	19036833	Hyponatremia tolvaptan 30 MG Oral Tablet [Samsca]	849835	EXACT			2026-03-12
+663723	09539001	19036800	Hyponatremia tolvaptan 15 MG Oral Tablet [Samsca]	849831	EXACT			2026-03-13
+663726	09539003	19036833	Hyponatremia tolvaptan 30 MG Oral Tablet [Samsca]	849835	EXACT			2026-03-13
 728258	84991	1510749	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 60 MG Oral Tablet) } Pack	2044966	EXACT			2026-03-12
 728269	84993	1510751	{28 (tolvaptan 15 MG Oral Tablet) / 28 (tolvaptan 45 MG Oral Tablet) } Pack	2044968	EXACT			2026-03-12
 728293	84997	1510753	{28 (tolvaptan 30 MG Oral Tablet) / 28 (tolvaptan 90 MG Oral Tablet) } Pack	2044970	EXACT			2026-03-12

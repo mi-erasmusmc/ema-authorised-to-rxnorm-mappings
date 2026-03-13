@@ -13,7 +13,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 681412	74286	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-12
 681413	74287	19028935	telmisartan 40 MG Oral Tablet	205304	EXACT			2026-03-12
 681418	74288	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
-684964	74863	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			
+684964	74863	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-13
 684970	74864	19028935	telmisartan 40 MG Oral Tablet	205304	EXACT			2026-03-12
 684975	74865	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
 686910	75245	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-12
@@ -43,17 +43,17 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 699337	111719063	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2025-12-04
 699948	78054	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
 699949	78055	19028935	telmisartan 40 MG Oral Tablet	205304	EXACT			2026-03-12
-720604	82834	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			
+720604	82834	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-13
 720605	82835	19028935	telmisartan 40 MG Oral Tablet	205304	EXACT			2026-03-12
 720606	82836	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
 733339	86720	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-12
 733340	86721	19028935	telmisartan 40 MG Oral Tablet	205304	EXACT			2026-03-12
 733341	86722	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
-605165	98090022	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT			2026-03-12
+605165	98090022	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
 606234	77829	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-12
-656578	98090006	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT			2026-03-12
+656578	98090006	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
 656662	98089007	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
-665896	98090006IP1	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT			2026-03-12
+665896	98090006IP1	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
 677696	98089007IP	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
 677709	98089007IP1	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
 687674	10639002	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-12
@@ -75,14 +75,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698182	77570	19028935	telmisartan 40 MG Oral Tablet	205304	EXACT			2026-03-12
 698183	77571	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
 699052	77829	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-12
-706256	98090006IP2	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT			2026-03-12
+706256	98090006IP2	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
 709859	98089007IP2	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
-713267	98090006IP3	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT			2026-03-12
+713267	98090006IP3	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
 724979	98089007IP3	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
-724980	98090006IP4	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT			2026-03-12
-727065	98090002	1317673	telmisartan 40 MG Oral Tablet [Micardis]	213431	EXACT			2026-03-12
+724980	98090006IP4	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
+727065	98090002	1317673	telmisartan 40 MG Oral Tablet [Micardis]	213431	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
 728467	98089007IP4	19028936	telmisartan 80 MG Oral Tablet	205305	EXACT			2026-03-12
-728592	98090006IP5	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT			2026-03-12
+728592	98090006IP5	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
 729913	98089002	19028935	telmisartan 40 MG Oral Tablet	205304	EXACT			2026-03-12
-764089	9890006IP6	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT			2026-03-12
+764089	9890006IP6	1317674	telmisartan 80 MG Oral Tablet [Micardis]	213432	EXACT	Spain brand matches RxNorm Micardis branded tablet concept		2026-03-13
 863431	98089012	1317675	telmisartan 20 MG Oral Tablet	282755	EXACT			2026-03-12

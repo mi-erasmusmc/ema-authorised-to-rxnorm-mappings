@@ -7,7 +7,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656399	68185	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			2026-03-12
 658116	68247	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			2026-03-12
 658117	68247	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			2026-03-12
-659069	68805	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-12
+659069	68805	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-13
 660706	69684	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			2026-03-12
 660707	69684	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			2026-03-12
 672394	59435	19006863	terbinafine 250 MG Oral Tablet [Lamisil]	105330	EXACT			2026-03-12
@@ -16,4 +16,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 687430	75372	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			
 715636	81957	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			
 831446	62783	40180878	terbinafine hydrochloride 10 MG/ML Topical Spray	992535	EXACT			
-901207	59434	40180875	terbinafine hydrochloride 10 MG/ML Topical Cream [Lamisil]	992530	EXACT			
+901207	59434	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-13
+656474	68223	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-13
+658316	68370	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-13
+658464	68462	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-13
+665094	63675	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-13
+677382	73571	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-13
+714493	63675	40180873	terbinafine hydrochloride 10 MG/ML Topical Cream	992528	EXACT			2026-03-13
+658176	68285	40180876	terbinafine hydrochloride 10 MG/ML Topical Solution	992531	EXACT			2026-03-13
+673198	67907	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			2026-03-13
+688718	75650	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			2026-03-13
+688719	75650	1741402	terbinafine 250 MG Oral Tablet	313222	EXACT			2026-03-13

@@ -1,26 +1,26 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-605424	63194	40165654	onabotulinumtoxinA 100 UNT Injection [Botox]	860195	EXACT			
-605912	69292	35605873	incobotulinumtoxinA 100 UNT Injection [Xeomin]	1732161	EXACT			
-659908	69292	35605873	incobotulinumtoxinA 100 UNT Injection [Xeomin]	1732161	EXACT			
-670615	72377	40172382	onabotulinumtoxinA 200 UNT Injection [Botox]	897368	EXACT			
-678599	61155	42629326	abobotulinumtoxinA 500 UNT Injection [Dysport]	1789953	EXACT			
-680507	74067	35605870	incobotulinumtoxinA 50 UNT Injection [Xeomin]	1732157	EXACT			
-710530	80801	35605874	incobotulinumtoxinA 200 UNT Injection [Xeomin]	1732165	EXACT			
-712274	81177	36250015	incobotulinumtoxinA 100 UNT [Xeomin]	1797433	EXACT			
-712276	81177	36250015	incobotulinumtoxinA 100 UNT [Xeomin]	1797433	EXACT			
-714423	80801	35605874	incobotulinumtoxinA 200 UNT Injection [Xeomin]	1732165	EXACT			
-732749	1191364002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	BROAD	Nuceiva 50U: no 50 UNT prabotulinumtoxinA concept in RxNorm		2026-03-12
-764717	1191364002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	BROAD	Nuceiva 50U: no 50 UNT prabotulinumtoxinA concept in RxNorm		2026-03-12
-888172	63194	40165654	onabotulinumtoxinA 100 UNT Injection [Botox]	860195	EXACT			
-605396	70602	35604247	onabotulinumtoxinA 50 UNT Injection	1726293	EXACT			2026-03-12
-605577	72709	35605870	incobotulinumtoxinA 50 UNT Injection [Xeomin]	1732157	EXACT			2026-03-12
-650509	65837	35604250	onabotulinumtoxinA 50 UNT Injection [Botox Cosmetic]	1726296	EXACT			2026-03-12
-652105	65837	35604250	onabotulinumtoxinA 50 UNT Injection [Botox Cosmetic]	1726296	EXACT			2026-03-12
-663750	71300	42629323	abobotulinumtoxinA 500 UNT Injection	1789950	BROAD	No 125 UNT concept in RxNorm; Azzalure brand not in RxNorm		2026-03-12
-674724	72709	35605870	incobotulinumtoxinA 50 UNT Injection [Xeomin]	1732157	EXACT			2026-03-12
-674725	72709	35605870	incobotulinumtoxinA 50 UNT Injection [Xeomin]	1732157	EXACT			2026-03-12
-724564	65837	35604252	onabotulinumtoxinA 100 UNT Injection [Botox Cosmetic]	1726313	EXACT			2026-03-12
-731530	86170	35605867	botulinum toxin type A Injection	1732153	BROAD	Alluzience brand not in RxNorm; liquid formulation at 200U/mL		2026-03-12
-757976	87951	1734915	letibotulinumtoxinA-wlbg 50 UNT Injection	2689299	EXACT			2026-03-12
-765551	89758	1734912	botulinum toxin type A Injection [Letybo]	2689295	BROAD	Relfydess 150U not available as discrete concept; mapped to Letybo product		2026-03-12
-765553	89758	1734912	botulinum toxin type A Injection [Letybo]	2689295	BROAD	Relfydess 150U not available as discrete concept; mapped to Letybo product		2026-03-12
+605424	63194	40165654	onabotulinumtoxinA 100 UNT Injection [Botox]	860195	EXACT			2026-03-13
+605912	69292	35605873	incobotulinumtoxinA 100 UNT Injection [Xeomin]	1732161	EXACT			2026-03-13
+659908	69292	35605873	incobotulinumtoxinA 100 UNT Injection [Xeomin]	1732161	EXACT			2026-03-13
+670615	72377	40172382	onabotulinumtoxinA 200 UNT Injection [Botox]	897368	EXACT			2026-03-13
+678599	61155	42629326	abobotulinumtoxinA 500 UNT Injection [Dysport]	1789953	EXACT			2026-03-13
+680507	74067	35605870	incobotulinumtoxinA 50 UNT Injection [Xeomin]	1732157	EXACT			2026-03-13
+710530	80801	35605874	incobotulinumtoxinA 200 UNT Injection [Xeomin]	1732165	EXACT			2026-03-13
+712274	81177	40226575	incobotulinumtoxinA 100 UNT Injection	1009456	EXACT	Spain brand Bocouture lacks a matching RxNorm brand string; using exact unbranded incobotulinumtoxinA 100 UNT injection.		2026-03-13
+712276	81177	40226575	incobotulinumtoxinA 100 UNT Injection	1009456	EXACT	Spain brand Bocouture lacks a matching RxNorm brand string; using exact unbranded incobotulinumtoxinA 100 UNT injection.		2026-03-13
+714423	80801	35605874	incobotulinumtoxinA 200 UNT Injection [Xeomin]	1732165	EXACT			2026-03-13
+732749	1191364002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	BROAD	RxNorm does not expose a 50 UNT Nuceiva presentation; using the closest standard prabotulinumtoxinA-xvfs injection.	prabotulinumtoxinA-xvfs 50 UNT Injection [Nuceiva]	2026-03-13
+764717	1191364002	1366470	prabotulinumtoxinA-xvfs 100 UNT Injection	2117871	BROAD	RxNorm does not expose a 50 UNT Nuceiva presentation; using the closest standard prabotulinumtoxinA-xvfs injection.	prabotulinumtoxinA-xvfs 50 UNT Injection [Nuceiva]	2026-03-13
+888172	63194	40165654	onabotulinumtoxinA 100 UNT Injection [Botox]	860195	EXACT			2026-03-13
+605396	70602	35604247	onabotulinumtoxinA 50 UNT Injection	1726293	EXACT	Spain brand BOTOX 50 lacks a matching RxNorm brand string; using exact unbranded onabotulinumtoxinA 50 UNT injection.		2026-03-13
+605577	72709	40226577	incobotulinumtoxinA 50 UNT Injection	1009459	EXACT	Spain brand Bocouture lacks a matching RxNorm brand string; using exact unbranded incobotulinumtoxinA 50 UNT injection.		2026-03-13
+650509	65837	35604247	onabotulinumtoxinA 50 UNT Injection	1726293	EXACT	Spain brand Vistabel lacks a matching RxNorm brand string; using exact unbranded onabotulinumtoxinA 50 UNT injection.		2026-03-13
+652105	65837	35604247	onabotulinumtoxinA 50 UNT Injection	1726293	EXACT	Spain brand Vistabel lacks a matching RxNorm brand string; using exact unbranded onabotulinumtoxinA 50 UNT injection.		2026-03-13
+663750	71300	42629323	abobotulinumtoxinA 500 UNT Injection	1789950	BROAD	RxNorm does not expose a 125 UNT Azzalure concept; using the closest standard abobotulinumtoxinA injection.	abobotulinumtoxinA 125 UNT Injection [Azzalure]	2026-03-13
+674724	72709	40226577	incobotulinumtoxinA 50 UNT Injection	1009459	EXACT	Spain brand Bocouture lacks a matching RxNorm brand string; using exact unbranded incobotulinumtoxinA 50 UNT injection.		2026-03-13
+674725	72709	40226577	incobotulinumtoxinA 50 UNT Injection	1009459	EXACT	Spain brand Bocouture lacks a matching RxNorm brand string; using exact unbranded incobotulinumtoxinA 50 UNT injection.		2026-03-13
+724564	65837	40165653	onabotulinumtoxinA 100 UNT Injection	860192	EXACT	Spain brand Vistabel lacks a matching RxNorm brand string; using exact unbranded onabotulinumtoxinA 100 UNT injection.		2026-03-13
+731530	86170	42629323	abobotulinumtoxinA 500 UNT Injection	1789950	BROAD	RxNorm does not expose a 125 UNT Alluzience injectable solution; using the closest standard abobotulinumtoxinA injection.	abobotulinumtoxinA 125 UNT Injectable Solution [Alluzience]	2026-03-13
+757976	87951	1734917	letibotulinumtoxinA-wlbg 50 UNT Injection [Letybo]	2689301	EXACT			2026-03-13
+765551	89758	741603	daxibotulinumtoxinA-lanm 100 UNT Injection	2612454	BROAD	RxNorm does not expose a 150 UNT Relfydess presentation or matching brand; using the closest standard daxibotulinumtoxinA-lanm injection.	daxibotulinumtoxinA-lanm 150 UNT Injectable Solution [Relfydess]	2026-03-13
+765553	89758	741603	daxibotulinumtoxinA-lanm 100 UNT Injection	2612454	BROAD	RxNorm does not expose a 150 UNT Relfydess presentation or matching brand; using the closest standard daxibotulinumtoxinA-lanm injection.	daxibotulinumtoxinA-lanm 150 UNT Injectable Solution [Relfydess]	2026-03-13

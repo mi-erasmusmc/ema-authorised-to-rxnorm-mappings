@@ -11,8 +11,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 644419	57417	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 661466	52373	1713520	amoxicillin 25 MG/ML Oral Suspension	313797	EXACT			2026-03-12
 661467	53626	1713370	amoxicillin 50 MG/ML Oral Suspension	239191	EXACT			2026-03-12
-694050	70493	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-694098	70493	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
+694050	70493	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+694098	70493	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 694688	62880	1713412	amoxicillin 1000 MG Oral Tablet	246281	EXACT			2026-03-12
 694689	62880	1713412	amoxicillin 1000 MG Oral Tablet	246281	EXACT			2026-03-12
 694690	64117	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
@@ -49,8 +49,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 695323	65399	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
 695334	50239	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 695335	50239	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
-695341	59133	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-695342	59133	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
+695341	59133	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+695342	59133	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 695347	65280	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 695533	66643	1713412	amoxicillin 1000 MG Oral Tablet	246281	EXACT			2026-03-12
 695534	66643	1713412	amoxicillin 1000 MG Oral Tablet	246281	EXACT			2026-03-12
@@ -64,30 +64,30 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 700293	64389	19061770	amoxicillin 750 MG Oral Tablet	249505	EXACT			2026-03-12
 700295	64389	19061770	amoxicillin 750 MG Oral Tablet	249505	EXACT			2026-03-12
 701740	54626	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
-713453	81376	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
-713455	81376	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
-713461	81377	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-713463	81377	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-713505	81389	19063885	amoxicillin 500 MG Disintegrating Oral Tablet	250872	EXACT			2026-03-12
-713506	81389	19063885	amoxicillin 500 MG Disintegrating Oral Tablet	250872	EXACT			2026-03-12
+713453	81376	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+713455	81376	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+713461	81377	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+713463	81377	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+713505	81389	19063885	amoxicillin 500 MG Disintegrating Oral Tablet	250872	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+713506	81389	19063885	amoxicillin 500 MG Disintegrating Oral Tablet	250872	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 721824	83136	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 721825	83136	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 724778	83825	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 724779	83825	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
-725316	84016	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-725318	84016	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-725903	84172	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-725904	84172	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
+725316	84016	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+725318	84016	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+725903	84172	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+725904	84172	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 725905	84173	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 725906	84173	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
-725907	84174	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
-725908	84174	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
+725907	84174	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+725908	84174	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 726820	84486	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 726821	84486	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
-727557	84719	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-727558	84719	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-727559	84720	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
-727560	84720	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
+727557	84719	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+727558	84719	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+727559	84720	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+727560	84720	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 731203	86025	1713412	amoxicillin 1000 MG Oral Tablet	246281	EXACT			2026-03-12
 731204	86025	1713412	amoxicillin 1000 MG Oral Tablet	246281	EXACT			2026-03-12
 731205	86026	19073188	amoxicillin 500 MG Oral Tablet	308192	EXACT			2026-03-12
@@ -101,8 +101,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 942169	54626	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 650872	66633	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
 671897	66633	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
-694516	70575	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
-694517	70575	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
+694516	70575	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+694517	70575	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 694872	70225	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 694873	70225	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 694994	62460	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
@@ -111,7 +111,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 695001	62338	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 695010	45560	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 695011	45560	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
-695336	51426	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
+695336	51426	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 695337	52015	1713370	amoxicillin 50 MG/ML Oral Suspension	239191	EXACT			2026-03-12
 695537	66254	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
 695538	66633	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
@@ -125,15 +125,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 695605	50944	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
 695606	58840	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
 695607	58840	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
-695639	62339	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
-695640	62339	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT			2026-03-12
+695639	62339	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+695640	62339	19006461	amoxicillin 750 MG Disintegrating Oral Tablet	105154	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 697571	52833	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 697572	52833	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 705689	62610	1713370	amoxicillin 50 MG/ML Oral Suspension	239191	EXACT			2026-03-12
 714030	52015	1713370	amoxicillin 50 MG/ML Oral Suspension	239191	EXACT			2026-03-12
 714147	58840	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
-729238	85401	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
-729239	85401	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT			2026-03-12
+729238	85401	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
+729239	85401	36884763	Amoxicillin 1000 MG Disintegrating Oral Tablet	OMOP993187	EXACT	des_dcp groups standard and disintegrating tablets together; kept explicit formulation note for audit review		2026-03-13
 731083	50944	1713332	amoxicillin	723	BROAD		43215451|Amoxicillin Powder for Oral Suspension|OMOP480457	2026-03-12
 786277	45560	19073187	amoxicillin 500 MG Oral Capsule	308191	EXACT			2026-03-12
 942151	54625	1713370	amoxicillin 50 MG/ML Oral Suspension	239191	EXACT			2026-03-12

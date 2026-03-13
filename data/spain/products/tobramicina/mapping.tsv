@@ -3,16 +3,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 631226	65261	19104455	tobramycin 50 MG/ML Injectable Solution	415080	EXACT			2026-03-12
 653544	57593	19036659	tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobrex]	207850	EXACT			2026-03-12
 658774	68621	42901769	tobramycin 75 MG/ML Inhalation Solution	1314763	BROAD		tobramycin 75 MG/ML Inhalation Solution [Bramitob]	2026-03-12
-672722	64350	902741	tobramycin 3 MG/ML Ophthalmic Solution	313415	EXACT			2026-03-12
-687247	75344	902732	tobramycin 60 MG/ML Inhalation Solution [Tobi]	213194	EXACT			2026-03-12
-688545	75612	902732	tobramycin 60 MG/ML Inhalation Solution [Tobi]	213194	EXACT			2026-03-12
+672722	64350	902741	tobramycin 3 MG/ML Ophthalmic Solution	313415	EXACT			2026-03-13
+687247	75344	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13
+688545	75612	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13
 698670	77752	902741	tobramycin 3 MG/ML Ophthalmic Solution	313415	EXACT			2026-03-12
-716997	82287	902732	tobramycin 60 MG/ML Inhalation Solution [Tobi]	213194	EXACT			2026-03-12
-725932	84187	902732	tobramycin 60 MG/ML Inhalation Solution [Tobi]	213194	EXACT			2026-03-12
+716997	82287	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13
+725932	84187	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13
 753699	63689	902732	tobramycin 60 MG/ML Inhalation Solution [Tobi]	213194	EXACT			2026-03-12
 758037	65261	19104455	tobramycin 50 MG/ML Injectable Solution	415080	EXACT			2026-03-12
 758185	65262	19104455	tobramycin 50 MG/ML Injectable Solution	415080	BROAD		tobramycin 25 MG/ML Injectable Solution	2026-03-12
-977298	57594	19036655	tobramycin 3 MG/ML Ophthalmic Solution [Tobrex]	207846	EXACT			2026-03-12
+977298	57594	19036655	tobramycin 3 MG/ML Ophthalmic Solution [Tobrex]	207846	EXACT			2026-03-13
 600551	64190	902734	tobramycin 1 MG/ML Injectable Solution	242824	EXACT			2026-03-12
 600858	62009	902734	tobramycin 1 MG/ML Injectable Solution	242824	EXACT			2026-03-12
 636175	55313	19104455	tobramycin 50 MG/ML Injectable Solution	415080	EXACT			2026-03-12

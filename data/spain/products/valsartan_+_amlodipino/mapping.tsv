@@ -19,8 +19,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 731465	86132	21141332	Amlodipine 5 MG / valsartan 80 MG Oral Tablet	OMOP372394	BROAD		amlodipine 5 MG / valsartan 80 MG Oral Tablet	2026-03-12
 731597	86184	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
 731599	86185	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
-654849	06370011	1332531	amlodipine 5 MG / valsartan 160 MG Oral Tablet [Exforge]	724891	EXACT			2026-03-12
-654850	06370019	1332529	amlodipine 10 MG / valsartan 160 MG Oral Tablet [Exforge]	724879	EXACT			2026-03-12
+654849	06370011	1332531	amlodipine 5 MG / valsartan 160 MG Oral Tablet [Exforge]	724891	EXACT			2026-03-13
+654850	06370019	1332529	amlodipine 10 MG / valsartan 160 MG Oral Tablet [Exforge]	724879	EXACT			2026-03-13
 654856	06371019	1332525	amlodipine 10 MG / valsartan 160 MG Oral Tablet	722126	EXACT			2026-03-12
 654857	06371011	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12
 654862	06372011	1332527	amlodipine 5 MG / valsartan 160 MG Oral Tablet	722134	EXACT			2026-03-12

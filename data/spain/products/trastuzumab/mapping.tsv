@@ -1,18 +1,18 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-699409	100145002	1366764	5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection	2119714	EXACT			2025-12-04
-720937	1171257001	1396451	trastuzumab-pkrb 150 MG Injection [Herzuma]	2169362	EXACT			2025-12-04
-721158	1171241001	37499507	trastuzumab-dttb 150 MG Injection [Ontruzant]	2289232	EXACT			2025-12-04
-721864	1181281001	37497469	trastuzumab-anns 150 MG Injection [Kanjinti]	2257300	EXACT			2025-12-04
-721865	1181281002	1360973	trastuzumab-anns 21 MG/ML Injectable Solution [Kanjinti]	2174809	EXACT			2025-12-04
-723755	1181295001	739487	trastuzumab-qyyp 150 MG Injection [Trazimera]	2472794	EXACT			2025-12-04
-724095	1171257002	1356001	trastuzumab-pkrb 21 MG/ML Injectable Solution [Herzuma]	2107058	EXACT			2025-12-04
-724482	1181341001	1361272	trastuzumab-dkst 150 MG Injection [Ogivri]	2179758	EXACT			2025-12-04
-725956	1171241002	37499512	trastuzumab-dttb 21 MG/ML Injectable Solution [Ontruzant]	2289237	EXACT			2025-12-04
-726605	1181295002	37498842	trastuzumab-qyyp 21 MG/ML Injectable Solution [Trazimera]	2280737	EXACT			2025-12-04
-726807	1181341002	1361277	trastuzumab-dkst 21 MG/ML Injectable Solution [Ogivri]	2179763	EXACT			2025-12-04
-728786	1201456001	37497466	trastuzumab-anns 150 MG Injection	2257297	EXACT			2025-12-04
-730810	1201456002	1360968	trastuzumab-anns 21 MG/ML Injectable Solution	2174804	EXACT			2025-12-04
-731333	1201456003	1360968	trastuzumab-anns 21 MG/ML Injectable Solution	2174804	EXACT			2025-12-04
-732648	100145002IP	1366765	5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection [Herceptin Hylecta]	2119719	EXACT			2026-03-12
-765018	100145002IP1	1366765	5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection [Herceptin Hylecta]	2119719	EXACT			2026-03-12
-903674	00145001	1594435	trastuzumab 150 MG Injection [Herceptin]	1922512	EXACT			2026-03-12
+699409	100145002	1366765	5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection [Herceptin Hylecta]	2119719	EXACT			2026-03-13
+720937	1171257001	1396448	trastuzumab-pkrb 150 MG Injection	2169359	EXACT			2026-03-13
+721158	1171241001	37499502	trastuzumab-dttb 150 MG Injection	2289227	EXACT			2026-03-13
+721864	1181281001	37497466	trastuzumab-anns 150 MG Injection	2257297	EXACT			2026-03-13
+721865	1181281002	1360968	trastuzumab-anns 21 MG/ML Injectable Solution	2174804	BROAD		1 vial trastuzumab-anns 21 MG/ML Injectable Solution [Kanjinti]	2026-03-13
+723755	1181295001	739484	trastuzumab-qyyp 150 MG Injection	2472791	EXACT			2026-03-13
+724095	1171257002	1355996	trastuzumab-pkrb 21 MG/ML Injectable Solution	2107053	BROAD		1 vial trastuzumab-pkrb 21 MG/ML Injectable Solution [Herzuma]	2026-03-13
+724482	1181341001	1361267	trastuzumab-dkst 150 MG Injection	2179753	EXACT			2026-03-13
+725956	1171241002	37499509	trastuzumab-dttb 21 MG/ML Injectable Solution	2289234	BROAD		1 vial trastuzumab-dttb 21 MG/ML Injectable Solution [Ontruzant]	2026-03-13
+726605	1181295002	37498837	trastuzumab-qyyp 21 MG/ML Injectable Solution	2280732	BROAD		1 vial trastuzumab-qyyp 21 MG/ML Injectable Solution [Trazimera]	2026-03-13
+726807	1181341002	1361274	trastuzumab-dkst 21 MG/ML Injectable Solution	2179760	BROAD		1 vial trastuzumab-dkst 21 MG/ML Injectable Solution [Ogivri]	2026-03-13
+728786	1201456001	1465044	trastuzumab-strf 150 MG Injection	2700718	EXACT			2026-03-13
+730810	1201456002	1465051	trastuzumab-strf 21 MG/ML Injectable Solution	2700727	BROAD		1 vial trastuzumab-strf 21 MG/ML Injectable Solution [Zercepac]	2026-03-13
+731333	1201456003	1465051	trastuzumab-strf 21 MG/ML Injectable Solution	2700727	BROAD		1 vial trastuzumab-strf 21 MG/ML Injectable Solution [Zercepac]	2026-03-13
+732648	100145002IP	1366765	5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection [Herceptin Hylecta]	2119719	EXACT			2026-03-13
+765018	100145002IP1	1366765	5 ML hyaluronidase-oysk 2000 UNT/ML / trastuzumab-oysk 120 MG/ML Injection [Herceptin Hylecta]	2119719	EXACT			2026-03-13
+903674	00145001	1594435	trastuzumab 150 MG Injection [Herceptin]	1922512	EXACT			2026-03-13

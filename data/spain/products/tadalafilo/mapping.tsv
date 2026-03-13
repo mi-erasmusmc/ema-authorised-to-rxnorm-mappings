@@ -118,11 +118,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 759315	88328	19102546	tadalafil 5 MG Oral Tablet	403957	EXACT			2026-03-12
 762961	82161	19102546	tadalafil 5 MG Oral Tablet	403957	EXACT			2026-03-12
 763924	82160	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2026-03-12
-765102	89621	1336975	tadalafil 10 MG Oral Tablet	484814	BROAD		No RxNorm concept for tadalafil 10 MG orally disintegrating tablet	2026-03-12
+765102	89621	1734744	tadalafil 10 MG Chewable Tablet	2687291	EXACT	Spanish bucodispersable/liotab presentation aligned to the RxNorm chewable tablet concept used for the matching 5 mg and 20 mg rows in this folder		2026-03-13
 765103	89622	1734752	tadalafil 20 MG Chewable Tablet	2687299	EXACT			2026-03-12
 765104	89622	1734752	tadalafil 20 MG Chewable Tablet	2687299	EXACT			2026-03-12
 765105	89623	1734755	tadalafil 5 MG Chewable Tablet	2687302	EXACT			2026-03-12
-765144	89634	1336975	tadalafil 10 MG Oral Tablet	484814	BROAD		No RxNorm concept for tadalafil 10 MG orally disintegrating tablet	2026-03-12
+765144	89634	1734744	tadalafil 10 MG Chewable Tablet	2687291	EXACT	Spanish bucodispersable/liotab presentation aligned to the RxNorm chewable tablet concept used for the matching 5 mg and 20 mg rows in this folder		2026-03-13
 765145	89635	1734752	tadalafil 20 MG Chewable Tablet	2687299	EXACT			2026-03-12
 765146	89635	1734752	tadalafil 20 MG Chewable Tablet	2687299	EXACT			2026-03-12
 765147	89636	1734755	tadalafil 5 MG Chewable Tablet	2687302	EXACT			2026-03-12
@@ -139,12 +139,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 765786	114961001	1336975	tadalafil 10 MG Oral Tablet	484814	EXACT			2025-12-04
 768040	90424	1336975	tadalafil 10 MG Oral Tablet	484814	EXACT			2026-03-12
 660439	02237008	19102899	tadalafil 5 MG Oral Tablet [Cialis]	404711	EXACT			2026-03-12
-664452	08476006	1336979	Pulmonary Hypertension tadalafil 20 MG Oral Tablet [Adcirca]	849866	EXACT			2026-03-12
-665912	02237003IP1	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
-677662	02237005	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
-706965	02237004IP2	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
+664452	08476006	1336979	Pulmonary Hypertension tadalafil 20 MG Oral Tablet [Adcirca]	849866	EXACT	Spain brand matches RxNorm Adcirca branded tablet concept		2026-03-13
+665912	02237003IP1	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
+677662	02237005	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
+706965	02237004IP2	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
 706969	02237001IP	19102204	tadalafil 10 MG Oral Tablet [Cialis]	402096	EXACT			2026-03-12
-706970	02237003IP2	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
+706970	02237003IP2	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
 707069	80039	19102546	tadalafil 5 MG Oral Tablet	403957	EXACT			2026-03-12
 707070	80040	1336975	tadalafil 10 MG Oral Tablet	484814	EXACT			2026-03-12
 707071	80041	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2026-03-12
@@ -164,16 +164,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 720509	82812	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2026-03-12
 720511	82813	19102546	tadalafil 5 MG Oral Tablet	403957	EXACT			2026-03-12
 721906	82575	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2026-03-12
-723611	02237003IP3	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
+723611	02237003IP3	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
 724986	83870	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2026-03-12
 724987	83870	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2026-03-12
 724988	83871	1336975	tadalafil 10 MG Oral Tablet	484814	EXACT			2026-03-12
 724990	83872	19102546	tadalafil 5 MG Oral Tablet	403957	EXACT			2026-03-12
 728134	84933	19102546	tadalafil 5 MG Oral Tablet	403957	EXACT			2026-03-12
-732109	02237003IP4	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
-763321	02237003IP5	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
-764308	02237003IP6	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
+732109	02237003IP4	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
+763321	02237003IP5	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
+764308	02237003IP6	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
 767120	02237001IP2	19102204	tadalafil 10 MG Oral Tablet [Cialis]	402096	EXACT			2026-03-12
 872234	02237001	19102204	tadalafil 10 MG Oral Tablet [Cialis]	402096	EXACT			2026-03-12
-872291	02237003	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
-872309	02237004	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT			2026-03-12
+872291	02237003	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
+872309	02237004	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13

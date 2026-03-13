@@ -65,6 +65,7 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
    - `NRO_MISMATCH`: `nro_definitivo` in `mapping.tsv` disagrees with `data.tsv`
    - `DUPLICATE_DATA`: duplicate `cod_nacion` in `data.tsv`
    - `DUPLICATE_MAPPING`: duplicate `cod_nacion` in `mapping.tsv`
+   - `INCONSISTENT_CONCEPT`: EXACT rows sharing the same clinical description and dose form but mapped to different concept_ids. For generics (`sw_generico=1`) this is always a real error. For branded products the check is per-brand key from `des_nomco`, not per manufacturer, so it only flags conflicts within the same branded line — **do not resolve by collapsing to a plain non-suffixed concept**. When the folder contains biosimilars, always read the biosimilar reference in `.claude/skills/map-drugs/biosimilars/` and apply the correct FDA-suffixed unbranded concept (Scenario 1) or BROAD+suggestion (Scenario 2). Never strip FDA suffixes (`-atto`, `-adaz`, `-fkjp`, etc.) in the name of harmonisation.
 
 2. Read `data.tsv` to understand the presentation set, strengths, volumes, and flags for the product.
 
@@ -124,10 +125,11 @@ It only selects folders where every missing row can be filled from an existing `
 ## Spain-specific Notes
 
 - Generics: if `sw_generico=1`, map to non-branded RxNorm concepts only.
-- Branded products: only use branded RxNorm concepts when `sw_generico=0` and the Spain brand matches the RxNorm brand.
+- Branded products: when `sw_generico=0` and RxNorm has the matching brand, use the branded RxNorm concept and keep it. Do not replace a correct branded concept with a generic one for harmonisation. Only fall back to a generic concept when no matching branded RxNorm concept exists.
 - Spanish names: `data.tsv` may contain Spanish ingredient names such as `acido zoledronico`; search RxNorm with the English ingredient name.
+- Spanish solid-dose form nuance: `COMPRIMIDO BUCODISPERSABLE` or `liotab` rows sometimes align best to an RxNorm chewable-tablet concept rather than a plain oral-tablet concept. If RxNorm exposes the matching strength as `Chewable Tablet`, prefer that exact concept and record the rationale in `comment` instead of downgrading automatically to `BROAD`.
 - Salt/base strength decisions: when Spain labels the clinical presentation in base terms in `des_dcp` or `des_dosific`, prefer the RxNorm concept that matches the labeled clinical strength and dose form, even if `principios_activos` lists a salt form. Check `weight_conversions.tsv` when the salt/base relationship could change the apparent strength, and use `comment` only if the choice would not be obvious to a later reviewer.
 - Single-use injectables: when `des_dcp` includes a volume such as `2 ml` or `5 ml`, prefer the volume-specific RxNorm `Injection` concept if one exists. Treat a concentration-only concept such as `phenytoin sodium 50 MG/ML Injection` as a review signal, not the default exact match.
 - Herbal products: if `sw_base_a_plantas=1`, still map to the best available RxNorm concept. When RxNorm only has an ingredient-, extract-, or dose-form-level botanical concept, use that concept with `mapping_type = BROAD` and populate `suggestion` with the ideal full Spanish presentation.
 - Radiopharmaceuticals: if `radiofarmaco=1`, follow the specialist handling in `map-drugs`.
-- Biosimilars: if `biosimilar=1`, follow the biosimilar rules and references in `map-drugs`.
+- Biosimilars: if `biosimilar=1`, follow the biosimilar rules and references in `map-drugs`. Biosimilar folders will legitimately have many different concept_ids for similar presentations because each biosimilar has its own FDA-suffixed INN (e.g. `adalimumab-atto`, `adalimumab-adaz`). **Never harmonise biosimilar rows to a plain non-suffixed concept** — doing so loses the biosimilar-specific identity. Check `.claude/skills/map-drugs/biosimilars/<inn>.tsv` for the EU→FDA name mapping before touching any biosimilar row.
