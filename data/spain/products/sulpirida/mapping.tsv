@@ -2,3 +2,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 673058	73195	19060498	sulpiride 50 MG Oral Capsule	246590	EXACT			2026-03-12
 693911	48558	19136627	sulpiride 200 MG Oral Tablet	141936	EXACT			2026-03-12
 811844	51836	19060498	sulpiride 50 MG Oral Capsule	246590	EXACT			2026-03-12
+700622	48557	41270748	Sulpiride 100 MG Injectable Solution	OMOP2468710	EXACT			2026-03-13
+766410	50037	42483063	Sulpiride 5 MG/ML Oral Suspension	OMOP418559	EXACT			2026-03-13
+766428	50049	19060498	sulpiride 50 MG Oral Capsule	246590	EXACT			2026-03-13

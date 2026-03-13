@@ -1,4 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-674226	61382	42929751	Levodropropizine 6 MG/ML Oral Suspension	OMOP4656527	EXACT			
-704904	79427	42929751	Levodropropizine 6 MG/ML Oral Suspension	OMOP4656527	EXACT			
-714220	61382	42929751	Levodropropizine 6 MG/ML Oral Suspension	OMOP4656527	EXACT			
+674226	61382	42929751	Levodropropizine 6 MG/ML Oral Suspension	OMOP4656527	EXACT			2026-03-13
+704904	79427	42929751	Levodropropizine 6 MG/ML Oral Suspension	OMOP4656527	EXACT			2026-03-13
+714220	61382	42929751	Levodropropizine 6 MG/ML Oral Suspension	OMOP4656527	EXACT			2026-03-13
+654699	60116	42929751	Levodropropizine 6 MG/ML Oral Suspension	OMOP4656527	EXACT			2026-03-13
+696138	60116	42929751	Levodropropizine 6 MG/ML Oral Suspension	OMOP4656527	EXACT			2026-03-13
+696146	60115	36887722	dipropizine, (S)-isomer 60 MG/ML Oral Solution	OMOP1005589	EXACT	Levodropropizine is the S-isomer of dropropizine; mapped to the strength-specific S-isomer oral-solution concept.		2026-03-13

@@ -1,10 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-658682	62141	40173288	octreotide 30 MG Injection [Sandostatin]	898603	EXACT			
-658690	62140	40173296	octreotide 20 MG Injection [Sandostatin]	898591	EXACT			
-658708	62139	40173292	octreotide 10 MG Injection [Sandostatin]	898607	EXACT			
-660353	69524	46234197	octreotide 0.1 MG/ML Injection [Sandostatin]	1654352	EXACT			
-660354	69525	46234192	octreotide Injection	1654342	BROAD			
-660355	69526	46234198	octreotide 0.5 MG/ML Injection	1654355	EXACT			
-683187	74584	36891643	Octreotide 0.1 MG/ML Injectable Solution	OMOP999439				
-772657	59561	46234195	octreotide 0.05 MG/ML Injection [Sandostatin]	1654347	EXACT			
-990499	59559	46234196	octreotide 0.1 MG/ML Injection	1654351	EXACT			
+658682	62141	40173288	octreotide 30 MG Injection [Sandostatin]	898603	EXACT			2026-03-13
+658690	62140	40173296	octreotide 20 MG Injection [Sandostatin]	898591	EXACT			2026-03-13
+658708	62139	40173292	octreotide 10 MG Injection [Sandostatin]	898607	EXACT			2026-03-13
+660353	69524	19079138	1 ML octreotide 0.1 MG/ML Injection	312069	EXACT			2026-03-13
+660354	69525	46234192	octreotide Injection	1654342	BROAD	RxNorm does not expose the exact 0.2 MG/ML single-use injection presentation.	1 ML octreotide 0.2 MG/ML Injection	2026-03-13
+660355	69526	19079139	1 ML octreotide 0.5 MG/ML Injection	312070	EXACT			2026-03-13
+683187	74584	19079138	1 ML octreotide 0.1 MG/ML Injection	312069	EXACT			2026-03-13
+772657	59561	19034808	1 ML octreotide 0.05 MG/ML Injection [Sandostatin]	207194	EXACT			2026-03-13
+990499	59559	19034832	1 ML octreotide 0.1 MG/ML Injection [Sandostatin]	207198	EXACT			2026-03-13
+660352	69523	19079137	1 ML octreotide 0.05 MG/ML Injection	312068	EXACT			2026-03-13
+661869	70240	19079138	1 ML octreotide 0.1 MG/ML Injection	312069	EXACT			2026-03-13
+661870	70238	19079137	1 ML octreotide 0.05 MG/ML Injection	312068	EXACT			2026-03-13

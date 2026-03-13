@@ -1,10 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606130	75665	906891	metoclopramide 10 MG Oral Tablet	311666				2026-03-12
-688746	75665	906891	metoclopramide 10 MG Oral Tablet	311666				2026-03-12
-697902	75665	906891	metoclopramide 10 MG Oral Tablet	311666				2026-03-12
+606130	75665	906891	metoclopramide 10 MG Oral Tablet	311666	EXACT			2026-03-13
+688746	75665	906891	metoclopramide 10 MG Oral Tablet	311666	EXACT			2026-03-13
+697902	75665	906891	metoclopramide 10 MG Oral Tablet	311666	EXACT			2026-03-13
 701782	78556	19078921	2 ML metoclopramide 5 MG/ML Injection	311670	EXACT			2026-03-12
 725531	40256	19078921	2 ML metoclopramide 5 MG/ML Injection	311670	EXACT			2026-03-12
 764645	78556	19078921	2 ML metoclopramide 5 MG/ML Injection	311670	EXACT			2026-03-12
-956557	41446	19005927	metoclopramide 10 MG Oral Tablet [Primperan]	104881				2026-03-12
-958991	41446	19005927	metoclopramide 10 MG Oral Tablet [Primperan]	104881				2026-03-12
+956557	41446	19005927	metoclopramide 10 MG Oral Tablet [Primperan]	104881	EXACT			2026-03-13
+958991	41446	19005927	metoclopramide 10 MG Oral Tablet [Primperan]	104881	EXACT			2026-03-13
 607817	89715	19078921	2 ML metoclopramide 5 MG/ML Injection	311670	EXACT			2026-03-12
+659856	69265	19005929	metoclopramide 1 MG/ML Oral Solution	104884	EXACT			2026-03-13
+659857	69266	19005929	metoclopramide 1 MG/ML Oral Solution	104884	EXACT			2026-03-13
+704398	40257	19128685	metoclopramide 1 MG/ML Oral Solution [Primperan]	755481	EXACT			2026-03-13

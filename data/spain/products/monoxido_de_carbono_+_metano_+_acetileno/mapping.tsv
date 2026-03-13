@@ -1,5 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-722096	83217	44056431	Acetylene / Carbon Monoxide / Neon / Nitrogen / Oxygen Gas for Inhalation	OMOP1051062	BROAD			
-722097	83217	44056431	Acetylene / Carbon Monoxide / Neon / Nitrogen / Oxygen Gas for Inhalation	OMOP1051062	BROAD			
-722098	83217	44056431	Acetylene / Carbon Monoxide / Neon / Nitrogen / Oxygen Gas for Inhalation	OMOP1051062	BROAD			
-722099	83217	44056431	Acetylene / Carbon Monoxide / Neon / Nitrogen / Oxygen Gas for Inhalation	OMOP1051062	BROAD			
+722096	83217	44056431	Acetylene / Carbon Monoxide / Neon / Nitrogen / Oxygen Gas for Inhalation	OMOP1051062	BROAD	RxNorm does not expose the exact carbon monoxide/methane/acetylene medicinal gas mixture.	carbon monoxide 0.3 % / methane 0.3 % / acetylene 0.3 % Gas for Inhalation	2026-03-13
+722097	83217	44056431	Acetylene / Carbon Monoxide / Neon / Nitrogen / Oxygen Gas for Inhalation	OMOP1051062	BROAD	RxNorm does not expose the exact carbon monoxide/methane/acetylene medicinal gas mixture.	carbon monoxide 0.3 % / methane 0.3 % / acetylene 0.3 % Gas for Inhalation	2026-03-13
+722098	83217	44056431	Acetylene / Carbon Monoxide / Neon / Nitrogen / Oxygen Gas for Inhalation	OMOP1051062	BROAD	RxNorm does not expose the exact carbon monoxide/methane/acetylene medicinal gas mixture.	carbon monoxide 0.3 % / methane 0.3 % / acetylene 0.3 % Gas for Inhalation	2026-03-13
+722099	83217	44056431	Acetylene / Carbon Monoxide / Neon / Nitrogen / Oxygen Gas for Inhalation	OMOP1051062	BROAD	RxNorm does not expose the exact carbon monoxide/methane/acetylene medicinal gas mixture.	carbon monoxide 0.3 % / methane 0.3 % / acetylene 0.3 % Gas for Inhalation	2026-03-13
+710391	80759	19101933	carbon monoxide 0.3 %	393082	BROAD	RxNorm does not expose the full carbon monoxide/methane/acetylene medicinal gas mixture.	carbon monoxide 0.3 % / methane 0.3 % / acetylene 0.3 % Gas for Inhalation	2026-03-13
+710394	80759	19101933	carbon monoxide 0.3 %	393082	BROAD	RxNorm does not expose the full carbon monoxide/methane/acetylene medicinal gas mixture.	carbon monoxide 0.3 % / methane 0.3 % / acetylene 0.3 % Gas for Inhalation	2026-03-13
+765371	89708	19101933	carbon monoxide 0.3 %	393082	BROAD	RxNorm does not expose the full carbon monoxide/methane/acetylene medicinal gas mixture.	carbon monoxide 0.3 % / methane 0.3 % / acetylene 0.3 % Gas for Inhalation	2026-03-13

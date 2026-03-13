@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-684852	60769	19103606	calcium acetate 500 MG Oral Capsule	411110	EXACT			
-684860	60769	19103606	calcium acetate 500 MG Oral Capsule	411110	EXACT			
+684852	60769	19103606	calcium acetate 500 MG Oral Capsule	411110	EXACT			2026-03-13
+684860	60769	19103606	calcium acetate 500 MG Oral Capsule	411110	EXACT			2026-03-13
+841957	62833	40238073	calcium acetate 133 MG/ML Oral Solution	1099804	BROAD	Spain source is powder for oral suspension sachet, not the finished oral-solution presentation.	calcium acetate 2500 MG Powder for Oral Suspension	2026-03-13
+842138	62833	40238073	calcium acetate 133 MG/ML Oral Solution	1099804	BROAD	Spain source is powder for oral suspension sachet, not the finished oral-solution presentation.	calcium acetate 2500 MG Powder for Oral Suspension	2026-03-13

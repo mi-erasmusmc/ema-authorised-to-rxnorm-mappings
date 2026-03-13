@@ -1,3 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-706403	79829	1395560	fludarabine phosphate 25 MG/ML	328431	EXACT			
-783076	64900	19133315	fludarabine phosphate 10 MG Oral Tablet	828706	EXACT			
+706403	79829	1395560	fludarabine phosphate 25 MG/ML	328431	BROAD	Spain source is concentrate for solution for injection/infusion; use the concentration-level concept conservatively.	2 ML fludarabine phosphate 25 MG/ML Concentrate for Solution for Injection/Infusion	2026-03-13
+783076	64900	19133315	fludarabine phosphate 10 MG Oral Tablet	828706	EXACT			2026-03-13
+659469	69052	35605490	2 ML fludarabine phosphate 25 MG/ML Injection	1740865	BROAD	Spain source is concentrate for solution for injection/infusion, not the finished injection presentation.	2 ML fludarabine phosphate 25 MG/ML Concentrate for Solution for Injection/Infusion	2026-03-13
+663599	70864	35605489	fludarabine phosphate 50 MG Injection	1740864	BROAD	Spain source is powder for solution for injection/infusion, not the finished injection presentation.	fludarabine phosphate 50 MG Powder for Solution for Injection/Infusion	2026-03-13
+698701	77766	35605490	2 ML fludarabine phosphate 25 MG/ML Injection	1740865	BROAD	Spain source is concentrate for solution for injection/infusion, not the finished injection presentation.	2 ML fludarabine phosphate 25 MG/ML Concentrate for Solution for Injection/Infusion	2026-03-13

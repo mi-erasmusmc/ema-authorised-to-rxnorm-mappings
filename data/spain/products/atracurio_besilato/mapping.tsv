@@ -1,5 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-721027	64476	40173644	atracurium besylate 10 MG/ML Injectable Solution	966768				
-721134	64476	40173644	atracurium besylate 10 MG/ML Injectable Solution	966768				
-973958	57335	40173645	atracurium besylate 10 MG/ML Injectable Solution [Tracrium]	966770				
-973966	57335	40173645	atracurium besylate 10 MG/ML Injectable Solution [Tracrium]	966770				
+721027	64476	40173644	atracurium besylate 10 MG/ML Injectable Solution	966768				2026-03-13
+721134	64476	40173644	atracurium besylate 10 MG/ML Injectable Solution	966768				2026-03-13
+973958	57335	40173645	atracurium besylate 10 MG/ML Injectable Solution [Tracrium]	966770				2026-03-13
+973966	57335	40173645	atracurium besylate 10 MG/ML Injectable Solution [Tracrium]	966770				2026-03-13
+857029	62972	43297700	2.5 ML Atracurium 10 MG/ML Injection	OMOP561860	EXACT			2026-03-13
+857235	62972	35603047	5 ML atracurium besylate 10 MG/ML Injection	1718913	EXACT			2026-03-13

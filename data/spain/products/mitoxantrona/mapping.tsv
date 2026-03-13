@@ -1,2 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-974931	57408	19042140	mitoxantrone 2 MG/ML [Novantrone]	564114	EXACT			
+974931	57408	19042140	mitoxantrone 2 MG/ML [Novantrone]	564114	EXACT			2026-03-13
+706161	79737	21126954	5 ML Mitoxantrone 2 MG/ML Injection	OMOP307573	BROAD	Spain source is concentrate for solution for infusion; RxNorm exposes the closest single-use 5 mL injection presentation.	5 ML Mitoxantrone 2 MG/ML Concentrate for Solution for Infusion	2026-03-13
+706162	79737	21137004	10 ML Mitoxantrone 2 MG/ML Injection	OMOP310381	BROAD	Spain source is concentrate for solution for infusion; RxNorm exposes the closest single-use 10 mL injection presentation.	10 ML Mitoxantrone 2 MG/ML Concentrate for Solution for Infusion	2026-03-13
+738922	66166	21137004	10 ML Mitoxantrone 2 MG/ML Injection	OMOP310381	BROAD	Spain source is concentrate for solution for infusion; RxNorm exposes the closest single-use 10 mL injection presentation.	10 ML Mitoxantrone 2 MG/ML Concentrate for Solution for Infusion	2026-03-13

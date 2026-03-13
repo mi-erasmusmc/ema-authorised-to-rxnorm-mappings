@@ -1,2 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-722162	83231	36259265	Amlodipine / Indapamide / Perindopril Oral Tablet	OMOP3110140	BROAD			
+722162	83231	36259265	Amlodipine / Indapamide / Perindopril Oral Tablet	OMOP3110140	BROAD	RxNorm does not expose the exact arginine-labeled 7 mg / 5 mg / 2.5 mg immediate-release tablet.	amlodipine 5 MG / indapamide 2.5 MG / perindopril arginine 7 MG Oral Tablet	2026-03-13
+763951	180074	36259265	Amlodipine / Indapamide / Perindopril Oral Tablet	OMOP3110140	BROAD	RxNorm does not expose the exact arginine-labeled 7 mg / 5 mg / 2.5 mg immediate-release tablet.	amlodipine 5 MG / indapamide 2.5 MG / perindopril arginine 7 MG Oral Tablet	2026-03-13
+766271	180074IP	36259265	Amlodipine / Indapamide / Perindopril Oral Tablet	OMOP3110140	BROAD	RxNorm does not expose the exact arginine-labeled 7 mg / 5 mg / 2.5 mg immediate-release tablet.	amlodipine 5 MG / indapamide 2.5 MG / perindopril arginine 7 MG Oral Tablet	2026-03-13
+767288	90226	36259265	Amlodipine / Indapamide / Perindopril Oral Tablet	OMOP3110140	BROAD	RxNorm does not expose the exact arginine-labeled 7 mg / 5 mg / 2.5 mg immediate-release tablet.	amlodipine 5 MG / indapamide 2.5 MG / perindopril arginine 7 MG Oral Tablet	2026-03-13

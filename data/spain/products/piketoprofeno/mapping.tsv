@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+719468	60028	19133329	piketoprofen	82910	BROAD	Piketoprofen dose form/strength not in RxNorm; mapped to ingredient concept	piketoprofen 18 MG/G Topical Gel	2026-03-13
+953273	55832	19133329	piketoprofen	82910	BROAD	Piketoprofen dose form/strength not in RxNorm; mapped to ingredient concept	piketoprofen 18 MG/G Topical Cream	2026-03-13
+954495	55909	19133329	piketoprofen	82910	BROAD	Piketoprofen dose form/strength not in RxNorm; mapped to ingredient concept	piketoprofen 33.28 MG/ML Topical Solution	2026-03-13

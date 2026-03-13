@@ -1,5 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 704227	114951001	1333361	10 ML busulfan 6 MG/ML Injection	253113	EXACT			2025-12-04
-712342	81189	36785619	Busulfan Intravenous Solution	OMOP4773900	BROAD			
-721819	83135	36785619	Busulfan Intravenous Solution	OMOP4773900	BROAD			
-917575	33323	19007232	busulfan 2 MG Oral Tablet [Myleran]	105551	EXACT			
+712342	81189	36785619	Busulfan Intravenous Solution	OMOP4773900	BROAD	RxNorm does not expose the exact 10 mL concentrate-for-solution-for-infusion presentation.	10 ML busulfan 6 MG/ML Concentrate for Solution for Infusion	2026-03-13
+721819	83135	36785619	Busulfan Intravenous Solution	OMOP4773900	BROAD	RxNorm does not expose the exact 10 mL concentrate-for-solution-for-infusion presentation.	10 ML busulfan 6 MG/ML Concentrate for Solution for Infusion	2026-03-13
+917575	33323	19007232	busulfan 2 MG Oral Tablet [Myleran]	105551	EXACT			2026-03-13
+660371	03254002	21087972	10 ML Busulfan 6 MG/ML Injection [Busilvex]	OMOP310498	EXACT			2026-03-13
+730110	85690	1333361	10 ML busulfan 6 MG/ML Injection	253113	EXACT			2026-03-13

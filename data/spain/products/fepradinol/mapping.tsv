@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+853457	60170	40048583	ibuprofen Topical Gel	377956	BROAD	Fepradinol is not in RxNorm; mapped to ibuprofen topical gel as closest class-level concept	fepradinol 60 MG/G Topical Gel	2026-03-13
+975995	57498	40048586	ibuprofen Topical Spray	377325	BROAD	Fepradinol is not in RxNorm; mapped to ibuprofen topical spray as closest class-level concept	fepradinol 60 MG/ML Topical Solution	2026-03-13
