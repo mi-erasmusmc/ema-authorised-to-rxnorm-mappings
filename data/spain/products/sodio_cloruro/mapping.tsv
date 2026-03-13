@@ -35,7 +35,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606776	67698	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-03-12
 606777	67698	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
 606819	65306	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-03-12
-607133	61987	43297022	10 ML Sodium Chloride 200 MG/ML Injection	OMOP563397	BROAD	20% concentrate for solution for perfusion; RxNorm only exposes Injection, not concentrate-for-perfusion.	10 ML Sodium Chloride 200 MG/ML Concentrate for Solution for Infusion	2026-03-13
+607133	61987	43297022	10 ML Sodium Chloride 200 MG/ML Injection	OMOP563397	EXACT	20% NaCl concentrate for infusion in 10 mL vial; Injection dose form covers single-use sterile solutions including concentrates for parenteral use		2026-03-13
 607187	65306	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
 607188	58449	40221390	20 ML sodium chloride 9 MG/ML Injection	1807638	EXACT			2026-03-12
 607189	58449	40221389	10 ML sodium chloride 9 MG/ML Injection	1807637	EXACT			2026-03-12

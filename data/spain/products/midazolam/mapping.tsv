@@ -2,7 +2,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 600337	63936	19078924	midazolam 1 MG/ML Injectable Solution	311700	EXACT			2026-03-12
 600340	65796	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 602480	65314	46287621	1 ML midazolam 5 MG/ML Injection	1666814	EXACT			2026-03-12
-602481	65314	46287622	midazolam 5 MG/ML Injection	1666815	BROAD	100mg/20ml=5mg/ml; no 20ML midazolam 5MG/ML Injection in RxNorm	1 ML midazolam 5 MG/ML Injection	2026-03-12
+602481	65314	46287622	midazolam 5 MG/ML Injection	1666815	BROAD	100mg/20ml=5mg/ml; no 20ML midazolam 5MG/ML Injection in RxNorm	20 ML midazolam 5 MG/ML Injection	2026-03-13
 602567	68898	19078924	midazolam 1 MG/ML Injectable Solution	311700	EXACT			2026-03-12
 602568	68903	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 607320	68903	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
@@ -13,26 +13,26 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 623298	65375	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 624437	65796	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 626861	65415	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
-650887	59023	708300	midazolam 7.5 MG Oral Tablet	199775	BROAD	DORMICUM brand not in RxNorm; mapped to clinical drug concept	midazolam 7.5 MG Oral Tablet [Dormicum]	2026-03-12
+650887	59023	708300	midazolam 7.5 MG Oral Tablet	199775	EXACT			2026-03-13
 658537	65314	46287621	1 ML midazolam 5 MG/ML Injection	1666814	EXACT			2026-03-12
-658538	65314	19078925	midazolam 5 MG/ML Injectable Solution	311702	BROAD	100mg/20ml=5mg/ml; no 20ML midazolam 5MG/ML Injection in RxNorm	20 ML midazolam 5 MG/ML Concentrate for Solution for Infusion	2026-03-12
+658538	65314	19078925	midazolam 5 MG/ML Injectable Solution	311702	BROAD	100mg/20ml=5mg/ml; no 20ML midazolam 5MG/ML Injectable Solution in RxNorm	20 ML midazolam 5 MG/ML Injectable Solution	2026-03-13
 659230	68903	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 667898	72015	19078924	midazolam 1 MG/ML Injectable Solution	311700	EXACT			2026-03-12
 667900	72016	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 667901	72016	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 667902	72016	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
-688058	11709004	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	BUCCOLAM 10mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 10 MG Buccal Solution in Prefilled Syringe [Buccolam]	2026-03-12
-688059	11709001	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	BUCCOLAM 2.5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 2.5 MG Buccal Solution in Prefilled Syringe [Buccolam]	2026-03-12
-688063	11709002	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	BUCCOLAM 5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 5 MG Buccal Solution in Prefilled Syringe [Buccolam]	2026-03-12
-688064	11709003	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	BUCCOLAM 7.5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 7.5 MG Buccal Solution in Prefilled Syringe [Buccolam]	2026-03-12
+688058	11709004	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	BUCCOLAM 10mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 10 MG Oral Solution [Buccolam]	2026-03-13
+688059	11709001	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	BUCCOLAM 2.5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 2.5 MG Oral Solution [Buccolam]	2026-03-13
+688063	11709002	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	BUCCOLAM 5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 5 MG Oral Solution [Buccolam]	2026-03-13
+688064	11709003	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	BUCCOLAM 7.5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 7.5 MG Oral Solution [Buccolam]	2026-03-13
 697451	72016	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 699331	68898	19078924	midazolam 1 MG/ML Injectable Solution	311700	EXACT			2026-03-12
 699332	68898	19078924	midazolam 1 MG/ML Injectable Solution	311700	EXACT			2026-03-12
 729488	85478	46287620	5 ML midazolam 1 MG/ML Injection	1666800	EXACT	Prefilled syringe 1mg/ml 5ml; exact volume match in RxNorm		2026-03-12
-730340	85756	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	OROXELAM 10mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 10 MG Buccal Solution in Prefilled Syringe [Oroxelam]	2026-03-12
-730343	85757	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	OROXELAM 2.5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 2.5 MG Buccal Solution in Prefilled Syringe [Oroxelam]	2026-03-12
-730344	85758	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	OROXELAM 5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 5 MG Buccal Solution in Prefilled Syringe [Oroxelam]	2026-03-12
-730345	85759	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	OROXELAM 7.5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 7.5 MG Buccal Solution in Prefilled Syringe [Oroxelam]	2026-03-12
+730340	85756	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	OROXELAM 10mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 10 MG Oral Solution [Oroxelam]	2026-03-13
+730343	85757	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	OROXELAM 2.5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 2.5 MG Oral Solution [Oroxelam]	2026-03-13
+730344	85758	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	OROXELAM 5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 5 MG Oral Solution [Oroxelam]	2026-03-13
+730345	85759	19105755	midazolam 2 MG/ML Oral Solution	422410	BROAD	OROXELAM 7.5mg buccal solution; no midazolam buccal dose-specific concept in RxNorm	midazolam 7.5 MG Oral Solution [Oroxelam]	2026-03-13
 746487	62435	19078924	midazolam 1 MG/ML Injectable Solution	311700	EXACT			2026-03-12
 746966	62436	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12
 782052	65796	19078925	midazolam 5 MG/ML Injectable Solution	311702	EXACT			2026-03-12

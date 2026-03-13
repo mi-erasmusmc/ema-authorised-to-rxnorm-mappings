@@ -12,6 +12,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 756926	1221629001	42629353	10 ML doxorubicin hydrochloride liposome 2 MG/ML Injection	1790115	EXACT			2026-03-13
 802769	59739	42629348	25 ML doxorubicin hydrochloride 2 MG/ML Injection	1790100	EXACT			2026-03-13
 900704	96011003	42629361	25 ML doxorubicin hydrochloride liposome 2 MG/ML Injection	1790127	EXACT			2026-03-13
-919183	00141001	42629361	25 ML doxorubicin hydrochloride liposome 2 MG/ML Injection	1790127	BROAD	Source is non-pegylated liposomal doxorubicin 50 MG for infusion; RxNorm exposes the closest 25 ML liposomal 2 MG/ML injection concept.	doxorubicin liposome 50 MG Injection for Infusion	2026-03-13
+919183	00141001	42629361	25 ML doxorubicin hydrochloride liposome 2 MG/ML Injection	1790127	BROAD	Source is non-pegylated liposomal doxorubicin 50 MG for infusion; RxNorm exposes the closest 25 ML liposomal 2 MG/ML injection concept.	doxorubicin hydrochloride liposome 50 MG Injection	2026-03-13
 958314	56172	42629348	25 ML doxorubicin hydrochloride 2 MG/ML Injection	1790100	EXACT			2026-03-13
 999958	61085	42629348	25 ML doxorubicin hydrochloride 2 MG/ML Injection	1790100	EXACT			2026-03-13
