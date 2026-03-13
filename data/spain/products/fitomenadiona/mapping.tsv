@@ -1,4 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-627935	27262	19036623	vitamin K1 10 MG/ML Injectable Solution [Konakion]	207833				
-652206	27262	19036623	vitamin K1 10 MG/ML Injectable Solution [Konakion]	207833				
-656116	21610	19036623	vitamin K1 10 MG/ML Injectable Solution [Konakion]	207833				
+627935	27262	19036623	vitamin K1 10 MG/ML Injectable Solution [Konakion]	207833	EXACT			2026-03-13
+652206	27262	19036623	vitamin K1 10 MG/ML Injectable Solution [Konakion]	207833	EXACT			2026-03-13
+656116	21610	19036623	vitamin K1 10 MG/ML Injectable Solution [Konakion]	207833	EXACT	Konakion Pediatrico 2mg/0.2ml has same 10mg/ml concentration as adult Konakion		2026-03-13
+728512	8776078	19036623	vitamin K1 10 MG/ML Injectable Solution [Konakion]	207833	EXACT			2026-03-13
+729283	008776078IP	19036623	vitamin K1 10 MG/ML Injectable Solution [Konakion]	207833	EXACT	Parallel import of Konakion		2026-03-13

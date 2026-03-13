@@ -1,3 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-674741	72725	2043618	fibrinogen 20 MG/ML	OMOP4943611	EXACT			
-729078	85322	2043618	fibrinogen 20 MG/ML	OMOP4943611	EXACT			
+674741	72725	2043618	fibrinogen 20 MG/ML	OMOP4943611	EXACT			2026-03-13
+729078	85322	2043618	fibrinogen 20 MG/ML	OMOP4943611	EXACT			2026-03-13
+711474	81021	19133675	fibrinogen, human 1 MG Injection	831506	EXACT	Fibclot; no IU/mg-specific or branded RxNorm concept for this brand; ingredient-level used		2026-03-13

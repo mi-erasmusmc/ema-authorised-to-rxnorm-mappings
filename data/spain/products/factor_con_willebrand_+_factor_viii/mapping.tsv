@@ -1,5 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-688585	75625	46276143	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection [Wilate]	1661335	EXACT			
-688714	75648	46276143	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection [Wilate]	1661335	EXACT			
-967349	56867	46276140	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection	1661332				
-967356	56868	1830564	factor VIII 66.7 UNT/ML / von Willebrand factor 160 UNT/ML Injection	OMOP5155817	EXACT			
+688585	75625	46276143	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection [Wilate]	1661335	EXACT			2026-03-13
+688714	75648	46276143	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection [Wilate]	1661335	EXACT			2026-03-13
+967349	56867	46276148	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection [Humate-P]	1661352	EXACT	Haemate-P = Humate-P; no IU-specific concept; ingredient-level used		2026-03-13
+967356	56868	1830564	factor VIII 66.7 UNT/ML / von Willebrand factor 160 UNT/ML Injection	OMOP5155817	EXACT			2026-03-13
+670299	60600	46276140	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection	1661332	EXACT	Fanhdi is plasma-derived; no IU-specific RxNorm concept; ingredient-level is appropriate		2026-03-13
+670349	60601	46276140	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection	1661332	EXACT	Fanhdi is plasma-derived; no IU-specific RxNorm concept; ingredient-level is appropriate		2026-03-13
+670356	60602	46276140	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection	1661332	EXACT	Fanhdi is plasma-derived; no IU-specific RxNorm concept; ingredient-level is appropriate		2026-03-13
+707372	60602	46276140	factor VIII, human 1 UNT / von Willebrand factor, human 1 UNT Injection	1661332	EXACT	Fanhdi is plasma-derived; no IU-specific RxNorm concept; ingredient-level is appropriate		2026-03-13

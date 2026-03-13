@@ -1,0 +1,9 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+661501	59486	1537684	salmon calcitonin 200 UNT/ACTUAT Nasal Spray	313919	EXACT			2026-03-13
+695809	56996	19061138	salmon calcitonin 100 UNT/ML Injectable Solution	248088	EXACT			2026-03-13
+696492	54532	19012534	salmon calcitonin 100 UNT/ML Injectable Solution [Calsynar]	150877	BROAD	Spain source is powder and solvent for injection; RxNorm exposes the reconstituted branded injectable solution.	salmon calcitonin 100 UNT Injection [Calsynar]	2026-03-13
+696500	54532	19012534	salmon calcitonin 100 UNT/ML Injectable Solution [Calsynar]	150877	BROAD	Spain source is powder and solvent for injection; RxNorm exposes the reconstituted branded injectable solution.	salmon calcitonin 100 UNT Injection [Calsynar]	2026-03-13
+696567	57064	19061138	salmon calcitonin 100 UNT/ML Injectable Solution	248088	EXACT			2026-03-13
+714691	59584	1537684	salmon calcitonin 200 UNT/ACTUAT Nasal Spray	313919	EXACT			2026-03-13
+807297	59486	1537684	salmon calcitonin 200 UNT/ACTUAT Nasal Spray	313919	EXACT			2026-03-13
+808964	59584	1537684	salmon calcitonin 200 UNT/ACTUAT Nasal Spray	313919	EXACT			2026-03-13

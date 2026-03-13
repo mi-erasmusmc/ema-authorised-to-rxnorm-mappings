@@ -22,3 +22,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 600212	64747	35604346	lidocaine hydrochloride 50 MG/ML Injection	1737741	EXACT			2026-03-12
 600214	64749	35604358	10 ML lidocaine hydrochloride 20 MG/ML Injection	1737763	EXACT			2026-03-12
 602919	69209	35604346	lidocaine hydrochloride 50 MG/ML Injection	1737741	EXACT			2026-03-12
+660933	69840	40089701	lidocaine 40 MG/GM Topical Cream	365773	EXACT			2026-03-13
+660937	69843	40089701	lidocaine 40 MG/GM Topical Cream	365773	EXACT			2026-03-13
+705271	79461	40154717	lidocaine Mucous Membrane Gel	809465	BROAD	No exact 20 MG/G buccal-gel concept found in RxNorm.	lidocaine 20 MG/G Buccal Gel	2026-03-13
+724878	83833	35603556	lidocaine 0.05 MG/MG Medicated Patch	1745091	EXACT			2026-03-13
+724879	83833	35603556	lidocaine 0.05 MG/MG Medicated Patch	1745091	EXACT			2026-03-13
+729511	85680	19077141	lidocaine 4 % Topical Gel	310245	BROAD	No exact intrauterine lidocaine 42 MG/ML gel concept found in RxNorm.	lidocaine 42 MG/ML Intrauterine Gel	2026-03-13
+849729	99653	19099555	lidocaine 0.02 MG/MG Vaginal Cream	380646	EXACT			2026-03-13
+849760	99654	19099555	lidocaine 0.02 MG/MG Vaginal Cream	380646	EXACT			2026-03-13
+868166	63378	40089702	lidocaine 10 MG/ACTUAT Topical Spray	365774	EXACT			2026-03-13

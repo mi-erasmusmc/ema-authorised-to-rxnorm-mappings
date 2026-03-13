@@ -1,7 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661361	70008	35603142	factor VIII Injection	1718961	BROAD			
-661362	70009	35603142	factor VIII Injection	1718961	BROAD			
-705670	79616	19073337	recombinant antihemophilic factor VIII 100 UNT/ML Injectable Solution	308268				
-705671	79617	35603142	factor VIII Injection	1718961	BROAD			
-875021	63023	2061149	factor VIII 100 IU/ML	OMOP4962342				
-875047	63009	2061149	factor VIII 100 IU/ML	OMOP4962342				
+661361	70008	35603143	antihemophilic factor, human 1 UNT Injection	1718962	EXACT	Haemoctin is plasma-derived factor VIII; upgraded from BROAD		2026-03-13
+661362	70009	35603143	antihemophilic factor, human 1 UNT Injection	1718962	EXACT	Haemoctin is plasma-derived factor VIII; upgraded from BROAD		2026-03-13
+705670	79616	35603143	antihemophilic factor, human 1 UNT Injection	1718962	EXACT	Octanate LV is plasma-derived; previous recombinant concept was incorrect		2026-03-13
+705671	79617	35603143	antihemophilic factor, human 1 UNT Injection	1718962	EXACT	Octanate LV is plasma-derived; upgraded from BROAD		2026-03-13
+875021	63023	35603143	antihemophilic factor, human 1 UNT Injection	1718962	EXACT	Beriate is plasma-derived factor VIII; no branded RxNorm concept		2026-03-13
+875047	63009	35603143	antihemophilic factor, human 1 UNT Injection	1718962	EXACT	Beriate is plasma-derived factor VIII; no branded RxNorm concept		2026-03-13
+651576	66916	35603143	antihemophilic factor, human 1 UNT Injection	1718962	EXACT	Octanate is plasma-derived factor VIII; no IU-specific or branded RxNorm concept		2026-03-13
+651578	66917	35603143	antihemophilic factor, human 1 UNT Injection	1718962	EXACT	Octanate is plasma-derived factor VIII; no IU-specific or branded RxNorm concept		2026-03-13

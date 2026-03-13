@@ -1,16 +1,24 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-683360	74610	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			
-683905	74690	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-685181	74906	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-685993	75037	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-697531	77386	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-698735	77780	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-703828	79101	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-716318	82086	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-723444	83389	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433				
-732062	86345	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-732063	86346	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433	EXACT			
-758053	86765	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-758054	86765	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432				
-760427	86346	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433	EXACT			
-840702	62535	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433				
+683360	74610	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+683905	74690	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+685181	74906	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+685993	75037	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+697531	77386	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+698735	77780	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+703828	79101	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+716318	82086	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+723444	83389	40057969	dorzolamide / timolol Ophthalmic Solution [Cosopt]	363756	BROAD	RxNorm does not expose the preservative-free unit-dose Spain presentation.	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt PF]	2026-03-13
+732062	86345	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+732063	86346	40057969	dorzolamide / timolol Ophthalmic Solution [Cosopt]	363756	BROAD	RxNorm does not expose the preservative-free unit-dose Spain presentation.	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt PF]	2026-03-13
+758053	86765	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+758054	86765	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+760427	86346	40057969	dorzolamide / timolol Ophthalmic Solution [Cosopt]	363756	BROAD	RxNorm does not expose the preservative-free unit-dose Spain presentation.	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt PF]	2026-03-13
+840702	62535	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433	EXACT			2026-03-13
+674933	72715	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+679143	73508	40057969	dorzolamide / timolol Ophthalmic Solution [Cosopt]	363756	BROAD	RxNorm does not expose the preservative-free unit-dose Spain presentation.	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt PF]	2026-03-13
+683674	74660	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+685135	74886	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+685345	74934	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+698425	77665	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+701900	78599	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
+723847	3400934806384	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433	EXACT			2026-03-13

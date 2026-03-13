@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-706551	106338004	43187344	2.5 ML Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP510894	EXACT			2025-12-04
-716832	82256	43187344	2.5 ML Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP510894	EXACT			2026-03-13
-720972	82931	43187344	2.5 ML Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP510894	BROAD			2026-03-12
-722262	83257	43187344	2.5 ML Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP510894	BROAD			2026-03-12
-654402	06338001	43187344	2.5 ML Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP510894	BROAD			2026-03-12
-716883	82269	43187344	2.5 ML Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP510894	BROAD			2026-03-12
-718647	82326	43187344	2.5 ML Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP510894	BROAD			2026-03-12
-718648	82327	43187344	2.5 ML Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP510894	BROAD			2026-03-12
+706551	106338004	21021371	Timolol / travoprost Ophthalmic Solution [DuoTrav]	OMOP272523	EXACT			2026-03-13
+716832	82256	21158865	Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP272545	EXACT			2026-03-13
+720972	82931	21158865	Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP272545	EXACT			2026-03-13
+722262	83257	21158865	Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP272545	EXACT			2026-03-13
+654402	06338001	21021371	Timolol / travoprost Ophthalmic Solution [DuoTrav]	OMOP272523	EXACT			2026-03-13
+716883	82269	21158865	Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP272545	EXACT			2026-03-13
+718647	82326	21158865	Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP272545	EXACT			2026-03-13
+718648	82327	21158865	Timolol 5 MG/ML / travoprost 0.04 MG/ML Ophthalmic Solution	OMOP272545	EXACT			2026-03-13

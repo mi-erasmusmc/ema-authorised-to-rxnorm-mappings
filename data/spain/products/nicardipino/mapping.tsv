@@ -1,5 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-960336	56305	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			
-972901	56305	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			
-973545	56464	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			
-992818	58330	40165087	nicardipine hydrochloride 30 MG Oral Capsule	858616	EXACT			
+960336	56305	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			2026-03-13
+972901	56305	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			2026-03-13
+973545	56464	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			2026-03-13
+992818	58330	40165087	nicardipine hydrochloride 30 MG Oral Capsule	858616	EXACT			2026-03-13
+609701	19727	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			2026-03-13
+681197	74300	40165085	nicardipine hydrochloride 30 MG Extended Release Oral Capsule	858590	BROAD	No exact 40 MG extended-release nicardipine capsule concept found in RxNorm; closest strength-specific ER capsule is 30 MG.	nicardipine hydrochloride 40 MG Extended Release Oral Capsule	2026-03-13
+681767	74387	40165085	nicardipine hydrochloride 30 MG Extended Release Oral Capsule	858590	BROAD	No exact 40 MG extended-release nicardipine capsule concept found in RxNorm; closest strength-specific ER capsule is 30 MG.	nicardipine hydrochloride 40 MG Extended Release Oral Capsule	2026-03-13
+742874	87509	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			2026-03-13
+763705	89120	42628859	nicardipine hydrochloride 0.1 MG/ML Injection	1791343	EXACT			2026-03-13
+865766	63291	40165087	nicardipine hydrochloride 30 MG Oral Capsule	858616	BROAD	Source row is a 30 MG tablet; RxNorm search did not expose a matching nicardipine 30 MG oral-tablet concept.	nicardipine hydrochloride 30 MG Oral Tablet	2026-03-13
+972869	56298	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			2026-03-13
+972877	56300	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			2026-03-13
+990879	58596	40165082	nicardipine hydrochloride 20 MG Oral Tablet	858994	EXACT			2026-03-13
+999003	58806	40165087	nicardipine hydrochloride 30 MG Oral Capsule	858616	EXACT			2026-03-13

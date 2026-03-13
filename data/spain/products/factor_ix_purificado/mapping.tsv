@@ -1,4 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-660547	69602	46287512	coagulation factor IX, human 1 UNT Injection	1666303	BROAD			
-660549	69603	46287512	coagulation factor IX, human 1 UNT Injection	1666303	BROAD			
-671428	72466	46287512	coagulation factor IX, human 1 UNT Injection	1666303				
+660547	69602	46287512	coagulation factor IX, human 1 UNT Injection	1666303	EXACT	Plasma-derived factor IX; no IU-specific RxNorm concept; ingredient-level is appropriate		2026-03-13
+660549	69603	46287512	coagulation factor IX, human 1 UNT Injection	1666303	EXACT	Plasma-derived factor IX; no IU-specific RxNorm concept; ingredient-level is appropriate		2026-03-13
+671428	72466	46287512	coagulation factor IX, human 1 UNT Injection	1666303	EXACT	Plasma-derived factor IX; no IU-specific RxNorm concept; ingredient-level is appropriate		2026-03-13
+692491	60312	46287515	coagulation factor IX, human 1 UNT Injection [Mononine]	1666306	EXACT	Mononine brand; no IU-specific concept		2026-03-13
+692509	60311	46287515	coagulation factor IX, human 1 UNT Injection [Mononine]	1666306	EXACT	Mononine brand; no IU-specific concept		2026-03-13
+693204	75941	46287512	coagulation factor IX, human 1 UNT Injection	1666303	EXACT	Betafact is plasma-derived factor IX; no branded RxNorm concept; no IU-specific concept		2026-03-13
+816017	65916	46287512	coagulation factor IX, human 1 UNT Injection	1666303	EXACT	Factor IX Grifols is plasma-derived; no branded RxNorm concept		2026-03-13
+816108	65916	46287512	coagulation factor IX, human 1 UNT Injection	1666303	EXACT	Factor IX Grifols is plasma-derived; no branded RxNorm concept		2026-03-13
+816421	65916	46287512	coagulation factor IX, human 1 UNT Injection	1666303	EXACT	Factor IX Grifols is plasma-derived; no branded RxNorm concept		2026-03-13
+829531	65405	46287512	coagulation factor IX, human 1 UNT Injection	1666303	EXACT	Berinin P is plasma-derived factor IX; no branded RxNorm concept		2026-03-13

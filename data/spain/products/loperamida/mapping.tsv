@@ -1,19 +1,29 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652663	67219	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-652664	67219	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-699298	32202	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			
-718839	82401	40184719	loperamide hydrochloride 2 MG	977997				
-723925	56523	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-723926	56523	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-727633	82401	40184719	loperamide hydrochloride 2 MG	977997				
-731847	86274	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			
-731848	86274	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			
-732536	86472	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	BROAD			
-766388	56523	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-800433	65349	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	BROAD			
-945188	55317	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-961896	32202	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			
-968529	55317	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-972166	57210	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-981589	57915	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
-981597	57915	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			
+652663	67219	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+652664	67219	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+699298	32202	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			2026-03-13
+718839	82401	40184719	loperamide hydrochloride 2 MG	977997				2026-03-13
+723925	56523	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+723926	56523	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+727633	82401	40184719	loperamide hydrochloride 2 MG	977997				2026-03-13
+731847	86274	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			2026-03-13
+731848	86274	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			2026-03-13
+732536	86475	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	BROAD	Spain row is bucodispersable/liotab; RxNorm search did not surface a matching disintegrating-tablet concept.	loperamide hydrochloride 2 MG Disintegrating Oral Tablet	2026-03-13
+766388	56523	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+800433	94580	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	BROAD	Spain row is bucodispersable/liotab; RxNorm search did not surface a matching disintegrating-tablet concept.	loperamide hydrochloride 2 MG Disintegrating Oral Tablet	2026-03-13
+945188	55317	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+961896	32202	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			2026-03-13
+968529	55317	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+972166	57210	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+981589	57915	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+981597	57915	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+699280	78086	19102463	loperamide hydrochloride 0.2 MG/ML Oral Solution	402523	EXACT			2026-03-13
+732143	86371	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+758031	88232	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+758032	88232	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+766387	90056	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+768756	90299	19102462	loperamide hydrochloride 2 MG Oral Capsule	402522	EXACT			2026-03-13
+768757	90299	19102462	loperamide hydrochloride 2 MG Oral Capsule	402522	EXACT			2026-03-13
+781437	92480	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+781438	92480	40184729	loperamide hydrochloride 2 MG Oral Capsule [Imodium]	978009	EXACT			2026-03-13
+988139	58510	40184730	loperamide hydrochloride 2 MG Oral Tablet	978010	EXACT			2026-03-13

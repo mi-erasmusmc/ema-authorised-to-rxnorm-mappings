@@ -1,9 +1,17 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-608612	49154	35605640	cytarabine Injection	1731354	BROAD			
-608661	56463	35605640	cytarabine Injection	1731354	BROAD			
-697473	77352	1311106	cytarabine 100 MG/ML	331779	EXACT			
-697474	77352	1311106	cytarabine 100 MG/ML	331779	EXACT			
-697475	77352	1311106	cytarabine 100 MG/ML	331779	EXACT			
-697476	77352	1311106	cytarabine 100 MG/ML	331779	EXACT			
-885210	49154	35605640	cytarabine Injection	1731354	BROAD			
-885228	56463	35605640	cytarabine Injection	1731354	BROAD			
+608612	49154	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
+608661	56463	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
+697473	77352	1311106	cytarabine 100 MG/ML	331779	EXACT			2026-03-13
+697474	77352	1311106	cytarabine 100 MG/ML	331779	EXACT			2026-03-13
+697475	77352	1311106	cytarabine 100 MG/ML	331779	EXACT			2026-03-13
+697476	77352	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
+885210	49154	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
+885228	56463	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
+682432	74455	1311106	cytarabine 100 MG/ML	331779	EXACT			2026-03-13
+682433	74455	1311106	cytarabine 100 MG/ML	331779	EXACT			2026-03-13
+682434	74455	1311106	cytarabine 100 MG/ML	331779	EXACT			2026-03-13
+697290	74455	1311105	20 ML cytarabine 100 MG/ML Injection	249364	EXACT			2026-03-13
+722299	83265	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 2 mL single-use presentation.	2 ML cytarabine 20 MG/ML Injection	2026-03-13
+725700	83265	35605641	5 ML cytarabine 20 MG/ML Injection	1731355	EXACT			2026-03-13
+731569	86180	35605641	5 ML cytarabine 20 MG/ML Injection	1731355	EXACT			2026-03-13
+731570	86180	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13

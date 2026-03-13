@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-663002	70914	21119865	Aprotinin / Calcium Chloride / Fibrinogen / Thrombin Injectable Solution [Tisseel]	OMOP340837	BROAD			
-663003	70914	21119865	Aprotinin / Calcium Chloride / Fibrinogen / Thrombin Injectable Solution [Tisseel]	OMOP340837	BROAD			
-702994	78896	43022967	Aprotinin / Calcium Chloride / factor XIII / Fibrinogen / Thrombin Injectable Solution	OMOP4838092	BROAD			
-702995	78896	43022967	Aprotinin / Calcium Chloride / factor XIII / Fibrinogen / Thrombin Injectable Solution	OMOP4838092	BROAD			
-720033	78896	43022967	Aprotinin / Calcium Chloride / factor XIII / Fibrinogen / Thrombin Injectable Solution	OMOP4838092	BROAD			
-720034	78896	43022967	Aprotinin / Calcium Chloride / factor XIII / Fibrinogen / Thrombin Injectable Solution	OMOP4838092	BROAD			
-732721	70914	21119865	Aprotinin / Calcium Chloride / Fibrinogen / Thrombin Injectable Solution [Tisseel]	OMOP340837	BROAD			
+663002	70914	37497853	fibrinogen / thrombin Topical Solution [Artiss]	2264160	BROAD	Artiss is a 4-component fibrin glue; RxNorm Artiss concept does not include aprotinin/CaCl; BROAD is appropriate	fibrinogen, human / aprotinin / thrombin, human / calcium chloride Topical Solution [Artiss]	2026-03-13
+663003	70914	37497853	fibrinogen / thrombin Topical Solution [Artiss]	2264160	BROAD	Artiss is a 4-component fibrin glue; RxNorm Artiss concept does not include aprotinin/CaCl; BROAD is appropriate	fibrinogen, human / aprotinin / thrombin, human / calcium chloride Topical Solution [Artiss]	2026-03-13
+702994	78896	37497849	fibrinogen / thrombin Topical Solution [Tisseel]	2264154	BROAD	Tisseel is a 4-component fibrin glue; no complete RxNorm concept including aprotinin and CaCl	fibrinogen, human / aprotinin / thrombin, human / calcium chloride Topical Solution [Tisseel]	2026-03-13
+702995	78896	37497849	fibrinogen / thrombin Topical Solution [Tisseel]	2264154	BROAD	Tisseel is a 4-component fibrin glue; no complete RxNorm concept including aprotinin and CaCl	fibrinogen, human / aprotinin / thrombin, human / calcium chloride Topical Solution [Tisseel]	2026-03-13
+720033	78896	37497849	fibrinogen / thrombin Topical Solution [Tisseel]	2264154	BROAD	Tisseel is a 4-component fibrin glue; no complete RxNorm concept including aprotinin and CaCl	fibrinogen, human / aprotinin / thrombin, human / calcium chloride Topical Solution [Tisseel]	2026-03-13
+720034	78896	37497849	fibrinogen / thrombin Topical Solution [Tisseel]	2264154	BROAD	Tisseel is a 4-component fibrin glue; no complete RxNorm concept including aprotinin and CaCl	fibrinogen, human / aprotinin / thrombin, human / calcium chloride Topical Solution [Tisseel]	2026-03-13
+732721	70914	37497853	fibrinogen / thrombin Topical Solution [Artiss]	2264160	BROAD	Artiss is a 4-component fibrin glue; RxNorm Artiss concept does not include aprotinin/CaCl; BROAD is appropriate	fibrinogen, human / aprotinin / thrombin, human / calcium chloride Topical Solution [Artiss]	2026-03-13

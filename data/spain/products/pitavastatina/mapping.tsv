@@ -2,8 +2,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 672822	73037	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-12
 672825	73038	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-12
 672826	73041	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-12
-672827	73040	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			
-672830	73039	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			
+672827	73040	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-13
+672830	73039	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-13
 672842	73058	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-12
 728009	84887	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-12
 728010	84888	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-12
@@ -11,28 +11,38 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728042	84894	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-12
 728043	84895	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-12
 728044	84896	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-12
-728153	84943	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			
-728156	84944	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			
+728153	84943	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-13
+728156	84944	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-13
 728164	84947	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-12
 728165	84948	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-12
 728166	84949	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-12
-728171	84951	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			
-728172	84952	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			
-728173	84953	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			
-728174	84954	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			
-728175	84955	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			
-728179	84942	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			
-728221	84972	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			
-728222	84973	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			
+728171	84951	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-13
+728172	84952	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-13
+728173	84953	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
+728174	84954	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-13
+728175	84955	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-13
+728179	84942	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
+728221	84972	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-13
+728222	84973	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-13
 728536	85094	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-12
 728537	85095	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-12
 728538	85096	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-12
-728740	85142	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			
-728742	85143	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			
+728740	85142	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-13
+728742	85143	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-13
 728762	85157	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-12
 728763	85158	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-12
-728764	85159	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			
+728764	85159	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-13
 728850	85211	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-12
 728851	85212	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-12
 728852	85213	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-12
 728535	85093	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	EXACT			2026-03-12
+707298	80134	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
+707300	80135	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
+726447	84384	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-13
+726449	84385	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-13
+726459	84388	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	EXACT			2026-03-13
+728169	84970	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
+728219	84971	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
+728739	85141	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
+728741	85141	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
+729850	85809	40165638	pitavastatin calcium 1 MG Oral Tablet	861643	EXACT			2026-03-13
