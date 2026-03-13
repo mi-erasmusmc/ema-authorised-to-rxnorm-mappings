@@ -1,10 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603030	70000	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD			
-652135	67043	36786808	Norepinephrine Intravenous Solution	OMOP4775076	BROAD			
-656019	62002	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD			
-661660	62002	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD			
-728884	85228	1321364	norepinephrine 1 MG/ML	328853	EXACT			
-763878	89183	36786808	Norepinephrine Intravenous Solution	OMOP4775076	BROAD			
-765272	89669	19011871	norepinephrine 2 MG/ML Injectable Solution	142104	EXACT			
-765275	89669	19011871	norepinephrine 2 MG/ML Injectable Solution	142104	EXACT			
-766942	86439	2064003	norepinephrine Injectable Solution [NORADRENALINE]	OMOP4965294	BROAD			
+603030	70000	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD	Spain source is 0.5 MG/ML concentrate for solution for perfusion.	0.5 MG/ML norepinephrine Injectable Solution	2026-03-14
+652135	67043	36786808	Norepinephrine Intravenous Solution	OMOP4775076	BROAD	Spain source is 1 MG/ML concentrate for solution for perfusion in a 4 ML ampoule.	4 ML norepinephrine 1 MG/ML Injection	2026-03-14
+656019	62002	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD	Spain source is 0.5 MG/ML concentrate for solution for perfusion in a 50 ML vial.	50 ML norepinephrine 0.5 MG/ML Injectable Solution	2026-03-14
+661660	62002	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD	Spain source is 0.5 MG/ML concentrate for solution for perfusion in a 10 ML ampoule.	10 ML norepinephrine 0.5 MG/ML Injectable Solution	2026-03-14
+728884	85228	1321364	norepinephrine 1 MG/ML	328853	EXACT			2026-03-14
+763878	89183	36786808	Norepinephrine Intravenous Solution	OMOP4775076	BROAD	Spain source is a 40 MCG/ML solution for perfusion in a 100 ML bag.	100 ML norepinephrine 0.04 MG/ML Injectable Solution	2026-03-14
+765272	89669	19011871	norepinephrine 2 MG/ML Injectable Solution	142104	EXACT			2026-03-14
+765275	89669	19011871	norepinephrine 2 MG/ML Injectable Solution	142104	EXACT			2026-03-14
+766942	86439	2064003	norepinephrine Injectable Solution [NORADRENALINE]	OMOP4965294	BROAD	Spain source is 5 MCG/ML solution injectable and for perfusion in a 50 ML vial.	50 ML norepinephrine 0.005 MG/ML Injectable Solution	2026-03-14
+688041	75514	19011871	norepinephrine 2 MG/ML Injectable Solution	142104	BROAD	Spain source is concentrate for solution for perfusion.	4 ML norepinephrine 2 MG/ML Injectable Solution	2026-03-14

@@ -1,3 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661201	69931	40002762	acetaminophen / phenylephrine Oral Solution	373377	BROAD			
-764866	89542	40002762	acetaminophen / phenylephrine Oral Solution	373377	BROAD			
+661201	69931	40002762	acetaminophen / phenylephrine Oral Solution	373377	BROAD	Spain source is 1000 MG / 10 MG powder oral sachet; no exact standard concept found.	acetaminophen 1000 MG / phenylephrine 10 MG Powder for Oral Solution	2026-03-14
+764866	89542	40002762	acetaminophen / phenylephrine Oral Solution	373377	BROAD	Spain source is 600 MG / 10 MG granules; no exact standard concept found.	acetaminophen 600 MG / phenylephrine 10 MG Powder for Oral Solution	2026-03-14
+661202	69932	40002762	acetaminophen / phenylephrine Oral Solution	373377	BROAD	Spain source is 650 MG / 10 MG powder oral sachet; no exact standard concept found.	acetaminophen 650 MG / phenylephrine 10 MG Powder for Oral Solution	2026-03-14

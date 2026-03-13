@@ -1,56 +1,57 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-658622	68542	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				
-658623	68543	43679569	Methylphenidate 20 MG Delayed Release Oral Capsule	OMOP900934				
-658624	68544	40221126	50/50 Release 24 HR methylphenidate hydrochloride 30 MG Extended Release Oral Capsule	1806179				
-658626	68545	40236472	methylphenidate hydrochloride 40 MG	1091190				
-658627	68546	40236481	methylphenidate hydrochloride 5 MG Oral Tablet	1091497	EXACT			
-658628	68547	40236419	methylphenidate hydrochloride 10 MG Oral Tablet	1091150	EXACT			
-658629	68548	40236446	methylphenidate hydrochloride 20 MG Oral Tablet	1091392	EXACT			
-661331	69988	40236460	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet [Concerta]	1091174	EXACT			
-663410	65152	40236481	methylphenidate hydrochloride 5 MG Oral Tablet	1091497	EXACT			
-663411	55369	40236419	methylphenidate hydrochloride 10 MG Oral Tablet	1091150	EXACT			
-663412	65153	40236446	methylphenidate hydrochloride 20 MG Oral Tablet	1091392	EXACT			
-678883	73308	40066568	methylphenidate Extended Release Oral Capsule	374655	BROAD			
-688047	75518	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			
-688049	75519	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			
-688050	75520	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			
-691358	76060	40221126	50/50 Release 24 HR methylphenidate hydrochloride 30 MG Extended Release Oral Capsule	1806179				
-691359	76061	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				
-691449	76076	43679569	Methylphenidate 20 MG Delayed Release Oral Capsule	OMOP900934				
-696804	77140	40236459	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet	1091173	EXACT			
-696899	77163	40236472	methylphenidate hydrochloride 40 MG	1091190				
-696901	77164	40066568	methylphenidate Extended Release Oral Capsule	374655				
-698730	77777	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			
-698733	77778	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			
-698734	77779	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			
-701408	78453	40066568	methylphenidate Extended Release Oral Capsule	374655				
-701410	78454	40236494	methylphenidate hydrochloride 60 MG	1091217	BROAD			
-703444	79007	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			
-703446	79008	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			
-703449	79009	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			
-713329	81347	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			
-713330	81348	40236459	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet	1091173	EXACT			
-713331	81349	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			
-713332	81350	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			
-713792	65148	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			
-722215	65170	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			
-722314	65171	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			
-724991	83873	40236459	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet	1091173	EXACT			
-724992	83874	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			
-724993	83875	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			
-724994	83876	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			
-729621	85523	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				
-729622	85524	43679569	Methylphenidate 20 MG Delayed Release Oral Capsule	OMOP900934				
-729623	85525	40221126	50/50 Release 24 HR methylphenidate hydrochloride 30 MG Extended Release Oral Capsule	1806179				
-729624	85526	40236472	methylphenidate hydrochloride 40 MG	1091190				
-729625	85527	40066568	methylphenidate Extended Release Oral Capsule	374655				
-729626	85528	40236494	methylphenidate hydrochloride 60 MG	1091217	BROAD			
-732781	86550	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			
-732782	86551	40236459	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet	1091173	EXACT			
-732783	86552	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			
-732784	86553	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			
-762736	88835	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				
-762737	88836	43679569	Methylphenidate 20 MG Delayed Release Oral Capsule	OMOP900934				
-762738	88837	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				
-762739	88838	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				
-762742	88839	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				
+658622	68542	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				2026-03-14
+658623	68543	43679569	Methylphenidate 20 MG Delayed Release Oral Capsule	OMOP900934				2026-03-14
+658624	68544	40221126	50/50 Release 24 HR methylphenidate hydrochloride 30 MG Extended Release Oral Capsule	1806179				2026-03-14
+658626	68545	40236472	methylphenidate hydrochloride 40 MG	1091190				2026-03-14
+658627	68546	40236481	methylphenidate hydrochloride 5 MG Oral Tablet	1091497	EXACT			2026-03-14
+658628	68547	40236419	methylphenidate hydrochloride 10 MG Oral Tablet	1091150	EXACT			2026-03-14
+658629	68548	40236446	methylphenidate hydrochloride 20 MG Oral Tablet	1091392	EXACT			2026-03-14
+661331	69988	40236460	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet [Concerta]	1091174	EXACT			2026-03-14
+663410	65152	40236481	methylphenidate hydrochloride 5 MG Oral Tablet	1091497	EXACT			2026-03-14
+663411	55369	40236419	methylphenidate hydrochloride 10 MG Oral Tablet	1091150	EXACT			2026-03-14
+663412	65153	40236446	methylphenidate hydrochloride 20 MG Oral Tablet	1091392	EXACT			2026-03-14
+678883	73308	40066568	methylphenidate Extended Release Oral Capsule	374655	BROAD	RxNorm does not expose the exact 50/50 release 5 MG capsule.	50/50 Release 24 HR methylphenidate hydrochloride 5 MG Extended Release Oral Capsule	2026-03-14
+688047	75518	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
+688049	75519	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
+688050	75520	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			2026-03-14
+691358	76060	40221126	50/50 Release 24 HR methylphenidate hydrochloride 30 MG Extended Release Oral Capsule	1806179				2026-03-14
+691359	76061	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				2026-03-14
+691449	76076	43679569	Methylphenidate 20 MG Delayed Release Oral Capsule	OMOP900934				2026-03-14
+696804	77140	40236459	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet	1091173	EXACT			2026-03-14
+696899	77163	40236472	methylphenidate hydrochloride 40 MG	1091190				2026-03-14
+696901	77164	40066568	methylphenidate Extended Release Oral Capsule	374655				2026-03-14
+698730	77777	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
+698733	77778	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			2026-03-14
+698734	77779	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
+701408	78453	40066568	methylphenidate Extended Release Oral Capsule	374655				2026-03-14
+701410	78454	40236494	methylphenidate hydrochloride 60 MG	1091217	BROAD	RxNorm does not expose the exact 50/50 release 60 MG capsule.	50/50 Release 24 HR methylphenidate hydrochloride 60 MG Extended Release Oral Capsule	2026-03-14
+703444	79007	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
+703446	79008	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
+703449	79009	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			2026-03-14
+713329	81347	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
+713330	81348	40236459	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet	1091173	EXACT			2026-03-14
+713331	81349	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
+713332	81350	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			2026-03-14
+713792	65148	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
+722215	65170	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
+722314	65171	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			2026-03-14
+724991	83873	40236459	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet	1091173	EXACT			2026-03-14
+724992	83874	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
+724993	83875	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
+724994	83876	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			2026-03-14
+729621	85523	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				2026-03-14
+729622	85524	43679569	Methylphenidate 20 MG Delayed Release Oral Capsule	OMOP900934				2026-03-14
+729623	85525	40221126	50/50 Release 24 HR methylphenidate hydrochloride 30 MG Extended Release Oral Capsule	1806179				2026-03-14
+729624	85526	40236472	methylphenidate hydrochloride 40 MG	1091190				2026-03-14
+729625	85527	40066568	methylphenidate Extended Release Oral Capsule	374655				2026-03-14
+729626	85528	40221135	30/70 Release 24 HR methylphenidate hydrochloride 60 MG Extended Release Oral Capsule	1806197	EXACT			2026-03-14
+732781	86550	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			2026-03-14
+732782	86551	40236459	methylphenidate hydrochloride 27 MG Extended Release Oral Tablet	1091173	EXACT			2026-03-14
+732783	86552	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
+732784	86553	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
+762736	88835	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				2026-03-14
+762737	88836	43679569	Methylphenidate 20 MG Delayed Release Oral Capsule	OMOP900934				2026-03-14
+762738	88837	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				2026-03-14
+762739	88838	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				2026-03-14
+762742	88839	40221134	50/50 Release 24 HR methylphenidate hydrochloride 10 MG Extended Release Oral Capsule	1806195				2026-03-14
+764109	89260	780310	24 HR methylphenidate hydrochloride 45 MG Extended Release Oral Tablet	2605798	EXACT			2026-03-14

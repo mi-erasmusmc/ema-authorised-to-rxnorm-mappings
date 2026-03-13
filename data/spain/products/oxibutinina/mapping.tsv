@@ -1,3 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-657361	62205	40166448	oxybutynin chloride 5 MG Oral Tablet	863664	EXACT			
-971812	57185	40166449	oxybutynin chloride 5 MG Oral Tablet [Ditropan]	863665	EXACT			
+657361	62205	40166448	oxybutynin chloride 5 MG Oral Tablet	863664	EXACT			2026-03-14
+971812	57185	40166449	oxybutynin chloride 5 MG Oral Tablet [Ditropan]	863665	EXACT			2026-03-14
+700642	03270001	19102455	84 HR oxybutynin 0.162 MG/HR Transdermal System	403799	BROAD	Spain source is a 3.9 MG/24 HR transdermal patch; RxNorm represents the same weekly patch as 84 HR 0.162 MG/HR.	oxybutynin 3.9 MG/24 HR Transdermal System	2026-03-14
