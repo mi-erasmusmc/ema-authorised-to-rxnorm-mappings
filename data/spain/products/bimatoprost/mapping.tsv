@@ -1,7 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-697648	102205006	904526	bimatoprost 0.3 MG/ML Ophthalmic Solution [Lumigan]	285128	EXACT			2025-12-04
-716878	82267	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739				
-726924	84523	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739				
-732176	86389	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739				
-733348	86729	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739				
-741908	85717	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739				
+697648	102205006	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	bimatoprost 0.3 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+716878	82267	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
+726924	84523	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
+732176	86389	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
+733348	86729	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	bimatoprost 0.3 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+741908	85717	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
+665747	02205003	40226430	bimatoprost 0.1 MG/ML Ophthalmic Solution [Lumigan]	1009341	EXACT			2026-03-13
+710913	02205001	904526	bimatoprost 0.3 MG/ML Ophthalmic Solution [Lumigan]	285128	EXACT			2026-03-13
+714593	81693	40226429	bimatoprost 0.1 MG/ML Ophthalmic Solution	1009339	EXACT			2026-03-13
+714594	81694	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
+723705	02205003IP	40226430	bimatoprost 0.1 MG/ML Ophthalmic Solution [Lumigan]	1009341	EXACT			2026-03-13
+741403	02205006IP	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	bimatoprost 0.3 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13

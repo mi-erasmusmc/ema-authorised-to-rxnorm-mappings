@@ -1,2 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-969626	57011	19007455	buserelin 1 MG/ML Injectable Solution [Suprefact]	105627	EXACT			
+969626	57011	19007455	buserelin 1 MG/ML Injectable Solution [Suprefact]	105627	EXACT			2026-03-13
+681155	60980	19033280	buserelin	1825	BROAD	RxNorm does not have a buserelin Drug Implant class.	buserelin 6.3 MG Drug Implant	2026-03-13
+755058	62477	19033280	buserelin	1825	BROAD	RxNorm does not have a buserelin Drug Implant class.	buserelin 9.45 MG Drug Implant	2026-03-13
+969931	57037	19007456	buserelin 0.1 MG/ACTUAT Nasal Spray [Suprefact]	105628	EXACT			2026-03-13

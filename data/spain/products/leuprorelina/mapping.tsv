@@ -6,9 +6,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 751369	1221647001	779169	leuprolide 42 MG Prefilled Syringe [Camcevi]	2595049	EXACT			2026-03-13
 680757	74093	40240359	1 ML leuprolide acetate 11.25 MG/ML Prefilled Syringe	1115447	EXACT			2026-03-13
 680758	74094	40240363	1 ML leuprolide acetate 3.75 MG/ML Prefilled Syringe	1115457	EXACT			2026-03-13
-685615	74980	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
-706971	80000	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
-723417	83376	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
-723419	83377	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
+685615	74980	1351624	leuprolide acetate 3.75 MG/ML Injectable Suspension	545844	EXACT			2026-03-13
+706971	80000	19021438	leuprolide 22.5 MG Injectable Suspension	199220	EXACT	Spain source is powder and solvent for prolonged-release injectable suspension; suspension concept is closer than the plain injection concept.		2026-03-13
+723417	83376	1465868	leuprolide acetate 22.5 MG Injection [Lutrate]	2709448	EXACT			2026-03-13
+723419	83377	1351624	leuprolide acetate 3.75 MG/ML Injectable Suspension	545844	EXACT			2026-03-13
 765972	14300	1351745	0.375 ML leuprolide acetate 120 MG/ML Prefilled Syringe [Eligard]	825325	EXACT			2026-03-13
-909630	59344	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
+909630	59344	1351624	leuprolide acetate 3.75 MG/ML Injectable Suspension	545844	EXACT			2026-03-13

@@ -1,21 +1,28 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606886	82148	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-606887	82148	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-660906	69773	40069608	nitric oxide Gas for Inhalation	375185	BROAD			
-660907	69773	40069608	nitric oxide Gas for Inhalation	375185	BROAD			
-665130	72189	40118583	nitric oxide / nitrogen Gas for Inhalation	562851	BROAD			
-665131	72189	40118583	nitric oxide / nitrogen Gas for Inhalation	562851	BROAD			
-665134	72190	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			
-665135	72190	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			
-665136	72190	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			
-697127	72189	40118583	nitric oxide / nitrogen Gas for Inhalation	562851	BROAD			
-701209	78376	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-701210	78376	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-701211	78376	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-701212	78376	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-701213	78376	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-703825	79100	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			
-703826	79100	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			
-715309	81848	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-715311	81850	40069608	nitric oxide Gas for Inhalation	375185	EXACT			
-720454	79100	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			
+606886	82148	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+606887	82148	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+660906	69773	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 450 ppm nitric oxide gas concept.	nitric oxide 450 PPM Gas for Inhalation	2026-03-13
+660907	69773	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 450 ppm nitric oxide gas concept.	nitric oxide 450 PPM Gas for Inhalation	2026-03-13
+665130	72189	40118583	nitric oxide / nitrogen Gas for Inhalation	562851	BROAD	RxNorm does not expose a 200 ppm nitric oxide gas concept.	nitric oxide 200 PPM Gas for Inhalation	2026-03-13
+665131	72189	40118583	nitric oxide / nitrogen Gas for Inhalation	562851	BROAD	RxNorm does not expose a 200 ppm nitric oxide gas concept.	nitric oxide 200 PPM Gas for Inhalation	2026-03-13
+665134	72190	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+665135	72190	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+665136	72190	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+697127	72189	40118583	nitric oxide / nitrogen Gas for Inhalation	562851	BROAD	RxNorm does not expose a 200 ppm nitric oxide gas concept.	nitric oxide 200 PPM Gas for Inhalation	2026-03-13
+701209	78376	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+701210	78376	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+701211	78376	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+701212	78376	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+701213	78376	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+703825	79100	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+703826	79100	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+715309	81848	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 1000 ppm nitric oxide gas concept.	nitric oxide 1000 PPM Gas for Inhalation	2026-03-13
+715311	81850	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 450 ppm nitric oxide gas concept.	nitric oxide 450 PPM Gas for Inhalation	2026-03-13
+720454	79100	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+688833	75703	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+688834	75703	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+688835	75703	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+691732	01194003	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+691733	01194004	19121841	nitric oxide 0.08 % / nitrogen 99.92 % Gas for Inhalation	582608	EXACT			2026-03-13
+740746	01194001	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13
+859496	01194002	40069608	nitric oxide Gas for Inhalation	375185	BROAD	RxNorm does not expose a 400 ppm nitric oxide gas concept.	nitric oxide 400 PPM Gas for Inhalation	2026-03-13

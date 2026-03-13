@@ -1,21 +1,21 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600736	68103	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-600737	68104	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
-606030	61480	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
-606031	61479	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-607741	89154	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.7 ML dental cartridge concept found in RxNorm.	1.7 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-607742	89153	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.7 ML dental cartridge concept found in RxNorm.	1.7 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
-644682	59941	40127703	articaine / epinephrine Injectable Solution	597831				2026-03-13
-644690	59942	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-649269	61479	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-649277	61480	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
-715831	68103	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-715832	68104	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
-613182	68760	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.7 ML dental cartridge concept found in RxNorm.	1.7 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-613190	68761	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.7 ML dental cartridge concept found in RxNorm.	1.7 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
-647701	65011	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
-647719	65012	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-677955	73580	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
-677963	73581	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.8 ML dental cartridge concept found in RxNorm.	1.8 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-939264	56209	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.7 ML dental cartridge concept found in RxNorm.	1.7 ML articaine 40 MG/ML / epinephrine 10 MCG/ML Dental Cartridge	2026-03-13
-939272	56210	40127703	articaine / epinephrine Injectable Solution	597831	BROAD	No exact 1.7 ML dental cartridge concept found in RxNorm.	1.7 ML articaine 40 MG/ML / epinephrine 5 MCG/ML Dental Cartridge	2026-03-13
+600736	68103	46276169	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1661483	EXACT			2026-03-13
+600737	68104	46275414	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1658966	EXACT			2026-03-13
+606030	61480	46275414	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1658966	EXACT			2026-03-13
+606031	61479	46276169	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1661483	EXACT			2026-03-13
+607741	89154	45892250	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1595035	EXACT			2026-03-13
+607742	89153	45892245	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1595029	EXACT			2026-03-13
+644682	59941	45892245	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1595029	EXACT			2026-03-13
+644690	59942	46276169	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1661483	EXACT			2026-03-13
+649269	61479	46276169	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1661483	EXACT			2026-03-13
+649277	61480	46275414	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1658966	EXACT			2026-03-13
+715831	68103	46276169	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1661483	EXACT			2026-03-13
+715832	68104	46275414	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1658966	EXACT			2026-03-13
+613182	55033	45892250	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1595035	EXACT			2026-03-13
+613190	55034	45892245	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1595029	EXACT			2026-03-13
+647701	61195	46275414	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1658966	EXACT			2026-03-13
+647719	61194	46276169	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1661483	EXACT			2026-03-13
+677955	61195	46275414	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1658966	EXACT			2026-03-13
+677963	61194	46276169	1.8 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1661483	EXACT			2026-03-13
+939264	55033	45892250	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.01 MG/ML Cartridge	1595035	EXACT			2026-03-13
+939272	55034	45892245	1.7 ML articaine hydrochloride 40 MG/ML / epinephrine 0.005 MG/ML Cartridge	1595029	EXACT			2026-03-13

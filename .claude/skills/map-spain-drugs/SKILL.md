@@ -88,6 +88,23 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
 4. Prepare a TSV containing only the rows you want to create or update. Do not rewrite unchanged rows.
 
+   For mixed-pattern folders, default to **missing rows only**. Do not do full-folder rewrites when the folder contains multiple presentation families such as oral plus injectable, powder plus solution, unit-dose plus multidose, branded plus generic, or different release/device variants.
+
+   Treat existing high-quality `EXACT` rows as anchors. Only overwrite an existing mapped row when you have a specific, verified reason, for example:
+   - the current concept has the wrong route, dose form, strength, volume, or brand
+   - the row is flagged by audit as incomplete or inconsistent and you confirmed the correction
+   - the source data itself is anomalous and you are correcting to the defensible RxNorm presentation
+
+   Before overwriting existing rows in a mixed-pattern folder, explicitly compare the current and proposed mappings for:
+   - route changes
+   - dose-form changes
+   - branded-to-generic or generic-to-branded changes
+   - oral vs injectable swaps
+   - powder/granules vs solution/suspension swaps
+   - unit-dose vs multidose / device changes
+
+   If a folder needs both missing-row backfill and correction of a few existing rows, handle those as separate substeps instead of generating one folder-wide replacement table.
+
    Use `comment` only for mapping rationale that another reviewer would need to understand later, such as salt conversions, metered-versus-delivered dose decisions, biosimilar handling, or a manual correction caused by bad source data. Do not use `comment` for edit history like "upgraded mapping" or "changed to better concept".
 
    If `mapping_type` is `BROAD`, always populate `suggestion` with the ideal concept name you would use if standard RxNorm had the exact presentation.
