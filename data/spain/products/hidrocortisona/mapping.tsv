@@ -5,8 +5,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 718836	82398	40729792	Hydrocortisone 3.2 MG/ML Ophthalmic Solution	OMOP4727907				2026-03-12
 770073	25699	975169	hydrocortisone 20 MG Oral Tablet	197783				2026-03-12
 607609	88465	975505	hydrocortisone 100 MG Injection	238755	EXACT			2026-03-12
-606541	28824	975505	hydrocortisone 100 MG Injection	238755	BROAD	75mg not in RxNorm; closest is 100mg	hydrocortisone 100 MG Injection [975505]	2026-03-12
-606558	52105	975505	hydrocortisone 100 MG Injection	238755	BROAD	373mg not in RxNorm; nearest standard dose	hydrocortisone 100 MG Injection [975505]	2026-03-12
+606541	28824	975505	hydrocortisone 100 MG Injection	238755	EXACT	Same nro_definitivo as the 100 mg Actocortina row; source strength appears to be sodium phosphate labeling rather than a distinct hydrocortisone presentation		2026-03-12
+606558	52105	35604738	hydrocortisone 500 MG Injection	1738594	EXACT	Same nro_definitivo as the 500 mg Actocortina row; source 373 mg appears to be sodium phosphate labeling rather than a distinct hydrocortisone presentation		2026-03-12
 653540	21989	45776378	hydrocortisone acetate 0.015 MG/MG Ophthalmic Ointment	1542925	EXACT	0.015 MG/MG = 15 mg/g		2026-03-12
 655498	27941	19067226	hydrocortisone 0.01 MG/MG Rectal Ointment	260192	EXACT	0.01 MG/MG = 10 mg/g		2026-03-12
 682468	60891	42708987	hydrocortisone acetate 5 MG/ML Topical Cream	1250490	EXACT	5 mg/g = 5 MG/ML		2026-03-12
@@ -16,14 +16,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 701409	28824	975505	hydrocortisone 100 MG Injection	238755	EXACT			2026-03-12
 701417	52105	35604738	hydrocortisone 500 MG Injection	1738594	EXACT	des_dosific lists 500 mg (373mg is des_dcp label)		2026-03-12
 725366	34260	975125	hydrocortisone	5492	BROAD	1.5 mg lozenge not in RxNorm; only 2.5 mg exists	hydrocortisone Oral Lozenge [40049693]	2026-03-12
-731166	58852	975125	hydrocortisone	5492	BROAD	hydrocortisone aceponate 1.27 mg/g ointment; no exact RxNorm match	hydrocortisone aceponate 1.11 MG/ML [42706151]	2026-03-12
+731166	58852	40050122	hydrocortisone Topical Ointment	372416	BROAD	weight_conversions.tsv maps hydrocortisone aceponate 1.11 mg to hydrocortisone 0.87 mg; no exact topical ointment concept found	hydrocortisone aceponate 1.11 MG/ML Topical Ointment	2026-03-12
 731872	86292	975505	hydrocortisone 100 MG Injection	238755	EXACT			2026-03-12
 731873	86292	975505	hydrocortisone 100 MG Injection	238755	EXACT			2026-03-12
 767228	46022	19067226	hydrocortisone 0.01 MG/MG Rectal Ointment	260192	EXACT	0.01 MG/MG = 10 mg/g		2026-03-12
 768305	90505	975505	hydrocortisone 100 MG Injection	238755	EXACT			2026-03-12
 830471	21428	44506681	hydrocortisone acetate 0.01 MG/MG Topical Ointment	1440184	EXACT	0.01 MG/MG = 10 mg/g		2026-03-12
 949172	46022	19067226	hydrocortisone 0.01 MG/MG Rectal Ointment	260192	EXACT	0.01 MG/MG = 10 mg/g		2026-03-12
-997239	58851	975125	hydrocortisone	5492	BROAD	hydrocortisone aceponate 1.27 mg/g cream; no exact RxNorm match	hydrocortisone aceponate 1.11 MG/ML [42706151]	2026-03-12
-997247	58851	975125	hydrocortisone	5492	BROAD	hydrocortisone aceponate 1.27 mg/g cream; no exact RxNorm match	hydrocortisone aceponate 1.11 MG/ML [42706151]	2026-03-12
-997254	58852	975125	hydrocortisone	5492	BROAD	hydrocortisone aceponate 1.27 mg/g ointment; no exact RxNorm match	hydrocortisone aceponate 1.11 MG/ML [42706151]	2026-03-12
+997239	58851	40049748	hydrocortisone Topical Cream	377712	BROAD	weight_conversions.tsv maps hydrocortisone aceponate 1.11 mg to hydrocortisone 0.87 mg; no exact topical cream concept found	hydrocortisone aceponate 1.11 MG/ML Topical Cream	2026-03-12
+997247	58851	40049748	hydrocortisone Topical Cream	377712	BROAD	weight_conversions.tsv maps hydrocortisone aceponate 1.11 mg to hydrocortisone 0.87 mg; no exact topical cream concept found	hydrocortisone aceponate 1.11 MG/ML Topical Cream	2026-03-12
+997254	58852	40050122	hydrocortisone Topical Ointment	372416	BROAD	weight_conversions.tsv maps hydrocortisone aceponate 1.11 mg to hydrocortisone 0.87 mg; no exact topical ointment concept found	hydrocortisone aceponate 1.11 MG/ML Topical Ointment	2026-03-12
 999201	58972	43014078	hydrocortisone probutate 1 MG/ML Topical Cream	1370746	EXACT	buteprato = probutate in RxNorm; 1 mg/g = 1 MG/ML		2026-03-12

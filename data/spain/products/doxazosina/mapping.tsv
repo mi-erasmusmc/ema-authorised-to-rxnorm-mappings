@@ -45,8 +45,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 721887	3400937625784	1363089	doxazosin 8 MG Extended Release Oral Tablet [Cardura]	631243	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12
 801480	62656	1363089	doxazosin 8 MG Extended Release Oral Tablet [Cardura]	631243	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12
 801324	62655	19124193	doxazosin 4 MG Extended Release Oral Tablet [Cardura]	631240	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12
-853010	62929	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	BROAD	PROGANDOL NEO brand not in RxNorm; mapped to clinical drug concept	doxazosin 4 MG Extended Release Oral Tablet [Progandol Neo]	2026-03-12
-853036	62930	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	BROAD	PROGANDOL NEO brand not in RxNorm; mapped to clinical drug concept	doxazosin 8 MG Extended Release Oral Tablet [Progandol Neo]	2026-03-12
-997502	58860	1363058	doxazosin 2 MG Oral Tablet	197626	BROAD	PROGANDOL brand not in RxNorm; mapped to clinical drug concept	doxazosin 2 MG Oral Tablet [Progandol]	2026-03-12
-997510	58861	1363059	doxazosin 4 MG Oral Tablet	197627	BROAD	PROGANDOL brand not in RxNorm; mapped to clinical drug concept	doxazosin 4 MG Oral Tablet [Progandol]	2026-03-12
+853010	62929	1363086	doxazosin 4 MG Extended Release Oral Tablet	389131	EXACT			2026-03-12
+853036	62930	1363087	doxazosin 8 MG Extended Release Oral Tablet	389166	EXACT			2026-03-12
+997502	58860	1363058	doxazosin 2 MG Oral Tablet	197626	EXACT			2026-03-12
+997510	58861	1363059	doxazosin 4 MG Oral Tablet	197627	EXACT			2026-03-12
 621904	62655	19124193	doxazosin 4 MG Extended Release Oral Tablet [Cardura]	631240	EXACT	CARDURAN NEO brand; Cardura XL is the branded equivalent in RxNorm		2026-03-12

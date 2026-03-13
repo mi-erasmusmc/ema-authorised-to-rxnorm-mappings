@@ -2,7 +2,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 631176	65262	19104455	tobramycin 50 MG/ML Injectable Solution	415080	BROAD	50mg/2ml=25MG/ML; no 25 MG/ML concentration concept in RxNorm	tobramycin 25 MG/ML Injectable Solution	2026-03-13
 631226	65261	19104455	tobramycin 50 MG/ML Injectable Solution	415080	EXACT			2026-03-12
 653544	57593	19036659	tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobrex]	207850	EXACT			2026-03-12
-658774	68621	42901769	tobramycin 75 MG/ML Inhalation Solution	1314763	BROAD	BRAMITOB 300mg/4ml=75MG/ML; no Bramitob brand in RxNorm; closest branded equivalent is Bethkis	tobramycin 75 MG/ML Inhalation Solution [Bethkis]	2026-03-13
+658774	68621	42901769	tobramycin 75 MG/ML Inhalation Solution	1314763	BROAD	BRAMITOB 300mg/4ml=75MG/ML; no Bramitob brand in RxNorm; closest branded equivalent is Bethkis	4 ML tobramycin 75 MG/ML Inhalation Solution [Bramitob]	2026-03-13
 672722	64350	902741	tobramycin 3 MG/ML Ophthalmic Solution	313415	EXACT			2026-03-13
 687247	75344	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13
 688545	75612	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13

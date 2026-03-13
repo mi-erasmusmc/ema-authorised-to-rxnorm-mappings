@@ -26,11 +26,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 683839	60821	19003030	fluvastatin 20 MG Oral Capsule [Lescol]	103918	EXACT			2026-03-12
 688071	75532	19077498	fluvastatin 40 MG Oral Capsule	310405	EXACT			2026-03-12
 688072	75533	19077497	fluvastatin 20 MG Oral Capsule	310404	EXACT			2026-03-12
-745539	64782	19077499	fluvastatin 80 MG Extended Release Oral Tablet	310406	BROAD		fluvastatin 80 MG Extended Release Oral Tablet [Vaditon Prolib]	2026-03-12
-750430	65235	19077499	fluvastatin 80 MG Extended Release Oral Tablet	310406	BROAD		fluvastatin 80 MG Extended Release Oral Tablet [Liposit Prolib]	2026-03-12
-834416	62793	19077497	fluvastatin 20 MG Oral Capsule	310404	BROAD		fluvastatin 20 MG Oral Capsule [Digaril]	2026-03-12
-834481	62794	19077498	fluvastatin 40 MG Oral Capsule	310405	BROAD		fluvastatin 40 MG Oral Capsule [Digaril]	2026-03-12
-850602	62883	19077497	fluvastatin 20 MG Oral Capsule	310404	BROAD		fluvastatin 20 MG Oral Capsule [Vaditon]	2026-03-12
-850610	62884	19077498	fluvastatin 40 MG Oral Capsule	310405	BROAD		fluvastatin 40 MG Oral Capsule [Vaditon]	2026-03-12
+745539	64782	19077499	fluvastatin 80 MG Extended Release Oral Tablet	310406	EXACT			2026-03-12
+750430	65235	19077499	fluvastatin 80 MG Extended Release Oral Tablet	310406	EXACT			2026-03-12
+834416	62793	19077497	fluvastatin 20 MG Oral Capsule	310404	EXACT			2026-03-12
+834481	62794	19077498	fluvastatin 40 MG Oral Capsule	310405	EXACT			2026-03-12
+850602	62883	19077497	fluvastatin 20 MG Oral Capsule	310404	EXACT			2026-03-12
+850610	62884	19077498	fluvastatin 40 MG Oral Capsule	310405	EXACT			2026-03-12
 857078	64648	19134825	fluvastatin 80 MG Extended Release Oral Tablet [Lescol]	845017	EXACT			2026-03-12
-903971	64692	19077499	fluvastatin 80 MG Extended Release Oral Tablet	310406	BROAD		fluvastatin 80 MG Extended Release Oral Tablet [Digaril Prolib]	2026-03-12
+903971	64692	19077499	fluvastatin 80 MG Extended Release Oral Tablet	310406	EXACT			2026-03-12
