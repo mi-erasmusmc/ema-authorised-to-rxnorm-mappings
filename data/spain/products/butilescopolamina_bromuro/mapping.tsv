@@ -1,8 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603985	18221	19021828	butylscopolamine bromide 10 MG Oral Tablet	199442	EXACT			
-603993	18220	40236758	butylscopolamine bromide 20 MG/ML Injectable Solution	1094495	EXACT			
-656750	18221	19021828	butylscopolamine bromide 10 MG Oral Tablet	199442	EXACT			
-656753	18220	40236758	butylscopolamine bromide 20 MG/ML Injectable Solution	1094495	EXACT			
-730904	85946	19021828	butylscopolamine bromide 10 MG Oral Tablet	199442	EXACT			
-731685	86236	966034	scopolamine 20 MG/ML Injectable Solution	412723				
-762289	18221	19021828	butylscopolamine bromide 10 MG Oral Tablet	199442	EXACT			
+603985	18221	19021828	butylscopolamine bromide 10 MG Oral Tablet	199442	EXACT			2026-03-13
+603993	18220	40236758	butylscopolamine bromide 20 MG/ML Injectable Solution	1094495	EXACT			2026-03-13
+656750	18221	19021828	butylscopolamine bromide 10 MG Oral Tablet	199442	EXACT			2026-03-13
+656753	18220	40236758	butylscopolamine bromide 20 MG/ML Injectable Solution	1094495	EXACT			2026-03-13
+730904	85946	19021828	butylscopolamine bromide 10 MG Oral Tablet	199442	EXACT			2026-03-13
+731685	86236	40236758	butylscopolamine bromide 20 MG/ML Injectable Solution	1094495	EXACT			2026-03-13
+762289	18221	19021828	butylscopolamine bromide 10 MG Oral Tablet	199442	EXACT			2026-03-13
+723130	18218	40234201	butylscopolamine	1085787	BROAD	RxNorm does not expose a butylscopolamine rectal suppository concept.	butylscopolamine bromide 10 MG Rectal Suppository	2026-03-13

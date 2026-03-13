@@ -1,3 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-704768	79382	19063925	octylonium 40 MG Oral Tablet	250891	EXACT			
-704770	79384	19063925	octylonium 40 MG Oral Tablet	250891	EXACT			
+704768	79382	19063925	octylonium 40 MG Oral Tablet	250891	EXACT			2026-03-13
+704770	79384	19063925	octylonium 40 MG Oral Tablet	250891	EXACT			2026-03-13
+704707	79342	19063925	octylonium 40 MG Oral Tablet	250891	EXACT			2026-03-13
+916585	58707	19063925	octylonium 40 MG Oral Tablet	250891	EXACT			2026-03-13
+962316	56461	40101687	octylonium Oral Tablet	392935	BROAD	RxNorm does not expose a 10 mg octylonium tablet concept.	octylonium 10 MG Oral Tablet	2026-03-13

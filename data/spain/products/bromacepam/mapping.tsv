@@ -1,14 +1,17 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603564	73132	19030353	bromazepam	1749	BROAD			
-603565	73133	19030353	bromazepam	1749	BROAD			
-672900	73132	19030353	bromazepam	1749	BROAD			
-672901	73133	19030353	bromazepam	1749	BROAD			
-672902	73129	19030353	bromazepam	1749	BROAD			
-677308	73322	19030353	bromazepam	1749	BROAD			
-677311	73321	19030353	bromazepam	1749	BROAD			
-677312	73324	19030353	bromazepam	1749	BROAD			
-677313	73319	19030353	bromazepam	1749	BROAD			
-688765	75680	19030353	bromazepam	1749	BROAD			
-705816	79660	19030353	bromazepam	1749	BROAD			
-779553	53560	19030353	bromazepam	1749	BROAD			
-952069	55751	19030353	bromazepam	1749	BROAD			
+603564	73132	19004476	bromazepam 1.5 MG Oral Tablet	104707	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 1.5 MG Oral Capsule	2026-03-13
+603565	73133	19030355	bromazepam 3 MG Oral Tablet	199436	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 3 MG Oral Capsule	2026-03-13
+672900	73132	19004476	bromazepam 1.5 MG Oral Tablet	104707	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 1.5 MG Oral Capsule	2026-03-13
+672901	73133	19030355	bromazepam 3 MG Oral Tablet	199436	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 3 MG Oral Capsule	2026-03-13
+672902	73129	19030356	bromazepam 6 MG Oral Tablet	199437	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 6 MG Oral Capsule	2026-03-13
+677308	73322	19004476	bromazepam 1.5 MG Oral Tablet	104707	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 1.5 MG Oral Capsule	2026-03-13
+677311	73321	19030355	bromazepam 3 MG Oral Tablet	199436	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 3 MG Oral Capsule	2026-03-13
+677312	73324	19004476	bromazepam 1.5 MG Oral Tablet	104707	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 1.5 MG Oral Capsule	2026-03-13
+677313	73319	19030355	bromazepam 3 MG Oral Tablet	199436	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 3 MG Oral Capsule	2026-03-13
+688765	75680	19004476	bromazepam 1.5 MG Oral Tablet	104707	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 1.5 MG Oral Capsule	2026-03-13
+705816	79660	19030356	bromazepam 6 MG Oral Tablet	199437	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 6 MG Oral Capsule	2026-03-13
+779553	53560	19004476	bromazepam 1.5 MG Oral Tablet	104707	BROAD	Spain brand Lexatin lacks a matching RxNorm brand string; tablet concept is the closest standard presentation.	bromazepam 1.5 MG Oral Capsule [Lexatin]	2026-03-13
+952069	55751	19030355	bromazepam 3 MG Oral Tablet	199436	BROAD	Spain brand Lexatin lacks a matching RxNorm brand string; tablet concept is the closest standard presentation.	bromazepam 3 MG Oral Capsule [Lexatin]	2026-03-13
+688766	75681	19030355	bromazepam 3 MG Oral Tablet	199436	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 3 MG Oral Capsule	2026-03-13
+705815	79659	19030355	bromazepam 3 MG Oral Tablet	199436	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 3 MG Oral Capsule	2026-03-13
+705817	79661	19004476	bromazepam 1.5 MG Oral Tablet	104707	BROAD	RxNorm exposes strength-specific bromazepam tablets, not immediate-release capsules.	bromazepam 1.5 MG Oral Capsule	2026-03-13

@@ -30,3 +30,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 602356	68257	35603225	furosemide 10 MG/ML Injection	1719287	EXACT			2026-03-12
 628073	65540	35603225	furosemide 10 MG/ML Injection	1719287	EXACT	20mg/2ml=10MG/ML; same concept as other furosemide 10MG/ML injections		2026-03-12
 628172	65541	35603225	furosemide 10 MG/ML Injection	1719287	BROAD	250mg/25ml=10MG/ML; no 25ml volume concept in RxNorm; closest volumes are 10ml (35603224) or 50ml (1735772)	furosemide 10 MG/ML Injection 25ml	2026-03-12
+656155	68079	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+691204	77176	35603225	furosemide 10 MG/ML Injection	1719287	EXACT	20mg/2ml=10 MG/ML; matches existing single-use injection pattern in this folder.		2026-03-13
+703870	79098	35603225	furosemide 10 MG/ML Injection	1719287	BROAD	250mg/25ml=10 MG/ML; no 25 ML volume-specific RxNorm injection concept found.	furosemide 10 MG/ML Injection 25 ML	2026-03-13
+715406	81980	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+715980	81981	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+721863	83092	35603225	furosemide 10 MG/ML Injection	1719287	EXACT	20mg/2ml=10 MG/ML; same presentation as other exact 20 mg/2 ml injection rows in this folder.		2026-03-13
+725071	83767	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+727555	84901	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+728461	85334	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+730478	85809	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+730486	85812	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+924563	74391	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13
+935239	74391	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-13

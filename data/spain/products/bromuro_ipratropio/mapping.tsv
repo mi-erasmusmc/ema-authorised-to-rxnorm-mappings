@@ -1,11 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-605412	72581	1356213	ipratropium Inhalation Solution	2108449	BROAD			
-648956	61185	1356213	ipratropium Inhalation Solution	2108449	BROAD			
-648964	61184	1356213	ipratropium Inhalation Solution	2108449	BROAD			
-653830	67561	36811591	Ipratropium 0.25 MG/ML Inhalation Solution	OMOP4825626	EXACT			
-663046	70939	1356213	ipratropium Inhalation Solution	2108449	BROAD			
-672312	72581	1356213	ipratropium Inhalation Solution	2108449	BROAD			
-678078	61185	1356213	ipratropium Inhalation Solution	2108449	BROAD			
-678086	61184	1356213	ipratropium Inhalation Solution	2108449	BROAD			
-706160	79736	1356213	ipratropium Inhalation Solution	2108449	BROAD			
-720011	54674	1356213	ipratropium Inhalation Solution	2108449	BROAD			
+605412	72581	42902912	ipratropium bromide 0.018 MG/ACTUAT Metered Dose Inhaler	1360025	BROAD	ATROALDO CIMA ficha técnica/prospecto states 20 mcg per inhalation; I did not verify a delivered 17 or 18 mcg equivalence from the label, so this should stay conservative.	ipratropium bromide 20 MCG/ACTUAT Metered Dose Inhaler	2026-03-13
+648956	61185	1113076	ipratropium bromide 0.2 MG/ML Inhalation Solution	836358	BROAD	RxNorm does not expose the exact 250 mcg/2 mL nebule strength.	ipratropium bromide 250 MCG/2 ML Inhalation Solution	2026-03-13
+648964	61184	1113076	ipratropium bromide 0.2 MG/ML Inhalation Solution	836358	BROAD	RxNorm does not expose the exact 500 mcg/2 mL nebule strength.	ipratropium bromide 500 MCG/2 ML Inhalation Solution	2026-03-13
+653830	67561	36811591	Ipratropium 0.25 MG/ML Inhalation Solution	OMOP4825626	EXACT			2026-03-13
+663046	70939	1113076	ipratropium bromide 0.2 MG/ML Inhalation Solution	836358	BROAD	RxNorm does not expose the exact 500 mcg/2 mL nebule strength.	ipratropium bromide 500 MCG/2 ML Inhalation Solution	2026-03-13
+672312	72581	42902912	ipratropium bromide 0.018 MG/ACTUAT Metered Dose Inhaler	1360025	BROAD	ATROALDO CIMA ficha técnica/prospecto states 20 mcg per inhalation; I did not verify a delivered 17 or 18 mcg equivalence from the label, so this should stay conservative.	ipratropium bromide 20 MCG/ACTUAT Metered Dose Inhaler	2026-03-13
+678078	61185	1113076	ipratropium bromide 0.2 MG/ML Inhalation Solution	836358	BROAD	RxNorm does not expose the exact 250 mcg/2 mL nebule strength.	ipratropium bromide 250 MCG/2 ML Inhalation Solution	2026-03-13
+678086	61184	1113076	ipratropium bromide 0.2 MG/ML Inhalation Solution	836358	BROAD	RxNorm does not expose the exact 500 mcg/2 mL nebule strength.	ipratropium bromide 500 MCG/2 ML Inhalation Solution	2026-03-13
+706160	79736	42902912	ipratropium bromide 0.018 MG/ACTUAT Metered Dose Inhaler	1360025	BROAD	Cipla prospectus distinguishes 20 mcg ex-válvula from 17 mcg ex-pulsador, so the 18 mcg RxNorm pMDI concept is only an approximate match.	ipratropium bromide 20 MCG/ACTUAT Metered Dose Inhaler	2026-03-13
+720011	54674	1113079	200 ACTUAT ipratropium bromide 0.017 MG/ACTUAT Metered Dose Inhaler [Atrovent]	836368	BROAD	Atrovent CIMA labeling states 20 mcg per spray; I did not confirm a label-supported 17 mcg delivered-dose presentation, so the branded 17 mcg concept should remain BROAD.	ipratropium bromide 20 MCG/ACTUAT Metered Dose Inhaler [Atrovent]	2026-03-13
+660943	69791	1113076	ipratropium bromide 0.2 MG/ML Inhalation Solution	836358	BROAD	RxNorm does not expose the exact 500 mcg/2 mL nebule strength.	ipratropium bromide 500 MCG/2 ML Inhalation Solution	2026-03-13
+664565	61848	36250068	ipratropium bromide 0.021 MG/ACTUAT Metered Dose Nasal Spray [Atrovent]	1797835	EXACT	Spain labels the nasal spray at 0.3 mg/mL; RxNorm encodes the equivalent Atrovent nasal spray per actuation.		2026-03-13
