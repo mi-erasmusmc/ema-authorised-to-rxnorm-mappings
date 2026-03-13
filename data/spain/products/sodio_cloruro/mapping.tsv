@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600506	67553	40221362	sodium chloride Injection	1807545	EXACT			2026-03-12
+600506	67553	40221378	sodium chloride 50 MG/ML Injection	1807587	BROAD	5.84% (58.4 MG/ML) single-use ampoule; no exact 10 ML 58.4 MG/ML standard RxNorm concept found.	10 ML sodium chloride 58.4 MG/ML Injection	2026-03-13
 600538	67698	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-03-12
 600539	67698	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
 600540	67698	40221386	250 ML sodium chloride 9 MG/ML Injection	1807633	EXACT			2026-03-12
@@ -35,7 +35,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606776	67698	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-03-12
 606777	67698	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
 606819	65306	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-03-12
-607133	61987	40221362	sodium chloride Injection	1807545	EXACT			2026-03-12
+607133	61987	43297022	10 ML Sodium Chloride 200 MG/ML Injection	OMOP563397	BROAD	20% concentrate for solution for perfusion; RxNorm only exposes Injection, not concentrate-for-perfusion.	10 ML Sodium Chloride 200 MG/ML Concentrate for Solution for Infusion	2026-03-13
 607187	65306	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
 607188	58449	40221390	20 ML sodium chloride 9 MG/ML Injection	1807638	EXACT			2026-03-12
 607189	58449	40221389	10 ML sodium chloride 9 MG/ML Injection	1807637	EXACT			2026-03-12
@@ -57,12 +57,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 607419	34365	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-03-12
 607771	65306	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
 609057	41671	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
-609685	60916	40221362	sodium chloride Injection	1807545	EXACT			2026-03-12
-609693	60916	40221362	sodium chloride Injection	1807545	EXACT			2026-03-12
+609685	60916	40221365	50 ML sodium chloride 4.5 MG/ML Injection	1807548	EXACT			2026-03-13
+609693	60916	40221366	100 ML sodium chloride 4.5 MG/ML Injection	1807549	EXACT			2026-03-13
 610600	34365	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-03-12
 610659	34365	40221386	250 ML sodium chloride 9 MG/ML Injection	1807633	EXACT			2026-03-12
 610667	34365	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
-614552	45432	40221362	sodium chloride Injection	1807545	EXACT			2026-03-12
+614552	45432	1759089	sodium chloride 20 MG/ML	2592525	BROAD	2% (20 MG/ML) 500 ML perfusion; no exact parenteral RxNorm concept found.	500 ML sodium chloride 20 MG/ML Injection	2026-03-13
 615088	41671	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-03-12
 616003	32726	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-03-12
 616045	32726	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
@@ -95,12 +95,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 642637	59374	40221389	10 ML sodium chloride 9 MG/ML Injection	1807637	EXACT			2026-03-12
 642918	41671	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
 643924	34365	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
-644500		19079524	sodium chloride 9 MG/ML Injectable Solution	313002	EXACT			2026-03-12
+644500	32773	35418332	2000 ML Sodium Chloride 9 MG/ML Injection	OMOP1151917	EXACT			2026-03-13
 645382	41671	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-03-12
 645457	34365	40221386	250 ML sodium chloride 9 MG/ML Injection	1807633	EXACT			2026-03-12
 645713	32726	40221386	250 ML sodium chloride 9 MG/ML Injection	1807633	EXACT			2026-03-12
 648220	32726	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-03-12
-648279	60916	40221362	sodium chloride Injection	1807545	EXACT			2026-03-12
+648279	60916	40221368	500 ML sodium chloride 4.5 MG/ML Injection	1807551	EXACT			2026-03-13
 650196	66367	1465655	sodium chloride 9 MG/ML Ophthalmic Solution	2706648	EXACT			2026-03-12
 671622	72541	40220358	5 ML sodium chloride 9 MG/ML Injection	1807646	EXACT			2026-03-12
 671623	72541	40221389	10 ML sodium chloride 9 MG/ML Injection	1807637	EXACT			2026-03-12
@@ -112,7 +112,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 690366	34365	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
 716715	82207	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-03-12
 718736	41671	40221386	250 ML sodium chloride 9 MG/ML Injection	1807633	EXACT			2026-03-12
-730918	67553	40221362	sodium chloride Injection	1807545	EXACT			2026-03-12
+730918	67553	40221378	sodium chloride 50 MG/ML Injection	1807587	BROAD	5.84% (58.4 MG/ML) single-use ampoule; no exact 10 ML 58.4 MG/ML standard RxNorm concept found.	10 ML sodium chloride 58.4 MG/ML Injection	2026-03-13
 825067	34365	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-03-12
 825075	34365	40221386	250 ML sodium chloride 9 MG/ML Injection	1807633	EXACT			2026-03-12
 825083	34365	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-03-12
@@ -170,5 +170,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703716	78956	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-03-12
 961847	56432	19079523	sodium chloride 9 MG/ML Nasal Solution	313000	EXACT			2026-03-13
 961920	56432	19079523	sodium chloride 9 MG/ML Nasal Solution	313000	EXACT			2026-03-13
-990051		21025070	Sodium Chloride 50 MG/ML Ophthalmic Solution	OMOP398736	EXACT			2026-03-12
+990051	58380	19127416	sodium chloride 0.854 MEQ/ML Ophthalmic Solution	730780	EXACT	50 MG/ML expressed in RxNorm as 0.854 MEQ/ML.		2026-03-13
 990473	58415	42801149	sodium chloride 0.000855 MEQ/MG Ophthalmic Ointment	1298435	EXACT			2026-03-13

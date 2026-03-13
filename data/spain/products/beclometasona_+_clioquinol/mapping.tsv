@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+655878	52444	980899	beclomethasone 0.25 MG/ML / clioquinol 30 MG/ML Topical Cream	247435	EXACT			2026-03-13
+785089	52444	980899	beclomethasone 0.25 MG/ML / clioquinol 30 MG/ML Topical Cream	247435	EXACT			2026-03-13
+928267	54860	40010335	beclomethasone / clioquinol Topical Cream	379390	BROAD	RxNorm lacks a beclomethasone / clioquinol otic solution concept; mapped to the closest available two-ingredient beclomethasone/clioquinol concept instead of introducing the wrong corticosteroid.	beclomethasone 0.25 MG/ML / clioquinol 10 MG/ML Otic Solution	2026-03-13
