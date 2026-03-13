@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+654962	44862	40010706	beclomethasone Topical Cream	379378	BROAD	RxNorm lacks a beclomethasone/neomycin cream concept; mapped to ingredient-correct corticosteroid family with explicit suggestion.	beclomethasone 0.25 MG/G / neomycin 7.2 MG/G Topical Cream	2026-03-13
+785147	44862	40010706	beclomethasone Topical Cream	379378	BROAD	RxNorm lacks a beclomethasone/neomycin cream concept; mapped to ingredient-correct corticosteroid family with explicit suggestion.	beclomethasone 0.25 MG/G / neomycin 7.2 MG/G Topical Cream	2026-03-13
+785154	50090	40010709	beclomethasone Topical Lotion	379388	BROAD	RxNorm lacks a beclomethasone/neomycin cutaneous emulsion concept; mapped to ingredient-correct beclomethasone topical lotion family.	beclomethasone 0.25 MG/ML / neomycin 7.2 MG/ML Topical Lotion	2026-03-13

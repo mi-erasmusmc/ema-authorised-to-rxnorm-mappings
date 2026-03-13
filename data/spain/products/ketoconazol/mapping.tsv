@@ -2,15 +2,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 977314	57595	19026476	ketoconazole 20 MG/ML Topical Cream	203088	EXACT			2026-03-13
 978528	57684	19026476	ketoconazole 20 MG/ML Topical Cream	203088	EXACT			2026-03-13
 990747	58437	19026476	ketoconazole 20 MG/ML Topical Cream	203088	EXACT			2026-03-13
-651454	66934	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-651971	67174	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-673180	72687	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-718957	82439	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-736132	86909	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-752360	87831	985763	ketoconazole 0.02 MG/MG Topical Powder	251567	EXACT			2026-03-13
-759076	88232	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-767467	90135	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-895342	104736	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-941146	56244	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
-978536	57855	19091466	ketoconazole 400 MG	335101	BROAD	No exact ketoconazole vaginal ovule concept found in RxNorm.	ketoconazole 400 MG Vaginal Insert	2026-03-13
-999740	59002	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+651454	66856	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+651971	66994	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+673180	65190	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+718957	65161	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+736132	66163	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+752360	59843	985763	ketoconazole 0.02 MG/MG Topical Powder	251567	EXACT			2026-03-13
+759076	65339	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+767467	66052	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+895342	66025	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+941146	66037	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13
+978536	57685	19091466	ketoconazole 400 MG	335101	BROAD	No exact ketoconazole vaginal ovule concept found in RxNorm.	ketoconazole 400 MG Vaginal Insert	2026-03-13
+999740	64193	985782	ketoconazole 0.02 MG/MG Topical Gel	647253	EXACT			2026-03-13

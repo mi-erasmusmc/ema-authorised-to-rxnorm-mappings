@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+777086	19461	41173942	Lactobacillus acidophilus Oral Powder	OMOP2371904	BROAD	RxNorm lacks a matching strength-specific powder concept for 120 million UFC/g.	Lactobacillus acidophilus 120000000 UNT/G Oral Powder	2026-03-13
+777102	34702	41173942	Lactobacillus acidophilus Oral Powder	OMOP2371904	BROAD	RxNorm lacks a matching strength-specific powder concept for 240 million UFC sachet.	Lactobacillus acidophilus 240000000 UNT Oral Powder	2026-03-13
+779116	65790	41173942	Lactobacillus acidophilus Oral Powder	OMOP2371904	BROAD	RxNorm lacks a matching strength-specific powder concept for 10 billion UFC sachet.	Lactobacillus acidophilus 10000000000 UNT Oral Powder	2026-03-13
+779124	65791	43013708	Lactobacillus acidophilus 10000000000 UNT Oral Capsule	1370001	EXACT			2026-03-13

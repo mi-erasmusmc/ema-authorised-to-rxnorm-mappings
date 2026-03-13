@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+674275	61377	37353706	BCG, live, Tice strain Powder for Intravesical Suspension [Tice BCG]	2719344	EXACT			2026-03-13
+778324	64882	36854686	BACILLUS CALMETTE-GUERIN LIVE ANTIGEN, UNSPECIFIED SUBSTRAIN	OMOP5172303	BROAD	Spain source does not state the BCG substrain; RxNorm intravesical concepts are substrain-specific.	BCG, live, Powder for Intravesical Suspension	2026-03-13
+863068	59789	19102195	BCG, live, Connaught strain 81 MG Powder for Intravesical Suspension	402058	EXACT			2026-03-13

@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602421	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
-602422	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+602421	68424	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
+602422	68424	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
 602716	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 602717	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
-602718	69380	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
-602719	69381	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+602718	69380	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
+602719	69381	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
 603427	72387	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 603428	72387	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 603429	72388	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
@@ -19,19 +19,19 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 651572	66913	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 651573	66914	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 651574	66914	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
-656415	68195	19101592	ondansetron 2.5 MG/ML Injectable Solution	387067	EXACT			2026-03-12
-656416	68195	19101592	ondansetron 2.5 MG/ML Injectable Solution	387067	EXACT			2026-03-12
+656415	68195	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
+656416	68195	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
 656438	68209	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 656451	68215	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
-658390	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
-658391	68424	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+658390	68424	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
+658391	68424	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
 660082	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 660083	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 660085	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 660086	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
-660087	69381	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
-661153	69905	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
-661155	69905	19070869	ondansetron 2 MG/ML Injectable Solution	283504	EXACT			2026-03-12
+660087	69381	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
+661153	69905	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
+661155	69905	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
 662256	70454	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 671282	72468	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894	EXACT			2026-03-12
 671287	72469	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087	EXACT			2026-03-12
@@ -63,11 +63,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 650284	66396	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 650285	66396	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 600018	66394	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
-605408	72117	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+605408	72117	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
 643643	59071	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
 645226	60402	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
-671265	70969	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
-698141	77544	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
+671265	70969	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
+698141	77544	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
 730289	59071	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
 796953	59071	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
 600019	66395	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
