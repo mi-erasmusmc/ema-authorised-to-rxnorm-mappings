@@ -1,3 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607223	84251	46287362	cefoxitin Injection	1665101	BROAD			
-607224	84252	46287362	cefoxitin Injection	1665101	BROAD			
+607223	84251	46287363	cefoxitin 1000 MG Injection	1665102	EXACT			2026-03-13
+607224	84252	46287368	cefoxitin 2000 MG Injection	1665107	EXACT			2026-03-13
+615542	63812	46287363	cefoxitin 1000 MG Injection	1665102	EXACT			2026-03-13
+615609	63814	46287363	cefoxitin 1000 MG Injection	1665102	EXACT			2026-03-13
+880062	63814	46287363	cefoxitin 1000 MG Injection	1665102	EXACT			2026-03-13

@@ -1,6 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650852	66627	1525347	leuprolide acetate 22.5 MG Injection	2606516	EXACT			
-663289	69357	42902518	leuprolide acetate 60 MG/ML Prefilled Syringe [Eligard]	1359631	EXACT			
-680759	74095	1351703	0.5 ML leuprolide acetate 60 MG/ML Prefilled Syringe	752889	EXACT			
-705540	79581	40052221	leuprolide Drug Implant	379298	BROAD			
-751369	1221647001	779169	leuprolide 42 MG Prefilled Syringe [Camcevi]	2595049	EXACT			2025-12-04
+650852	66627	1351748	0.375 ML leuprolide acetate 60 MG/ML Prefilled Syringe [Eligard]	825335	EXACT			2026-03-13
+663289	69357	1351745	0.375 ML leuprolide acetate 120 MG/ML Prefilled Syringe [Eligard]	825325	EXACT			2026-03-13
+680759	74095	40240346	1.5 ML leuprolide acetate 30 MG/ML Prefilled Syringe	1115257	EXACT			2026-03-13
+705540	79581	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
+751369	1221647001	779169	leuprolide 42 MG Prefilled Syringe [Camcevi]	2595049	EXACT			2026-03-13
+680757	74093	40240359	1 ML leuprolide acetate 11.25 MG/ML Prefilled Syringe	1115447	EXACT			2026-03-13
+680758	74094	40240363	1 ML leuprolide acetate 3.75 MG/ML Prefilled Syringe	1115457	EXACT			2026-03-13
+685615	74980	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
+706971	80000	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
+723417	83376	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
+723419	83377	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13
+765972	14300	1351745	0.375 ML leuprolide acetate 120 MG/ML Prefilled Syringe [Eligard]	825325	EXACT			2026-03-13
+909630	59344	40052221	leuprolide Drug Implant	379298	BROAD	RxNorm does not expose the matching 5 mg implant presentation.	leuprolide 5 MG Drug Implant	2026-03-13

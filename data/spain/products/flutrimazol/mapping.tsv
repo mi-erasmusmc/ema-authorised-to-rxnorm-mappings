@@ -1,0 +1,9 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+652131	60461	19104612	flutrimazole 10 MG/ML Topical Cream	415779	EXACT			2026-03-13
+654392	60460	19104612	flutrimazole 10 MG/ML Topical Cream	415779	EXACT			2026-03-13
+681387	60962	19110040	flutrimazole 10 MG/ML	439833	BROAD	RxNorm does not expose a flutrimazole topical-solution concept.	flutrimazole 10 MG/ML Topical Solution	2026-03-13
+682716	60877	40058417	flutrimazole Topical Cream	439834	BROAD	RxNorm does not expose a flutrimazole gel concept.	flutrimazole 10 MG/G Topical Gel	2026-03-13
+682724	60876	40058417	flutrimazole Topical Cream	439834	BROAD	RxNorm does not expose a flutrimazole gel concept.	flutrimazole 10 MG/G Topical Gel	2026-03-13
+690099	60461	19104612	flutrimazole 10 MG/ML Topical Cream	415779	EXACT			2026-03-13
+690107	60460	19104612	flutrimazole 10 MG/ML Topical Cream	415779	EXACT			2026-03-13
+847103	62853	19110040	flutrimazole 10 MG/ML	439833	BROAD	RxNorm does not expose a flutrimazole topical-powder concept.	flutrimazole 10 MG/G Topical Powder	2026-03-13

@@ -1,7 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-653304	63618	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237				
-677575	63616	40049171	ketotifen Ophthalmic Solution	372550	BROAD			
-679437	73844	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237				
-717029	82296	40049171	ketotifen Ophthalmic Solution	372550	BROAD			
-717031	82297	40049171	ketotifen Ophthalmic Solution	372550	BROAD			
-730335	85755	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237				
+653304	63618	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	EXACT			2026-03-13
+677575	63616	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	ketotifen 0.25 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+679437	73844	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	EXACT			2026-03-13
+717029	82296	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	ketotifen 0.25 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+717031	82297	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	ketotifen 0.25 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+730335	85755	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	EXACT			2026-03-13
+677989	63619	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	EXACT			2026-03-13
+679181	73518	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	EXACT			2026-03-13
+697080	77213	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	ketotifen 0.25 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+697082	77213	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	ketotifen 0.25 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+721778	3400935607744	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	ketotifen 0.25 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+725088	34009356076 8 3	986148	ketotifen 0.25 MG/ML Ophthalmic Solution	311237	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	ketotifen 0.25 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+950550	55623	986118	ketotifen 1 MG Oral Tablet	246127	EXACT			2026-03-13
+989889	55805	986119	ketotifen 0.2 MG/ML Oral Solution	246129	EXACT			2026-03-13

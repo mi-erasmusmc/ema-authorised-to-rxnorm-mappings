@@ -9,8 +9,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606348	75816	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-12
 606658	79740	35606001	meropenem 500 MG Injection	1722934	EXACT			2026-03-12
 606659	79741	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-12
-606824	81050	35606000	meropenem Injection	1722933	BROAD		No dose-specific RxNorm concept matched; mapped to meropenem Injection	2026-03-12
-606825	81049	35606000	meropenem Injection	1722933	BROAD		No dose-specific RxNorm concept matched; mapped to meropenem Injection	2026-03-12
+606824	81050	35606001	meropenem 500 MG Injection	1722934	EXACT			2026-03-13
+606825	81049	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-13
 606986	73889	35606001	meropenem 500 MG Injection	1722934	EXACT			2026-03-12
 607005	73890	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-12
 607194	83988	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-12
@@ -25,5 +25,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 689415	75816	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-12
 692473	76308	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-12
 693318	76526	35606001	meropenem 500 MG Injection	1722934	EXACT			2026-03-12
-726621	84438	35606001	meropenem 500 MG Injection	1722934	EXACT			2026-03-12
-726623	84439	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-12
+726621	84438	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-13
+726623	84439	35606001	meropenem 500 MG Injection	1722934	EXACT			2026-03-13
+606063	60640	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-13
+606064	60639	35606001	meropenem 500 MG Injection	1722934	EXACT			2026-03-13
+606320	77887	35606006	meropenem 1000 MG Injection	1722939	EXACT			2026-03-13
+606321	77888	35606001	meropenem 500 MG Injection	1722934	EXACT			2026-03-13

@@ -1,7 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-695033	76832	43619658	fluocinolone 0.19 MG Intravitreal Applicator	OMOP921041	EXACT			
-762633	50031	40243831	fluocinolone acetonide 0.00025 MG/MG	1191255	EXACT			
-762641	50031	40243831	fluocinolone acetonide 0.00025 MG/MG	1191255	EXACT			
-992032	49275	40243831	fluocinolone acetonide 0.00025 MG/MG	1191255	EXACT			
-995563	37290	40243831	fluocinolone acetonide 0.00025 MG/MG	1191255	EXACT			
-995571	37290	40243831	fluocinolone acetonide 0.00025 MG/MG	1191255	EXACT			
+695033	76832	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	EXACT			2026-03-13
+762633	50031	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	EXACT			2026-03-13
+762641	50031	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	EXACT			2026-03-13
+992032	49275	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	EXACT			2026-03-13
+995563	37290	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	EXACT			2026-03-13
+995571	37290	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	EXACT			2026-03-13
+707333	80089	40243831	fluocinolone acetonide 0.00025 MG/MG	1191255	BROAD	RxNorm does not expose the matching otic unit-dose presentation.	fluocinolone acetonide 0.25 MG/ML Otic Solution	2026-03-13
+779702	44205	40243850	fluocinolone acetonide 0.1 MG/MG	1191388	BROAD	RxNorm does not expose the matching rectal cream presentation.	fluocinolone acetonide 0.1 MG/G Rectal Cream	2026-03-13
+807735	54104	40243908	fluocinolone acetonide 2 MG/ML Topical Cream	1191327	EXACT			2026-03-13
+831081	39411	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	EXACT			2026-03-13
+831099	39411	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	EXACT			2026-03-13
+832899	44205	40243850	fluocinolone acetonide 0.1 MG/MG	1191388	BROAD	RxNorm does not expose the matching rectal cream presentation.	fluocinolone acetonide 0.1 MG/G Rectal Cream	2026-03-13
+942565	54104	40243908	fluocinolone acetonide 2 MG/ML Topical Cream	1191327	EXACT			2026-03-13
+997478	46441	40243908	fluocinolone acetonide 2 MG/ML Topical Cream	1191327	EXACT			2026-03-13
