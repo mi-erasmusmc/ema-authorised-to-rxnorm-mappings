@@ -1,4 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-695742	57568	40163075	clomipramine hydrochloride 75 MG Extended Release Oral Tablet	857326	EXACT			
-707646	49656	40163059	clomipramine hydrochloride 10 MG Oral Tablet	857291	EXACT			
-959833	44656	40163065	clomipramine hydrochloride 25 MG Oral Tablet	857296	EXACT			
+695742	57568	40163075	clomipramine hydrochloride 75 MG Extended Release Oral Tablet	857326	EXACT			2026-03-14
+707646	49656	40163059	clomipramine hydrochloride 10 MG Oral Tablet	857291	EXACT			2026-03-14
+959833	44656	40163065	clomipramine hydrochloride 25 MG Oral Tablet	857296	EXACT			2026-03-14
+959825	44657	40163065	clomipramine hydrochloride 25 MG Oral Tablet	857296	BROAD	Spain source is solution for injection and infusion rather than an oral tablet.	clomipramine hydrochloride 25 MG Injection	2026-03-14

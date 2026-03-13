@@ -1,10 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652237	63625	35606289	etoposide 100 MG Injection	1734340				
-661950	62169	35606289	etoposide 100 MG Injection	1734340				
-678607	63625	35606289	etoposide 100 MG Injection	1734340				
-704626	79326	35606289	etoposide 100 MG Injection	1734340				
-724248	79326	35606289	etoposide 100 MG Injection	1734340				
-732200	86400	19077215	etoposide 20 MG/ML Injectable Solution	310248				
-732201	86400	19077215	etoposide 20 MG/ML Injectable Solution	310248				
-957449	56108	19007339	etoposide 100 MG Oral Capsule [Vepesid]	105593	EXACT			
-962712	56488	19007338	etoposide 50 MG Oral Capsule [Vepesid]	105592				
+652237	63625	35606289	etoposide 100 MG Injection	1734340	EXACT			2026-03-14
+661950	62169	35606289	etoposide 100 MG Injection	1734340	EXACT			2026-03-14
+678607	63625	35606289	etoposide 100 MG Injection	1734340	EXACT			2026-03-14
+704626	79326	35606289	etoposide 100 MG Injection	1734340	EXACT			2026-03-14
+724248	79326	35606289	etoposide 100 MG Injection	1734340	EXACT			2026-03-14
+732200	86400	19077215	etoposide 20 MG/ML Injectable Solution	310248	EXACT			2026-03-14
+732201	86400	19077215	etoposide 20 MG/ML Injectable Solution	310248	EXACT			2026-03-14
+957449	56108	19007339	etoposide 100 MG Oral Capsule [Vepesid]	105593	EXACT			2026-03-14
+962712	56488	19007338	etoposide 50 MG Oral Capsule [Vepesid]	105592	EXACT			2026-03-14
+722397	64713	19077215	etoposide 20 MG/ML Injectable Solution	310248	EXACT			2026-03-14

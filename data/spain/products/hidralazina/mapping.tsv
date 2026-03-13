@@ -1,3 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-723294	55960	40174825	hydralazine hydrochloride 50 MG Oral Tablet	905395	EXACT			
-723295	55961	40174811	hydralazine hydrochloride 25 MG Oral Tablet	905225	EXACT			
+723294	55960	40174825	hydralazine hydrochloride 50 MG Oral Tablet	905395	EXACT			2026-03-14
+723295	55961	40174811	hydralazine hydrochloride 25 MG Oral Tablet	905225	EXACT			2026-03-14
+959478	56236	21061008	Hydralazine 20 MG Injection	OMOP340584	BROAD	Spain source is powder for solution for injection rather than a finished injection.	hydralazine 20 MG Injectable Solution	2026-03-14
