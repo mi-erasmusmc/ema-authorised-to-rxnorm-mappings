@@ -1,9 +1,19 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650327	66406	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			
-650414	66453	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			
-658923	68727	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			
+650327	66406	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-13
+650414	66453	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-13
+658923	68727	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-13
 661130	69893	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-12
-669515	61630	1140672	sumatriptan 20 MG/ACTUAT Nasal Spray	314227	EXACT			
-669523	61629	19102176	sumatriptan 10 MG/ACTUAT Nasal Spray	401978	EXACT			
-670482	71178	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			
+669515	61630	1140672	sumatriptan 20 MG/ACTUAT Nasal Spray	314227	EXACT			2026-03-13
+669523	61629	19102176	sumatriptan 10 MG/ACTUAT Nasal Spray	401978	EXACT			2026-03-13
+670482	71178	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-13
 670923	71487	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-12
+658821	68658	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-13
+661131	69894	19079711	sumatriptan 100 MG Oral Tablet	313160	EXACT			2026-03-13
+671254	71486	19079711	sumatriptan 100 MG Oral Tablet	313160	EXACT			2026-03-13
+677303	72020	46276057	0.5 ML sumatriptan 12 MG/ML Auto-Injector	1657151	EXACT	Spain presents this as a prefilled pen; RxNorm expresses the matching 6 mg/0.5 mL device as an auto-injector.		2026-03-13
+701310	78418	19079711	sumatriptan 100 MG Oral Tablet	313160	EXACT			2026-03-13
+701311	78418	19079711	sumatriptan 100 MG Oral Tablet	313160	EXACT			2026-03-13
+701312	78419	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-13
+701313	78419	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-13
+708230	59973	1140706	0.5 ML sumatriptan 12 MG/ML Prefilled Syringe	727339	EXACT			2026-03-13
+765217	11591201901	1140650	sumatriptan 50 MG Oral Tablet	313161	EXACT			2026-03-13

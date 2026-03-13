@@ -1,0 +1,10 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+660126	97031026	40059125	epoetin beta Injectable Solution	372033	BROAD	Epoetin beta not FDA-approved; no US equivalent for 1666.67 UNT/ML	0.3 ML epoetin beta-xxxx 1666.67 UNT/ML Prefilled Syringe [NeoRecormon]	2026-03-13
+660084	97031030	40059125	epoetin beta Injectable Solution	372033	BROAD	Epoetin beta not FDA-approved; no US equivalent for 6666.67 UNT/ML	0.3 ML epoetin beta-xxxx 6666.67 UNT/ML Prefilled Syringe [NeoRecormon]	2026-03-13
+660068	97031032	19001314	epoetin beta 10000 UNT/ML Injectable Solution	153633	BROAD	Epoetin beta not FDA-approved; no branded/volume-specific RxNorm concept	0.3 ML epoetin beta-xxxx 10000 UNT/ML Prefilled Syringe [NeoRecormon]	2026-03-13
+863423	97031042	40059125	epoetin beta Injectable Solution	372033	BROAD	Epoetin beta not FDA-approved; no US equivalent for 13333.3 UNT/ML	0.3 ML epoetin beta-xxxx 13333.3 UNT/ML Prefilled Syringe [NeoRecormon]	2026-03-13
+660043	97031034	40059125	epoetin beta Injectable Solution	372033	BROAD	Epoetin beta not FDA-approved; no US equivalent for 16666.7 UNT/ML	0.3 ML epoetin beta-xxxx 16666.7 UNT/ML Prefilled Syringe [NeoRecormon]	2026-03-13
+868620	97031044	19017554	epoetin beta 20000 UNT/ML Injectable Solution	153630	BROAD	Epoetin beta not FDA-approved; no branded/volume-specific RxNorm concept	0.3 ML epoetin beta-xxxx 20000 UNT/ML Prefilled Syringe [NeoRecormon]	2026-03-13
+660027	97031036	40059125	epoetin beta Injectable Solution	372033	BROAD	Epoetin beta not FDA-approved; no US equivalent for 16666.7 UNT/ML 0.6 mL	0.6 ML epoetin beta-xxxx 16666.7 UNT/ML Prefilled Syringe [NeoRecormon]	2026-03-13
+828293	97031046	40059125	epoetin beta Injectable Solution	372033	BROAD	Epoetin beta not FDA-approved; no US equivalent for 50000 UNT/ML	0.6 ML epoetin beta-xxxx 50000 UNT/ML Prefilled Syringe [NeoRecormon]	2026-03-13
+667261	97031019	40059125	epoetin beta Injectable Solution	372033	BROAD	Epoetin beta not FDA-approved; no US equivalent for 50000 UNT (multidose vial)	epoetin beta-xxxx 50000 UNT Injectable Solution [NeoRecormon]	2026-03-13

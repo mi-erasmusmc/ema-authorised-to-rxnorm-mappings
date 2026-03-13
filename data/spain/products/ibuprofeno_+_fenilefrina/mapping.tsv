@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+708201	80298	1361547	ibuprofen 200 MG / phenylephrine hydrochloride 5 MG Oral Tablet	2184152	EXACT			2026-03-13
+726686	84454	40054148	ibuprofen Oral Suspension	370672	BROAD	RxNorm does not expose an ibuprofen/phenylephrine oral suspension concept.	ibuprofen 40 MG/ML / phenylephrine hydrochloride 1 MG/ML Oral Suspension	2026-03-13

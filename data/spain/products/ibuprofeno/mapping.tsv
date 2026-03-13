@@ -76,7 +76,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 666107	59166	19019050	ibuprofen 20 MG/ML Oral Suspension	197803	EXACT			2026-03-12
 669861	61618	19026060	ibuprofen 800 MG Extended Release Oral Tablet [Brufen Retard]	202095	EXACT			2026-03-12
 672294	68517	1177662	ibuprofen 400 MG Oral Capsule	245417	EXACT			2026-03-12
-672534	72763	19064433	ibuprofen 400 MG Oral Suspension	251270	EXACT			2026-03-12
+672534	72763	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	arginina salt 400 mg oral sobre		2026-03-13
 672546	72804	21142318	Ibuprofen 600 MG Oral Granules	OMOP389984	EXACT	arginina salt oral sobre		2026-03-12
 672547	72804	21142318	Ibuprofen 600 MG Oral Granules	OMOP389984	EXACT	arginina salt oral sobre		2026-03-12
 672609	72838	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
@@ -168,7 +168,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 762304	88684	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
 762400	88724	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 763350	86554	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
-763459	67938	19064433	ibuprofen 400 MG Oral Suspension	251270	EXACT			2026-03-12
+763459	67938	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	arginina salt 400 mg oral sobre		2026-03-13
 763631	65747	1177512	ibuprofen 0.05 MG/MG Topical Gel	141997	EXACT			2026-03-12
 764691	88618	1177662	ibuprofen 400 MG Oral Capsule	245417	EXACT			2026-03-12
 765331	1231791001	21117026	2 ML Ibuprofen 5 MG/ML Injection	OMOP303688	EXACT	5 mg/ml inyectable 2 ml; EMA Pedea		2026-03-12
@@ -292,7 +292,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 651428	66845	44161183	Ibuprofen 400 MG Disintegrating Oral Tablet	OMOP3037906	EXACT	bucodispersable mapped to disintegrating oral tablet		2026-03-12
 677465	65843	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT	arginina salt 400 mg comprimido		2026-03-12
 795161	65843	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT	arginina salt 400 mg comprimido		2026-03-12
-720894	7461-2015-01-02	19062730	ibuprofen 800 MG Extended Release Oral Tablet	250418	EXACT	liberacion modificada		2026-03-12
+720894	7461-2015-01-02	19026060	ibuprofen 800 MG Extended Release Oral Tablet [Brufen Retard]	202095	EXACT			2026-03-13
 650320	04284001	21117026	2 ML Ibuprofen 5 MG/ML Injection	OMOP303688	EXACT	5 mg/ml inyectable 2 ml		2026-03-12
 606724	79593	42628868	ibuprofen 100 MG/ML Injection	1791364	BROAD	600 mg in 6 ml = 100 MG/ML; no 6 ML volume-specific concept	6 ML ibuprofen 100 MG/ML Injection	2026-03-12
 705622	79593	42628868	ibuprofen 100 MG/ML Injection	1791364	BROAD	600 mg in 6 ml = 100 MG/ML; no 6 ML volume-specific concept	6 ML ibuprofen 100 MG/ML Injection	2026-03-12

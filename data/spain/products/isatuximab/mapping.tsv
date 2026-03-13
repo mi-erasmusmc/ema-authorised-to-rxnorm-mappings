@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 728802	1201435001	37499815	5 ML isatuximab-irfc 20 MG/ML Injection [Sarclisa]	2282028	EXACT			2025-12-04
-728803	1201435001	37499815	5 ML isatuximab-irfc 20 MG/ML Injection [Sarclisa]	2282028	EXACT			2025-12-04
+728803	1201435001	37499817	25 ML isatuximab-irfc 20 MG/ML Injection [Sarclisa]	2282032	EXACT			2026-03-13
+764310	1201435001IP	37499817	25 ML isatuximab-irfc 20 MG/ML Injection [Sarclisa]	2282032	EXACT			2026-03-13
+764311	1201435001IP1	37499815	5 ML isatuximab-irfc 20 MG/ML Injection [Sarclisa]	2282028	EXACT			2026-03-13
