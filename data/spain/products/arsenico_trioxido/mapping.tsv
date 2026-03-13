@@ -1,5 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 726152	102204002	793270	6 ML arsenic trioxide 2 MG/ML Injection [Trisenox]	1992547	EXACT			2025-12-04
 727422	1191398003	1333381	10 ML arsenic trioxide 1 MG/ML Injection	829926	EXACT			2025-12-04
-730252	85727	1333381	10 ML arsenic trioxide 1 MG/ML Injection	829926				
-732598	85727	1333381	10 ML arsenic trioxide 1 MG/ML Injection	829926				
+730252	85727	1333381	10 ML arsenic trioxide 1 MG/ML Injection	829926	EXACT			2026-03-13
+732598	85727	1333381	10 ML arsenic trioxide 1 MG/ML Injection	829926	EXACT			2026-03-13
+717934	02204001	1333522	10 ML arsenic trioxide 1 MG/ML Injection [Trisenox]	829928	EXACT			2026-03-13

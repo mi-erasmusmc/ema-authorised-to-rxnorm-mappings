@@ -1,28 +1,30 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-654768	57726	19003394	mesalamine 400 MG Delayed Release Oral Tablet [Asacol]	104112	EXACT			
-656600	62670	43278193	mesalamine 1000 MG Oral Granules	OMOP537954				
-656601	62670	43278193	mesalamine 1000 MG Oral Granules	OMOP537954				
-661634	70134	43256418	mesalamine 1500 MG Oral Granules	OMOP537942				
-661654	70144	968639	mesalamine 1200 MG Delayed Release Oral Tablet	686429				
-664770	71881	968464	mesalamine 66.7 MG/ML Enema	238151	EXACT			
-675520	61335	968426	mesalamine	52582	BROAD			
-677460	73372	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-683193	60853	19024860	mesalamine 10 MG/ML Enema [Pentasa]	201251	EXACT			
-684706	74791	36881975	mesalamine 3000 MG Oral Granules	OMOP993616				
-687848	60607	968429	mesalamine 500 MG Rectal Suppository	197932				
-695387	60152	968426	mesalamine	52582	BROAD			
-695395	60151	19024817	mesalamine 1000 MG Rectal Suppository [Pentasa]	201226				
-696127	77022	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			
-698431	77668	43146736	mesalamine 2000 MG Oral Granules	OMOP456009				
-701401	78448	968668	mesalamine 800 MG Delayed Release Oral Tablet [Asacol]	849383	EXACT			
-705473	79555	36881976	mesalamine 4000 MG Oral Granules	OMOP1005793				
-721932	83162	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			
-721933	83162	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			
-730491	85816	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-731572	78448	968668	mesalamine 800 MG Delayed Release Oral Tablet [Asacol]	849383	EXACT			
-731932	86315	968426	mesalamine	52582	BROAD			
-764966	89585	968426	mesalamine	52582	BROAD			
-771568	65771	43288984	mesalamine 500 MG Oral Granules	OMOP537962				
-771618	65772	43278193	mesalamine 1000 MG Oral Granules	OMOP537954				
-771626	65772	43278193	mesalamine 1000 MG Oral Granules	OMOP537954				
-984088	58101	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054	EXACT			
+654768	57726	19003394	mesalamine 400 MG Delayed Release Oral Tablet [Asacol]	104112	EXACT			2026-03-13
+656600	62670	43278193	mesalamine 1000 MG Oral Granules	OMOP537954	EXACT			2026-03-13
+656601	62670	43278193	mesalamine 1000 MG Oral Granules	OMOP537954	EXACT			2026-03-13
+661634	70134	43256418	mesalamine 1500 MG Oral Granules	OMOP537942	EXACT			2026-03-13
+661654	70144	968639	mesalamine 1200 MG Delayed Release Oral Tablet	686429	EXACT			2026-03-13
+664770	71881	968464	mesalamine 66.7 MG/ML Enema	238151	EXACT			2026-03-13
+675520	61335	19011848	mesalamine 1000 MG Rectal Foam	142095	EXACT			2026-03-13
+677460	73372	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-03-13
+683193	60853	19024860	mesalamine 10 MG/ML Enema [Pentasa]	201251	EXACT			2026-03-13
+684706	74791	36881975	mesalamine 3000 MG Oral Granules	OMOP993616	EXACT			2026-03-13
+687848	60607	968429	mesalamine 500 MG Rectal Suppository	197932	EXACT			2026-03-13
+695387	60152	21025416	mesalamine 500 MG Extended Release Oral Tablet [Pentasa]	OMOP405703	EXACT			2026-03-13
+695395	60151	19024817	mesalamine 1000 MG Rectal Suppository [Pentasa]	201226	EXACT			2026-03-13
+696127	77022	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			2026-03-13
+698431	77668	43146736	mesalamine 2000 MG Oral Granules	OMOP456009	EXACT			2026-03-13
+701401	78448	968668	mesalamine 800 MG Delayed Release Oral Tablet [Asacol]	849383	EXACT			2026-03-13
+705473	79555	36881976	mesalamine 4000 MG Oral Granules	OMOP1005793	EXACT			2026-03-13
+708957	37734011	43640729	mesalamine 1200 MG Delayed Release Oral Tablet [Mezavant]	OMOP666302	EXACT			2026-03-13
+721932	83162	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			2026-03-13
+721933	83162	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			2026-03-13
+730491	85816	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-03-13
+731572	78448	968668	mesalamine 800 MG Delayed Release Oral Tablet [Asacol]	849383	EXACT			2026-03-13
+731932	86315	36034764	mesalamine 1600 MG Delayed Release Oral Tablet [Asacol]	OMOP5044785	EXACT			2026-03-13
+764966	89585	43157972	mesalamine 10 MG/ML Rectal Suspension [Pentasa]	OMOP456002	BROAD	Spain source gives a 4000 MG rectal suspension but not the final volume.	mesalamine 4000 MG Enema	2026-03-13
+769403	037734023	43640729	mesalamine 1200 MG Delayed Release Oral Tablet [Mezavant]	OMOP666302	EXACT			2026-03-13
+771568	65771	43288984	mesalamine 500 MG Oral Granules	OMOP537962	EXACT			2026-03-13
+771618	65772	43278193	mesalamine 1000 MG Oral Granules	OMOP537954	EXACT			2026-03-13
+771626	65772	43278193	mesalamine 1000 MG Oral Granules	OMOP537954	EXACT			2026-03-13
+984088	58101	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054	EXACT			2026-03-13

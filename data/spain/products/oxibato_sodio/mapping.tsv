@@ -1,5 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-726592	84432	769936	sodium oxybate 500 MG/ML Oral Solution	349482				
-726593	84433	769936	sodium oxybate 500 MG/ML Oral Solution	349482				
-726806	84485	769936	sodium oxybate 500 MG/ML Oral Solution	349482				
-729770	85567	769936	sodium oxybate 500 MG/ML Oral Solution	349482				
+652564	05312001	769938	sodium oxybate 500 MG/ML Oral Solution [Xyrem]	352257	EXACT			2026-03-13
+719467	82521	769936	sodium oxybate 500 MG/ML Oral Solution	349482	BROAD	RxNorm does not expose the Spain 300 MG/ML oral-solution strength.	sodium oxybate 300 MG/ML Oral Solution	2026-03-13
+726592	84432	769936	sodium oxybate 500 MG/ML Oral Solution	349482	EXACT			2026-03-13
+726593	84433	769936	sodium oxybate 500 MG/ML Oral Solution	349482	EXACT			2026-03-13
+726806	84485	769936	sodium oxybate 500 MG/ML Oral Solution	349482	EXACT			2026-03-13
+729770	85567	769936	sodium oxybate 500 MG/ML Oral Solution	349482	EXACT			2026-03-13

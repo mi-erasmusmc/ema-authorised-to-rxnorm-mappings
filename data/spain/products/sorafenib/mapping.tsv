@@ -2,6 +2,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726085	84240	1363389	sorafenib 200 MG Oral Tablet	597747	EXACT			2026-03-12
 729287	85431	1363389	sorafenib 200 MG Oral Tablet	597747	EXACT			2026-03-12
 730037	85665	1363389	sorafenib 200 MG Oral Tablet	597747	EXACT			2026-03-12
-730950	85957	40128058	sorafenib Oral Tablet	597746	BROAD			2026-03-12
+730950	85957	1363389	sorafenib 200 MG Oral Tablet	597747	BROAD	RxNorm does not expose the Spain 400 MG tablet strength.	sorafenib 400 MG Oral Tablet	2026-03-12
 732276	86413	1363389	sorafenib 200 MG Oral Tablet	597747	EXACT			2026-03-12
 759249	1221696001	1363389	sorafenib 200 MG Oral Tablet	597747	EXACT			2026-03-12
+656938	06342001	1363390	sorafenib 200 MG Oral Tablet [Nexavar]	615979	EXACT			2026-03-13
+728475	06342001IP	1363390	sorafenib 200 MG Oral Tablet [Nexavar]	615979	EXACT			2026-03-13

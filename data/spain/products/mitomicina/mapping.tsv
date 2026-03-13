@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-709292	80513	35605506	mitomycin 20 MG Injection	1740900	BROAD			
-714183	81602	35605503	mitomycin 40 MG	1740897				
+659089	68816	35605504	mitomycin 40 MG Injection	1740898	EXACT			2026-03-13
+709292	80513	35605506	mitomycin 20 MG Injection	1740900	BROAD	Spain source combines injectable and intravesical powder presentations in one product.	mitomycin 20 MG Powder for Intravesical Solution and Injection	2026-03-13
+714183	81602	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	BROAD	Spain source combines injectable and intravesical powder presentations in one product.	mitomycin 40 MG Powder for Intravesical Solution and Injection	2026-03-13
+720349	82767	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-03-13

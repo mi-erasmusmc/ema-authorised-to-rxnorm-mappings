@@ -1,17 +1,19 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606051	34044	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-631374	65510	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-648196	34044	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-649707	61757	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-652884	60606	44818283	acetaminophen 500 MG / codeine phosphate 30 MG Effervescent Oral Tablet	1536459	EXACT			
-666479	61757	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-669549	60748	44818283	acetaminophen 500 MG / codeine phosphate 30 MG Effervescent Oral Tablet	1536459	EXACT			
-672658	73098	40221938	acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet	994046	EXACT			
-679639	61072	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-696643	34044	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-696906	10106	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-698736	77781	40221938	acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet	994046	EXACT			
-698737	77782	40221938	acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet	994046	EXACT			
-740860	66180	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
-877076	63118	40221938	acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet	994046	EXACT			
-911693	65510	36215351	acetaminophen / codeine Oral Product	1155598	BROAD			
+606051	34044	40221929	acetaminophen 500 MG / codeine phosphate 15 MG Oral Tablet	994043	EXACT			2026-03-13
+631374	65510	40221974	acetaminophen 650 MG / codeine phosphate 30 MG Oral Tablet	994059	EXACT			2026-03-13
+648196	34044	40221929	acetaminophen 500 MG / codeine phosphate 15 MG Oral Tablet	994043	EXACT			2026-03-13
+649707	61757	40223209	acetaminophen 325 MG / codeine phosphate 15 MG Oral Tablet	996970	EXACT			2026-03-13
+652884	60606	44818283	acetaminophen 500 MG / codeine phosphate 30 MG Effervescent Oral Tablet	1536459	EXACT			2026-03-13
+666479	61757	40223209	acetaminophen 325 MG / codeine phosphate 15 MG Oral Tablet	996970	EXACT			2026-03-13
+669549	60748	44818283	acetaminophen 500 MG / codeine phosphate 30 MG Effervescent Oral Tablet	1536459	EXACT			2026-03-13
+672658	73098	40221938	acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet	994046	EXACT			2026-03-13
+679639	61072	40221966	acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution	993755	EXACT			2026-03-13
+696643	34044	40221929	acetaminophen 500 MG / codeine phosphate 15 MG Oral Tablet	994043	EXACT			2026-03-13
+696906	10106	19062156	acetaminophen 500 MG / codeine 10 MG Oral Tablet	250143	EXACT			2026-03-13
+698736	77781	40221938	acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet	994046	EXACT			2026-03-13
+698737	77782	40221938	acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet	994046	EXACT			2026-03-13
+740860	66180	44818283	acetaminophen 500 MG / codeine phosphate 30 MG Effervescent Oral Tablet	1536459	BROAD	Spain source is effervescent granules rather than an effervescent tablet.	acetaminophen 500 MG / codeine phosphate 30 MG Granules for Oral Solution	2026-03-13
+659459	61071	40221904	acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet	993781	EXACT			2026-03-13
+679647	61071	40221904	acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet	993781	EXACT			2026-03-13
+877076	63118	40221938	acetaminophen 500 MG / codeine phosphate 30 MG Oral Tablet	994046	EXACT			2026-03-13
+911693	65510	40221974	acetaminophen 650 MG / codeine phosphate 30 MG Oral Tablet	994059	EXACT			2026-03-13

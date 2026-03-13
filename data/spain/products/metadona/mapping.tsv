@@ -1,9 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603003	69910	1103640	methadone	6813	BROAD			
-604777	17129	40166362	methadone hydrochloride 5 MG Oral Tablet	864718	EXACT			
-606382	78456	40185005	methadone hydrochloride 10 MG/ML Oral Solution	991147	EXACT			
-661163	69909	1103640	methadone	6813	BROAD			
-661167	69913	1103640	methadone	6813	BROAD			
-700636	17129	40166362	methadone hydrochloride 5 MG Oral Tablet	864718	EXACT			
-741249	62422	1103640	methadone	6813	BROAD			
-741413	62423	36893639	Methadone 40 MG Oral Tablet	OMOP990279				
+603003	69910	40166368	methadone hydrochloride 5 MG/ML Oral Solution	864826	EXACT			2026-03-13
+604777	17129	40166362	methadone hydrochloride 5 MG Oral Tablet	864718	EXACT			2026-03-13
+606382	78456	40185005	methadone hydrochloride 10 MG/ML Oral Solution	991147	EXACT			2026-03-13
+661163	69909	40166368	methadone hydrochloride 5 MG/ML Oral Solution	864826	EXACT			2026-03-13
+661166	69912	40166310	methadone hydrochloride 1 MG/ML Oral Solution	864761	EXACT			2026-03-13
+661167	69913	40166310	methadone hydrochloride 1 MG/ML Oral Solution	864761	EXACT			2026-03-13
+700636	17129	40166362	methadone hydrochloride 5 MG Oral Tablet	864718	EXACT			2026-03-13
+700638	17128	43264150	1 ML Methadone 10 MG/ML Injection	OMOP560407	EXACT			2026-03-13
+741249	62422	21066174	Methadone 30 MG Oral Tablet	OMOP268283	EXACT			2026-03-13
+741413	62423	36893639	Methadone 40 MG Oral Tablet	OMOP990279	EXACT			2026-03-13
