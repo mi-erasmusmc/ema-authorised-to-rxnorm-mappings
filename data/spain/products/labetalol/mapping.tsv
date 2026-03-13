@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-700706	54527	40169685	labetalol hydrochloride 100 MG Oral Tablet [Trandate]	896777	EXACT			
-700707	54528	40169691	labetalol hydrochloride 200 MG Oral Tablet [Trandate]	896781	EXACT			
+700706	54527	40169685	labetalol hydrochloride 100 MG Oral Tablet [Trandate]	896777	EXACT			2026-03-13
+700707	54528	40169691	labetalol hydrochloride 200 MG Oral Tablet [Trandate]	896781	EXACT			2026-03-13
+763546	89082	40169706	labetalol hydrochloride 5 MG/ML Injectable Solution	896771	BROAD	RxNorm lacks an exact 20 ML presentation and the source also permits perfusion use.	20 ML labetalol hydrochloride 5 MG/ML Injectable Solution	2026-03-13
+945196	55318	40169706	labetalol hydrochloride 5 MG/ML Injectable Solution	896771	BROAD	RxNorm lacks an exact 20 ML injection concept.	20 ML labetalol hydrochloride 5 MG/ML Injection	2026-03-13

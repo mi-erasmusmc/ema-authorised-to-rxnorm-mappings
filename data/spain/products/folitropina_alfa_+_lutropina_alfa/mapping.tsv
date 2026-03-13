@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-659373	07396001					No RxNorm concept exists for recombinant follitropin alfa / lutropin alfa combination		2026-03-13
-659374	07396003					No RxNorm concept exists for recombinant follitropin alfa / lutropin alfa combination		2026-03-13
-698447	107396002					No RxNorm concept exists for recombinant follitropin alfa / lutropin alfa combination		2026-03-13
-719164	107396004					No RxNorm concept exists for recombinant follitropin alfa / lutropin alfa combination		2026-03-13
-719165	107396005					No RxNorm concept exists for recombinant follitropin alfa / lutropin alfa combination		2026-03-13
-719166	107396006					No RxNorm concept exists for recombinant follitropin alfa / lutropin alfa combination		2026-03-13
+659373	07396001	21119510	Follitropin Alfa 150 UNT / Lutropin alfa 75 UNT Injection	OMOP287346	EXACT	150 IU/75 IU single-use powder and solvent for reconstituted injection; Injection dose form covers single-use reconstituted presentation.		2026-03-13
+659374	07396003	21119510	Follitropin Alfa 150 UNT / Lutropin alfa 75 UNT Injection	OMOP287346	EXACT	150 IU/75 IU single-use powder and solvent for reconstituted injection; Injection dose form covers single-use reconstituted presentation.		2026-03-13
+698447	107396002	21119510	Follitropin Alfa 150 UNT / Lutropin alfa 75 UNT Injection	OMOP287346	EXACT	150 IU/75 IU single-use powder and solvent for reconstituted injection; Injection dose form covers single-use reconstituted presentation.		2026-03-13
+719164	107396004	2901865	0.48 ML follitropin alfa 0.044 MG/ML / lutropin alfa 313 UNT/ML Pen Injector	OMOP5118746	EXACT	0.48 mL pen delivering 300 IU follitropin alfa / 150 IU lutropin alfa; follitropin alfa 0.044 MG/mL corresponds to 625 IU/mL label concentration; lutropin alfa 313 UNT/mL rounds 312.5 IU/mL.		2026-03-13
+719165	107396005	2902188	0.72 ML follitropin alfa 0.044 MG/ML / lutropin alfa 313 UNT/ML Pen Injector	OMOP5119059	EXACT	0.72 mL pen delivering 450 IU follitropin alfa / 225 IU lutropin alfa; follitropin alfa 0.044 MG/mL corresponds to 625 IU/mL label concentration; lutropin alfa 313 UNT/mL rounds 312.5 IU/mL.		2026-03-13
+719166	107396006	2903788	1.44 ML follitropin alfa 0.044 MG/ML / lutropin alfa 313 UNT/ML Pen Injector	OMOP5120623	EXACT	1.44 mL pen delivering 900 IU follitropin alfa / 450 IU lutropin alfa; follitropin alfa 0.044 MG/mL corresponds to 625 IU/mL label concentration; lutropin alfa 313 UNT/mL rounds 312.5 IU/mL.		2026-03-13
