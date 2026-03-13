@@ -3,3 +3,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 817866	46028	1763256	rifampin 20 MG/ML Oral Suspension	246297	EXACT			2026-03-12
 817882	46029	19019811	rifampin 300 MG Oral Capsule	198202	EXACT			2026-03-12
 859645	49034	19019811	rifampin 300 MG Oral Capsule	198202	EXACT			2026-03-12
+962696	56487	1763294	rifampin 600 MG Injection	312821	EXACT	Dose-form definition for Injection includes reconstituted powder intended for parenteral use.		2026-03-14

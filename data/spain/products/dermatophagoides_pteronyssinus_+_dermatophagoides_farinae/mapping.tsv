@@ -1,5 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-712509	81213	963826	American house dust mite allergenic extract 6 SQ-HDM / European house dust mite allergenic extract 6 SQ-HDM Sublingual Tablet	1998624	EXACT			
-712510	81213	963826	American house dust mite allergenic extract 6 SQ-HDM / European house dust mite allergenic extract 6 SQ-HDM Sublingual Tablet	1998624	EXACT			
-732213	86405	43291214	American house dust mite extract 150 UNT / European house dust mite extract 150 UNT Sublingual Tablet	OMOP558449				
-732214	86405	43291214	American house dust mite extract 150 UNT / European house dust mite extract 150 UNT Sublingual Tablet	OMOP558449				
+712509	81213	963826	American house dust mite allergenic extract 6 SQ-HDM / European house dust mite allergenic extract 6 SQ-HDM Sublingual Tablet	1998624	EXACT			2026-03-14
+712510	81213	963826	American house dust mite allergenic extract 6 SQ-HDM / European house dust mite allergenic extract 6 SQ-HDM Sublingual Tablet	1998624	EXACT			2026-03-14
+732206	86402	43285860	American house dust mite extract / European house dust mite extract Sublingual Tablet [Actair]	OMOP558445	BROAD	Starter pack contains mixed 100 IR and 300 IR Actair sublingual tablets; no exact pack concept found.	American house dust mite extract / European house dust mite extract Sublingual Tablet Starter Pack [Actair]	2026-03-14
+732213	86405	43291216	American house dust mite extract 150 UNT / European house dust mite extract 150 UNT Sublingual Tablet [Actair]	OMOP558456	EXACT			2026-03-14
+732214	86405	43291216	American house dust mite extract 150 UNT / European house dust mite extract 150 UNT Sublingual Tablet [Actair]	OMOP558456	EXACT			2026-03-14

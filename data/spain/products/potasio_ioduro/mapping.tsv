@@ -1,5 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-660507	69595	19049909	potassium iodide	8597	BROAD			2026-03-12
-660508	69596	19049909	potassium iodide	8597	BROAD			2026-03-12
-843102	66101	19049909	potassium iodide	8597	BROAD			2026-03-12
-843870	66102	19049909	potassium iodide	8597	BROAD			2026-03-12
+660507	69595	19049909	potassium iodide	8597	BROAD	No exact 0.3 MG tablet concept found.	potassium iodide 0.3 MG Oral Tablet	2026-03-14
+660508	69596	19107009	potassium iodide 0.2 MG Oral Tablet	430172	EXACT			2026-03-12
+664120	71558	19107009	potassium iodide 0.2 MG Oral Tablet	430172	EXACT			2026-03-14
+843102	66101	19107009	potassium iodide 0.2 MG Oral Tablet	430172	EXACT			2026-03-12
+843870	66102	19107008	potassium iodide 0.1 MG Oral Tablet	430171	EXACT			2026-03-12

@@ -1,11 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-659850	61141	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-660625	61141	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-662420	70564	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-675206	72862	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-675209	72862	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-724214	70315	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-724512	72862	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-724513	72862	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-730989	85959	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
-763670	89117	42707627	rocuronium bromide 10 MG/ML Injectable Solution	1234995	EXACT			2026-03-12
+659850	61141	37355115	5 ML rocuronium bromide 10 MG/ML Injection	2720024	EXACT			2026-03-14
+660625	61141	37355116	10 ML rocuronium bromide 10 MG/ML Injection	2720026	EXACT			2026-03-14
+662420	70564	37355115	5 ML rocuronium bromide 10 MG/ML Injection	2720024	EXACT			2026-03-14
+675206	72862	37355115	5 ML rocuronium bromide 10 MG/ML Injection	2720024	EXACT			2026-03-14
+675209	72862	37355116	10 ML rocuronium bromide 10 MG/ML Injection	2720026	EXACT			2026-03-14
+701707	78531	37355115	5 ML rocuronium bromide 10 MG/ML Injection	2720024	EXACT			2026-03-14
+724214	70315	37355115	5 ML rocuronium bromide 10 MG/ML Injection	2720024	EXACT			2026-03-14
+724512	72862	37355115	5 ML rocuronium bromide 10 MG/ML Injection	2720024	EXACT			2026-03-14
+724513	72862	37355116	10 ML rocuronium bromide 10 MG/ML Injection	2720026	EXACT			2026-03-14
+730989	85959	37355115	5 ML rocuronium bromide 10 MG/ML Injection	2720024	EXACT			2026-03-14
+763670	89117	21058258	5 ML Rocuronium 10 MG/ML Prefilled Syringe	OMOP306552	EXACT			2026-03-14
