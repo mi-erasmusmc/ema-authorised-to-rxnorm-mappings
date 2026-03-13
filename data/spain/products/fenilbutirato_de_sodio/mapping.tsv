@@ -2,3 +2,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 701709	113822001	1525503	sodium phenylbutyrate 0.483 MG/MG Oral Pellet [Pheburane]	2610134	EXACT	483 mg/g = 0.483 MG/MG; RxNorm uses Oral Pellet for granules		2026-02-12
 764540	113822006	40099511	phenylbutyrate Oral Solution	376572	BROAD	No 350 MG/ML oral solution in RxNorm; nearest are 250 and 1000 MG/ML	sodium phenylbutyrate 350 MG/ML Oral Solution [Pheburane]	2026-02-12
 767131	113822006	40099511	phenylbutyrate Oral Solution	376572	BROAD	No 350 MG/ML oral solution in RxNorm; nearest are 250 and 1000 MG/ML	sodium phenylbutyrate 350 MG/ML Oral Solution [Pheburane]	2026-02-12
+802298	99120001	1539955	sodium phenylbutyrate 500 MG Oral Tablet	199369	EXACT			2026-03-13
+804310	99120003	1539958	sodium phenylbutyrate 0.94 MG/MG Oral Granules	389241	EXACT			2026-03-13

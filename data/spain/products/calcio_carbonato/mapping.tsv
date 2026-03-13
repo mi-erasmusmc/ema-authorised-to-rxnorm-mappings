@@ -1,8 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652214	60024	19027883	calcium carbonate 1500 MG Chewable Tablet	204636	EXACT			
-653627	29243	19035704	calcium carbonate	1897	BROAD			
-655837	58828	19036337	calcium carbonate 1250 MG Chewable Tablet	359297	EXACT			
-656748	29243	19035704	calcium carbonate	1897	BROAD			
-693796	58828	19036337	calcium carbonate 1250 MG Chewable Tablet	359297	EXACT			
-718882	60024	19027883	calcium carbonate 1500 MG Chewable Tablet	204636	EXACT			
-753673	60025	19056978	calcium carbonate 1500 MG Oral Tablet	237420	EXACT			
+652214	60024	19027883	calcium carbonate 1500 MG Chewable Tablet	204636	EXACT			2026-03-13
+653627	29243	21113224	Calcium Carbonate 25 MG/ML Oral Suspension	OMOP394764	EXACT	Ficha técnica for Caosina instructs dispersing one 2500 mg sachet in 100 mL water, yielding 25 MG/ML oral suspension.		2026-03-13
+655837	58828	19036337	calcium carbonate 1250 MG Chewable Tablet	359297	EXACT			2026-03-13
+656748	29243	21113224	Calcium Carbonate 25 MG/ML Oral Suspension	OMOP394764	EXACT	Ficha técnica for Caosina instructs dispersing one 2500 mg sachet in 100 mL water, yielding 25 MG/ML oral suspension.		2026-03-13
+693796	58828	19036337	calcium carbonate 1250 MG Chewable Tablet	359297	EXACT			2026-03-13
+718882	60024	19027883	calcium carbonate 1500 MG Chewable Tablet	204636	EXACT			2026-03-13
+753673	60025	19056978	calcium carbonate 1500 MG Oral Tablet	237420	EXACT			2026-03-13
+656081	68048	19035704	calcium carbonate	1897	BROAD	Assumed 3000 mg sachet reconstituted to 100 mL per user instruction; nearest target would be 30 MG/ML oral suspension, but no exact RxNorm 30 MG/ML concept was found.	calcium carbonate 30 MG/ML Oral Suspension	2026-03-13
+834531	62795	19027883	calcium carbonate 1500 MG Chewable Tablet	204636	EXACT			2026-03-13

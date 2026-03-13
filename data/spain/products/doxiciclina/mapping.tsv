@@ -15,8 +15,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 697404	61226	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
 697405	61227	19103300	doxycycline 200 MG Oral Capsule	409837	EXACT			2026-03-12
 699841	47831	46234523	doxycycline hyclate 100 MG Oral Capsule	1649988	EXACT			2026-03-12
-701108	78353	40239976	doxycycline hyclate 0.1 MG/MG Oral Gel	1113433	BROAD	periodontal gel; mapped to closest RxNorm oral gel concept	doxycycline hyclate 0.1 MG/MG Oral Gel	2026-03-12
-703176	73622	40171393	doxycycline anhydrous 40 MG Delayed Release Oral Capsule	901399	EXACT			2026-03-12
+701108	78353	40239976	doxycycline hyclate 0.1 MG/MG Oral Gel	1113433	BROAD		doxycycline hyclate 140 MG/G Periodontal Gel	2026-03-13
+703176	73622	40171394	doxycycline anhydrous 40 MG Delayed Release Oral Capsule [Oracea]	1113424	EXACT			2026-03-13
 626283	50521	19076753	doxycycline hyclate 100 MG Injection	310027	EXACT			2026-03-12
-846220	46554	19076752	doxycycline calcium 10 MG/ML Oral Suspension	310026	BROAD	hyclate salt in product; closest available suspension strength	doxycycline calcium 10 MG/ML Oral Suspension	2026-03-12
+846220	46554	19126165	doxycycline calcium 10 MG/ML Oral Suspension [Vibramycin]	702296	EXACT	Vibracina is the Spanish brand name for Vibramycin		2026-03-13
 846246	50521	19076753	doxycycline hyclate 100 MG Injection	310027	EXACT			2026-03-12

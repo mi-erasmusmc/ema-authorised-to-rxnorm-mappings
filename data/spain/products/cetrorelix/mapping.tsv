@@ -1,2 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-730563	85838	19070743	cetrorelix 0.25 MG Injection	283402	BROAD			
+730563	85838	43152458	1 ML cetrorelix 0.25 MG/ML Prefilled Syringe	OMOP507788	EXACT			2026-03-13
+666842	99100002	1503986	cetrorelix 0.25 MG Injection [Cetrotide]	284441	EXACT			2026-03-13
+855379	99100001	1503986	cetrorelix 0.25 MG Injection [Cetrotide]	284441	EXACT			2026-03-13
