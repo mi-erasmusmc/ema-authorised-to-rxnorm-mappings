@@ -1,3 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 606855	79380	35603399	erythromycin Injection	1668263	BROAD	No 1G lactobionate injection concept in RxNorm; mapped to generic erythromycin Injection	erythromycin lactobionate 500 MG Injection	2026-03-12
 625202	39690		erythromycin ethylsuccinate 500 MG oral tablet		BROAD	No RxNorm concept for erythromycin ethylsuccinate 500 MG; closest is 400 MG (686405)	erythromycin ethylsuccinate 400 MG Oral Tablet	2026-03-12
+653528	42131	19076953	erythromycin 0.005 MG/MG Ophthalmic Ointment	310149	EXACT			2026-03-13
+694016	77514	19018976	erythromycin 500 MG Oral Tablet	197650	EXACT			2026-03-13
+694017	77514	19018976	erythromycin 500 MG Oral Tablet	197650	EXACT			2026-03-13
+697149	77234	19018976	erythromycin 500 MG Oral Tablet	197650	EXACT			2026-03-13
+697589	77395	19122216	erythromycin 250 MG Oral Capsule	598008	EXACT			2026-03-13
+700265	78152	19063691	erythromycin 1000 MG Oral Granules	250789	EXACT			2026-03-13
+700266	78152	19063694	erythromycin 500 MG Oral Granules	250792	EXACT			2026-03-13
+952440	56765	35603399	erythromycin Injection	1668263	BROAD	No exact 1 g erythromycin perfusion concept found in RxNorm.	erythromycin 1000 MG Injection	2026-03-13
+975524	57357	19063694	erythromycin 500 MG Oral Granules	250792	EXACT			2026-03-13
+984500	58265	19063691	erythromycin 1000 MG Oral Granules	250789	EXACT			2026-03-13
+988907	58491	19018976	erythromycin 500 MG Oral Tablet	197650	EXACT			2026-03-13
+996041	58772	1747294	erythromycin 100 MG/ML Oral Suspension	425351	EXACT			2026-03-13

@@ -1,9 +1,20 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-714441	81667	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD			
-714479	81684	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD			
-715219	52810	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD			
-727638	84741	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD			
-727639	84742	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD			
-727641	84743	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD			
-727642	84744	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD			
-917070	59377	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD			
+714441	81667	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD	No defensible exact beclomethasone 50 microgram pMDI concept found in RxNorm.	beclomethasone 0.05 MG/ACTUAT Inhalation Solution	2026-03-13
+714479	81684	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD	No defensible exact beclomethasone 100 microgram pMDI concept found in RxNorm.	beclomethasone 0.1 MG/ACTUAT Inhalation Solution	2026-03-13
+715219	52810	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD	No defensible exact beclomethasone 50 microgram pMDI concept found in RxNorm.	beclomethasone 0.05 MG/ACTUAT Inhalation Solution	2026-03-13
+727638	84741	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD	No defensible exact beclomethasone 50 microgram pMDI concept found in RxNorm.	beclomethasone 0.05 MG/ACTUAT Inhalation Solution	2026-03-13
+727639	84742	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD	No defensible exact beclomethasone 100 microgram pMDI concept found in RxNorm.	beclomethasone 0.1 MG/ACTUAT Inhalation Solution	2026-03-13
+727641	84743	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD	No defensible exact beclomethasone 250 microgram pMDI concept found in RxNorm.	beclomethasone 0.25 MG/ACTUAT Inhalation Solution	2026-03-13
+727642	84744	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD	No defensible exact beclomethasone 200 microgram pMDI concept found in RxNorm.	beclomethasone 0.2 MG/ACTUAT Inhalation Solution	2026-03-13
+917070	59377	35130061	Beclomethasone Inhalation Solution	OMOP4787320	BROAD	No defensible exact beclomethasone 250 microgram pMDI concept found in RxNorm.	beclomethasone 0.25 MG/ACTUAT Inhalation Solution	2026-03-13
+651086	66904	40164075	beclomethasone dipropionate 1 MG Delayed Release Oral Tablet	858136	BROAD	Spain row is 5 MG modified-release tablet; RxNorm search only surfaced 1 MG delayed-release beclomethasone tablet concepts.	beclomethasone 5 MG Delayed Release Oral Tablet	2026-03-13
+651088	66904	40164075	beclomethasone dipropionate 1 MG Delayed Release Oral Tablet	858136	BROAD	Spain row is 5 MG modified-release tablet; RxNorm search only surfaced 1 MG delayed-release beclomethasone tablet concepts.	beclomethasone 5 MG Delayed Release Oral Tablet	2026-03-13
+654988	68065	40173741	beclomethasone dipropionate 0.25 MG/ML Topical Cream	966765	EXACT			2026-03-13
+678912	73649	1115673	beclomethasone 0.25 MG/ML	358485	BROAD	No exact beclomethasone 1 MG rectal solution concept found in RxNorm.	beclomethasone 1 MG Rectal Solution	2026-03-13
+756239	88028	1115673	beclomethasone 0.25 MG/ML	358485	BROAD	No exact beclomethasone 0.125 MG/G rectal ointment concept found in RxNorm.	beclomethasone 0.125 MG/G Rectal Ointment	2026-03-13
+756247	88028	1115673	beclomethasone 0.25 MG/ML	358485	BROAD	No exact beclomethasone 0.125 MG/G rectal ointment concept found in RxNorm.	beclomethasone 0.125 MG/G Rectal Ointment	2026-03-13
+785105	94280	40173741	beclomethasone dipropionate 0.25 MG/ML Topical Cream	966765	EXACT			2026-03-13
+785113	94280	19060708	beclomethasone 0.25 MG/ML Topical Lotion	247072	EXACT			2026-03-13
+785121	94280	40173727	beclomethasone dipropionate 0.00025 MG/MG Topical Ointment	966629	EXACT			2026-03-13
+794370	93127	1115678	beclomethasone 0.05 MG/ACTUAT Nasal Spray	562655	EXACT			2026-03-13
+989061	58563	1115678	beclomethasone 0.05 MG/ACTUAT Nasal Spray	562655	EXACT			2026-03-13

@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-728919	85239	19082375	albumin,aggregated	317176	BROAD	Radiopharmaceutical kit for technetium-99m macroaggregated human albumin; RxNorm does not clearly expose a clean non-branded standard concept for the full kit presentation.	albumin,aggregated 2 MG Kit for radiopharmaceutical preparation	2026-03-12
-764185	89285	19082375	albumin,aggregated	317176	BROAD	Radiopharmaceutical kit for technetium-99m macroaggregated human albumin; no clean 2.5 MG standard kit concept found.	albumin,aggregated 2.5 MG Kit for radiopharmaceutical preparation	2026-03-12
-837005	65426	19082375	albumin,aggregated	317176	BROAD	Radiopharmaceutical kit for technetium-99m macroaggregated human albumin; RxNorm does not clearly expose a clean non-branded standard concept for the full kit presentation.	albumin,aggregated 2 MG Kit for radiopharmaceutical preparation	2026-03-12
+728919	85239	19082375	albumin,aggregated	317176	EXACT			2026-03-13
+764185	89285	19082375	albumin,aggregated	317176	EXACT			2026-03-13
+837005	65426	19082375	albumin,aggregated	317176	EXACT			2026-03-13

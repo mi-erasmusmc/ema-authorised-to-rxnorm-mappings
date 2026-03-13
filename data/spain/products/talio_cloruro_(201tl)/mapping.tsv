@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661576	70109	42900536	thallium	1311633	BROAD	No specific thallium-201 chloride injection concept in RxNorm		2026-03-12
-661577	70109	42900536	thallium	1311633	BROAD	No specific thallium-201 chloride injection concept in RxNorm		2026-03-12
-661578	70109	42900536	thallium	1311633	BROAD	No specific thallium-201 chloride injection concept in RxNorm		2026-03-12
-661580	70109	42900536	thallium	1311633	BROAD	No specific thallium-201 chloride injection concept in RxNorm		2026-03-12
-692203	76201	42900536	thallium	1311633	BROAD	No specific thallium-201 chloride injection concept in RxNorm		2026-03-12
+661576	70109	42900536	thallium	1311633	EXACT			2026-03-13
+661577	70109	42900536	thallium	1311633	EXACT			2026-03-13
+661578	70109	42900536	thallium	1311633	EXACT			2026-03-13
+661580	70109	42900536	thallium	1311633	EXACT			2026-03-13
+692203	76201	42900536	thallium	1311633	EXACT			2026-03-13

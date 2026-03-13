@@ -1,17 +1,29 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661198	69929	19101573	nebivolol 5 MG Oral Tablet	387013				
-662996	70928	19101573	nebivolol 5 MG Oral Tablet	387013				
-663701	71271	19101573	nebivolol 5 MG Oral Tablet	387013				
-664924	71258	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			
-667560	71283	1314614	nebivolol 2.5 MG Oral Tablet	751618	EXACT			
-667572	71284	19101573	nebivolol 5 MG Oral Tablet	387013				
-669348	72140	19101573	nebivolol 5 MG Oral Tablet	387013				
-673467	61428	19101573	nebivolol 5 MG Oral Tablet	387013				
-673475	61427	19101573	nebivolol 5 MG Oral Tablet	387013				
-679734	73926	19101573	nebivolol 5 MG Oral Tablet	387013				
-698386	77650	19101573	nebivolol 5 MG Oral Tablet	387013				
-719775	82607	19101573	nebivolol 5 MG Oral Tablet	387013				
-720536	82817	19101573	nebivolol 5 MG Oral Tablet	387013				
-727365	84652	19101573	nebivolol 5 MG Oral Tablet	387013				
-727798	84808	19101573	nebivolol 5 MG Oral Tablet	387013				
-728424	85050	19101573	nebivolol 5 MG Oral Tablet	387013				
+661198	69929	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+662996	70928	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+663701	71271	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+664924	71258	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
+667560	71283	1314614	nebivolol 2.5 MG Oral Tablet	751618	EXACT			2026-03-13
+667572	71284	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+669348	72140	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+673467	61428	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+673475	61427	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+679734	73926	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+698386	77650	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+719775	82607	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+720536	82817	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+727365	84652	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+727798	84808	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+728424	85050	19101573	nebivolol 5 MG Oral Tablet	387013				2026-03-13
+661222	69657	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
+664426	72069	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
+665222	72200	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
+665584	72262	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
+677635	73536	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
+681237	74287	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
+723846	83557	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-13
+724064	83616	1314581	nebivolol 10 MG Oral Tablet	751612	EXACT	No matching Insucor brand concept found in RxNorm.		2026-03-13
+728861	85487	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-13
+730757	85898	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-13
+763295	89018	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-13
+769932	90409	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	Source des_dosific is 'En revisión'; product name and clinical description are 5 MG tablet.		2026-03-13

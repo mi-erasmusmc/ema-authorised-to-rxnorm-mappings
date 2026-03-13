@@ -1,5 +1,17 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-620385	42846	1178668	indomethacin 100 MG Rectal Suppository	199549				
-771451	41723	1178668	indomethacin 100 MG Rectal Suppository	199549				
-954909	42846	1178668	indomethacin 100 MG Rectal Suppository	199549				
-986307	45894	1178668	indomethacin 100 MG Rectal Suppository	199549				
+620385	42846	1178668	indomethacin 100 MG Rectal Suppository	199549				2026-03-13
+771451	41723	1178668	indomethacin 100 MG Rectal Suppository	199549				2026-03-13
+954909	42846	1178668	indomethacin 100 MG Rectal Suppository	199549				2026-03-13
+986307	45894	1178668	indomethacin 100 MG Rectal Suppository	199549				2026-03-13
+620377	41689	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13
+620393	41723	1178667	indomethacin 50 MG Rectal Suppository	197819	EXACT			2026-03-13
+656955	68307	1178696	indomethacin Topical	198097	BROAD	No exact indomethacin 10 MG/ML topical spray concept found in RxNorm.	indomethacin 10 MG/ML Topical Spray	2026-03-13
+711713	80642	1178667	indomethacin 50 MG Rectal Suppository	197819	EXACT			2026-03-13
+711762	80655	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13
+711770	80657	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13
+758458	88328	1178668	indomethacin 100 MG Rectal Suppository	199549	EXACT			2026-03-13
+758466	88328	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13
+771469	90708	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13
+771477	90708	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13
+989616	58584	19078522	indomethacin 75 MG Extended Release Oral Capsule	310992	EXACT			2026-03-13
+989871	58598	19078522	indomethacin 75 MG Extended Release Oral Capsule	310992	EXACT			2026-03-13

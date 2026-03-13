@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-662182	70427	40082106	sodium iodide Oral Tablet	451740	BROAD	No RxNorm concept for sodium iodide I-131 oral capsule; mapped to class-level sodium iodide oral tablet	sodium iodide (131I) Oral Capsule	2026-03-12
-663549	71189	40082106	sodium iodide Oral Tablet	451740	BROAD	No RxNorm concept for sodium iodide I-131 oral capsule; mapped to class-level sodium iodide oral tablet	sodium iodide (131I) Oral Capsule	2026-03-12
-680888	74145	40082106	sodium iodide Oral Tablet	451740	BROAD	No RxNorm concept for sodium iodide I-131 oral capsule; mapped to class-level sodium iodide oral tablet	sodium iodide (131I) Oral Capsule	2026-03-12
-699077	77841	40082106	sodium iodide Oral Tablet	451740	BROAD	No RxNorm concept for sodium iodide I-131 oral capsule; mapped to class-level sodium iodide oral tablet	sodium iodide (131I) Oral Capsule	2026-03-12
-699788	78011	1718753	sodium iodide Injection	1860469	BROAD	No RxNorm concept for sodium iodide I-131 injection; mapped to class-level sodium iodide injection	sodium iodide (131I) Injectable Solution	2026-03-12
-699795	78012	1718753	sodium iodide Injection	1860469	BROAD	No RxNorm concept for sodium iodide I-131 injection; mapped to class-level sodium iodide injection	sodium iodide (131I) Injectable Solution	2026-03-12
+662182	70427	40082106	sodium iodide Oral Tablet	451740	EXACT			2026-03-13
+663549	71189	40082106	sodium iodide Oral Tablet	451740	EXACT			2026-03-13
+680888	74145	40082106	sodium iodide Oral Tablet	451740	EXACT			2026-03-13
+699077	77841	40082106	sodium iodide Oral Tablet	451740	EXACT			2026-03-13
+699788	78011	1718753	sodium iodide Injection	1860469	EXACT			2026-03-13
+699795	78012	1718753	sodium iodide Injection	1860469	EXACT			2026-03-13

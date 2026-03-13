@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-836478	65010	2934161	tetrofosmin 0.23 MG	OMOP5150913	BROAD	No RxNorm concept for Tc-99m tetrofosmin radiopharmaceutical kit (ATC V09GA02); mapped to ingredient-level clinical drug.	tetrofosmin 0.23 MG kit for radiopharmaceutical preparation	2026-03-12
-724711	83803	2934161	tetrofosmin 0.23 MG	OMOP5150913	BROAD	No RxNorm concept for tetrofosmin 0.23 MG kit for radiopharmaceutical preparation (Tc-99m tetrofosmin, ATC V09GA02); mapped to ingredient-level clinical drug.	tetrofosmin 0.23 MG kit for radiopharmaceutical preparation	2026-03-12
-724712	83803	2934161	tetrofosmin 0.23 MG	OMOP5150913	BROAD	No RxNorm concept for tetrofosmin 0.23 MG kit for radiopharmaceutical preparation (Tc-99m tetrofosmin, ATC V09GA02); mapped to ingredient-level clinical drug.	tetrofosmin 0.23 MG kit for radiopharmaceutical preparation	2026-03-12
+836478	65010	42900108	tetrofosmin	1311569	EXACT			2026-03-13
+724711	83803	42900108	tetrofosmin	1311569	EXACT			2026-03-13
+724712	83803	42900108	tetrofosmin	1311569	EXACT			2026-03-13
