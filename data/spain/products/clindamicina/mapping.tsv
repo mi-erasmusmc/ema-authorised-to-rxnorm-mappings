@@ -1,14 +1,21 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-608570	49152	997892	clindamycin 150 MG Oral Capsule	197518				
-640268	58783	997899	clindamycin 300 MG Oral Capsule	284215				
-650808	66610	40168238	clindamycin phosphate 0.012 MG/MG	882547	BROAD			
-650809	66610	40168238	clindamycin phosphate 0.012 MG/MG	882547	BROAD			
-650810	66610	40168238	clindamycin phosphate 0.012 MG/MG	882547	BROAD			
-654278	49152	997892	clindamycin 150 MG Oral Capsule	197518				
-654286	58783	997899	clindamycin 300 MG Oral Capsule	284215				
-691691	60362	40168238	clindamycin phosphate 0.012 MG/MG	882547	BROAD			
-714077	81565	997899	clindamycin 300 MG Oral Capsule	284215				
-714081	81568	997892	clindamycin 150 MG Oral Capsule	197518				
-719658	60034	19075531	clindamycin 20 MG/ML Vaginal Cream	309337	EXACT			
-765875	58782	997954	clindamycin 10 MG/ML	343113	BROAD			
-851568	62911	997898	clindamycin 100 MG Vaginal Insert	259233	EXACT			
+608570	49152	997892	clindamycin 150 MG Oral Capsule	197518	EXACT			2026-03-13
+640268	58783	997899	clindamycin 300 MG Oral Capsule	284215	EXACT			2026-03-13
+650808	66610	19075427	Once-Daily clindamycin 0.01 MG/MG Topical Gel	309332	EXACT			2026-03-13
+650809	66610	19075427	Once-Daily clindamycin 0.01 MG/MG Topical Gel	309332	EXACT			2026-03-13
+650810	66610	19075427	Once-Daily clindamycin 0.01 MG/MG Topical Gel	309332	EXACT			2026-03-13
+654278	49152	997892	clindamycin 150 MG Oral Capsule	197518	EXACT			2026-03-13
+654286	58783	997899	clindamycin 300 MG Oral Capsule	284215	EXACT			2026-03-13
+691691	60362	19075427	Once-Daily clindamycin 0.01 MG/MG Topical Gel	309332	EXACT			2026-03-13
+714077	81565	997899	clindamycin 300 MG Oral Capsule	284215	EXACT			2026-03-13
+714081	81568	997892	clindamycin 150 MG Oral Capsule	197518	EXACT			2026-03-13
+719658	60034	19075531	clindamycin 20 MG/ML Vaginal Cream	309337	EXACT			2026-03-13
+765875	58782	997954	clindamycin 10 MG/ML	343113	BROAD		No RxNorm concept for clindamycin topical emulsion; mapped to clindamycin 10 MG/ML	2026-03-13
+851568	62911	997898	clindamycin 100 MG Vaginal Insert	259233	EXACT			2026-03-13
+604678	63667	35604117	2 ML clindamycin 150 MG/ML Injection	1737244	EXACT			2026-03-13
+604694	63669	35604327	4 ML clindamycin 150 MG/ML Injection	1737578	EXACT			2026-03-13
+606322	70527	35604117	2 ML clindamycin 150 MG/ML Injection	1737244	EXACT			2026-03-13
+701441	63667	35604117	2 ML clindamycin 150 MG/ML Injection	1737244	EXACT			2026-03-13
+701607	63669	35604327	4 ML clindamycin 150 MG/ML Injection	1737578	EXACT			2026-03-13
+691709	60361	19075428	clindamycin 10 MG/ML Topical Solution	309333	EXACT			2026-03-13
+728606	85105	997898	clindamycin 100 MG Vaginal Insert	259233	EXACT			2026-03-13

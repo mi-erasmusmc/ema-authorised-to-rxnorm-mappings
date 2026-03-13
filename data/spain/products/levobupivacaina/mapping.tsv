@@ -1,17 +1,18 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-700456	78240	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700457	78242	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700731	78248	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700801	78282	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700802	78282	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700803	78283	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700804	78284	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700805	78285	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700806	78285	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700808	78286	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700809	78287	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-700810	78288	36882738	Levobupivacaine Injection	OMOP999578	BROAD			
-706427	79843	40226933	levobupivacaine hydrochloride 7.5 MG/ML Injectable Solution	1012475				
-706429	79844	40226929	levobupivacaine hydrochloride 5 MG/ML Injectable Solution	1012471				
-706431	79845	40226925	levobupivacaine hydrochloride 2.5 MG/ML Injectable Solution	1012467	BROAD			
-706433	79846	40227158	levobupivacaine hydrochloride 1.25 MG/ML Injectable Solution	1012481				
+700456	78240	40226925	levobupivacaine hydrochloride 2.5 MG/ML Injectable Solution	1012467	EXACT			2026-03-13
+700457	78242	40226929	levobupivacaine hydrochloride 5 MG/ML Injectable Solution	1012471	EXACT			2026-03-13
+700731	78248	40226933	levobupivacaine hydrochloride 7.5 MG/ML Injectable Solution	1012475	EXACT			2026-03-13
+700801	78282	40227158	levobupivacaine hydrochloride 1.25 MG/ML Injectable Solution	1012481	EXACT			2026-03-13
+700802	78282	40227158	levobupivacaine hydrochloride 1.25 MG/ML Injectable Solution	1012481	EXACT			2026-03-13
+700803	78283	40227156	levobupivacaine hydrochloride 0.625 MG/ML Injectable Solution	1012479	EXACT			2026-03-13
+700804	78284	40227156	levobupivacaine hydrochloride 0.625 MG/ML Injectable Solution	1012479	EXACT			2026-03-13
+700805	78285	40227158	levobupivacaine hydrochloride 1.25 MG/ML Injectable Solution	1012481	EXACT			2026-03-13
+700806	78285	40227158	levobupivacaine hydrochloride 1.25 MG/ML Injectable Solution	1012481	EXACT			2026-03-13
+700808	78286	40226925	levobupivacaine hydrochloride 2.5 MG/ML Injectable Solution	1012467	EXACT			2026-03-13
+700809	78287	40226929	levobupivacaine hydrochloride 5 MG/ML Injectable Solution	1012471	EXACT			2026-03-13
+700810	78288	40226933	levobupivacaine hydrochloride 7.5 MG/ML Injectable Solution	1012475	EXACT			2026-03-13
+706427	79843	40226933	levobupivacaine hydrochloride 7.5 MG/ML Injectable Solution	1012475	EXACT			2026-03-13
+706429	79844	40226929	levobupivacaine hydrochloride 5 MG/ML Injectable Solution	1012471	EXACT			2026-03-13
+706431	79845	40226925	levobupivacaine hydrochloride 2.5 MG/ML Injectable Solution	1012467	EXACT			2026-03-13
+706433	79846	40227158	levobupivacaine hydrochloride 1.25 MG/ML Injectable Solution	1012481	EXACT			2026-03-13
+706435	79847	40227156	levobupivacaine hydrochloride 0.625 MG/ML Injectable Solution	1012479	EXACT			2026-03-13

@@ -9,13 +9,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 658843	68670	939902	capsaicin 0.75 MG/ML Topical Cream	141868	EXACT			2026-03-12
 658844	68670	939902	capsaicin 0.75 MG/ML Topical Cream	141868	EXACT			2026-03-12
 660425	63830	939902	capsaicin 0.75 MG/ML Topical Cream	141868	EXACT			2026-03-12
-664355	71716	42629092	capsaicin Medicated Patch	1792834	BROAD		capsaicin 1.9 MG Medicated Patch	2026-03-12
-664356	71715	42629092	capsaicin Medicated Patch	1792834	BROAD		capsaicin 5.2 MG Medicated Patch	2026-03-12
+664355	71716	42629092	capsaicin Medicated Patch	1792834	BROAD	No exact 1.9 MG capsaicin medicated patch concept in RxNorm	capsaicin 1.9 MG Medicated Patch	2026-03-13
+664356	71715	42629092	capsaicin Medicated Patch	1792834	BROAD	No exact 5.2 MG capsaicin medicated patch concept in RxNorm	capsaicin 5.2 MG Medicated Patch	2026-03-13
 680597	74074	939902	capsaicin 0.75 MG/ML Topical Cream	141868	EXACT			2026-03-12
 680598	74074	939902	capsaicin 0.75 MG/ML Topical Cream	141868	EXACT			2026-03-12
 681460	60957	939903	capsaicin 0.25 MG/ML Topical Cream	198555	EXACT			2026-03-12
 681478	60957	939903	capsaicin 0.25 MG/ML Topical Cream	198555	EXACT			2026-03-12
 695296	60156	939903	capsaicin 0.25 MG/ML Topical Cream	198555	EXACT			2026-03-12
 700655	09524001	40228990	capsaicin 0.08 MG/MG Medicated Patch [Qutenza]	1039681	EXACT			2026-03-12
-835520	66283	42629092	capsaicin Medicated Patch	1792834	BROAD		capsaicin 4.8 MG Medicated Patch	2026-03-12
+835520	66283	42629092	capsaicin Medicated Patch	1792834	BROAD	No exact 4.8 MG capsaicin medicated patch concept in RxNorm	capsaicin 4.8 MG Medicated Patch	2026-03-13
 898254	63830	939902	capsaicin 0.75 MG/ML Topical Cream	141868	EXACT			2026-03-12

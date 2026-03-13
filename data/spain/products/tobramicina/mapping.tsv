@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-631176	65262	19104455	tobramycin 50 MG/ML Injectable Solution	415080	BROAD		tobramycin 25 MG/ML Injectable Solution	2026-03-12
+631176	65262	19104455	tobramycin 50 MG/ML Injectable Solution	415080	BROAD	50mg/2ml=25MG/ML; no 25 MG/ML concentration concept in RxNorm	tobramycin 25 MG/ML Injectable Solution	2026-03-13
 631226	65261	19104455	tobramycin 50 MG/ML Injectable Solution	415080	EXACT			2026-03-12
 653544	57593	19036659	tobramycin 0.003 MG/MG Ophthalmic Ointment [Tobrex]	207850	EXACT			2026-03-12
-658774	68621	42901769	tobramycin 75 MG/ML Inhalation Solution	1314763	BROAD		tobramycin 75 MG/ML Inhalation Solution [Bramitob]	2026-03-12
+658774	68621	42901769	tobramycin 75 MG/ML Inhalation Solution	1314763	BROAD	BRAMITOB 300mg/4ml=75MG/ML; no Bramitob brand in RxNorm; closest branded equivalent is Bethkis	tobramycin 75 MG/ML Inhalation Solution [Bethkis]	2026-03-13
 672722	64350	902741	tobramycin 3 MG/ML Ophthalmic Solution	313415	EXACT			2026-03-13
 687247	75344	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13
 688545	75612	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13
@@ -11,11 +11,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 725932	84187	902806	tobramycin 60 MG/ML Inhalation Solution	348719	EXACT			2026-03-13
 753699	63689	902732	tobramycin 60 MG/ML Inhalation Solution [Tobi]	213194	EXACT			2026-03-12
 758037	65261	19104455	tobramycin 50 MG/ML Injectable Solution	415080	EXACT			2026-03-12
-758185	65262	19104455	tobramycin 50 MG/ML Injectable Solution	415080	BROAD		tobramycin 25 MG/ML Injectable Solution	2026-03-12
+758185	65262	19104455	tobramycin 50 MG/ML Injectable Solution	415080	BROAD	50mg/2ml=25MG/ML; no 25 MG/ML concentration concept in RxNorm	tobramycin 25 MG/ML Injectable Solution	2026-03-13
 977298	57594	19036655	tobramycin 3 MG/ML Ophthalmic Solution [Tobrex]	207846	EXACT			2026-03-13
 600551	64190	902734	tobramycin 1 MG/ML Injectable Solution	242824	EXACT			2026-03-12
 600858	62009	902734	tobramycin 1 MG/ML Injectable Solution	242824	EXACT			2026-03-12
 636175	55313	19104455	tobramycin 50 MG/ML Injectable Solution	415080	EXACT			2026-03-12
 661520	62009	902734	tobramycin 1 MG/ML Injectable Solution	242824	EXACT			2026-03-12
 683180	10652002	43526090	tobramycin 28 MG Inhalation Powder [Tobi]	1374573	EXACT			2026-03-12
-729307	181350001	42901769	tobramycin 75 MG/ML Inhalation Solution	1314763	BROAD		tobramycin 170 MG Inhalation Solution [Vantobra]	2026-03-12
+729307	181350001	42901769	tobramycin 75 MG/ML Inhalation Solution	1314763	BROAD	VANTOBRA 170mg/2.5ml=68MG/ML; no Vantobra brand or matching concentration in RxNorm	tobramycin Inhalation Solution	2026-03-13

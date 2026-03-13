@@ -1,14 +1,21 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-701182	106359002	40225991	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet [Suboxone]	1010608	EXACT			2025-12-04
-701187	106359004	40225995	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet [Suboxone]	1010609	EXACT			2025-12-04
-722394	1171233009	43532943	buprenorphine 1.4 MG / naloxone 0.36 MG Sublingual Tablet [Zubsolv]	1431083	EXACT			2025-12-04
-722395	1171233009	43532943	buprenorphine 1.4 MG / naloxone 0.36 MG Sublingual Tablet [Zubsolv]	1431083	EXACT			2025-12-04
-722396	1171233011	46287551	buprenorphine 2.9 MG / naloxone 0.71 MG Sublingual Tablet [Zubsolv]	1666385	EXACT			2025-12-04
-722398	1171233011	46287551	buprenorphine 2.9 MG / naloxone 0.71 MG Sublingual Tablet [Zubsolv]	1666385	EXACT			2025-12-04
-722399	1171233015	45892574	buprenorphine 8.6 MG / naloxone 2.1 MG Sublingual Tablet [Zubsolv]	1597575	EXACT			2025-12-04
-722400	1171233015	45892574	buprenorphine 8.6 MG / naloxone 2.1 MG Sublingual Tablet [Zubsolv]	1597575	EXACT			2025-12-04
-722401	1171233017	45892569	buprenorphine 11.4 MG / naloxone 2.9 MG Sublingual Tablet [Zubsolv]	1597570	EXACT			2025-12-04
-722402	1171233017	45892569	buprenorphine 11.4 MG / naloxone 2.9 MG Sublingual Tablet [Zubsolv]	1597570	EXACT			2025-12-04
-722419	1171233013	43532945	buprenorphine 5.7 MG / naloxone 1.4 MG Sublingual Tablet [Zubsolv]	1431104	EXACT			2025-12-04
-722420	1171233013	43532945	buprenorphine 5.7 MG / naloxone 1.4 MG Sublingual Tablet [Zubsolv]	1431104	EXACT			2025-12-04
-727759	84793	1133231	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet	351266				
+701182	106359002	40225991	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet [Suboxone]	1010608	EXACT			2026-03-13
+701187	106359004	40225995	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet [Suboxone]	1010609	EXACT			2026-03-13
+722394	1171233009	43532943	buprenorphine 1.4 MG / naloxone 0.36 MG Sublingual Tablet [Zubsolv]	1431083	EXACT			2026-03-13
+722395	1171233009	43532943	buprenorphine 1.4 MG / naloxone 0.36 MG Sublingual Tablet [Zubsolv]	1431083	EXACT			2026-03-13
+722396	1171233011	46287551	buprenorphine 2.9 MG / naloxone 0.71 MG Sublingual Tablet [Zubsolv]	1666385	EXACT			2026-03-13
+722398	1171233011	46287551	buprenorphine 2.9 MG / naloxone 0.71 MG Sublingual Tablet [Zubsolv]	1666385	EXACT			2026-03-13
+722399	1171233015	45892574	buprenorphine 8.6 MG / naloxone 2.1 MG Sublingual Tablet [Zubsolv]	1597575	EXACT			2026-03-13
+722400	1171233015	45892574	buprenorphine 8.6 MG / naloxone 2.1 MG Sublingual Tablet [Zubsolv]	1597575	EXACT			2026-03-13
+722401	1171233017	45892569	buprenorphine 11.4 MG / naloxone 2.9 MG Sublingual Tablet [Zubsolv]	1597570	EXACT			2026-03-13
+722402	1171233017	45892569	buprenorphine 11.4 MG / naloxone 2.9 MG Sublingual Tablet [Zubsolv]	1597570	EXACT			2026-03-13
+722419	1171233013	43532945	buprenorphine 5.7 MG / naloxone 1.4 MG Sublingual Tablet [Zubsolv]	1431104	EXACT			2026-03-13
+722420	1171233013	43532945	buprenorphine 5.7 MG / naloxone 1.4 MG Sublingual Tablet [Zubsolv]	1431104	EXACT			2026-03-13
+727759	84793	1133231	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet	351266	EXACT			2026-03-13
+658107	06359001	40225991	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet [Suboxone]	1010608	EXACT			2026-03-13
+658108	06359003	40225995	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet [Suboxone]	1010609	EXACT			2026-03-13
+727756	84792	1133262	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet	351267	EXACT			2026-03-13
+728394	84792	1133262	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet	351267	EXACT			2026-03-13
+730431	85791	1133231	buprenorphine 2 MG / naloxone 0.5 MG Sublingual Tablet	351266	EXACT			2026-03-13
+730433	85792	1133262	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet	351267	EXACT			2026-03-13
+730434	85792	1133262	buprenorphine 8 MG / naloxone 2 MG Sublingual Tablet	351267	EXACT			2026-03-13

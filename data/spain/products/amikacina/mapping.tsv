@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 617712	63879	40173560	amikacin sulfate 5 MG/ML Injectable Solution	905156	EXACT			2026-03-12
-618249	63880	40008548	amikacin Injectable Solution	370563	BROAD		amikacin sulfate 10 MG/ML Injectable Solution	2026-03-12
+618249	63880	40008548	amikacin Injectable Solution	370563	BROAD	amikacin 1000mg/100ml = 10 MG/ML; no 10 MG/ML concentration concept in RxNorm	amikacin 10 MG/ML Injectable Solution	2026-03-13
 610444	62658	40173560	amikacin sulfate 5 MG/ML Injectable Solution	905156	EXACT			2026-03-12
 625319	57013	35604627	2 ML amikacin 50 MG/ML Injection	1727174	EXACT			2026-03-12
 625327	57012	35606019	2 ML amikacin 250 MG/ML Injection	1723156	EXACT			2026-03-12

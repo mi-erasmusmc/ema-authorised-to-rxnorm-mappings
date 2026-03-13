@@ -1,9 +1,16 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603573	73154	43258677	Barium Sulfate Oral Solution	OMOP572676	BROAD		barium sulfate 764.32 g powder for oral and rectal suspension - no dose-form-specific concept in RxNorm	2026-03-12
-603625	73215	43258677	Barium Sulfate Oral Solution	OMOP572676	BROAD		barium sulfate 327.25 g powder for oral suspension - no dose-form-specific concept in RxNorm	2026-03-12
-603631	73212	43258677	Barium Sulfate Oral Solution	OMOP572676	BROAD		barium sulfate 830 MG/ML oral and rectal suspension concentrate - no dose-form-specific concept in RxNorm	2026-03-12
-636886	57391	43258677	Barium Sulfate Oral Solution	OMOP572676	BROAD		barium sulfate 333.2 g powder for oral suspension - no dose-form-specific concept in RxNorm	2026-03-12
-673603	73640	43258677	Barium Sulfate Oral Solution	OMOP572676	BROAD		barium sulfate 10 g powder for oral suspension sachet - no dose-form-specific concept in RxNorm	2026-03-12
-715593	81945	43258677	Barium Sulfate Oral Solution	OMOP572676	BROAD		barium sulfate 5 g/100 mL oral suspension - no dose-form-specific concept in RxNorm	2026-03-12
-882696	57391	43258677	Barium Sulfate Oral Solution	OMOP572676	BROAD		barium sulfate 333.2 g powder for oral suspension - no dose-form-specific concept in RxNorm	2026-03-12
-636878	57393	19011331	barium sulfate	1331	BROAD		barium sulfate 555.2 g powder for rectal suspension - no dose-form-specific rectal concept in RxNorm	2026-03-12
+603573	73154	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+603625	73215	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+603631	73212	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+636886	57391	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+673603	73640	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+715593	81945	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+882696	57391	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+636878	57393	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+603651	73286	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+603652	73287	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+603653	73287	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+712246	81172	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+712518	81221	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+712519	81222	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13
+882712	57393	19011331	barium sulfate	1331	BROAD	RxNorm does not expose the matching Spain diagnostic suspension presentation.	barium sulfate oral or rectal suspension matching the labeled strength and route	2026-03-13

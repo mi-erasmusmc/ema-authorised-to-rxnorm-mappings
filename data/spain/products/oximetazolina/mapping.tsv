@@ -1,18 +1,26 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652847	67307	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-659988	69328	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-663821	71352	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-663822	71356	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-663824	71355	40225161	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin]	1000992	EXACT			
-688046	75517	40225161	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin]	1000992	EXACT			
-694775	76791	40225161	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin]	1000992	EXACT			
-695748	76938	40225161	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin]	1000992	EXACT			
-720919	82918	40225161	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin]	1000992	EXACT			
-727420	64498	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-816728	51889	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-816769	41111	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-843334	46066	40225161	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin]	1000992	EXACT			
-843342	46065	40225144	oxymetazoline hydrochloride 0.25 MG/ML	1000977	EXACT			
-847814	55741	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-877399	41111	40066620	oxymetazoline Nasal Spray	374488	BROAD			
-891457	59273	40225161	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray [Afrin]	1000992	EXACT			
+652847	67307	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+659988	69328	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+663821	71352	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+663822	71356	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+663824	71355	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+688046	75517	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+694775	76791	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+695748	76938	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+720919	82918	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+727420	64498	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+816728	51889	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+816769	41111	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+843334	46066	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+843342	46065	40225145	oxymetazoline hydrochloride 0.25 MG/ML Nasal Solution	1000978	EXACT			2026-03-13
+847814	55741	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+877399	41111	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+891457	59273	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+658744	68606	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+673046	61461	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+696767	77135	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+701403	78450	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+706070	79715	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+724080	83612	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+728097	64499	40225159	oxymetazoline hydrochloride 0.5 MG/ML Nasal Spray	1000990	EXACT			2026-03-13
+791475	48817	1525355	oxymetazoline hydrochloride 0.25 MG/ML Nasal Spray	2606550	EXACT			2026-03-13
