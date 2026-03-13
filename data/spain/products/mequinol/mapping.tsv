@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+796615	38061	19105101	mequinol 0.1 MG/MG Topical Ointment	418217	EXACT			2026-03-13
+796623	44619	40055587	mequinol Topical Ointment	446326	BROAD	Spain source is 200 mg/g (0.2 MG/MG) topical ointment; RxNorm has no 0.2 MG/MG mequinol ointment concept.	mequinol 0.2 MG/MG Topical Ointment	2026-03-13

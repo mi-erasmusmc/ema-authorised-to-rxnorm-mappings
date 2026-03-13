@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+688734	75659	21125827	Lycopodium Clavatum Preparation Oral Pellet	OMOP284142	BROAD	Homeopathic globules; RxNorm does not expose the exact 5 CH pellet concept.	Lycopodium Clavatum Preparation 5 CH Oral Pellet	2026-03-13
+688736	75661	21125827	Lycopodium Clavatum Preparation Oral Pellet	OMOP284142	BROAD	Homeopathic globules; RxNorm does not expose the exact 7 CH pellet concept.	Lycopodium Clavatum Preparation 7 CH Oral Pellet	2026-03-13
+688744	75663	21125827	Lycopodium Clavatum Preparation Oral Pellet	OMOP284142	BROAD	Homeopathic globules; RxNorm does not expose the exact 9 CH pellet concept.	Lycopodium Clavatum Preparation 9 CH Oral Pellet	2026-03-13
+688750	75668	21125827	Lycopodium Clavatum Preparation Oral Pellet	OMOP284142	BROAD	Homeopathic globules; RxNorm does not expose the exact 15 CH pellet concept.	Lycopodium Clavatum Preparation 15 CH Oral Pellet	2026-03-13
+688752	75670	21145560	Lycopodium Clavatum Preparation 30 C Oral Pellet	OMOP284146	EXACT	30 CH homeopathic strength aligned to the available 30 C oral pellet concept.		2026-03-13

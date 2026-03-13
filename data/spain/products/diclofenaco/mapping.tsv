@@ -5,79 +5,79 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606111	56562	40162326	diclofenac sodium 100 MG Extended Release Oral Tablet	855660	EXACT			2026-03-12
 607722	89081	40162340	diclofenac sodium 25 MG/ML Injectable Solution	857705	EXACT			2026-03-12
 609552	57202	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
-609560	57203	40162328	diclofenac sodium 100 MG Rectal Suppository	857696				2026-03-12
-638213	57592	40162328	diclofenac sodium 100 MG Rectal Suppository	857696				2026-03-12
-652775	67266	40228941	diclofenac sodium 10 MG/ML Topical Cream	1043479	BROAD		diclofenac sodium 10 MG/ML cutaneous emulsion - mapped to closest topical cream concept	2026-03-12
+609560	57203	40162328	diclofenac sodium 100 MG Rectal Suppository	857696	EXACT			2026-03-12
+638213	57592	40162328	diclofenac sodium 100 MG Rectal Suppository	857696	EXACT			2026-03-12
+652775	67266	40228941	diclofenac sodium 10 MG/ML Topical Cream	1043479	BROAD	Spain source is 10 MG/ML cutaneous emulsion; RxNorm has no topical emulsion concept — mapped to closest topical cream.	diclofenac sodium 10 MG/ML Topical Cream	2026-03-13
 653234	61866	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
 655134	62024	40162362	diclofenac sodium 75 MG Extended Release Oral Tablet	857713	EXACT			2026-03-12
 656712	64442	40235197	diclofenac sodium 50 MG Disintegrating Oral Tablet	1088257	EXACT			2026-03-12
 658351	62161	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
-660248	69475	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801				2026-03-12
+660248	69475	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801	EXACT			2026-03-12
 661686	62000	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
 661952	70307	793658	diclofenac sodium 0.015 MG/MG Medicated Patch	1995011	EXACT			2026-03-12
 661953	70307	793658	diclofenac sodium 0.015 MG/MG Medicated Patch	1995011	EXACT			2026-03-12
 662197	56562	40162326	diclofenac sodium 100 MG Extended Release Oral Tablet	855660	EXACT			2026-03-12
 662205	55005	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
-662213	55004	40162328	diclofenac sodium 100 MG Rectal Suppository	857696				2026-03-12
-664208	71620	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
-665067	61812	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801				2026-03-12
+662213	55004	40162328	diclofenac sodium 100 MG Rectal Suppository	857696	EXACT			2026-03-12
+664208	71620	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
+665067	61812	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801	EXACT			2026-03-12
 667139	57202	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
-673907	73714	40162316	diclofenac sodium 0.03 MG/MG Topical Gel [Solaraze]	855644				2026-03-12
+673907	73714	40162316	diclofenac sodium 0.03 MG/MG Topical Gel [Solaraze]	855644	EXACT			2026-03-12
 675264	62629	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
 680421	62439	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
-680803	74119	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
-681771	73714	40162316	diclofenac sodium 0.03 MG/MG Topical Gel [Solaraze]	855644				2026-03-12
-681785	74347	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
-684324	63643	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801				2026-03-12
-692227	76209	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
-697492	71620	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
-698029	77503	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801				2026-03-12
-698419	71620	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
+680803	74119	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
+681771	73714	40162316	diclofenac sodium 0.03 MG/MG Topical Gel [Solaraze]	855644	EXACT			2026-03-12
+681785	74347	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
+684324	63643	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801	EXACT			2026-03-12
+692227	76209	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
+697492	71620	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
+698029	77503	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801	EXACT			2026-03-12
+698419	71620	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
 699736	60068	40235197	diclofenac sodium 50 MG Disintegrating Oral Tablet	1088257	EXACT			2026-03-12
 701285	78407	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
-704608	73714	40162316	diclofenac sodium 0.03 MG/MG Topical Gel [Solaraze]	855644				2026-03-12
-711507	76209	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
-711508	74119	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
-712034	62326	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801				2026-03-12
+704608	73714	40162316	diclofenac sodium 0.03 MG/MG Topical Gel [Solaraze]	855644	EXACT			2026-03-12
+711507	76209	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
+711508	74119	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
+712034	62326	40162322	diclofenac sodium 1 MG/ML Ophthalmic Solution [Voltaren]	854803	EXACT			2026-03-13
 713628	64442	40235197	diclofenac sodium 50 MG Disintegrating Oral Tablet	1088257	EXACT			2026-03-12
-714919	81761	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642				2026-03-12
-714925	81761	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642				2026-03-12
-714926	81761	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642				2026-03-12
-719764	74347	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
+714919	81761	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
+714925	81761	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
+714926	81761	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
+719764	74347	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
 721195	82182	40162398	Twice-Daily diclofenac epolamine 0.013 MG/MG Medicated Patch [Flector]	855628	EXACT			2026-03-12
-721435	71620	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
+721435	71620	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
 721469	83054	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
 721474	83055	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
 721475	83055	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
 721923	83054	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
 723394	83369	40162340	diclofenac sodium 25 MG/ML Injectable Solution	857705	EXACT			2026-03-12
-723399	83370	41180213	Diclofenac 50 MG/ML Injectable Solution	OMOP2378175				2026-03-12
-723407	83372	36891751	Diclofenac 75 MG/ML Prefilled Syringe	OMOP991189				2026-03-12
+723399	83370	41180213	Diclofenac 50 MG/ML Injectable Solution	OMOP2378175	EXACT			2026-03-12
+723407	83372	36891751	Diclofenac 75 MG/ML Prefilled Syringe	OMOP991189	EXACT			2026-03-12
 725039	83900	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
 725040	83900	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
 726161	78407	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
-728862	85218	40032421	diclofenac Topical Cream	438948	BROAD		diclofenac sodium 39.2 MG/ML cutaneous spray solution - no spray-specific concept in RxNorm	2026-03-12
-728960	85263	40032421	diclofenac Topical Cream	438948	BROAD		diclofenac sodium 40 MG/ML cutaneous spray solution - no spray-specific concept in RxNorm	2026-03-12
-731855	86279	40032421	diclofenac Topical Cream	438948	BROAD		diclofenac sodium 39.2 MG/ML cutaneous spray solution - no spray-specific concept in RxNorm	2026-03-12
-733062	86650	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504				2026-03-12
-733063	86650	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504				2026-03-12
-733064	86651	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	BROAD		diclofenac dietylamine 11.6 MG/G topical gel - closest available concept	2026-03-12
-733065	86651	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	BROAD		diclofenac dietylamine 11.6 MG/G topical gel - closest available concept	2026-03-12
+728862	85218	40032421	diclofenac Topical Cream	438948	BROAD	Spain source is 39.2 MG/ML cutaneous spray solution; RxNorm has no diclofenac topical spray concept.	diclofenac sodium 39.2 MG/ML Topical Solution	2026-03-13
+728960	85263	40032421	diclofenac Topical Cream	438948	BROAD	Spain source is 40 MG/ML cutaneous spray solution; RxNorm has no diclofenac topical spray concept.	diclofenac sodium 40 MG/ML Topical Solution	2026-03-13
+731855	86279	40032421	diclofenac Topical Cream	438948	BROAD	Spain source is 39.2 MG/ML cutaneous spray solution; RxNorm has no diclofenac topical spray concept.	diclofenac sodium 39.2 MG/ML Topical Solution	2026-03-13
+733062	86650	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
+733063	86650	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
+733064	86651	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	BROAD	Spain source is 10 MG/G (diclofenac diethylamine) topical gel; RxNorm has no exact 10 MG/G gel concept — mapped to closest available.	diclofenac diethylamine 10 MG/G Topical Gel	2026-03-13
+733065	86651	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	BROAD	Spain source is 10 MG/G (diclofenac diethylamine) topical gel; RxNorm has no exact 10 MG/G gel concept — mapped to closest available.	diclofenac diethylamine 10 MG/G Topical Gel	2026-03-13
 758548	85300	793658	diclofenac sodium 0.015 MG/MG Medicated Patch	1995011	EXACT			2026-03-12
 764108	85300	793658	diclofenac sodium 0.015 MG/MG Medicated Patch	1995011	EXACT			2026-03-12
-764555	58308	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801				2026-03-12
-765129	89632	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642				2026-03-12
-765130	89632	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642				2026-03-12
+764555	58308	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801	EXACT			2026-03-12
+765129	89632	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
+765130	89632	40162315	diclofenac sodium 0.03 MG/MG Topical Gel	855642	EXACT			2026-03-12
 766455	83900	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
 767808	90352	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
 767809	90352	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
 768260	78407	36068858	diclofenac 0.0232 MG/MG Topical Gel	OMOP4995504	EXACT			2026-03-12
-823591	62326	40162321	diclofenac sodium 1 MG/ML Ophthalmic Solution	854801				2026-03-12
+823591	62326	40162322	diclofenac sodium 1 MG/ML Ophthalmic Solution [Voltaren]	854803	EXACT			2026-03-13
 868034	57202	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12
 901249	61440	40235197	diclofenac sodium 50 MG Disintegrating Oral Tablet	1088257	EXACT			2026-03-12
-918979	59391	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314				2026-03-12
-972034	57203	40162328	diclofenac sodium 100 MG Rectal Suppository	857696				2026-03-12
-977066	57592	40162328	diclofenac sodium 100 MG Rectal Suppository	857696				2026-03-12
+918979	59391	2071716	diclofenac 0.0116 MG/MG Topical Cream	OMOP4973314	EXACT			2026-03-12
+972034	57203	40162328	diclofenac sodium 100 MG Rectal Suppository	857696	EXACT			2026-03-12
+977066	57592	40162328	diclofenac sodium 100 MG Rectal Suppository	857696	EXACT			2026-03-12
 990721	58435	40162325	diclofenac sodium 100 MG Extended Release Oral Capsule	857690	EXACT			2026-03-12
 636654	57204	40162340	diclofenac sodium 25 MG/ML Injectable Solution	857705	EXACT			2026-03-12
 636985	57216	40162346	diclofenac sodium 50 MG Delayed Release Oral Tablet	855906	EXACT			2026-03-12

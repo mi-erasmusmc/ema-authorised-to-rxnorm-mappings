@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+666230	52495	41242650	Cytidylic Acid 5 MG / Uridine 3 MG Injectable Solution	OMOP2440612	EXACT	Injection concept used because dose-form definition covers reconstituted powder intended to be injected.		2026-03-13
+666248	52493	40909794	Cytidylic Acid 2.5 MG / Uridine 1.5 MG Oral Capsule [Keltican]	OMOP2107756	EXACT			2026-03-13
+699181	52494	40992753	Cytidylic Acid 2.5 MG / Uridine 1.5 MG Oral Capsule	OMOP2190715	EXACT			2026-03-13
+762661	52495	41242650	Cytidylic Acid 5 MG / Uridine 3 MG Injectable Solution	OMOP2440612	EXACT	Injection concept used because dose-form definition covers reconstituted powder intended to be injected.		2026-03-13

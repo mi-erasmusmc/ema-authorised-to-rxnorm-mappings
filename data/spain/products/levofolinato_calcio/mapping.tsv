@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+654996	60862	19062497	leucovorin 7.5 MG Oral Tablet	250310	BROAD	Spain source is levofolinate calcium; RxNorm does not expose a strength-matched levoleucovorin oral tablet concept.	levoleucovorin 7.5 MG Oral Tablet	2026-03-13
+676205	61292	19062497	leucovorin 7.5 MG Oral Tablet	250310	BROAD	Spain source is levofolinate calcium; RxNorm does not expose a strength-matched levoleucovorin oral tablet concept.	levoleucovorin 7.5 MG Oral Tablet	2026-03-13
+676213	61291	1388800	leucovorin 5 MG Oral Tablet	197863	BROAD	Spain source is levofolinate calcium; RxNorm does not expose a strength-matched levoleucovorin oral tablet concept.	levoleucovorin 5 MG Oral Tablet	2026-03-13
+683060	60866	1718538	levoleucovorin 175 MG Injection	1858561	EXACT			2026-03-13
+683102	60862	19062497	leucovorin 7.5 MG Oral Tablet	250310	BROAD	Spain source is levofolinate calcium; RxNorm does not expose a strength-matched levoleucovorin oral tablet concept.	levoleucovorin 7.5 MG Oral Tablet	2026-03-13

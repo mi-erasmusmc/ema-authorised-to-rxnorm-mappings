@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-605890	76114	19079712	tacrolimus 0.5 MG Oral Capsule	313190	EXACT			
-605891	76115	950641	tacrolimus 1 MG Oral Capsule	198377	EXACT			
-605892	76116	950662	tacrolimus 5 MG Oral Capsule	198378	EXACT			
+605890	76114	19079712	tacrolimus 0.5 MG Oral Capsule	313190	EXACT			2026-03-13
+605891	76115	950641	tacrolimus 1 MG Oral Capsule	198377	EXACT			2026-03-13
+605892	76116	950662	tacrolimus 5 MG Oral Capsule	198378	EXACT			2026-03-13
 667221	71673	19079712	tacrolimus 0.5 MG Oral Capsule	313190	EXACT			2026-03-12
 667231	71674	950641	tacrolimus 1 MG Oral Capsule	198377	EXACT			2026-03-12
 667233	71674	950641	tacrolimus 1 MG Oral Capsule	198377	EXACT			2026-03-12
@@ -16,8 +16,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 706169	114935004	46287738	24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]	1664463	EXACT			2025-12-04
 706170	114935005	46287738	24 HR tacrolimus 1 MG Extended Release Oral Tablet [Envarsus]	1664463	EXACT			2025-12-04
 706171	114935007	46287719	24 HR tacrolimus 4 MG Extended Release Oral Tablet [Envarsus]	1664440	EXACT			2025-12-04
-720460	82803	950669	tacrolimus 0.001 MG/MG Topical Ointment	314266	EXACT			
-720461	82803	950669	tacrolimus 0.001 MG/MG Topical Ointment	314266	EXACT			
+720460	82803	950669	tacrolimus 0.001 MG/MG Topical Ointment	314266	EXACT			2026-03-13
+720461	82803	950669	tacrolimus 0.001 MG/MG Topical Ointment	314266	EXACT			2026-03-13
 721244	1171244022	43532976	tacrolimus 5 MG Extended Release Oral Capsule	1431988	EXACT			2025-12-04
 721247	1171244002	43532968	tacrolimus 0.5 MG Extended Release Oral Capsule	1431978	EXACT			2025-12-04
 721248	1171244008	43532970	24 HR tacrolimus 1 MG Extended Release Oral Capsule	1431980	EXACT			2025-12-04
@@ -54,7 +54,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 677499	73424	19079712	tacrolimus 0.5 MG Oral Capsule	313190	EXACT			2026-03-12
 677501	73422	950641	tacrolimus 1 MG Oral Capsule	198377	EXACT			2026-03-12
 677502	73422	950641	tacrolimus 1 MG Oral Capsule	198377	EXACT			2026-03-12
-764008	89231	40090867	tacrolimus Topical Ointment	379082	BROAD			2026-03-12
+764008	89231	40090867	tacrolimus Topical Ointment	379082	BROAD	Spain source is Tacgalen 1 MG/ML cutaneous emulsion (D11AH01); RxNorm has no tacrolimus topical emulsion concept — mapped to class-level topical ointment.	tacrolimus 1 MG/ML Cutaneous Emulsion	2026-03-13
 855338	02201003	19071494	tacrolimus 0.001 MG/MG Topical Ointment [Protopic]	284520	EXACT			2026-03-13
 855908	02201004	19071494	tacrolimus 0.001 MG/MG Topical Ointment [Protopic]	284520	EXACT			2026-03-13
 857037	02201001	950666	tacrolimus 0.0003 MG/MG Topical Ointment [Protopic]	284521	EXACT			2026-03-12

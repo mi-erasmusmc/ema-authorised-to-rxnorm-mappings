@@ -1,11 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607093	63374	19065084	pentoxifylline 600 MG Extended Release Oral Tablet	252420				2026-03-12
-621276	63163	19101826	pentoxifylline 400 MG Oral Tablet	392124	EXACT			2026-03-12
-627802	54634	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301				2026-03-12
-730937	64745	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301				2026-03-12
-876433	64346	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301				2026-03-12
-886168	63163	19101826	pentoxifylline 400 MG Oral Tablet	392124	EXACT			2026-03-12
-916007	63374	19065084	pentoxifylline 600 MG Extended Release Oral Tablet	252420				2026-03-12
-917344	54634	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301				2026-03-12
-982116	54635	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301				2026-03-12
+607093	63374	19065084	pentoxifylline 600 MG Extended Release Oral Tablet	252420	EXACT			2026-03-13
+621276	63163	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301	EXACT			2026-03-13
+627802	54634	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301	EXACT			2026-03-13
+700663	54426	1331249	pentoxifylline 20 MG/ML Injectable Solution	246319	EXACT			2026-03-13
+730937	64745	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301	EXACT			2026-03-13
+876433	64346	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301	EXACT			2026-03-13
+886168	63163	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301	EXACT			2026-03-13
+916007	63374	19065084	pentoxifylline 600 MG Extended Release Oral Tablet	252420	EXACT			2026-03-13
+917344	54634	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301	EXACT			2026-03-13
+924555	64265	19065084	pentoxifylline 600 MG Extended Release Oral Tablet	252420	EXACT			2026-03-13
+982116	54635	19079220	pentoxifylline 400 MG Extended Release Oral Tablet	312301	EXACT			2026-03-13
 627810	54426	1331249	pentoxifylline 20 MG/ML Injectable Solution	246319	EXACT			2026-03-12

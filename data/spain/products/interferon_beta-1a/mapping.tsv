@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+662218	98063008	36894476	Interferon beta-1a Cartridge [Rebif]	OMOP994090	BROAD	22 microgram/0.5 mL Rebif cartridge; RxNorm does not expose the exact 0.044 MG/ML Rebif cartridge presentation.	0.5 ML interferon beta-1a 0.044 MG/ML Cartridge [Rebif]	2026-03-13
+662219	98063009	36881260	Interferon beta-1a 0.088 MG/ML Cartridge [Rebif]	OMOP993761	BROAD	44 microgram/0.5 mL Rebif cartridge; RxNorm does not expose a matching 0.5 ML cartridge concept.	0.5 ML interferon beta-1a 0.088 MG/ML Cartridge [Rebif]	2026-03-13
+677743	97033005	46233806	0.5 ML interferon beta-1a 0.06 MG/ML Auto-Injector [Avonex]	1650901	EXACT			2026-03-13
+729313	98063009IP	36881260	Interferon beta-1a 0.088 MG/ML Cartridge [Rebif]	OMOP993761	BROAD	44 microgram/0.5 mL Rebif cartridge; RxNorm does not expose a matching 0.5 ML cartridge concept.	0.5 ML interferon beta-1a 0.088 MG/ML Cartridge [Rebif]	2026-03-13
+735902	97033003	722454	0.5 ML interferon beta-1a 0.06 MG/ML Prefilled Syringe [Avonex]	727816	EXACT			2026-03-13

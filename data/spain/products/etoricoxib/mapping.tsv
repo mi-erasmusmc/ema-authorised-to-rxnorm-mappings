@@ -1,12 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656532	64928	19011356	etoricoxib 60 MG Oral Tablet	388519	BROAD		etoricoxib 60 MG Oral Tablet	2026-03-12
-656533	64929	19101674	etoricoxib 90 MG Oral Tablet	388520	BROAD		etoricoxib 90 MG Oral Tablet	2026-03-12
-656534	64930	19011358	etoricoxib 120 MG Oral Tablet	388521	BROAD		etoricoxib 120 MG Oral Tablet	2026-03-12
+656532	64928	19011356	etoricoxib 60 MG Oral Tablet	388519	EXACT			2026-03-13
+656533	64929	19101674	etoricoxib 90 MG Oral Tablet	388520	EXACT			2026-03-13
+656534	64930	19011358	etoricoxib 120 MG Oral Tablet	388521	EXACT			2026-03-13
 660079	69376	21065513	etoricoxib 30 MG Oral Tablet	OMOP256582	EXACT			2026-03-12
 664159	71587	21065513	etoricoxib 30 MG Oral Tablet	OMOP256582	EXACT			2026-03-12
-664160	71588	19011356	etoricoxib 60 MG Oral Tablet	388519	BROAD		etoricoxib 60 MG Oral Tablet	2026-03-12
-664161	71589	19101674	etoricoxib 90 MG Oral Tablet	388520	BROAD		etoricoxib 90 MG Oral Tablet	2026-03-12
-664162	71590	19011358	etoricoxib 120 MG Oral Tablet	388521	BROAD		etoricoxib 120 MG Oral Tablet	2026-03-12
+664160	71588	19011356	etoricoxib 60 MG Oral Tablet	388519	EXACT			2026-03-13
+664161	71589	19101674	etoricoxib 90 MG Oral Tablet	388520	EXACT			2026-03-13
+664162	71590	19011358	etoricoxib 120 MG Oral Tablet	388521	EXACT			2026-03-13
 668774	72076	21065513	etoricoxib 30 MG Oral Tablet	OMOP256582	EXACT			2026-03-12
 706321	79786	21065513	etoricoxib 30 MG Oral Tablet	OMOP256582	EXACT			2026-03-12
 706322	79787	19011356	etoricoxib 60 MG Oral Tablet	388519	EXACT			2026-03-12
@@ -93,6 +93,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 725514	84082	21065513	etoricoxib 30 MG Oral Tablet	OMOP256582	EXACT			2026-03-12
 725548	84083	19101674	etoricoxib 90 MG Oral Tablet	388520	EXACT			2026-03-12
 725565	84084	19011356	etoricoxib 60 MG Oral Tablet	388519	EXACT			2026-03-12
-792291	64931	19011356	etoricoxib 60 MG Oral Tablet	388519	BROAD		etoricoxib 60 MG Oral Tablet	2026-03-12
-792671	64932	19101674	etoricoxib 90 MG Oral Tablet	388520	BROAD		etoricoxib 90 MG Oral Tablet	2026-03-12
-792689	64933	19011358	etoricoxib 120 MG Oral Tablet	388521	BROAD		etoricoxib 120 MG Oral Tablet	2026-03-12
+792291	64931	19011356	etoricoxib 60 MG Oral Tablet	388519	EXACT			2026-03-13
+792671	64932	19101674	etoricoxib 90 MG Oral Tablet	388520	EXACT			2026-03-13
+792689	64933	19011358	etoricoxib 120 MG Oral Tablet	388521	EXACT			2026-03-13

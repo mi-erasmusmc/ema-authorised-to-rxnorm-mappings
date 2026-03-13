@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+707995	02296002IP	19115124	cromolyn sodium 20 MG/ML Ophthalmic Solution	562108	EXACT			2026-03-13
+763803	86475	1152774	cromolyn sodium 100 MG Oral Capsule	831263	EXACT			2026-03-13
+763805	86476	1152774	cromolyn sodium 100 MG Oral Capsule	831263	BROAD	Spain source is a 200 MG oral capsule; RxNorm lacks a matching 200 MG cromolyn sodium capsule concept.	cromolyn sodium 200 MG Oral Capsule	2026-03-13
+973883	56141	19133626	cromolyn sodium 40 MG/ML Ophthalmic Solution	831109	EXACT			2026-03-13

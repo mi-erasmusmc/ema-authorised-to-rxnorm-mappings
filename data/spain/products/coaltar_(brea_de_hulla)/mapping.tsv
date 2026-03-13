@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+673988	61390	19106076	coal tar 40 MG/ML Medicated Shampoo	426972	EXACT			2026-03-13
+702482	3612280	19106076	coal tar 40 MG/ML Medicated Shampoo	426972	EXACT			2026-03-13
+735100	64512	1001000	coal tar 10 MG/ML Topical Lotion	199835	BROAD	Spain source is a 10 MG/G cutaneous emulsion; RxNorm exposes a close 10 MG/ML topical lotion concept.	coal tar 10 MG/G Cutaneous Emulsion	2026-03-13
+735118	64512	1001000	coal tar 10 MG/ML Topical Lotion	199835	BROAD	Spain source is a 10 MG/G cutaneous emulsion; RxNorm exposes a close 10 MG/ML topical lotion concept.	coal tar 10 MG/G Cutaneous Emulsion	2026-03-13
+786160	62499	19075635	coal tar 5 MG/ML Medicated Shampoo	309381	BROAD	Spain source is 6 MG/ML shampoo; RxNorm lacks a 6 MG/ML medicated shampoo concept.	coal tar 6 MG/ML Medicated Shampoo	2026-03-13

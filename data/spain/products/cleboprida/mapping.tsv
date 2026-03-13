@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+928721	54569	19063199	clebopride 0.5 MG Oral Tablet	250610	EXACT			2026-03-13
+928739	54570	19063274	clebopride 0.1 MG/ML Oral Solution	250633	EXACT			2026-03-13
+952481	54569	19063199	clebopride 0.5 MG Oral Tablet	250610	EXACT			2026-03-13
+953224	54570	19063274	clebopride 0.1 MG/ML Oral Solution	250633	EXACT			2026-03-13
+964734	56657	19063274	clebopride 0.1 MG/ML Oral Solution	250633	BROAD	62.5 microgram/mL pediatric oral drops; RxNorm only exposes the 0.1 MG/ML oral solution.	clebopride 0.0625 MG/ML Oral Solution	2026-03-13

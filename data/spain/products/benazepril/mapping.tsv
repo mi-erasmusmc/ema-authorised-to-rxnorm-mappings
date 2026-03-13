@@ -1,0 +1,5 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+730023	59551	40171682	benazepril hydrochloride 5 MG Oral Tablet	898723	EXACT	No matching standard RxNorm Cibacen concept found without an incorrect delayed-release form.		2026-03-13
+769604	59551	40171682	benazepril hydrochloride 5 MG Oral Tablet	898723	EXACT	No matching standard RxNorm Cibacen concept found without an incorrect delayed-release form.		2026-03-13
+901215	59552	40171671	benazepril hydrochloride 20 MG Oral Tablet	898690	EXACT	No matching standard RxNorm Cibacen concept found without an incorrect brand/form mismatch.		2026-03-13
+901231	59553	40171661	benazepril hydrochloride 10 MG Oral Tablet	898687	EXACT	No matching standard RxNorm Cibacen concept found without an incorrect brand/form mismatch.		2026-03-13

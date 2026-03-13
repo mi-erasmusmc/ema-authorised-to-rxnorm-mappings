@@ -1,0 +1,6 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+729186	33924	40222789	meclizine hydrochloride 25 MG Chewable Tablet	995632	BROAD	Spain source is medicated chewing gum; RxNorm does not expose a meclizine chewing gum concept.	meclizine hydrochloride 25 MG Chewing Gum	2026-03-13
+729194	33924	40222789	meclizine hydrochloride 25 MG Chewable Tablet	995632	BROAD	Spain source is medicated chewing gum; RxNorm does not expose a meclizine chewing gum concept.	meclizine hydrochloride 25 MG Chewing Gum	2026-03-13
+924472	59405	40222796	meclizine hydrochloride 25 MG Oral Tablet	995666	EXACT			2026-03-13
+924506	59406	19090492	meclizine 2.5 MG/ML	334006	BROAD	Spain source is 1 MG/ML syrup; RxNorm lacks a 1 MG/ML oral solution concept.	meclizine hydrochloride 1 MG/ML Oral Solution	2026-03-13
+981506	57907	40222788	meclizine hydrochloride 25 MG	995631	BROAD	Spain source is a 25 MG lozenge; RxNorm does not expose a strength-specific 25 MG oral lozenge concept.	meclizine hydrochloride 25 MG Oral Lozenge	2026-03-13

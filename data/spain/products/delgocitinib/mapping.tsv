@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-765899	1241851002	859005	DELGOCITINIB 0.02 MG/MG Topical Cream	OMOP5581932	BROAD			2025-12-04
+765899	1241851002	859006	DELGOCITINIB 0.02 MG/MG Topical Cream [Anzupgo] by Leo	OMOP5581933	EXACT	20 MG/G expressed in RxNorm as 0.02 MG/MG.		2026-03-13

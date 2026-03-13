@@ -5,4 +5,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 706636	112773015	40244466	ruxolitinib 10 MG Oral Tablet	1193331	EXACT			2025-12-04
 762978	1231726001	701936	ruxolitinib 15 MG/ML Topical Cream [Opzelura]	2570757	EXACT			2025-12-04
 764336	1231726001	701936	ruxolitinib 15 MG/ML Topical Cream [Opzelura]	2570757	EXACT			2025-12-04
-768174	112773017	40244481	ruxolitinib 5 MG	1193338	BROAD			2025-12-04
+768174	112773017	40244481	ruxolitinib 5 MG	1193338	BROAD	Spain source is 5 MG/ML oral solution (Jakavi); RxNorm has no ruxolitinib oral solution concept — mapped to ingredient+strength class.	ruxolitinib 5 MG/ML Oral Solution	2025-12-04
