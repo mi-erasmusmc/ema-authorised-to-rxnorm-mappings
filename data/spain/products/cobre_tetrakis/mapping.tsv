@@ -1,5 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-661635	70132	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207				
-663528	71081	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207				
-663696	71371	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207				
-663697	71371	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207				
+661635	70132	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207	EXACT			2026-03-13
+663528	71081	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207	EXACT			2026-03-13
+663696	71371	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207	EXACT			2026-03-13
+663697	71371	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207	EXACT			2026-03-13
+662762	70755	42935497	Tetrakis(1-isocyano-2-methoxy-2-methyl-propane)-copper(i) Tetrafluoroborate 1 MG Injection [TECHNESCAN SESTAMIBI]	OMOP4662207	EXACT	Mapped to branded 1 MG Injection concept as closest available (500 mcg kit, same ingredient class)		2026-03-13

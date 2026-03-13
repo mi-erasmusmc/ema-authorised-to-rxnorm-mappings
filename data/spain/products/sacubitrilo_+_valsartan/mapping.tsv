@@ -5,3 +5,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 711319	1161103001	46275725	sacubitril 24 MG / valsartan 26 MG Oral Tablet	1656340	EXACT			2025-12-04
 711320	1161103003	46275732	sacubitril 49 MG / valsartan 51 MG Oral Tablet	1656349	EXACT			2025-12-04
 711321	1161103006	46275809	sacubitril 97 MG / valsartan 103 MG Oral Tablet	1656354	EXACT			2025-12-04
+731329	86135	46275729	sacubitril 49 MG / valsartan 51 MG Oral Tablet [Entresto]	1656351	EXACT			2026-03-13
+731330	86136	46275729	sacubitril 24 MG / valsartan 26 MG Oral Tablet [Entresto]	1656346	EXACT			2026-03-13
+758204	88295	46275729	sacubitril 24 MG / valsartan 26 MG Oral Tablet [Entresto]	1656346	EXACT			2026-03-13
+758205	88296	46275734	sacubitril 49 MG / valsartan 51 MG Oral Tablet [Entresto]	1656351	EXACT			2026-03-13
+758206	88297	46275811	sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto]	1656356	EXACT			2026-03-13
+758997	88379	46275725	sacubitril 24 MG / valsartan 26 MG Oral Tablet	1656340	EXACT	No matching Neparvis brand concept found in RxNorm.		2026-03-13
+759002	88381	46275809	sacubitril 97 MG / valsartan 103 MG Oral Tablet	1656354	EXACT	No matching Neparvis brand concept found in RxNorm.		2026-03-13
+759172	88443	46275732	sacubitril 49 MG / valsartan 51 MG Oral Tablet	1656349	EXACT	No matching Neparvis brand concept found in RxNorm.		2026-03-13
+767944	90215	46275811	sacubitril 97 MG / valsartan 103 MG Oral Tablet [Entresto]	1656356	EXACT			2026-03-13
+767945	90217	46275734	sacubitril 49 MG / valsartan 51 MG Oral Tablet [Entresto]	1656351	EXACT			2026-03-13
+767946	90218	46275729	sacubitril 24 MG / valsartan 26 MG Oral Tablet [Entresto]	1656346	EXACT			2026-03-13
