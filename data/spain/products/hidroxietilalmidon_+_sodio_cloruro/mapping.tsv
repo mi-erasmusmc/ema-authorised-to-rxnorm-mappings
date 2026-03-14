@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+663949	65021	2936790	hydroxyethyl starch 130-0.4 / sodium chloride Injection	OMOP5153495	BROAD	Source is the hypertonic 6% HES / 7.2% sodium chloride perfusion product; RxNorm does not expose that exact strength presentation.	250 ML hydroxyethyl starch 130-0.4 60 MG/ML / sodium chloride 72 MG/ML Injection	2026-03-14
+894923	64001	2936790	hydroxyethyl starch 130-0.4 / sodium chloride Injection	OMOP5153495	BROAD	RxNorm does not expose the exact 500 ML 6% HES / 0.9% sodium chloride perfusion presentation as a volume-specific concept.	500 ML hydroxyethyl starch 130-0.4 60 MG/ML / sodium chloride 9 MG/ML Injection [Voluven]	2026-03-14

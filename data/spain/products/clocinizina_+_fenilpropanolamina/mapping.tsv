@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+654385	49329	40074869	phenylpropanolamine Oral Tablet	373402	BROAD	RxNorm does not expose the Spain clocinizine and phenylpropanolamine tablet combination.	clocinizine dihydrochloride 5 MG / phenylpropanolamine hydrochloride 30 MG Oral Tablet	2026-03-14
+672975	49417	1139993	phenylpropanolamine	8175	BROAD	RxNorm does not expose the Spain clocinizine and phenylpropanolamine pediatric syrup combination.	clocinizine dihydrochloride 0.15 MG/ML / phenylpropanolamine hydrochloride 1.3 MG/ML Oral Solution	2026-03-14
+699264	49330	1139993	phenylpropanolamine	8175	BROAD	RxNorm does not expose the Spain clocinizine and phenylpropanolamine adult syrup combination.	clocinizine dihydrochloride 0.225 MG/ML / phenylpropanolamine hydrochloride 2 MG/ML Oral Solution	2026-03-14

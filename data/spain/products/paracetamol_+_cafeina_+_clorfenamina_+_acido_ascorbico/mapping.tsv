@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+731174	40491	40830932	Acetaminophen / Ascorbic Acid / Caffeine / Chlorpheniramine Oral Solution	OMOP2028894	BROAD	RxNorm does not expose the Spain tablet presentation exactly.	acetaminophen 350 MG / caffeine 25 MG / chlorpheniramine maleate 4 MG / ascorbic acid 25 MG Oral Tablet	2026-03-14

@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+772202	52677	36069315	guaifenesin / pseudoephedrine / triprolidine Oral Solution	OMOP4996013	BROAD	RxNorm does not expose the exact 20 MG/ML + 6 MG/ML + 0.25 MG/ML syrup strength.	guaifenesin 20 MG/ML / pseudoephedrine hydrochloride 6 MG/ML / triprolidine hydrochloride 0.25 MG/ML Oral Solution	2026-03-14
+799544	52677	36069315	guaifenesin / pseudoephedrine / triprolidine Oral Solution	OMOP4996013	BROAD	RxNorm does not expose the exact 20 MG/ML + 6 MG/ML + 0.25 MG/ML syrup strength.	guaifenesin 20 MG/ML / pseudoephedrine hydrochloride 6 MG/ML / triprolidine hydrochloride 0.25 MG/ML Oral Solution	2026-03-14

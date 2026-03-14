@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+993667	47156	42799342	caffeine 100 MG / ergotamine tartrate 2 MG Rectal Suppository	1293508	BROAD	RxNorm does not expose the Spain paracetamol-containing suppository combination.	caffeine 100 MG / ergotamine tartrate 2 MG / acetaminophen 400 MG Rectal Suppository	2026-03-14
+993675	39228	42799331	caffeine 100 MG / ergotamine tartrate 1 MG Oral Tablet	1293504	BROAD	RxNorm does not expose the Spain paracetamol-containing tablet combination.	caffeine 100 MG / ergotamine tartrate 1 MG / acetaminophen 300 MG Oral Tablet	2026-03-14

@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+672096	51174	40986491	Dexamethasone / Gentamicin Ophthalmic Solution	OMOP2184453	BROAD	RxNorm does not expose the Spain gentamicin, dexamethasone, and tetryzoline ophthalmic solution combination.	gentamicin sulfate 3 MG/ML / dexamethasone sodium phosphate 1 MG/ML / tetryzoline hydrochloride 0.5 MG/ML Ophthalmic Solution	2026-03-14

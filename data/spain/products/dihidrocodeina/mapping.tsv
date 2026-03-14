@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+774067	3160	42707773	dihydrocodeine bitartrate 2 MG/ML Oral Solution	1236181	EXACT			2026-03-14
+805036	30982	41170691	dihydrocodeine 10 MG/ML	OMOP2368653	BROAD	RxNorm does not expose the Spain 10 MG/ML oral drops presentation.	dihydrocodeine 10 MG/ML Oral Solution	2026-03-14
+893263	30982	41170691	dihydrocodeine 10 MG/ML	OMOP2368653	BROAD	RxNorm does not expose the Spain 10 MG/ML oral drops presentation.	dihydrocodeine 10 MG/ML Oral Solution	2026-03-14

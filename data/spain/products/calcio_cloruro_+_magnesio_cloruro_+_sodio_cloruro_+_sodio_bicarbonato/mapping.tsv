@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+653975	67610	35159107	Calcium Chloride / Magnesium Chloride / Potassium Chloride / Sodium Bicarbonate / Sodium Chloride Injectable Solution	OMOP4816091	BROAD	RxNorm exposes the related hemofiltration electrolyte solution with potassium chloride, while the Spain presentation contains no potassium.	calcium chloride / magnesium chloride / sodium chloride / sodium bicarbonate Injectable Solution	2026-03-14

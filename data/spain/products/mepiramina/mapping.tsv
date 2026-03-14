@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+663239	54499	1159811	pyrilamine	9009	BROAD	RxNorm uses the pyrilamine synonym line and does not expose the Spain acefyllinate oral drops presentation.	pyrilamine acefyllinate 20 MG/ML Oral Solution	2026-03-14
+758623	54498	1159811	pyrilamine	9009	BROAD	RxNorm uses the pyrilamine synonym line and does not expose the Spain acefyllinate oral solution presentation.	pyrilamine acefyllinate 5 MG/ML Oral Solution	2026-03-14
+947531	55465	40075887	pyrilamine Oral Tablet	373713	BROAD	RxNorm uses the pyrilamine synonym line and does not expose the Spain acefyllinate capsule presentation.	pyrilamine acefyllinate 150 MG Oral Capsule	2026-03-14

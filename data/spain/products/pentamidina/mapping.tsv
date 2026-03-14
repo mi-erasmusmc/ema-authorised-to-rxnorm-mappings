@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+730421	59621	40165118	pentamidine isethionate 300 MG Injection	861601	EXACT	Dose-form definition for Injection includes reconstituted powder intended for parenteral use.		2026-03-14
+781716	59626	40165122	pentamidine isethionate 50 MG/ML Inhalation Solution	861597	BROAD	Source is powder and solvent for solution for inhalation by nebulizer; RxNorm only exposes the finished inhalation solution.	6 ML pentamidine isethionate 50 MG/ML Inhalation Solution	2026-03-14

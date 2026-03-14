@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+781435	46699	41236770	Bacitracin / lysozyme / Papain Oral Tablet	OMOP2434732	BROAD	RxNorm exposes the combination as an oral tablet, not as the Spain oral lozenge.	bacitracin 200 MG / lysozyme hydrochloride 5 MG / papain 2 MG Oral Lozenge	2026-03-14

@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+656421	63125	41173964	Humulus lupulus whole extract / Valeriana officinalis whole extract Oral Capsule	OMOP2371926	BROAD	RxNorm does not expose the Spain soft-capsule strengths exactly.	humulus lupulus extract / valeriana officinalis extract Oral Capsule	2026-03-14
+700282	78170	41173965	Humulus lupulus whole extract / Valeriana officinalis whole extract Oral Tablet	OMOP2371927	BROAD	RxNorm does not expose the Spain tablet strengths exactly.	humulus lupulus extract / valeriana officinalis extract Oral Tablet	2026-03-14
+877571	63125	41173964	Humulus lupulus whole extract / Valeriana officinalis whole extract Oral Capsule	OMOP2371926	BROAD	RxNorm does not expose the Spain soft-capsule strengths exactly.	humulus lupulus extract / valeriana officinalis extract Oral Capsule	2026-03-14

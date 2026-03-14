@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+773317	51376	43746178	COLLAGENASE Topical Ointment [Iruxol]	OMOP931912	BROAD	RxNorm does not expose the collagenase / neomycin topical ointment combination exactly.	collagenase Clostridium histolyticum 0.6 UNT/G / neomycin 3.5 MG/G Topical Ointment	2026-03-14
+993097	51376	43746178	COLLAGENASE Topical Ointment [Iruxol]	OMOP931912	BROAD	RxNorm does not expose the collagenase / neomycin topical ointment combination exactly.	collagenase Clostridium histolyticum 0.6 UNT/G / neomycin 3.5 MG/G Topical Ointment	2026-03-14

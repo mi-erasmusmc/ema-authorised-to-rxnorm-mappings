@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+831115	49384	43200492	fluocinolone / Neomycin / Polymyxin B Otic Solution	OMOP443886	BROAD	RxNorm does not expose the Spain nasal combination with phenylephrine.	fluocinolone acetonide 0.1 MG/ML / phenylephrine hydrochloride 1.25 MG/ML / neomycin sulfate 3.5 MG/ML / polymyxin B sulfate 2000 UNT/ML Nasal Solution	2026-03-14
+831123	48457	43200492	fluocinolone / Neomycin / Polymyxin B Otic Solution	OMOP443886	BROAD	RxNorm does not expose the Spain nasal combination with phenylephrine.	fluocinolone acetonide 0.1 MG/ML / phenylephrine hydrochloride 2.5 MG/ML / neomycin sulfate 3.5 MG/ML / polymyxin B sulfate 2000 UNT/ML Nasal Solution	2026-03-14

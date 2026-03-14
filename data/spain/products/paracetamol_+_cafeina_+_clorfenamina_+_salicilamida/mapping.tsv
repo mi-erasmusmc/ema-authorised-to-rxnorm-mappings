@@ -1,0 +1,2 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+934877	47802	35150784	Acetaminophen / Caffeine / Chlorpheniramine / salicylamide Oral Granules	OMOP4807831	BROAD	RxNorm does not expose the Spain granules-for-suspension presentation exactly.	acetaminophen 200 MG / caffeine 30 MG / chlorpheniramine maleate 3 MG / salicylamide 500 MG Oral Granules	2026-03-14

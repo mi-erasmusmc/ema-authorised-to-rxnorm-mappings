@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+768840	62721	1830033	Melissa officinalis extract 80 MG / Valeriana officinalis whole extract 160 MG Oral Tablet	OMOP5155286	EXACT			2026-03-14
+808972	65401	40955119	Melissa officinalis extract / Valeriana officinalis whole extract Oral Tablet	OMOP2153081	BROAD	RxNorm does not expose the Spain 80 MG / 120 MG tablet strength exactly.	Melissa officinalis extract 80 MG / Valeriana officinalis extract 120 MG Oral Tablet	2026-03-14
+814129	62721	1830033	Melissa officinalis extract 80 MG / Valeriana officinalis whole extract 160 MG Oral Tablet	OMOP5155286	EXACT			2026-03-14

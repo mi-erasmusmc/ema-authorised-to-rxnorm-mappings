@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+754291	57089	42944047	Diosmin 300 MG Oral Capsule [HEMOSMIN]	OMOP4670673	BROAD	Hydrosmin is not exposed directly in RxNorm; diosmin is the closest venotonic analogue available.	hydrosmin 200 MG Oral Capsule	2026-03-14
+965376	56707	42944047	Diosmin 300 MG Oral Capsule [HEMOSMIN]	OMOP4670673	BROAD	Hydrosmin is not exposed directly in RxNorm; diosmin is the closest venotonic analogue available.	hydrosmin 200 MG Oral Capsule	2026-03-14
+999045	56709	40031819	diosmin Topical Cream	439164	BROAD	Hydrosmin is not exposed directly in RxNorm; diosmin is the closest topical venotonic analogue available.	hydrosmin 20 MG/G Topical Gel	2026-03-14
