@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-604439	66093	19077241	famotidine 20 MG Oral Tablet	310273				2026-03-13
-635342	66094	953113	famotidine 40 MG Oral Tablet	284245				2026-03-13
+604439	66093	19077241	famotidine 20 MG Oral Tablet	310273	EXACT			2026-03-15
+635342	66094	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-15
 648428	58472	19077241	famotidine 20 MG Oral Tablet	310273	EXACT			2026-03-13
 648436	58473	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-13
 653207	58472	19077241	famotidine 20 MG Oral Tablet	310273	EXACT			2026-03-13
@@ -11,14 +11,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 785279	63713	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-13
 786814	63713	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-13
 786822	63713	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-13
-817916	66093	19077241	famotidine 20 MG Oral Tablet	310273				2026-03-13
-817924	66094	953113	famotidine 40 MG Oral Tablet	284245				2026-03-13
-818575	66094	953113	famotidine 40 MG Oral Tablet	284245				2026-03-13
-867168	63319	19077241	famotidine 20 MG Oral Tablet	310273				2026-03-13
-867184	63317	953113	famotidine 40 MG Oral Tablet	284245				2026-03-13
+817916	66093	19077241	famotidine 20 MG Oral Tablet	310273	EXACT			2026-03-15
+817924	66094	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-15
+818575	66094	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-15
+867168	63319	19077241	famotidine 20 MG Oral Tablet	310273	EXACT			2026-03-15
+867184	63317	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-15
 870469	58473	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-13
-901702	63317	953113	famotidine 40 MG Oral Tablet	284245				2026-03-13
-901751	63319	19077241	famotidine 20 MG Oral Tablet	310273				2026-03-13
+901702	63317	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-15
+901751	63319	19077241	famotidine 20 MG Oral Tablet	310273	EXACT			2026-03-15
 866004	63319	19077241	famotidine 20 MG Oral Tablet	310273	EXACT			2026-03-13
 866749	63339	19077241	famotidine 20 MG Oral Tablet	310273	EXACT			2026-03-13
 866954	63340	953113	famotidine 40 MG Oral Tablet	284245	EXACT			2026-03-13
