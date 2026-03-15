@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-699572	113852001	19101722	atosiban 7.5 MG/ML Injectable Solution	389058	EXACT			2025-12-04
-699573	113852002	19101722	atosiban 7.5 MG/ML Injectable Solution	389058	EXACT			2025-12-04
+699572	113852001	43828215	0.9 ML Atosiban 7.5 MG/ML Injectable Solution	OMOP721941	EXACT			2026-03-15
+699573	113852002	41359404	5 ML Atosiban 7.5 MG/ML Injectable Solution	OMOP2557366	EXACT			2026-03-15
 704592	79314	41359404	5 ML Atosiban 7.5 MG/ML Injectable Solution	OMOP2557366	EXACT			2026-03-12
 704594	79315	43828215	0.9 ML Atosiban 7.5 MG/ML Injectable Solution	OMOP721941	EXACT			2026-03-12
 715517	81918	41359404	5 ML Atosiban 7.5 MG/ML Injectable Solution	OMOP2557366	EXACT			2026-03-12

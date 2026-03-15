@@ -64,9 +64,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 716198	82060	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 716199	82061	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 716200	82062	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-716357	82105	40165262	rosuvastatin calcium 5 MG Oral Tablet [Crestor]	859426	EXACT			2026-03-12
-716366	82106	40165246	rosuvastatin calcium 10 MG Oral Tablet [Crestor]	859749	EXACT			2026-03-12
-716375	82107	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
+716357	82105	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT	generic product; corrected from Crestor-branded concept		2026-03-15
+716366	82106	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT	generic product; corrected from Crestor-branded concept		2026-03-15
+716375	82107	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT	generic product; corrected from Crestor-branded concept		2026-03-15
 716391	82109	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 716395	82110	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 716403	82112	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
@@ -112,7 +112,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 762441	88741	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
 762448	88744	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-03-12
 762449	88745	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
-765083	83459	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
+765083	83459	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT	generic product; corrected from Crestor-branded concept		2026-03-15
 765749	89822	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-03-12
 765755	89823	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
 706412	79833	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12

@@ -1,20 +1,20 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606832	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-606833	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-606834	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-606923	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-709738	80561	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-709739	80562	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-709740	80562	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-709743	80562	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-715449	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-715450	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-715451	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
-715453	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
+606832	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+606833	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+606834	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+606923	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+709738	80561	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+709739	80562	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+709740	80562	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+709743	80562	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+715449	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+715450	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+715451	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
+715453	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
 715454	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
 715455	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
 715456	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
-719435	81884	43526404	gadoterate meglumine	1421151	EXACT			2026-03-12
+719435	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
 653636	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
 653637	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
 653638	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12

@@ -77,7 +77,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 732445	038946137IP	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
 732649	038983247IP	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
 763769	038946075IP	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12
-763949	038946075IP1	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
+763949	038946075IP1	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT	corrected from 10 MG amlodipine concept; source is 40 mg/5 mg		2026-03-15
 764137	038946137IP1	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
 764138	038983247IP1	19127432	amlodipine 10 MG / olmesartan medoxomil 40 MG Oral Tablet	730866	EXACT			2026-03-12
 764187	038947139IP2	19127434	amlodipine 5 MG / olmesartan medoxomil 40 MG Oral Tablet	730872	EXACT			2026-03-12

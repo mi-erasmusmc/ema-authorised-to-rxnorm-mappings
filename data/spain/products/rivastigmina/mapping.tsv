@@ -39,17 +39,17 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 693632	76598	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2026-03-12
 693694	76613	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2026-03-12
 693695	76613	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2026-03-12
-697305	77306	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-697307	77306	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-697309	77307	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
+697305	77306	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+697307	77306	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+697309	77307	19127021	24 HR rivastigmine 0.396 MG/HR Transdermal System	725023	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
 697689	198092029	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2025-12-04
-697755	198066029	42898244	24 HR rivastigmine 0.554 MG/HR Transdermal System [Exelon]	1308571	EXACT			2025-12-04
-701349	78429	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-701350	78429	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-701354	78430	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-704922	79431	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-704923	79431	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-706755	79930	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
+697755	198066029	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+701349	78429	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+701350	78429	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+701354	78430	19127021	24 HR rivastigmine 0.396 MG/HR Transdermal System	725023	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+704922	79431	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+704923	79431	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+706755	79930	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
 706786	109525002	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2025-12-04
 706787	109525010	733530	rivastigmine 3 MG Oral Capsule	312835	EXACT			2025-12-04
 706790	109525016	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2025-12-04
@@ -59,24 +59,24 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 707699	109525004	733562	rivastigmine 1.5 MG Oral Capsule	314214	EXACT			2025-12-04
 707700	109525012	733530	rivastigmine 3 MG Oral Capsule	312835	EXACT			2025-12-04
 707701	109525024	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2025-12-04
-709987	80656	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-709988	80656	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-709989	80657	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-709995	80659	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-720897	82914	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-720898	82915	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-720899	82915	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-720900	82916	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-725985	84206	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-725987	84206	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-725990	84207	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-728198	198066029	42898244	24 HR rivastigmine 0.554 MG/HR Transdermal System [Exelon]	1308571	EXACT			2025-12-04
+709987	80656	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+709988	80656	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+709989	80657	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+709995	80659	19127021	24 HR rivastigmine 0.396 MG/HR Transdermal System	725023	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+720897	82914	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+720898	82915	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+720899	82915	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+720900	82916	19127021	24 HR rivastigmine 0.396 MG/HR Transdermal System	725023	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+725985	84206	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+725987	84206	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+725990	84207	19127021	24 HR rivastigmine 0.396 MG/HR Transdermal System	725023	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+728198	198066029	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
 728324	198092029	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2025-12-04
-732336	78429	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-762672	79930	40221091	rivastigmine Transdermal System	1805978	EXACT			2026-03-12
-764355	84207	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-764408	84206	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
-764518	84206	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT			2026-03-12
+732336	78429	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+762672	79930	42898243	24 HR rivastigmine 0.554 MG/HR Transdermal System	1308569	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+764355	84207	19127021	24 HR rivastigmine 0.396 MG/HR Transdermal System	725023	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+764408	84206	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
+764518	84206	19127019	24 HR rivastigmine 0.192 MG/HR Transdermal System	725021	EXACT	source patch strength normalized to matching hourly transdermal concept		2026-03-15
 659227	98066012	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2026-03-12
 659235	98066011	733531	rivastigmine 6 MG Oral Capsule	312836	EXACT			2026-03-12
 659250	98066009	733563	rivastigmine 4.5 MG Oral Capsule	314215	EXACT			2026-03-12

@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-709380	80523	19007233	carmustine 100 MG Injection [BiCNU]	105552	EXACT			2026-03-13
+709380	80523	19074785	carmustine 100 MG Injection	309012	EXACT	sw_generico=1; branded [BiCNU] concept is not appropriate for a generic product		2026-03-15
 729044	1181278001	19074785	carmustine 100 MG Injection	309012	EXACT			2025-12-04
 731531	86171	19074785	carmustine 100 MG Injection	309012	EXACT			2026-03-13
-756925	87890	19074785	carmustine 100 MG Injection	309012				2026-03-13
-758135	88025	19074785	carmustine 100 MG Injection	309012				2026-03-13
-765187	89646	19074785	carmustine 100 MG Injection	309012				2026-03-13
+756925	87890	19074785	carmustine 100 MG Injection	309012	EXACT			2026-03-15
+758135	88025	780061	carmustine 300 MG Injection	2605054	EXACT			2026-03-15
+765187	89646	19074785	carmustine 100 MG Injection	309012	EXACT			2026-03-15
 763893	89191	19074785	carmustine 100 MG Injection	309012	EXACT	Spain source is powder and solvent for concentrate for solution for infusion; Injection dose form covers reconstituted powder intended for parenteral use		2026-03-13
 817072	62745	1350068	carmustine 7.7 MG Drug Implant [Gliadel]	212994	EXACT			2026-03-13

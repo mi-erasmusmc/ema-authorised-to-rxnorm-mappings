@@ -1,31 +1,31 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-662920	70804	40173411	168 HR buprenorphine 0.02 MG/HR Transdermal System	904876	EXACT			2026-03-12
-662922	70804	40173411	168 HR buprenorphine 0.02 MG/HR Transdermal System	904876	EXACT			2026-03-12
-662935	70805	40221142	buprenorphine Transdermal System	1806212	EXACT			2026-03-12
-662937	70805	40221142	buprenorphine Transdermal System	1806212	EXACT			2026-03-12
-662948	70806	40221142	buprenorphine Transdermal System	1806212	EXACT			2026-03-12
-662950	70806	40221142	buprenorphine Transdermal System	1806212	EXACT			2026-03-12
-707214	80067	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	EXACT			2026-03-12
-707215	80067	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	EXACT			2026-03-12
-707217	80068	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	EXACT			2026-03-12
-707218	80068	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	EXACT			2026-03-12
-707219	80069	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
-707220	80069	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
-709012	80460	40173411	168 HR buprenorphine 0.02 MG/HR Transdermal System	904876	BROAD		buprenorphine 0.035 MG/HR Transdermal System [42902727]	2026-03-12
-709060	80461	1133201	buprenorphine	1819	BROAD		buprenorphine 0.0525 MG/HR Transdermal System [42903006]	2026-03-12
-709107	80462	40221142	buprenorphine Transdermal System	1806212	EXACT			2026-03-12
-709798	80596	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	EXACT			2026-03-12
-709799	80597	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	EXACT			2026-03-12
-709800	80598	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
-709826	80609	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	EXACT			2026-03-12
-709827	80610	40221142	buprenorphine Transdermal System	1806212	EXACT			2026-03-12
-709828	80611	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
+662920	70804	19101660	72 HR buprenorphine 0.035 MG/HR Transdermal System	388508	EXACT	source states 72 h transdermal patch		2026-03-15
+662922	70804	19101660	72 HR buprenorphine 0.035 MG/HR Transdermal System	388508	EXACT	source states 72 h transdermal patch		2026-03-15
+662935	70805	19101659	72 HR buprenorphine 0.0525 MG/HR Transdermal System	388507	EXACT	source states 72 h transdermal patch		2026-03-15
+662937	70805	19101659	72 HR buprenorphine 0.0525 MG/HR Transdermal System	388507	EXACT	source states 72 h transdermal patch		2026-03-15
+662948	70806	19101658	72 HR buprenorphine 0.07 MG/HR Transdermal System	388506	EXACT	source states 72 h transdermal patch		2026-03-15
+662950	70806	19101658	72 HR buprenorphine 0.07 MG/HR Transdermal System	388506	EXACT	source states 72 h transdermal patch		2026-03-15
+707214	80067	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+707215	80067	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+707217	80068	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-15
+707218	80068	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-15
+707219	80069	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
+707220	80069	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
+709012	80460	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-15
+709060	80461	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+709107	80462	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
+709798	80596	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-15
+709799	80597	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+709800	80598	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
+709826	80609	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-15
+709827	80610	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+709828	80611	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
 710030	80669	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	EXACT			2026-03-12
 710031	80669	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	EXACT			2026-03-12
-710032	80670	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	EXACT			2026-03-12
-710033	80670	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	EXACT			2026-03-12
-710034	80671	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
-710035	80671	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
+710032	80670	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+710033	80670	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+710034	80671	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
+710035	80671	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
 725934	1181336001	1201596	0.16 ML buprenorphine 50 MG/ML Prefilled Syringe	2639021	EXACT			2025-12-04
 725935	1181336002	1201598	0.32 ML buprenorphine 50 MG/ML Prefilled Syringe	2639029	EXACT			2025-12-04
 725936	1181336003	1201600	0.48 ML buprenorphine 50 MG/ML Prefilled Syringe	2639031	EXACT			2025-12-04
@@ -34,16 +34,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 725940	1181336006	1201606	0.27 ML buprenorphine 356 MG/ML Prefilled Syringe	2639041	EXACT			2025-12-04
 725941	1181336007	1201608	0.36 ML buprenorphine 356 MG/ML Prefilled Syringe	2639043	EXACT			2025-12-04
 729998	1191369001	36250050	buprenorphine 74.2 MG Drug Implant	1797650	EXACT			2025-12-04
-891168	64684	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	EXACT			2026-03-12
-891218	64684	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	EXACT			2026-03-12
-891291	64685	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	EXACT			2026-03-12
-891390	64685	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	EXACT			2026-03-12
-892901	64686	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
-893271	64686	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	EXACT			2026-03-12
-967224	56858	40015181	buprenorphine Sublingual Tablet	371161	BROAD		buprenorphine 0.2 MG Sublingual Tablet [1133224]	2026-03-12
+891168	64684	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-15
+891218	64684	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-15
+891291	64685	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+891390	64685	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+892901	64686	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
+893271	64686	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
+967224	56858	1133224	buprenorphine 0.2 MG Sublingual Tablet	246474	EXACT	upgraded from dose-form-only concept		2026-03-15
 608117	56403	1133223	1 ML buprenorphine 0.3 MG/ML Injection	238129	EXACT			2026-03-12
 679588	56403	1133223	1 ML buprenorphine 0.3 MG/ML Injection	238129	EXACT			2026-03-13
-709852	80620	19101660	72 HR buprenorphine 0.035 MG/HR Transdermal System	388508	BROAD		96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-13
-709853	80621	19101659	72 HR buprenorphine 0.0525 MG/HR Transdermal System	388507	BROAD		96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-13
-709854	80622	19101658	72 HR buprenorphine 0.07 MG/HR Transdermal System	388506	BROAD		96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-13
+709852	80620	42902727	buprenorphine 0.035 MG/HR Transdermal System	1359840	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.035 MG/HR Transdermal System	2026-03-15
+709853	80621	42903006	buprenorphine 0.0525 MG/HR Transdermal System	1360119	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.0525 MG/HR Transdermal System	2026-03-15
+709854	80622	42902864	buprenorphine 0.07 MG/HR Transdermal System	1359977	BROAD	source states 96 h patch; local RxNorm search found no exact 96 HR concept	96 HR buprenorphine 0.07 MG/HR Transdermal System	2026-03-15
 961425	56403	1133223	1 ML buprenorphine 0.3 MG/ML Injection	238129	EXACT			2026-03-13

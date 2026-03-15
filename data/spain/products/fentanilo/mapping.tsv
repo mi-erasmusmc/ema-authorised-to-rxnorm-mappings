@@ -1,17 +1,17 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650938	69733	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-652097	67029	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT			2026-03-12
-652114	69730	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-652116	69731	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-652117	69732	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-658296	68363	46221484	fentanyl 0.0375 MG/HR Transdermal System	1603496	EXACT			2026-03-12
-658297	68364	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-658299	68366	46221490	fentanyl 0.0875 MG/HR Transdermal System	1603502	EXACT			2026-03-12
-658300	68367	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-658521	68493	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-658523	68495	46221490	fentanyl 0.0875 MG/HR Transdermal System	1603502	EXACT			2026-03-12
-658524	68496	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-658583	68518	46221484	fentanyl 0.0375 MG/HR Transdermal System	1603496	EXACT			2026-03-12
+650938	69733	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+652097	67029	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+652114	69730	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+652116	69731	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+652117	69732	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658296	68363	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658297	68364	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658299	68366	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658300	68367	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658521	68493	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658523	68495	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658524	68496	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658583	68518	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 662278	70501	40234427	fentanyl 0.1 MG Sublingual Tablet	1053647	EXACT			2026-03-12
 662279	70501	40234427	fentanyl 0.1 MG Sublingual Tablet	1053647	EXACT			2026-03-12
 662280	70502	40234430	fentanyl 0.2 MG Sublingual Tablet	1053652	EXACT			2026-03-12
@@ -22,50 +22,50 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 662285	70507	40234436	fentanyl 0.4 MG Sublingual Tablet	1053658	EXACT			2026-03-12
 662286	70508	40234439	fentanyl 0.6 MG Sublingual Tablet	1053661	EXACT			2026-03-12
 662289	70511	40234442	fentanyl 0.8 MG Sublingual Tablet	1053664	EXACT			2026-03-12
-662577	61961	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT			2026-03-12
-662585	61960	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-662593	61959	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-663267	70041	42902404	fentanyl 0.012 MG/HR Transdermal System	1359517	EXACT			2026-03-12
-663353	69729	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT			2026-03-12
-664014	71112	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT			2026-03-12
-664015	71120	46221490	fentanyl 0.0875 MG/HR Transdermal System	1603502	EXACT			2026-03-12
-664016	71121	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-664017	71122	35412954	Fentanyl 16.5 MG Transdermal System	OMOP1146539	EXACT			2026-03-12
-664616	71853	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-664617	71858	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-664618	71856	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-664619	71854	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-664823	71897	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-664824	71896	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-664825	71895	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-664826	71935	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-670343	71762	42902404	fentanyl 0.012 MG/HR Transdermal System	1359517	EXACT	corrected from fentanyl Transdermal System (ingredient form only)		2026-03-12
-670352	71763	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT			2026-03-12
-670362	71764	46221489	72 HR fentanyl 0.0875 MG/HR Transdermal System	1603501	EXACT			2026-03-12
-670371	71765	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT	corrected from 12mcg concept (was wrong strength)		2026-03-12
-670381	71766	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT	upgraded from BROAD Fentanyl 16.5 MG Transdermal System		2026-03-12
-672574	72737	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-672575	72738	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-672577	72739	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-672578	72740	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-673080	68558	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT			2026-03-12
-673081	68559	46221490	fentanyl 0.0875 MG/HR Transdermal System	1603502	EXACT			2026-03-12
-673082	68560	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-673083	68561	35412954	Fentanyl 16.5 MG Transdermal System	OMOP1146539	EXACT			2026-03-12
-676124	72971	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-676129	72972	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-676135	72973	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-676140	72974	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-679736	73928	42902404	fentanyl 0.012 MG/HR Transdermal System	1359517	EXACT			2026-03-12
-679740	73929	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-679743	73930	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-679747	73931	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-679750	73932	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-680804	74120	42902404	fentanyl 0.012 MG/HR Transdermal System	1359517	EXACT			2026-03-12
-680807	74121	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-680810	74122	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-680813	74123	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-680816	74124	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
+662577	61961	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+662585	61960	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+662593	61959	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+663267	70041	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+663353	69729	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664014	71112	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664015	71120	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664016	71121	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664017	71122	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664616	71853	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664617	71858	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664618	71856	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664619	71854	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664823	71897	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664824	71896	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664825	71895	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+664826	71935	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+670343	71762	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+670352	71763	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+670362	71764	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+670371	71765	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+670381	71766	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+672574	72737	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+672575	72738	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+672577	72739	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+672578	72740	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+673080	68558	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+673081	68559	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+673082	68560	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+673083	68561	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+676124	72971	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+676129	72972	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+676135	72973	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+676140	72974	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+679736	73928	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+679740	73929	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+679743	73930	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+679747	73931	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+679750	73932	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+680804	74120	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+680807	74121	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+680810	74122	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+680813	74123	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+680816	74124	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 680894	74147	40165715	fentanyl 0.4 MG Buccal Film	858095	EXACT			2026-03-12
 680895	74147	40165715	fentanyl 0.4 MG Buccal Film	858095	EXACT			2026-03-12
 680898	74148	40165718	fentanyl 0.6 MG Buccal Film	858098	EXACT			2026-03-12
@@ -74,13 +74,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 680904	74149	40165721	fentanyl 0.8 MG Buccal Film	858101	EXACT			2026-03-12
 680907	74150	40165724	fentanyl 1.2 MG Buccal Film	858087	EXACT			2026-03-12
 680908	74150	40165724	fentanyl 1.2 MG Buccal Film	858087	EXACT			2026-03-12
-688411	75601	42902404	fentanyl 0.012 MG/HR Transdermal System	1359517	EXACT			2026-03-12
+688411	75601	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 689403	74146	40165711	fentanyl 0.2 MG Buccal Film	858092	EXACT			2026-03-12
 689404	74146	40165711	fentanyl 0.2 MG Buccal Film	858092	EXACT			2026-03-12
-690238	75952	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-690244	75953	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-690251	75954	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-690258	75955	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
+690238	75952	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+690244	75953	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+690251	75954	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+690258	75955	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 695943	76975	40234427	fentanyl 0.1 MG Sublingual Tablet	1053647	EXACT			2026-03-12
 695945	76975	40234427	fentanyl 0.1 MG Sublingual Tablet	1053647	EXACT			2026-03-12
 695951	76976	40234430	fentanyl 0.2 MG Sublingual Tablet	1053652	EXACT			2026-03-12
@@ -100,45 +100,45 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 711721	64061	19068250	fentanyl 1.6 MG Oral Lozenge [Actiq]	261110	EXACT			2026-03-12
 711754	64056	19068246	fentanyl 0.2 MG Oral Lozenge [Actiq]	261106	EXACT			2026-03-12
 712078	109531033	21101521	Fentanyl 0.2 MG/ACTUAT Nasal Spray	OMOP362632	EXACT			2025-12-04
-724841	68496	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-724842	68518	46221484	fentanyl 0.0375 MG/HR Transdermal System	1603496	EXACT			2026-03-12
-724843	68493	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-724845	68495	46221490	fentanyl 0.0875 MG/HR Transdermal System	1603502	EXACT			2026-03-12
-724868	68367	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-724869	68363	46221484	fentanyl 0.0375 MG/HR Transdermal System	1603496	EXACT			2026-03-12
-724870	68364	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-724873	68366	46221490	fentanyl 0.0875 MG/HR Transdermal System	1603502	EXACT			2026-03-12
+724841	68496	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+724842	68518	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+724843	68493	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+724845	68495	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+724868	68367	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+724869	68363	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+724870	68364	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+724873	68366	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 727488	84694	1154278	fentanyl 0.1 MG Buccal Tablet	668363	EXACT			2026-03-12
 727490	84695	1154279	fentanyl 0.2 MG Buccal Tablet	668364	EXACT			2026-03-12
 727492	84696	1154280	fentanyl 0.4 MG Buccal Tablet	668365	EXACT			2026-03-12
 727494	84697	1154281	fentanyl 0.6 MG Buccal Tablet	668366	EXACT			2026-03-12
 727496	84698	1154312	fentanyl 0.8 MG Buccal Tablet	668367	EXACT			2026-03-12
-729354	85456	35603429	fentanyl 0.05 MG/ML Injection	1735004	EXACT			2026-03-12
-729355	85456	35603429	fentanyl 0.05 MG/ML Injection	1735004	EXACT			2026-03-12
-756650	41764	35603429	fentanyl 0.05 MG/ML Injection	1735004	EXACT			2026-03-12
-760970	88464	35603429	fentanyl 0.05 MG/ML Injection	1735004	EXACT			2026-03-12
-761572	41764	35603429	fentanyl 0.05 MG/ML Injection	1735004	EXACT			2026-03-12
-761574	41764	35603429	fentanyl 0.05 MG/ML Injection	1735004	EXACT			2026-03-12
-763197	71897	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-763200	71896	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-763202	71935	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-763204	71895	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-763627	72740	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-763628	72738	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-763629	72739	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-763630	72737	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-764909	88464	35603429	fentanyl 0.05 MG/ML Injection	1735004	EXACT			2026-03-12
-765805	72972	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-765806	72973	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-765807	72971	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-765808	72974	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-765809	75601	42902404	fentanyl 0.012 MG/HR Transdermal System	1359517	EXACT			2026-03-12
-765846	74120	42902404	fentanyl 0.012 MG/HR Transdermal System	1359517	EXACT			2026-03-12
-765848	74122	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-765849	74123	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-765850	74124	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
-765860	74121	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-848119	65032	46221486	72 HR fentanyl 0.0625 MG/HR Transdermal System	1603498	EXACT			2026-03-12
+729354	85456	35603428	2 ML fentanyl 0.05 MG/ML Injection	1735003	EXACT	volume-specific injection concept available		2026-03-15
+729355	85456	35603430	10 ML fentanyl 0.05 MG/ML Injection	1735006	EXACT	volume-specific injection concept available		2026-03-15
+756650	41764	35603429	fentanyl 0.05 MG/ML Injection	1735004	BROAD	no 3 ML RxNorm injection concept found; concentration-only fallback	3 ML fentanyl 0.05 MG/ML Injection	2026-03-15
+760970	88464	35603430	10 ML fentanyl 0.05 MG/ML Injection	1735006	EXACT	volume-specific injection concept available		2026-03-15
+761572	41764	35603428	2 ML fentanyl 0.05 MG/ML Injection	1735003	EXACT	volume-specific injection concept available		2026-03-15
+761574	41764	35603430	10 ML fentanyl 0.05 MG/ML Injection	1735006	EXACT	volume-specific injection concept available		2026-03-15
+763197	71897	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+763200	71896	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+763202	71935	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+763204	71895	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+763627	72740	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+763628	72738	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+763629	72739	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+763630	72737	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+764909	88464	35603429	fentanyl 0.05 MG/ML Injection	1735004	BROAD	no 3 ML RxNorm injection concept found; concentration-only fallback	3 ML fentanyl 0.05 MG/ML Injection	2026-03-15
+765805	72972	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765806	72973	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765807	72971	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765808	72974	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765809	75601	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765846	74120	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765848	74122	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765849	74123	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765850	74124	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+765860	74121	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+848119	65032	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 900837	64057	1154105	fentanyl 0.4 MG Oral Lozenge [Actiq]	262219	EXACT	corrected from 0.6 MG (was wrong strength)		2026-03-12
 904359	64061	19068250	fentanyl 1.6 MG Oral Lozenge [Actiq]	261110	EXACT			2026-03-12
 912485	64060	19068249	fentanyl 1.2 MG Oral Lozenge [Actiq]	261109	EXACT			2026-03-12
@@ -157,12 +157,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 654816	09531011	21072190	Fentanyl 0.05 MG/ACTUAT Nasal Spray	OMOP362945	EXACT			2026-03-12
 654817	09531001	21072190	Fentanyl 0.05 MG/ACTUAT Nasal Spray	OMOP362945	EXACT			2026-03-12
 654818	09531003	21072190	Fentanyl 0.05 MG/ACTUAT Nasal Spray	OMOP362945	EXACT			2026-03-12
-658298	68365	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-658522	68494	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-658654	68562	42902803	fentanyl 0.025 MG/HR Transdermal System	1359916	EXACT			2026-03-12
-658655	68563	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-658656	68564	42903081	fentanyl 0.075 MG/HR Transdermal System	1360194	EXACT			2026-03-12
-658657	68565	42902560	fentanyl 0.1 MG/HR Transdermal System	1359673	EXACT			2026-03-12
+658298	68365	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658522	68494	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658654	68562	1154062	72 HR fentanyl 0.025 MG/HR Transdermal System	245134	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658655	68563	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658656	68564	1154030	72 HR fentanyl 0.075 MG/HR Transdermal System	197696	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+658657	68565	1154064	72 HR fentanyl 0.1 MG/HR Transdermal System	245136	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 662852	08441001	1154278	fentanyl 0.1 MG Buccal Tablet	668363	EXACT			2026-03-12
 662853	08441003	1154279	fentanyl 0.2 MG Buccal Tablet	668364	EXACT			2026-03-12
 662902	08441002	1154278	fentanyl 0.1 MG Buccal Tablet	668363	EXACT			2026-03-12
@@ -170,7 +170,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 662904	08441006	1154280	fentanyl 0.4 MG Buccal Tablet	668365	EXACT			2026-03-12
 662905	08441008	1154281	fentanyl 0.6 MG Buccal Tablet	668366	EXACT			2026-03-12
 662906	08441010	1154312	fentanyl 0.8 MG Buccal Tablet	668367	EXACT			2026-03-12
-664509	71479	42902404	fentanyl 0.012 MG/HR Transdermal System	1359517	EXACT			2026-03-12
+664509	71479	19121195	72 HR fentanyl 0.012 MG/HR Transdermal System	577057	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 665891	10644001	40240780	fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray	1115573	EXACT			2026-03-12
 665892	10644002	40240780	fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray	1115573	EXACT			2026-03-12
 665894	10644003	40240784	fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray	1115577	EXACT			2026-03-12
@@ -193,8 +193,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 712757	81264	19077249	fentanyl 1.6 MG Oral Lozenge	310294	EXACT			2026-03-12
 712758	81264	19077249	fentanyl 1.6 MG Oral Lozenge	310294	EXACT			2026-03-12
 712759	81264	19077249	fentanyl 1.6 MG Oral Lozenge	310294	EXACT			2026-03-12
-724844	68494	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
-724871	68365	42903228	fentanyl 0.05 MG/HR Transdermal System	1360341	EXACT			2026-03-12
+724844	68494	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
+724871	68365	1154063	72 HR fentanyl 0.05 MG/HR Transdermal System	245135	EXACT	Spanish FT supports 72-hour fentanyl patch application/replacement (e.g. AEMPS 67029, 69729, 71112, 71763)		2026-03-15
 725615	84102	35603428	2 ML fentanyl 0.05 MG/ML Injection	1735003	EXACT			2026-03-12
 725852	84158	40234427	fentanyl 0.1 MG Sublingual Tablet	1053647	EXACT			2026-03-12
 725854	84158	40234427	fentanyl 0.1 MG Sublingual Tablet	1053647	EXACT			2026-03-12

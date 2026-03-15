@@ -12,8 +12,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 689966	75926	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 693280	76514	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 693281	76514	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
-694799	76799	19132596	fosfomycin 3000 MG Granules for Oral Solution [Monurol]	808921	EXACT			2026-03-12
-694800	76799	19132596	fosfomycin 3000 MG Granules for Oral Solution [Monurol]	808921	EXACT			2026-03-12
+694799	76799	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT	normalized from brand-specific Monurol concept to unbranded exact presentation		2026-03-15
+694800	76799	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT	normalized from brand-specific Monurol concept to unbranded exact presentation		2026-03-15
 698764	77795	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 710000	80661	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 710001	80661	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
@@ -33,23 +33,23 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656738	50880	19060194	fosfomycin 50 MG/ML Oral Suspension	246097	EXACT		fosfomycin 250mg/5ml = 50mg/mL oral suspension	2026-03-12
 656963	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
 672735	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
-693278	76513	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-693279	76513	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-696424	77049	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-696425	77049	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
+693278	76513	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+693279	76513	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+696424	77049	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+696425	77049	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
 700561	54163	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
 700562	50882	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
 700563	50879	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
-709999	80660	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-710978	80902	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-710979	80902	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-711615	81061	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-711616	81061	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-718740	82352	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
+709999	80660	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+710978	80902	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+710979	80902	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+711615	81061	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+711616	81061	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+718740	82352	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
 718742	82353	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 718743	82353	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 727663	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
 727664	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
-850966	58807	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
-851782	58807	1735683	fosfomycin Granules for Oral Solution	2697784	BROAD		fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-12
+850966	58807	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
+851782	58807	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
 939751	54165	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 4000 MG Injection	2026-03-12

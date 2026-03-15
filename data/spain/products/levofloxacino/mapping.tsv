@@ -9,7 +9,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 605995	76102	46287443	100 ML levofloxacin 5 MG/ML Injection	1665507	EXACT			2026-03-12
 606219	77755	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 606826	68867	46287443	100 ML levofloxacin 5 MG/ML Injection	1665507	EXACT			2026-03-12
-607013	82917	46287441	levofloxacin 5 MG/ML Injection	1665505	EXACT			2026-03-12
+607013	82917	46287443	100 ML levofloxacin 5 MG/ML Injection	1665507	EXACT	source presentation is 500 mg in 100 ml; volume-specific concept matches the labeled infusion better		2026-03-15
 659159	68867	46287443	100 ML levofloxacin 5 MG/ML Injection	1665507	EXACT			2026-03-12
 659160	68868	46287443	100 ML levofloxacin 5 MG/ML Injection	1665507	EXACT			2026-03-12
 660461	69567	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
@@ -59,8 +59,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698673	77755	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 698674	77755	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 698675	77755	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
-706223	79760	1742254	levofloxacin 250 MG Oral Tablet	199884	EXACT			2026-03-12
-706225	79760	1742254	levofloxacin 250 MG Oral Tablet	199884	EXACT			2026-03-12
+706223	79760	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT	source presentation is levofloxacino 500 mg comprimido		2026-03-15
+706225	79760	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT	source presentation is levofloxacino 500 mg comprimido		2026-03-15
 710305	80726	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 710306	80726	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 710971	80897	1742254	levofloxacin 250 MG Oral Tablet	199884	EXACT			2026-03-12

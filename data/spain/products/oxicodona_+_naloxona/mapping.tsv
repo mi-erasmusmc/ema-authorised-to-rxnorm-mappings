@@ -1,52 +1,52 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-654783	71125	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-667951	71124	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-667969	71126	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
-667988	71127	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
-708654	80410	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-708668	80411	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-708686	80412	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
-708703	80413	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
-708717	80414	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
-712112	81129	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
-712122	81130	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-712132	81131	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-712144	81132	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
-712503	81209	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
-712504	81210	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-712506	81211	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-712507	81212	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
-714653	81718	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
-714670	81719	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-714687	81720	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-714704	81721	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
-714742	81723	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-714758	81724	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
+654783	71125	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+667951	71124	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+667969	71126	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+667988	71127	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
+708654	80410	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+708668	80411	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+708686	80412	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 30/15 combination concept found locally	12 HR naloxone hydrochloride 15 MG / oxycodone hydrochloride 30 MG Extended Release Oral Tablet	2026-03-15
+708703	80413	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+708717	80414	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
+712112	81129	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
+712122	81130	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+712132	81131	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+712144	81132	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+712503	81209	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
+712504	81210	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+712506	81211	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+712507	81212	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+714653	81718	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
+714670	81719	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+714687	81720	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+714704	81721	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+714742	81723	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+714758	81724	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
 714776	81725	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
-714794	81726	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
-714811	81727	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
-716529	82151	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-716531	82152	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-716533	82153	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
-716908	82277	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+714794	81726	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
+714811	81727	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 30/15 combination concept found locally	12 HR naloxone hydrochloride 15 MG / oxycodone hydrochloride 30 MG Extended Release Oral Tablet	2026-03-15
+716529	82151	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+716531	82152	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+716533	82153	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+716908	82277	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
 716922	82278	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
-716937	82279	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
-716951	82280	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-716965	82281	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-720116	82718	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-720140	82719	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-720163	82720	45774946	naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545908	EXACT			2026-03-13
+716937	82279	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 30/15 combination concept found locally	12 HR naloxone hydrochloride 15 MG / oxycodone hydrochloride 30 MG Extended Release Oral Tablet	2026-03-15
+716951	82280	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+716965	82281	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+720116	82718	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+720140	82719	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+720163	82720	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT	Spanish FT states administration every 12 hours		2026-03-15
 720676	82860	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
-720690	82861	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-720721	82862	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-720736	82863	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
-724899	83856	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-724915	83857	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
-724929	83858	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+720690	82861	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+720721	82862	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+720736	82863	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
+724899	83856	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+724915	83857	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 30/15 combination concept found locally	12 HR naloxone hydrochloride 15 MG / oxycodone hydrochloride 30 MG Extended Release Oral Tablet	2026-03-15
+724929	83858	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
 724943	83859	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
-724958	83860	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-731272	86060	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 15 MG / oxycodone 30 MG Extended Release Oral Tablet	2026-03-13
+724958	83860	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+731272	86060	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 30/15 combination concept found locally	12 HR naloxone hydrochloride 15 MG / oxycodone hydrochloride 30 MG Extended Release Oral Tablet	2026-03-15
 768471	82278	45774945	12 HR naloxone hydrochloride 20 MG / oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1545907	EXACT			2026-03-13
-768477	82280	45774943	naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545904	EXACT			2026-03-13
-768478	82281	45774949	naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545911	EXACT			2026-03-13
-768479	82277	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD		naloxone 2.5 MG / oxycodone 5 MG Extended Release Oral Tablet	2026-03-13
+768477	82280	45774942	12 HR naloxone hydrochloride 10 MG / oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1545903	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+768478	82281	45774948	12 HR naloxone hydrochloride 5 MG / oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1545910	EXACT	Spanish FT states administration every 12 hours		2026-03-15
+768479	82277	45774941	naloxone / oxycodone Extended Release Oral Tablet	1545901	BROAD	Spanish FT states administration every 12 hours; no exact 12 HR 5/2.5 combination concept found locally	12 HR naloxone hydrochloride 2.5 MG / oxycodone hydrochloride 5 MG Extended Release Oral Tablet	2026-03-15
