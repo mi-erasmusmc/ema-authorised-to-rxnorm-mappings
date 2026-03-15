@@ -174,8 +174,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 689459	75834	19079152	olanzapine 10 MG Disintegrating Oral Tablet	312076	EXACT			2026-03-12
 689461	75835	19098136	olanzapine 15 MG Disintegrating Oral Tablet	351107	EXACT			2026-03-12
 692991	76433	19079154	olanzapine 5 MG Oral Tablet	312078	EXACT			2026-03-12
-693001	76434	19079155	olanzapine 7.5 MG Oral Tablet	312079	EXACT			2026-03-12
-693002	76434	19079155	olanzapine 7.5 MG Oral Tablet	312079	EXACT			2026-03-12
+693001	76434	785821	olanzapine 10 MG Oral Tablet	312832	EXACT			2026-03-15
+693002	76434	785821	olanzapine 10 MG Oral Tablet	312832	EXACT			2026-03-15
 693004	76435	19079155	olanzapine 7.5 MG Oral Tablet	312079	EXACT	corrected from 10 MG Oral Tablet (was wrong auto-mapping)		2026-03-12
 693431	76552	785842	olanzapine 5 MG Disintegrating Oral Tablet	314155	EXACT			2026-03-12
 693434	76553	19079152	olanzapine 10 MG Disintegrating Oral Tablet	312076	EXACT			2026-03-12

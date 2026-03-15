@@ -14,6 +14,7 @@ Refer to the `find-concepts` skill for RxNorm searches and the `map-drugs` skill
 ## Resources
 
 - Use `audit_folder.py` to identify missing, stale, incomplete, or broad mappings in a Spain product folder.
+- Use `audit_all.py` to audit all Spain product folders at once and surface the worst offenders by issue type.
 - Use `apply_mappings.py` to merge targeted TSV updates into `mapping.tsv` without rewriting unchanged rows.
 - Use `scripts/list_folder_patterns.py` to summarize repeated presentation patterns before concept search, especially in large folders.
 - Use `scripts/run_clean_room_batch.py` for conservative bulk cleanup when missing rows can be filled from existing `EXACT` mappings in the same folder.
@@ -65,7 +66,7 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
    - `NRO_MISMATCH`: `nro_definitivo` in `mapping.tsv` disagrees with `data.tsv`
    - `DUPLICATE_DATA`: duplicate `cod_nacion` in `data.tsv`
    - `DUPLICATE_MAPPING`: duplicate `cod_nacion` in `mapping.tsv`
-   - `INCONSISTENT_CONCEPT`: EXACT rows sharing the same clinical description and dose form but mapped to different concept_ids. For generics (`sw_generico=1`) this is always a real error. For branded products the check is per-brand key from `des_nomco`, not per manufacturer, so it only flags conflicts within the same branded line — **do not resolve by collapsing to a plain non-suffixed concept**. When the folder contains biosimilars, always read the biosimilar reference in `.claude/skills/map-drugs/biosimilars/` and apply the correct FDA-suffixed unbranded concept (Scenario 1) or BROAD+suggestion (Scenario 2). Never strip FDA suffixes (`-atto`, `-adaz`, `-fkjp`, etc.) in the name of harmonisation.
+   - `INCONSISTENT_CONCEPT`: EXACT rows sharing the same clinical description and dose form but mapped to different concept_ids. For generics (`sw_generico=1`) this is usually a real error, but a legitimate split can occur when some products in the folder have their own RxNorm branded concept (e.g. `[Yargesa]`) while others do not — in that case the different concepts are both correct and the flag is a structural false positive. For branded products the check is per-brand key from `des_nomco`, not per manufacturer, so it only flags conflicts within the same branded line — **do not resolve by collapsing to a plain non-suffixed concept**. When the folder contains biosimilars, always read the biosimilar reference in `.claude/skills/map-drugs/biosimilars/` and apply the correct FDA-suffixed unbranded concept (Scenario 1) or BROAD+suggestion (Scenario 2). Never strip FDA suffixes (`-atto`, `-adaz`, `-fkjp`, etc.) in the name of harmonisation.
 
 2. Read `data.tsv` to understand the presentation set, strengths, volumes, and flags for the product.
 
@@ -146,7 +147,7 @@ It only selects folders where every missing row can be filled from an existing `
 
 ## Spain-specific Notes
 
-- Generics: if `sw_generico=1`, map to non-branded RxNorm concepts only.
+- Generics: if `sw_generico=1`, prefer unbranded RxNorm concepts. Exception: if RxNorm has a standard concept for the product's own brand name (e.g. `[Yargesa]`), use it — a matching branded concept is more precise than unbranded. The rule prevents mapping a generic to the *originator's* brand (e.g. MIGLUSTAT ACCORD → [Zavesca]), not from using the generic brand's own concept when RxNorm recognises it.
 - Branded products: when `sw_generico=0` and RxNorm has the matching brand, use the branded RxNorm concept and keep it. Do not replace a correct branded concept with a generic one for harmonisation. Only fall back to a generic concept when no matching branded RxNorm concept exists.
 - Spanish names: `data.tsv` may contain Spanish ingredient names such as `acido zoledronico`; search RxNorm with the English ingredient name.
 - Spanish solid-dose form nuance: `COMPRIMIDO BUCODISPERSABLE` or `liotab` rows sometimes align best to an RxNorm chewable-tablet concept rather than a plain oral-tablet concept. If RxNorm exposes the matching strength as `Chewable Tablet`, prefer that exact concept and record the rationale in `comment` instead of downgrading automatically to `BROAD`.

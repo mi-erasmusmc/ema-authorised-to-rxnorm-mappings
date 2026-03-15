@@ -24,7 +24,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 659278	68937	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 659670	69165	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 659671	69165	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
-661172	69917	40071299	paroxetine Oral Suspension	373245	BROAD		paroxetine mesilate 33 MG/ML Oral Solution	2026-03-12
+661172	69917	40071299	paroxetine Oral Suspension	373245	BROAD	source is 33 MG/ML oral drops solution; no local exact 33 MG/ML oral solution concept found	paroxetine mesilate 33 MG/ML Oral Solution	2026-03-15
 662384	70540	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 662385	70540	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 663852	64365	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
@@ -56,7 +56,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 760298	59466	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 760314	59468	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 763291	89018	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
-763293	89019	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
+763293	89019	35604581	paroxetine hydrochloride 30 MG Oral Tablet	1738503	EXACT	corrected from 10 MG concept; source is 30 mg tablet		2026-03-15
 763294	89020	35604586	paroxetine hydrochloride 40 MG Oral Tablet	1738511	EXACT			2026-03-12
 764722	89501	35604569	paroxetine hydrochloride 10 MG Oral Tablet	1738483	EXACT			2026-03-12
 764738	89502	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
@@ -98,11 +98,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 658133	68259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 658134	68259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 658135	68259	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
-658182	68289	40071299	paroxetine Oral Suspension	373245	BROAD		paroxetine hydrochloride 10 MG/ML Oral Solution	2026-03-12
+658182	68289	40071299	paroxetine Oral Suspension	373245	BROAD	source is 10 MG/ML oral drops solution; no local exact 10 MG/ML oral solution concept found	paroxetine hydrochloride 10 MG/ML Oral Solution	2026-03-15
 659062	66218	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 661182	69921	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 661183	69921	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
-661613	68289	40071299	paroxetine Oral Suspension	373245	BROAD		paroxetine hydrochloride 10 MG/ML Oral Solution	2026-03-12
+661613	68289	40071299	paroxetine Oral Suspension	373245	BROAD	source is 10 MG/ML oral drops solution; no local exact 10 MG/ML oral solution concept found	paroxetine hydrochloride 10 MG/ML Oral Solution	2026-03-15
 662563	70656	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 663862	65160	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12
 663863	65160	35604576	paroxetine hydrochloride 20 MG Oral Tablet	1738495	EXACT			2026-03-12

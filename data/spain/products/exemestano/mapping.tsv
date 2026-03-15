@@ -15,16 +15,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 696053	77006	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-15
 696055	77007	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-15
 697198	77248	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-15
-866624	63029	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-15
-650932	66661	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-13
-672559	61515	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-13
+866624	63029	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-15
+650932	73127	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-15
+672559	72794	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-15
 676092	73747	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-13
 680325	74030	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-13
-681444	74307	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-13
-722004	83208	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT	Source des_dosific says 30 mg, but the product name and clinical description are Aromasil 25 mg; mapped to the consistent 25 MG brand concept used for the same line.		2026-03-13
-729203	85593	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-13
-731545	86212	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-13
-763296	89019	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-13
-765351	89765	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-13
-766169	90044	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-13
-767683	90189	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-13
+681444	74309	19077218	exemestane 25 MG Oral Tablet	310261	EXACT			2026-03-15
+722004	LT-1-2000-1224-001	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT	Source des_dosific says 30 mg, but the product name and clinical description are Aromasil 25 mg; mapped to the consistent 25 MG brand concept used for the same line.		2026-03-15
+729203	180322053786	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-15
+731545	20000458	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-15
+763296	14189-08-01-09-2009IP	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-15
+765351	20000458IP	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-15
+766169	LT120001224001IP	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-15
+767683	4400501C	1398400	exemestane 25 MG Oral Tablet [Aromasin]	261317	EXACT			2026-03-15

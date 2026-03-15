@@ -25,14 +25,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 692114	76185	36879990	Nicotine 13.6 MG/ML Oral Spray	OMOP994007	EXACT			2026-03-12
 696123	65670	718670	nicotine 2 MG Chewing Gum	314119	EXACT			2026-03-12
 702845	57455	19041171	nicotine 2 MG Chewing Gum [Nicorette]	209326	EXACT			2026-03-12
-703722	79075	36883820	Nicotine 26.5 MG Chewing Gum	OMOP988464	EXACT			2026-03-12
-703729	79075	36883820	Nicotine 26.5 MG Chewing Gum	OMOP988464	EXACT			2026-03-12
-703733	79076	40067645	nicotine Chewing Gum	154906	BROAD		nicotine 2 MG Chewing Gum	2026-03-12
-703740	79076	40067645	nicotine Chewing Gum	154906	BROAD		nicotine 2 MG Chewing Gum	2026-03-12
-703746	79077	36883820	Nicotine 26.5 MG Chewing Gum	OMOP988464	EXACT			2026-03-12
-703754	79077	36883820	Nicotine 26.5 MG Chewing Gum	OMOP988464	EXACT			2026-03-12
-703758	79078	40067645	nicotine Chewing Gum	154906	BROAD		nicotine 2 MG Chewing Gum	2026-03-12
-703764	79078	40067645	nicotine Chewing Gum	154906	BROAD		nicotine 2 MG Chewing Gum	2026-03-12
+703722	79075	718669	nicotine 4 MG Chewing Gum	311975	EXACT	corrected from unrelated 26.5 MG gum concept; source is 4 mg medicated gum		2026-03-15
+703729	79075	718669	nicotine 4 MG Chewing Gum	311975	EXACT	corrected from unrelated 26.5 MG gum concept; source is 4 mg medicated gum		2026-03-15
+703733	79076	718670	nicotine 2 MG Chewing Gum	314119	EXACT	upgraded from gum family fallback to exact 2 mg medicated gum concept		2026-03-15
+703740	79076	718670	nicotine 2 MG Chewing Gum	314119	EXACT	upgraded from gum family fallback to exact 2 mg medicated gum concept		2026-03-15
+703746	79077	718669	nicotine 4 MG Chewing Gum	311975	EXACT	corrected from unrelated 26.5 MG gum concept; source is 4 mg medicated gum		2026-03-15
+703754	79077	718669	nicotine 4 MG Chewing Gum	311975	EXACT	corrected from unrelated 26.5 MG gum concept; source is 4 mg medicated gum		2026-03-15
+703758	79078	718670	nicotine 2 MG Chewing Gum	314119	EXACT	upgraded from gum family fallback to exact 2 mg medicated gum concept		2026-03-15
+703764	79078	718670	nicotine 2 MG Chewing Gum	314119	EXACT	upgraded from gum family fallback to exact 2 mg medicated gum concept		2026-03-15
 707312	80087	718670	nicotine 2 MG Chewing Gum	314119	EXACT			2026-03-12
 714596	80087	718670	nicotine 2 MG Chewing Gum	314119	EXACT			2026-03-12
 714766	65584	718669	nicotine 4 MG Chewing Gum	311975	EXACT			2026-03-12
@@ -64,8 +64,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 874255	63795	19101636	nicotine 1 MG Oral Lozenge	388082	EXACT			2026-03-12
 975342	57455	19041171	nicotine 2 MG Chewing Gum [Nicorette]	209326	EXACT			2026-03-12
 979187	57736	19006314	nicotine 4 MG Chewing Gum [Nicorette]	105071	EXACT			2026-03-12
-669785	70553	40067651	nicotine Oral Lozenge	379040	BROAD		nicotine 1.5 MG Oral Lozenge	2026-03-12
-687891	70553	40067651	nicotine Oral Lozenge	379040	BROAD		nicotine 1.5 MG Oral Lozenge	2026-03-12
+669785	70553	40067651	nicotine Oral Lozenge	379040	BROAD	source is 1.5 mg lozenge; no local exact 1.5 MG oral lozenge concept found	nicotine 1.5 MG Oral Lozenge	2026-03-15
+687891	70553	40067651	nicotine Oral Lozenge	379040	BROAD	source is 1.5 mg lozenge; no local exact 1.5 MG oral lozenge concept found	nicotine 1.5 MG Oral Lozenge	2026-03-15
 693267	60256	718782	24 HR nicotine 0.625 MG/HR Transdermal System	419168	EXACT			2026-03-12
 696124	65902	718670	nicotine 2 MG Chewing Gum	314119	EXACT			2026-03-12
 698949	77820	718670	nicotine 2 MG Chewing Gum	314119	EXACT			2026-03-12

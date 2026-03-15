@@ -1,39 +1,39 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650800	66605	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-650802	66606	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-651283	66778	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-652710	67271	40228206	cetirizine hydrochloride 1 MG/ML Oral Solution [Zyrtec]	1020021	EXACT			2026-03-13
-653259	66826	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-653282	64869	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-654029	67640	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-654536	67862	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-656087	67019	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-658462	68460	1149200	cetirizine 10 MG/ML Oral Solution	249388				2026-03-13
-659751	69205	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-660066	69373	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
+650800	66605	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+650802	66606	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+651283	66778	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+652710	67271	40228203	cetirizine hydrochloride 1 MG/ML Oral Solution	1014673	EXACT			2026-03-15
+653259	66826	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+653282	64869	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+654029	67640	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+654536	67862	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+656087	67019	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+658462	68460	1149200	cetirizine 10 MG/ML Oral Solution	249388	EXACT			2026-03-15
+659751	69205	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+660066	69373	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
 665695	58481	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-665703	60280	1149200	cetirizine 10 MG/ML Oral Solution	249388				2026-03-13
+665703	60280	1149200	cetirizine 10 MG/ML Oral Solution	249388	EXACT			2026-03-15
 692897	60279	40228206	cetirizine hydrochloride 1 MG/ML Oral Solution [Zyrtec]	1020021	EXACT			2026-03-13
 692905	60279	40228206	cetirizine hydrochloride 1 MG/ML Oral Solution [Zyrtec]	1020021	EXACT			2026-03-13
-699534	77949	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-703682	79064	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-703744	66044	1149196	cetirizine	20610	BROAD			2026-03-13
-708992	80453	40228206	cetirizine hydrochloride 1 MG/ML Oral Solution [Zyrtec]	1020021	EXACT			2026-03-13
-732345	86419	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-732346	86420	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-831537	62787	40228206	cetirizine hydrochloride 1 MG/ML Oral Solution [Zyrtec]	1020021	EXACT			2026-03-13
-831560	62788	1149200	cetirizine 10 MG/ML Oral Solution	249388				2026-03-13
-848622	64636	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
+699534	77949	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+703682	79064	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+703744	66044	1149196	cetirizine	20610	BROAD		cetirizine hydrochloride 10 MG Oral Tablet	2026-03-15
+708992	80453	40228203	cetirizine hydrochloride 1 MG/ML Oral Solution	1014673	EXACT			2026-03-15
+732345	86419	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+732346	86420	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+831537	62787	40228203	cetirizine hydrochloride 1 MG/ML Oral Solution	1014673	EXACT			2026-03-15
+831560	62788	1149200	cetirizine 10 MG/ML Oral Solution	249388	EXACT			2026-03-15
+848622	64636	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
 991885	58499	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-999869	64349	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-656301	68207	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-13
-662592	71175	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-677345	73303	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-719442	82540	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-720037	82768	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-13
-757021	88107	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-13
-769551	90322	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-13
-803189	94747	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT	No matching Coulergin brand concept found in RxNorm.		2026-03-13
-849232	99634	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-13
-991703	58744	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT	No matching Virlix brand concept found in RxNorm.		2026-03-13
-991992	58749	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT	No matching Reactine Cetirizina brand concept found in RxNorm.		2026-03-13
+999869	64349	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+656301	68134	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+662592	R-1846	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-15
+677345	R1846	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-15
+719442	R-1846IP	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-15
+720037	64710	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+757021	65258	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+769551	R1846IP	40228216	cetirizine hydrochloride 10 MG Oral Tablet [Zyrtec]	1020026	EXACT			2026-03-15
+803189	65868	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+849232	64637	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+991703	58484	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
+991992	58507	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15

@@ -163,15 +163,13 @@ def parse_args():
     return args
 
 
-def main():
-    args = parse_args()
-    folder = Path(args.folder)
+def audit_folder(folder: Path):
+    """Return a list of issue dicts for a product folder. Empty list = clean."""
     data_path = folder / "data.tsv"
     mapping_path = folder / "mapping.tsv"
 
     if not data_path.exists():
-        print(f"ERROR: {data_path} not found", file=sys.stderr)
-        sys.exit(1)
+        return []
 
     data_rows = load_tsv(data_path)
     data_by_cod = {clean(row["cod_nacion"]): row for row in data_rows}
@@ -272,6 +270,19 @@ def main():
                     clean(row.get("concept_name", "")),
                     clean(row.get("mapping_type", "")),
                 ))
+
+    return issues
+
+
+def main():
+    args = parse_args()
+    folder = Path(args.folder)
+
+    if not (folder / "data.tsv").exists():
+        print(f"ERROR: {folder / 'data.tsv'} not found", file=sys.stderr)
+        sys.exit(1)
+
+    issues = audit_folder(folder)
 
     if not issues:
         print("OK - no issues found")

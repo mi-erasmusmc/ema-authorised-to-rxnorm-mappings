@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 630731	37925	19057168	procaine 20 MG/ML Injectable Solution	238031	EXACT			2026-03-12
-630806	37925	19057168	procaine 20 MG/ML Injectable Solution	238031	EXACT			2026-03-12
-656667	37925	19057168	procaine 20 MG/ML Injectable Solution	238031	EXACT			2026-03-12
+630806	37925	19057168	procaine 20 MG/ML Injectable Solution	238031	EXACT	source row is 20 mg/mL in 5 mL despite generic des_dcp saying 100 mg inyectable		2026-03-15
+656667	37925	19057168	procaine 20 MG/ML Injectable Solution	238031	EXACT	source row is 20 mg/mL in 5 mL despite generic des_dcp saying 100 mg inyectable		2026-03-15
 656668	37925	19057168	procaine 20 MG/ML Injectable Solution	238031	EXACT			2026-03-12
 630764	37923	19057167	procaine 10 MG/ML Injectable Solution	238030	EXACT			2026-03-12
-630780	37923	19057167	procaine 10 MG/ML Injectable Solution	238030	EXACT			2026-03-12
+630780	37923	19057167	procaine 10 MG/ML Injectable Solution	238030	EXACT	source row is 10 mg/mL in 10 mL despite generic des_dcp saying 100 mg inyectable		2026-03-15
 656665	37923	19057167	procaine 10 MG/ML Injectable Solution	238030	EXACT			2026-03-12
-656666	37923	19057167	procaine 10 MG/ML Injectable Solution	238030	EXACT			2026-03-12
+656666	37923	19057167	procaine 10 MG/ML Injectable Solution	238030	EXACT	source row is 10 mg/mL in 10 mL despite generic des_dcp saying 100 mg inyectable		2026-03-15

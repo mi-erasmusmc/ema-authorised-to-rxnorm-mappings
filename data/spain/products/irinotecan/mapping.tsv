@@ -1,40 +1,40 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-651534	65899	40174869	irinotecan hydrochloride 20 MG/ML	904159	EXACT			2026-03-13
-662912	70886	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-662913	70886	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-663840	69474	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-672521	70886	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-672522	70886	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-713383	81357	40174869	irinotecan hydrochloride 20 MG/ML	904159	EXACT			2026-03-13
-713384	81357	40174869	irinotecan hydrochloride 20 MG/ML	904159	EXACT			2026-03-13
-713385	81357	40174869	irinotecan hydrochloride 20 MG/ML	904159	EXACT			2026-03-13
-713386	81357	40174869	irinotecan hydrochloride 20 MG/ML	904159	EXACT			2026-03-13
+651534	65899	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+662912	70886	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+662913	70886	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+663840	69474	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+672521	70886	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+672522	70886	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+713383	81357	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+713384	81357	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+713385	81357	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+713386	81357	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
 713507	1161130001	35603075	10 ML irinotecan hydrochloride liposome 4.3 MG/ML Injection [Onivyde]	1719777	EXACT			2025-12-04
-714971	81771	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-714972	81771	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-721719	83108	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-721721	83108	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-721722	83108	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-721723	83108	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-727588	81771	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-727589	81771	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-728499	85081	19017121	irinotecan hydrochloride	153329				2026-03-13
-728500	85081	19017121	irinotecan hydrochloride	153329				2026-03-13
-728502	85081	19017121	irinotecan hydrochloride	153329				2026-03-13
-728503	85081	19017121	irinotecan hydrochloride	153329				2026-03-13
-762984	88929	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-762985	88929	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-762986	88929	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-762987	88929	35604257	irinotecan hydrochloride 20 MG/ML Injection	1726322	EXACT			2026-03-13
-813063	65899	40174869	irinotecan hydrochloride 20 MG/ML	904159	EXACT			2026-03-13
-814947	65899	40174869	irinotecan hydrochloride 20 MG/ML	904159	EXACT			2026-03-13
-664620	72156	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT			2026-03-13
-664621	72156	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT			2026-03-13
-665600	72390	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT			2026-03-13
-665601	72390	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT			2026-03-13
-687014	75269	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT			2026-03-13
-695778	77972	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT			2026-03-13
-762339	88846	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT			2026-03-13
-762340	88846	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT			2026-03-13
-762341	88846	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT			2026-03-13
-762342	88846	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT			2026-03-13
+714971	81771	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+714972	81771	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+721719	83108	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+721721	83108	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+721722	83108	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+721723	83108	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+727588	81771	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+727589	81771	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+728499	85081	19017121	irinotecan hydrochloride	153329	BROAD	no local 1.5 MG/ML infusion bag concept found	180 ML irinotecan hydrochloride 1.5 MG/ML Injection	2026-03-15
+728500	85081	19017121	irinotecan hydrochloride	153329	BROAD	no local 1.5 MG/ML infusion bag concept found	200 ML irinotecan hydrochloride 1.5 MG/ML Injection	2026-03-15
+728502	85081	19017121	irinotecan hydrochloride	153329	BROAD	no local 1.5 MG/ML infusion bag concept found	220 ML irinotecan hydrochloride 1.5 MG/ML Injection	2026-03-15
+728503	85081	19017121	irinotecan hydrochloride	153329	BROAD	no local 1.5 MG/ML infusion bag concept found	240 ML irinotecan hydrochloride 1.5 MG/ML Injection	2026-03-15
+762984	88929	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+762985	88929	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+762986	88929	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+762987	88929	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+813063	65899	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+814947	65899	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+664620	70539	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+664621	70539	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+665600	71494	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+665601	71494	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+687014	70539	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+695778	70539	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+762339	88697	35604254	2 ML irinotecan hydrochloride 20 MG/ML Injection	1726319	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+762340	88697	35604259	5 ML irinotecan hydrochloride 20 MG/ML Injection	1726324	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+762341	88697	35604261	15 ML irinotecan hydrochloride 20 MG/ML Injection	1726333	EXACT	volume-specific irinotecan injection concept available		2026-03-15
+762342	88697	35604285	25 ML irinotecan hydrochloride 20 MG/ML Injection	1726492	EXACT	volume-specific irinotecan injection concept available		2026-03-15

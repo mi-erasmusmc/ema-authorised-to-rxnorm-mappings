@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-698853	107433002	43011910	nepafenac 3 MG/ML Ophthalmic Suspension	1362132	EXACT			2025-12-04
-704372	107433003	43011910	nepafenac 3 MG/ML Ophthalmic Suspension	1362132	EXACT			2025-12-04
+698853	107433002	36275198	nepafenac 3 MG/ML Ophthalmic Suspension [Nevanac]	1243700	EXACT			2026-03-15
+704372	107433003	36275198	nepafenac 3 MG/ML Ophthalmic Suspension [Nevanac]	1243700	EXACT			2026-03-15
 688045	07433001	19122722	nepafenac 1 MG/ML Ophthalmic Suspension [Nevanac]	603978	EXACT			2026-03-13
 709887	07433001IP	19122722	nepafenac 1 MG/ML Ophthalmic Suspension [Nevanac]	603978	EXACT			2026-03-13
 764690	107433003IP1	36275198	nepafenac 3 MG/ML Ophthalmic Suspension [Nevanac]	OMOP3126073	EXACT			2026-03-13

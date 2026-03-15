@@ -1,28 +1,28 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-672240	72659	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-672241	72659	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-704168	79224	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-704170	79224	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-709947	80644	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-709952	80644	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-711147	80947	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-711149	80947	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-713528	81394	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-716110	82002	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-722064	83205	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-722068	83205	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-727241	84595	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-727243	84595	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-727689	84770	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-727690	84770	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-729168	85410	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-729522	85716	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
+672240	72571	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+672241	72571	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+704168	79179	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+704170	79179	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+709947	80644	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+709952	80644	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+711147	80947	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+711149	80947	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+713528	81394	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+716110	81394	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+722064	83205	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+722068	83205	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+727241	84595	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+727243	84595	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+727689	84770	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+727690	84770	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+729168	84770	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+729522	84770	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
 757975	86779	35604027	bendamustine hydrochloride 25 MG/ML Injectable Solution	1726097	EXACT			2026-03-13
-704165	79224	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-704167	79224	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-707285	80092	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-707287	80092	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
-720408	82796	35604027	bendamustine hydrochloride 25 MG/ML Injectable Solution	1726097	EXACT			2026-03-13
-723964	83576	35604027	bendamustine hydrochloride 25 MG/ML Injectable Solution	1726097	EXACT			2026-03-13
-757414	87919	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 25 MG Injection	2026-03-13
-758105	88011	36889336	bendamustine 2.5 MG/ML	OMOP1002685	BROAD	Powder-for-infusion vial; RxNorm only exposes broader concentration-level bendamustine concepts for this line.	bendamustine 100 MG Injection	2026-03-13
+704165	79178	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+704167	79178	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+707285	80081	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+707287	80081	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15
+720408	82784	35604027	bendamustine hydrochloride 25 MG/ML Injectable Solution	1726097	EXACT			2026-03-15
+723964	83569	35604027	bendamustine hydrochloride 25 MG/ML Injectable Solution	1726097	EXACT			2026-03-15
+757414	87928	40221002	bendamustine hydrochloride 25 MG Injection	1805007	EXACT			2026-03-15
+758105	87928	40220996	bendamustine hydrochloride 100 MG Injection	1805001	EXACT			2026-03-15

@@ -1,21 +1,21 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-719696	82586	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT			2026-03-13
+719696	82586	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT	volume-specific 2 mL dexmedetomidine concentrate concept available		2026-03-15
 719698	82586	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
 719700	82586	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
-726425	84372	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT			2026-03-13
-727838	84826	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT			2026-03-13
-728065	84902	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
+726425	84372	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT	volume-specific 2 mL dexmedetomidine concentrate concept available		2026-03-15
+727838	84826	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT	volume-specific 2 mL dexmedetomidine concentrate concept available		2026-03-15
+728065	84902	35603042	50 ML dexmedetomidine 0.004 MG/ML Injection	1718906	EXACT	source is 4 mcg/mL in 50 mL perfusion solution		2026-03-15
 728445	82586	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
 728446	82586	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
 729506	84826	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
 729747	84372	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
-765455	89735	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
+765455	89735	35603042	50 ML dexmedetomidine 0.004 MG/ML Injection	1718906	EXACT	source is 4 mcg/mL in 50 mL perfusion solution		2026-03-15
 766191	82586	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
 685417	11718006	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
-685418	11718002	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT			2026-03-13
+685418	11718002	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT	volume-specific 2 mL dexmedetomidine concentrate concept available		2026-03-15
 720027	11718006	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
-728504	1191418	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
+728504	1191418	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT	volume-specific 2 mL dexmedetomidine concentrate concept available		2026-03-15
 728506	1191418	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
-729276	85428	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
+729276	85428	19076175	2 ML dexmedetomidine 0.1 MG/ML Injection	309710	EXACT	volume-specific 2 mL dexmedetomidine concentrate concept available		2026-03-15
 729279	85428	35604437	dexmedetomidine 0.1 MG/ML Injectable Solution	1788947	EXACT			2026-03-13
-765456	89736	35603040	dexmedetomidine 0.004 MG/ML Injection	1718903	BROAD	RxNorm does not expose the matching 8 micrograms/mL 50 mL perfusion presentation.	50 ML dexmedetomidine 0.008 MG/ML Injection	2026-03-13
+765456	89736	35603040	dexmedetomidine 0.004 MG/ML Injection	1718903	BROAD	no local exact 50 mL dexmedetomidine 0.008 MG/ML perfusion concept found	50 ML dexmedetomidine 0.008 MG/ML Injection	2026-03-15

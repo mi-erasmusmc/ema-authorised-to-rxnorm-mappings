@@ -1,51 +1,51 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-700538	62668	1593837	fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler	1918206	EXACT			
-700539	62669	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			2026-03-12
-700543	62840	1593837	fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler	1918206	EXACT			
-700544	62841	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			2026-03-12
-700545	62868	1593837	fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler	1918206	EXACT			
-700546	62869	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			2026-03-12
-707896	80248	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT			2026-03-12
-712329	81181	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			
+700538	62668	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+700539	62669	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+700543	62840	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+700544	62841	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+700545	62868	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+700546	62869	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+707896	80248	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+712329	81181	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			2026-03-15
 712330	81182	2071131	fluticasone 0.25 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972701	EXACT			2026-03-12
-713721	1161122001	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			2026-03-12
-714997	81790	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT			2026-03-12
-715006	81791	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			2026-03-12
-724210	83644	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT			
-730581	85847	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT			2026-03-12
-730585	85848	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			2026-03-12
-730593	85851	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT			
-730594	85852	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT			
-730595	85853	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			
-730928	1211533001	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	Salmeterol 12.75 MCG delivered dose does not match standard RxNorm strengths (50 MCG/ACTUAT); needs dose verification		2026-02-11
-730997	1211533003	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	Salmeterol 12.75 MCG delivered dose; fluticasone 202 MCG does not match standard RxNorm strengths; needs dose verification		2026-02-11
-731103	1211534001	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	Salmeterol 12.75 MCG delivered dose does not match standard RxNorm strengths (50 MCG/ACTUAT); needs dose verification		2026-02-11
-731104	1211534003	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	Salmeterol 12.75 MCG delivered dose; fluticasone 202 MCG does not match standard RxNorm strengths; needs dose verification		2026-02-11
-804732	62667	1593837	fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler	1918206	EXACT			
+713721	1161122001	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+714997	81790	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+715006	81791	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+724210	83644	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+730581	85847	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+730585	85848	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+730593	85851	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT	normalized to matching 50/100 dry powder inhaler strength		2026-03-15
+730594	85852	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+730595	85853	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+730928	1211533001	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	delivered-dose Spiromax presentation does not match standard RxNorm salmeterol/fluticasone strengths exactly	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	2026-03-15
+730997	1211533003	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	delivered-dose Spiromax presentation does not match standard RxNorm salmeterol/fluticasone strengths exactly	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	2026-03-15
+731103	1211534001	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	delivered-dose Spiromax presentation does not match standard RxNorm salmeterol/fluticasone strengths exactly	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	2026-03-15
+731104	1211534003	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	delivered-dose Spiromax presentation does not match standard RxNorm salmeterol/fluticasone strengths exactly	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	2026-03-15
+804732	62667	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT	normalized to matching 50/100 dry powder inhaler strength		2026-03-15
 813089	63923	2071133	fluticasone 0.05 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972703	EXACT			2026-03-12
-816264	63924	2071113	fluticasone 0.125 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972683	EXACT			
-817684	63925	2071131	fluticasone 0.25 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972701	EXACT			
-842898	62839	1593837	fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler	1918206	EXACT			
-848671	62867	1593837	fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler	1918206	EXACT			
-874354	63796	42902807	fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359920	EXACT			
-874578	63797	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			
-874586	63798	42902703	fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359816	EXACT			
+816264	63924	2071113	fluticasone 0.125 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972683	EXACT			2026-03-15
+817684	63925	2071131	fluticasone 0.25 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972701	EXACT			2026-03-15
+842898	62839	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT	normalized to matching 50/100 dry powder inhaler strength		2026-03-15
+848671	62867	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT	normalized to matching 50/100 dry powder inhaler strength		2026-03-15
+874354	63796	42902807	fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359920	EXACT			2026-03-15
+874578	63797	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			2026-03-15
+874586	63798	42902703	fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359816	EXACT			2026-03-15
 906842	64064	2071133	fluticasone 0.05 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972703	EXACT			2026-03-12
-909820	64065	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			
-911610	64066	2071131	fluticasone 0.25 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972701	EXACT			
+909820	64065	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			2026-03-15
+911610	64066	2071131	fluticasone 0.25 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972701	EXACT			2026-03-15
 932178	63869	2071133	fluticasone 0.05 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972703	EXACT			2026-03-12
-932228	63870	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			
+932228	63870	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			2026-03-15
 932236	63871	2071131	fluticasone 0.25 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972701	EXACT			2026-03-12
-939959	62842	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT			2026-03-12
-940544	62843	1593837	fluticasone propionate 0.232 MG/ACTUAT / salmeterol 0.014 MG/ACTUAT Dry Powder Inhaler	1918206	EXACT			
-940551	62844	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			
-707904	80249	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			2026-03-12
+939959	62842	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT	normalized to matching 50/100 dry powder inhaler strength		2026-03-15
+940544	62843	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+940551	62844	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+707904	80249	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
 763309	9070IP	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT			2026-03-12
 763551	9069IP	42902807	fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359920	EXACT			2026-03-12
-763682	8324IP	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT			2026-03-12
-763694	8325IP	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT			2026-03-12
-763712	8326IP	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT			2026-03-12
-769013	1410200C	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT			2026-03-12
-769014	1410300C	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	BROAD	Source data inconsistency: des_nomco says 500 mcg but des_dcp and principios_activos say 250 mcg fluticasone; mapped to 50/250 DPI based on majority of source fields		2026-03-12
-769640	506780100	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	BROAD	Dosificación en revisión in source data; 25/125 MDI based on product name		2026-03-12
-769894	1410100C	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	BROAD	Dosificación en revisión in source data; 50/100 DPI based on product name		2026-03-12
+763682	8324IP	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT	normalized to matching 50/100 dry powder inhaler strength		2026-03-15
+763694	8325IP	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+763712	8326IP	42902745	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359858	EXACT	normalized to matching 50/500 dry powder inhaler strength		2026-03-15
+769013	1410200C	42902746	fluticasone propionate 0.25 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359859	EXACT	normalized to matching 50/250 dry powder inhaler strength		2026-03-15
+769014	1410300C	40144020	fluticasone / salmeterol Dry Powder Inhaler	746717	BROAD	des_nomco and des_dcp support 50/500 DPI but principios_activos lists 250 mcg fluticasone	fluticasone propionate 0.5 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	2026-03-15
+769640	506780100	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT	des_nomco and des_dcp support 25/125 MDI despite des_dosific being in review		2026-03-15
+769894	1410100C	42902666	fluticasone propionate 0.1 MG/ACTUAT / salmeterol 0.05 MG/ACTUAT Dry Powder Inhaler	1359779	EXACT	Dosificación en revisión in source data; 50/100 DPI based on product name		2026-03-15
