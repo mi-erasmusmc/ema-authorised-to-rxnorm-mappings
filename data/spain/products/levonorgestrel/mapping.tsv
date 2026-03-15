@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 653694	67515	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
 654322	67770	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
-696907	77169	1718400	levonorgestrel Intrauterine System	1856515	BROAD	No exact strength-specific RxNorm concept was found for this levonorgestrel intrauterine system.	levonorgestrel intrauterine system exact strength-specific concept	2026-03-13
+696907	77169	43012750	levonorgestrel 0.000583 MG/HR Intrauterine System	1366334	EXACT	Jaydess 13.5 mg aligns to the unbranded 0.000583 MG/HR intrauterine system strength.		2026-03-15
 701374	78438	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
 701866	78586	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
 702564	78802	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
@@ -14,16 +14,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 731534	86173	43156619	Levonorgestrel 52 MG Intrauterine Drug Delivery System	OMOP444375	EXACT			2026-03-15
 764386	89381	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
 885905	63158	19132304	levonorgestrel 0.000833 MG/HR Intrauterine System [Mirena]	807283	EXACT			2026-03-13
-702681	78826	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-702682	78826	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-702854	78878	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-703023	78912	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-703179	78945	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-704278	79306	1589509	levonorgestrel 0.75 MG Oral Tablet	259218	EXACT			2026-03-13
-705213	79438	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-728404	85318	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-728944	85507	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-729181	85582	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-732162	86385	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	BROAD	Spain row is bucodispersable; no matching RxNorm disintegrating or chewable levonorgestrel 1.5 MG concept found.	levonorgestrel 1.5 MG Disintegrating Oral Tablet	2026-03-13
-766024	89980	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-13
-807008	95484	1589509	levonorgestrel 0.75 MG Oral Tablet	259218	EXACT			2026-03-13
+702681	3400936413726	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+702682	3400936413726IP	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+702854	3400936413726IP1	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+703023	PL 05276-0019	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+703179	BE277356	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+704278	79217	1589509	levonorgestrel 0.75 MG Oral Tablet	259218	EXACT			2026-03-15
+705213	79530	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+728404	39664-9-6-2015	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+728944	3400936413726IP2	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+729181	3400936413726IP3	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+732162	86379	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	BROAD	Spain row is bucodispersable; no matching RxNorm disintegrating or chewable levonorgestrel 1.5 MG concept found.	levonorgestrel 1.5 MG Disintegrating Oral Tablet	2026-03-15
+766024	3400937307567IP	1589573	levonorgestrel 1.5 MG Oral Tablet	483325	EXACT			2026-03-15
+807008	63738	1589509	levonorgestrel 0.75 MG Oral Tablet	259218	EXACT			2026-03-15

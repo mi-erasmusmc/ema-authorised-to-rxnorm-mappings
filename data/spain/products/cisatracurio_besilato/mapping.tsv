@@ -1,25 +1,25 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-680315	74027	35605392	cisatracurium Injection	1730193	BROAD			2026-03-13
-680316	74027	35605392	cisatracurium Injection	1730193	BROAD			2026-03-13
-680317	74028	35605392	cisatracurium Injection	1730193	BROAD			2026-03-13
-691059	75987	19015728	cisatracurium 5 MG/ML Injectable Solution	249279				2026-03-13
-691112	76000	19016315	cisatracurium 2 MG/ML Injectable Solution	199211				2026-03-13
-691114	76000	19016315	cisatracurium 2 MG/ML Injectable Solution	199211				2026-03-13
-691115	76000	19016315	cisatracurium 2 MG/ML Injectable Solution	199211				2026-03-13
-703886	79117	19016315	cisatracurium 2 MG/ML Injectable Solution	199211				2026-03-13
-703887	79117	19016315	cisatracurium 2 MG/ML Injectable Solution	199211				2026-03-13
-703888	79117	19016315	cisatracurium 2 MG/ML Injectable Solution	199211				2026-03-13
-703889	79118	19015728	cisatracurium 5 MG/ML Injectable Solution	249279				2026-03-13
+680315	74027	35605393	5 ML cisatracurium 2 MG/ML Injection	1730194	EXACT	5 mL single-use presentation has an exact volume-specific injection concept.		2026-03-15
+680316	74027	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 10 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+680317	74028	19015728	cisatracurium 5 MG/ML Injectable Solution	249279	EXACT	No local 30 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+691059	75987	19015728	cisatracurium 5 MG/ML Injectable Solution	249279	EXACT	No local 30 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+691112	76000	35605393	5 ML cisatracurium 2 MG/ML Injection	1730194	EXACT	5 mL single-use presentation has an exact volume-specific injection concept.		2026-03-15
+691114	76000	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 10 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+691115	76000	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 2.5 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+703886	79117	35605393	5 ML cisatracurium 2 MG/ML Injection	1730194	EXACT	5 mL single-use presentation has an exact volume-specific injection concept.		2026-03-15
+703887	79117	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 10 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+703888	79117	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 2.5 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+703889	79118	19015728	cisatracurium 5 MG/ML Injectable Solution	249279	EXACT	No local 30 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
 731342	86087	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT			2026-03-13
 731343	86087	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT			2026-03-13
-677765	73626	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-677773	73626	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-677781	73626	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-677799	73627	19015728	cisatracurium 5 MG/ML Injectable Solution	249279	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-679877	73935	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-679879	73935	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-679880	73935	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-679976	73945	19015728	cisatracurium 5 MG/ML Injectable Solution	249279	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-682529	74187	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-682533	74187	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No volume-specific exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-13
-699834	77996	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	Data row says 2.5 ML in description but des_dosific shows 5 ML; kept same exact 2 MG/ML concept as the rest of this line pending a separate source-data review.		2026-03-13
+677765	61200	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 10 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+677773	61200	35605395	5 ML cisatracurium 2 MG/ML Injection [Nimbex]	1730196	EXACT	5 mL Nimbex ampoule has an exact branded volume-specific injection concept.		2026-03-15
+677781	61200	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 2.5 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+677799	61199	19015728	cisatracurium 5 MG/ML Injectable Solution	249279	EXACT	No local 30 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+679877	73955	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 2.5 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+679879	73955	35605393	5 ML cisatracurium 2 MG/ML Injection	1730194	EXACT	5 mL single-use presentation has an exact volume-specific injection concept.		2026-03-15
+679880	73955	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 10 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+679976	73985	19015728	cisatracurium 5 MG/ML Injectable Solution	249279	EXACT	No local 30 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+682529	74478	35605393	5 ML cisatracurium 2 MG/ML Injection	1730194	EXACT	5 mL single-use presentation has an exact volume-specific injection concept.		2026-03-15
+682533	74478	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 10 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
+699834	74478	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	Data row says 2.5 ML in description but des_dosific shows 5 ML; kept same exact 2 MG/ML concept as the rest of this line pending a separate source-data review.		2026-03-15

@@ -15,15 +15,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 727365	84652	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
 727798	84808	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
 728424	85050	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
-661222	69657	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
-664426	72069	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
-665222	72200	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
-665584	72262	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
-677635	73536	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
-681237	74287	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-13
-723846	83557	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-13
-724064	83616	1314581	nebivolol 10 MG Oral Tablet	751612	EXACT	No matching Insucor brand concept found in RxNorm.		2026-03-13
-728861	85487	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-13
-730757	85898	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-13
-763295	89018	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-13
-769932	90409	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	Source des_dosific is 'En revisión'; product name and clinical description are 5 MG tablet.		2026-03-13
+661222	69943	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
+664426	71823	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
+665222	71564	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
+665584	71607	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
+677635	73792	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
+681237	74239	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT			2026-03-15
+723846	4040	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-15
+724064	83604	1314581	nebivolol 10 MG Oral Tablet	751612	EXACT	No matching Insucor brand concept found in RxNorm.		2026-03-15
+728861	23462-04-04-2012	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-15
+730757	1-21520	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-15
+763295	2293101IP	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	No matching Lobivon brand concept found in RxNorm.		2026-03-15
+769932	2346204042012IP	19101573	nebivolol 5 MG Oral Tablet	387013	EXACT	Source des_dosific is 'En revisión'; product name and clinical description are 5 MG tablet.		2026-03-15

@@ -2,7 +2,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 654515	67853	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
 672287	61494	19131097	polyethylene glycol 3350 420000 MG / potassium chloride 1480 MG / sodium bicarbonate 5720 MG / sodium chloride 11200 MG Powder for Oral Solution	801054	EXACT			2026-03-13
 672295	61494	19131097	polyethylene glycol 3350 420000 MG / potassium chloride 1480 MG / sodium bicarbonate 5720 MG / sodium chloride 11200 MG Powder for Oral Solution	801054	EXACT			2026-03-13
-677290	66557	2936815	polyethylene glycol 3350 6560 MG / potassium chloride 23.3 MG / sodium bicarbonate 89.3 MG / sodium chloride 180 MG Oral Powder	OMOP5153523	BROAD	Lower-strength pediatric-like sachet; no matching strength-specific RxNorm concept found.	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride 6.9 G Powder for Oral Solution	2026-03-13
+677290	66557	2936815	polyethylene glycol 3350 6560 MG / potassium chloride 23.3 MG / sodium bicarbonate 89.3 MG / sodium chloride 180 MG Oral Powder	OMOP5153523	BROAD	Pediatric 6.9 g sachet; no local strength-specific powder-for-oral-solution concept found for this lower-strength macrogol/electrolyte combination.	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride 6.9 G Powder for Oral Solution	2026-03-15
 677291	61494	19131097	polyethylene glycol 3350 420000 MG / potassium chloride 1480 MG / sodium bicarbonate 5720 MG / sodium chloride 11200 MG Powder for Oral Solution	801054	EXACT			2026-03-13
 684885	74839	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
 685618	71116	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
@@ -17,16 +17,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 759116	88263	19131097	polyethylene glycol 3350 420000 MG / potassium chloride 1480 MG / sodium bicarbonate 5720 MG / sodium chloride 11200 MG Powder for Oral Solution	801054	EXACT			2026-03-13
 763305	89021	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
 763306	89021	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-664860	67854	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-678619	73598	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT	des_dosific says 13,8 mg, but the product pattern is the same 13.8 g macrogol/electrolytes sachet used elsewhere in this folder.		2026-03-13
-686764	75116	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-686765	75116	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-695489	77897	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-703183	78947	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-703184	78947	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-708964	80565	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-708965	80565	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-723923	83577	2936815	polyethylene glycol 3350 6560 MG / potassium chloride 23.3 MG / sodium bicarbonate 89.3 MG / sodium chloride 180 MG Oral Powder	OMOP5153523	BROAD	6.9 g pediatric sachet; no matching strength-specific RxNorm concept found.	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride 6.9 G Powder for Oral Solution	2026-03-13
-727561	84903	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-727562	84903	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-13
-741538	87474	19131097	polyethylene glycol 3350 420000 MG / potassium chloride 1480 MG / sodium bicarbonate 5720 MG / sodium chloride 11200 MG Powder for Oral Solution	801054	EXACT			2026-03-13
+664860	71683	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+678619	73446	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT	des_dosific says 13,8 mg, but the product pattern is the same 13.8 g macrogol/electrolytes sachet used elsewhere in this folder.		2026-03-15
+686764	75182	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+686765	75182	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+695489	71683	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+703183	340010-2	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+703184	340010-2	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+708964	340 010-2IP	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+708965	340 010-2IP	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+723923	PL20011-0005IP	2936815	polyethylene glycol 3350 6560 MG / potassium chloride 23.3 MG / sodium bicarbonate 89.3 MG / sodium chloride 180 MG Oral Powder	OMOP5153523	BROAD	Pediatric 6.9 g sachet; no local strength-specific powder-for-oral-solution concept found for this lower-strength macrogol/electrolyte combination.	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride 6.9 G Powder for Oral Solution	2026-03-15
+727561	3400934001024IP1	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+727562	3400934001024IP1	36030894	polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride	815308	EXACT			2026-03-15
+741538	59792	19131097	polyethylene glycol 3350 420000 MG / potassium chloride 1480 MG / sodium bicarbonate 5720 MG / sodium chloride 11200 MG Powder for Oral Solution	801054	EXACT			2026-03-15
