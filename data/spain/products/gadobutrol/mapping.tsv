@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-660441	63898	21124436	gadobutrol 1 MMOL/ML	OMOP260305				2026-03-12
-673954	63535	21124436	gadobutrol 1 MMOL/ML	OMOP260305				2026-03-12
-674119	63535	21124436	gadobutrol 1 MMOL/ML	OMOP260305				2026-03-12
-674598	63535	21124436	gadobutrol 1 MMOL/ML	OMOP260305				2026-03-12
-726570	63898	21124436	gadobutrol 1 MMOL/ML	OMOP260305				2026-03-12
-735506	63898	21124436	gadobutrol 1 MMOL/ML	OMOP260305				2026-03-12
+660441	63898	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific standard RxNorm concept for gadobutrol; mapped to OMOP concentration concept.	gadobutrol 1 MMOL/ML 15 ML Injection	2026-03-15
+673954	63535	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific standard RxNorm concept for gadobutrol; mapped to OMOP concentration concept.	gadobutrol 1 MMOL/ML 15 ML Injection	2026-03-15
+674119	63535	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific standard RxNorm concept for gadobutrol; mapped to OMOP concentration concept.	gadobutrol 1 MMOL/ML 30 ML Injection	2026-03-15
+674598	63535	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific standard RxNorm concept for gadobutrol; mapped to OMOP concentration concept.	gadobutrol 1 MMOL/ML 65 ML Injection	2026-03-15
+726570	63898	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific standard RxNorm concept for gadobutrol; mapped to OMOP concentration concept.	gadobutrol 1 MMOL/ML 5 ML Injection	2026-03-15
+735506	63898	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific standard RxNorm concept for gadobutrol; mapped to OMOP concentration concept.	gadobutrol 1 MMOL/ML 7.5 ML Injection	2026-03-15
 607709	89012	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific concept in RxNorm; mapped to concentration-level concept	gadobutrol 1 MMOL/ML 5 ML Injection	2026-03-12
 607710	89012	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific concept in RxNorm; mapped to concentration-level concept	gadobutrol 1 MMOL/ML 7.5 ML Injection	2026-03-12
 607715	89013	21124436	gadobutrol 1 MMOL/ML	OMOP260305	BROAD	No volume-specific concept in RxNorm; mapped to concentration-level concept	gadobutrol 1 MMOL/ML 7.5 ML Injection	2026-03-12

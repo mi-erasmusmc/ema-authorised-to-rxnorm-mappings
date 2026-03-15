@@ -225,7 +225,7 @@ def audit_folder(folder: Path):
             issues.append(make_issue("NO_CONCEPT", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
         elif not mapping_type:
             issues.append(make_issue("NO_TYPE", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
-        elif mapping_type == "BROAD":
+        elif mapping_type == "BROAD" and not clean(row.get("suggestion", "")):
             issues.append(make_issue("BROAD", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
         elif mapping_type == "EXACT" and needs_volume_review(data_row, concept):
             issues.append(make_issue("REVIEW_VOLUME", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))

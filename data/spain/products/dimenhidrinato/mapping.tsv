@@ -7,12 +7,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 718460	16409	19020367	dimenhydrinate 50 MG Oral Tablet	198603	EXACT			2026-03-13
 783613	20120	19020366	dimenhydrinate 25 MG Oral Tablet	198602	EXACT			2026-03-13
 872440	20120	19020366	dimenhydrinate 25 MG Oral Tablet	198602	EXACT			2026-03-13
-661039	70258	19020366	dimenhydrinate 25 MG Oral Tablet	198602	EXACT			2026-03-13
-665361	72236	19108643	dimenhydrinate 12.5 MG	437253	BROAD	No exact unit-dose oral-solution concept found in RxNorm.	dimenhydrinate 12.5 MG Oral Solution Unit Dose	2026-03-13
-665362	72236	19108643	dimenhydrinate 12.5 MG	437253	BROAD	No exact unit-dose oral-solution concept found in RxNorm.	dimenhydrinate 12.5 MG Oral Solution Unit Dose	2026-03-13
-695761	77967	40036296	dimenhydrinate Oral Solution	371863	BROAD	No exact 24 MG unit-dose oral-solution concept found in RxNorm.	dimenhydrinate 24 MG Oral Solution Unit Dose	2026-03-13
-718437	82334	928805	dimenhydrinate 100 MG Rectal Suppository	247583	EXACT			2026-03-13
-730796	85902	19108643	dimenhydrinate 12.5 MG	437253	BROAD	No exact sachet oral-solution concept found in RxNorm.	dimenhydrinate 12.5 MG Oral Solution Sachet	2026-03-13
-740308	87349	40036296	dimenhydrinate Oral Solution	371863	BROAD	No exact 4 MG/ML oral-solution concept found in RxNorm.	dimenhydrinate 4 MG/ML Oral Solution	2026-03-13
-978478	57838	40036286	dimenhydrinate Chewing Gum	439117	BROAD	RxNorm exposes chewing gum or chewable-tablet concepts, but not an exact 20 MG chewing-gum presentation.	dimenhydrinate 20 MG Chewing Gum	2026-03-13
-978486	57838	40036286	dimenhydrinate Chewing Gum	439117	BROAD	RxNorm exposes chewing gum or chewable-tablet concepts, but not an exact 20 MG chewing-gum presentation.	dimenhydrinate 20 MG Chewing Gum	2026-03-13
+661039	69842	19020366	dimenhydrinate 25 MG Oral Tablet	198602	EXACT			2026-03-15
+665361	72308	19108643	dimenhydrinate 12.5 MG	437253	BROAD	No exact unit-dose oral-solution concept found in RxNorm.	dimenhydrinate 12.5 MG Oral Solution Unit Dose	2026-03-15
+665362	72308	19108643	dimenhydrinate 12.5 MG	437253	BROAD	No exact unit-dose oral-solution concept found in RxNorm.	dimenhydrinate 12.5 MG Oral Solution Unit Dose	2026-03-15
+695761	76942	40036296	dimenhydrinate Oral Solution	371863	BROAD	No exact 24 MG unit-dose oral-solution concept found in RxNorm.	dimenhydrinate 24 MG Oral Solution Unit Dose	2026-03-15
+718437	17434	928805	dimenhydrinate 100 MG Rectal Suppository	247583	EXACT			2026-03-15
+730796	85911	19108643	dimenhydrinate 12.5 MG	437253	BROAD	No exact sachet oral-solution concept found in RxNorm.	dimenhydrinate 12.5 MG Oral Solution Sachet	2026-03-15
+740308	66174	40036296	dimenhydrinate Oral Solution	371863	BROAD	No exact 4 MG/ML oral-solution concept found in RxNorm.	dimenhydrinate 4 MG/ML Oral Solution	2026-03-15
+978478	57681	40036286	dimenhydrinate Chewing Gum	439117	BROAD	RxNorm exposes chewing gum or chewable-tablet concepts, but not an exact 20 MG chewing-gum presentation.	dimenhydrinate 20 MG Chewing Gum	2026-03-15
+978486	57681	40036286	dimenhydrinate Chewing Gum	439117	BROAD	RxNorm exposes chewing gum or chewable-tablet concepts, but not an exact 20 MG chewing-gum presentation.	dimenhydrinate 20 MG Chewing Gum	2026-03-15

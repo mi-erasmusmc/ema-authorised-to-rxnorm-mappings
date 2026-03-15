@@ -26,16 +26,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 999906	59989	40221073	nitroglycerin Transdermal System	1805880	BROAD	10 mg/24h transdermal patch; closest exact pattern elsewhere in folder is 24 HR nitroglycerin 0.4 MG/HR.	24 HR nitroglycerin 0.4 MG/HR Transdermal System	2026-03-13
 999907	59990	19114701	24 HR nitroglycerin 0.6 MG/HR Transdermal System [Minitran]	545278	EXACT			2026-03-13
 601880	62264	40221073	nitroglycerin Transdermal System	1805880	BROAD	15 mg/24h transdermal patch (tipo 1); 15mg/24h=0.625mg/hr; closest RxNorm is 0.6 MG/HR; no exact match	24 HR nitroglycerin 0.6 MG/HR Transdermal System	2026-03-12
-649582	71211	1362392	24 HR nitroglycerin 0.4 MG/HR Transdermal System	486152	EXACT			2026-03-13
-649590	71212	1362360	24 HR nitroglycerin 0.2 MG/HR Transdermal System	486148	EXACT			2026-03-13
+649582	58567	1362392	24 HR nitroglycerin 0.4 MG/HR Transdermal System	486152	EXACT			2026-03-15
+649590	58568	1362360	24 HR nitroglycerin 0.2 MG/HR Transdermal System	486148	EXACT			2026-03-15
 653049	71209	1362392	24 HR nitroglycerin 0.4 MG/HR Transdermal System	486152	EXACT			2026-03-13
-656389	60313	40221073	nitroglycerin Transdermal System	1805880	BROAD	15 mg/24h transdermal patch; closest in RxNorm is 24 HR nitroglycerin 0.6 MG/HR.	24 HR nitroglycerin 0.6 MG/HR Transdermal System	2026-03-13
-656518	60313	40221073	nitroglycerin Transdermal System	1805880	BROAD	15 mg/24h transdermal patch; closest in RxNorm is 24 HR nitroglycerin 0.6 MG/HR.	24 HR nitroglycerin 0.6 MG/HR Transdermal System	2026-03-13
+656389	62264	40221073	nitroglycerin Transdermal System	1805880	BROAD	15 mg/24h transdermal patch; closest in RxNorm is 24 HR nitroglycerin 0.6 MG/HR.	24 HR nitroglycerin 0.6 MG/HR Transdermal System	2026-03-15
+656518	62265	40221073	nitroglycerin Transdermal System	1805880	BROAD	15 mg/24h transdermal patch; closest in RxNorm is 24 HR nitroglycerin 0.6 MG/HR.	24 HR nitroglycerin 0.6 MG/HR Transdermal System	2026-03-15
 663227	55768	19111033	nitroglycerin 0.8 MG	446773	BROAD	No RxNorm nitroglycerin 0.8 MG sublingual tablet concept found.	nitroglycerin 0.8 MG Sublingual Tablet	2026-03-13
 663672	71209	1362392	24 HR nitroglycerin 0.4 MG/HR Transdermal System	486152	EXACT			2026-03-13
 673228	61449	40221073	nitroglycerin Transdermal System	1805880	BROAD	15 mg/24h transdermal patch; closest in RxNorm is 24 HR nitroglycerin 0.6 MG/HR.	24 HR nitroglycerin 0.6 MG/HR Transdermal System	2026-03-13
 700678	55332	1361860	nitroglycerin 1 MG/ML Injectable Solution	245276	BROAD	5 mg/5 ml perfusion row; no 5 ML volume-specific RxNorm concept found for nitroglycerin 1 MG/ML.	5 ML nitroglycerin 1 MG/ML Injection	2026-03-13
 739524	56574	19126352	nitroglycerin 0.4 MG/ACTUAT Mucosal Spray	705129	EXACT			2026-03-13
 971044	57127	19056879	10 ML nitroglycerin 5 MG/ML Injection	237205	EXACT			2026-03-13
-992834	71211	1362392	24 HR nitroglycerin 0.4 MG/HR Transdermal System	486152	EXACT			2026-03-13
-992859	71212	1362360	24 HR nitroglycerin 0.2 MG/HR Transdermal System	486148	EXACT			2026-03-13
+992834	58567	1362392	24 HR nitroglycerin 0.4 MG/HR Transdermal System	486152	EXACT			2026-03-15
+992859	58568	1362360	24 HR nitroglycerin 0.2 MG/HR Transdermal System	486148	EXACT			2026-03-15

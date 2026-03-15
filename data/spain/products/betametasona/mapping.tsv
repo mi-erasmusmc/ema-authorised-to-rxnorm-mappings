@@ -2,14 +2,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 653423	53193	44046204	Betamethasone 0.00064 MG/MG Topical Cream	OMOP1040835	EXACT			2026-03-13
 653424	55041	36889861	Betamethasone 0.00064 MG/MG Topical Ointment	OMOP991494	BROAD	RxNorm ointment strength does not cleanly align to the Spain 0.5 MG/G ointment row.	betamethasone 0.5 MG/G Topical Ointment	2026-03-13
 694626	53193	44046204	Betamethasone 0.00064 MG/MG Topical Cream	OMOP1040835	EXACT			2026-03-13
-709795	80594	920626	betamethasone 0.5 MG/ML Oral Solution	246255				2026-03-13
-806745	40628	19121383	betamethasone 3 MG/ML / betamethasone acetate 3 MG/ML Injectable Suspension	578803				2026-03-13
-656808	68345	19057478	betamethasone 0.5 MG/ML Topical Cream	238920	EXACT			2026-03-13
-700507	78200	19063848	betamethasone 1 MG/ML Topical Solution	250861	EXACT			2026-03-13
-700508	78200	19063848	betamethasone 1 MG/ML Topical Solution	250861	EXACT			2026-03-13
-717017	82290	19018819	betamethasone 1 MG/ML Topical Cream	197407	EXACT			2026-03-13
-718851	82408	40019149	betamethasone Topical Ointment	374614	BROAD	No exact medicated-patch betamethasone concept found in RxNorm.	betamethasone Medicated Patch	2026-03-13
-727917	84863	19018819	betamethasone 1 MG/ML Topical Cream	197407	EXACT			2026-03-13
-779280	92156	19018819	betamethasone 1 MG/ML Topical Cream	197407	EXACT			2026-03-13
-805762	95114	35604710	betamethasone 0.5 MG/ML Topical Spray	1738536	EXACT			2026-03-13
-972786	56288	19057478	betamethasone 0.5 MG/ML Topical Cream	238920	EXACT			2026-03-13
+709795	80594	920626	betamethasone 0.5 MG/ML Oral Solution	246255	EXACT			2026-03-13
+806745	40628	19121383	betamethasone 3 MG/ML / betamethasone acetate 3 MG/ML Injectable Suspension	578803	EXACT			2026-03-13
+656808	41645	19057478	betamethasone 0.5 MG/ML Topical Cream	238920	EXACT			2026-03-13
+700507	45275	19063848	betamethasone 1 MG/ML Topical Solution	250861	EXACT			2026-03-13
+700508	45275	19063848	betamethasone 1 MG/ML Topical Solution	250861	EXACT			2026-03-13
+717017	40576	19018819	betamethasone 1 MG/ML Topical Cream	197407	EXACT			2026-03-13
+718851	82407	40019149	betamethasone Topical Ointment	374614	BROAD	No exact medicated-patch betamethasone concept found in RxNorm.	betamethasone Medicated Patch	2026-03-13
+727917	40206	19018819	betamethasone 1 MG/ML Topical Cream	197407	EXACT			2026-03-13
+779280	40206	19018819	betamethasone 1 MG/ML Topical Cream	197407	EXACT			2026-03-13
+805762	55118	35604710	betamethasone 0.5 MG/ML Topical Spray	1738536	EXACT			2026-03-13
+972786	41645	19057478	betamethasone 0.5 MG/ML Topical Cream	238920	EXACT			2026-03-13

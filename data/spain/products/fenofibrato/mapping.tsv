@@ -1,15 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-651465	66861	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			
-658193	68298	1551870	fenofibrate 160 MG	379822	BROAD			
-660059	69367	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			
-660060	69368	19077245	fenofibrate 200 MG Oral Capsule	310289				
-660061	69369	19077245	fenofibrate 200 MG Oral Capsule	310289				
-663682	63533	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			
-665718	72535	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			
-670133	56864	19103835	fenofibrate 250 MG Extended Release Oral Capsule	411855				
-674662	72705	19077245	fenofibrate 200 MG Oral Capsule	310289				
-674675	72706	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			
-694943	60176	19077245	fenofibrate 200 MG Oral Capsule	310289				
-703894	79122	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			
-734048	86797	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			
-759238	88287	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			
+651465	66861	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			2026-03-15
+658193	68298	1551870	fenofibrate 160 MG	379822	BROAD	No exact 160 MG oral-capsule concept found in local RxNorm; source is a hard capsule.	fenofibrate 160 MG Oral Capsule	2026-03-13
+660059	69367	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			2026-03-15
+660060	69368	19077245	fenofibrate 200 MG Oral Capsule	310289	EXACT			2026-03-13
+660061	69369	19077245	fenofibrate 200 MG Oral Capsule	310289	EXACT			2026-03-13
+663682	63533	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			2026-03-15
+665718	72535	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			2026-03-15
+670133	56864	19103835	fenofibrate 250 MG Extended Release Oral Capsule	411855	EXACT			2026-03-13
+674662	72705	19077245	fenofibrate 200 MG Oral Capsule	310289	EXACT			2026-03-13
+674675	72706	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			2026-03-15
+694943	60176	19077245	fenofibrate 200 MG Oral Capsule	310289	EXACT			2026-03-13
+703894	79122	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			2026-03-15
+734048	86797	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			2026-03-15
+759238	88287	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			2026-03-15

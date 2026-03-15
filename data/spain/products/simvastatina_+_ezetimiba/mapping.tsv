@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650545	66513	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	BROAD			2026-03-12
+650545	66513	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-15
 650682	66571	42708401	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet [Vytorin]	1245430	EXACT			2026-03-12
-654775	66514	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	BROAD			2026-03-12
+654775	66514	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-15
 654776	66570	42708403	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet [Vytorin]	1245441	EXACT			2026-03-12
 708597	80398	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-12
 708599	80400	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-12
@@ -43,20 +43,20 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 720319	82216	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-12
 729501	PA1286-062-002	42708401	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet [Vytorin]	1245430	EXACT			2026-03-12
 729520	PA1286-062-003	42708403	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet [Vytorin]	1245441	EXACT			2026-03-12
-729521	PA1286-062-003IP	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	BROAD			2026-03-12
-729568	PA1286-062-002IP	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	BROAD			2026-03-12
-732462	PA1286-062-002IP1	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	BROAD			2026-03-12
-732607	PA12862-062-002IP2	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	BROAD			2026-03-12
-732613	PA1286-062-003IP1	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	BROAD			2026-03-12
-758533	PA23198-024-003IP	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	BROAD			2026-03-12
-758536	PA23198-024-002IP	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	BROAD			2026-03-12
+729521	PA1286-062-003IP	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-15
+729568	PA1286-062-002IP	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-15
+732462	PA1286-062-002IP1	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-15
+732607	PA12862-062-002IP2	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-15
+732613	PA1286-062-003IP1	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-15
+758533	PA23198-024-003IP	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-15
+758536	PA23198-024-002IP	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-15
 763713	BE286334	42708403	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet [Vytorin]	1245441	EXACT			2026-03-12
 763757	BE286316	42708401	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet [Vytorin]	1245430	EXACT			2026-03-12
 765001	BE286334IP	42708403	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet [Vytorin]	1245441	EXACT			2026-03-12
 765005	BE286316IP	42708401	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet [Vytorin]	1245430	EXACT			2026-03-12
-765844	PA23198024002IP1	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	BROAD			2026-03-12
-765847	PA23198024003IP1	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	BROAD			2026-03-12
-766272	BE286316IP1	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	BROAD			2026-03-12
-766273	BE286334IP1	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	BROAD			2026-03-12
-768612	BE286316IP2	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	BROAD			2026-03-12
-768617	BE286334IP2	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	BROAD			2026-03-12
+765844	PA23198024002IP1	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-15
+765847	PA23198024003IP1	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-15
+766272	BE286316IP1	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-15
+766273	BE286334IP1	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-15
+768612	BE286316IP2	1526479	ezetimibe 10 MG / simvastatin 20 MG Oral Tablet	476349	EXACT			2026-03-15
+768617	BE286334IP2	19112569	ezetimibe 10 MG / simvastatin 40 MG Oral Tablet	476350	EXACT			2026-03-15
