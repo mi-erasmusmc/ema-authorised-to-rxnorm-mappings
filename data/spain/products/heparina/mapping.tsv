@@ -1,13 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607731	58691	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
-607778	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
-608737	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
-641647	58691	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
-673048	56465	2910625	Heparin Sodium Injection	OMOP5127377	EXACT			2026-03-12
+607731	58691	43011826	heparin sodium, porcine 1000 UNT/ML Injectable Solution	1361226	EXACT	AEMPS prospectus warns against allergy to substances of porcine origin; no 5 ML vial-specific concept in RxNorm, but porcine 1000 UNT/ML strength matches exactly		2026-03-15
+607778	56465	43011826	heparin sodium, porcine 1000 UNT/ML Injectable Solution	1361226	EXACT	AEMPS technical sheet states heparin sodium is obtained from porcine intestinal mucosa; no 5 ML vial-specific concept in RxNorm, but porcine 1000 UNT/ML strength matches exactly		2026-03-15
+608737	56465	43011826	heparin sodium, porcine 1000 UNT/ML Injectable Solution	1361226	EXACT	AEMPS technical sheet states heparin sodium is obtained from porcine intestinal mucosa; no 5 ML vial-specific concept in RxNorm, but porcine 1000 UNT/ML strength matches exactly		2026-03-15
+641647	58691	43011826	heparin sodium, porcine 1000 UNT/ML Injectable Solution	1361226	EXACT	AEMPS prospectus warns against allergy to substances of porcine origin; no 5 ML vial-specific concept in RxNorm, but porcine 1000 UNT/ML strength matches exactly		2026-03-15
+673048	56465	43011826	heparin sodium, porcine 1000 UNT/ML Injectable Solution	1361226	EXACT	AEMPS technical sheet states heparin sodium is obtained from porcine intestinal mucosa; no 5 ML vial-specific concept in RxNorm, but porcine 1000 UNT/ML strength matches exactly		2026-03-15
 994657	58678	41210847	heparin 1000 UNT/ML Topical Gel	OMOP2408809	EXACT			2026-03-12
-607732	58693	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT	No 5 ML vial-specific concept in RxNorm; 5000 UNT/ML strength matches exactly		2026-03-12
-607779	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT	No 5 ML vial-specific concept in RxNorm; 5000 UNT/ML strength matches exactly		2026-03-12
-608687	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT			2026-03-13
-641639	58693	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT			2026-03-13
-673049	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT			2026-03-13
+607732	58693	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT	AEMPS prospectus warns against allergy to substances of porcine origin; no 5 ML vial-specific concept in RxNorm, but porcine 5000 UNT/ML strength matches exactly		2026-03-15
+607779	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT	AEMPS technical sheet states heparin sodium is obtained from porcine intestinal mucosa; no 5 ML vial-specific concept in RxNorm, but porcine 5000 UNT/ML strength matches exactly		2026-03-15
+608687	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT	AEMPS technical sheet states heparin sodium is obtained from porcine intestinal mucosa; no 5 ML vial-specific concept in RxNorm, but porcine 5000 UNT/ML strength matches exactly		2026-03-15
+641639	58693	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT	AEMPS prospectus warns against allergy to substances of porcine origin; no 5 ML vial-specific concept in RxNorm, but porcine 5000 UNT/ML strength matches exactly		2026-03-15
+673049	56029	43011850	heparin sodium, porcine 5000 UNT/ML Injectable Solution	1361615	EXACT	AEMPS technical sheet states heparin sodium is obtained from porcine intestinal mucosa; no 5 ML vial-specific concept in RxNorm, but porcine 5000 UNT/ML strength matches exactly		2026-03-15
 994665	58679	40047406	heparinoids Topical Ointment	393530	BROAD	No heparin-specific topical ointment concept in RxNorm; heparin 1000 IU/g cream mapped to heparinoids Topical Ointment	heparin 1000 UNT/G Topical Ointment	2026-03-13
