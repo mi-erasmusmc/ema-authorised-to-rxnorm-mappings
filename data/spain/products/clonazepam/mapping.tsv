@@ -3,7 +3,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 731090	85994	19011608	clonazepam 0.5 MG Oral Tablet [Rivotril]	141953	EXACT			2026-03-13
 731092	85995	798876	clonazepam 1 MG Oral Tablet	197528	EXACT			2026-03-13
 731093	85996	19025738	clonazepam 2 MG Oral Tablet [Rivotril]	201735	EXACT			2026-03-13
-818971	52333	19060330	clonazepam 2.5 MG/ML Oral Solution	246306				2026-03-13
+818971	52333	19060330	clonazepam 2.5 MG/ML Oral Solution	246306	EXACT			2026-03-15
 818997	52334	19011608	clonazepam 0.5 MG Oral Tablet [Rivotril]	141953	EXACT			2026-03-13
 819029	52401	19025738	clonazepam 2 MG Oral Tablet [Rivotril]	201735	EXACT			2026-03-13
 715514	52332	36930961	1 ML clonazepam 1 MG/ML Injection [Rivotril]	OMOP5208585	EXACT			2026-03-13
