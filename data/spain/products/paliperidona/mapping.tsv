@@ -3,61 +3,61 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 711280	114971008	46233819	1.32 ML paliperidone palmitate 311 MG/ML Prefilled Syringe	1650971	EXACT			2025-12-04
 711282	114971010	46233823	2.63 ML paliperidone palmitate 311 MG/ML Prefilled Syringe	1650975	EXACT			2025-12-04
 711288	114971007	46233814	0.88 ML paliperidone palmitate 310 MG/ML Prefilled Syringe	1650966	EXACT			2025-12-04
-721492	83060	19134800	paliperidone 3 MG Extended Release Oral Tablet	844993				2026-03-13
-721493	83061	19134801	paliperidone 6 MG Extended Release Oral Tablet	844994				2026-03-13
-721494	83062	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571				2026-03-13
-721631	83085	19134800	paliperidone 3 MG Extended Release Oral Tablet	844993				2026-03-13
-721638	83086	19134801	paliperidone 6 MG Extended Release Oral Tablet	844994				2026-03-13
-721645	83087	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571				2026-03-13
-721753	83112	19134800	paliperidone 3 MG Extended Release Oral Tablet	844993				2026-03-13
-721754	83113	19134801	paliperidone 6 MG Extended Release Oral Tablet	844994				2026-03-13
-721755	83114	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571				2026-03-13
-721756	83115	19134800	paliperidone 3 MG Extended Release Oral Tablet	844993				2026-03-13
-721757	83116	19134801	paliperidone 6 MG Extended Release Oral Tablet	844994				2026-03-13
-721758	83117	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571				2026-03-13
-722307	83266	19134800	paliperidone 3 MG Extended Release Oral Tablet	844993				2026-03-13
-722308	83267	19134801	paliperidone 6 MG Extended Release Oral Tablet	844994				2026-03-13
-722309	83268	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571				2026-03-13
-722466	83313	19134800	paliperidone 3 MG Extended Release Oral Tablet	844993				2026-03-13
-722467	83314	19134801	paliperidone 6 MG Extended Release Oral Tablet	844994				2026-03-13
-722468	83315	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571				2026-03-13
-723354	83345	19134800	paliperidone 3 MG Extended Release Oral Tablet	844993				2026-03-13
-723355	83346	19134801	paliperidone 6 MG Extended Release Oral Tablet	844994				2026-03-13
-723356	83347	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571				2026-03-13
-723799	107395041	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-723800	107395049	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-723801	107395045	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-730529	85826	19134800	paliperidone 3 MG Extended Release Oral Tablet	844993				2026-03-13
-730538	85827	19134801	paliperidone 6 MG Extended Release Oral Tablet	844994				2026-03-13
-730546	85828	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571				2026-03-13
-731255	86050	42902370	paliperidone palmitate 156 MG/ML Prefilled Syringe	1359483				2026-03-13
-731256	86051	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052				2026-03-13
-731261	86055	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056				2026-03-13
-731717	86243	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052				2026-03-13
-731718	86244	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056				2026-03-13
-731720	86246	42902370	paliperidone palmitate 156 MG/ML Prefilled Syringe	1359483				2026-03-13
+721492	83060	703246	24 HR paliperidone 3 MG Extended Release Oral Tablet	672567	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721493	83061	703248	24 HR paliperidone 6 MG Extended Release Oral Tablet	672569	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721494	83062	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721631	83085	703246	24 HR paliperidone 3 MG Extended Release Oral Tablet	672567	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721638	83086	703248	24 HR paliperidone 6 MG Extended Release Oral Tablet	672569	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721645	83087	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721753	83112	703246	24 HR paliperidone 3 MG Extended Release Oral Tablet	672567	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721754	83113	703248	24 HR paliperidone 6 MG Extended Release Oral Tablet	672569	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721755	83114	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721756	83115	703246	24 HR paliperidone 3 MG Extended Release Oral Tablet	672567	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721757	83116	703248	24 HR paliperidone 6 MG Extended Release Oral Tablet	672569	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+721758	83117	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+722307	83266	703246	24 HR paliperidone 3 MG Extended Release Oral Tablet	672567	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+722308	83267	703248	24 HR paliperidone 6 MG Extended Release Oral Tablet	672569	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+722309	83268	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+722466	83313	703246	24 HR paliperidone 3 MG Extended Release Oral Tablet	672567	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+722467	83314	703248	24 HR paliperidone 6 MG Extended Release Oral Tablet	672569	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+722468	83315	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+723354	83345	703246	24 HR paliperidone 3 MG Extended Release Oral Tablet	672567	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+723355	83346	703248	24 HR paliperidone 6 MG Extended Release Oral Tablet	672569	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+723356	83347	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+723799	107395041	703251	24 HR paliperidone 3 MG Extended Release Oral Tablet [Invega]	686441	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+723800	107395049	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+723801	107395045	703252	24 HR paliperidone 6 MG Extended Release Oral Tablet [Invega]	686443	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+730529	85826	703246	24 HR paliperidone 3 MG Extended Release Oral Tablet	672567	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+730538	85827	703248	24 HR paliperidone 6 MG Extended Release Oral Tablet	672569	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+730546	85828	703250	24 HR paliperidone 9 MG Extended Release Oral Tablet	672571	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+731255	86050	40163884	1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858054	EXACT	Spain labels 100 MG paliperidone as paliperidone palmitate 100 MG in a 1 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+731256	86051	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052	EXACT			2026-03-15
+731261	86055	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056	EXACT			2026-03-15
+731717	86243	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052	EXACT			2026-03-15
+731718	86244	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056	EXACT			2026-03-15
+731720	86246	40163884	1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858054	EXACT	Spain labels 100 MG paliperidone as paliperidone palmitate 100 MG in a 1 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
 732561	1201453007	702608	3.5 ML paliperidone palmitate 312 MG/ML Prefilled Syringe	2570418	EXACT			2025-12-04
 732562	1201453008	702610	5 ML paliperidone palmitate 312 MG/ML Prefilled Syringe	2570420	EXACT			2025-12-04
-733734	86753	43258399	paliperidone Injection	OMOP556491	BROAD	No exact 50 MG/0.5 ML paliperidone palmitate prefilled-syringe concept found in RxNorm.	0.5 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-733735	86754	43258399	paliperidone Injection	OMOP556491	BROAD	No exact 150 MG/1.5 ML paliperidone palmitate prefilled-syringe concept found in RxNorm.	1.5 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-733736	86755	43258399	paliperidone Injection	OMOP556491	BROAD	No exact 100 MG/1 ML paliperidone palmitate prefilled-syringe concept found in RxNorm.	1 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-733737	86756	43258399	paliperidone Injection	OMOP556491	BROAD	No exact 75 MG/0.75 ML paliperidone palmitate prefilled-syringe concept found in RxNorm.	0.75 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
+733734	86753	40163973	0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858048	EXACT	Spain labels 50 MG paliperidone as paliperidone palmitate 100 MG in a 0.5 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+733735	86754	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052	EXACT	Spain labels 150 MG paliperidone as paliperidone palmitate 100 MG in a 1.5 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+733736	86755	40163884	1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858054	EXACT	Spain labels 100 MG paliperidone as paliperidone palmitate 100 MG in a 1 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+733737	86756	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056	EXACT	Spain labels 75 MG paliperidone as paliperidone palmitate 100 MG in a 0.75 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
 764767	1241795001	40163942	0.25 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858073	EXACT			2025-12-04
 764769	1241795003	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056	EXACT			2025-12-04
 764770	1241795004	40163884	1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858054	EXACT			2025-12-04
 764771	1241795005	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052	EXACT			2025-12-04
 764772	1241795002	40163973	0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858048	EXACT			2025-12-04
-764862	89538	40165674	paliperidone Prefilled Syringe	858047	BROAD	No exact 50 MG/0.5 ML paliperidone palmitate prefilled-syringe concept found in RxNorm.	0.5 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-764863	89539	40165674	paliperidone Prefilled Syringe	858047	BROAD	No exact 75 MG/0.75 ML paliperidone palmitate prefilled-syringe concept found in RxNorm.	0.75 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-764864	89540	35130726	paliperidone 100 MG Prefilled Syringe	OMOP4787974				2026-03-13
-764865	89541	42902370	paliperidone palmitate 156 MG/ML Prefilled Syringe	1359483	EXACT			2026-03-13
-663333	107395041	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2026-03-13
-663334	107395045	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-13
-666335	107395049	19134820	paliperidone 9 MG Extended Release Oral Tablet [Invega]	845012	EXACT			2026-03-13
-700659	78196	43258399	paliperidone Injection	OMOP556491	BROAD	No exact 50 MG/0.5 ML Xeplion prefilled-syringe concept found in RxNorm.	0.5 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-700660	78197	43258399	paliperidone Injection	OMOP556491	BROAD	No exact 75 MG/0.75 ML Xeplion prefilled-syringe concept found in RxNorm.	0.75 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-700661	78198	43258399	paliperidone Injection	OMOP556491	BROAD	No exact 100 MG/1 ML Xeplion prefilled-syringe concept found in RxNorm.	1 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-700662	78199	43258399	paliperidone Injection	OMOP556491	BROAD	No exact 150 MG/1.5 ML Xeplion prefilled-syringe concept found in RxNorm.	1.5 ML paliperidone palmitate 100 MG/ML Prefilled Syringe	2026-03-13
-766405	89920	19134820	paliperidone 9 MG Extended Release Oral Tablet [Invega]	845012	EXACT			2026-03-13
-767306	90171	19134820	paliperidone 9 MG Extended Release Oral Tablet [Invega]	845012	EXACT			2026-03-13
-767307	90172	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-13
+764862	89538	40163973	0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858048	EXACT	Spain labels 50 MG paliperidone as paliperidone palmitate 100 MG in a 0.5 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+764863	89539	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056	EXACT	Spain labels 75 MG paliperidone as paliperidone palmitate 100 MG in a 0.75 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+764864	89540	40163884	1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858054	EXACT	Spain labels 100 MG paliperidone as paliperidone palmitate 100 MG in a 1 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+764865	89541	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052	EXACT	Spain labels 150 MG paliperidone as paliperidone palmitate 100 MG in a 1.5 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+663333	07395001	703251	24 HR paliperidone 3 MG Extended Release Oral Tablet [Invega]	686441	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+663334	07395006	703252	24 HR paliperidone 6 MG Extended Release Oral Tablet [Invega]	686443	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+666335	07395011	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+700659	11672002	40163973	0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858048	EXACT	Spain labels 50 MG paliperidone as paliperidone palmitate 100 MG in a 0.5 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+700660	11672003	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056	EXACT	Spain labels 75 MG paliperidone as paliperidone palmitate 100 MG in a 0.75 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+700661	11672004	40163884	1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858054	EXACT	Spain labels 100 MG paliperidone as paliperidone palmitate 100 MG in a 1 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+700662	11672005	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052	EXACT	Spain labels 150 MG paliperidone as paliperidone palmitate 100 MG in a 1.5 ML prefilled syringe; RxNorm's exact standard concept is the palmitate 156 MG/ML syringe.		2026-03-15
+766405	107395049IP	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+767306	107395049IP1	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+767307	107395045IP	703252	24 HR paliperidone 6 MG Extended Release Oral Tablet [Invega]	686443	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15

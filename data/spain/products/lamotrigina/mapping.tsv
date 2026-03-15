@@ -1,70 +1,70 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652414	67134	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-652415	67135	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
-652416	67136	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-652417	67136	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
+652414	67134	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
+652415	67135	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
+652416	67136	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+652417	67136	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
 652418	67137	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
 652419	67137	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
 652422	67137	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652428	67141	19069199	lamotrigine 25 MG Oral Tablet	282401				2026-03-12
-652450	67150	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-652455	67151	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
-652456	67152	705110	lamotrigine 200 MG Oral Tablet	198429				2026-03-12
-652590	67176	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-652591	67177	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
-652592	67178	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
+652428	67141	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-15
+652450	67150	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+652455	67151	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
+652456	67152	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	EXACT			2026-03-15
+652590	67176	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+652591	67177	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
+652592	67178	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
 652863	67318	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
 652864	67318	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
 652865	67318	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652866	67319	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-652868	67319	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-652869	67320	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
-652870	67321	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-652916	67350	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
-652919	67351	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-652921	67352	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-656062	66695	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-656063	66696	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
-656068	66697	19069199	lamotrigine 25 MG Oral Tablet	282401				2026-03-12
-656069	66698	705110	lamotrigine 200 MG Oral Tablet	198429				2026-03-12
-658804	68643	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-658805	68644	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
-658806	68645	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-668798	61561	19107590	lamotrigine 5 MG Oral Tablet	432735				2026-03-12
+652866	67319	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+652868	67319	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+652869	67320	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
+652870	67321	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
+652916	67350	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
+652919	67351	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
+652921	67352	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+656062	66695	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+656063	66696	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
+656068	66697	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-15
+656069	66698	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	EXACT			2026-03-15
+658804	68643	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+658805	68644	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
+658806	68645	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
+668798	61561	19024856	lamotrigine 5 MG Tablet for Oral Suspension [Lamictal]	201239	EXACT	Spain source is chewable/dispersible; Tablet for Oral Suspension is closer than plain Oral Tablet in current RxNorm.		2026-03-15
 668962	61569	19135489	lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal]	849051	EXACT			2026-03-12
-670851	61568	19006207	lamotrigine 100 MG Oral Tablet [Lamictal]	105018				2026-03-12
+670851	61568	19135487	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
 670901	61563	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-670919	61562	19006206	lamotrigine 50 MG Oral Tablet [Lamictal]	105017				2026-03-12
+670919	61562	19135490	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
 703173	64391	705191	lamotrigine 2 MG Tablet for Oral Suspension [Lamictal]	542426	EXACT			2026-03-12
 715230	81816	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-715232	81817	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-715233	81818	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
-715234	81819	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-717199	64462	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
+715232	81817	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+715233	81818	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
+715234	81819	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
+717199	64462	19004988	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
 717215	64463	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-718163	64464	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-721872	61561	19107590	lamotrigine 5 MG Oral Tablet	432735				2026-03-12
+718163	64464	19004991	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
+721872	61561	19024856	lamotrigine 5 MG Tablet for Oral Suspension [Lamictal]	201239	EXACT	Spain source is chewable/dispersible; Tablet for Oral Suspension is closer than plain Oral Tablet in current RxNorm.		2026-03-15
 731494	61563	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-731495	61568	19006207	lamotrigine 100 MG Oral Tablet [Lamictal]	105018				2026-03-12
+731495	61568	19135487	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
 731557	61569	19135489	lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal]	849051	EXACT			2026-03-12
-731558	61562	19006206	lamotrigine 50 MG Oral Tablet [Lamictal]	105017				2026-03-12
-731559	64464	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-731560	64462	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
+731558	61562	19135490	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
+731559	64464	19004991	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
+731560	64462	19004988	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
 731563	63747	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-731566	65284	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
+731566	65284	19004991	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
 731567	63288	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-731568	64943	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
+731568	64943	19004988	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
 731573	64463	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
 731574	65283	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-764612	89454	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
+764612	89454	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
 764614	89456	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-764617	89455	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-764618	89453	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
-764619	89453	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
+764617	89455	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
+764618	89453	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
+764619	89453	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
 769620	65283	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-770941	65284	705152	lamotrigine 50 MG Oral Tablet	199322				2026-03-12
+770941	65284	19004991	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
 779082	61569	19135489	lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal]	849051	EXACT			2026-03-12
-794396	64943	705108	lamotrigine 100 MG Oral Tablet	198427				2026-03-12
+794396	64943	19004988	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
 916791	63288	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
 917310	63747	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
 652430	67142	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-12
@@ -79,7 +79,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 672870	73095	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-12
 672871	73095	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-12
 672872	73097	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	EXACT			2026-03-12
-672874	73091	19107590	lamotrigine 5 MG Oral Tablet	432735	EXACT			2026-03-12
+672874	73091	705161	lamotrigine 5 MG Tablet for Oral Suspension	311265	EXACT	Spain source is dispersible/chewable; Tablet for Oral Suspension is closer than plain Oral Tablet in current RxNorm.		2026-03-15
 673268	67143	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-12
 732634	33122.02.00	19135490	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-12
 732635	33122.03.00	19135487	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-12

@@ -23,7 +23,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698730	77777	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
 698733	77778	40236492	methylphenidate hydrochloride 54 MG Extended Release Oral Tablet [Concerta]	1091214	EXACT			2026-03-14
 698734	77779	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
-701408	78453	40066568	methylphenidate Extended Release Oral Capsule	374655	BROAD	RxNorm does not expose the exact 50/50 release 50 MG capsule.	50/50 Release 24 HR methylphenidate hydrochloride 50 MG Extended Release Oral Capsule	2026-03-15
+701408	78453	40066568	methylphenidate Extended Release Oral Capsule	1040029	BROAD	No 50/50 Release 50 MG concept exists in RxNorm; 50/50 profile products come in 10–40 and 60 MG only.	50/50 Release 24 HR methylphenidate hydrochloride 50 MG Extended Release Oral Capsule	2026-03-15
 701410	78454	40221129	50/50 Release 24 HR methylphenidate hydrochloride 60 MG Extended Release Oral Capsule	1806185	EXACT			2026-03-15
 703444	79007	40236427	methylphenidate hydrochloride 18 MG Extended Release Oral Tablet [Concerta]	1091159	EXACT			2026-03-14
 703446	79008	40236470	methylphenidate hydrochloride 36 MG Extended Release Oral Tablet [Concerta]	1091189	EXACT			2026-03-14
