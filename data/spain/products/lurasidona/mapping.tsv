@@ -2,12 +2,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 716974	114913016	36050776	lurasidone 74 MG Oral Tablet	OMOP4982802	EXACT			2025-12-04
 716975	114913009	36057303	lurasidone 37 MG Oral Tablet	OMOP4982816	EXACT			2025-12-04
 716976	114913002	42707650	lurasidone hydrochloride 20 MG Oral Tablet [Latuda]	1235249	EXACT			2025-12-04
-764462	89405	42707649	lurasidone hydrochloride 20 MG Oral Tablet	1235247				
-764463	89407	36057303	lurasidone 37 MG Oral Tablet	OMOP4982816				
-764465	89408	36050776	lurasidone 74 MG Oral Tablet	OMOP4982802				
+764462	89405	42707649	lurasidone hydrochloride 20 MG Oral Tablet	1235247	EXACT	Spain labels 18.5 MG (base equivalent); RxNorm uses 20 MG hydrochloride salt form.		2026-03-15
+764463	89407	40231370	lurasidone hydrochloride 40 MG Oral Tablet	1040031	EXACT	Spain labels 37 MG (base equivalent); RxNorm uses 40 MG hydrochloride salt form.		2026-03-15
+764465	89408	40231374	lurasidone hydrochloride 80 MG Oral Tablet	1040041	EXACT	Spain labels 74 MG (base equivalent); RxNorm uses 80 MG hydrochloride salt form.		2026-03-15
 765439	89729	42707649	lurasidone hydrochloride 20 MG Oral Tablet	1235247	EXACT			
 765440	89730	40231370	lurasidone hydrochloride 40 MG Oral Tablet	1040031	EXACT			
-765441	89731	36050776	lurasidone 74 MG Oral Tablet	OMOP4982802				
-765697	89812	42707649	lurasidone hydrochloride 20 MG Oral Tablet	1235247				
-765698	89813	36057303	lurasidone 37 MG Oral Tablet	OMOP4982816				
-765699	89814	36050776	lurasidone 74 MG Oral Tablet	OMOP4982802				
+765441	89731	40231374	lurasidone hydrochloride 80 MG Oral Tablet	1040041	EXACT	Spain labels 74 MG (base equivalent); RxNorm uses 80 MG hydrochloride salt form.		2026-03-15
+765697	89812	42707649	lurasidone hydrochloride 20 MG Oral Tablet	1235247	EXACT	Spain labels 18.5 MG (base equivalent); RxNorm uses 20 MG hydrochloride salt form.		2026-03-15
+765698	89813	40231370	lurasidone hydrochloride 40 MG Oral Tablet	1040031	EXACT	Spain labels 37 MG (base equivalent); RxNorm uses 40 MG hydrochloride salt form.		2026-03-15
+765699	89814	40231374	lurasidone hydrochloride 80 MG Oral Tablet	1040041	EXACT	Spain labels 74 MG (base equivalent); RxNorm uses 80 MG hydrochloride salt form.		2026-03-15
