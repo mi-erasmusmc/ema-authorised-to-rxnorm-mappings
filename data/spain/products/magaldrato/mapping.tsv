@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 647693	41134	40059794	magaldrate Chewable Tablet	372666	BROAD	RxNorm does not contain magaldrate 450 MG Chewable Tablet.	magaldrate 450 MG Chewable Tablet	2026-03-13
 656649	41134	40059794	magaldrate Chewable Tablet	372666	BROAD	RxNorm does not contain magaldrate 450 MG Chewable Tablet.	magaldrate 450 MG Chewable Tablet	2026-03-13
-684902	60765	40059796	magaldrate Oral Suspension	372667	BROAD	Gel oral sachet; RxNorm does not contain magaldrate 2000 MG Oral Gel.	magaldrate 2000 MG Oral Gel	2026-03-13
-973388	57295	40059796	magaldrate Oral Suspension	372667	BROAD	Gel oral sachet; RxNorm does not contain magaldrate 800 MG Oral Gel.	magaldrate 800 MG Oral Gel	2026-03-13
+684902	60765	19000824	magaldrate 160 MG/ML Oral Suspension	102104	BROAD	Pre-formed gel sachet 12.5 ml (160 MG/ML); RxNorm lacks Oral Gel dose form.	magaldrate 160 MG/ML Oral Gel	2026-03-15
+973388	57295	908388	magaldrate 80 MG/ML Oral Suspension	249681	BROAD	Pre-formed gel sachet 10 ml (80 MG/ML); RxNorm lacks Oral Gel dose form.	magaldrate 80 MG/ML Oral Gel	2026-03-15
