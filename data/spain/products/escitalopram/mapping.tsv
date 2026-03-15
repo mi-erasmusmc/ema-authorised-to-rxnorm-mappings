@@ -58,8 +58,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 677692	71651	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
 677693	71649	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT		 	2026-03-12
 677694	71656	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
-678928	73345	36882056	Escitalopram 12.8 MG Oral Tablet	OMOP991454	EXACT		 	2026-03-12
-678930	73347	36880120	Escitalopram 25.5 MG Oral Tablet	OMOP1000571	EXACT		 	2026-03-12
+678928	73345	715940	escitalopram 10 MG Oral Tablet	349332	EXACT	Spain labels the clinical strength as 10 mg escitalopram; base-strength tablet concept is the defensible exact match, not the 12.8 mg oxalate-equivalent concept.		2026-03-15
+678930	73347	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT	Spain labels the clinical strength as 20 mg escitalopram; base-strength tablet concept is the defensible exact match, not the 25.5 mg oxalate-equivalent concept.		2026-03-15
 682803	74531	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
 682805	74532	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
 682808	74533	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
@@ -142,18 +142,18 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 700132	78092	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
 700449	78235	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
 700451	78237	21153902	Escitalopram 20 MG/ML Oral Solution	OMOP255301	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
-700970	78315	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
-700972	78315	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+700970	78315	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT	source labels escitalopram 10 mg; 12.8 mg is oxalate-equivalent salt amount	 	2026-03-15
+700972	78315	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT	source labels escitalopram 10 mg; 12.8 mg is oxalate-equivalent salt amount	 	2026-03-15
 700973	78303	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
 700974	78303	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
-700975	78304	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511	EXACT		 	2026-03-12
-700976	78304	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511	EXACT		 	2026-03-12
+700975	78304	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT	source labels escitalopram 20 mg; 25.5 mg is oxalate-equivalent salt amount	 	2026-03-15
+700976	78304	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT	source labels escitalopram 20 mg; 25.5 mg is oxalate-equivalent salt amount	 	2026-03-15
 701231	78386	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
 701232	78386	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
 701236	78387	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
 701237	78387	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
-701662	78520	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
-701663	78520	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+701662	78520	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT	source labels escitalopram 10 mg; 12.8 mg is oxalate-equivalent salt amount	 	2026-03-15
+701663	78520	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT	source labels escitalopram 10 mg; 12.8 mg is oxalate-equivalent salt amount	 	2026-03-15
 701666	78521	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
 701667	78521	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
 701668	78522	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT	upgraded from escitalopram ingredient	 	2026-03-12
@@ -164,18 +164,18 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 701897	78597	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT		 	2026-03-12
 701898	78598	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT		 	2026-03-12
 701899	78598	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT		 	2026-03-12
-701915	78605	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+701915	78605	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT	source labels escitalopram 10 mg; 12.8 mg is oxalate-equivalent salt amount	 	2026-03-15
 701916	78606	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
-701918	78608	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511	EXACT		 	2026-03-12
+701918	78608	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT	source labels escitalopram 20 mg; 25.5 mg is oxalate-equivalent salt amount	 	2026-03-15
 702764	78855	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
 702765	78855	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
 702766	78856	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
 702767	78856	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
 702768	78857	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
 702769	78857	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
-706939	78605	43751289	Escitalopram 12.8 MG Disintegrating Oral Tablet	OMOP900510	EXACT		 	2026-03-12
+706939	78605	44045727	Escitalopram 10 MG Disintegrating Oral Tablet	OMOP1040358	EXACT	source labels escitalopram 10 mg; 12.8 mg is oxalate-equivalent salt amount	 	2026-03-15
 706940	78606	853969	escitalopram 15 MG Disintegrating Oral Tablet	OMOP5576877	EXACT	upgraded from escitalopram Oral Tablet	 	2026-03-12
-706941	78608	43607340	Escitalopram 25.5 MG Disintegrating Oral Tablet	OMOP900511	EXACT		 	2026-03-12
+706941	78608	43823333	Escitalopram 20 MG Disintegrating Oral Tablet	OMOP900998	EXACT	source labels escitalopram 20 mg; 25.5 mg is oxalate-equivalent salt amount	 	2026-03-15
 711005	75226	19098166	escitalopram 20 MG Oral Tablet	351250	EXACT		 	2026-03-12
 711006	75224	715940	escitalopram 10 MG Oral Tablet	349332	EXACT		 	2026-03-12
 711007	75225	36882055	Escitalopram 15 MG Oral Tablet	OMOP1006513	EXACT	corrected from escitalopram 20 MG	 	2026-03-12
