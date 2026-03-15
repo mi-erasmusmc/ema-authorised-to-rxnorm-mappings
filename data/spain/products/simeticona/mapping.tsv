@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 698277	77616	40083582	simethicone Oral Capsule	373880	BROAD			
-771196	64567	19103983	simethicone 250 MG Oral Capsule	412111				
+771196	64567	19103983	simethicone 250 MG Oral Capsule	412111	EXACT			2026-03-15
 658631	68549	40083582	simethicone Oral Capsule	373880	BROAD	No 240 MG strength-specific oral capsule concept in RxNorm	simethicone 240 MG Oral Capsule	2026-03-12
 659283	68941	40083582	simethicone Oral Capsule	373880	BROAD	No 120 MG strength-specific oral capsule concept in RxNorm	simethicone 120 MG Oral Capsule	2026-03-12
 659285	68941	40083582	simethicone Oral Capsule	373880	BROAD	No 120 MG strength-specific oral capsule concept in RxNorm	simethicone 120 MG Oral Capsule	2026-03-12

@@ -2,7 +2,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 653056	71214	1362358	24 HR nitroglycerin 0.6 MG/HR Transdermal System	486146	EXACT			2026-03-13
 653064	71210	1362392	24 HR nitroglycerin 0.4 MG/HR Transdermal System	486152	EXACT			2026-03-13
 656517	60313	1362360	24 HR nitroglycerin 0.2 MG/HR Transdermal System	486148	EXACT			2026-03-13
-658177	68286	40241038	nitroglycerin 0.004 MG/MG Rectal Ointment	1114466				2026-03-13
+658177	68286	40241038	nitroglycerin 0.004 MG/MG Rectal Ointment	995735	EXACT			2026-03-15
 663675	71214	1362358	24 HR nitroglycerin 0.6 MG/HR Transdermal System	486146	EXACT			2026-03-13
 663677	71210	1362392	24 HR nitroglycerin 0.4 MG/HR Transdermal System	486152	EXACT			2026-03-13
 668327	61697	40221073	nitroglycerin Transdermal System	1805880	BROAD	15 mg/24h transdermal patch; closest RxNorm strength-specific patch is 24 HR nitroglycerin 0.6 MG/HR.	24 HR nitroglycerin 0.6 MG/HR Transdermal System	2026-03-13
