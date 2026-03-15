@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-672988	71268	36259654	Hydrochlorothiazide 12.5 MG / nebivolol 5 MG Oral Tablet	OMOP3110529				
-672989	71267	36267371	Hydrochlorothiazide 25 MG / nebivolol 5 MG Oral Tablet	OMOP3118246				
-672990	71256	36259654	Hydrochlorothiazide 12.5 MG / nebivolol 5 MG Oral Tablet	OMOP3110529				
-672991	71255	36267371	Hydrochlorothiazide 25 MG / nebivolol 5 MG Oral Tablet	OMOP3118246				
+672988	71268	36259654	Hydrochlorothiazide 12.5 MG / nebivolol 5 MG Oral Tablet	OMOP3110529	EXACT			2026-03-15
+672989	71267	36267371	Hydrochlorothiazide 25 MG / nebivolol 5 MG Oral Tablet	OMOP3118246	EXACT			2026-03-15
+672990	71256	36259654	Hydrochlorothiazide 12.5 MG / nebivolol 5 MG Oral Tablet	OMOP3110529	EXACT			2026-03-15
+672991	71255	36267371	Hydrochlorothiazide 25 MG / nebivolol 5 MG Oral Tablet	OMOP3118246	EXACT			2026-03-15
