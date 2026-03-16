@@ -66,14 +66,14 @@ To refresh from AEMPS without losing manual edits:
 
 ```bash
 # 1. Download latest prescripcion.tsv
-python3 data/spain/download_aemps.py
+make download_aemps
 
 # 2. Re-split into product folders (data.tsv files are overwritten; mapping.tsv files are untouched)
-python3 data/spain/split_by_ingredient.py
+make split_by_ingredient
 
 # 3. Sync mappings — adds new presentations, prunes removed ones, preserves all existing rows
-python3 data/spain/link_ema_mappings.py
+make link_ema_mappings
 
 # 4. Regenerate combined output
-python3 scripts/generate_mapping_overviews.py spain
+make generate_mapping_overviews ARGS=spain
 ```

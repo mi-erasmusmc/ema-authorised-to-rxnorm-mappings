@@ -39,11 +39,11 @@ Create `mapping.tsv` in the product folder following the schema in the `map-drug
 5. **Verify the match** - confirm ingredient and strength match exactly
 6. **Validate** the mapping:
    ```
-   python3 .claude/skills/map-drugs/validate_mapping.py data/latvia/products/<substance>/<product>/mapping.tsv
+   make validate_mapping ARGS="data/latvia/products/<substance>/<product>/mapping.tsv"
    ```
 7. **Regenerate combined files** after all mappings are complete:
    ```
-   python3 scripts/generate_mapping_overviews.py
+   make generate_mapping_overviews
    ```
 
 ## Latvia-specific Pitfalls

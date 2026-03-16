@@ -105,7 +105,7 @@ See source-specific skills (`map-ema-drugs`, `map-latvia-drugs`) for the exact I
 After creating or editing any `mapping.tsv`, validate it:
 
 ```bash
-python3 .claude/skills/map-drugs/validate_mapping.py <path_to_mapping.tsv>
+make validate_mapping ARGS="<path_to_mapping.tsv>"
 ```
 
 This checks header columns, date format, concept_id type, and mapping_type values.

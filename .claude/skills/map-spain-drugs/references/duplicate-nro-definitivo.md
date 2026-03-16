@@ -41,7 +41,7 @@ nro_definitivo shared with 4 ml pack; manually corrected to 16 ml concept
 Run the helper script from the repo root:
 
 ```bash
-python3 .claude/skills/map-spain-drugs/scripts/find_duplicate_nros.py
+make find_duplicate_nros
 ```
 
 Add `--folder <ingredient_slug>` to limit the report to one Spain product folder.

@@ -18,7 +18,7 @@ Refer to the `find-concepts` skill for searching RxNorm concepts, and the `map-d
 ## Step 1: Find Conflicts
 
 ```bash
-python3 .claude/skills/resolve-conflicts/scripts/find_conflicts.py [limit]
+make find_conflicts ARGS="[limit]"
 ```
 
 - With no arguments: prints all conflicting EMA folders
@@ -98,7 +98,7 @@ Edit the `mapping.tsv` in the folder that has the less accurate mapping:
 After all subagents complete, regenerate the combined TSV files from the updated individual `mapping.tsv` files:
 
 ```bash
-python3 scripts/generate_mapping_overviews.py
+make generate_mapping_overviews
 ```
 
 This rebuilds both `ema-to-rxnorm.tsv` and `latvia-to-rxnorm.tsv` from individual mapping files.
@@ -108,5 +108,5 @@ This rebuilds both `ema-to-rxnorm.tsv` and `latvia-to-rxnorm.tsv` from individua
 Re-run the conflict finder to confirm the conflict count decreased:
 
 ```bash
-python3 .claude/skills/resolve-conflicts/scripts/find_conflicts.py
+make find_conflicts
 ```

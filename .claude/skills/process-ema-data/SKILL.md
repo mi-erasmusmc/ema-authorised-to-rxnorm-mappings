@@ -40,7 +40,7 @@ When asked to parse an EMA product PDF, extract packaging data from a product fo
 When asked to fetch, download, or update EMA data, run a single command:
 
 ```bash
-python3 .claude/skills/process-ema-data/scripts/fetch_ema_updates.py
+make fetch_ema_updates
 ```
 
 This automatically:
@@ -50,7 +50,7 @@ This automatically:
 
 To override the auto-detected date cutoff:
 ```bash
-python3 .claude/skills/process-ema-data/scripts/fetch_ema_updates.py --since YYYY-MM-DD
+make fetch_ema_updates ARGS="--since YYYY-MM-DD"
 ```
 
 After fetching, proceed to parse the new PDFs using the steps below.
@@ -100,7 +100,7 @@ To parse multiple products efficiently using subagents:
 
 1. **Generate the batch prompt:**
    ```bash
-   python3 .claude/skills/process-ema-data/scripts/prepare_parse_batch.py 000476 006208 006322
+   make prepare_parse_batch ARGS="000476 006208 006322"
    ```
    This outputs a self-contained prompt with PDF paths, output paths, TSV header, column mappings, and product metadata. Products with no PDF are marked SKIP.
 

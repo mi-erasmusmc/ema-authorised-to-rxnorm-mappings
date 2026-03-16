@@ -46,14 +46,14 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
 1. Audit the folder:
    ```bash
-   python3 .claude/skills/map-spain-drugs/audit_folder.py data/spain/products/<folder>/
+   make audit_folder ARGS="data/spain/products/<folder>/"
    ```
    The default output is summary-first. It shows issue counts and repeated product patterns so you can decide quickly whether the folder is batchable.
 
    Use drill-down mode only when needed:
    ```bash
-   python3 .claude/skills/map-spain-drugs/audit_folder.py data/spain/products/<folder>/ --details
-   python3 .claude/skills/map-spain-drugs/audit_folder.py data/spain/products/<folder>/ --details --issue MISSING
+   make audit_folder ARGS="data/spain/products/<folder>/ --details"
+   make audit_folder ARGS="data/spain/products/<folder>/ --details --issue MISSING"
    ```
 
    Review these issue types:
@@ -72,13 +72,13 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
    For large folders, summarize the repeated patterns first:
    ```bash
-   python3 .claude/skills/map-spain-drugs/scripts/list_folder_patterns.py data/spain/products/<folder>/
+   make list_folder_patterns ARGS="data/spain/products/<folder>/"
    ```
    This is read-only. It helps you spot which rows truly share the same clinical pattern before you reuse a concept across them.
 
    If the audit shows that `MISSING` is the dominant issue type, narrow to unmapped rows only:
    ```bash
-   python3 .claude/skills/map-spain-drugs/scripts/list_folder_patterns.py data/spain/products/<folder>/ --missing-only
+   make list_folder_patterns ARGS="data/spain/products/<folder>/ --missing-only"
    ```
 
 3. Search RxNorm concepts via the `find-concepts` skill. Translate Spanish ingredient names to English before searching (e.g., `acido zoledronico` → `zoledronic acid`):
@@ -117,7 +117,7 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
 5. Apply changes with the helper script:
    ```bash
-   python3 .claude/skills/map-spain-drugs/apply_mappings.py data/spain/products/<folder>/mapping.tsv <<'EOF'
+   make apply_mappings ARGS="data/spain/products/<folder>/mapping.tsv" <<'EOF'
    cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion
    12345	72707	617312	atorvastatin 10 MG Oral Tablet	370584	EXACT
    EOF
@@ -126,13 +126,13 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
 6. Backfill missing dates when needed:
    ```bash
-   python3 .claude/skills/map-spain-drugs/apply_mappings.py data/spain/products/<folder>/mapping.tsv --backfill-dates
+   make apply_mappings ARGS="data/spain/products/<folder>/mapping.tsv --backfill-dates"
    ```
 
 7. Validate and regenerate overviews:
    ```bash
-   python3 .claude/skills/map-drugs/validate_mapping.py data/spain/products/<folder>/mapping.tsv
-   python3 scripts/generate_mapping_overviews.py spain  # regenerate Spain only
+   make validate_mapping ARGS="data/spain/products/<folder>/mapping.tsv"
+   make generate_mapping_overviews ARGS=spain  # regenerate Spain only
    ```
 
 ## Conservative Bulk Cleanup
@@ -140,7 +140,7 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 For low-risk bulk work, use the batch helper:
 
 ```bash
-python3 .claude/skills/map-spain-drugs/scripts/run_clean_room_batch.py --apply --limit 60 --pass-size 3
+make run_clean_room_batch ARGS="--apply --limit 60 --pass-size 3"
 ```
 
 It only selects folders where every missing row can be filled from an existing `EXACT` mapping in the same folder using the same full clinical pattern, then validates and audits each folder. This is a cleanup tool, not a substitute for concept search.

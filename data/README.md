@@ -32,25 +32,25 @@ All scripts can be invoked from any directory in the project (they resolve paths
 Download/update EMA data:
 
 ```bash
-python3 skills/process-data/download_ema_presentation_files.py
+make download_ema_presentation_files
 ```
 
 Generate ema-info.txt files for all products:
 
 ```bash
-python3 skills/process-data/generate_ema_info.py
+make generate_ema_info
 ```
 
 Combine all product data and generate ema-to-rxnorm.tsv:
 
 ```bash
-python3 scripts/generate_mapping_overviews.py
+make generate_mapping_overviews
 ```
 
 Check for missing files:
 
 ```bash
-python3 skills/process-data/find_missing_files.py
+make find_missing_files
 ```
 
 Search for RxNorm concepts:
@@ -62,7 +62,7 @@ find_concepts "vildagliptin 50 mg oral tablet" "vildagliptin 50 mg"
 List PDFs by date:
 
 ```bash
-python3 skills/process-data/list_pdfs_by_date.py
+make list_pdfs_by_date
 ```
 
 ## Data Sources
