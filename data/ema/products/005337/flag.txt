@@ -1,0 +1,2 @@
+No suitable standard RxNorm or RxNorm Extension concept was found for Zabdeno.
+Available Ebola vaccine concepts returned by local search corresponded to Ervebo (rVSV-based Zaire ebolavirus glycoprotein vaccine), which is a different product from the Ad26.ZEBOV-GP recombinant vaccine used in Zabdeno.

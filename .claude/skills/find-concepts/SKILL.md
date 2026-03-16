@@ -13,13 +13,19 @@ When you need to find RxNorm concepts for a drug product during mapping. This is
 
 ## Usage
 
-`find_concepts` is available as a shell command via a symlink in this repo. **Invoke it directly — do not search for the script path.**
+Run via the Makefile from the repo root. Each query is searched independently; results are deduplicated and returned as TSV.
 
-```
-find_concepts <query1> [query2] ...
+Single query (wrap in inner double quotes inside outer single quotes):
+```bash
+make find_concepts ARGS='"alemtuzumab 10 MG/ML Injection"'
 ```
 
-Each query argument is searched independently. Results are deduplicated and returned as TSV.
+Multiple queries (each inner-quoted, space-separated):
+```bash
+make find_concepts ARGS='"alemtuzumab 10 MG/ML Injection" "alemtuzumab injection"'
+```
+
+> **Quoting rule:** always use `ARGS='...'` (outer single quotes) with `"..."` (inner double quotes) around each multi-word query. Without inner quotes, spaces split each word into a separate query.
 
 ## Output Columns
 
@@ -36,27 +42,21 @@ Pay attention to these dose form definitions as they are important for selecting
 
 Cast a broad net with multiple queries of decreasing specificity:
 
-```
-find_concepts \
-  "vildagliptin 50 mg oral tablet [Xiliarx]" \
-  "vildagliptin 50 mg" \
-  "vildagliptin oral tablet"
+```bash
+make find_concepts ARGS='"vildagliptin 50 mg oral tablet [Xiliarx]" "vildagliptin 50 mg" "vildagliptin oral tablet"'
 ```
 
 For combination products:
-```
-find_concepts \
-  "emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet" \
-  "emtricitabine / tenofovir oral tablet"
+```bash
+make find_concepts ARGS='"emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet" "emtricitabine / tenofovir oral tablet"'
 ```
 
 ## RxNorm Extension Fallback
 
 When standard RxNorm search does not return a suitable EXACT match, retry with the `--extension` flag:
 
-```
-find_concepts --extension \
-  "vildagliptin 50 mg oral tablet"
+```bash
+make find_concepts ARGS='--extension "vildagliptin 50 mg oral tablet"'
 ```
 
 This searches both RxNorm and RxNorm Extension. Extension concepts have codes like `OMOP1234567` instead of numeric RxNorm codes.

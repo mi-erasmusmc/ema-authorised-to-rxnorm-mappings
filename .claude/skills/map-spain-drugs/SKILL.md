@@ -83,7 +83,7 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
 3. Search RxNorm concepts via the `find-concepts` skill. Translate Spanish ingredient names to English before searching (e.g., `acido zoledronico` → `zoledronic acid`):
    ```bash
-   find_concepts "zoledronic acid 4 MG/5ML injection" "zoledronic acid 4 mg" "zoledronic acid injection"
+   make find_concepts ARGS='"zoledronic acid 4 MG/5ML injection" "zoledronic acid 4 mg" "zoledronic acid injection"'
    ```
    Read the dose-form definitions returned by concept search and use them in the mapping decision. They are part of the evidence, not incidental output. In particular:
    - `Injection` may include a single-use sterile solution, suspension, or reconstituted powder intended for parenteral use

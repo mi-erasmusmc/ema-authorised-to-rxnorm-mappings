@@ -1,6 +1,7 @@
 # Usage: make <target> [ARGS="..."]
 # Example: make audit_folder ARGS="data/spain/products/12345/ --details"
 
+.SILENT:
 PYTHON = python3
 
 # ── Spain ──────────────────────────────────────────────────────────────────────

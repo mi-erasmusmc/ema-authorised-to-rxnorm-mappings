@@ -56,7 +56,7 @@ make find_missing_files
 Search for RxNorm concepts:
 
 ```bash
-find_concepts "vildagliptin 50 mg oral tablet" "vildagliptin 50 mg"
+make find_concepts ARGS='"vildagliptin 50 mg oral tablet" "vildagliptin 50 mg"'
 ```
 
 List PDFs by date:

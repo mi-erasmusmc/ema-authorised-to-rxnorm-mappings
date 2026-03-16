@@ -14,7 +14,8 @@ EU/1/11/691/012	43013031	apixaban 5 MG Oral Tablet [Eliquis]	1364447	EXACT			202
 EU/1/11/691/013	43013027	apixaban 2.5 MG Oral Tablet [Eliquis]	1364441	EXACT			2025-12-04
 EU/1/11/691/014	43013031	apixaban 5 MG Oral Tablet [Eliquis]	1364447	EXACT			2025-12-04
 EU/1/11/691/015	43013027	apixaban 2.5 MG Oral Tablet [Eliquis]	1364441	EXACT			2025-12-04
-EU/1/11/691/016	43013024	apixaban	1364430	BROAD			2025-12-04
-EU/1/11/691/017	43013024	apixaban	1364430	BROAD			2025-12-04
-EU/1/11/691/018	43013024	apixaban	1364430	BROAD			2025-12-04
-EU/1/11/691/019	43013024	apixaban	1364430	BROAD			2025-12-04
+EU/1/11/691/016	43013024	apixaban	1364430	BROAD	No granule dose form in RxNorm; pediatric capsule-for-opening formulation	apixaban 0.15 MG Oral Granules	2025-12-04
+EU/1/11/691/017	43013024	apixaban	1364430	BROAD	No granule dose form in RxNorm; pediatric sachet formulation	apixaban 0.5 MG Oral Granules	2025-12-04
+EU/1/11/691/018	43013024	apixaban	1364430	BROAD	No granule dose form in RxNorm; pediatric sachet formulation	apixaban 1.5 MG Oral Granules	2025-12-04
+EU/1/11/691/019	43013024	apixaban	1364430	BROAD	No granule dose form in RxNorm; pediatric sachet formulation	apixaban 2 MG Oral Granules	2025-12-04
+EU/1/11/691/020	43013027	apixaban 2.5 MG Oral Tablet [Eliquis]	1364441	EXACT			2026-03-16
