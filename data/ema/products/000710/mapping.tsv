@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/07/385/001	46275993	influenza A virus (H1N1) antigen	1657128	BROAD			2025-12-04
-EU/1/07/385/002	46275993	influenza A virus (H1N1) antigen	1657128	BROAD			2025-12-04
-EU/1/07/385/004							2025-12-04
+EU/1/07/385/001	46275993	influenza A virus (H1N1) antigen	1657128	BROAD		0.5 ML influenza A virus A/California/7/2009 (H1N1) antigen 0.015 MG/ML Prefilled Syringe [Focetria]	2026-03-16
+EU/1/07/385/002	46275993	influenza A virus (H1N1) antigen	1657128	BROAD		0.5 ML influenza A virus A/California/7/2009 (H1N1) antigen 0.015 MG/ML Prefilled Syringe [Focetria]	2026-03-16
+EU/1/07/385/004	46275993	influenza A virus (H1N1) antigen	1657128	BROAD		influenza A virus A/California/7/2009 (H1N1) antigen 0.015 MG/ML Injectable Suspension [Focetria]	2026-03-16

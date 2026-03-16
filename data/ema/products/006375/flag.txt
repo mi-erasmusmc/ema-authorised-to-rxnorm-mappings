@@ -1,0 +1,2 @@
+No suitable standard RxNorm concept was found for Zoonotic Influenza Vaccine Seqirus.
+The product is an H5N8 influenza A vaccine in prefilled syringes, while available RxNorm influenza A vaccine concepts found during search were limited to H5N1 products.
