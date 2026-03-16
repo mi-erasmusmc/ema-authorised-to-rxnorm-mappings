@@ -6,6 +6,7 @@ import os
 import ssl
 import subprocess
 import sys
+import urllib.error
 import urllib.request
 import urllib.parse
 import json
@@ -35,6 +36,28 @@ def find_dose_form(concept_name, dose_forms):
     for df in dose_forms:
         if df["name"].lower() in name_lower:
             return df
+    return None
+
+
+RXNAV_BASE = "https://rxnav.nlm.nih.gov/REST/rxcui/{rxcui}/{endpoint}.json"
+
+
+def resolve_full_name(rxcui):
+    """Return the full RxNorm name for an rxcui, or None if not found."""
+    ctx = ssl.create_default_context(cafile=certifi.where())
+    for endpoint, extract in [
+        ("properties", lambda p: p.get("properties", {}).get("name")),
+        ("historystatus", lambda p: p.get("rxcuiStatusHistory", {}).get("attributes", {}).get("name")),
+    ]:
+        url = RXNAV_BASE.format(rxcui=rxcui, endpoint=endpoint)
+        try:
+            with urllib.request.urlopen(url, context=ctx) as resp:
+                payload = json.loads(resp.read())
+            name = extract(payload)
+            if name:
+                return name
+        except urllib.error.URLError:
+            pass
     return None
 
 
@@ -74,14 +97,18 @@ def main():
                 cid = concept["concept_id"]
                 if cid not in seen:
                     seen.add(cid)
-                    df = find_dose_form(concept["concept_name"], dose_forms)
+                    name = concept["concept_name"]
+                    code = concept["concept_code"]
+                    # Auto-resolve truncated names; OMOP-prefixed codes are
+                    # RxNorm Extension concepts and cannot be looked up via RxNav.
+                    if "..." in name and not code.startswith("OMOP"):
+                        resolved = resolve_full_name(code)
+                        if resolved:
+                            name = resolved
+                    df = find_dose_form(name, dose_forms)
                     if df:
                         matched_dose_forms[df["name"]] = df
-                    rows.append((
-                        str(cid),
-                        concept["concept_name"],
-                        concept["concept_code"],
-                    ))
+                    rows.append((str(cid), name, code))
 
     print("concept_id\tconcept_name\tconcept_code")
     for row in rows:
