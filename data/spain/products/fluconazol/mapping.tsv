@@ -1,31 +1,31 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600608	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-600609	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-600610	67818	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+600608	67818	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT			2026-03-16
+600609	67818	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT			2026-03-16
+600610	67818	35605311	200 ML fluconazole 2 MG/ML Injection	1721314	EXACT			2026-03-16
 602986	69848	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
-603231	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-603232	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-603233	71461	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+603231	71461	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT			2026-03-16
+603232	71461	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT			2026-03-16
+603233	71461	35605311	200 ML fluconazole 2 MG/ML Injection	1721314	EXACT			2026-03-16
 603928	64331	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
-606084	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-606085	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-606086	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-606349	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-606351	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-606352	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-607089	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-607090	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-607091	73900	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+606084	65723	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT			2026-03-16
+606085	65723	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT			2026-03-16
+606086	65723	35605311	200 ML fluconazole 2 MG/ML Injection	1721314	EXACT			2026-03-16
+606349	73900	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT			2026-03-16
+606351	73900	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT			2026-03-16
+606352	73900	35605311	200 ML fluconazole 2 MG/ML Injection	1721314	EXACT			2026-03-16
+607089	73900	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT			2026-03-16
+607090	73900	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT			2026-03-16
+607091	73900	35605311	200 ML fluconazole 2 MG/ML Injection	1721314	EXACT			2026-03-16
 610972	64616	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
 610980	64617	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 611004	64619	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
-613620	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-613737	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+613620	65723	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT			2026-03-16
+613737	65723	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT			2026-03-16
 634063	65089	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
 634162	65090	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
 634204	65091	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 634220	65092	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
-634568	65723	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+634568	65723	35605311	200 ML fluconazole 2 MG/ML Injection	1721314	EXACT			2026-03-16
 641167	58804	36890948	Fluconazole 100 MG Oral Capsule [Diflucan]	OMOP991882	EXACT	Diflucan branded 100mg cap (sw_generico=0)		2026-03-12
 641175	58803	19025903	fluconazole 200 MG Oral Capsule [Diflucan]	201898	EXACT	Diflucan branded 200mg cap (sw_generico=0)		2026-03-12
 641324	59053	19022584	fluconazole 100 MG Oral Capsule	199950	BROAD	Loitin brand not in RxNorm	Loitin fluconazole 100 MG Oral Capsule	2026-03-12
@@ -130,17 +130,17 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 602985	69847	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 602988	69849	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
 605750	73952	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12
-606601	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
-606602	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
+606601	58817	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT	Diflucan branded injection; no volume-specific branded concept in RxNorm; unbranded standard EXACT preferred over branded OMOP extension BROAD		2026-03-16
+606602	58817	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT	Diflucan branded injection; no volume-specific branded concept in RxNorm; unbranded standard EXACT preferred over branded OMOP extension BROAD		2026-03-16
 623827	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection	2026-03-12
-640482	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
-640490	58817	21073611	Fluconazole 2 MG/ML Injection [Diflucan]	OMOP387969	EXACT	Diflucan branded injection (sw_generico=0)		2026-03-12
+640482	58817	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT	Diflucan branded injection; no volume-specific branded concept in RxNorm; unbranded standard EXACT preferred over branded OMOP extension BROAD		2026-03-16
+640490	58817	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT	Diflucan branded injection; no volume-specific branded concept in RxNorm; unbranded standard EXACT preferred over branded OMOP extension BROAD		2026-03-16
 641340	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection	2026-03-12
 641357	59056	35605310	fluconazole 2 MG/ML Injection	1721311	BROAD	CITIGES brand not in RxNorm	CITIGES fluconazole 2 MG/ML injection	2026-03-12
 653072	69849	1755000	fluconazole 200 MG Oral Capsule	199746	EXACT			2026-03-12
 653106	69847	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
-671534	72542	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
-671535	72542	35605310	fluconazole 2 MG/ML Injection	1721311	EXACT			2026-03-12
+671534	72542	35605309	50 ML fluconazole 2 MG/ML Injection	1721310	EXACT			2026-03-16
+671535	72542	35605312	100 ML fluconazole 2 MG/ML Injection	1721315	EXACT			2026-03-16
 679791	73950	1755001	fluconazole 50 MG Oral Capsule	199747	EXACT			2026-03-12
 679813	73951	19022584	fluconazole 100 MG Oral Capsule	199950	EXACT			2026-03-12
 679826	73952	1754999	fluconazole 150 MG Oral Capsule	199745	EXACT			2026-03-12

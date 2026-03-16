@@ -1,16 +1,16 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600692	44792	40227049	lidocaine hydrochloride 20 MG/ML Injectable Solution	1010671	EXACT			2026-03-12
-602916	69207	40227012	lidocaine hydrochloride 10 MG/ML Injectable Solution	1010033	EXACT			2026-03-12
-602917	69208	40227049	lidocaine hydrochloride 20 MG/ML Injectable Solution	1010671	EXACT			2026-03-12
-602918	69208	40227049	lidocaine hydrochloride 20 MG/ML Injectable Solution	1010671	EXACT			2026-03-12
-607183	83925	40227012	lidocaine hydrochloride 10 MG/ML Injectable Solution	1010033	EXACT			2026-03-12
-607185	83934	40227049	lidocaine hydrochloride 20 MG/ML Injectable Solution	1010671	EXACT			2026-03-12
-607186	83934	40227049	lidocaine hydrochloride 20 MG/ML Injectable Solution	1010671	EXACT			2026-03-12
+600692	44792	35604356	5 ML lidocaine hydrochloride 20 MG/ML Injection	1737761	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
+602916	69207	35604325	10 ML lidocaine hydrochloride 10 MG/ML Injection	1737570	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
+602917	69208	35604356	5 ML lidocaine hydrochloride 20 MG/ML Injection	1737761	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
+602918	69208	35604358	10 ML lidocaine hydrochloride 20 MG/ML Injection	1737763	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
+607183	83925	35604325	10 ML lidocaine hydrochloride 10 MG/ML Injection	1737570	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
+607185	83934	35604356	5 ML lidocaine hydrochloride 20 MG/ML Injection	1737761	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
+607186	83934	35604358	10 ML lidocaine hydrochloride 20 MG/ML Injection	1737763	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
 620237	37714	35604346	lidocaine hydrochloride 50 MG/ML Injection	1737741	BROAD	No 5 ML lidocaine 50 MG/ML Injection concept in RxNorm	5 ML lidocaine hydrochloride 50 MG/ML Injection	2026-03-13
 645572	37714	35604346	lidocaine hydrochloride 50 MG/ML Injection	1737741	BROAD	No 10 ML lidocaine 50 MG/ML Injection concept in RxNorm	10 ML lidocaine hydrochloride 50 MG/ML Injection	2026-03-13
-645580	44792	40227049	lidocaine hydrochloride 20 MG/ML Injectable Solution	1010671	EXACT			2026-03-12
-645598	44793	40227012	lidocaine hydrochloride 10 MG/ML Injectable Solution	1010033	EXACT			2026-03-12
-650929	44792	40227049	lidocaine hydrochloride 20 MG/ML Injectable Solution	1010671	EXACT			2026-03-12
+645580	44792	35604358	10 ML lidocaine hydrochloride 20 MG/ML Injection	1737763	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
+645598	44793	35604325	10 ML lidocaine hydrochloride 10 MG/ML Injection	1737570	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
+650929	44792	35604358	10 ML lidocaine hydrochloride 20 MG/ML Injection	1737763	EXACT	Ampoule (single-use); corrected from Injectable Solution (multi-use)		2026-03-16
 700726	71848	35603556	lidocaine 0.05 MG/MG Medicated Patch	1745091	EXACT			2026-03-13
 700727	71848	35603556	lidocaine 0.05 MG/MG Medicated Patch	1745091	EXACT			2026-03-13
 723511	83398	35603556	lidocaine 0.05 MG/MG Medicated Patch	1745091	EXACT			2026-03-13
@@ -19,15 +19,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726675	84450	40154720	lidocaine Ophthalmic Gel	809468	BROAD	No exact 20 MG/G ophthalmic gel concept found in RxNorm.	lidocaine 0.02 MG/MG Ophthalmic Gel	2026-03-13
 766755	83734	40227049	lidocaine hydrochloride 20 MG/ML Injectable Solution	1010671	EXACT			2026-03-12
 600211	64746	35604325	10 ML lidocaine hydrochloride 10 MG/ML Injection	1737570	EXACT			2026-03-12
-600212	64747	35604346	lidocaine hydrochloride 50 MG/ML Injection	1737741	EXACT			2026-03-12
+600212	64747	35604346	lidocaine hydrochloride 50 MG/ML Injection	1737741	BROAD	Ampoule (single-use); no 10 ML volume-specific concept in RxNorm	10 ML lidocaine hydrochloride 50 MG/ML Injection	2026-03-16
 600214	64749	35604358	10 ML lidocaine hydrochloride 20 MG/ML Injection	1737763	EXACT			2026-03-12
-602919	69209	35604346	lidocaine hydrochloride 50 MG/ML Injection	1737741	EXACT			2026-03-12
+602919	69209	35604346	lidocaine hydrochloride 50 MG/ML Injection	1737741	BROAD	Ampoule (single-use); no 10 ML volume-specific concept in RxNorm	10 ML lidocaine hydrochloride 50 MG/ML Injection	2026-03-16
 660933	69789	40089701	lidocaine 40 MG/GM Topical Cream	365773	EXACT			2026-03-13
 660937	69789	40089701	lidocaine 40 MG/GM Topical Cream	365773	EXACT			2026-03-13
-705271	79538	40154717	lidocaine Mucous Membrane Gel	809465	BROAD	No exact 20 MG/G buccal-gel concept found in RxNorm.	lidocaine 20 MG/G Buccal Gel	2026-03-13
+705271	79538	40154717	lidocaine Mucous Membrane Gel	809465	BROAD	No exact 20 MG/G buccal-gel concept found in RxNorm.	lidocaine 20 MG/G Oral Gel	2026-03-16
 724878	34009_382_856_7_3	35603556	lidocaine 0.05 MG/MG Medicated Patch	1745091	EXACT			2026-03-13
 724879	34009_382_856_7_3	35603556	lidocaine 0.05 MG/MG Medicated Patch	1745091	EXACT			2026-03-13
-729511	85483	19077141	lidocaine 4 % Topical Gel	310245	BROAD	No exact intrauterine lidocaine 42 MG/ML gel concept found in RxNorm.	lidocaine 42 MG/ML Intrauterine Gel	2026-03-13
+729511	85483	19077141	lidocaine 4 % Topical Gel	310245	BROAD	No exact intrauterine lidocaine 42 MG/ML gel concept found in RxNorm.	lidocaine 42 MG/ML Topical Gel	2026-03-16
 849729	62878	19099555	lidocaine 0.02 MG/MG Vaginal Cream	380646	EXACT			2026-03-13
 849760	62878	19099555	lidocaine 0.02 MG/MG Vaginal Cream	380646	EXACT			2026-03-13
 868166	56741	40089702	lidocaine 10 MG/ACTUAT Topical Spray	365774	EXACT			2026-03-13

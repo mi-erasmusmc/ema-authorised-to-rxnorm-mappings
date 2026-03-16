@@ -2,11 +2,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 653809	60319	19010484	cyclosporine 25 MG Oral Capsule	197553	EXACT			2026-03-13
 653817	60318	19028684	cyclosporine 50 MG Oral Capsule	205168	EXACT			2026-03-13
 653825	60320	19082899	cyclosporine 100 MG Oral Capsule	328160	EXACT			2026-03-13
-653833	56799	19010556	cyclosporine, modified 100 MG/ML Oral Solution	835886				2026-03-13
-662460	56800	35606029	cyclosporine 50 MG/ML Injection	1732368	EXACT			2026-03-13
-701002	78331	19082899	cyclosporine 100 MG Oral Capsule	328160				2026-03-13
-701004	78332	19010484	cyclosporine 25 MG Oral Capsule	197553				2026-03-13
-701005	78333	19028684	cyclosporine 50 MG Oral Capsule	205168				2026-03-13
+653833	56799	19010581	cyclosporine, modified 100 MG/ML Oral Solution [Neoral]	835899	EXACT			2026-03-16
+662460	56800	35606030	cyclosporine 50 MG/ML Injection [Sandimmune]	1732369	BROAD		1 ML cyclosporine 50 MG/ML Injection [Sandimmune]	2026-03-16
+701002	78331	19082899	cyclosporine 100 MG Oral Capsule	328160	EXACT			2026-03-16
+701004	78332	19010484	cyclosporine 25 MG Oral Capsule	197553	EXACT			2026-03-16
+701005	78333	19028684	cyclosporine 50 MG Oral Capsule	205168	EXACT			2026-03-16
 707966	115990001	1758796	cyclosporine 1 MG/ML Ophthalmic Suspension	2590608	EXACT			2025-12-04
 658501	68481	19010484	cyclosporine 25 MG Oral Capsule	197553	EXACT			2026-03-13
 658502	68482	19028684	cyclosporine 50 MG Oral Capsule	205168	EXACT			2026-03-13

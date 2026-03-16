@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650283	58355	766530	haloperidol 2 MG/ML Oral Solution	141935				
-653109	58345	35603244	haloperidol 5 MG/ML Injection [Haldol]	1719670	EXACT			
-653279	33488	766530	haloperidol 2 MG/ML Oral Solution	141935	EXACT			
-766949	33488	766530	haloperidol 2 MG/ML Oral Solution	141935	EXACT			
-949883	55576	19080061	haloperidol 10 MG Oral Tablet	314035	EXACT			
-989475	58343	19080061	haloperidol 10 MG Oral Tablet	314035	EXACT			
-989608	58355	766530	haloperidol 2 MG/ML Oral Solution	141935				
+650283	58355	766530	haloperidol 2 MG/ML Oral Solution	141935	EXACT			2026-03-16
+653109	58345	35603238	1 ML haloperidol 5 MG/ML Injection	1719646	EXACT	Esteve brand; RxNorm has no [Esteve] concept; unbranded volume-specific preferred over [Haldol]		2026-03-16
+653279	33488	766530	haloperidol 2 MG/ML Oral Solution	141935	EXACT			2026-03-16
+766949	33488	766530	haloperidol 2 MG/ML Oral Solution	141935	EXACT			2026-03-16
+949883	55576	19080061	haloperidol 10 MG Oral Tablet	314035	EXACT			2026-03-16
+989475	58343	19080061	haloperidol 10 MG Oral Tablet	314035	EXACT			2026-03-16
+989608	58355	766530	haloperidol 2 MG/ML Oral Solution	141935	EXACT			2026-03-16

@@ -50,9 +50,22 @@ SUGGESTION_OPTIONAL_FILES = {
 }
 
 
+BRAND_END_RE = re.compile(r"\[[^\]]+\]$")
+
+
 def suggestion_has_valid_dose_form(suggestion: str) -> bool:
     lower_suggestion = suggestion.casefold()
     return any(dose_form.casefold() in lower_suggestion for dose_form in VALID_DOSE_FORMS)
+
+
+def suggestion_has_valid_ending(suggestion: str) -> bool:
+    """Suggestion must end with a dose form, a [brand] suffix, or 'Pack'."""
+    if BRAND_END_RE.search(suggestion):
+        return True
+    if suggestion.casefold().endswith("pack"):
+        return True
+    lower = suggestion.casefold()
+    return any(lower.endswith(df.casefold()) for df in VALID_DOSE_FORMS)
 
 
 def validate_file(path: str) -> list[str]:
@@ -121,7 +134,7 @@ def validate_file(path: str) -> list[str]:
                         f"  {line}: BROAD mappings require suggestion"
                     )
                 if suggestion:
-                    if suggestion == concept_name:
+                    if suggestion.casefold() == concept_name.casefold():
                         errors.append(
                             f"  {line}: suggestion must not equal concept_name"
                         )
@@ -141,6 +154,10 @@ def validate_file(path: str) -> list[str]:
                     if not suggestion_has_valid_dose_form(suggestion):
                         errors.append(
                             f"  {line}: suggestion must contain a valid dose form from dose_form_lookup.json"
+                        )
+                    if not suggestion_has_valid_ending(suggestion):
+                        errors.append(
+                            f"  {line}: suggestion must end with a dose form, [Brand], or 'Pack'"
                         )
 
     except FileNotFoundError:

@@ -83,13 +83,13 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
 3. Search RxNorm concepts via the `find-concepts` skill. Translate Spanish ingredient names to English before searching (e.g., `acido zoledronico` → `zoledronic acid`):
    ```bash
-   python3 .claude/skills/find-concepts/scripts/find_concepts.py "zoledronic acid 4 MG/5ML injection" "zoledronic acid 4 mg" "zoledronic acid injection"
+   find_concepts "zoledronic acid 4 MG/5ML injection" "zoledronic acid 4 mg" "zoledronic acid injection"
    ```
    Read the dose-form definitions returned by concept search and use them in the mapping decision. They are part of the evidence, not incidental output. In particular:
    - `Injection` may include a single-use sterile solution, suspension, or reconstituted powder intended for parenteral use
    - `Injectable Solution` may include a multiple-use solution or reconstituted powder intended to be injected
    - the exact wording often determines whether a powder-and-solvent, unit-dose, multidose, prefilled syringe, or metered-dose presentation can be mapped `EXACT` or must stay `BROAD`
-   Do not assume a concept is too broad or too narrow until you have checked the dose-form definition that `find_concepts.py` printed for that concept family.
+   Do not assume a concept is too broad or too narrow until you have checked the dose-form definition that `find_concepts` printed for that concept family.
    When the auto-link looks suspicious, check the duplicate-`nro_definitivo` reference before changing the row.
 
 4. Prepare a TSV containing only the rows you want to create or update. Do not rewrite unchanged rows.

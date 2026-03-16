@@ -56,7 +56,7 @@ python3 skills/process-data/find_missing_files.py
 Search for RxNorm concepts:
 
 ```bash
-python3 skills/map-drugs/find_concepts.py "vildagliptin 50 mg oral tablet" "vildagliptin 50 mg"
+find_concepts "vildagliptin 50 mg oral tablet" "vildagliptin 50 mg"
 ```
 
 List PDFs by date:

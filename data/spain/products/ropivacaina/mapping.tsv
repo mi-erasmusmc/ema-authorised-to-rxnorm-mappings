@@ -1,22 +1,22 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 676509	73054	35606282	10 ML ropivacaine hydrochloride 2 MG/ML Injection	1734203	EXACT			2026-03-13
 676512	73055	35606292	100 ML ropivacaine hydrochloride 2 MG/ML Injection	1734347	EXACT			2026-03-13
-676514	73056	35606482	ropivacaine hydrochloride 7.5 MG/ML Injection	1734676	EXACT			2026-03-13
+676514	73056	35606482	ropivacaine hydrochloride 7.5 MG/ML Injection	1734676	BROAD	Ampoule (single-use); no 10 ML volume-specific concept in RxNorm	10 ML ropivacaine hydrochloride 7.5 MG/ML Injection	2026-03-16
 676516	73057	35606274	10 ML ropivacaine hydrochloride 10 MG/ML Injection	1734090	EXACT			2026-03-15
 686806	75210	35606282	10 ML ropivacaine hydrochloride 2 MG/ML Injection	1734203	EXACT			2026-03-13
 686809	75211	35606292	100 ML ropivacaine hydrochloride 2 MG/ML Injection	1734347	EXACT			2026-03-13
 686810	75211	35606298	200 ML ropivacaine hydrochloride 2 MG/ML Injection	1734355	EXACT			2026-03-13
-686815	75212	35606312	ropivacaine hydrochloride 5 MG/ML Injection	1734477	EXACT			2026-03-13
-686817	75213	35606482	ropivacaine hydrochloride 7.5 MG/ML Injection	1734676	EXACT			2026-03-13
+686815	75212	35606312	ropivacaine hydrochloride 5 MG/ML Injection	1734477	BROAD	Ampoule (single-use); no 10 ML volume-specific concept in RxNorm	10 ML ropivacaine hydrochloride 5 MG/ML Injection	2026-03-16
+686817	75213	35606482	ropivacaine hydrochloride 7.5 MG/ML Injection	1734676	BROAD	Ampoule (single-use); no 10 ML volume-specific concept in RxNorm	10 ML ropivacaine hydrochloride 7.5 MG/ML Injection	2026-03-16
 686819	75214	35606274	10 ML ropivacaine hydrochloride 10 MG/ML Injection	1734090	EXACT			2026-03-15
 688763	75678	35606274	10 ML ropivacaine hydrochloride 10 MG/ML Injection	1734090	EXACT			2026-03-15
 688764	75679	35606282	10 ML ropivacaine hydrochloride 2 MG/ML Injection	1734203	EXACT			2026-03-13
-688769	75682	35606482	ropivacaine hydrochloride 7.5 MG/ML Injection	1734676	EXACT			2026-03-13
+688769	75682	35606482	ropivacaine hydrochloride 7.5 MG/ML Injection	1734676	BROAD	Ampoule (single-use); no 10 ML volume-specific concept in RxNorm	10 ML ropivacaine hydrochloride 7.5 MG/ML Injection	2026-03-16
 688803	75693	35606292	100 ML ropivacaine hydrochloride 2 MG/ML Injection	1734347	EXACT			2026-03-13
 688805	75693	35606298	200 ML ropivacaine hydrochloride 2 MG/ML Injection	1734355	EXACT			2026-03-13
 694131	76678	35606282	10 ML ropivacaine hydrochloride 2 MG/ML Injection	1734203	EXACT			2026-03-13
 694269	76692	35606274	10 ML ropivacaine hydrochloride 10 MG/ML Injection	1734090	EXACT			2026-03-13
-694274	76694	35606482	ropivacaine hydrochloride 7.5 MG/ML Injection	1734676	EXACT			2026-03-13
+694274	76694	35606482	ropivacaine hydrochloride 7.5 MG/ML Injection	1734676	BROAD	Ampoule (single-use); no 10 ML volume-specific concept in RxNorm	10 ML ropivacaine hydrochloride 7.5 MG/ML Injection	2026-03-16
 704284	73055	35606298	200 ML ropivacaine hydrochloride 2 MG/ML Injection	1734355	EXACT			2026-03-13
 719645	76678	35606292	100 ML ropivacaine hydrochloride 2 MG/ML Injection	1734347	EXACT			2026-03-13
 719646	76678	35606298	200 ML ropivacaine hydrochloride 2 MG/ML Injection	1734355	EXACT			2026-03-13
