@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/04/272/001							
-EU/1/04/272/002							
+EU/1/04/272/001	21118981	Dihematoporphyrin Ether 15 MG Injection	OMOP363840	EXACT	RxNorm Extension represents this porfimer sodium 15 mg presentation under the older synonym dihematoporphyrin ether.		2026-03-16
+EU/1/04/272/002	19089603	porfimer sodium 75 MG Injection	242166	EXACT			2026-03-16

@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/03/264/001	19068830	ibritumomab tiuxetan	262323	BROAD	No clinical drug concept in RxNorm; only ingredient-level concept available	2 ML ibritumomab tiuxetan 1.6 MG/ML Injection	2026-03-16
+EU/1/03/264/001	41053921	ibritumomab tiuxetan 1.6 MG/ML Injectable Solution	OMOP2251883	BROAD	Radiopharmaceutical kit; no volume-specific concept; EU brand (Zevalin) not used as OMOP extension	2 ML ibritumomab tiuxetan 1.6 MG/ML Injection	2026-03-16
