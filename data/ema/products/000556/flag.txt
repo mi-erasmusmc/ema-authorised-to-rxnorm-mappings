@@ -1,0 +1,3 @@
+No suitable standard RxNorm or RxNorm Extension concept found for Quintanrix.
+
+Searches for the brand and full ingredient combination did not return a clinically acceptable match. The closest vaccine concepts found were DTaP-IPV products such as Kinrix/Quadracel, but those omit hepatitis B and Hib and use acellular rather than whole-cell pertussis, so they are too different to use as BROAD mappings.

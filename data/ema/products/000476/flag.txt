@@ -1,0 +1,3 @@
+No suitable standard RxNorm concept found for Dukoral.
+
+RxNorm Extension contains several Dukoral-related concepts, but they are inconsistent and do not cleanly represent the EMA presentation as a combined inactivated cholera oral suspension plus accompanying effervescent bicarbonate powder sachet. The cleaner-looking Extension rows also appear to omit the recombinant cholera toxin B component or collapse the formulation too aggressively.
