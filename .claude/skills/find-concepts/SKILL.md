@@ -13,6 +13,8 @@ When you need to find RxNorm concepts for a drug product during mapping. This is
 
 ## Usage
 
+`find_concepts` is available as a shell command via a symlink in this repo. **Invoke it directly — do not search for the script path.**
+
 ```
 find_concepts <query1> [query2] ...
 ```

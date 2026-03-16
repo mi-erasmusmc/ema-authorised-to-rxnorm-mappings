@@ -1,18 +1,18 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-654669	67919	713831	ropinirole 0.25 MG Oral Tablet	312845	BROAD			2026-03-12
-654671	67921	713852	ropinirole 0.5 MG Oral Tablet	312846	EXACT			
-654672	67922	713853	ropinirole 2 MG Oral Tablet	312847	BROAD			2026-03-12
-660489	69585	713852	ropinirole 0.5 MG Oral Tablet	312846	EXACT			
-660734	69700	19134935	ropinirole 2 MG Extended Release Oral Tablet	845128	BROAD			2026-03-12
-660735	69701	19134936	ropinirole 4 MG Extended Release Oral Tablet	845129	BROAD			2026-03-12
-660737	69702	19134934	ropinirole 8 MG Extended Release Oral Tablet	845127	BROAD			2026-03-12
+654669	67919	713831	ropinirole 0.25 MG Oral Tablet	312845	EXACT			2026-03-16
+654671	67921	713852	ropinirole 0.5 MG Oral Tablet	312846	EXACT			2026-03-16
+654672	67922	713853	ropinirole 2 MG Oral Tablet	312847	EXACT			2026-03-16
+660489	69585	713852	ropinirole 0.5 MG Oral Tablet	312846	EXACT			2026-03-16
+660734	69700	19134937	ropinirole 2 MG Extended Release Oral Tablet [Requip]	845130	EXACT			2026-03-16
+660735	69701	19134938	ropinirole 4 MG Extended Release Oral Tablet [Requip]	845131	EXACT			2026-03-16
+660737	69702	19134939	ropinirole 8 MG Extended Release Oral Tablet [Requip]	845132	EXACT			2026-03-16
 663960	61466	713825	ropinirole 1 MG Oral Tablet [Requip]	152953	EXACT			2026-03-12
 663961	61468	713826	ropinirole 2 MG Oral Tablet [Requip]	152954	EXACT			2026-03-12
 663962	61469	713827	ropinirole 5 MG Oral Tablet [Requip]	152955	EXACT			2026-03-12
 672949	61469	713827	ropinirole 5 MG Oral Tablet [Requip]	152955	EXACT			2026-03-12
 672956	61468	713826	ropinirole 2 MG Oral Tablet [Requip]	152954	EXACT			2026-03-12
 672972	61466	713825	ropinirole 1 MG Oral Tablet [Requip]	152953	EXACT			2026-03-12
-672980	61465	19047483	ropinirole 0.5 MG Oral Tablet [Requip]	213068	EXACT			
+672980	61465	19047483	ropinirole 0.5 MG Oral Tablet [Requip]	213068	EXACT			2026-03-16
 672998	61464	713824	ropinirole 0.25 MG Oral Tablet [Requip]	152952	EXACT			2026-03-12
 682966	74551	19134934	ropinirole 8 MG Extended Release Oral Tablet	845127	EXACT			2026-03-12
 682975	74552	19134936	ropinirole 4 MG Extended Release Oral Tablet	845129	EXACT			2026-03-12
@@ -20,9 +20,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 683731	74664	19134935	ropinirole 2 MG Extended Release Oral Tablet	845128	EXACT			2026-03-12
 683735	74665	19134934	ropinirole 8 MG Extended Release Oral Tablet	845127	EXACT			2026-03-12
 683739	74666	19134936	ropinirole 4 MG Extended Release Oral Tablet	845129	EXACT			2026-03-12
-683747	74668	19134934	ropinirole 8 MG Extended Release Oral Tablet	845127	EXACT			
+683747	74668	19134934	ropinirole 8 MG Extended Release Oral Tablet	845127	EXACT			2026-03-16
 683752	74669	19134936	ropinirole 4 MG Extended Release Oral Tablet	845129	EXACT			2026-03-12
-685327	74927	19134936	ropinirole 4 MG Extended Release Oral Tablet	845129	EXACT			
+685327	74927	19134936	ropinirole 4 MG Extended Release Oral Tablet	845129	EXACT			2026-03-16
 686865	75227	19134935	ropinirole 2 MG Extended Release Oral Tablet	845128	EXACT			2026-03-12
 690563	61464	713824	ropinirole 0.25 MG Oral Tablet [Requip]	152952	EXACT			2026-03-12
 691095	75986	19134936	ropinirole 4 MG Extended Release Oral Tablet	845129	EXACT			2026-03-12

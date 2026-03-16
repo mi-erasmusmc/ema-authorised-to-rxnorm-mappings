@@ -31,6 +31,7 @@ Issue types:
     DUPLICATE_MAPPING     - duplicate cod_nacion in mapping.tsv
     REVIEW_VOLUME         - likely single-use injectable mapped to a concentration-only concept
     INCONSISTENT_CONCEPT  - EXACT rows with same clinical signature but different concept_ids
+    INVALID               - mapping.tsv fails structural validation (bad date, invalid suggestion, etc.)
 """
 
 import argparse
@@ -38,14 +39,16 @@ import sys
 from collections import Counter
 from pathlib import Path
 
-# Allow importing from the same directory as this script
+# Allow importing from the same directory as this script and the map-drugs skill
 sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parent.parent / "map-drugs"))
 
 from audit_folder import (  # noqa: E402
     DETAIL_HEADER,
     audit_folder,
     print_details,
 )
+from validate_mapping import validate_file  # noqa: E402
 
 
 ISSUE_TYPES = [
@@ -59,7 +62,27 @@ ISSUE_TYPES = [
     "DUPLICATE_MAPPING",
     "REVIEW_VOLUME",
     "INCONSISTENT_CONCEPT",
+    "INVALID",
 ]
+
+
+def validate_folder_issues(folder: Path) -> list[dict]:
+    mapping_path = folder / "mapping.tsv"
+    if not mapping_path.exists():
+        return []
+    errors = validate_file(str(mapping_path))
+    return [
+        {
+            "issue": "INVALID",
+            "cod_nacion": "",
+            "nro_definitivo": "",
+            "des_dcp": error.strip(),
+            "concept_id": "",
+            "concept_name": "",
+            "mapping_type": "",
+        }
+        for error in errors
+    ]
 
 
 def discover_folders(products_dir: Path):
@@ -124,7 +147,7 @@ def main():
     # Collect issues for all folders
     folder_issues = {}
     for folder in folders:
-        issues = audit_folder(folder)
+        issues = list(audit_folder(folder)) + validate_folder_issues(folder)
         if issues:
             folder_issues[folder] = issues
 

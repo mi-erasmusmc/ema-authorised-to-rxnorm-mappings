@@ -1,12 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602669	69159	36259223	Somatostatin Injection	OMOP3110098	BROAD			
-606525	63672	36259223	Somatostatin Injection	OMOP3110098	BROAD			
-623538	63321	36259223	Somatostatin Injection	OMOP3110098	BROAD			
-659655	69157	36259223	Somatostatin Injection	OMOP3110098	BROAD			
-659658	69159	36259223	Somatostatin Injection	OMOP3110098	BROAD			
-708776	63672	36259223	Somatostatin Injection	OMOP3110098	BROAD			
-602668	69158	36259223	Somatostatin Injection	OMOP3110098	BROAD			2026-03-12
-623546	63320	36259223	Somatostatin Injection	OMOP3110098	BROAD			2026-03-12
-659657	69158	36259223	Somatostatin Injection	OMOP3110098	BROAD			2026-03-12
-676072	61301	36259223	Somatostatin Injection	OMOP3110098	BROAD			2026-03-12
-695163	60163	36259223	Somatostatin Injection	OMOP3110098	BROAD			2026-03-12
+602669	69159	42936760	Somatostatin 3 MG Injection	OMOP4663456	EXACT	RxNorm exposes a matching 3 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16
+606525	63672	42936760	Somatostatin 3 MG Injection	OMOP4663456	EXACT	RxNorm exposes a matching 3 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16
+623538	63321	2040141	somatostatin 0.25 MG Injection	OMOP4939765	EXACT	RxNorm exposes a matching 0.25 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16
+659655	69157	43034577	Somatostatin 6 MG/ML Injectable Solution	OMOP4849623	BROAD	RxNorm does not expose a 6 MG Injection concept; using the closest strength-specific injectable solution concept.	somatostatin 6 MG Injection	2026-03-16
+659658	69159	42936760	Somatostatin 3 MG Injection	OMOP4663456	EXACT	RxNorm exposes a matching 3 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16
+708776	63672	42936760	Somatostatin 3 MG Injection	OMOP4663456	EXACT	RxNorm exposes a matching 3 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16
+602668	69158	2040141	somatostatin 0.25 MG Injection	OMOP4939765	EXACT	RxNorm exposes a matching 0.25 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16
+623546	63320	42936760	Somatostatin 3 MG Injection	OMOP4663456	EXACT	RxNorm exposes a matching 3 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16
+659657	69158	2040141	somatostatin 0.25 MG Injection	OMOP4939765	EXACT	RxNorm exposes a matching 0.25 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16
+676072	61301	43034577	Somatostatin 6 MG/ML Injectable Solution	OMOP4849623	BROAD	RxNorm does not expose a 6 MG Injection concept; using the closest strength-specific injectable solution concept.	somatostatin 6 MG Injection	2026-03-16
+695163	60163	2040141	somatostatin 0.25 MG Injection	OMOP4939765	EXACT	RxNorm exposes a matching 0.25 MG Injection concept for this reconstituted single-use parenteral presentation.		2026-03-16

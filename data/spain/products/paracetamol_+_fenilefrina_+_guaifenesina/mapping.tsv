@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-677202	73271	40155831	acetaminophen / guaifenesin / phenylephrine Oral Solution	827756	BROAD			
-677204	73271	40155831	acetaminophen / guaifenesin / phenylephrine Oral Solution	827756	BROAD			
-720532	82816	40155831	acetaminophen / guaifenesin / phenylephrine Oral Solution	827756	BROAD			
-720998	82944	40155831	acetaminophen / guaifenesin / phenylephrine Oral Solution	827756	BROAD			
-721000	82945	40155831	acetaminophen / guaifenesin / phenylephrine Oral Solution	827756	BROAD			
+677202	73271	40836015	Acetaminophen 500 MG / Guaifenesin 200 MG / Phenylephrine 10 MG Oral Solution	OMOP2033977	BROAD	Spain row is powder for oral solution in sachet; RxNorm exposes the matching triple-strength only as an oral-solution concept.	acetaminophen 500 MG / guaifenesin 200 MG / phenylephrine 10 MG Powder for Oral Solution	2026-03-16
+677204	73271	40836015	Acetaminophen 500 MG / Guaifenesin 200 MG / Phenylephrine 10 MG Oral Solution	OMOP2033977	BROAD	Spain row is powder for oral solution in sachet; RxNorm exposes the matching triple-strength only as an oral-solution concept.	acetaminophen 500 MG / guaifenesin 200 MG / phenylephrine 10 MG Powder for Oral Solution	2026-03-16
+720532	82816	40836015	Acetaminophen 500 MG / Guaifenesin 200 MG / Phenylephrine 10 MG Oral Solution	OMOP2033977	BROAD	Spain row is powder for oral solution in sachet; RxNorm exposes the matching triple-strength only as an oral-solution concept.	acetaminophen 500 MG / guaifenesin 200 MG / phenylephrine 10 MG Powder for Oral Solution	2026-03-16
+720998	82944	40751303	Acetaminophen 25 MG/ML / Guaifenesin 10 MG/ML / Phenylephrine 0.5 MG/ML Oral Solution	OMOP4706407	EXACT			2026-03-16
+721000	82945	40751303	Acetaminophen 25 MG/ML / Guaifenesin 10 MG/ML / Phenylephrine 0.5 MG/ML Oral Solution	OMOP4706407	EXACT			2026-03-16

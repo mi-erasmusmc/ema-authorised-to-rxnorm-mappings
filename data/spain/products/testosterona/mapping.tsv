@@ -1,12 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650444	66470	35604755	testosterone undecanoate 250 MG/ML Injection	1738788	EXACT			
-658270	68348	40086598	testosterone Topical Gel	378070	BROAD			2026-03-12
-697491	66470	35604755	testosterone undecanoate 250 MG/ML Injection	1738788	EXACT			2026-03-12
-709845	80617	40221123	testosterone Transdermal System	1806166	EXACT			
-764708	89495	35604755	testosterone undecanoate 250 MG/ML Injection	1738788	EXACT			2026-03-12
+650444	66470	43286110	4 ML Testosterone 250 MG/ML Injection	OMOP562215	EXACT	Spain clinically labels this as testosterone 1,000 mg in 4 mL; using the matching volume-specific injection concept per labeled presentation despite principios_activos naming undecanoate.		2026-03-16
+658270	68348	45776627	testosterone 10 MG/ACTUAT Topical Gel	1543209	EXACT			2026-03-16
+697491	66470	43286110	4 ML Testosterone 250 MG/ML Injection	OMOP562215	EXACT	Spain clinically labels this as testosterone 1,000 mg in 4 mL; using the matching volume-specific injection concept per labeled presentation despite principios_activos naming undecanoate.		2026-03-16
+709845	80617	45892492	60 ACTUAT testosterone 20.25 MG/ACTUAT Topical Gel	1597076	EXACT	Multidose pump gel; Spain labels 16.2 mg/g and 20.25 mg per actuation, matching the RxNorm actuation-based topical gel concept.		2026-03-16
+764708	89495	43286110	4 ML Testosterone 250 MG/ML Injection	OMOP562215	EXACT	Spain clinically labels this as testosterone 1,000 mg in 4 mL; using the matching volume-specific injection concept per labeled presentation despite principios_activos naming undecanoate.		2026-03-16
 838755	65016	45892525	5000 MG testosterone 0.01 MG/MG Topical Gel	1597129	EXACT			2026-03-12
 650431	66461	45892525	5000 MG testosterone 0.01 MG/MG Topical Gel	1597129	EXACT			2026-03-12
-700702	19207	40226337	testosterone propionate 25 MG/ML Injectable Solution	1010622	EXACT			2026-03-12
-700703	61865	40086566	testosterone Injectable Solution	374050	BROAD			2026-03-12
-700704	27691	40086566	testosterone Injectable Solution	374050	BROAD			2026-03-12
-723339	83339	40086598	testosterone Topical Gel	378070	BROAD			2026-03-12
+700702	19207	40226337	testosterone propionate 25 MG/ML Injectable Solution	1010622	BROAD	Single-use 1 mL ampoule; RxNorm exposes the matching concentration as Injectable Solution rather than a 1 mL Injection concept.	1 ML testosterone propionate 25 MG/ML Injection	2026-03-16
+700703	61865	40227450	testosterone cypionate 50 MG/ML Injectable Solution	1010630	BROAD	Single-use 2 mL ampoule; RxNorm exposes the matching concentration as Injectable Solution rather than a 2 mL Injection concept.	2 ML testosterone cypionate 50 MG/ML Injection	2026-03-16
+700704	27691	35132011	Testosterone 125 MG/ML	OMOP4789243	BROAD	RxNorm does not expose a testosterone cypionate 125 MG/ML injection concept; using the closest strength-preserving concept.	testosterone cypionate 125 MG/ML Injection	2026-03-16
+723339	83339	40086598	testosterone Topical Gel	378070	BROAD	RxNorm does not expose a 23 MG/dose transdermal gel concept for this multidose pump presentation.	testosterone 23 MG/ACTUAT Topical Gel	2026-03-16

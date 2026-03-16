@@ -9,10 +9,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 660047	69362	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640	EXACT			2026-03-12
 661985	70316	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
 661986	70316	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
-662288	61975	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893				2026-03-12
-662296	61975	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893				2026-03-12
-662338	61973	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893				2026-03-12
-662346	61973	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893				2026-03-12
+662288	61975	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-16
+662296	61975	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-16
+662338	61973	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-16
+662346	61973	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-16
 663918	298 IS 187 F3	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
 663919	298 IS 187 F3	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
 677566	BE174124	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
@@ -42,8 +42,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703178	3191087-3191186	40039760	ethinyl estradiol / gestodene Oral Tablet	372312	BROAD		gestodene 0.06 MG / ethinyl estradiol 0.015 MG Oral Tablet	2026-03-12
 703670	BE174124IP1	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
 703671	BE174124IP1	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
-703951	79138	40039760	ethinyl estradiol / gestodene Oral Tablet	372312	BROAD		gestodene 0.06 MG/24 H / ethinyl estradiol 0.013 MG/24 H Transdermal Patch	2026-03-12
-703952	79138	40039760	ethinyl estradiol / gestodene Oral Tablet	372312	BROAD		gestodene 0.06 MG/24 H / ethinyl estradiol 0.013 MG/24 H Transdermal Patch	2026-03-12
+703951	79138	40039760	ethinyl estradiol / gestodene Oral Tablet	372312	BROAD		gestodene 0.06 MG/24 H / ethinyl estradiol 0.013 MG/24 H Transdermal System	2026-03-16
+703952	79138	40039760	ethinyl estradiol / gestodene Oral Tablet	372312	BROAD		gestodene 0.06 MG/24 H / ethinyl estradiol 0.013 MG/24 H Transdermal System	2026-03-16
 706045	79705	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640	EXACT			2026-03-12
 706046	79705	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640	EXACT			2026-03-12
 707672	80164	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
@@ -54,10 +54,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 721367	027358011	19107178	ethinyl estradiol 0.03 MG / gestodene 0.05 MG Oral Tablet	430633	EXACT			2026-03-12
 732579	BE174124IP3	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
 732580	BE174124IP3	19063926	ethinyl estradiol 0.02 MG / gestodene 0.075 MG Oral Tablet	250893	EXACT			2026-03-12
-764076	59044	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640				2026-03-12
-765586	59044	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640				2026-03-12
-878199	59148	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640				2026-03-12
-878256	59148	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640				2026-03-12
+764076	59044	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640	EXACT			2026-03-16
+765586	59044	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640	EXACT			2026-03-16
+878199	59148	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640	EXACT			2026-03-16
+878256	59148	19060529	ethinyl estradiol 0.03 MG / gestodene 0.075 MG Oral Tablet	246640	EXACT			2026-03-16
 887539	63176	40039760	ethinyl estradiol / gestodene Oral Tablet	372312	BROAD		gestodene 0.06 MG / ethinyl estradiol 0.015 MG Oral Tablet	2026-03-12
 892141	63239	40039760	ethinyl estradiol / gestodene Oral Tablet	372312	BROAD		gestodene 0.06 MG / ethinyl estradiol 0.015 MG Oral Tablet	2026-03-12
 892158	63239	40039760	ethinyl estradiol / gestodene Oral Tablet	372312	BROAD		gestodene 0.06 MG / ethinyl estradiol 0.015 MG Oral Tablet	2026-03-12

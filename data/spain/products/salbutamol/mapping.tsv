@@ -1,16 +1,16 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607323	65850	1154615	200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler	745679	BROAD			2026-03-12
-625418	53010	40151684	albuterol Metered Dose Inhaler [Ventolin]	801094	BROAD			2026-03-12
+607323	65850	1154615	200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler	745679	EXACT			2026-03-16
+625418	53010	42902903	albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]	1360016	EXACT			2026-03-16
 652530	52404	1154615	200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler	745679	EXACT			2026-03-12
-654153	55148	19004087	albuterol 0.5 MG/ML Injectable Solution [Ventolin]	104505	EXACT			
-656706	53010	40151684	albuterol Metered Dose Inhaler [Ventolin]	801094	BROAD			2026-03-12
+654153	55148	19004087	albuterol 0.5 MG/ML Injectable Solution [Ventolin]	104505	EXACT			2026-03-16
+656706	53010	42902903	albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]	1360016	EXACT			2026-03-16
 664251	70869	1154615	200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler	745679	EXACT			2026-03-12
 677362	73563	1356108	albuterol Inhalation Solution	2108226	BROAD		albuterol 1 MG/ML Inhalation Solution	2026-03-12
 677363	73562	19060972	albuterol 2 MG/ML Inhalation Solution	247840	EXACT			2026-03-12
-766118	55148	19004087	albuterol 0.5 MG/ML Injectable Solution [Ventolin]	104505	EXACT			
-797183	65850	1154615	200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler	745679	BROAD			2026-03-12
+766118	55148	19004087	albuterol 0.5 MG/ML Injectable Solution [Ventolin]	104505	EXACT			2026-03-16
+797183	65850	1154615	200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler	745679	EXACT			2026-03-16
 941807	55147	1154655	albuterol 5 MG/ML Inhalation Solution [Ventolin]	795354	EXACT			2026-03-12
 656704	66408	46234464	200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler	1649560	EXACT			2026-03-12
-715780	53932	19128417	albuterol 0.4 MG/ML Oral Solution [Ventolin]	754902	BROAD			2026-03-12
-807107	54578	1154654	albuterol 0.4 MG/ML Oral Solution	755497	BROAD			2026-03-12
+715780	53932	19128417	albuterol 0.4 MG/ML Oral Solution [Ventolin]	754902	EXACT			2026-03-16
+807107	54578	1154654	albuterol 0.4 MG/ML Oral Solution	755497	EXACT			2026-03-16
 864967	63011	46234464	200 ACTUAT albuterol 0.09 MG/ACTUAT Dry Powder Inhaler	1649560	EXACT			2026-03-12

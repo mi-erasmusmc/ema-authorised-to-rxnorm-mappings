@@ -1,40 +1,40 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 654778	22903	1592263	cholecalciferol 0.05 MG/ML Oral Solution	1870970	EXACT			2026-03-15
-701217	78379	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Unit-dose oral solution row is 25,000 IU in 2.5 mL; RxNorm exposes the matching concentration oral-solution concept rather than the exact unit-dose presentation.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-15
-701218	78379	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Unit-dose oral solution row is 25,000 IU in 2.5 mL; RxNorm exposes the matching concentration oral-solution concept rather than the exact unit-dose presentation.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-15
-701220	78380	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral drops row; RxNorm exposes the concentration oral solution but not a drops-specific concept.	cholecalciferol 10000 UNT/ML Oral Solution	2026-03-15
+701217	78379	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+701218	78379	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+701220	78380	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 10,000 UNT/mL oral-solution concept.		2026-03-16
 704217	22903	1592263	cholecalciferol 0.05 MG/ML Oral Solution	1870970	EXACT			2026-03-15
-712334	81183	40237733	cholecalciferol 800 UNT	1099860	BROAD	No exact 800 IU cholecalciferol oral-capsule concept found in local RxNorm.	cholecalciferol 800 UNT Oral Capsule	2026-03-15
+712334	81183	21149133	Cholecalciferol 800 UNT Oral Capsule	OMOP309055	EXACT			2026-03-16
 712520	81223	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 712521	81224	19126425	cholecalciferol 1.25 MG Oral Capsule	705728	EXACT			2026-03-13
-712522	81225	19095164	cholecalciferol	2418	BROAD	No exact 100,000 IU cholecalciferol soft-capsule concept found in RxNorm.	cholecalciferol 100000 UNT Oral Capsule	2026-03-13
-713421	81360	19095164	cholecalciferol	2418	BROAD	No exact 5,600 IU cholecalciferol soft-capsule concept found in RxNorm.	cholecalciferol 5600 UNT Oral Capsule	2026-03-13
-715236	81820	19095164	cholecalciferol	2418	BROAD	No exact 25,000 IU oral-solution concept found for this presentation in RxNorm.	cholecalciferol 25000 UNT Oral Solution	2026-03-13
-715237	81821	19095164	cholecalciferol	2418	BROAD	No exact 100,000 IU oral-solution concept found for this presentation in RxNorm.	cholecalciferol 100000 UNT Oral Solution	2026-03-13
-715238	81822	19095164	cholecalciferol	2418	BROAD	No exact 50,000 IU oral-solution concept found for this presentation in RxNorm.	cholecalciferol 50000 UNT Oral Solution	2026-03-13
-718859	82411	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Unit-dose oral solution row is 25,000 IU in 2.5 mL; RxNorm exposes the matching concentration oral-solution concept rather than the exact unit-dose presentation.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-15
-718860	82411	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Unit-dose oral solution row is 25,000 IU in 2.5 mL; RxNorm exposes the matching concentration oral-solution concept rather than the exact unit-dose presentation.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-15
-718861	82412	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral drops row; RxNorm exposes the concentration oral solution but not a drops-specific concept.	cholecalciferol 10000 UNT/ML Oral Solution	2026-03-15
+712522	81225	1235975	cholecalciferol 100000 UNT Oral Capsule	OMOP5216682	EXACT			2026-03-16
+713421	81360	21129463	Cholecalciferol 5750 UNT Oral Capsule	OMOP317746	BROAD	RxNorm does not expose the exact 5,600 IU capsule; this is the closest capsule strength with the correct dose form.	cholecalciferol 5600 UNT Oral Capsule	2026-03-16
+715236	81820	40025589	cholecalciferol Oral Solution	371480	BROAD	Source row gives a total-dose oral solution but not a concentration; RxNorm only exposes a broader oral-solution concept.	cholecalciferol 25000 UNT Oral Solution	2026-03-16
+715237	81821	40025589	cholecalciferol Oral Solution	371480	BROAD	Source row gives a total-dose oral solution but not a concentration; RxNorm only exposes a broader oral-solution concept.	cholecalciferol 100000 UNT Oral Solution	2026-03-16
+715238	81822	40025589	cholecalciferol Oral Solution	371480	BROAD	Source row gives a total-dose oral solution but not a concentration; RxNorm only exposes a broader oral-solution concept.	cholecalciferol 50000 UNT Oral Solution	2026-03-16
+718859	82411	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+718860	82411	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+718861	82412	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 10,000 UNT/mL oral-solution concept.		2026-03-16
 724292	83672	1235979	cholecalciferol 30000 UNT Oral Tablet	OMOP5216686	EXACT			2026-03-13
-726549	84412	19095164	cholecalciferol	2418	BROAD	No exact 50,000 IU oral-solution concept found for this presentation in RxNorm.	cholecalciferol 50000 UNT Oral Solution	2026-03-13
-726550	84412	19095164	cholecalciferol	2418	BROAD	No exact 50,000 IU oral-solution concept found for this presentation in RxNorm.	cholecalciferol 50000 UNT Oral Solution	2026-03-13
+726549	84412	21100111	Cholecalciferol 20000 UNT/ML Oral Solution	OMOP317129	EXACT	50,000 IU in 2.5 mL is 20,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+726550	84412	21100111	Cholecalciferol 20000 UNT/ML Oral Solution	OMOP317129	EXACT	50,000 IU in 2.5 mL is 20,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
 726635	84442	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 727755	83672	1235979	cholecalciferol 30000 UNT Oral Tablet	OMOP5216686	EXACT			2026-03-13
-727781	84796	19095164	cholecalciferol	2418	BROAD	No exact 25,000 IU oral-solution concept found for this presentation in RxNorm.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-13
-729131	85357	19095164	cholecalciferol	2418	BROAD	Oral drops row; no exact 20,000 IU/mL drops concept found in RxNorm.	cholecalciferol 20000 UNT/ML Oral Solution	2026-03-13
+727781	84796	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+729131	85357	21100111	Cholecalciferol 20000 UNT/ML Oral Solution	OMOP317129	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 20,000 UNT/mL oral-solution concept.		2026-03-16
 729556	85500	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 729579	85511	36059336	cholecalciferol 1000 UNT Oral Capsule	OMOP4985044	EXACT			2026-03-13
 729580	85512	21168876	Cholecalciferol 20000 UNT Oral Capsule	OMOP310636	EXACT			2026-03-15
 729956	85637	40242471	cholecalciferol 0.625 MG Oral Capsule	1150266	EXACT			2026-03-13
 730308	84413	19126425	cholecalciferol 1.25 MG Oral Capsule	705728	EXACT			2026-03-13
-731107	86003	19095164	cholecalciferol	2418	BROAD	Oral drops row; no exact 14,400 IU/mL drops concept found in RxNorm.	cholecalciferol 14400 UNT/ML Oral Solution	2026-03-13
-731625	86196	19095164	cholecalciferol	2418	BROAD	No exact 50,000 IU oral-solution sachet concept found in RxNorm.	cholecalciferol 50000 UNT Oral Solution Sachet	2026-03-13
+731107	86003	35885958	cholecalciferol 14286 UNT/ML Oral Solution	OMOP5033278	BROAD	Closest oral-solution concept found is 14,286 UNT/mL; an exact 14,400 UNT/mL concept was not found.	cholecalciferol 14400 UNT/ML Oral Solution	2026-03-16
+731625	86196	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	50,000 IU in 5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
 731854	86278	42799410	cholecalciferol 1.25 MG Oral Tablet	1291276	EXACT			2026-03-15
 731858	86281	19095187	cholecalciferol 1000 UNT	332816	EXACT			2026-03-13
-731880	86294	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral drops row; RxNorm exposes the concentration oral solution but not a drops-specific concept.	cholecalciferol 10000 UNT/ML Oral Solution	2026-03-15
+731880	86294	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 10,000 UNT/mL oral-solution concept.		2026-03-16
 757410	87925	40242471	cholecalciferol 0.625 MG Oral Capsule	1150266	EXACT			2026-03-13
-759250	78380	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral drops row; RxNorm exposes the concentration oral solution but not a drops-specific concept.	cholecalciferol 10000 UNT/ML Oral Solution	2026-03-15
-763860	89177	19095164	cholecalciferol	2418	BROAD	No exact 10,000 IU cholecalciferol tablet concept found in RxNorm.	cholecalciferol 10000 UNT Oral Tablet	2026-03-13
+759250	78380	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 10,000 UNT/mL oral-solution concept.		2026-03-16
+763860	89177	35885941	cholecalciferol 10000 UNT Oral Tablet	OMOP5033253	EXACT			2026-03-16
 764264	89328	19126425	cholecalciferol 1.25 MG Oral Capsule	705728	EXACT			2026-03-13
 764265	89328	19126425	cholecalciferol 1.25 MG Oral Capsule	705728	EXACT			2026-03-13
 764266	89329	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
@@ -42,16 +42,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 764268	89326	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 764269	89326	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 764270	89327	19126425	cholecalciferol 1.25 MG Oral Capsule	705728	EXACT			2026-03-13
-764375	89368	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral drops row; RxNorm exposes the concentration oral solution but not a drops-specific concept.	cholecalciferol 10000 UNT/ML Oral Solution	2026-03-15
-766516	90024	19095164	cholecalciferol	2418	BROAD	No exact 25,000 IU oral-solution concept found for this presentation in RxNorm.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-13
-766517	90024	19095164	cholecalciferol	2418	BROAD	No exact 25,000 IU oral-solution concept found for this presentation in RxNorm.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-13
+764375	89368	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 10,000 UNT/mL oral-solution concept.		2026-03-16
+766516	90024	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+766517	90024	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
 692281	76227	40237733	cholecalciferol 800 UNT	1099860	EXACT			2026-03-15
 726634	84441	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 727474	84690	21168876	Cholecalciferol 20000 UNT Oral Capsule	OMOP310636	EXACT			2026-03-15
-727600	84726	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral solution unit-dose row is 25,000 IU in 2.5 mL; RxNorm exposes the concentration concept rather than the exact unit-dose presentation.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-15
-727601	84726	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral solution unit-dose row is 25,000 IU in 2.5 mL; RxNorm exposes the concentration concept rather than the exact unit-dose presentation.	cholecalciferol 25000 UNT Oral Solution 2.5 ML	2026-03-15
-727603	84727	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral drops row; RxNorm exposes the concentration oral solution but not a drops-specific concept.	cholecalciferol 10000 UNT/ML Oral Solution	2026-03-15
-728313	037564010	40235683	cholecalciferol 0.25 MG/ML Oral Solution	1088134	BROAD	Oral drops row; RxNorm exposes the concentration oral solution but not a drops-specific concept.	cholecalciferol 10000 UNT/ML Oral Solution	2026-03-15
+727600	84726	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+727601	84726	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	25,000 IU in 2.5 mL is 10,000 IU/mL; RxNorm expresses the same oral-solution presentation by concentration.		2026-03-16
+727603	84727	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 10,000 UNT/mL oral-solution concept.		2026-03-16
+728313	037564010	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 10,000 UNT/mL oral-solution concept.		2026-03-16
 762758	84441	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 768761	90667	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 768763	90666	19126425	cholecalciferol 1.25 MG Oral Capsule	705728	EXACT			2026-03-15

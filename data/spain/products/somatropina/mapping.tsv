@@ -1,55 +1,55 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650184	59483	1584910	somatropin	61148	BROAD			
-664938	61822	1585202	0.25 ML somatropin 8 MG/ML Prefilled Syringe [Genotropin]	762897	EXACT			2026-03-12
-664946	61821	42902399	somatropin 7.2 MG/ML Prefilled Syringe [Genotropin]	1359512	EXACT			2026-03-12
-664953	61820	40755357	Somatropin 6.4 MG/ML Injectable Solution	OMOP4702338	EXACT			
-664961	61819	42903096	somatropin 5.6 MG/ML Prefilled Syringe [Genotropin]	1360209	EXACT			2026-03-12
-664979	61818	42902669	somatropin 4.8 MG/ML Prefilled Syringe [Genotropin]	1359782	EXACT			2026-03-12
-664987	61817	1585180	0.25 ML somatropin 4 MG/ML Prefilled Syringe [Genotropin]	762875	EXACT			2026-03-12
-664995	61816	42903215	somatropin 3.2 MG/ML Prefilled Syringe [Genotropin]	1360328	EXACT			2026-03-12
-665000	61815	42902965	somatropin 2.4 MG/ML Prefilled Syringe [Genotropin]	1360078	EXACT			2026-03-12
-665018	61814	42902486	somatropin 1.6 MG/ML Prefilled Syringe [Genotropin]	1359599	EXACT			2026-03-12
-665026	61813	42903265	somatropin 0.8 MG/ML Prefilled Syringe [Genotropin]	1360378	EXACT			2026-03-12
-667541	70642	46221381	somatropin 10 MG/ML Injectable Solution [Zomacton]	1648160	EXACT			2026-03-12
-678005	60117	19043973	somatropin 12 MG/ML [Genotropin]	573247	EXACT			
-678006	59427	42903354	somatropin 5 MG/ML Cartridge [Genotropin]	1360467	BROAD			2026-03-12
+650184	59483	2919002	somatropin 4 MG Injection [Zomacton]	OMOP5135818	EXACT			2026-03-16
+664938	61822	21070555	Somatropin 2 MG Injection [Genotropin Miniquick]	OMOP274721	EXACT			2026-03-16
+664946	61821	21040994	Somatropin 1.8 MG Injection [Genotropin Miniquick]	OMOP274640	EXACT			2026-03-16
+664953	61820	21050774	Somatropin 1.6 MG Injection [Genotropin Miniquick]	OMOP273925	EXACT			2026-03-16
+664961	61819	21080249	Somatropin 1.4 MG Injection [Genotropin Miniquick]	OMOP273186	EXACT			2026-03-16
+664979	61818	21109683	Somatropin 1.2 MG Injection [Genotropin Miniquick]	OMOP273846	EXACT			2026-03-16
+664987	61817	21050782	Somatropin 1 MG Injection [Genotropin Miniquick]	OMOP274571	EXACT			2026-03-16
+664995	61816	21031077	Somatropin 0.8 MG Injection [Genotropin Miniquick]	OMOP273772	EXACT			2026-03-16
+665000	61815	21168694	Somatropin 0.6 MG Injection [Genotropin Miniquick]	OMOP274487	EXACT			2026-03-16
+665018	61814	21109679	Somatropin 0.4 MG Injection [Genotropin Miniquick]	OMOP273052	EXACT			2026-03-16
+665026	61813	21168696	Somatropin 0.2 MG Injection [Genotropin Miniquick]	OMOP275022	EXACT			2026-03-16
+667541	70642	2918998	somatropin 10 MG Injection [Zomacton]	OMOP5135814	EXACT			2026-03-16
+678005	60117	21158872	Somatropin 12 MG Injection [Genotropin]	OMOP274005	EXACT			2026-03-16
+678006	59427	21040983	Somatropin 5 MG Injection [Genotropin]	OMOP273440	BROAD	Kabipen 5.3 mg is a single-use powder+solvent vial; 5.3 mg strength not in RxNorm	somatropin 5.3 MG Injection [Genotropin]	2026-03-16
 679430	73842	35603711	somatropin 5.83 MG/ML Cartridge [Saizen]	1736301	EXACT			2026-03-12
 679432	73842	35603711	somatropin 5.83 MG/ML Cartridge [Saizen]	1736301	EXACT			2026-03-12
-679433	73843	40169224	somatropin 8.8 MG Cartridge [Saizen]	897044	EXACT			
-679434	73843	40169224	somatropin 8.8 MG Cartridge [Saizen]	897044	EXACT			
-679435	73843	40169224	somatropin 8.8 MG Cartridge [Saizen]	897044	EXACT			
-679436	73843	40169224	somatropin 8.8 MG Cartridge [Saizen]	897044	EXACT			
+679433	73843	43519376	1.5 ML Somatropin 8 MG/ML Cartridge [Saizen]	OMOP2806491	EXACT			2026-03-16
+679434	73843	43519376	1.5 ML Somatropin 8 MG/ML Cartridge [Saizen]	OMOP2806491	EXACT			2026-03-16
+679435	73843	43265068	2.5 ML Somatropin 8 MG/ML Cartridge [Saizen]	OMOP561828	EXACT			2026-03-16
+679436	73843	43265068	2.5 ML Somatropin 8 MG/ML Cartridge [Saizen]	OMOP561828	EXACT			2026-03-16
 690578	60423	1585070	somatropin 24 MG Cartridge [Humatrope]	582976	EXACT			2026-03-12
 690586	60422	1585067	somatropin 12 MG Cartridge [Humatrope]	582971	EXACT			2026-03-12
 690594	60421	1585115	somatropin 6 MG Cartridge [Humatrope]	729234	EXACT			2026-03-12
-696120	60117	19043973	somatropin 12 MG/ML [Genotropin]	573247	EXACT			
+696120	60117	21158872	Somatropin 12 MG Injection [Genotropin]	OMOP274005	EXACT			2026-03-16
 701434	106332014	40166101	1.5 ML somatropin 3.3 MG/ML Cartridge [Omnitrope]	864110	EXACT			2025-12-04
 701435	106332016	40160962	1.5 ML somatropin 6.67 MG/ML Cartridge [Omnitrope]	854302	EXACT			2025-12-04
 701436	106332017	40160962	1.5 ML somatropin 6.67 MG/ML Cartridge [Omnitrope]	854302	EXACT			2025-12-04
-701437	106332010	1585227	1.5 ML somatropin 10 MG/ML Pen Injector	847243	EXACT			2025-12-04
+701437	106332010	43519390	1.5 ML Somatropin 10 MG/ML Cartridge [Omnitrope]	OMOP2806505	EXACT			2026-03-16
 702422	106332013	40166101	1.5 ML somatropin 3.3 MG/ML Cartridge [Omnitrope]	864110	EXACT			2025-12-04
-706498	61815	42902965	somatropin 2.4 MG/ML Prefilled Syringe [Genotropin]	1360078	EXACT			2026-03-12
-706500	61818	42902669	somatropin 4.8 MG/ML Prefilled Syringe [Genotropin]	1359782	EXACT			2026-03-12
-706501	61822	1585202	0.25 ML somatropin 8 MG/ML Prefilled Syringe [Genotropin]	762897	EXACT			2026-03-12
-706502	61813	42903265	somatropin 0.8 MG/ML Prefilled Syringe [Genotropin]	1360378	EXACT			2026-03-12
-706503	61814	42902486	somatropin 1.6 MG/ML Prefilled Syringe [Genotropin]	1359599	EXACT			2026-03-12
-706504	61817	1585180	0.25 ML somatropin 4 MG/ML Prefilled Syringe [Genotropin]	762875	EXACT			2026-03-12
-706505	61819	42903096	somatropin 5.6 MG/ML Prefilled Syringe [Genotropin]	1360209	EXACT			2026-03-12
-706506	61820	40755357	Somatropin 6.4 MG/ML Injectable Solution	OMOP4702338	EXACT			
-706507	61821	42902399	somatropin 7.2 MG/ML Prefilled Syringe [Genotropin]	1359512	EXACT			2026-03-12
-706508	61816	42903215	somatropin 3.2 MG/ML Prefilled Syringe [Genotropin]	1360328	EXACT			2026-03-12
-725947	59483	1584910	somatropin	61148	BROAD			
-729976	85644	42902401	somatropin 6.67 MG/ML Pen Injector [Norditropin]	1359514	EXACT			
-729977	85645	42903165	somatropin 3.33 MG/ML Pen Injector [Norditropin]	1360278	EXACT			
-729978	85646	42903108	somatropin 10 MG/ML Pen Injector [Norditropin]	1360221	EXACT			
-764568	59483	1584910	somatropin	61148	BROAD			
-767795	90346	42902401	somatropin 6.67 MG/ML Pen Injector [Norditropin]	1359514	EXACT			
-767797	90347	42903108	somatropin 10 MG/ML Pen Injector [Norditropin]	1360221	EXACT			
-767800	90348	42903165	somatropin 3.33 MG/ML Pen Injector [Norditropin]	1360278	EXACT			
-988998	59427	42903354	somatropin 5 MG/ML Cartridge [Genotropin]	1360467	BROAD			2026-03-12
+706498	61815	21168694	Somatropin 0.6 MG Injection [Genotropin Miniquick]	OMOP274487	EXACT			2026-03-16
+706500	61818	21109683	Somatropin 1.2 MG Injection [Genotropin Miniquick]	OMOP273846	EXACT			2026-03-16
+706501	61822	21070555	Somatropin 2 MG Injection [Genotropin Miniquick]	OMOP274721	EXACT			2026-03-16
+706502	61813	21168696	Somatropin 0.2 MG Injection [Genotropin Miniquick]	OMOP275022	EXACT			2026-03-16
+706503	61814	21109679	Somatropin 0.4 MG Injection [Genotropin Miniquick]	OMOP273052	EXACT			2026-03-16
+706504	61817	21050782	Somatropin 1 MG Injection [Genotropin Miniquick]	OMOP274571	EXACT			2026-03-16
+706505	61819	21080249	Somatropin 1.4 MG Injection [Genotropin Miniquick]	OMOP273186	EXACT			2026-03-16
+706506	61820	21050774	Somatropin 1.6 MG Injection [Genotropin Miniquick]	OMOP273925	EXACT			2026-03-16
+706507	61821	21040994	Somatropin 1.8 MG Injection [Genotropin Miniquick]	OMOP274640	EXACT			2026-03-16
+706508	61816	21031077	Somatropin 0.8 MG Injection [Genotropin Miniquick]	OMOP273772	EXACT			2026-03-16
+725947	59483	2919002	somatropin 4 MG Injection [Zomacton]	OMOP5135818	EXACT			2026-03-16
+729976	85644	42902401	somatropin 6.67 MG/ML Pen Injector [Norditropin]	1359514	EXACT			2026-03-16
+729977	85645	42903165	somatropin 3.33 MG/ML Pen Injector [Norditropin]	1360278	EXACT			2026-03-16
+729978	85646	42903108	somatropin 10 MG/ML Pen Injector [Norditropin]	1360221	EXACT			2026-03-16
+764568	59483	2919002	somatropin 4 MG Injection [Zomacton]	OMOP5135818	EXACT			2026-03-16
+767795	90346	42902401	somatropin 6.67 MG/ML Pen Injector [Norditropin]	1359514	EXACT			2026-03-16
+767797	90347	42903108	somatropin 10 MG/ML Pen Injector [Norditropin]	1360221	EXACT			2026-03-16
+767800	90348	42903165	somatropin 3.33 MG/ML Pen Injector [Norditropin]	1360278	EXACT			2026-03-16
+988998	59427	21040983	Somatropin 5 MG Injection [Genotropin]	OMOP273440	BROAD	Kabipen 5.3 mg is a single-use powder+solvent vial; 5.3 mg strength not in RxNorm	somatropin 5.3 MG Injection [Genotropin]	2026-03-16
 858035	62977	35603716	1.5 ML somatropin 6.67 MG/ML Cartridge	1736337	EXACT			2026-03-12
 858050	62978	35603701	1.5 ML somatropin 3.3 MG/ML Cartridge	1736267	EXACT			2026-03-12
-858084	62979	35603481	somatropin 10 MG/ML Cartridge	1735491	BROAD			2026-03-12
+858084	62979	43810378	1.5 ML Somatropin 10 MG/ML Cartridge [Norditropin Simplexx]	OMOP746102	EXACT	Norditropin Simplexx cartridge for reusable NordiPen; 1.5 mL volume-specific match		2026-03-16
 859207	00164004	35603490	2 ML somatropin 5 MG/ML Cartridge [Nutropin]	1735501	EXACT			2026-03-12
 659613	06332004	40166101	1.5 ML somatropin 3.3 MG/ML Cartridge [Omnitrope]	864110	EXACT			2026-03-12
 659614	06332005	40166101	1.5 ML somatropin 3.3 MG/ML Cartridge [Omnitrope]	864110	EXACT			2026-03-12
