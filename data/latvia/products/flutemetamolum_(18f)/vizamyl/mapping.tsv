@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/14/941/001	44785455	flutemetamol	1486026	BROAD	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-13
-EU/1/14/941/002	44785455	flutemetamol	1486026	BROAD	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-13
+EU/1/14/941/001	44785455	flutemetamol	1486026	EXACT	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19
+EU/1/14/941/002	44785455	flutemetamol	1486026	EXACT	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19

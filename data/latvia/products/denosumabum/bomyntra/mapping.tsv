@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/1953/001	0	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2717549	EXACT	Biosimilar; FDA suffix denosumab-bnht exists but no RxNorm concept yet	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2026-03-19
-EU/1/25/1953/002	0	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2717549	EXACT	Same concept, different pack size (3 vials)	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2026-03-19
-EU/1/25/1953/003	0	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2717549	EXACT	Same concept, different pack size (4 vials)	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2026-03-19
-EU/1/25/1953/004	0	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2717555	EXACT	Pre-filled syringe presentation; same strength as vials	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2026-03-19
-EU/1/25/1953/005	0	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2717555	EXACT	Same concept, different pack size (3 pre-filled syringes)	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2026-03-19
-EU/1/25/1953/006	0	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2717555	EXACT	Same concept, different pack size (4 pre-filled syringes)	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2026-03-19
+EU/1/25/1953/001	37355084	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2717549	EXACT			2026-03-19
+EU/1/25/1953/002	37355084	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2717549	EXACT			2026-03-19
+EU/1/25/1953/003	37355084	1.7 ML denosumab-bnht 70 MG/ML Injection [Bomyntra]	2717549	EXACT			2026-03-19
+EU/1/25/1953/004	37355086	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2717555	EXACT			2026-03-19
+EU/1/25/1953/005	37355086	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2717555	EXACT			2026-03-19
+EU/1/25/1953/006	37355086	1.7 ML denosumab-bnht 70 MG/ML Prefilled Syringe [Bomyntra]	2717555	EXACT			2026-03-19

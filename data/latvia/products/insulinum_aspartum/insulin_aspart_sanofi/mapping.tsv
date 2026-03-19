@@ -1,8 +1,8 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/20/1447/001	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; aligned with EMA mapping		2026-02-13
-EU/1/20/1447/002	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; aligned with EMA mapping		2026-02-13
-EU/1/20/1447/003	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; aligned with EMA mapping		2026-02-13
-EU/1/20/1447/004	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; cartridge mapped to Pen Injector; aligned with EMA mapping		2026-02-13
-EU/1/20/1447/005	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; cartridge mapped to Pen Injector; aligned with EMA mapping		2026-02-13
-EU/1/20/1447/006	1465542	insulin aspart-szjj 100 UNT/ML Injectable Solution	2705733	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; aligned with EMA mapping		2026-02-13
-EU/1/20/1447/007	1465542	insulin aspart-szjj 100 UNT/ML Injectable Solution	2705733	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; aligned with EMA mapping		2026-02-13
+EU/1/20/1447/001	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj		2026-03-19
+EU/1/20/1447/002	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj		2026-03-19
+EU/1/20/1447/003	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj		2026-03-19
+EU/1/20/1447/004	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; cartridge mapped to Pen Injector		2026-03-19
+EU/1/20/1447/005	1466444	3 ML insulin aspart-szjj 100 UNT/ML Pen Injector	2705741	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj; cartridge mapped to Pen Injector		2026-03-19
+EU/1/20/1447/006	1465542	insulin aspart-szjj 100 UNT/ML Injectable Solution	2705733	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj		2026-03-19
+EU/1/20/1447/007	1465542	insulin aspart-szjj 100 UNT/ML Injectable Solution	2705733	EXACT	Biosimilar; EU brand Insulin aspart Sanofi = insulin aspart-szjj		2026-03-19

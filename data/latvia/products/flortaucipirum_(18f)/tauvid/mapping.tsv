@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1799/001	702008	flortaucipir	2571858	BROAD	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19
-EU/1/24/1799/002	702008	flortaucipir	2571858	BROAD	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19
+EU/1/24/1799/001	702008	flortaucipir	2571858	EXACT	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19
+EU/1/24/1799/002	702008	flortaucipir	2571858	EXACT	Diagnostic radiopharmaceutical (PET imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19

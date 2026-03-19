@@ -36,7 +36,7 @@ EU/1/01/185/042	1304796	0.3 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Ara
 EU/1/01/185/043	1304795	0.6 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp]	731229	EXACT			2026-02-16
 EU/1/01/185/044	1304798	1 ML darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp]	731241	EXACT			2026-02-16
 EU/1/01/185/045	2901922	0.4 ML darbepoetin alfa 0.025 MG/ML Pen Injector	OMOP5118799	EXACT			2026-02-16
-EU/1/01/185/046	21050012	0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286062	EXACT		0.375 ML darbepoetin alfa 0.04 MG/ML Pen Injector	2026-02-16
+EU/1/01/185/046	21050012	0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286062	BROAD		0.375 ML darbepoetin alfa 0.04 MG/ML Pen Injector	2026-03-19
 EU/1/01/185/047	2902054	0.5 ML darbepoetin alfa 0.04 MG/ML Pen Injector	OMOP5118927	EXACT			2026-02-16
 EU/1/01/185/048	2901856	0.3 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118737	EXACT			2026-02-16
 EU/1/01/185/049	2901917	0.4 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118795	EXACT			2026-02-16
@@ -48,7 +48,7 @@ EU/1/01/185/054	36280959	0.3 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3131
 EU/1/01/185/055	36281257	0.6 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3132132	EXACT			2026-02-16
 EU/1/01/185/056	36278018	1 ML darbepoetin alfa 0.5 MG/ML Pen Injector	OMOP3128893	EXACT			2026-02-16
 EU/1/01/185/057	2901922	0.4 ML darbepoetin alfa 0.025 MG/ML Pen Injector	OMOP5118799	EXACT			2026-02-16
-EU/1/01/185/058	21050012	0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286062	EXACT		0.375 ML darbepoetin alfa 0.04 MG/ML Pen Injector	2026-02-16
+EU/1/01/185/058	21050012	0.375 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe	OMOP286062	BROAD		0.375 ML darbepoetin alfa 0.04 MG/ML Pen Injector	2026-03-19
 EU/1/01/185/059	2902054	0.5 ML darbepoetin alfa 0.04 MG/ML Pen Injector	OMOP5118927	EXACT			2026-02-16
 EU/1/01/185/060	2901856	0.3 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118737	EXACT			2026-02-16
 EU/1/01/185/061	2901917	0.4 ML darbepoetin alfa 0.1 MG/ML Pen Injector	OMOP5118795	EXACT			2026-02-16

@@ -11,4 +11,4 @@ EU/1/17/1196/009	1594604	1.14 ML sarilumab 132 MG/ML Prefilled Syringe [Kevzara]
 EU/1/17/1196/010	1594613	1.14 ML sarilumab 175 MG/ML Prefilled Syringe [Kevzara]	1923347	EXACT			2026-02-17
 EU/1/17/1196/011	42544069	1.14 ML sarilumab 132 MG/ML Auto-Injector [Kevzara]	2003757	EXACT			2026-02-17
 EU/1/17/1196/012	42544071	1.14 ML sarilumab 175 MG/ML Auto-Injector [Kevzara]	2003767	EXACT			2026-02-17
-EU/1/17/1196/013	1594613	1.14 ML sarilumab 175 MG/ML Prefilled Syringe [Kevzara]	1923347	NARROW	The 1.54 ML in doc is for overfill see SmPC Section 6.6 - Special Precautions for Disposal and Other Handling (Page 37)	1.14 ML sarilumab 175 MG/ML Injection [Kevzara]	2026-02-17
+EU/1/17/1196/013	2903546	1.14 ML sarilumab 175 MG/ML Injection [Kevzara]	OMOP5120388	EXACT	Vial presentation - 1.54 ML is overfill, 1.14 ML is deliverable dose per SmPC Section 6.6; Injection dose form covers single-use parenteral solutions including vials		2026-03-19

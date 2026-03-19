@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Sync mapping data between EMA and Latvia TSV files.
-When ma_number = product_id and one has a value while the other is null,
-update the product's mapping.tsv file with the non-null value.
+Sync mapping data from EMA to Latvia TSV files.
+EMA is the single source of truth: when ma_number matches a Latvia product_id or inter_code,
+overwrite the Latvia mapping with the EMA values.
 """
 
 import csv
@@ -10,7 +10,7 @@ import sys
 import subprocess
 from pathlib import Path
 from datetime import date
-from typing import Dict, Optional, List
+from typing import Dict, List
 
 # Fields to sync between EMA and Latvia
 SYNC_FIELDS = ['concept_id', 'concept_name', 'concept_code', 'mapping_type', 'comment', 'suggestion']
@@ -32,69 +32,54 @@ def is_empty(value: Optional[str]) -> bool:
     """Check if a value is None or empty string."""
     return value is None or value == ''
 
-def find_product_mapping_file(base_path: Path, product_id: str, is_latvia: bool = False, ema_product_number: str = '') -> Optional[Path]:
-    """Find the mapping.tsv file for a given product ID in the product folders."""
-    # For EMA: data/ema/products/{product_number}/mapping.tsv (product_number from ema_product_number e.g. EMEA/H/C/000071 -> 000071)
-    # For Latvia: data/latvia/products/{ingredient}/{brand_name}/mapping.tsv (need to search within files)
+def build_latvia_file_index(base_path: Path) -> Dict[str, Path]:
+    """Scan all Latvia mapping files once and return {product_id: mapping_file} index."""
+    index = {}
+    for mapping_file in base_path.rglob('*/*/mapping.tsv'):
+        try:
+            rows = read_tsv(mapping_file)
+            for row in rows:
+                pid = row.get('product_id')
+                if pid:
+                    index[pid] = mapping_file
+        except Exception:
+            continue
+    return index
 
-    if not is_latvia:
-        # EMA: folder is named by the numeric product ID from ema_product_number
-        folder_name = ema_product_number.rsplit('/', 1)[-1] if ema_product_number else ''
-        if folder_name:
-            mapping_file = base_path / folder_name / 'mapping.tsv'
-            if mapping_file.exists():
-                return mapping_file
-        return None
-    else:
-        # Latvia: search through all mapping.tsv files to find one containing this product_id
-        for mapping_file in base_path.rglob('*/*/mapping.tsv'):
-            try:
-                rows = read_tsv(mapping_file)
-                for row in rows:
-                    if row.get('product_id') == product_id:
-                        return mapping_file
-            except Exception:
-                continue
-        return None
-
-def update_mapping_file(mapping_file: Path, product_id: str, updates: Dict[str, str], source: str):
-    """Update a product's mapping.tsv file with new values."""
-    if not mapping_file.exists():
-        print(f"  ⚠️  Mapping file not found: {mapping_file}")
-        return
-
+def apply_updates_to_file(mapping_file: Path, updates_by_id: Dict[str, Dict[str, str]]):
+    """Apply multiple product updates to a single mapping file in one read/write pass."""
     rows = read_tsv(mapping_file)
     if not rows:
         print(f"  ⚠️  No rows in mapping file: {mapping_file}")
-        return
+        return 0
 
-    # Get fieldnames from existing file
     with open(mapping_file, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f, delimiter='\t')
         fieldnames = reader.fieldnames
 
-    # Find the row matching the product_id (first column could be ma_number or product_id)
-    id_field = fieldnames[0]  # 'ma_number' or 'product_id'
+    id_field = fieldnames[0]
+    today = str(date.today())
+    file_updated = False
 
-    updated = False
     for row in rows:
-        if row.get(id_field) == product_id:
-            changes = []
-            for field, value in updates.items():
-                if field in fieldnames and is_empty(row.get(field)) and not is_empty(value):
-                    row[field] = value
-                    changes.append(f"{field}={value}")
-                    updated = True
+        pid = row.get(id_field)
+        if pid not in updates_by_id:
+            continue
+        updates = updates_by_id[pid]
+        changes = []
+        for field, value in updates.items():
+            if field in fieldnames and not is_empty(value) and row.get(field) != value:
+                row[field] = value
+                changes.append(f"{field}={value}")
+        if changes:
+            row['last_updated_date'] = today
+            print(f"  ✓ Updated {mapping_file.relative_to(Path.cwd())} [{pid}]")
+            print(f"    {', '.join(changes)}")
+            file_updated = True
 
-            if changes:
-                row['last_updated_date'] = str(date.today())
-                print(f"  ✓ Updated {mapping_file.relative_to(Path.cwd())}")
-                print(f"    {', '.join(changes)}")
-
-    if updated:
+    if file_updated:
         write_tsv(mapping_file, rows, fieldnames)
-
-    return updated
+    return file_updated
 
 def main():
     # Get git root directory
@@ -108,79 +93,68 @@ def main():
 
     ema_file = workspace / 'ema-to-rxnorm.tsv'
     latvia_file = workspace / 'latvia-to-rxnorm.tsv'
-    ema_products = workspace / 'data' / 'ema' / 'products'
     latvia_products = workspace / 'data' / 'latvia' / 'products'
 
     print("Reading TSV files...")
     ema_rows = read_tsv(ema_file)
     latvia_rows = read_tsv(latvia_file)
 
-    # Create lookup dictionaries by ID
+    # Build lookup indexes
     ema_by_id = {row['ma_number']: row for row in ema_rows}
     latvia_by_id = {row['product_id']: row for row in latvia_rows}
+    # Build inter_code -> product_id index to avoid O(N²) scan
+    latvia_by_inter_code = {
+        row['inter_code']: row['product_id']
+        for row in latvia_rows
+        if row.get('inter_code')
+    }
 
     # Find common IDs - check both product_id and inter_code for Latvia
     print("Finding common products...")
     matches = []
-
-    # Match EMA ma_number with Latvia product_id or inter_code
     for ema_id, ema_row in ema_by_id.items():
-        # Check if EMA ma_number matches Latvia product_id
         if ema_id in latvia_by_id:
             matches.append((ema_id, ema_id, ema_row, latvia_by_id[ema_id]))
-        else:
-            # Check if EMA ma_number matches Latvia inter_code
-            for latvia_id, latvia_row in latvia_by_id.items():
-                if latvia_row.get('inter_code') == ema_id:
-                    matches.append((ema_id, latvia_id, ema_row, latvia_row))
-                    break
+        elif ema_id in latvia_by_inter_code:
+            latvia_id = latvia_by_inter_code[ema_id]
+            matches.append((ema_id, latvia_id, ema_row, latvia_by_id[latvia_id]))
 
-    print(f"Found {len(matches)} products in both EMA and Latvia files\n")
+    print(f"Found {len(matches)} products in both EMA and Latvia files")
 
     if not matches:
         print("No common products found. Exiting.")
         return
 
-    updates_count = 0
+    # Build Latvia file index in one pass (instead of re-scanning per product)
+    print("Indexing Latvia mapping files...")
+    latvia_file_index = build_latvia_file_index(latvia_products)
+
+    # Group updates by mapping file to minimise reads/writes
+    updates_by_file: Dict[Path, Dict[str, Dict[str, str]]] = {}
+    missing = []
 
     for ema_id, latvia_id, ema_row, latvia_row in matches:
-        # Check for fields to sync from Latvia to EMA
-        ema_updates = {}
-        for field in SYNC_FIELDS:
-            ema_val = ema_row.get(field)
-            latvia_val = latvia_row.get(field)
+        latvia_updates = {
+            field: ema_row[field]
+            for field in SYNC_FIELDS
+            if not is_empty(ema_row.get(field))
+        }
+        if not latvia_updates:
+            continue
+        mapping_file = latvia_file_index.get(latvia_id)
+        if not mapping_file:
+            missing.append(latvia_id)
+            continue
+        updates_by_file.setdefault(mapping_file, {})[latvia_id] = latvia_updates
 
-            if is_empty(ema_val) and not is_empty(latvia_val):
-                ema_updates[field] = latvia_val
+    print(f"\nApplying updates to {len(updates_by_file)} mapping file(s)...\n")
+    updates_count = 0
+    for mapping_file, updates_by_id in updates_by_file.items():
+        if apply_updates_to_file(mapping_file, updates_by_id):
+            updates_count += 1
 
-        # Check for fields to sync from EMA to Latvia
-        latvia_updates = {}
-        for field in SYNC_FIELDS:
-            ema_val = ema_row.get(field)
-            latvia_val = latvia_row.get(field)
-
-            if is_empty(latvia_val) and not is_empty(ema_val):
-                latvia_updates[field] = ema_val
-
-        # Update EMA mapping file if needed
-        if ema_updates:
-            print(f"Product {ema_id}: Syncing from Latvia → EMA")
-            ema_mapping_file = find_product_mapping_file(ema_products, ema_id, is_latvia=False, ema_product_number=ema_row.get('ema_product_number', ''))
-            if ema_mapping_file:
-                if update_mapping_file(ema_mapping_file, ema_id, ema_updates, 'Latvia'):
-                    updates_count += 1
-            else:
-                print(f"  ⚠️  EMA product folder not found: {ema_id}")
-
-        # Update Latvia mapping file if needed
-        if latvia_updates:
-            print(f"Product {latvia_id} (EMA: {ema_id}): Syncing from EMA → Latvia")
-            latvia_mapping_file = find_product_mapping_file(latvia_products, latvia_id, is_latvia=True)
-            if latvia_mapping_file:
-                if update_mapping_file(latvia_mapping_file, latvia_id, latvia_updates, 'EMA'):
-                    updates_count += 1
-            else:
-                print(f"  ⚠️  Latvia product folder not found: {latvia_id}")
+    for latvia_id in missing:
+        print(f"  ⚠️  Latvia product folder not found: {latvia_id}")
 
     print(f"\n✓ Sync complete. Updated {updates_count} mapping files.")
 

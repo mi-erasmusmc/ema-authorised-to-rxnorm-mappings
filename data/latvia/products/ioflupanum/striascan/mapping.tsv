@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/19/1372/001	702004	ioflupane	2571854	BROAD	Diagnostic radiopharmaceutical (SPECT imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19
-EU/1/19/1372/002	702004	ioflupane	2571854	BROAD	Diagnostic radiopharmaceutical (SPECT imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19
+EU/1/19/1372/001	702004	ioflupane	2571854	EXACT	Diagnostic radiopharmaceutical (SPECT imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19
+EU/1/19/1372/002	702004	ioflupane	2571854	EXACT	Diagnostic radiopharmaceutical (SPECT imaging agent); ingredient-level concept is best available match in RxNorm		2026-03-19

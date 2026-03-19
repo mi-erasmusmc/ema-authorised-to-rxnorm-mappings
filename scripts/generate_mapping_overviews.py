@@ -249,7 +249,7 @@ def _load_latvia_mappings(products_dir):
             for row in reader:
                 pid = row.get("product_id", "").strip()
                 if pid:
-                    mappings[pid] = {col: row.get(col, "").strip() for col in LATVIA_MAPPING_COLUMNS}
+                    mappings[pid] = {col: (row.get(col) or "").strip() for col in LATVIA_MAPPING_COLUMNS}
     return mappings
 
 
