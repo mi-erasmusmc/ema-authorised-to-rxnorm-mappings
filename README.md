@@ -8,9 +8,9 @@ comprehensive publicly available mappings of all EMA authorised products to OMOP
 
 | File | Mappings                        | Last Updated |
 |------|---------------------------------|--------------|
-| `ema-to-rxnorm.tsv` | ~16,800                         | 2026-03-16 |
+| `ema-to-rxnorm.tsv` | ~16,500                         | 2026-03-16 |
 | `spain-to-rxnorm.tsv` | ~30,050                       | 2026-03-16 |
-| `latvia-to-rxnorm.tsv` | ~33,000 mapped, ~6,000 unmapped | 2026-02-05 |
+| `latvia-to-rxnorm.tsv` | ~33,100 mapped, ~6,000 unmapped | 2026-02-05 |
 
 Because EMA centrally authorised products are valid across all EU member states, these mappings can serve as a
 foundation or cross-reference for country-specific drug vocabulary mappings throughout Europe. Spanish and Latvian
