@@ -1,13 +1,13 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1809/001	19062756	buprenorphine 0.4 MG Sublingual Tablet	250426	NARROW		buprenorphine 0.4 MG Sublingual Film	2026-02-17
-EU/1/24/1809/002	19062756	buprenorphine 0.4 MG Sublingual Tablet	250426	NARROW		buprenorphine 0.4 MG Sublingual Film	2026-02-17
-EU/1/24/1809/003	19062756	buprenorphine 0.4 MG Sublingual Tablet	250426	NARROW		buprenorphine 0.4 MG Sublingual Film	2026-02-17
-EU/1/24/1809/004	42898502	buprenorphine 4 MG	1307054	BROAD		buprenorphine 4 MG Sublingual Film	2026-02-17
-EU/1/24/1809/005	42898502	buprenorphine 4 MG	1307054	BROAD		buprenorphine 4 MG Sublingual Film	2026-02-17
-EU/1/24/1809/006	42898502	buprenorphine 4 MG	1307054	BROAD		buprenorphine 4 MG Sublingual Film	2026-02-17
-EU/1/24/1809/007	45776279	buprenorphine 6.3 MG	1542518	BROAD		buprenorphine 6 MG Sublingual Film	2026-02-17
-EU/1/24/1809/008	45776279	buprenorphine 6.3 MG	1542518	BROAD		buprenorphine 6 MG Sublingual Film	2026-02-17
-EU/1/24/1809/009	45776279	buprenorphine 6.3 MG	1542518	BROAD		buprenorphine 6 MG Sublingual Film	2026-02-17
-EU/1/24/1809/010	1133230	buprenorphine 8 MG Sublingual Tablet	351265	NARROW		buprenorphine 8 MG Sublingual Film	2026-02-17
-EU/1/24/1809/011	1133230	buprenorphine 8 MG Sublingual Tablet	351265	NARROW		buprenorphine 8 MG Sublingual Film	2026-02-17
-EU/1/24/1809/012	1133230	buprenorphine 8 MG Sublingual Tablet	351265	NARROW		buprenorphine 8 MG Sublingual Film	2026-02-17
+EU/1/24/1809/001	19062756	buprenorphine 0.4 MG Sublingual Tablet	250426	NARROW	Sublingual film; only sublingual tablet concept available	buprenorphine 0.4 MG Sublingual Film	2026-03-19
+EU/1/24/1809/002	19062756	buprenorphine 0.4 MG Sublingual Tablet	250426	NARROW	Sublingual film; only sublingual tablet concept available	buprenorphine 0.4 MG Sublingual Film	2026-03-19
+EU/1/24/1809/003	19062756	buprenorphine 0.4 MG Sublingual Tablet	250426	NARROW	Sublingual film; only sublingual tablet concept available	buprenorphine 0.4 MG Sublingual Film	2026-03-19
+EU/1/24/1809/004	42898502	buprenorphine 4 MG	1307054	BROAD	Sublingual film; no sublingual form concept at this strength	buprenorphine 4 MG Sublingual Film	2026-03-19
+EU/1/24/1809/005	42898502	buprenorphine 4 MG	1307054	BROAD	Sublingual film; no sublingual form concept at this strength	buprenorphine 4 MG Sublingual Film	2026-03-19
+EU/1/24/1809/006	42898502	buprenorphine 4 MG	1307054	BROAD	Sublingual film; no sublingual form concept at this strength	buprenorphine 4 MG Sublingual Film	2026-03-19
+EU/1/24/1809/007	45776279	buprenorphine 6.3 MG	1542518	BROAD	No RxNorm concept for buprenorphine 6 MG	buprenorphine 6 MG Sublingual Film	2026-03-19
+EU/1/24/1809/008	45776279	buprenorphine 6.3 MG	1542518	BROAD	No RxNorm concept for buprenorphine 6 MG	buprenorphine 6 MG Sublingual Film	2026-03-19
+EU/1/24/1809/009	45776279	buprenorphine 6.3 MG	1542518	BROAD	No RxNorm concept for buprenorphine 6 MG	buprenorphine 6 MG Sublingual Film	2026-03-19
+EU/1/24/1809/010	1133230	buprenorphine 8 MG Sublingual Tablet	351265	NARROW	Sublingual film; only sublingual tablet concept available	buprenorphine 8 MG Sublingual Film	2026-03-19
+EU/1/24/1809/011	1133230	buprenorphine 8 MG Sublingual Tablet	351265	NARROW	Sublingual film; only sublingual tablet concept available	buprenorphine 8 MG Sublingual Film	2026-03-19
+EU/1/24/1809/012	1133230	buprenorphine 8 MG Sublingual Tablet	351265	NARROW	Sublingual film; only sublingual tablet concept available	buprenorphine 8 MG Sublingual Film	2026-03-19

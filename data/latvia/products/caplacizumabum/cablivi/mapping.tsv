@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/18/1305/001	1366437	caplacizumab-yhdp 11 MG Injection [Cablivi]	2110618				
-EU/1/18/1305/002	1366437	caplacizumab-yhdp 11 MG Injection [Cablivi]	2110618				
-EU/1/18/1305/003	1366437	caplacizumab-yhdp 11 MG Injection [Cablivi]	2110618				
+EU/1/18/1305/001	1366437	caplacizumab-yhdp 11 MG Injection [Cablivi]	2110618	EXACT	EMA 10 mg (free base) = RxNorm 11 mg (as yhdp salt); Cablivi brand same in EU and US; powder for solution for injection = Injection		2026-03-19
+EU/1/18/1305/002	1366437	caplacizumab-yhdp 11 MG Injection [Cablivi]	2110618	EXACT	EMA 10 mg (free base) = RxNorm 11 mg (as yhdp salt); Cablivi brand same in EU and US; powder for solution for injection = Injection		2026-03-19
+EU/1/18/1305/003	1366437	caplacizumab-yhdp 11 MG Injection [Cablivi]	2110618	EXACT	EMA 10 mg (free base) = RxNorm 11 mg (as yhdp salt); Cablivi brand same in EU and US; powder for solution for injection = Injection		2026-03-19

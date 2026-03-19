@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/21/1611/001	21081251	Metformin 850 MG / vildagliptin 50 MG Oral Tablet	OMOP351542	EXACT			2026-02-17
-EU/1/21/1611/002	21081251	Metformin 850 MG / vildagliptin 50 MG Oral Tablet	OMOP351542	EXACT			2026-02-17
-EU/1/21/1611/005	21081251	Metformin 850 MG / vildagliptin 50 MG Oral Tablet	OMOP351542	EXACT			2026-02-17
-EU/1/21/1611/003	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT			2026-02-17
-EU/1/21/1611/004	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT			2026-02-17
-EU/1/21/1611/006	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT			2026-02-17
+EU/1/21/1611/001	21081251	Metformin 850 MG / vildagliptin 50 MG Oral Tablet	OMOP351542	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / vildagliptin 50 MG Oral Tablet	2026-03-19
+EU/1/21/1611/002	21081251	Metformin 850 MG / vildagliptin 50 MG Oral Tablet	OMOP351542	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / vildagliptin 50 MG Oral Tablet	2026-03-19
+EU/1/21/1611/005	21081251	Metformin 850 MG / vildagliptin 50 MG Oral Tablet	OMOP351542	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / vildagliptin 50 MG Oral Tablet	2026-03-19
+EU/1/21/1611/003	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 1000 MG / vildagliptin 50 MG Oral Tablet	2026-03-19
+EU/1/21/1611/004	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 1000 MG / vildagliptin 50 MG Oral Tablet	2026-03-19
+EU/1/21/1611/006	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 1000 MG / vildagliptin 50 MG Oral Tablet	2026-03-19
