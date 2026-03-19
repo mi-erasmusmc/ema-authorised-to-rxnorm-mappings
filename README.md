@@ -1,7 +1,7 @@
 # EMA Authorised Products to RxNorm Mapping
 
 Mappings between European Medicines Agency (EMA) centrally authorised medicinal products and RxNorm/OMOP standardized
-drug concepts, along with Spanish, Swedish and Latvian national product mappings. To our knowledge, these are the first
+drug concepts, along with Spanish and Latvian national product mappings. To our knowledge, these are the first
 comprehensive publicly available mappings of all EMA authorised products to OMOP standard concepts.
 
 ## Datasets
@@ -10,11 +10,10 @@ comprehensive publicly available mappings of all EMA authorised products to OMOP
 |------|---------------------------------|--------------|
 | `ema-to-rxnorm.tsv` | ~16,800                         | 2026-03-16 |
 | `spain-to-rxnorm.tsv` | ~30,050                       | 2026-03-16 |
-| `sweden-to-rxnorm.tsv` | ~91,100                         | 2026-01-18 |
 | `latvia-to-rxnorm.tsv` | ~33,000 mapped, ~6,000 unmapped | 2026-02-05 |
 
 Because EMA centrally authorised products are valid across all EU member states, these mappings can serve as a
-foundation or cross-reference for country-specific drug vocabulary mappings throughout Europe. Swedish and Latvian
+foundation or cross-reference for country-specific drug vocabulary mappings throughout Europe. Spanish and Latvian
 national products are linked to EMA products via EU marketing authorization numbers where applicable.
 
 Each mapping is classified as **EXACT** (direct correspondence) or **BROAD** (RxNorm concept is broader than the
