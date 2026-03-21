@@ -1,6 +1,6 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/16/1151/001	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1151/002	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1151/003	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1151/004	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1151/005	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT			2025-12-04
+EU/1/16/1151/001	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	salt conversion applied: tenofovir disoproxil 245 mg (succinate product) -> tenofovir disoproxil fumarate 300 mg standard RxNorm		2025-12-04
+EU/1/16/1151/002	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	salt conversion applied: tenofovir disoproxil 245 mg (succinate product) -> tenofovir disoproxil fumarate 300 mg standard RxNorm		2025-12-04
+EU/1/16/1151/003	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	salt conversion applied: tenofovir disoproxil 245 mg (succinate product) -> tenofovir disoproxil fumarate 300 mg standard RxNorm		2025-12-04
+EU/1/16/1151/004	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	salt conversion applied: tenofovir disoproxil 245 mg (succinate product) -> tenofovir disoproxil fumarate 300 mg standard RxNorm		2025-12-04
+EU/1/16/1151/005	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	salt conversion applied: tenofovir disoproxil 245 mg (succinate product) -> tenofovir disoproxil fumarate 300 mg standard RxNorm		2025-12-04

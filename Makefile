@@ -39,6 +39,9 @@ split_by_ingredient:
 	$(PYTHON) data/spain/split_by_ingredient.py $(ARGS)
 
 # ── EMA ────────────────────────────────────────────────────────────────────────
+audit_ema:
+	$(PYTHON) .claude/skills/map-ema-drugs/audit_all.py $(ARGS)
+
 find_unmapped:
 	$(PYTHON) .claude/skills/map-ema-drugs/find_unmapped.py $(ARGS)
 
@@ -105,7 +108,7 @@ load_spain:
 .PHONY: audit_all audit_folder apply_mappings find_duplicate_nros \
         list_folder_patterns run_clean_room_batch download_aemps fetch_pdf \
         link_ema_mappings import_spanish_mappings split_by_ingredient \
-        find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
+        audit_ema find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
         prepare_parse_batch fetch_ema_updates download_ema_presentation_files \
         organize_products fill_missing_latvian_mappings find_concepts \
         resolve_rxcui_name validate_mapping find_conflicts apply_mapping \

@@ -1,0 +1,14 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/00/142/004	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	Penfill cartridge (glass)	3.0 ml	5 cartridges	NovoMix 30
+EU/1/00/142/005	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	Penfill cartridge (glass)	3.0 ml	10 cartridges	NovoMix 30
+EU/1/00/142/009	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	FlexPen cartridge (glass) in pre-filled pen	3.0 ml	5 pre-filled pens	NovoMix 30
+EU/1/00/142/010	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	FlexPen cartridge (glass) in pre-filled pen	3.0 ml	10 pre-filled pens	NovoMix 30
+EU/1/00/142/011	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	Penfill cartridge (glass)	3.0 ml	1 cartridge	NovoMix 50
+EU/1/00/142/012	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	Penfill cartridge (glass)	3.0 ml	5 cartridges	NovoMix 50
+EU/1/00/142/013	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	Penfill cartridge (glass)	3.0 ml	10 cartridges	NovoMix 50
+EU/1/00/142/014	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	FlexPen cartridge (glass) in pre-filled pen	3.0 ml	1 pre-filled pen	NovoMix 50
+EU/1/00/142/015	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	FlexPen cartridge (glass) in pre-filled pen	3.0 ml	5 pre-filled pens	NovoMix 50
+EU/1/00/142/016	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	FlexPen cartridge (glass) in pre-filled pen	3.0 ml	10 pre-filled pens	NovoMix 50
+EU/1/00/142/023	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	FlexPen cartridge (glass) in pre-filled pen	3.0 ml	1 pre-filled pen	NovoMix 30
+EU/1/00/142/024	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	FlexPen cartridge (glass) in pre-filled pen	3.0 ml	1 pre-filled pen + 7 NovoFine needles	NovoMix 30
+EU/1/00/142/025	EMEA/H/C/000308	100 U/ml	Suspension for injection	Subcutaneous use	FlexPen cartridge (glass) in pre-filled pen	3.0 ml	1 pre-filled pen + 7 NovoTwist needles	NovoMix 30

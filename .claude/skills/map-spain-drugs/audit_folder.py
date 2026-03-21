@@ -26,14 +26,20 @@ Issue types:
     REVIEW_VOLUME         - likely single-use injectable mapped to a concentration-only concept
     INCONSISTENT_CONCEPT  - EXACT rows with the same des_dcp, sw_generico, and forma_farmaceutica map to different
                             concept_ids. For branded products the comparison is narrowed to the same brand key.
+    INVALID               - mapping.tsv fails structural validation (bad date, invalid suggestion, etc.)
 """
 
 import argparse
-import csv
 import re
 import sys
-from collections import Counter, defaultdict
+from collections import Counter
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+sys.path.insert(0, str(Path(__file__).parent.parent / "map-drugs"))
+
+import audit_core as core  # noqa: E402
+
 
 DETAIL_HEADER = [
     "issue",
@@ -46,20 +52,29 @@ DETAIL_HEADER = [
 ]
 
 
-def load_tsv(path):
-    with open(path, newline="", encoding="utf-8") as handle:
-        return list(csv.DictReader(handle, delimiter="\t"))
+def _core_to_spain(issue, nro_definitivo=""):
+    """Convert a core audit issue dict to Spain's dict format."""
+    return {
+        "issue": issue["issue"],
+        "cod_nacion": issue["source_id"],
+        "nro_definitivo": nro_definitivo,
+        "des_dcp": issue["description"],
+        "concept_id": issue["concept_id"],
+        "concept_name": issue["concept_name"],
+        "mapping_type": issue["mapping_type"],
+    }
 
 
-def clean(value):
-    if value is None:
-        return ""
-    return str(value).strip()
-
-
-def duplicate_values(rows, key):
-    counts = Counter(clean(row.get(key, "")) for row in rows if clean(row.get(key, "")))
-    return sorted(value for value, count in counts.items() if count > 1)
+def make_issue(issue, cod, nro_definitivo, des_dcp, concept_id, concept_name, mapping_type):
+    return {
+        "issue": core.clean(issue),
+        "cod_nacion": core.clean(cod),
+        "nro_definitivo": core.clean(nro_definitivo),
+        "des_dcp": core.clean(des_dcp),
+        "concept_id": core.clean(concept_id),
+        "concept_name": core.clean(concept_name),
+        "mapping_type": core.clean(mapping_type),
+    }
 
 
 def extract_ml(text):
@@ -70,15 +85,15 @@ def extract_ml(text):
 
 
 def needs_volume_review(data_row, concept_name):
-    des_dcp = clean(data_row.get("des_dcp", ""))
-    unit = clean(data_row.get("unidad_contenido", "")).lower()
-    form = clean(data_row.get("forma_farmaceutica", "")).lower()
+    des_dcp = core.clean(data_row.get("des_dcp", ""))
+    unit = core.clean(data_row.get("unidad_contenido", "")).lower()
+    form = core.clean(data_row.get("forma_farmaceutica", "")).lower()
     volume = extract_ml(des_dcp)
     if not volume:
         return False
     if "inye" not in unit and "inyect" not in form:
         return False
-    concept_lower = clean(concept_name).lower()
+    concept_lower = core.clean(concept_name).lower()
     if "injection" not in concept_lower:
         return False
     if "mg/ml" not in concept_lower:
@@ -87,26 +102,14 @@ def needs_volume_review(data_row, concept_name):
 
 
 def branded_signature_key(data_row):
-    des_nomco = clean(data_row.get("des_nomco", ""))
+    des_nomco = core.clean(data_row.get("des_nomco", ""))
     if des_nomco:
         match = re.match(r"^(.*?)(?:\s+\d+(?:[.,]\d+)?\s*(?:mg|mcg|g|ui|iu|ml)\b|$)", des_nomco, flags=re.IGNORECASE)
         if match:
-            brand = clean(match.group(1))
+            brand = core.clean(match.group(1))
             if brand:
                 return brand.upper()
-    return clean(data_row.get("laboratorio_titular", "")).upper()
-
-
-def make_issue(issue, cod, nro_definitivo, des_dcp, concept_id, concept_name, mapping_type):
-    return {
-        "issue": clean(issue),
-        "cod_nacion": clean(cod),
-        "nro_definitivo": clean(nro_definitivo),
-        "des_dcp": clean(des_dcp),
-        "concept_id": clean(concept_id),
-        "concept_name": clean(concept_name),
-        "mapping_type": clean(mapping_type),
-    }
+    return core.clean(data_row.get("laboratorio_titular", "")).upper()
 
 
 def print_summary(folder_name, issues):
@@ -171,105 +174,60 @@ def audit_folder(folder: Path):
     if not data_path.exists():
         return []
 
-    data_rows = load_tsv(data_path)
-    data_by_cod = {clean(row["cod_nacion"]): row for row in data_rows}
-    duplicate_data_cods = duplicate_values(data_rows, "cod_nacion")
+    data_rows = core.load_tsv(data_path)
+    data_by_cod = {core.clean(row["cod_nacion"]): row for row in data_rows}
+    mapping_rows = core.load_tsv(mapping_path) if mapping_path.exists() else []
 
-    mapped_cods = set()
-    mapping_rows = []
-    if mapping_path.exists():
-        mapping_rows = load_tsv(mapping_path)
-        mapped_cods = {clean(row.get("cod_nacion", "")) for row in mapping_rows}
-    duplicate_mapping_cods = duplicate_values(mapping_rows, "cod_nacion")
+    # Common checks (shared with EMA and other sources)
+    issues = [
+        _core_to_spain(i)
+        for i in core.run_common_checks(
+            "cod_nacion",
+            data_rows,
+            mapping_rows,
+            describe=lambda row: core.clean(row.get("des_dcp", "")),
+        )
+    ]
 
-    issues = []
+    # Structural validation
+    issues += [_core_to_spain(i) for i in core.validate_folder_issues(mapping_path)]
 
-    for cod in duplicate_data_cods:
-        issues.append(make_issue("DUPLICATE_DATA", cod, "", "", "", "", ""))
-
-    for cod in duplicate_mapping_cods:
-        issues.append(make_issue("DUPLICATE_MAPPING", cod, "", "", "", "", ""))
-
-    for cod, row in data_by_cod.items():
-        if cod not in mapped_cods:
-            issues.append(
-                make_issue(
-                    "MISSING",
-                    cod,
-                    row.get("nro_definitivo", ""),
-                    row.get("des_dcp", ""),
-                    "",
-                    "",
-                    "",
-                )
-            )
-
+    # Spain-specific: NRO_MISMATCH and REVIEW_VOLUME
     for row in mapping_rows:
-        cod = clean(row.get("cod_nacion", ""))
-        data_row = data_by_cod.get(cod, {})
-        des_dcp = clean(data_row.get("des_dcp", ""))
-        concept = clean(row.get("concept_name", ""))
-        mapping_type = clean(row.get("mapping_type", ""))
-        concept_id = clean(row.get("concept_id", ""))
-        source_nro = clean(data_row.get("nro_definitivo", ""))
-        mapped_nro = clean(row.get("nro_definitivo", ""))
-
+        cod = core.clean(row.get("cod_nacion", ""))
         if cod not in data_by_cod:
-            issues.append(make_issue("STALE_MAPPING", cod, mapped_nro, "", concept_id, concept, mapping_type))
-            continue
+            continue  # STALE already caught by core
+        data_row = data_by_cod[cod]
+        des_dcp = core.clean(data_row.get("des_dcp", ""))
+        concept = core.clean(row.get("concept_name", ""))
+        mapping_type = core.clean(row.get("mapping_type", ""))
+        concept_id = core.clean(row.get("concept_id", ""))
+        source_nro = core.clean(data_row.get("nro_definitivo", ""))
+        mapped_nro = core.clean(row.get("nro_definitivo", ""))
 
         if source_nro and mapped_nro and source_nro != mapped_nro:
             issues.append(make_issue("NRO_MISMATCH", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
 
-        if not concept_id:
-            issues.append(make_issue("NO_CONCEPT", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
-        elif not mapping_type:
-            issues.append(make_issue("NO_TYPE", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
-        elif mapping_type == "BROAD" and not clean(row.get("suggestion", "")):
-            issues.append(make_issue("BROAD", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
-        elif mapping_type == "EXACT" and needs_volume_review(data_row, concept):
+        if mapping_type == "EXACT" and needs_volume_review(data_row, concept):
             issues.append(make_issue("REVIEW_VOLUME", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
 
-    # INCONSISTENT_CONCEPT: EXACT rows with same clinical signature but different concept_ids
-    sig_to_concepts = defaultdict(set)
-    sig_to_rows = defaultdict(list)
-    for row in mapping_rows:
-        cod = clean(row.get("cod_nacion", ""))
-        data_row = data_by_cod.get(cod, {})
-        concept_id = clean(row.get("concept_id", ""))
-        mapping_type = clean(row.get("mapping_type", ""))
-        if not concept_id or mapping_type != "EXACT":
-            continue
-        des_dcp = clean(data_row.get("des_dcp", ""))
-        sw_generico = clean(data_row.get("sw_generico", ""))
-        forma = clean(data_row.get("forma_farmaceutica", ""))
+    # Spain-specific: INCONSISTENT_CONCEPT
+    def spain_sig(data_row):
+        des_dcp = core.clean(data_row.get("des_dcp", ""))
         if not des_dcp:
-            continue
-        # For branded products (sw_generico=0), include the brand key from des_nomco so that
-        # different brands marketed by the same manufacturer are evaluated independently.
-        # Cross-brand concept differences are expected.
+            return None
+        sw_generico = core.clean(data_row.get("sw_generico", ""))
+        forma = core.clean(data_row.get("forma_farmaceutica", ""))
         if sw_generico == "0":
-            brand_key = branded_signature_key(data_row)
-            sig = (des_dcp, sw_generico, forma, brand_key)
-        else:
-            sig = (des_dcp, sw_generico, forma)
-        sig_to_concepts[sig].add(concept_id)
-        sig_to_rows[sig].append(row)
+            return (des_dcp, sw_generico, forma, branded_signature_key(data_row))
+        return (des_dcp, sw_generico, forma)
 
-    for sig, concepts in sig_to_concepts.items():
-        if len(concepts) > 1:
-            for row in sig_to_rows[sig]:
-                cod = clean(row.get("cod_nacion", ""))
-                data_row = data_by_cod.get(cod, {})
-                issues.append(make_issue(
-                    "INCONSISTENT_CONCEPT",
-                    cod,
-                    clean(row.get("nro_definitivo", "")),
-                    clean(data_row.get("des_dcp", "")),
-                    clean(row.get("concept_id", "")),
-                    clean(row.get("concept_name", "")),
-                    clean(row.get("mapping_type", "")),
-                ))
+    for issue in core.check_inconsistent_concepts(
+        "cod_nacion", data_by_cod, mapping_rows, sig_fn=spain_sig,
+        describe=lambda row: core.clean(row.get("des_dcp", "")),
+    ):
+        # Remap to Spain format (nro_definitivo not available here; use empty string)
+        issues.append(_core_to_spain(issue))
 
     return issues
 
