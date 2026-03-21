@@ -1,0 +1,11 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/17/1208/002	EMEA/H/C/004257	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		1 inhaler with 120 actuations	Trimbow
+EU/1/17/1208/003	EMEA/H/C/004257	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		1 inhaler with 180 actuations	Trimbow
+EU/1/17/1208/004	EMEA/H/C/004257	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		240 actuations (2 inhalers with 120 actuations each) (multipack)	Trimbow
+EU/1/17/1208/005	EMEA/H/C/004257	87 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		360 actuations (3 inhalers with 120 actuations each) (multipack)	Trimbow
+EU/1/17/1208/007	EMEA/H/C/004257	172 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		1 inhaler with 120 actuations	Trimbow
+EU/1/17/1208/008	EMEA/H/C/004257	172 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		240 actuations (2 inhalers with 120 actuations each) (multipack)	Trimbow
+EU/1/17/1208/009	EMEA/H/C/004257	172 µg / 5 µg / 9 µg	Pressurised inhalation, solution	Inhalation use	inhaler (alu)		360 actuations (3 inhalers with 120 actuations each) (multipack)	Trimbow
+EU/1/17/1208/010	EMEA/H/C/004257	88 µg / 5 µg / 9 µg	Inhalation powder	Inhalation use	inhaler (NEXThaler)		1 inhaler with 120 inhalations	Trimbow
+EU/1/17/1208/011	EMEA/H/C/004257	88 µg / 5 µg / 9 µg	Inhalation powder	Inhalation use	inhaler (NEXThaler)		240 inhalations (2 inhalers with 120 inhalations each) (multipack)	Trimbow
+EU/1/17/1208/012	EMEA/H/C/004257	88 µg / 5 µg / 9 µg	Inhalation powder	Inhalation use	inhaler (NEXThaler)		360 inhalations (3 inhalers with 120 inhalations each) (multipack)	Trimbow
