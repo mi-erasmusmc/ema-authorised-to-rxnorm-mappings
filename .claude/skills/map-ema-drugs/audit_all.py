@@ -22,6 +22,7 @@ With --details:
 
 Issue types:
     NO_MAPPING        - folder has parsed data but no mapping.tsv at all
+    NO_DATE           - parsed_data file has no date (parsed_data.tsv instead of parsed_data_dateXX.tsv)
     MISSING           - ma_number in parsed_data with no row in mapping.tsv
     STALE_MAPPING     - mapping row whose ma_number no longer exists in parsed_data
     NO_CONCEPT        - mapping row with empty concept_id
@@ -41,6 +42,7 @@ import audit_core as core  # noqa: E402
 
 ISSUE_TYPES = [
     "NO_MAPPING",
+    "NO_DATE",
     "MISSING",
     "STALE_MAPPING",
     "NO_CONCEPT",
@@ -75,11 +77,16 @@ def audit_folder(folder: Path) -> list[dict]:
     if parsed_path is None:
         return []
 
+    issues = []
+    if parsed_path.name == "parsed_data.tsv":
+        issues.append(core.make_issue("NO_DATE", "", "parsed_data.tsv has no date suffix", "", "", ""))
+
     mapping_path = folder / "mapping.tsv"
 
     if not mapping_path.exists():
         data_rows = core.load_tsv(parsed_path)
-        return [core.make_issue("NO_MAPPING", "", f"{len(data_rows)} presentations unmapped", "", "", "")]
+        issues.append(core.make_issue("NO_MAPPING", "", f"{len(data_rows)} presentations unmapped", "", "", ""))
+        return issues
 
     data_rows = core.load_tsv(parsed_path)
     mapping_rows = core.load_tsv(mapping_path)
@@ -96,7 +103,7 @@ def audit_folder(folder: Path) -> list[dict]:
             core.clean(data_row.get("product_name", "")),
         )
 
-    issues = core.run_common_checks(
+    issues += core.run_common_checks(
         "ma_number",
         data_rows,
         mapping_rows,
