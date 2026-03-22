@@ -1,0 +1,7 @@
+short_name: Piridoksīna hidrohlorīds-Kalceks
+active_substance: Pyridoxini hydrochloridum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: A11HA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0201/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0201/smpc

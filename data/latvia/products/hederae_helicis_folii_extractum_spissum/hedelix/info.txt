@@ -1,6 +1,6 @@
 short_name: Hedelix
 active_substance: Hederae helicis folii extractum spissum
-marketing_authorisation_holder: Krewel Meuselbach GmbH, Germany
+marketing_authorisation_holder: Dr. Theiss Naturwaren GmbH, Germany
 manufacturer: Dr. Theiss Naturwaren GmbH, Germany
 atc_code: R05CA
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0338/pil

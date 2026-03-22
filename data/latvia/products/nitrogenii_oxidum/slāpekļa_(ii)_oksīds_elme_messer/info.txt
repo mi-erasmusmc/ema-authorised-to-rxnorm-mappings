@@ -1,0 +1,7 @@
+short_name: Slāpekļa (II) oksīds Elme Messer
+active_substance: Nitrogenii oxidum
+marketing_authorisation_holder: Elme Messer L, SIA, Latvia
+manufacturer: Messer Austria GmbH, Austria
+atc_code: R07AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0022/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0022/smpc

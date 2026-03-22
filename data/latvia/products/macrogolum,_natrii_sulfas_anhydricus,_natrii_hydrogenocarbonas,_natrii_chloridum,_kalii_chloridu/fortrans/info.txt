@@ -1,7 +1,7 @@
 short_name: Fortrans
 active_substance: Macrogolum, Natrii sulfas anhydricus, Natrii hydrogenocarbonas, Natrii chloridum, Kalii chloridum
-marketing_authorisation_holder: IPSEN Consumer HealthCare, France
-manufacturer: Beaufour Ipsen Industrie, France
+marketing_authorisation_holder: Mayoly Pharma France, France
+manufacturer: Mayoly Industrie, France
 atc_code: A06AD65
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0265/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0265/smpc

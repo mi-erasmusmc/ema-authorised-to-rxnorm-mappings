@@ -1,0 +1,7 @@
+short_name: mNexspike
+active_substance: COVID-19 mRNA vaccine
+marketing_authorisation_holder: Moderna Biotech Spain S.L., Spain
+manufacturer: Moderna Biotech Spain S.L., Spain
+atc_code: J07BN01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2010/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2010/001/smpc

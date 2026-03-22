@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-06-0144-01							
-06-0144-02							
-06-0145-01							
-06-0145-02							
-06-0146-01							
-06-0147-01							
+06-0144-01	757627	galantamine	4637	BROAD		1 ML galantamine 2.5 MG/ML Injection	2026-03-22
+06-0144-02	757627	galantamine	4637	BROAD		1 ML galantamine 2.5 MG/ML Injection	2026-03-22
+06-0145-01	757627	galantamine	4637	BROAD		1 ML galantamine 5 MG/ML Injection	2026-03-22
+06-0145-02	757627	galantamine	4637	BROAD		1 ML galantamine 5 MG/ML Injection	2026-03-22
+06-0146-01	19106669	galantamine 5 MG Oral Tablet	429251	EXACT			2026-03-22
+06-0147-01	40047095	galantamine Oral Tablet	384641	BROAD		galantamine 10 MG Oral Tablet	2026-03-22

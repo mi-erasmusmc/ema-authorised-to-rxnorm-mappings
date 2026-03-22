@@ -1,0 +1,7 @@
+short_name: Heparīna nātrijs Panpharma
+active_substance: Heparinum natricum
+marketing_authorisation_holder: Panpharma, France
+manufacturer: Panpharma GmbH, Germany
+atc_code: B01AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0448/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0448/smpc

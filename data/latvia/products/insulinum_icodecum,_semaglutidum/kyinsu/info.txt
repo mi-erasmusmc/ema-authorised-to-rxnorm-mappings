@@ -1,0 +1,7 @@
+short_name: Kyinsu
+active_substance: Insulinum icodecum, Semaglutidum
+marketing_authorisation_holder: Novo Nordisk A/S, Denmark
+manufacturer: Novo Nordisk A/S, Denmark
+atc_code: A10AE57
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1992/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1992/001/smpc

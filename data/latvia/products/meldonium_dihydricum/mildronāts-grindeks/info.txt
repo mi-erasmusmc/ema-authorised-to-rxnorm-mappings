@@ -1,0 +1,7 @@
+short_name: Mildronāts-Grindeks
+active_substance: Meldonium dihydricum
+marketing_authorisation_holder: Grindeks, AS, Latvia
+manufacturer: Grindeks, AS, Latvia
+atc_code: A13A
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0180/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0180/smpc

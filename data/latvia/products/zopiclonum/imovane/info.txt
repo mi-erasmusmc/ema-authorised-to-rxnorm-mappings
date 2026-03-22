@@ -1,7 +1,7 @@
 short_name: Imovane
 active_substance: Zopiclonum
 marketing_authorisation_holder: Sanofi Winthrop Industrie, France
-manufacturer: Opella Healthcare International SAS, France
+manufacturer: Sanofi Winthrop Industrie, France; Opella Healthcare International SAS, France
 atc_code: N05CF01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0590/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0590/smpc

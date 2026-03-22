@@ -1,0 +1,7 @@
+short_name: Herpelāns
+active_substance: Aciclovirum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: J05AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0001/smpc

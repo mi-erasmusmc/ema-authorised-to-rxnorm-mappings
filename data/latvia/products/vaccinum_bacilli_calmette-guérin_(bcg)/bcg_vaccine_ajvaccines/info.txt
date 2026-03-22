@@ -1,0 +1,7 @@
+short_name: BCG Vaccine AJVaccines
+active_substance: Vaccinum bacilli Calmette-Guérin (BCG)
+marketing_authorisation_holder: AJ Vaccines A/S, Denmark
+manufacturer: Statens Serum Institut, Denmark
+atc_code: J07AN01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/95-0281/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/95-0281/smpc

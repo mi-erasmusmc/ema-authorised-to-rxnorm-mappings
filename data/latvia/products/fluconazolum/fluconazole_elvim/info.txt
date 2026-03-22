@@ -1,7 +1,7 @@
-short_name: Fluconazole Elvim
+short_name: Fluconazole ELVIM
 active_substance: Fluconazolum
 marketing_authorisation_holder: Elvim, SIA, Latvia
-manufacturer: Pharmathen S.A., Greece; Anfarm Hellas S.A., Greece
+manufacturer: Pharmathen S.A., Greece
 atc_code: J02AC01
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0114/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0114/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0494/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0494/smpc

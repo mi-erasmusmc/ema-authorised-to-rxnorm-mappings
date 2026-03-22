@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-04-0144-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158				
-04-0143-01							
-04-0145-01							
-I001648-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158				2026-02-17
-I001819-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158				2026-02-17
+04-0143-01	19095729	fenticonazole	24876	BROAD		fenticonazole 200 MG Vaginal Insert	2026-03-22
+04-0144-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158	EXACT			2026-03-22
+04-0145-01	19095729	fenticonazole	24876	BROAD		fenticonazole 20 MG/G Topical Cream	2026-03-22
+I001648-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158	EXACT			2026-03-22
+I001819-01	845342	fenticonazole 600 MG Vaginal Insert	OMOP5568158	EXACT			2026-03-22

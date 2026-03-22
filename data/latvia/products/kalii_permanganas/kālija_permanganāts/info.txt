@@ -1,0 +1,7 @@
+short_name: Kālija permanganāts
+active_substance: Kalii permanganas
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: D08AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0188/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0188/smpc

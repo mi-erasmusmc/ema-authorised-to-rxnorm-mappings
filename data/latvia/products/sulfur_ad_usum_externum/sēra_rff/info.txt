@@ -1,0 +1,7 @@
+short_name: Sēra RFF
+active_substance: Sulfur ad usum externum
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: A/S "Rīgas farmaceitiskā fabrika", Latvia
+atc_code: P03AA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0479/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0479/smpc

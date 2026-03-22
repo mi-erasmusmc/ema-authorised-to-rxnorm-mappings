@@ -1,0 +1,7 @@
+short_name: Pirfenidone MSN
+active_substance: Pirfenidonum
+marketing_authorisation_holder: MSN Labs Europe Limited, Malta
+manufacturer: Pharmadox Healthcare Ltd., Malta; MSN Labs Europe Limited, Malta
+atc_code: L04AX05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0044/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0044/smpc

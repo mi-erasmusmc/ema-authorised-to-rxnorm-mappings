@@ -1,0 +1,7 @@
+short_name: Myqorzo
+active_substance: Aficamtenum
+marketing_authorisation_holder: Cytokinetics (Ireland) Limited, Ireland
+manufacturer: Patheon France, France
+atc_code: Nav_piešķirts
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2014/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2014/001/smpc

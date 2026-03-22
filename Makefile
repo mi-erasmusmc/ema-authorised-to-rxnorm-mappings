@@ -26,6 +26,12 @@ run_clean_room_batch:
 download_aemps:
 	$(PYTHON) data/spain/download_aemps.py $(ARGS)
 
+download_zva:
+	$(PYTHON) data/latvia/download_zva.py $(ARGS)
+
+deduplicate_latvia:
+	$(PYTHON) data/latvia/deduplicate_data_files.py $(ARGS)
+
 fetch_pdf:
 	$(PYTHON) data/spain/fetch_pdf.py $(ARGS)
 
@@ -37,6 +43,9 @@ import_spanish_mappings:
 
 split_by_ingredient:
 	$(PYTHON) data/spain/split_by_ingredient.py $(ARGS)
+
+changed_products:
+	$(PYTHON) data/spain/changed_products.py $(ARGS)
 
 # ── EMA ────────────────────────────────────────────────────────────────────────
 audit_ema:

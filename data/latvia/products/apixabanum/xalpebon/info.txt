@@ -1,0 +1,7 @@
+short_name: Xalpebon
+active_substance: Apixabanum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus; Medochemie Ltd., Pegasus, Cyprus
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0023/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0023/smpc

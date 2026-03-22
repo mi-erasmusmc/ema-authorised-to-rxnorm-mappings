@@ -233,11 +233,43 @@ LATVIA_RXNORM_COLUMNS = [
 ]
 
 
-def _load_human_products(json_file):
-    """Load HumanProducts.json into a dict keyed by product_id."""
-    with open(json_file, "r", encoding="utf-8-sig") as f:
-        products = json.load(f)
-    return {p["product_id"]: p for p in products}
+def _load_latvia_products(products_dir):
+    """Load product data from per-folder data_*.tsv and info.txt files, keyed by product_id.
+
+    Uses the most recent data_*.tsv in each folder. Falls back gracefully if info.txt
+    is absent. This preserves data for products purged from HumanProducts.json.
+    """
+    products = {}
+    for info_path in sorted(products_dir.rglob("info.txt")):
+        folder = info_path.parent
+
+        # Parse info.txt (key: value lines)
+        info = {}
+        for line in info_path.read_text(encoding="utf-8").splitlines():
+            if ": " in line:
+                key, _, val = line.partition(": ")
+                info[key.strip()] = val.strip()
+
+        # Find most recent data_*.tsv
+        data_files = sorted(folder.glob("data_*.tsv"))
+        if not data_files:
+            continue
+        data_path = data_files[-1]
+
+        with open(data_path, encoding="utf-8") as f:
+            for row in csv.DictReader(f, delimiter="\t"):
+                pid = row.get("product_id", "").strip()
+                if not pid:
+                    continue
+                products[pid] = {
+                    **row,
+                    "short_name": info.get("short_name", ""),
+                    "active_substance": info.get("active_substance", ""),
+                    "atc_code": info.get("atc_code", ""),
+                    "marketing_authorisation_holder": info.get("marketing_authorisation_holder", ""),
+                    "manufacturer": info.get("manufacturer", ""),
+                }
+    return products
 
 
 def _load_latvia_mappings(products_dir):
@@ -254,12 +286,11 @@ def _load_latvia_mappings(products_dir):
 
 
 def regenerate_latvia():
-    """Regenerate latvia-to-rxnorm.tsv from per-product mapping files and HumanProducts.json."""
+    """Regenerate latvia-to-rxnorm.tsv from per-product folder data (data_*.tsv + info.txt)."""
     products_dir = LATVIA_DIR / "products"
-    json_file = LATVIA_DIR / "HumanProducts.json"
 
-    print("Loading HumanProducts.json...")
-    products = _load_human_products(json_file)
+    print("Loading Latvia product data from folders...")
+    products = _load_latvia_products(products_dir)
     print(f"  Loaded {len(products)} products")
 
     print("Loading Latvia mapping.tsv files...")
@@ -288,7 +319,7 @@ def regenerate_latvia():
     print(f"  Mapped: {mapped}, Unmapped: {unmapped}")
 
     missing_product = sum(1 for r in all_rows if not r["original_name"])
-    print(f"  Missing product info (not in HumanProducts.json): {missing_product}")
+    print(f"  Missing product info (no folder data): {missing_product}")
 
 
 # ---------------------------------------------------------------------------

@@ -1,0 +1,7 @@
+short_name: Decitabine EVER Pharma
+active_substance: Decitabinum
+marketing_authorisation_holder: Ever Valinject GmbH, Austria
+manufacturer: Ever Pharma Jena GmbH., Germany
+atc_code: L01BC08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0040/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0040/smpc

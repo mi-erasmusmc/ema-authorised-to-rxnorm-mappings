@@ -1,0 +1,7 @@
+short_name: Anaprilīns
+active_substance: Propranololi hydrochloridum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: C07AA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0862/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0862/smpc

@@ -1,0 +1,7 @@
+short_name: Briljantzaļā RFF
+active_substance: Viride nitens
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: D08AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0480/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0480/smpc

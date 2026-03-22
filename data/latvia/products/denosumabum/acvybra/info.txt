@@ -1,0 +1,7 @@
+short_name: Acvybra
+active_substance: Denosumabum
+marketing_authorisation_holder: Reddy Holding GmbH, Germany
+manufacturer: Alvotech hf., Iceland
+atc_code: M05BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1983/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1983/001/smpc

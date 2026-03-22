@@ -1,0 +1,7 @@
+short_name: Zeļeņina pilieni RFF
+active_substance: Belladonnae tinctura, Convallariae tinctura, Valerianae tinctura, Racementholum
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: C01EX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0870/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0870/smpc

@@ -1,0 +1,7 @@
+short_name: Salicilskābes-RFF
+active_substance: Acidum salicylicum
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: D02AF
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0879/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0879/smpc

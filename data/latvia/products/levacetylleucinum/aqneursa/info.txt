@@ -1,0 +1,7 @@
+short_name: Aqneursa
+active_substance: Levacetylleucinum
+marketing_authorisation_holder: IntraBio Ireland Limited, Ireland
+manufacturer: Sciensus International B.V., Netherlands; Patheon France, France
+atc_code: N07XX27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1928/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1928/001/smpc

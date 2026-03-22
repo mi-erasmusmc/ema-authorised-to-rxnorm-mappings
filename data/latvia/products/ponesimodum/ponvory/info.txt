@@ -1,7 +1,7 @@
 short_name: Ponvory
 active_substance: Ponesimodum
 marketing_authorisation_holder: Laboratoires Juvise Pharmaceuticals, France
-manufacturer: Janssen Pharmaceutica N.V., Belgium
+manufacturer: Janssen Pharmaceutica N.V., Belgium; Creapharm Industry, France; Patheon France, France
 atc_code: L04AE04
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1550/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1550/001/smpc

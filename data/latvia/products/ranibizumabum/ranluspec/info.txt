@@ -1,0 +1,7 @@
+short_name: Ranluspec
+active_substance: Ranibizumabum
+marketing_authorisation_holder: Lupin Europe GmbH, Germany
+manufacturer: Hormosan Pharma GmbH, Germany
+atc_code: S01LA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2012/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2012/001/smpc

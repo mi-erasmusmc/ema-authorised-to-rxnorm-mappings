@@ -1,0 +1,7 @@
+short_name: Teizeild
+active_substance: Teplizumabum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi B.V., Netherlands
+atc_code: A10XX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1998/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1998/001/smpc

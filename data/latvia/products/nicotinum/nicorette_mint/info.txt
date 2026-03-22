@@ -1,0 +1,7 @@
+short_name: Nicorette Mint
+active_substance: Nicotinum
+marketing_authorisation_holder: McNeil AB, Sweden
+manufacturer: McNeil AB, Sweden
+atc_code: N07BA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0043/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0043/smpc

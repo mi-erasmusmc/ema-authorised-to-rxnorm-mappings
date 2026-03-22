@@ -1,7 +1,7 @@
 short_name: Rehydron Optim
 active_substance: Natrii chloridum, Glucosum, Kalii chloridum, Natrii citras
 marketing_authorisation_holder: Orion Corporation, Finland
-manufacturer: Orion Corporation Orion Pharma, Finland; Recipharm Parets S.L.U., Spain
+manufacturer: Orion Corporation Orion Pharma, Finland; Meribel Pharma Parets S.L.U., Spain
 atc_code: A07CA
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0302/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0302/smpc

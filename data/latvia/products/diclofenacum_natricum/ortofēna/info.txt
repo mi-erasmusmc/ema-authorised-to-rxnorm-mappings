@@ -1,0 +1,7 @@
+short_name: Ortofēna
+active_substance: Diclofenacum natricum
+marketing_authorisation_holder: LMP, SIA, Latvia
+manufacturer: LMP, SIA, Latvia
+atc_code: M02AA15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0519/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0519/smpc

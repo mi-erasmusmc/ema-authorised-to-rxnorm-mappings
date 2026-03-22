@@ -1,0 +1,7 @@
+short_name: Kuņģa pilieni RFF
+active_substance: Belladonnae tinctura, Menthae piperitae tinctura, Absinthii tinctura, Valerianae tinctura
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: A03ED
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0478/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0478/smpc

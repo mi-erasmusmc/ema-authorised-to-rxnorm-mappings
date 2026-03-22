@@ -1,7 +1,7 @@
 short_name: Piqray
 active_substance: Alpelisibum
 marketing_authorisation_holder: Novartis Europharm Limited, Ireland
-manufacturer: Novartis Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia; Novartis Pharmaceutical Manufacturing LLC, Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Novartis Pharmaceutical Manufacturing LLC, Slovenia; Novartis Pharma GmbH, Germany
 atc_code: L01EM03
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1455/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1455/001/smpc

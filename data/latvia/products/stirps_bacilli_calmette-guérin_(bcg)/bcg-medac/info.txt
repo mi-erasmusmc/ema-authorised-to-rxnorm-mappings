@@ -1,0 +1,7 @@
+short_name: BCG-medac
+active_substance: Stirps bacilli Calmette-Guérin (BCG)
+marketing_authorisation_holder: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+manufacturer: Medac Gesellschaft für klinische Spezialpräparate mbH, Germany
+atc_code: L03AX03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0304/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0304/smpc

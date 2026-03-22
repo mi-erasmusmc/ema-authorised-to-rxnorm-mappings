@@ -1,0 +1,7 @@
+short_name: Waskyra
+active_substance: Etuvetidigenum autotemcelum
+marketing_authorisation_holder: Fondazione Telethon Ets, Italy
+manufacturer: AGC Biologics S.p.A., Italy
+atc_code: Nav_piešķirts
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1996/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1996/001/smpc

@@ -1,0 +1,7 @@
+short_name: Etacizīns
+active_substance: Aethacizinum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: C01BC
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0371/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0371/smpc

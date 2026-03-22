@@ -1,7 +1,7 @@
 short_name: Anefaltic
 active_substance: Nefopami hydrochloridum
 marketing_authorisation_holder: SanoSwiss UAB, Lithuania
-manufacturer: Laboratoires BTT, France; Holsten Pharma GmbH., Germany
+manufacturer: Holsten Pharma GmbH., Germany
 atc_code: N02BG06
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0086/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0086/smpc

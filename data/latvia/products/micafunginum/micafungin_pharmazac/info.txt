@@ -1,7 +1,7 @@
 short_name: Micafungin Pharmazac
 active_substance: Micafunginum
 marketing_authorisation_holder: Pharmazac S.A., Greece
-manufacturer: S.C. Rompharm Company S.R.L., Romania
+manufacturer: Synoptis Industrial Sp. z.o.o., Poland; S.C. Rompharm Company S.R.L., Romania
 atc_code: J02AX05
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0261/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0261/smpc

@@ -1,0 +1,7 @@
+short_name: Nātrija hlorīds-Kalceks
+active_substance: Natrii chloridum
+marketing_authorisation_holder: Kalceks, A/S, Latvia
+manufacturer: AS KALCEKS, Latvia
+atc_code: B05XA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0099/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0099/smpc

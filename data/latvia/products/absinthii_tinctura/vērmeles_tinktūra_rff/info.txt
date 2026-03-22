@@ -1,0 +1,7 @@
+short_name: Vērmeles tinktūra RFF
+active_substance: Absinthii tinctura
+marketing_authorisation_holder: Rīgas farmaceitiskā fabrika, A/S, Latvia
+manufacturer: Rīgas farmaceitiskā fabrika, A/S, Latvia
+atc_code: A15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0871/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0871/smpc

@@ -1,0 +1,7 @@
+short_name: Remantadīns
+active_substance: Rimantadini hydrochloridum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: J05AC02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/11-0397/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/11-0397/smpc

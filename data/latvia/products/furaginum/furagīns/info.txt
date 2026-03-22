@@ -1,0 +1,7 @@
+short_name: Furagīns
+active_substance: Furaginum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: J01XE03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0625/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/97-0625/smpc

@@ -1,7 +1,7 @@
 short_name: Clefirem
 active_substance: Teriflunomidum
 marketing_authorisation_holder: Bausch Health Ireland Limited, Ireland
-manufacturer: Bausch Health Poland sp. z o.o., Poland; Bausch Health Poland sp. z o.o., Poland
+manufacturer: Bausch Health Poland sp. z o.o., Poland
 atc_code: L04AK02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/23-0109/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/23-0109/smpc

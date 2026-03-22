@@ -1,0 +1,7 @@
+short_name: Piperacillina/Tazobactam Qilu
+active_substance: Piperacillinum, Tazobactamum
+marketing_authorisation_holder: Qilu Pharma Spain S.L., Spain
+manufacturer: Qilu Pharma Spain S.L., Spain
+atc_code: J01CR05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001833/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001833/smpc

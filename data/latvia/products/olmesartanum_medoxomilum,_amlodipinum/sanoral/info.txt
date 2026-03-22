@@ -1,7 +1,7 @@
 short_name: Sanoral
 active_substance: Olmesartanum medoxomilum, Amlodipinum
 marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
-manufacturer: Berlin-Chemie AG, Germany; Laboratorios Menarini S.A., Spain; Daiichi Sankyo Europe GmbH, Germany
+manufacturer: Berlin-Chemie AG, Germany; Laboratorios Menarini S.A., Spain; Daiichi Sankyo Europe GmbH, Germany; Fine Foods and Pharmaceuticals N.T.M.S.p.A., Italy
 atc_code: C09DB02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/08-0270/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/08-0270/smpc

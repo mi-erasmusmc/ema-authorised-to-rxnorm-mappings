@@ -1,7 +1,7 @@
 short_name: Trileptal
 active_substance: Oxcarbazepinum
 marketing_authorisation_holder: Novartis Baltics, SIA, Latvia
-manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Novartis Farma S.p.A., Italy
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Farma S.p.A., Italy
 atc_code: N03AF02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0279/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0279/smpc

@@ -1,0 +1,7 @@
+short_name: Ibuprofēns LMP
+active_substance: Ibuprofenum
+marketing_authorisation_holder: LMP, SIA, Latvia
+manufacturer: LMP, SIA, Latvia
+atc_code: M02AA13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0972/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0972/smpc

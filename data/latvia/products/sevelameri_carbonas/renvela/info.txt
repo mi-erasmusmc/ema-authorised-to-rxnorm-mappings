@@ -1,6 +1,6 @@
 short_name: Renvela
 active_substance: Sevelameri carbonas
-marketing_authorisation_holder: Sanofi B.V., Netherlands
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
 manufacturer: Sanofi Winthrop Industrie, France; Genzyme Ireland Ltd., Ireland; ROVI Pharma Industrial Services, S.A., Spain
 atc_code: V03AE02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/09/521/001/pil

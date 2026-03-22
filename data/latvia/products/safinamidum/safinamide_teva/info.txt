@@ -1,0 +1,7 @@
+short_name: Safinamide Teva
+active_substance: Safinamidum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Elpen Pharmaceutical Co. Inc., Greece; ELPEN Pharmaceutical Co. Inc., Greece
+atc_code: N04BD03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0025/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0025/smpc

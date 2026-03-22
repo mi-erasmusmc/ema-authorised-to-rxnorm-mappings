@@ -1,0 +1,7 @@
+short_name: Gotenfia
+active_substance: Golimumabum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany
+atc_code: L04AB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2009/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2009/001/smpc

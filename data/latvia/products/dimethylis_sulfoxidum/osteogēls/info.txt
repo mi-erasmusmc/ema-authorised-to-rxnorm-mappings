@@ -1,0 +1,7 @@
+short_name: Osteogēls
+active_substance: Dimethylis sulfoxidum
+marketing_authorisation_holder: Silvanols, SIA, Latvia
+manufacturer: SIA "Silvanols", Latvia
+atc_code: M02AX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0626/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0626/smpc

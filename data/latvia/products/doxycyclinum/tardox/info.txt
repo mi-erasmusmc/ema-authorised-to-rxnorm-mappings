@@ -1,0 +1,7 @@
+short_name: Tardox
+active_substance: Doxycyclinum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchominskie Zaklady Farmaceutyczne ''Polfa'' S.A., Poland
+atc_code: J01AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0046/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0046/smpc

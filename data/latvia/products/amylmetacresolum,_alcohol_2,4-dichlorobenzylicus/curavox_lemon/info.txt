@@ -1,0 +1,7 @@
+short_name: Curavox lemon
+active_substance: Amylmetacresolum, Alcohol 2,4-Dichlorobenzylicus
+marketing_authorisation_holder: Mapaex Consumer Healthcare (Ireland) Private Limited, Ireland
+manufacturer: Infarmade, S.L., Spain
+atc_code: R02AA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0038/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0038/smpc

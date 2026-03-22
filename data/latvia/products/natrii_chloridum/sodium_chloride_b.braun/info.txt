@@ -1,7 +1,7 @@
-short_name: Sodium chloride B.Braun
+short_name: Sodium Chloride B.Braun
 active_substance: Natrii chloridum
 marketing_authorisation_holder: B.Braun Melsungen AG, Germany
-manufacturer: B.Braun Melsungen AG, Germany; B.Braun Medical S.A., Spain; B.Braun Avitum AG, Germany
-atc_code: B05XA03
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0244/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0244/smpc
+manufacturer: B.Braun Melsungen AG, Germany; B.Braun Melsungen AG, Germany; Diaco Biofarmaceutici S.R.L, Italy
+atc_code: V07AB
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0569/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0569/smpc

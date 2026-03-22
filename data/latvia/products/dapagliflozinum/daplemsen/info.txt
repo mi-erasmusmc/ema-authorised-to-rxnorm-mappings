@@ -1,0 +1,7 @@
+short_name: Daplemsen
+active_substance: Dapagliflozinum
+marketing_authorisation_holder: MSN Labs Europe Limited, Malta
+manufacturer: Pharmadox Healthcare Ltd., Malta; MSN Labs Europe Limited, Malta
+atc_code: A10BK01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0027/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0027/smpc

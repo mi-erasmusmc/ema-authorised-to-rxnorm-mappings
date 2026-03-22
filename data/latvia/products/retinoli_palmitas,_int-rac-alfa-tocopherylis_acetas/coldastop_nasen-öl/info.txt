@@ -1,0 +1,7 @@
+short_name: Coldastop Nasen-Öl
+active_substance: Retinoli palmitas, Int-rac-alfa-tocopherylis acetas
+marketing_authorisation_holder: Desitin Arzneimittel GmbH, Germany
+manufacturer: Desitin Arzneimittel GmbH, Germany
+atc_code: R01AX30
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0109/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0109/smpc

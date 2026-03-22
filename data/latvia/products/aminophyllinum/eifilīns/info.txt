@@ -1,0 +1,7 @@
+short_name: Eifilīns
+active_substance: Aminophyllinum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Olpha, AS, Latvia
+atc_code: R03DA05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0353/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0353/smpc

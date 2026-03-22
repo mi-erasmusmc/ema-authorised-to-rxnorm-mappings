@@ -1,7 +1,7 @@
 short_name: EURneffy
 active_substance: Epinephrinum
 marketing_authorisation_holder: ALK-Abello A/S, Denmark
-manufacturer: Tiofarma B.V., Netherlands
+manufacturer: ALK-Abello A/S, Denmark
 atc_code: C01CA24
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1846/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1846/001/smpc
