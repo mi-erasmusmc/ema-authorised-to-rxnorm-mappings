@@ -66,3 +66,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 654801	08442007	35606210	dabigatran etexilate 110 MG Oral Capsule [Pradaxa]	1723478	EXACT			2026-03-13
 654802	08442011	40228158	dabigatran etexilate 150 MG Oral Capsule [Pradaxa]	1037049	EXACT			2026-03-13
 732861	108442031	40228152	dabigatran etexilate	1037042	BROAD	RxNorm does not expose the Spain powder-and-solvent oral-solution presentation.	dabigatran etexilate 6.25 MG/ML Powder for Oral Solution [Pradaxa]	2026-03-13
+768506	90564	40228154	dabigatran etexilate 150 MG Oral Capsule	1037045	EXACT			2026-03-22
+768510	90566	35606208	dabigatran etexilate 110 MG Oral Capsule	1723476	EXACT			2026-03-22

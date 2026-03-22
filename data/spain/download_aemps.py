@@ -21,10 +21,11 @@ import ssl
 import sys
 import urllib.request
 import zipfile
+from pathlib import Path
 from xml.etree import ElementTree as ET
 
 URL = "http://listadomedicamentos.aemps.gob.es/prescripcion.zip"
-OUT_TSV = "prescripcion.tsv"
+OUT_TSV = Path(__file__).parent / "prescripcion.tsv"
 
 COLUMNS = [
     "cod_nacion",

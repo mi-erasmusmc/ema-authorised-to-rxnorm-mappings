@@ -66,7 +66,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 710971	80897	1742254	levofloxacin 250 MG Oral Tablet	199884	EXACT			2026-03-12
 714299	81632	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 719204	81632	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
-720035	114973001					EU-only product; inhaled levofloxacin (Quinsair) has no FDA-approved equivalent and no RxNorm concept	levofloxacin 100 MG/ML Inhalation Solution	2026-02-11
+720035	114973001	1742253	levofloxacin	82122	BROAD	EU-only product; inhaled levofloxacin (Quinsair) has no FDA-approved equivalent and no RxNorm concept	levofloxacin 100 MG/ML Inhalation Solution	2026-03-22
 723851	72160	46287443	100 ML levofloxacin 5 MG/ML Injection	1665507	EXACT			2026-03-12
 728405	73591	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 766567	90054	1742284	levofloxacin 750 MG Oral Tablet	311296	EXACT			2026-03-12
@@ -105,3 +105,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726495	84399	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 726496	84399	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-12
 672706	72905	1742254	levofloxacin 250 MG Oral Tablet	199884	EXACT			2026-03-12
+768503	77100	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-22
+768726	77100	1742255	levofloxacin 500 MG Oral Tablet	199885	EXACT			2026-03-22

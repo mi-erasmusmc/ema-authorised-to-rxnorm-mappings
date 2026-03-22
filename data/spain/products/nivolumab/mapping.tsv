@@ -5,3 +5,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728143	1151014001IP	46276085	4 ML nivolumab 10 MG/ML Injection [Opdivo]	1657192	EXACT			2026-03-12
 731262	1151014002IP1	46276089	10 ML nivolumab 10 MG/ML Injection [Opdivo]	1657196	EXACT			2026-03-12
 731263	1151014001IP1	46276085	4 ML nivolumab 10 MG/ML Injection [Opdivo]	1657192	EXACT			2026-03-12
+768402	1151014002IP2	46276089	10 ML nivolumab 10 MG/ML Injection [Opdivo]	1657196	EXACT			2026-03-22
+768403	1151014001IP2	46276085	4 ML nivolumab 10 MG/ML Injection [Opdivo]	1657192	EXACT			2026-03-22
