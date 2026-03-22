@@ -7,10 +7,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 682765	60810	40991538	Iomeprol 714 MG/ML Injectable Solution	OMOP2189500	EXACT			2026-03-15
 682773	60809	41303464	Iomeprol 612 MG/ML Injectable Solution	OMOP2501426	EXACT			2026-03-15
 682781	60809	41303464	Iomeprol 612 MG/ML Injectable Solution	OMOP2501426	EXACT			2026-03-15
-682807	60808	1525340	iomeprol	2606484	BROAD			
-682823	60807	1525340	iomeprol	2606484	BROAD			
-682849	60806	1525340	iomeprol	2606484	BROAD			
+682807	60808	1525340	iomeprol	2606484	BROAD	No RxNorm/OMOP concept for iomeprol 510 MG/ML (250 mg iodo/ml); mapping to bare ingredient	Iomeprol 510 MG/ML Injectable Solution	2026-03-22
+682823	60807	1525340	iomeprol	2606484	BROAD	No RxNorm/OMOP concept for iomeprol 408 MG/ML (200 mg iodo/ml); mapping to bare ingredient	Iomeprol 408 MG/ML Injectable Solution	2026-03-22
+682849	60806	1525340	iomeprol	2606484	BROAD	No RxNorm/OMOP concept for iomeprol 306 MG/ML (150 mg iodo/ml); mapping to bare ingredient	Iomeprol 306 MG/ML Injectable Solution	2026-03-22
 684001	60811	40897903	Iomeprol 817 MG/ML Injectable Solution	OMOP2095865	EXACT			2026-03-15
 684019	60810	40991538	Iomeprol 714 MG/ML Injectable Solution	OMOP2189500	EXACT			2026-03-15
 901173	60810	40991538	Iomeprol 714 MG/ML Injectable Solution	OMOP2189500	EXACT			2026-03-15
 901181	60809	41303464	Iomeprol 612 MG/ML Injectable Solution	OMOP2501426	EXACT			2026-03-15
+607455	60809	41303464	Iomeprol 612 MG/ML Injectable Solution	OMOP2501426	EXACT			2026-03-22

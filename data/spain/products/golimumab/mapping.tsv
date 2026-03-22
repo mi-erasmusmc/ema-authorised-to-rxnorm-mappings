@@ -3,3 +3,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 664240	09546001	46234033	0.5 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653144	EXACT			2026-03-13
 728473	09546005IP1	46234039	1 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653166	EXACT			2026-03-13
 732106	09546001IP1	46234033	0.5 ML golimumab 100 MG/ML Auto-Injector [Simponi]	1653144	EXACT			2026-03-13
+769302	1251988001	46234031	0.5 ML golimumab 100 MG/ML Auto-Injector	1653142	BROAD	Biosimilar (GOBIVAZ); no FDA-suffixed golimumab exists in RxNorm	0.5 ML golimumab-xxxx 100 MG/ML Auto-Injector [Gobivaz]	2026-03-22

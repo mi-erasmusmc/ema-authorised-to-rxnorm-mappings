@@ -2,3 +2,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 760139	1221692001	702277	gallium GA-68 gozetotide	2586016	EXACT			2026-03-13
 767031	90174	1758656	gozetotide	2588949	EXACT			2026-03-13
 768343	90174	1758656	gozetotide	2588949	EXACT			2026-03-13
+766944	90141	1758656	gozetotide	2588949	BROAD	Radiopharmaceutical kit; no strength/form-specific concept in RxNorm	10 MCG gozetotide Injectable Solution [Isoprotrace]	2026-03-22
