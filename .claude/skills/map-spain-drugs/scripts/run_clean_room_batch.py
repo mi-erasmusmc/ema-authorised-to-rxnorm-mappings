@@ -265,7 +265,7 @@ def apply_updates(repo_root: Path, folder_name: str, updates: list[dict[str, str
 
     audit_cmd = [
         "python3",
-        str(repo_root / ".claude" / "skills" / "map-spain-drugs" / "audit_folder.py"),
+        str(repo_root / ".claude" / "skills" / "map-spain-drugs" / "audit_spain_folder.py"),
         str(mapping_path.parent),
     ]
     audit_result = run_command(audit_cmd)

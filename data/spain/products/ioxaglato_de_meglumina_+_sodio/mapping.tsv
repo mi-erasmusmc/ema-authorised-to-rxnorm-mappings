@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-830224	26466003	41435140	200 ML Ioxaglate 589 MG/ML Injectable Solution	OMOP2633102	EXACT			2026-03-13
-957555	26466005	42920443	20 ML Ioxaglate 589 MG/ML / Meglumine 52.4 MG/ML / Sodium Hydroxide 6.1 MG/ML Injectable Solution	OMOP4647291	EXACT			2026-03-13
-957563	26466002	41399575	50 ML Ioxaglate 589 MG/ML Injectable Solution	OMOP2597537	EXACT			2026-03-13
-957571	26466004	41426770	100 ML Ioxaglate 589 MG/ML Injectable Solution	OMOP2624732	EXACT			2026-03-13
+830224	56114	41435140	200 ML Ioxaglate 589 MG/ML Injectable Solution	OMOP2633102	EXACT			2026-03-23
+957555	56114	42920443	20 ML Ioxaglate 589 MG/ML / Meglumine 52.4 MG/ML / Sodium Hydroxide 6.1 MG/ML Injectable Solution	OMOP4647291	EXACT			2026-03-23
+957563	56114	41399575	50 ML Ioxaglate 589 MG/ML Injectable Solution	OMOP2597537	EXACT			2026-03-23
+957571	56114	41426770	100 ML Ioxaglate 589 MG/ML Injectable Solution	OMOP2624732	EXACT			2026-03-23

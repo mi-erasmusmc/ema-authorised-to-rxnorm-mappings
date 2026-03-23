@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-696864	77944	41023010	FLUPREDNIDENE 10 MG Topical Cream	OMOP2220972	BROAD	Spain source is flupamesone 3 MG/G ointment; RxNorm only exposes fluprednidene topical concepts and lacks an ointment concept at the matching strength.	flupamesone 3 MG/G Topical Ointment	2026-03-13
-696898	77944	41023012	FLUPREDNIDENE 0.00333 MG/MG Topical Cream	OMOP2220974	BROAD	Spain source is flupamesone 3 MG/G cream; mapped to the closest available fluprednidene strength expression.	flupamesone 3 MG/G Topical Cream	2026-03-13
-758813	77944	41023012	FLUPREDNIDENE 0.00333 MG/MG Topical Cream	OMOP2220974	BROAD	Spain source is flupamesone 3 MG/G cream; mapped to the closest available fluprednidene strength expression.	flupamesone 3 MG/G Topical Cream	2026-03-13
-758888	77944	41023010	FLUPREDNIDENE 10 MG Topical Cream	OMOP2220972	BROAD	Spain source is flupamesone 3 MG/G ointment; RxNorm only exposes fluprednidene topical concepts and lacks an ointment concept at the matching strength.	flupamesone 3 MG/G Topical Ointment	2026-03-13
+696864	51864				BROAD	Flupamesone is not present in standard RxNorm; no sufficiently close proxy concept exists.	flupamesone 3 MG/G Topical Ointment	2026-03-23
+696898	51862				BROAD	Flupamesone is not present in standard RxNorm; no sufficiently close proxy concept exists.	flupamesone 3 MG/G Topical Cream	2026-03-23
+758813	51862				BROAD	Flupamesone is not present in standard RxNorm; no sufficiently close proxy concept exists.	flupamesone 3 MG/G Topical Cream	2026-03-23
+758888	51864				BROAD	Flupamesone is not present in standard RxNorm; no sufficiently close proxy concept exists.	flupamesone 3 MG/G Topical Ointment	2026-03-23

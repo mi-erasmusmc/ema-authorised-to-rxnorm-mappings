@@ -1,15 +1,15 @@
 # Usage: make <target> [ARGS="..."]
-# Example: make audit_folder ARGS="data/spain/products/12345/ --details"
+# Example: make audit_spain_folder ARGS="data/spain/products/12345/ --details"
 
 .SILENT:
 PYTHON = python3
 
 # ── Spain ──────────────────────────────────────────────────────────────────────
-audit_all:
-	$(PYTHON) .claude/skills/map-spain-drugs/audit_all.py $(ARGS)
+audit_spain:
+	$(PYTHON) .claude/skills/map-spain-drugs/audit_spain.py $(ARGS)
 
-audit_folder:
-	$(PYTHON) .claude/skills/map-spain-drugs/audit_folder.py $(ARGS)
+audit_spain_folder:
+	$(PYTHON) .claude/skills/map-spain-drugs/audit_spain_folder.py $(ARGS)
 
 apply_mappings:
 	$(PYTHON) .claude/skills/map-spain-drugs/apply_mappings.py $(ARGS)
@@ -23,29 +23,25 @@ list_folder_patterns:
 run_clean_room_batch:
 	$(PYTHON) .claude/skills/map-spain-drugs/scripts/run_clean_room_batch.py $(ARGS)
 
-download_aemps:
+download_spain_nomenclator:
 	$(PYTHON) data/spain/download_aemps.py $(ARGS)
+
+split_spain_by_ingredient:
+	$(PYTHON) data/spain/split_by_ingredient.py $(ARGS)
+
+list_spain_changes:
+	$(PYTHON) data/spain/changed_products.py $(ARGS)
+
+fetch_spain_pdf:
+	$(PYTHON) data/spain/fetch_pdf.py $(ARGS)
+
+update_spain_data: download_spain_nomenclator split_spain_by_ingredient
 
 download_zva:
 	$(PYTHON) data/latvia/download_zva.py $(ARGS)
 
 deduplicate_latvia:
 	$(PYTHON) data/latvia/deduplicate_data_files.py $(ARGS)
-
-fetch_pdf:
-	$(PYTHON) data/spain/fetch_pdf.py $(ARGS)
-
-link_ema_mappings:
-	$(PYTHON) data/spain/link_ema_mappings.py $(ARGS)
-
-import_spanish_mappings:
-	$(PYTHON) data/spain/import_spanish_mappings.py $(ARGS)
-
-split_by_ingredient:
-	$(PYTHON) data/spain/split_by_ingredient.py $(ARGS)
-
-changed_products:
-	$(PYTHON) data/spain/changed_products.py $(ARGS)
 
 # ── EMA ────────────────────────────────────────────────────────────────────────
 audit_ema:
@@ -114,9 +110,10 @@ load_latvia:
 load_spain:
 	./load-spain-to-rxnorm.sh
 
-.PHONY: audit_all audit_folder apply_mappings find_duplicate_nros \
-        list_folder_patterns run_clean_room_batch download_aemps fetch_pdf \
-        link_ema_mappings import_spanish_mappings split_by_ingredient \
+.PHONY: audit_spain audit_spain_folder apply_mappings find_duplicate_nros \
+        list_folder_patterns run_clean_room_batch \
+        download_spain_nomenclator split_spain_by_ingredient list_spain_changes \
+        fetch_spain_pdf update_spain_data \
         audit_ema find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
         prepare_parse_batch fetch_ema_updates download_ema_presentation_files \
         organize_products fill_missing_latvian_mappings find_concepts \

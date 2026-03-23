@@ -33,7 +33,7 @@ DATA_COLUMNS = [
     "envase",               # container type
     "contenido",            # quantity
     "unidad_contenido",     # unit
-    "principios_activos",   # pipe-separated "NAME DOSE UNIT" per ingredient
+    "principios_activos",   # pipe-separated "NAME DOSE UNIT" per ingredient (sorted alphabetically for stability)
     "vias_administracion",  # pipe-separated route names
     "forma_farmaceutica",   # pharmaceutical form
     "atc",                  # ATC code + description, e.g. "J01CR02 - Amoxicilina..."
@@ -90,7 +90,11 @@ def main():
         with open(out_path, "w", newline="", encoding="utf-8") as f:
             writer = csv.DictWriter(f, fieldnames=DATA_COLUMNS, delimiter="\t", extrasaction="ignore")
             writer.writeheader()
-            writer.writerows(rows)
+            for row in rows:
+                if row.get("principios_activos"):
+                    parts = row["principios_activos"].split("|")
+                    row["principios_activos"] = "|".join(sorted(parts))
+                writer.writerow(row)
 
     print(f"Done. Written to {PRODUCTS_DIR}/", file=sys.stderr)
     print(f"  {len(groups)} folders, e.g.:", file=sys.stderr)

@@ -42,7 +42,7 @@ from pathlib import Path
 # Allow importing from the same directory as this script and the map-drugs skill
 sys.path.insert(0, str(Path(__file__).parent))
 
-from audit_folder import (  # noqa: E402
+from audit_spain_folder import (  # noqa: E402
     DETAIL_HEADER,
     audit_folder,
     print_details,

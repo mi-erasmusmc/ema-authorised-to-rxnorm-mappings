@@ -65,15 +65,12 @@ to find all duplicates.
 To refresh from AEMPS without losing manual edits:
 
 ```bash
-# 1. Download latest prescripcion.tsv
-make download_aemps
+# Download latest nomenclator and re-split into product folders
+make update_spain_data
 
-# 2. Re-split into product folders (data.tsv files are overwritten; mapping.tsv files are untouched)
-make split_by_ingredient
+# Review what changed
+make list_spain_changes
 
-# 3. Sync mappings — adds new presentations, prunes removed ones, preserves all existing rows
-make link_ema_mappings
-
-# 4. Regenerate combined output
+# Regenerate combined output
 make generate_mapping_overviews ARGS=spain
 ```

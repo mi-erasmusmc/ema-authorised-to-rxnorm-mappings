@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-849851	19521001	35606691	interferon alfa-2b 10000000 UNT Injection	1720878	EXACT			2026-03-13
-849877	19521002	43270359	1.2 ML Interferon Alfa-2b 15000000 UNT/ML Injection	OMOP560932	EXACT	18 million UI/1.2 mL = 15 million UI/mL.		2026-03-13
-850008	19521003	43519356	1.2 ML Interferon Alfa-2b 50000000 UNT/ML Injection	OMOP2806471	BROAD	30 million UI/1.2 mL pen; RxNorm exposes the 60 million UI/1.2 mL strength but not the exact 25 million UI/mL pen concept.	1.2 ML interferon alfa-2b 25000000 UNT/ML Cartridge	2026-03-13
-850016	19521004	43519356	1.2 ML Interferon Alfa-2b 50000000 UNT/ML Injection	OMOP2806471	EXACT	60 million UI/1.2 mL = 50 million UI/mL.		2026-03-13
+849851	99127020	1380130	interferon alfa-2b 10000000 UNT/ML Injectable Solution [Intron A]	545293	EXACT	Vial multi-use; 10 MIU/mL concentration matches; branded Intron A.		2026-03-23
+849877	99127031	42709197	interferon alfa-2b 18000000 UNT Injection [Intron A]	1251596	BROAD	18 MIU/1.2 mL pen (multidose cartridge); no pen-specific RxNorm concept; 18 MIU total dose branded concept is closest standard.	1.2 ML interferon alfa-2b 15000000 UNT/ML Pen Injector [Intron A]	2026-03-23
+850008	99127034	19078663	interferon alfa-2b 25000000 UNT/ML Injectable Solution	311074	BROAD	30 MIU/1.2 mL pen = 25 MIU/mL; no branded or pen-specific concept for this strength; unbranded injectable solution at correct concentration.	1.2 ML interferon alfa-2b 25000000 UNT/ML Pen Injector [Intron A]	2026-03-23
+850016	99127037	19034326	interferon alfa-2b 50000000 UNT Injection [Intron A]	207035	BROAD	60 MIU/1.2 mL pen (multidose cartridge); no pen-specific RxNorm concept; 50 MIU/mL = 60 MIU/1.2 mL; branded total-dose concept is closest standard.	1.2 ML interferon alfa-2b 50000000 UNT/ML Pen Injector [Intron A]	2026-03-23

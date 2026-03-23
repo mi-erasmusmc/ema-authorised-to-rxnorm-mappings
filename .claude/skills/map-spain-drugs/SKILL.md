@@ -13,8 +13,8 @@ Refer to the `find-concepts` skill for RxNorm searches and the `map-drugs` skill
 
 ## Resources
 
-- Use `audit_folder.py` to identify missing, stale, incomplete, or broad mappings in a Spain product folder.
-- Use `audit_all.py` to audit all Spain product folders at once and surface the worst offenders by issue type.
+- Use `audit_spain_folder.py` to identify missing, stale, incomplete, or broad mappings in a Spain product folder.
+- Use `audit_spain.py` to audit all Spain product folders at once and surface the worst offenders by issue type.
 - Use `apply_mappings.py` to merge targeted TSV updates into `mapping.tsv` without rewriting unchanged rows.
 - Use `scripts/list_folder_patterns.py` to summarize repeated presentation patterns before concept search, especially in large folders.
 - Use `scripts/run_clean_room_batch.py` for conservative bulk cleanup when missing rows can be filled from existing `EXACT` mappings in the same folder.
@@ -23,15 +23,13 @@ Refer to the `find-concepts` skill for RxNorm searches and the `map-drugs` skill
 
 ## How Spain Mappings Work
 
-Spain products are auto-linked to EMA mappings via `nro_definitivo` on first setup:
+Spain products are linked to EMA mappings via `nro_definitivo`:
 
 ```text
 EU/1/20/1476/001 -> strip "EU" + remove "/" -> 1201476001 = nro_definitivo
 ```
 
-`link_ema_mappings.py` writes `mapping.tsv` per product folder. It is incremental: existing rows are not overwritten, new `cod_nacion` values are auto-mapped, and stale auto-generated rows are pruned.
-
-Treat `mapping.tsv` as the editable source of truth. Manual corrections survive reruns. To reset a row to the current auto-link, delete that row from `mapping.tsv` and rerun `link_ema_mappings.py`.
+Treat `mapping.tsv` as the editable source of truth. Manual corrections survive data refreshes.
 
 ## Input Files
 
@@ -46,14 +44,14 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
 1. Audit the folder:
    ```bash
-   make audit_folder ARGS="data/spain/products/<folder>/"
+   make audit_spain_folder ARGS="data/spain/products/<folder>/"
    ```
    The default output is summary-first. It shows issue counts and repeated product patterns so you can decide quickly whether the folder is batchable.
 
    Use drill-down mode only when needed:
    ```bash
-   make audit_folder ARGS="data/spain/products/<folder>/ --details"
-   make audit_folder ARGS="data/spain/products/<folder>/ --details --issue MISSING"
+   make audit_spain_folder ARGS="data/spain/products/<folder>/ --details"
+   make audit_spain_folder ARGS="data/spain/products/<folder>/ --details --issue MISSING"
    ```
 
    Review these issue types:
