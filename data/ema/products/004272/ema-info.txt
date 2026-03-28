@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/004272
 Name of medicine: Rubraca
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: rucaparib
-Active substance: Rucaparib camsylate
+Active substance: rucaparib camsylate
 Therapeutic area (MeSH): Ovarian Neoplasms
 ATC code (human): L01XX
 Pharmacotherapeutic group (human): Antineoplastic agents

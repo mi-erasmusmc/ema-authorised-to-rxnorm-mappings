@@ -3,3 +3,5 @@ EU/1/24/1863/001	1466401	0.5 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otu
 EU/1/24/1863/002	1466399	1 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702613	EXACT			2025-12-04
 EU/1/24/1863/003	1466403	26 ML ustekinumab-aauz 5 MG/ML Injection [Otulfi]	2702624	EXACT			2025-12-04
 EU/1/24/1863/004	1466401	0.5 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702616	BROAD		0.5 ML ustekinumab-aauz 90 MG/ML Injection [Otulfi]	2026-03-11
+EU/1/24/1863/005	1466401	0.5 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702616	BROAD		0.5 ML ustekinumab-aauz 90 MG/ML Auto-Injector [Otulfi]	2026-03-27
+EU/1/24/1863/006	1466399	1 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702613	BROAD		1 ML ustekinumab-aauz 90 MG/ML Auto-Injector [Otulfi]	2026-03-27

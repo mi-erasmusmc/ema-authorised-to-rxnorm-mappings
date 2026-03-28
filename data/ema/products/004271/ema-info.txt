@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/004271
 Name of medicine: Tremfya
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: guselkumab
-Active substance: Guselkumab
+Active substance: 
 Therapeutic area (MeSH): Psoriasis;Crohn Disease;Colitis, Ulcerative
 ATC code (human): L04AC
 Pharmacotherapeutic group (human): Immunosuppressants
