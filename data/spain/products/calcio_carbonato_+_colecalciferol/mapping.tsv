@@ -49,3 +49,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 834549	62796	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
 849141	62871	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
 769891	41529052IP1	36036451	calcium / cholecalciferol Oral Tablet	OMOP5046453	BROAD		calcium carbonate 1500 MG / cholecalciferol 2000 UNT Oral Tablet	2026-03-22
+767700	032033019IP	43024037	Calcium Carbonate / Cholecalciferol Powder for Oral Solution	OMOP4839152	BROAD		calcium carbonate 2500 MG / cholecalciferol 880 UNT Granules for Oral Solution	2026-03-28
