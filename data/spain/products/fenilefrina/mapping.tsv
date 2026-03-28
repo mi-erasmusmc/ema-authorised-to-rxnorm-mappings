@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-662509	70638	740208	phenylephrine hydrochloride 10 MG/ML Injection [Biorphen]	2533438	EXACT			2026-03-13
+662509	70638	46287545	1 ML phenylephrine hydrochloride 10 MG/ML Injection	1666372	EXACT			2026-03-28
 708351	80352	42901137	phenylephrine hydrochloride 0.05 MG/ML	1314936	EXACT			2026-03-13
 728248	84988	37497615	phenylephrine hydrochloride 0.1 MG/ML Injection	2262019	EXACT			2026-03-13
 728518	85084	35783272	20 ML Phenylephrine 0.1 MG/ML Injectable Solution	OMOP2784733	BROAD	RxNorm exposes a matching 20 mL / 0.1 mg/mL injectable solution concept, but not the exact perfusion presentation wording.	phenylephrine hydrochloride 0.1 MG/ML Injection	2026-03-13

@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 764189	1231780001	747751	2 ML rozanolixizumab-noli 140 MG/ML Injection [Rystiggo]	2642294	EXACT			2025-12-04
-765725	1231780001	747751	2 ML rozanolixizumab-noli 140 MG/ML Injection [Rystiggo]	2642294	EXACT			2025-12-04
-765726	1231780001	747751	2 ML rozanolixizumab-noli 140 MG/ML Injection [Rystiggo]	2642294	EXACT			2025-12-04
+765725	1231780001	1735781	3 ML rozanolixizumab-noli 140 MG/ML Injection [Rystiggo]	2685615	EXACT			2026-03-28
+765726	1231780001	1735782	4 ML rozanolixizumab-noli 140 MG/ML Injection	2685616	EXACT	No branded 4 ML Rystiggo concept in RxNorm; unbranded standard concept used		2026-03-28

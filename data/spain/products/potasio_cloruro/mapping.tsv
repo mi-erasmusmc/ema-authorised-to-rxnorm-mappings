@@ -3,7 +3,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 602463	61371	1718696	10 ML potassium chloride 2 MEQ/ML Injection	1860136	EXACT			2026-03-13
 602584	61371	1718693	5 ML potassium chloride 2 MEQ/ML Injection	1860132	EXACT			2026-03-13
 602586	61371	1718698	20 ML potassium chloride 2 MEQ/ML Injection	1860139	EXACT			2026-03-13
-607142	60353	21125567	Potassium Chloride 150 MG/ML Injection	OMOP279897	EXACT			2026-03-13
+607142	60353	1718692	potassium chloride Injection	1860131	BROAD	No RxNorm concept for 1 MEQ/ML KCl injection; current OMOP concept (150 MG/ML) corresponds to 2 MEQ/ML — concentration mismatch corrected	10 ML potassium chloride 1 MEQ/ML Injection	2026-03-28
 607145	60354	1718693	5 ML potassium chloride 2 MEQ/ML Injection	1860132	EXACT			2026-03-13
 607146	60354	1718696	10 ML potassium chloride 2 MEQ/ML Injection	1860136	EXACT			2026-03-13
 607147	60354	1718698	20 ML potassium chloride 2 MEQ/ML Injection	1860139	EXACT			2026-03-13
@@ -14,5 +14,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 700635	59805	19103561	potassium chloride 8 MEQ Oral Capsule	410958	EXACT			2026-03-13
 724700	60354	1718693	5 ML potassium chloride 2 MEQ/ML Injection	1860132	EXACT			2026-03-13
 724701	60354	1718698	20 ML potassium chloride 2 MEQ/ML Injection	1860139	EXACT			2026-03-13
-600216	63783	21125567	Potassium Chloride 150 MG/ML Injection	OMOP279897	EXACT			2026-03-13
-644799	60057	21125567	Potassium Chloride 150 MG/ML Injection	OMOP279897	EXACT			2026-03-13
+600216	63783	1718692	potassium chloride Injection	1860131	BROAD	No RxNorm concept for 1 MEQ/ML KCl injection; current OMOP concept (150 MG/ML) corresponds to 2 MEQ/ML — concentration mismatch corrected	10 ML potassium chloride 1 MEQ/ML Injection	2026-03-28
+644799	60057	1718692	potassium chloride Injection	1860131	BROAD	No RxNorm concept for 1 MEQ/ML KCl injection; current OMOP concept (150 MG/ML) corresponds to 2 MEQ/ML — concentration mismatch corrected	10 ML potassium chloride 1 MEQ/ML Injection	2026-03-28

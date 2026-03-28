@@ -11,7 +11,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 705607	114946011	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2025-12-04
 732085	114946024	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2025-12-04
 732086	114946033	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2025-12-04
-845826	59102	46234504	filgrastim 0.3 MG/ML Injection	1649947	EXACT			2026-03-12
+845826	59102	46234503	1 ML filgrastim 0.3 MG/ML Injection [Neupogen]	1649946	EXACT			2026-03-28
 867465	64315	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-03-12
 886077	64315	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-03-12
 998427	64314	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-03-12

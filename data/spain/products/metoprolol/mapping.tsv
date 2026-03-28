@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 715981	82000	40167202	metoprolol tartrate 100 MG Oral Tablet	866511	EXACT			2026-03-14
 782250	54503	40167202	metoprolol tartrate 100 MG Oral Tablet	866511	EXACT			2026-03-14
-969337	56989	35605511	metoprolol tartrate 1 MG/ML Injection	1740913	EXACT			2026-03-14
+969337	56989	40167196	5 ML metoprolol tartrate 1 MG/ML Injection	866508	EXACT			2026-03-28
 672154	61506	40167200	metoprolol succinate 100 MG Extended Release Oral Tablet	866415	EXACT	95 MG metoprolol succinate maps to 100 MG metoprolol tartrate equivalent per project conversion table.		2026-03-14
