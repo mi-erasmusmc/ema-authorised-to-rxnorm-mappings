@@ -10,7 +10,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703887	79117	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 10 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
 703888	79117	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 2.5 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
 703889	79118	19015728	cisatracurium 5 MG/ML Injectable Solution	249279	EXACT	No local 30 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
-731342	86087	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT			2026-03-13
+731342	86087	35605393	5 ML cisatracurium 2 MG/ML Injection	1546090	EXACT			2026-03-29
 731343	86087	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT			2026-03-13
 677765	61200	19016315	cisatracurium 2 MG/ML Injectable Solution	199211	EXACT	No local 10 mL exact concept found; mapped to exact concentration concept used elsewhere in folder.		2026-03-15
 677773	61200	35605395	5 ML cisatracurium 2 MG/ML Injection [Nimbex]	1730196	EXACT	5 mL Nimbex ampoule has an exact branded volume-specific injection concept.		2026-03-15

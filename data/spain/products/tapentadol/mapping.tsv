@@ -1,13 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 603632	73242	19026493	tapentadol 50 MG Oral Tablet	825411	EXACT			2026-03-12
-603633	73239	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			
+603633	73239	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			2026-03-29
 603634	73241	36886700	tapentadol 87.4 MG Oral Tablet	OMOP997467	EXACT			2026-03-12
 603637	73246	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-12
 603638	73245	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-12
 603640	73244	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-12
 603641	73243	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-12
 604503	73601	19026493	tapentadol 50 MG Oral Tablet	825411	EXACT			2026-03-12
-605110	73613	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			
+605110	73613	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			2026-03-29
 605111	73616	36886700	tapentadol 87.4 MG Oral Tablet	OMOP997467	EXACT			2026-03-12
 605112	73624	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-12
 605114	73629	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-12
@@ -18,7 +18,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 673602	73639	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-12
 673604	73641	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-12
 677282	73242	19026493	tapentadol 50 MG Oral Tablet	825411	EXACT			2026-03-12
-677283	73239	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			
+677283	73239	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			2026-03-29
 677284	73241	36886700	tapentadol 87.4 MG Oral Tablet	OMOP997467	EXACT			2026-03-12
 677293	73246	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-12
 677295	73245	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-12
@@ -26,41 +26,41 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 677297	73243	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-12
 689941	75917	43715054	tapentadol 29.1 MG Extended Release Oral Tablet	OMOP710548	EXACT			2026-03-12
 689956	75921	43715054	tapentadol 29.1 MG Extended Release Oral Tablet	OMOP710548	EXACT			2026-03-12
-694781	76792	42901815	tapentadol 20 MG/ML Oral Solution	1356315	EXACT			
-694783	76793	41052078	tapentadol 4 MG/ML Oral Solution	OMOP2250040	EXACT			
-694784	76794	41052078	tapentadol 4 MG/ML Oral Solution	OMOP2250040	EXACT			
-694785	76795	42901815	tapentadol 20 MG/ML Oral Solution	1356315	EXACT			
-731863	86285	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			
-731864	86286	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			
-731865	86287	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			
+694781	76792	42901815	tapentadol 20 MG/ML Oral Solution	1356315	EXACT			2026-03-29
+694783	76793	41052078	tapentadol 4 MG/ML Oral Solution	OMOP2250040	EXACT			2026-03-29
+694784	76794	41052078	tapentadol 4 MG/ML Oral Solution	OMOP2250040	EXACT			2026-03-29
+694785	76795	42901815	tapentadol 20 MG/ML Oral Solution	1356315	EXACT			2026-03-29
+731863	86285	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-29
+731864	86286	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-29
+731865	86287	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-29
 758776	88221	43281734	tapentadol 25 MG Extended Release Oral Tablet	OMOP537936	EXACT			2026-03-12
-758783	88222	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			
-758790	88223	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			
-758798	88224	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			
-758806	88225	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			
-758814	88226	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			
-759240	88288	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			
-759241	88289	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			
-759242	88290	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			
-759243	88291	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			
+758783	88222	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-29
+758790	88223	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-29
+758798	88224	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-29
+758806	88225	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-29
+758814	88226	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			2026-03-29
+759240	88288	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-29
+759241	88289	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-29
+759242	88290	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-29
+759243	88291	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			2026-03-29
 759244	88292	43281734	tapentadol 25 MG Extended Release Oral Tablet	OMOP537936	EXACT			2026-03-12
-759245	88293	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			
+759245	88293	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-29
 759273	88308	43281734	tapentadol 25 MG Extended Release Oral Tablet	OMOP537936	EXACT			2026-03-12
-759275	88309	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			
-759276	88310	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			
-759277	88311	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			
-759278	88312	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			
-759279	88313	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			
+759275	88309	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-29
+759276	88310	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-29
+759277	88311	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-29
+759278	88312	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-29
+759279	88313	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			2026-03-29
 759318	88329	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-12
 759319	88330	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-12
 759320	88331	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-12
 759321	88332	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			2026-03-12
 759322	88333	43281734	tapentadol 25 MG Extended Release Oral Tablet	OMOP537936	EXACT			2026-03-12
-759323	88334	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			
+759323	88334	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-29
 759843	88376	43281734	tapentadol 25 MG Extended Release Oral Tablet	OMOP537936	EXACT			2026-03-12
-759844	88377	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			
-759846	88378	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			
-759847	88379	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			
-759848	88380	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			
-759849	88381	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			
+759844	88377	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-29
+759846	88378	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-29
+759847	88379	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-29
+759848	88380	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-29
+759849	88381	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			2026-03-29
 605115	73630	40243117	tapentadol 250 MG Extended Release Oral Tablet	1148806	EXACT			2026-03-13

@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-651422	48707	42706016	pyridoxine / thiamine / vitamin B12 Oral Tablet	1244145	BROAD			2026-03-12
-703676	79062	42706016	pyridoxine / thiamine / vitamin B12 Oral Tablet	1244145	BROAD			2026-03-12
-715979	39694	42706016	pyridoxine / thiamine / vitamin B12 Oral Tablet	1244145	BROAD			2026-03-12
-731498	86153	42706016	pyridoxine / thiamine / vitamin B12 Oral Tablet	1244145	BROAD			2026-03-12
-650192	45113	1353408	thiamine 100 MG/ML / vitamin B6 100 MG/ML Injectable Solution	312737	BROAD			2026-03-12
-650200	45113	1353408	thiamine 100 MG/ML / vitamin B6 100 MG/ML Injectable Solution	312737	BROAD			2026-03-12
-699041	52317	1353408	thiamine 100 MG/ML / vitamin B6 100 MG/ML Injectable Solution	312737	BROAD			2026-03-12
-955161	43061	42706016	pyridoxine / thiamine / vitamin B12 Oral Tablet	1244145	BROAD			2026-03-12
+651422	48707	40924095	pyridoxine / Thiamine / Vitamin B 12 Oral Capsule	OMOP2122057	BROAD		pyridoxine 50 MG / thiamine 50 MG / cyanocobalamin 1 MG Oral Capsule	2026-03-29
+703676	79062	42706016	pyridoxine / thiamine / vitamin B12 Oral Tablet	1244145	BROAD		pyridoxine 250 MG / thiamine 250 MG / cyanocobalamin 0.5 MG Oral Tablet	2026-03-29
+715979	39694	42706016	pyridoxine / thiamine / vitamin B12 Oral Tablet	1244145	BROAD		pyridoxine 250 MG / thiamine 250 MG / cyanocobalamin 1 MG Oral Tablet	2026-03-29
+731498	86153	42706016	pyridoxine / thiamine / vitamin B12 Oral Tablet	1244145	BROAD		pyridoxine 250 MG / thiamine 250 MG / cyanocobalamin 0.5 MG Oral Tablet	2026-03-29
+650192	45113	43778875	pyridoxine / Thiamine / Vitamin B 12 Injectable Solution	OMOP755508	BROAD	Single-use ampoule; concept is Injectable Solution (multi-use form) — best available 3-ingredient injectable	3 ML thiamine 33.33 MG/ML / pyridoxine 33.33 MG/ML / cyanocobalamin 1.67 MG/ML Injection	2026-03-29
+650200	45113	43778875	pyridoxine / Thiamine / Vitamin B 12 Injectable Solution	OMOP755508	BROAD	Single-use ampoule; concept is Injectable Solution (multi-use form) — best available 3-ingredient injectable	3 ML thiamine 33.33 MG/ML / pyridoxine 33.33 MG/ML / cyanocobalamin 1.67 MG/ML Injection	2026-03-29
+699041	52317	43778875	pyridoxine / Thiamine / Vitamin B 12 Injectable Solution	OMOP755508	BROAD	Single-use ampoule; concept is Injectable Solution (multi-use form) — best available 3-ingredient injectable	2 ML thiamine 62.5 MG/ML / pyridoxine 62.5 MG/ML / cyanocobalamin 2.5 MG/ML Injection	2026-03-29
+955161	43061	40924095	pyridoxine / Thiamine / Vitamin B 12 Oral Capsule	OMOP2122057	BROAD		pyridoxine 100 MG / thiamine 100 MG / cyanocobalamin 1 MG Oral Capsule	2026-03-29

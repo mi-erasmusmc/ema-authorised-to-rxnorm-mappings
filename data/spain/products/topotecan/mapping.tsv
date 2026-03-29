@@ -8,4 +8,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 672700	72892	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
 693467	76570	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
 701346	78428	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
-701395	78445	36249279	topotecan 1 MG/ML Injection	1799425	EXACT			2026-03-12
+701395	78445	36249279	topotecan 1 MG/ML Injection	1799425	BROAD		1 ML topotecan 1 MG/ML Injection	2026-03-29

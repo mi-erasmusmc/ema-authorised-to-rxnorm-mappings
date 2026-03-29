@@ -24,6 +24,32 @@ import sys
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 BRAND_SUFFIX_RE = re.compile(r"^(?P<base>.+?) \[[^\]]+\]$")
+# Matches a strength value+unit anywhere in the concept name (e.g. "20 MG/ML", "5000 UNT").
+# Used to detect bare clinical drug components (ingredient+strength, no dose form).
+STRENGTH_IN_NAME_RE = re.compile(
+    r"\b\d+(?:\.\d+)?\s*(?:MG|UNT|MEQ|ACTUAT|MCI)\b",
+    re.IGNORECASE,
+)
+# Contrast agents and similar compounds where RxNorm intentionally omits dose form
+# from the concept name. EXACT is accepted for these even without a dose form.
+# Key: concept_code (RxNorm CUI code, the stable identifier).
+EXACT_NO_DOSE_FORM_EXEMPT_CODES = {
+    "440782",       # iopamidol 612 MG/ML
+    "328359",       # iopamidol 760 MG/ML
+    # OMOP extension concepts for EU-only indacaterol strengths (150/300 µg).
+    # These use the deprecated dose form term "Inhalant Powder" instead of "Inhalation Powder".
+    # No standard RxNorm concept exists at these strengths.
+    "OMOP1001937",  # indacaterol 0.15 MG Inhalant Powder
+    "OMOP999050",   # indacaterol 0.3 MG Inhalant Powder
+    # OMOP extension concept for EU-only indacaterol/glycopyrronium strength (85/43 µg).
+    # Uses deprecated "Inhalant Powder"; no standard RxNorm concept at these strengths.
+    "OMOP3108030",  # glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder
+    # OMOP extension concepts for EU-only Trimbow (beclomethasone/formoterol/glycopyrronium).
+    # Not marketed in the US; no standard RxNorm concepts exist.
+    "OMOP4776211",  # Beclomethasone 0.084 MG/ACTUAT / formoterol 0.005 MG/ACTUAT / glycopyrronium 0.009 MG/ACTUAT Inhalant Solution [Trimbow]
+    "OMOP4711822",  # Beclomethasone 0.084 MG/ACTUAT / formoterol 0.005 MG/ACTUAT / glycopyrronium 0.009 MG/ACTUAT Inhalant Powder [Trimbow]
+}
+
 VALID_MAPPING_TYPES = {"EXACT", "BROAD", ""}
 
 VALID_ID_COLUMNS = {"ma_number", "product_id", "cod_nacion"}
@@ -125,8 +151,22 @@ def validate_file(path: str) -> list[str]:
                         f"  {line}: mapping_type '{mt}' is not EXACT, BROAD, or empty"
                     )
 
-                # BROAD mappings require a suggestion
+                # EXACT mappings to bare clinical drug components (has strength, no dose form) are invalid.
+                # Concepts with truncated names (ending "...") are skipped: the dose form may be cut off.
+                # Contrast agents and similar compounds are exempt via EXACT_NO_DOSE_FORM_EXEMPT_CODES.
                 concept_name = row.get("concept_name", "").strip()
+                concept_code = row.get("concept_code", "").strip()
+                if (mt == "EXACT" and concept_name
+                        and not concept_name.endswith("...")
+                        and concept_code not in EXACT_NO_DOSE_FORM_EXEMPT_CODES
+                        and STRENGTH_IN_NAME_RE.search(concept_name)
+                        and not suggestion_has_valid_dose_form(concept_name)):
+                    errors.append(
+                        f"  {line}: EXACT concept '{concept_name[:80]}' has a strength but no "
+                        f"dose form; use BROAD if no dose-form-specific concept exists"
+                    )
+
+                # BROAD mappings require a suggestion
                 suggestion = row.get("suggestion", "").strip()
                 suggestion_required = normalized_path not in SUGGESTION_OPTIONAL_FILES
                 if mt == "BROAD" and suggestion_required and not suggestion:

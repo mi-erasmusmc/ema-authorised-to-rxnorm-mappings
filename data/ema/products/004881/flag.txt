@@ -1,7 +1,18 @@
-Metered dose vs delivered dose verification needed.
+BROAD mapping confirmed — dose verified against SmPC.
 
-Seffalair Spiromax lists strengths as 12.75 μg salmeterol xinafoate / 100 μg fluticasone propionate and 12.75 μg / 202 μg (delivered dose). Standard RxNorm fluticasone/salmeterol DPI concepts use salmeterol 0.05 MG/ACTUAT (50 MCG) which does not match the 12.75 MCG delivered dose. The 202 μg fluticasone strength also has no RxNorm equivalent.
+Seffalair Spiromax (Teva) delivers 12.75 µg salmeterol (as free base, present as salmeterol xinafoate) per actuation as the delivered dose; the metered dose is 14 µg. One actuation = one therapeutic dose (prescribed as 1 inhalation BID). This is confirmed by:
+  - EMA product information: https://www.ema.europa.eu/en/documents/product-information/seffalair-spiromax-epar-product-information_en.pdf
+  - Teva UK SmPC (archived Dec 2025): https://products.tevauk.com/mediafile/id/51751.pdf
 
-Mapped BROAD to generic Clinical Drug Form (fluticasone / salmeterol Dry Powder Inhaler, concept 40144020). Verify via SmPC whether the Spiromax dosing convention (e.g. multiple actuations per dose) corresponds to a standard RxNorm strength before finalising.
+The standard RxNorm fluticasone/salmeterol DPI concept uses salmeterol 0.05 MG/ACTUAT (50 µg), which reflects the Seretide/Advair Diskus delivered dose (47 µg, metered 50 µg — same free-base convention).
+  - Source: Seretide Accuhaler SmPC (emc): https://www.medicines.org.uk/emc/product/7597/smpc
 
-Sister product BroPair Spiromax (005591) has the same strengths and the same issue.
+This is a genuine 4× dose difference, not a salt/base conversion artefact. The weight_conversions.tsv file confirms: salmeterol 12.75 µg (base) = salmeterol xinafoate 18.52 µg, vs. salmeterol 50 µg (base) = salmeterol xinafoate ~73 µg. The Spiromax device achieves higher lung deposition efficiency, allowing a lower nominal dose to produce equivalent bronchodilation — but the labeled delivered dose is 12.75 µg, not 50 µg.
+
+The EMA SmPC explicitly states: "The delivered doses for Seffalair Spiromax are different from other salmeterol/fluticasone containing products and Seffalair Spiromax should therefore not be swapped with other salmeterol/fluticasone containing inhalers."
+
+No RxNorm concept exists at 0.01275 MG/ACTUAT salmeterol. The only available fluticasone/salmeterol DPI concept at any strength is 0.05 MG/ACTUAT salmeterol combined with fluticasone 0.1 or 0.5 MG/ACTUAT. The 202 µg fluticasone strength also has no RxNorm equivalent (Seretide covers 100/250/500 µg).
+
+BROAD mapping to fluticasone / salmeterol Dry Powder Inhaler (concept_id 40144020, code 746717) is confirmed correct. Upgrade to EXACT is not possible without a new RxNorm standard concept at these doses.
+
+Sister product BroPair Spiromax (005591) has the same dose issue.

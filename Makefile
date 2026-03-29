@@ -98,7 +98,7 @@ sync_mappings:
 	$(PYTHON) scripts/sync-mappings.py $(ARGS)
 
 generate_mapping_overviews:
-	$(PYTHON) scripts/generate_mapping_overviews.py $(ARGS)
+	$(PYTHON) scripts/generate_mapping_overviews.py $(ARGS) & echo "OK"
 
 # ── DB load ────────────────────────────────────────────────────────────────────
 load_ema:

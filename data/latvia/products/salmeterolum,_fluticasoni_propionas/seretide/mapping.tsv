@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-01-0452-01	2071113	fluticasone 0.125 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972683				
-01-0453-01	2071131	fluticasone 0.25 MG/ACTUAT / salmeterol 0.025 MG/ACTUAT Inhalation Suspension	OMOP4972701				
-01-0451-01							
+01-0451-01	42902807	fluticasone propionate 0.045 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359920	EXACT	normalized from EU metered dose (25/50 mcg) to RxNorm delivered dose convention	 	2026-03-29
+01-0452-01	42902547	fluticasone propionate 0.115 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359660	EXACT	normalized from EU metered dose (25/125 mcg) to RxNorm delivered dose convention	 	2026-03-29
+01-0453-01	42902703	fluticasone propionate 0.23 MG/ACTUAT / salmeterol 0.021 MG/ACTUAT Metered Dose Inhaler	1359816	EXACT	normalized from EU metered dose (25/250 mcg) to RxNorm delivered dose convention	 	2026-03-29

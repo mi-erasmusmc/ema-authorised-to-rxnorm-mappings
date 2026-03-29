@@ -1,9 +1,9 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/13/863/001	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT			2025-12-04
-EU/1/13/863/002	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT			2025-12-04
-EU/1/13/863/003	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT			2025-12-04
-EU/1/13/863/004	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT			2025-12-04
-EU/1/13/863/005	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT			2025-12-04
-EU/1/13/863/006	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT			2025-12-04
-EU/1/13/863/007	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT			2025-12-04
-EU/1/13/863/008	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT			2025-12-04
+EU/1/13/863/001	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT	Extension concept uses deprecated dose form 'Inhalant Powder'; no standard RxNorm at this strength	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalation Powder	2026-03-29
+EU/1/13/863/002	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT	Extension concept uses deprecated dose form 'Inhalant Powder'; no standard RxNorm at this strength	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalation Powder	2026-03-29
+EU/1/13/863/003	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT	Extension concept uses deprecated dose form 'Inhalant Powder'; no standard RxNorm at this strength	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalation Powder	2026-03-29
+EU/1/13/863/004	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT	Extension concept uses deprecated dose form 'Inhalant Powder'; no standard RxNorm at this strength	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalation Powder	2026-03-29
+EU/1/13/863/005	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT	Extension concept uses deprecated dose form 'Inhalant Powder'; no standard RxNorm at this strength	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalation Powder	2026-03-29
+EU/1/13/863/006	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT	Extension concept uses deprecated dose form 'Inhalant Powder'; no standard RxNorm at this strength	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalation Powder	2026-03-29
+EU/1/13/863/007	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT	Extension concept uses deprecated dose form 'Inhalant Powder'; no standard RxNorm at this strength	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalation Powder	2026-03-29
+EU/1/13/863/008	36257155	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalant Powder	OMOP3108030	EXACT	Extension concept uses deprecated dose form 'Inhalant Powder'; no standard RxNorm at this strength	glycopyrronium 0.044 MG / indacaterol 0.085 MG Inhalation Powder	2026-03-29

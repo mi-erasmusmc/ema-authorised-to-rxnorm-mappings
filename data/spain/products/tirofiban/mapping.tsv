@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-675074	62713	35604305	tirofiban 0.05 MG/ML Injection	1737469	EXACT			2026-03-13
-812461	62714	1718170	tirofiban 0.25 MG/ML Injection	1813038	EXACT			2026-03-13
-701287	78408	35604305	tirofiban 0.05 MG/ML Injection	1737469	EXACT			2026-03-12
+675074	62713	35604307	250 ML tirofiban 0.05 MG/ML Injection	1737471	EXACT			2026-03-29
+812461	62714	1718170	tirofiban 0.25 MG/ML Injection	1813038	BROAD		50 ML tirofiban 0.25 MG/ML Injection	2026-03-29
+701287	78408	35604307	250 ML tirofiban 0.05 MG/ML Injection	1737471	EXACT			2026-03-29
