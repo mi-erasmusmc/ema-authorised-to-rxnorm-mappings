@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/20/1507/031	779678	SARS-CoV-2 (COVID-19) vaccine, mRNA spike protein Injectable Suspension [Spikevax]	2601551	BROAD		SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML Injection [Spikevax 2025-2026]	2026-03-19
-EU/1/20/1507/032	779678	SARS-CoV-2 (COVID-19) vaccine, mRNA spike protein Injectable Suspension [Spikevax]	2601551	BROAD		SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML Injection [Spikevax 2025-2026]	2026-03-19
+EU/1/20/1507/031	37354050	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML	2722425	BROAD	LP.8.1 multidose vial; no LP.8.1 Injectable Suspension concept available	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML Injectable Suspension [Spikevax 2025-2026]	2026-03-29
+EU/1/20/1507/032	37354050	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML	2722425	BROAD	LP.8.1 multidose vial; no LP.8.1 Injectable Suspension concept available	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML Injectable Suspension [Spikevax 2025-2026]	2026-03-29
 EU/1/20/1507/033	37355132	0.5 ML SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML Prefilled Syringe [Spikevax 2025-2026]	2722438	EXACT			2026-03-19
 EU/1/20/1507/034	37355132	0.5 ML SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML Prefilled Syringe [Spikevax 2025-2026]	2722438	EXACT			2026-03-19
 EU/1/20/1507/035	37355132	0.5 ML SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (LP.8.1) 0.1 MG/ML Prefilled Syringe [Spikevax 2025-2026]	2722438	EXACT			2026-03-19

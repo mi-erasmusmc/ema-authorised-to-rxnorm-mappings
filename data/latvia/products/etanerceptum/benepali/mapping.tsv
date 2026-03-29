@@ -1,8 +1,8 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1074/001	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	EXACT			2026-02-17
-EU/1/15/1074/002	42922270	1 ML Etanercept 50 MG/ML Pen Injector	OMOP4649084	EXACT			2026-02-17
-EU/1/15/1074/003	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	EXACT			2026-02-17
-EU/1/15/1074/004	42922270	1 ML Etanercept 50 MG/ML Pen Injector	OMOP4649084	EXACT			2026-02-17
-EU/1/15/1074/005	43038007	0.51 ML Etanercept 50 MG/ML Injectable Solution	OMOP4853047	BROAD			2026-02-17
-EU/1/15/1074/006	43038007	0.51 ML Etanercept 50 MG/ML Injectable Solution	OMOP4853047	BROAD			2026-02-17
-EU/1/15/1074/007	43038007	0.51 ML Etanercept 50 MG/ML Injectable Solution	OMOP4853047	BROAD			2026-02-17
+EU/1/15/1074/001	37003633	1 ML etanercept-ykro 50 MG/ML Prefilled Syringe	2462513	EXACT			2026-03-29
+EU/1/15/1074/002	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	BROAD	Benepali biosimilar corresponds to etanercept-ykro, but no etanercept-ykro auto-injector concept was found	1 ML etanercept-ykro 50 MG/ML Auto-Injector [Benepali]	2026-03-29
+EU/1/15/1074/003	37003633	1 ML etanercept-ykro 50 MG/ML Prefilled Syringe	2462513	EXACT			2026-03-29
+EU/1/15/1074/004	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	BROAD	Benepali biosimilar corresponds to etanercept-ykro, but no etanercept-ykro auto-injector concept was found	1 ML etanercept-ykro 50 MG/ML Auto-Injector [Benepali]	2026-03-29
+EU/1/15/1074/005	37003635	0.5 ML etanercept-ykro 50 MG/ML Prefilled Syringe	2462521	EXACT			2026-03-29
+EU/1/15/1074/006	37003635	0.5 ML etanercept-ykro 50 MG/ML Prefilled Syringe	2462521	EXACT			2026-03-29
+EU/1/15/1074/007	37003635	0.5 ML etanercept-ykro 50 MG/ML Prefilled Syringe	2462521	EXACT			2026-03-29
