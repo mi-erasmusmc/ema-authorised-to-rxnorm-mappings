@@ -1,17 +1,17 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 608612	49154	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
 608661	56463	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
-697473	77352	35606026	cytarabine 100 MG/ML Injection	1732363	EXACT			2026-03-15
-697474	77352	35606026	cytarabine 100 MG/ML Injection	1732363	EXACT			2026-03-15
+697473	77352	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 1 ML volume-specific concept in RxNorm	1 ML cytarabine 100 MG/ML Injection	2026-03-29
+697474	77352	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 5 ML volume-specific concept in RxNorm	5 ML cytarabine 100 MG/ML Injection	2026-03-29
 697475	77352	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 10 ML volume-specific concept in RxNorm	10 ML cytarabine 100 MG/ML Injection	2026-03-16
 697476	77352	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
 885210	49154	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
 885228	56463	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
-682432	74455	35606026	cytarabine 100 MG/ML Injection	1732363	EXACT			2026-03-15
-682433	74455	35606026	cytarabine 100 MG/ML Injection	1732363	EXACT			2026-03-15
+682432	74455	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 1 ML volume-specific concept in RxNorm	1 ML cytarabine 100 MG/ML Injection	2026-03-29
+682433	74455	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 5 ML volume-specific concept in RxNorm	5 ML cytarabine 100 MG/ML Injection	2026-03-29
 682434	74455	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 10 ML volume-specific concept in RxNorm	10 ML cytarabine 100 MG/ML Injection	2026-03-16
 697290	74455	1311105	20 ML cytarabine 100 MG/ML Injection	249364	EXACT			2026-03-13
 722299	83265	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 2 mL single-use presentation.	2 ML cytarabine 20 MG/ML Injection	2026-03-13
-725700	83265	35605641	5 ML cytarabine 20 MG/ML Injection	1731355	EXACT			2026-03-13
+725700	83265	35605641	5 ML cytarabine 20 MG/ML Injection	1731355	EXACT	Different concentration from 682432 (20 mg/mL vs 100 mg/mL); same des_dcp total dose is a false positive		2026-03-29
 731569	86180	35605641	5 ML cytarabine 20 MG/ML Injection	1731355	EXACT			2026-03-13
 731570	86180	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13

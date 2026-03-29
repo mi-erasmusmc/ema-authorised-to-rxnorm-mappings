@@ -45,6 +45,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 from audit_spain_folder import (  # noqa: E402
     DETAIL_HEADER,
     audit_folder,
+    load_suppressions,
     print_details,
 )
 
@@ -123,10 +124,14 @@ def main():
 
     folders = discover_folders(products_dir)
 
+    suppressions_path = products_dir.parent / "audit_suppressions.tsv"
+    all_suppressions = load_suppressions(suppressions_path)
+
     # Collect issues for all folders
     folder_issues = {}
     for folder in folders:
-        issues = audit_folder(folder)
+        suppressed = all_suppressions.get(folder.name, set())
+        issues = audit_folder(folder, suppressed=suppressed)
         if issues:
             folder_issues[folder] = issues
 

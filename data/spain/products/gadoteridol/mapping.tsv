@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-691485	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			
-691493	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			
-691501	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			
+691485	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			2026-03-29
+691493	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			2026-03-29
+691501	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT	Vial; same des_dcp as 720797 (prefilled syringe) but different dose form — INCONSISTENT_CONCEPT flag is a false positive		2026-03-29
 720797	64474	41241915	gadoteridol 279 MG/ML Prefilled Syringe	OMOP2439877	EXACT			2026-03-15
 720847	64474	41241915	gadoteridol 279 MG/ML Prefilled Syringe	OMOP2439877	EXACT			2026-03-15
-731183	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			
-781922	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			
+731183	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			2026-03-29
+781922	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			2026-03-29

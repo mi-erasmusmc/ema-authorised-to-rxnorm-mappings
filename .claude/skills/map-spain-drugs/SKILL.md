@@ -66,6 +66,13 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
    - `DUPLICATE_MAPPING`: duplicate `cod_nacion` in `mapping.tsv`
    - `INCONSISTENT_CONCEPT`: EXACT rows sharing the same clinical description and dose form but mapped to different concept_ids. For generics (`sw_generico=1`) this is usually a real error, but a legitimate split can occur when some products in the folder have their own RxNorm branded concept (e.g. `[Yargesa]`) while others do not — in that case the different concepts are both correct and the flag is a structural false positive. For branded products the check is per-brand key from `des_nomco`, not per manufacturer, so it only flags conflicts within the same branded line — **do not resolve by collapsing to a plain non-suffixed concept**. When the folder contains biosimilars, always read the biosimilar reference in `.claude/skills/map-drugs/biosimilars/` and apply the correct FDA-suffixed unbranded concept (Scenario 1) or BROAD+suggestion (Scenario 2). Never strip FDA suffixes (`-atto`, `-adaz`, `-fkjp`, etc.) in the name of harmonisation.
 
+   **Suppressing known false positives:** when an audit flag is a confirmed false positive (the mapping is correct but the check cannot distinguish the legitimate case), add a row to `data/spain/audit_suppressions.tsv`:
+   ```
+   folder	issue	cod_nacion
+   abacavir-lamivudine	INCONSISTENT_CONCEPT	702018
+   ```
+   Record *why* in the `comment` column of the corresponding `mapping.tsv` row — the suppression file holds the key, the mapping file holds the reason. Both `audit_spain` and `audit_spain_folder` apply suppressions automatically.
+
 2. Read `data.tsv` to understand the presentation set, strengths, volumes, and flags for the product.
 
    For large folders, summarize the repeated patterns first:

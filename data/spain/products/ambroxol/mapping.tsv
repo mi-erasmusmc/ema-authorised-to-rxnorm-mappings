@@ -1,25 +1,25 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 656245	68110	19105915	ambroxol 6 MG/ML Oral Solution	423420	EXACT			2026-03-12
-674788	63590	19105979	ambroxol 15 MG/ML Oral Solution	424259	EXACT			2026-03-12
-678649	63626	19105979	ambroxol 15 MG/ML Oral Solution	424259	EXACT			2026-03-12
+674788	63590	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-29
+678649	63626	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-29
 693321	60102	19088191	ambroxol 75 MG Extended Release Oral Capsule	246655	EXACT			2026-03-12
 696278	60102	19088191	ambroxol 75 MG Extended Release Oral Capsule	246655	EXACT			2026-03-12
 707797	80208	36883849	Ambroxol 20 MG Oral Lozenge	OMOP997717	EXACT			2026-03-12
 708949	80439	36883849	Ambroxol 20 MG Oral Lozenge	OMOP997717	EXACT			2026-03-12
-720018	63626	19105979	ambroxol 15 MG/ML Oral Solution	424259	EXACT			2026-03-12
+720018	63626	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-29
 722321	83276	19105915	ambroxol 6 MG/ML Oral Solution	423420	EXACT			2026-03-12
 725865	84165	19105915	ambroxol 6 MG/ML Oral Solution	423420	EXACT			2026-03-12
-729041	85305	19088192	ambroxol 7.5 MG/ML Oral Solution	246656	BROAD	Source presentation is approved for both oral and inhaled use, but RxNorm separates those dose forms.	ambroxol 7.5 MG/ML Oral Solution / Inhalant Solution	2026-03-12
+729041	85305	19088192	ambroxol 7.5 MG/ML Oral Solution	246656	BROAD	Source presentation is approved for both oral and inhaled use, but RxNorm separates those dose forms.	ambroxol 7.5 MG/ML Inhalation Solution	2026-03-29
 731723	68110	19105915	ambroxol 6 MG/ML Oral Solution	423420	EXACT			2026-03-12
 732183	86392	19105915	ambroxol 6 MG/ML Oral Solution	423420	EXACT			2026-03-12
 732408	86434	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-12
 732409	86435	19105915	ambroxol 6 MG/ML Oral Solution	423420	EXACT			2026-03-12
-756833	56156	19105640	ambroxol 3 MG/ML Oral Suspension	421910	EXACT			2026-03-12
-757252	56357	19105640	ambroxol 3 MG/ML Oral Suspension	421910	EXACT			2026-03-12
-828509	64999	19105640	ambroxol 3 MG/ML Oral Suspension	421910	EXACT			2026-03-12
+756833	56156	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-29
+757252	56357	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-29
+828509	64999	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-29
 872390	63790	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-12
 963421	56538	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-12
-991554	58471	19105640	ambroxol 3 MG/ML Oral Suspension	421910	EXACT			2026-03-12
+991554	58471	19088169	ambroxol 3 MG/ML Oral Solution	246141	EXACT			2026-03-29
 661210	69937	19108165	ambroxol 15 MG Oral Lozenge	434452	EXACT			2026-03-12
 689206	75763	36883849	Ambroxol 20 MG Oral Lozenge	OMOP997717	EXACT			2026-03-12
 693251	76499	19105915	ambroxol 6 MG/ML Oral Solution	423420	EXACT			2026-03-12

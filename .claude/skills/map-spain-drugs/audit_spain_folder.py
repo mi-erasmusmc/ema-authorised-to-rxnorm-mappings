@@ -166,8 +166,26 @@ def parse_args():
     return args
 
 
-def audit_folder(folder: Path):
-    """Return a list of issue dicts for a product folder. Empty list = clean."""
+def load_suppressions(suppressions_path: Path) -> dict:
+    """Load audit_suppressions.tsv and return {folder_name: set of (issue, cod_nacion)}."""
+    result = {}
+    if not suppressions_path.exists():
+        return result
+    rows = core.load_tsv(suppressions_path)
+    for row in rows:
+        folder_name = core.clean(row.get("folder", ""))
+        issue = core.clean(row.get("issue", ""))
+        cod = core.clean(row.get("cod_nacion", ""))
+        if folder_name and issue and cod:
+            result.setdefault(folder_name, set()).add((issue, cod))
+    return result
+
+
+def audit_folder(folder: Path, suppressed: set = None):
+    """Return a list of issue dicts for a product folder. Empty list = clean.
+
+    suppressed: optional set of (issue_type, cod_nacion) tuples to exclude.
+    """
     data_path = folder / "data.tsv"
     mapping_path = folder / "mapping.tsv"
 
@@ -229,6 +247,9 @@ def audit_folder(folder: Path):
         # Remap to Spain format (nro_definitivo not available here; use empty string)
         issues.append(_core_to_spain(issue))
 
+    if suppressed:
+        issues = [i for i in issues if (i["issue"], i["cod_nacion"]) not in suppressed]
+
     return issues
 
 
@@ -240,7 +261,10 @@ def main():
         print(f"ERROR: {folder / 'data.tsv'} not found", file=sys.stderr)
         sys.exit(1)
 
-    issues = audit_folder(folder)
+    suppressions_path = folder.parent.parent / "audit_suppressions.tsv"
+    all_suppressions = load_suppressions(suppressions_path)
+    suppressed = all_suppressions.get(folder.name, set())
+    issues = audit_folder(folder, suppressed=suppressed)
 
     if not issues:
         print("OK - no issues found")
