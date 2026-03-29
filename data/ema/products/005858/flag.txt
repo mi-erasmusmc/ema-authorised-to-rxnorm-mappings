@@ -1,0 +1,1 @@
+Reviewed 2026-03-29. RxNorm search only returns the ingredient-level polihexanide concept and does not expose Akantior-specific ophthalmic solution concepts for either 0.8 mg/ml or 80 mg/ml single-dose eye drops, so all rows remain BROAD with product-specific suggestions.

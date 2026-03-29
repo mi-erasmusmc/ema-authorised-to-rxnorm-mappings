@@ -1,1 +1,1 @@
-EU-only product. Enerzair Breezhaler (indacaterol/glycopyrronium bromide/mometasone furoate) is not FDA-approved and has no RxNorm concept. Suggestion uses metered dose (capsule fill) strengths: 150/63/160 MCG based on EMA delivered doses of 114/46/136 μg. Verify metered doses against SmPC if creating a custom concept.
+Reviewed 2026-03-29. Enerzair Breezhaler is an EU-only product with no FDA-approved equivalent and no RxNorm concept. Suggestion uses metered dose strengths 150/63/160 MCG based on EMA delivered doses of 114/46/136 μg.

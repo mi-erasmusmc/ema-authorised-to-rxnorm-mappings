@@ -1,13 +1,14 @@
-Changes made to mapping:
+Reviewed against `parsed_data_2026-03-21.tsv` and rebuilt `mapping.tsv` to match the current authorised presentations only.
 
-XBB.1.5 presentations (018-027): Upgraded from generic BROAD to XBB.1.5-specific EXACT concepts where available. Branded concepts used for 30 µg vial (746564) and 30 µg PFS (746562).
+Removed obsolete MA numbers: 018-027 and 031 are no longer present in the parsed EMA data and were dropped from `mapping.tsv`.
 
-022: Was incorrectly mapped BROAD to 0.1 MG/ML (30 µg adult concept) but is a 10 µg pediatric product. Fixed to XBB.1.5 0.0333 MG/ML (746557) EXACT.
+JN.1 presentations remain conservative BROAD mappings. Standard and `--extension` concept searches on 2026-03-29 did not return JN.1-specific Pfizer/BioNTech concepts for the adult, pediatric, or infant tiers.
 
-051: Was incorrectly mapped to 779948 (0.015 MG/ML infant concept) but is a 30 µg adult PFS. Fixed to generic 37003436 (0.1 MG/ML) BROAD.
+KP.2 row 039 was upgraded from the non-volume-specific prefilled syringe concept to the more precise 0.3 ML prefilled syringe concept 1735838.
 
-Filled empty rows: 019, 020, 021, 023, 024, 025, 026, 027, 031.
-
-021, 026: Concentrates for dilution mapped BROAD to their ready-to-use equivalents since no concentrate-specific concepts exist for XBB.1.5.
-
-JN.1 and LP.8.1 variants: No variant-specific RxNorm concepts exist. All mapped BROAD to generic BNT162b2 concepts. 10 µg pediatric presentations (032, 033, 048) mapped BROAD to 0.1 MG/ML as no generic 0.0333 MG/ML concept exists.
+LP.8.1 coverage has improved since the previous review:
+- 045-046 now map BROAD to LP.8.1-specific 0.1 MG/ML concept 37354061.
+- 047 and 051 now map EXACT to branded 0.3 ML LP.8.1 prefilled syringe concept 37355134.
+- 048 now maps EXACT to LP.8.1 0.0333 MG/ML Injection 37354069.
+- 049 now maps BROAD to LP.8.1-specific 0.0333 MG/ML concept 37354068.
+- 050 remains BROAD to generic 0.015 MG/ML because no LP.8.1 0.015 MG/ML concept was found.

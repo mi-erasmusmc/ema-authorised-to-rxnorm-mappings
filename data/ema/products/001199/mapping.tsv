@@ -1,6 +1,8 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/11/716/001	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2025-12-04
-EU/1/11/716/002	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2025-12-04
-EU/1/11/716/003	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2025-12-04
-EU/1/11/716/004	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2025-12-04
-EU/1/11/716/005							2025-12-04
+EMEA/H/C/001199/0000/001	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2026-03-29
+EMEA/H/C/001199/0000/002	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2026-03-29
+EMEA/H/C/001199/0000/003	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2026-03-29
+EMEA/H/C/001199/0000/004	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2026-03-29
+EMEA/H/C/001199/0000/005	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	BROAD		Artenimol 20 MG / Piperaquine tetraphosphate 160 MG Oral Tablet [Eurartesim]	2026-03-29
+EMEA/H/C/001199/0000/006	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2026-03-29
+EMEA/H/C/001199/0000/007	36270017	Artenimol 40 MG / Piperaquine tetraphosphate 320 MG Oral Tablet	OMOP3120892	EXACT			2026-03-29

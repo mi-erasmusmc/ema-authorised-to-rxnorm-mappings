@@ -1,0 +1,1 @@
+Reviewed 2026-03-29. The current parsed data uses `EMEA/H/C/001199/0000/...` source IDs, so the mapping file was rebuilt on those IDs. RxNorm still exposes the 320 MG / 40 MG Eurartesim tablet concept, but current searches did not return a 160 MG / 20 MG tablet concept, so that row remains BROAD with a lower-strength suggestion.

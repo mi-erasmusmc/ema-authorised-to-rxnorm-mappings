@@ -1,0 +1,5 @@
+No suitable RxNorm or RxNorm Extension concept was found for GalliaPharm on review dated 2026-03-29.
+
+GalliaPharm is a germanium (68Ge) chloride / gallium (68Ga) chloride radionuclide generator intended to produce eluate for in vitro radiolabelling, not a directly administered patient drug product. Standard searches returned only generic gallium ingredient concepts, unrelated injectable solutions, and germanium ingredient entries, none of which represent the radionuclide generator presentation.
+
+All rows are therefore left unmapped. Because the validator requires an RxNorm-recognized dose form in `suggestion`, the suggestions use `Injection` as a technical placeholder even though the actual EMA product is a radionuclide generator rather than an administered injection.

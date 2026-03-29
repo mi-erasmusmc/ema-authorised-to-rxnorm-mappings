@@ -1,0 +1,1 @@
+Reviewed 2026-03-29. Current searches do not return presentation-level RxNorm concepts for Ordspono odronextamab infusion concentrate vials, so the mapping remains BROAD to the available odronextamab placeholder concept with vial-specific suggestions for the 2 mg/1 mL, 80 mg/4 mL, and 320 mg/16 mL presentations.

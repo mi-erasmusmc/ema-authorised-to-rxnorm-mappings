@@ -1,0 +1,9 @@
+Reviewed Spikevax JN.1 and LP.8.1 mappings on 2026-03-29.
+
+Also corrected older BA.4/BA.5 and XBB.1.5 multidose vial rows that had been marked `EXACT` against strength-only concepts with no dose form. Those rows now map `BROAD` with Injectable Suspension suggestions.
+
+JN.1 presentations (019-026) remain BROAD. Standard and `--extension` searches did not return JN.1-specific mRNA-1273 concepts for either vial or prefilled syringe presentations.
+
+LP.8.1 multidose vial presentations (031-032) were upgraded from generic Spikevax concept 779678 to LP.8.1-specific concept 37354050. They remain BROAD because no LP.8.1 Injectable Suspension concept is available in RxNorm.
+
+LP.8.1 prefilled syringe presentations (033-040) were already aligned with available exact LP.8.1 prefilled syringe concepts and were left unchanged.

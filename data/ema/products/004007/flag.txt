@@ -1,0 +1,7 @@
+Reviewed Benepali mappings on 2026-03-29.
+
+Applied biosimilar mapping logic using the FDA suffix `etanercept-ykro` (Eticovo) as the Benepali equivalent.
+
+Updated 50 mg and 25 mg prefilled syringe presentations to exact `etanercept-ykro` syringe concepts.
+
+50 mg pre-filled pen presentations remain `BROAD` because no `etanercept-ykro` auto-injector concept was found in RxNorm or RxNorm Extension. They are mapped to the plain etanercept auto-injector concept with `suggestion` preserving the ideal Benepali biosimilar auto-injector concept.

@@ -1,0 +1,5 @@
+Reviewed Nuedexta mappings on 2026-03-29.
+
+RxNorm and RxNorm Extension contain Nuedexta capsule concepts only for the US 20 mg dextromethorphan hydrobromide / 10 mg quinidine sulfate strength. No matching concepts were found for the EMA strengths 15 mg / 9 mg and 23 mg / 9 mg.
+
+All rows therefore remain `BROAD` to branded Nuedexta oral capsule concept 40228923, with strength-specific `suggestion` values preserving the actual EMA formulations.

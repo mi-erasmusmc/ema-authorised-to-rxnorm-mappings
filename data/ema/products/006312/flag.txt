@@ -1,0 +1,1 @@
+Reviewed 2026-03-29. RxNorm has exact guanfacine extended-release tablet concepts through 4 mg, but current searches do not return 5 mg, 6 mg, or 7 mg extended-release tablet concepts, so those rows remain BROAD to the extended-release tablet fallback with strength-specific suggestions.

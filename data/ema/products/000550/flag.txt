@@ -1,0 +1,5 @@
+Reviewed Fendrix mappings on 2026-03-29.
+
+Removed stale duplicate rows with malformed MA numbers (`EU/1/04/299/...`) that are not present in the parsed EMA data.
+
+Updated the real rows (`EU/1/04/0299/...`) from the exact 0.5 mL injection concept to the more precise exact 0.5 mL prefilled syringe concept 528329, which matches the EMA presentations better.

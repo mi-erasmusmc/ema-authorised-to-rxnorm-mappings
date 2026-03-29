@@ -1,77 +1,29 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/07/395/001	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/002	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/003	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/004	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/005	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/006	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/007	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/008	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/009	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/010	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/011	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/012	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/013	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/014	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/015	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/016	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/017	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/018	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/019	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/020	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/021	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/022	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/023	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/024	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/025	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/026	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/027	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/028	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/029	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/030	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/031	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/032	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/033	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/034	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/035	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/036	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/037	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/038	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/039	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/040	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/041	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/042	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/043	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/044	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/045	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/046	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/047	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/048	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/049	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/050	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/051	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/052	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/053	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/054	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/055	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/056	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/057	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/058	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/059	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/060	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/061	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/062	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/063	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/064	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/065	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/066	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/067	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2025-12-04
-EU/1/07/395/068	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/069	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/070	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2025-12-04
-EU/1/07/395/071	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/072	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/073	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2025-12-04
-EU/1/07/395/074	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/075	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
-EU/1/07/395/076	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2025-12-04
+EU/1/07/395/041	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2026-03-29
+EU/1/07/395/042	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2026-03-29
+EU/1/07/395/043	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2026-03-29
+EU/1/07/395/044	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2026-03-29
+EU/1/07/395/045	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-29
+EU/1/07/395/046	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-29
+EU/1/07/395/047	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-29
+EU/1/07/395/048	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-29
+EU/1/07/395/049	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2026-03-29
+EU/1/07/395/050	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2026-03-29
+EU/1/07/395/051	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2026-03-29
+EU/1/07/395/052	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2026-03-29
+EU/1/07/395/053	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2026-03-29
+EU/1/07/395/054	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2026-03-29
+EU/1/07/395/055	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2026-03-29
+EU/1/07/395/056	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2026-03-29
+EU/1/07/395/057	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2026-03-29
+EU/1/07/395/058	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2026-03-29
+EU/1/07/395/059	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-29
+EU/1/07/395/060	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-29
+EU/1/07/395/061	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2026-03-29
+EU/1/07/395/062	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2026-03-29
+EU/1/07/395/063	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2026-03-29
+EU/1/07/395/064	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2026-03-29
+EU/1/07/395/067	19134818	paliperidone 3 MG Extended Release Oral Tablet [Invega]	845010	EXACT			2026-03-29
+EU/1/07/395/070	19134819	paliperidone 6 MG Extended Release Oral Tablet [Invega]	845011	EXACT			2026-03-29
+EU/1/07/395/073	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT			2026-03-29
+EU/1/07/395/076	36888692	paliperidone 12 MG Extended Release Oral Tablet	OMOP1003313	EXACT			2026-03-29

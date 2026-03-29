@@ -1,0 +1,1 @@
+Reviewed 2026-03-29. The mapping concepts were already correct. The fix here was removing stale empty rows 004, 005, 009, and 010, which are not present in the current parsed EMA data.
