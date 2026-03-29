@@ -1,3 +1,0 @@
-Reviewed Fluad mappings on 2026-03-29.
-
-Updated all rows from older BROAD injectable-suspension fallback concept 1465839, which used the wrong B strain (`B/Michigan/01/2021`), to exact strain-matched prefilled syringe concept 37355095 (`Fluad 2025-2026`).

@@ -1,3 +1,1 @@
-Reviewed Levemir mappings on 2026-03-29.
-
-Upgraded Penfill cartridge presentations (001-003) from ingredient-only concept 1516976 to the more specific branded 3 mL pen-injector concept 1516981. These rows remain `BROAD` because RxNorm search did not return a cartridge-specific Levemir concept.
+Penfill cartridge presentations (001-003) remain BROAD — no cartridge-specific Levemir concept exists in RxNorm.

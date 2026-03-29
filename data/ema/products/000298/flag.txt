@@ -1,4 +1,4 @@
-No exact RxNorm hexavalent vaccine concept matching Hexavac was found on review dated 2026-03-29.
+No exact RxNorm hexavalent vaccine concept matching Hexavac was found.
 
 Mapped all presentations BROAD to Vaxelis-family hexavalent concept 1366348 because it preserves the full DTaP-IPV-HepB-Hib coverage. The closer tetanus-toxoid-conjugate alternative in RxNorm (concept code 1657394) is only pentavalent and omits hepatitis B, so it is less representative overall.
 

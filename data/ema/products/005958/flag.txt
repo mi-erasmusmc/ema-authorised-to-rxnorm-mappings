@@ -1,1 +1,3 @@
-Biosimilar corrections: Changed all rows from EXACT to BROAD because omalizumab-igec (FDA-suffixed INN) has no concepts in RxNorm yet. Added suggestion column per biosimilar instructions. Removed extraneous rows 014-017 which had no corresponding entries in parsed_data.tsv. Note: parsed PDF data is garbled in several rows — volume/pack_size fields are unreliable. Mappings rely on strength/concentration to determine volume (75mg=0.5ml, 150mg=1ml at 150mg/ml).
+Pre-filled pen (auto-injector) presentations (005–008, 010, 012–013) remain BROAD — no omalizumab-igec auto-injector concept exists in RxNorm or RxNorm Extension.
+
+300 mg / 2 ml prefilled syringe presentations (014–017) remain BROAD — no 2 ML omalizumab-igec 150 MG/ML Prefilled Syringe concept exists in RxNorm. Mapped to volume-agnostic branded prefilled syringe concept 37354608.

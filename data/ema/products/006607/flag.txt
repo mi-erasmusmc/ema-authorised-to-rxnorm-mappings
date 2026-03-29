@@ -1,3 +1,1 @@
-Fixed mapping:
-- 001 (vial): Changed invalid "NARROW" mapping_type to EXACT. Concept was already correct.
-- 002 (pre-filled syringe): Was mapped to Injection form; changed to unbranded Prefilled Syringe concept (1735855) with BROAD type since no branded Ahzantive Prefilled Syringe exists in RxNorm. Added suggestion for ideal concept.
+002 (pre-filled syringe): Mapped BROAD to unbranded Prefilled Syringe concept (1735855) — no branded Ahzantive Prefilled Syringe concept exists in RxNorm.

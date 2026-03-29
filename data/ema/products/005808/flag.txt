@@ -1,3 +1,1 @@
-Updated JN.1 prefilled syringe presentations (011, 012, 013) from BROAD generic concept (780155) to EXACT strain-specific concept 1735218 (NVX-CoV2705 0.01 MG/ML Prefilled Syringe).
-
 JN.1 vial presentations (007, 009) remain BROAD - no NVX-CoV2705 Injectable Suspension concept exists in RxNorm.

@@ -1,14 +1,8 @@
-Reviewed against `parsed_data_2026-03-21.tsv` and rebuilt `mapping.tsv` to match the current authorised presentations only.
+JN.1 presentations remain conservative BROAD mappings. Standard and `--extension` concept searches did not return JN.1-specific Pfizer/BioNTech concepts for the adult, pediatric, or infant tiers.
 
-Removed obsolete MA numbers: 018-027 and 031 are no longer present in the parsed EMA data and were dropped from `mapping.tsv`.
-
-JN.1 presentations remain conservative BROAD mappings. Standard and `--extension` concept searches on 2026-03-29 did not return JN.1-specific Pfizer/BioNTech concepts for the adult, pediatric, or infant tiers.
-
-KP.2 row 039 was upgraded from the non-volume-specific prefilled syringe concept to the more precise 0.3 ML prefilled syringe concept 1735838.
-
-LP.8.1 coverage has improved since the previous review:
-- 045-046 now map BROAD to LP.8.1-specific 0.1 MG/ML concept 37354061.
-- 047 and 051 now map EXACT to branded 0.3 ML LP.8.1 prefilled syringe concept 37355134.
-- 048 now maps EXACT to LP.8.1 0.0333 MG/ML Injection 37354069.
-- 049 now maps BROAD to LP.8.1-specific 0.0333 MG/ML concept 37354068.
+LP.8.1 coverage:
+- 045-046 map BROAD to LP.8.1-specific 0.1 MG/ML concept 37354061.
+- 047 and 051 map EXACT to branded 0.3 ML LP.8.1 prefilled syringe concept 37355134.
+- 048 maps EXACT to LP.8.1 0.0333 MG/ML Injection 37354069.
+- 049 maps BROAD to LP.8.1-specific 0.0333 MG/ML concept 37354068.
 - 050 remains BROAD to generic 0.015 MG/ML because no LP.8.1 0.015 MG/ML concept was found.
