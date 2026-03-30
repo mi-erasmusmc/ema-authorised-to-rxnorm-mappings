@@ -1,25 +1,25 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603434	72403	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6,75 g líquido rectal	2026-03-12
-603451	72501	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 2,25 g líquido rectal	2026-03-12
+603434	72403	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6750 MG Rectal Solution	2026-03-30
+603451	72501	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 2250 MG Rectal Solution	2026-03-30
 654572	67876	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin adult Rectal Suppository	2026-03-12
-665524	72403	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6,75 g líquido rectal	2026-03-12
-665607	72501	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 2,25 g líquido rectal	2026-03-12
+665524	72403	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6750 MG Rectal Solution	2026-03-30
+665607	72501	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 2250 MG Rectal Solution	2026-03-30
 688702	75642	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin infant Rectal Suppository	2026-03-12
 688703	75643	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin pediatric Rectal Suppository	2026-03-12
 688740	42481	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin infant Rectal Suppository	2026-03-12
 688743	40359	19028285	glycerin 1500 MG Rectal Suppository	204849	EXACT			2026-03-12
-710632	80818	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6,75 g líquido rectal	2026-03-12
-711157	80818	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6,75 g líquido rectal	2026-03-12
-754978	62476	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 7,5 g líquido rectal	2026-03-12
+710632	80818	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6750 MG Rectal Solution	2026-03-30
+711157	80818	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6750 MG Rectal Solution	2026-03-30
+754978	62476	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 7500 MG Rectal Solution	2026-03-30
 763465	89067	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin pediatric Rectal Suppository	2026-03-12
 763466	89068	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin adult Rectal Suppository	2026-03-12
 829812	45647	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin adult Rectal Suppository	2026-03-12
 829820	45648	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin pediatric Rectal Suppository	2026-03-12
 829838	45649	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin infant Rectal Suppository	2026-03-12
 830364	18942	19028284	glycerin 3000 MG Rectal Suppository	204848	EXACT			2026-03-12
-848309	62861	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 4 g líquido rectal	2026-03-12
-854042	62936	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 2,25 g líquido rectal	2026-03-12
-854059	62937	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6,75 g líquido rectal	2026-03-12
+848309	62861	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 4000 MG Rectal Solution	2026-03-30
+854042	62936	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 2250 MG Rectal Solution	2026-03-30
+854059	62937	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6750 MG Rectal Solution	2026-03-30
 855049	18942	19028284	glycerin 3000 MG Rectal Suppository	204848	EXACT			2026-03-12
 855056	40359	19028285	glycerin 1500 MG Rectal Suppository	204849	EXACT			2026-03-12
 887729	42481	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin infant Rectal Suppository	2026-03-12
@@ -27,13 +27,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 944413	53833	19028284	glycerin 3000 MG Rectal Suppository	204848	EXACT			2026-03-12
 944447	53782	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin pediatric Rectal Suppository	2026-03-12
 629063	917101	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin adult Rectal Suppository	2026-03-12
-654384	63453	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6,75 g líquido rectal	2026-03-12
-654491	63454	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6,75 g líquido rectal	2026-03-12
-654624	63455	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 2,25 g líquido rectal	2026-03-12
+654384	63453	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6750 MG Rectal Solution	2026-03-30
+654491	63454	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 6750 MG Rectal Solution	2026-03-30
+654624	63455	43783772	Glycerin Rectal Solution	OMOP958557	BROAD		glycerin 2250 MG Rectal Solution	2026-03-30
 686573	75155	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin infant Rectal Suppository	2026-03-12
 686654	75168	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin adult Rectal Suppository	2026-03-12
 686655	75169	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin pediatric Rectal Suppository	2026-03-12
-734913	62399	41236471	Glycerin Vaginal Gel	OMOP2434433	BROAD		glycerin 100 MG/G Vaginal Emulsion	2026-03-12
+734913	62399	41236471	Glycerin Vaginal Gel	OMOP2434433	BROAD		glycerin 100 MG/G Vaginal Cream	2026-03-30
 764027	42825	35849818	glycerin 566 MG/ML Oral Solution	OMOP5006523	BROAD		glycerin 550 MG/ML Oral Solution	2026-03-12
 829846	917101	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin adult Rectal Suppository	2026-03-12
 829853	917101	40046830	glycerin Rectal Suppository	372337	BROAD		glycerin adult Rectal Suppository	2026-03-12

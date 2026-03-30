@@ -1,0 +1,23 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/15/1000/001	EMEA/H/C/002788	15 mg	Tablet	Oral use	blister (Alu/PVC)		7 tablets	Jinarc
+EU/1/15/1000/002	EMEA/H/C/002788	15 mg	Tablet	Oral use	blister (Alu/PVC)		28 tablets	Jinarc
+EU/1/15/1000/003	EMEA/H/C/002788	30 mg	Tablet	Oral use	blister (Alu/PVC)		7 tablets	Jinarc
+EU/1/15/1000/004	EMEA/H/C/002788	30 mg	Tablet	Oral use	blister (Alu/PVC)		28 tablets	Jinarc
+EU/1/15/1000/005	EMEA/H/C/002788	15 mg + 45 mg	Tablet	Oral use	blister (Alu/PVC)		14 tablets (7 x 15 mg + 7 x 45 mg)	Jinarc
+EU/1/15/1000/006	EMEA/H/C/002788	15 mg + 45 mg	Tablet	Oral use	blister (Alu/PVC)		28 tablets (14 x 15 mg + 14 x 45 mg)	Jinarc
+EU/1/15/1000/007	EMEA/H/C/002788	15 mg + 45 mg	Tablet	Oral use	blister (Alu/PVC)		56 tablets (28 x 15 mg + 28 x 45 mg)	Jinarc
+EU/1/15/1000/008	EMEA/H/C/002788	30 mg + 60 mg	Tablet	Oral use	blister (Alu/PVC)		14 tablets (7 x 30 mg + 7 x 60 mg)	Jinarc
+EU/1/15/1000/009	EMEA/H/C/002788	30 mg + 60 mg	Tablet	Oral use	blister (Alu/PVC)		28 tablets (14 x 30 mg + 14 x 60 mg)	Jinarc
+EU/1/15/1000/010	EMEA/H/C/002788	30 mg + 60 mg	Tablet	Oral use	blister (Alu/PVC)		56 tablets (28 x 30 mg + 28 x 60 mg)	Jinarc
+EU/1/15/1000/011	EMEA/H/C/002788	30 mg + 90 mg	Tablet	Oral use	blister (Alu/PVC)		14 tablets (7 x 30 mg + 7 x 90 mg)	Jinarc
+EU/1/15/1000/012	EMEA/H/C/002788	30 mg + 90 mg	Tablet	Oral use	blister (Alu/PVC)		28 tablets (14 x 30 mg + 14 x 90 mg)	Jinarc
+EU/1/15/1000/013	EMEA/H/C/002788	30 mg + 90 mg	Tablet	Oral use	blister (Alu/PVC)		56 tablets (28 x 30 mg + 28 x 90 mg)	Jinarc
+EU/1/15/1000/014	EMEA/H/C/002788	15 mg + 45 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		14 tablets (7 x 15 mg + 7 x 45 mg)	Jinarc
+EU/1/15/1000/015	EMEA/H/C/002788	15 mg + 45 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		28 tablets (14 x 15 mg + 14 x 45 mg)	Jinarc
+EU/1/15/1000/016	EMEA/H/C/002788	15 mg + 45 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		56 tablets (28 x 15 mg + 28 x 45 mg)	Jinarc
+EU/1/15/1000/017	EMEA/H/C/002788	30 mg + 60 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		14 tablets (7 x 30 mg + 7 x 60 mg)	Jinarc
+EU/1/15/1000/018	EMEA/H/C/002788	30 mg + 60 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		28 tablets (14 x 30 mg + 14 x 60 mg)	Jinarc
+EU/1/15/1000/019	EMEA/H/C/002788	30 mg + 60 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		56 tablets (28 x 30 mg + 28 x 60 mg)	Jinarc
+EU/1/15/1000/020	EMEA/H/C/002788	30 mg + 90 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		14 tablets (7 x 30 mg + 7 x 90 mg)	Jinarc
+EU/1/15/1000/021	EMEA/H/C/002788	30 mg + 90 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		28 tablets (14 x 30 mg + 14 x 90 mg)	Jinarc
+EU/1/15/1000/022	EMEA/H/C/002788	30 mg + 90 mg	Tablet	Oral use	blister (Alu/PVC) in wallet card		56 tablets (28 x 30 mg + 28 x 90 mg)	Jinarc

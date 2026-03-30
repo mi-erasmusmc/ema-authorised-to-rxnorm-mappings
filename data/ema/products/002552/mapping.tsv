@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/13/875/004	21061050	Delamanid 50 MG Oral Tablet	OMOP341526	EXACT			2025-12-04
-EU/1/13/875/005							2025-12-04
+EU/1/13/875/004	21061050	Delamanid 50 MG Oral Tablet	OMOP341526	EXACT			2026-03-30
+EU/1/13/875/005	21119900	Delamanid Oral Tablet	OMOP341521	BROAD	No 25 mg or dispersible-tablet concept found in RxNorm or RxNorm Extension.	delamanid 25 MG Oral Tablet	2026-03-30

@@ -1,1 +1,0 @@
-EU/1/19/1383/028: Treatment initiation pack (14x50mg + 14x100mg + 14x150mg + 14x200mg) has no matching RxNorm pack concept. Only a 2-strength pack (50+100 mg) exists in RxNorm.

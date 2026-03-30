@@ -40,24 +40,24 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726803	84482	40175174	levothyroxine sodium 0.025 MG Oral Tablet	966220	EXACT			2026-03-13
 726804	84483	40169770	levothyroxine sodium 0.2 MG Oral Tablet	892251	EXACT			2026-03-13
 726805	84484	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
-729889	85609	1501700	levothyroxine	10582	BROAD		levothyroxine 100 MCG Oral Solution in unit-dose container	2026-03-13
-729891	85610	1501700	levothyroxine	10582	BROAD		levothyroxine 112 MCG Oral Solution in unit-dose container	2026-03-13
-729893	85611	1501700	levothyroxine	10582	BROAD		levothyroxine 125 MCG Oral Solution in unit-dose container	2026-03-13
-729895	85612	1501700	levothyroxine	10582	BROAD		levothyroxine 137 MCG Oral Solution in unit-dose container	2026-03-13
-729897	85613	1501700	levothyroxine	10582	BROAD		levothyroxine 13 MCG Oral Solution in unit-dose container	2026-03-13
-729899	85614	1501700	levothyroxine	10582	BROAD		levothyroxine 150 MCG Oral Solution in unit-dose container	2026-03-13
-729901	85615	1501700	levothyroxine	10582	BROAD		levothyroxine 175 MCG Oral Solution in unit-dose container	2026-03-13
-729903	85616	1501700	levothyroxine	10582	BROAD		levothyroxine 200 MCG Oral Solution in unit-dose container	2026-03-13
-729906	85617	1501700	levothyroxine	10582	BROAD		levothyroxine 25 MCG Oral Solution in unit-dose container	2026-03-13
-729908	85618	1501700	levothyroxine	10582	BROAD		levothyroxine 50 MCG Oral Solution in unit-dose container	2026-03-13
-729910	85619	1501700	levothyroxine	10582	BROAD		levothyroxine 75 MCG Oral Solution in unit-dose container	2026-03-13
-729912	85620	1501700	levothyroxine	10582	BROAD		levothyroxine 88 MCG Oral Solution in unit-dose container	2026-03-13
+729889	85609	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.1 MG Oral Solution	2026-03-30
+729891	85610	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.112 MG Oral Solution	2026-03-30
+729893	85611	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.125 MG Oral Solution	2026-03-30
+729895	85612	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.137 MG Oral Solution	2026-03-30
+729897	85613	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.013 MG Oral Solution	2026-03-30
+729899	85614	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.15 MG Oral Solution	2026-03-30
+729901	85615	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.175 MG Oral Solution	2026-03-30
+729903	85616	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.2 MG Oral Solution	2026-03-30
+729906	85617	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.025 MG Oral Solution	2026-03-30
+729908	85618	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.05 MG Oral Solution	2026-03-30
+729910	85619	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.075 MG Oral Solution	2026-03-30
+729912	85620	1501700	levothyroxine	10582	BROAD		levothyroxine sodium 0.088 MG Oral Solution	2026-03-30
 733105	86546	40175001	levothyroxine sodium 0.125 MG Oral Tablet	966224	EXACT			2026-03-13
 733106	86547	40175050	levothyroxine sodium 0.15 MG Oral Tablet	966225	EXACT			2026-03-13
 733107	86545	40174880	levothyroxine sodium 0.075 MG Oral Tablet	966222	EXACT			2026-03-13
 760439	39795	40169766	levothyroxine sodium 0.1 MG Oral Tablet	892246	EXACT			2026-03-13
 765667	89799	1301790	levothyroxine sodium 0.0375 MG	2630737	BROAD		levothyroxine sodium 0.038 MG Oral Tablet	2026-03-13
-765668	89800	1301798	levothyroxine sodium 0.0625 MG	2630745	EXACT			2026-03-13
+765668	89800	1301798	levothyroxine sodium 0.0625 MG	2630745	BROAD		levothyroxine sodium 0.0625 MG Oral Tablet	2026-03-30
 696687	77114	40174964	levothyroxine sodium 0.5 MG Injection	966219	EXACT			2026-03-13
 764212	89301	40175026	levothyroxine sodium 0.137 MG Oral Tablet	966270	EXACT			2026-03-13
 764213	89302	40175077	levothyroxine sodium 0.175 MG Oral Tablet	966249	EXACT			2026-03-13

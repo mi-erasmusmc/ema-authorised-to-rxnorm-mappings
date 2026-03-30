@@ -1,8 +1,8 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/11/735/001					No RxNorm concept for azilsartan medoxomil 20 MG; only 40 MG and 80 MG exist in RxNorm	azilsartan medoxomil 20 MG Oral Tablet	2026-03-29
-EU/1/11/735/002					No RxNorm concept for azilsartan medoxomil 20 MG; only 40 MG and 80 MG exist in RxNorm	azilsartan medoxomil 20 MG Oral Tablet	2026-03-29
-EU/1/11/735/003					No RxNorm concept for azilsartan medoxomil 20 MG; only 40 MG and 80 MG exist in RxNorm	azilsartan medoxomil 20 MG Oral Tablet	2026-03-29
-EU/1/11/735/004					No RxNorm concept for azilsartan medoxomil 20 MG; only 40 MG and 80 MG exist in RxNorm	azilsartan medoxomil 20 MG Oral Tablet	2026-03-29
+EU/1/11/735/001	21144568	azilsartan 20 MG Oral Tablet	OMOP266245	EXACT	RxExt uses azilsartan rather than azilsartan medoxomil naming	azilsartan medoxomil 20 MG Oral Tablet	2026-03-30
+EU/1/11/735/002	21144568	azilsartan 20 MG Oral Tablet	OMOP266245	EXACT	RxExt uses azilsartan rather than azilsartan medoxomil naming	azilsartan medoxomil 20 MG Oral Tablet	2026-03-30
+EU/1/11/735/003	21144568	azilsartan 20 MG Oral Tablet	OMOP266245	EXACT	RxExt uses azilsartan rather than azilsartan medoxomil naming	azilsartan medoxomil 20 MG Oral Tablet	2026-03-30
+EU/1/11/735/004	21144568	azilsartan 20 MG Oral Tablet	OMOP266245	EXACT	RxExt uses azilsartan rather than azilsartan medoxomil naming	azilsartan medoxomil 20 MG Oral Tablet	2026-03-30
 EU/1/11/735/005	40235487	azilsartan medoxomil 40 MG Oral Tablet	1091646	EXACT			2026-03-29
 EU/1/11/735/006	40235487	azilsartan medoxomil 40 MG Oral Tablet	1091646	EXACT			2026-03-29
 EU/1/11/735/007	40235487	azilsartan medoxomil 40 MG Oral Tablet	1091646	EXACT			2026-03-29
@@ -10,8 +10,8 @@ EU/1/11/735/008	40235487	azilsartan medoxomil 40 MG Oral Tablet	1091646	EXACT			
 EU/1/11/735/009	40235491	azilsartan medoxomil 80 MG Oral Tablet	1091652	EXACT			2026-03-29
 EU/1/11/735/010	40235491	azilsartan medoxomil 80 MG Oral Tablet	1091652	EXACT			2026-03-29
 EU/1/11/735/011	40235491	azilsartan medoxomil 80 MG Oral Tablet	1091652	EXACT			2026-03-29
-EU/1/11/735/012					No RxNorm concept for azilsartan medoxomil 20 MG; only 40 MG and 80 MG exist in RxNorm	azilsartan medoxomil 20 MG Oral Tablet	2026-03-29
-EU/1/11/735/013					No RxNorm concept for azilsartan medoxomil 20 MG; only 40 MG and 80 MG exist in RxNorm	azilsartan medoxomil 20 MG Oral Tablet	2026-03-29
+EU/1/11/735/012	21144568	azilsartan 20 MG Oral Tablet	OMOP266245	EXACT	RxExt uses azilsartan rather than azilsartan medoxomil naming	azilsartan medoxomil 20 MG Oral Tablet	2026-03-30
+EU/1/11/735/013	21144568	azilsartan 20 MG Oral Tablet	OMOP266245	EXACT	RxExt uses azilsartan rather than azilsartan medoxomil naming	azilsartan medoxomil 20 MG Oral Tablet	2026-03-30
 EU/1/11/735/014	40235487	azilsartan medoxomil 40 MG Oral Tablet	1091646	EXACT			2026-03-29
 EU/1/11/735/015	40235487	azilsartan medoxomil 40 MG Oral Tablet	1091646	EXACT			2026-03-29
 EU/1/11/735/016	40235491	azilsartan medoxomil 80 MG Oral Tablet	1091652	EXACT			2026-03-29

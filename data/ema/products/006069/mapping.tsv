@@ -1,0 +1,2 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/25/2006/001	36861628	AUMOLERTINIB	OMOP5179244	BROAD	Only an ingredient-level RxNorm Extension concept is available; no tablet strength-specific concept was found.	aumolertinib 55 MG Oral Tablet [Aumseqa]	2026-03-30

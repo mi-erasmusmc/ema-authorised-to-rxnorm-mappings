@@ -5,24 +5,24 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 643692	59297	939543	budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort]	616819	EXACT			2026-03-13
 643700	59298	939542	budesonide 0.25 MG/ML Inhalation Suspension [Pulmicort]	616817	EXACT			2026-03-13
 650965	66669	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			2026-03-13
-650966	66670	939394	budesonide 0.1 MG/ACTUAT	332686	EXACT			2026-03-13
+650966	66670	939394	budesonide 0.1 MG/ACTUAT	332686	BROAD	100 microgram/puff inhalation powder; RxNorm exposes the matching strength but not a dose-form-specific inhalation-powder concept for this Easyhaler presentation.	budesonide 0.1 MG/ACTUAT Inhalation Powder	2026-03-30
 650967	66671	36813122	Budesonide 0.4 MG/ACTUAT Inhalation Powder	OMOP4827155	EXACT			2026-03-13
 651626	66942	19098138	budesonide 0.25 MG/ML Inhalation Suspension	351109	EXACT			2026-03-13
 651628	66943	939359	budesonide 0.5 MG/ML Inhalation Suspension	252559	EXACT			2026-03-13
 651927	59254	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			2026-03-13
 652283	67103	36813122	Budesonide 0.4 MG/ACTUAT Inhalation Powder	OMOP4827155	EXACT			2026-03-13
 652284	67103	36813122	Budesonide 0.4 MG/ACTUAT Inhalation Powder	OMOP4827155	EXACT			2026-03-13
-656614	59036	939395	budesonide 0.05 MG/ACTUAT	332687	EXACT	Pressurized inhalation suspension at 50 micrograms per inhalation; replaced coarse inhalant concept with strength-specific actuation concept.		2026-03-13
+656614	59036	939395	budesonide 0.05 MG/ACTUAT	332687	BROAD	Pressurized inhalation suspension at 50 micrograms per inhalation; RxNorm exposes the matching strength but not a dose-form-specific inhalation-suspension concept.	budesonide 0.05 MG/ACTUAT Inhalation Suspension	2026-03-30
 656615	59035	1356142	budesonide 0.2 MG	2108301	BROAD		budesonide 0.2 MG/ACTUAT Inhalation Suspension	2026-03-13
 660910	62046	40173448	60 ACTUAT budesonide 0.09 MG/ACTUAT Dry Powder Inhaler [Pulmicort]	966529	EXACT	Pulmicort Turbuhaler 100 micrograms aligns to the branded 0.09 MG/ACTUAT dry-powder inhaler concept.		2026-03-13
 663598	71181	45892457	budesonide 2 MG/ACTUAT Rectal Foam	1596773	EXACT			2026-03-13
 667709	61728	42708201	budesonide 3 MG Delayed Release Oral Capsule	1244214	EXACT			2026-03-13
-668905	61663	939395	budesonide 0.05 MG/ACTUAT	332687	EXACT	Pressurized inhalation suspension at 50 micrograms per inhalation; replaced coarse inhalant concept with strength-specific actuation concept.		2026-03-13
+668905	61663	939395	budesonide 0.05 MG/ACTUAT	332687	BROAD	Pressurized inhalation suspension at 50 micrograms per inhalation; RxNorm exposes the matching strength but not a dose-form-specific inhalation-suspension concept.	budesonide 0.05 MG/ACTUAT Inhalation Suspension	2026-03-30
 672718	61664	1356142	budesonide 0.2 MG	2108301	BROAD		budesonide 0.2 MG/ACTUAT Inhalation Suspension	2026-03-13
 686770	59035	1356142	budesonide 0.2 MG	2108301	BROAD		budesonide 0.2 MG/ACTUAT Inhalation Suspension	2026-03-13
 687844	75467	43012544	budesonide 9 MG Extended Release Oral Tablet	1366557	EXACT			2026-03-13
 720751	1171254003	36057986	budesonide 1 MG Disintegrating Oral Tablet	OMOP4983562	EXACT			2025-12-04
-725241	83987	939394	budesonide 0.1 MG/ACTUAT	332686	EXACT	Pressurized inhalation suspension at 100 micrograms per inhalation; replaced coarse inhalant concept with strength-specific actuation concept.		2026-03-13
+725241	83987	939394	budesonide 0.1 MG/ACTUAT	332686	BROAD	Pressurized inhalation suspension at 100 micrograms per inhalation; RxNorm exposes the matching strength but not a dose-form-specific inhalation-suspension concept.	budesonide 0.1 MG/ACTUAT Inhalation Suspension	2026-03-30
 728765	1171254008	36036912	budesonide 0.5 MG Disintegrating Oral Tablet	OMOP5046911	EXACT			2025-12-04
 728863	85219	939359	budesonide 0.5 MG/ML Inhalation Suspension	252559	EXACT			2026-03-13
 728864	85220	939359	budesonide 0.5 MG/ML Inhalation Suspension	252559	EXACT			2026-03-13
@@ -40,7 +40,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 945493	65536	35157438	Budesonide 0.2 MG/ACTUAT Inhalation Powder	OMOP4814444	EXACT			2026-03-13
 658368	68406	19063315	budesonide 0.064 MG/ACTUAT Nasal Spray	250648	EXACT			2026-03-13
 658691	68584	19063315	budesonide 0.064 MG/ACTUAT Nasal Spray	250648	EXACT			2026-03-13
-664227	61863	939294	budesonide 0.02 MG/ML Enema	153173	BROAD	Entocord rectal suspension (tablet + solvent); RxNorm has enema rather than the exact combined tablet-plus-solvent rectal suspension presentation.	budesonide 2 MG Rectal Suspension	2026-03-13
+664227	61863	939294	budesonide 0.02 MG/ML Enema	153173	BROAD	Entocord rectal suspension (tablet + solvent); RxNorm has enema rather than the exact combined tablet-plus-solvent rectal suspension presentation.	budesonide 2 MG Enema	2026-03-30
 668830	61670	939301	budesonide 0.1 MG/ACTUAT Nasal Spray	247691	EXACT			2026-03-13
 704231	79203	43012544	budesonide 9 MG Extended Release Oral Tablet	1366557	EXACT			2026-03-13
 708586	64730	19063315	budesonide 0.064 MG/ACTUAT Nasal Spray	250648	EXACT			2026-03-13

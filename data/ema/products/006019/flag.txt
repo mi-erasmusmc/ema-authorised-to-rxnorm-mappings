@@ -1,1 +1,0 @@
-No RxNorm concept for inactivated COVID-19 vaccine. Valneva's inactivated SARS-CoV-2 vaccine was never FDA-approved and is now withdrawn from EMA. RxNorm only has mRNA, vector non-replicating, and subunit recombinant spike protein COVID-19 vaccine types.

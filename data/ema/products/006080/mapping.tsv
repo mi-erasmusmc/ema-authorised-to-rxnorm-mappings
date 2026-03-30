@@ -1,5 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/24/1818/001	42609556	aprocitentan 12.5 MG Oral Tablet	2679064	EXACT		 	2025-12-04
 EU/1/24/1818/002	42609556	aprocitentan 12.5 MG Oral Tablet	2679064	EXACT		 	2025-12-04
-EU/1/24/1818/003				NO_MAPPING	No RxNorm concept exists for aprocitentan 25 mg	aprocitentan 25 MG Oral Tablet [Jeraygo]	2026-03-30
-EU/1/24/1818/004				NO_MAPPING	No RxNorm concept exists for aprocitentan 25 mg	aprocitentan 25 MG Oral Tablet [Jeraygo]	2026-03-30
+EU/1/24/1818/003	42609555	aprocitentan Oral Tablet	2679063	BROAD	No 25 MG strength concept in RxNorm; mapped to ingredient/form-level tablet concept	aprocitentan 25 MG Oral Tablet	2026-03-30
+EU/1/24/1818/004	42609555	aprocitentan Oral Tablet	2679063	BROAD	No 25 MG strength concept in RxNorm; mapped to ingredient/form-level tablet concept	aprocitentan 25 MG Oral Tablet	2026-03-30

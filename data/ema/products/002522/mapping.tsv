@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/13/847/001							
+EU/1/13/847/001	43859530	autologous cultured chondrocytes Drug Implant	OMOP713781	BROAD	RxNorm Extension has only a broader autologous cultured chondrocytes drug implant concept and does not capture the matrix-applied cell-density presentation.	autologous cultured chondrocytes 500000-1000000 cells/cm2 Drug Implant [Maci]	2026-03-30

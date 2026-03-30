@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-703003	78901	0	No matching concept	0	NO_CONCEPT	sulodexide not in RxNorm		2026-03-12
-720407	82783	0	No matching concept	0	NO_CONCEPT	sulodexide not in RxNorm		2026-03-12
-949438	55545	0	No matching concept	0	NO_CONCEPT	sulodexide not in RxNorm		2026-03-12
-957902	56134	0	No matching concept	0	NO_CONCEPT	sulodexide not in RxNorm		2026-03-12
+703003	78901	42962447	sulodexide Oral Capsule	OMOP4688938	BROAD	Standard RxNorm lacks sulodexide; RxNorm Extension only provides the generic oral-capsule concept.	sulodexide 300 UNT Oral Capsule [Dovida]	2026-03-30
+720407	82783	35870949	sulodexide Injectable Solution	OMOP5027726	BROAD	Standard RxNorm lacks sulodexide; RxNorm Extension only provides the generic injectable-solution concept.	2 ML sulodexide 30 MG/ML Injection [Aterina]	2026-03-30
+949438	55545	42962447	sulodexide Oral Capsule	OMOP4688938	BROAD	Standard RxNorm lacks sulodexide; RxNorm Extension only provides the generic oral-capsule concept.	sulodexide 150 UNT Oral Capsule [Aterina]	2026-03-30
+957902	56134	35870949	sulodexide Injectable Solution	OMOP5027726	BROAD	Standard RxNorm lacks sulodexide; RxNorm Extension only provides the generic injectable-solution concept.	4 ML sulodexide 7.5 MG/ML Injection [Aterina]	2026-03-30

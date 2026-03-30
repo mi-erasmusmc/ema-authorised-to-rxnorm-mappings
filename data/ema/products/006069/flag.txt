@@ -1,0 +1,3 @@
+No strength-specific RxNorm concept was found for Aumseqa.
+
+Searches found only an ingredient-level RxNorm Extension concept, `AUMOLERTINIB`, without oral-tablet strength-specific concepts. The EMA product is therefore mapped conservatively as BROAD to the ingredient concept, with the suggestion preserving the 55 mg tablet presentation.
