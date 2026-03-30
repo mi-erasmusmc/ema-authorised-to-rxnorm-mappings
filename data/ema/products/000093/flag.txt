@@ -1,0 +1,3 @@
+No suitable standard RxNorm or RxNorm Extension concept was found for Tritanrix HepB.
+
+The closest Extension result is a four-antigen combination with acellular pertussis in a prefilled syringe, but Tritanrix HepB is a whole-cell pertussis vaccine supplied in vial presentations. These differences are clinically relevant, so the product was left as NO_MAPPING with row-specific suggestions.

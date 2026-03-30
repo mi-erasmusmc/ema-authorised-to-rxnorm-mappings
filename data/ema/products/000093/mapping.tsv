@@ -1,25 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/96/014/001					"1 1 dose (0.5 ml) contains:
-Diphtheria toxoid* ≥ 30 IU
-Tetanus toxoid* ≥ 60 IU
-Inactivated Bordetella pertussis strain** ≥ 4 IU
-Hepatitis B virus surface Antigen recombinant** (S protein)*** 10 micrograms
-* adsorbed on aluminium oxide hydrated Total: 0.26 milligrams Al3+
-** adsorbed on aluminium phosphate Total: 0.37 milligrams Al3+
-*** produced on genetically-engineered yeast cells (Saccharomyces cerevisiae)"		2025-12-04
-EU/1/96/014/002					"1 1 dose (0.5 ml) contains:
-Diphtheria toxoid* ≥ 30 IU
-Tetanus toxoid* ≥ 60 IU
-Inactivated Bordetella pertussis strain** ≥ 4 IU
-Hepatitis B virus surface Antigen recombinant** (S protein)*** 10 micrograms
-* adsorbed on aluminium oxide hydrated Total: 0.26 milligrams Al3+
-** adsorbed on aluminium phosphate Total: 0.37 milligrams Al3+
-*** produced on genetically-engineered yeast cells (Saccharomyces cerevisiae)"		2025-12-04
-EU/1/96/014/003					"1 1 dose (0.5 ml) contains:
-Diphtheria toxoid* ≥ 30 IU
-Tetanus toxoid* ≥ 60 IU
-Inactivated Bordetella pertussis strain** ≥ 4 IU
-Hepatitis B virus surface Antigen recombinant** (S protein)*** 10 micrograms
-* adsorbed on aluminium oxide hydrated Total: 0.26 milligrams Al3+
-** adsorbed on aluminium phosphate Total: 0.37 milligrams Al3+
-*** produced on genetically-engineered yeast cells (Saccharomyces cerevisiae)"		2025-12-04
+EU/1/96/014/001				NO_MAPPING	No suitable RxNorm concept found; closest Extension combination uses acellular pertussis and prefilled syringe presentation.	0.5 ML whole cell pertussis vaccine, inactivated / diphtheria toxoid vaccine, inactivated / hepatitis B surface antigen vaccine / tetanus toxoid vaccine, inactivated Injectable Suspension [Tritanrix HepB]	2026-03-30
+EU/1/96/014/002				NO_MAPPING	No suitable RxNorm concept found; closest Extension combination uses acellular pertussis and prefilled syringe presentation.	5 ML whole cell pertussis vaccine, inactivated / diphtheria toxoid vaccine, inactivated / hepatitis B surface antigen vaccine / tetanus toxoid vaccine, inactivated Injectable Suspension [Tritanrix HepB]	2026-03-30
+EU/1/96/014/003				NO_MAPPING	No suitable RxNorm concept found; closest Extension combination uses acellular pertussis and prefilled syringe presentation.	1 ML whole cell pertussis vaccine, inactivated / diphtheria toxoid vaccine, inactivated / hepatitis B surface antigen vaccine / tetanus toxoid vaccine, inactivated Injectable Suspension [Tritanrix HepB]	2026-03-30

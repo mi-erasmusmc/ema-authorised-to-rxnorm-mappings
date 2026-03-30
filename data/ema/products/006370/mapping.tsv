@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/1917/001				 	No RxNorm concept for linvoseltamab	2.5 ML linvoseltamab 2 MG/ML Injection	2026-02-12
-EU/1/25/1917/002				 	No RxNorm concept for linvoseltamab	10 ML linvoseltamab 20 MG/ML Injection	2026-02-12
+EU/1/25/1917/001	37355110	2.5 ML linvoseltamab-gcpt 2 MG/ML Injection	2719494	EXACT			2026-03-30
+EU/1/25/1917/002	37355108	10 ML linvoseltamab-gcpt 20 MG/ML Injection	2719483	EXACT			2026-03-30

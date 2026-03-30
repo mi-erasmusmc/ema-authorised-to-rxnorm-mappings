@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/25/2014/001	36855806	AFICAMTEN	OMOP5173423	BROAD	Only an ingredient-level RxNorm Extension concept is available; no tablet strength-specific concept was found.	aficamten 5 MG Oral Tablet [Myqorzo]	2026-03-30
+EU/1/25/2014/002	36855806	AFICAMTEN	OMOP5173423	BROAD	Only an ingredient-level RxNorm Extension concept is available; no tablet strength-specific concept was found.	aficamten 10 MG Oral Tablet [Myqorzo]	2026-03-30
+EU/1/25/2014/003	36855806	AFICAMTEN	OMOP5173423	BROAD	Only an ingredient-level RxNorm Extension concept is available; no tablet strength-specific concept was found.	aficamten 15 MG Oral Tablet [Myqorzo]	2026-03-30
+EU/1/25/2014/004	36855806	AFICAMTEN	OMOP5173423	BROAD	Only an ingredient-level RxNorm Extension concept is available; no tablet strength-specific concept was found.	aficamten 20 MG Oral Tablet [Myqorzo]	2026-03-30

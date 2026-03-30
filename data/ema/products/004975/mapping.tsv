@@ -1,2 +1,6 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/21/1623/001	702589	2 ML anifrolumab-fnia 150 MG/ML Injection [Saphnelo]	2565286	EXACT			2025-12-04
+EU/1/21/1623/002	701490	anifrolumab-fnia 150 MG/ML Injection [Saphnelo]	2565287	BROAD		0.8 ML anifrolumab-fnia 150 MG/ML Prefilled Syringe [Saphnelo]	2026-03-30
+EU/1/21/1623/003	701490	anifrolumab-fnia 150 MG/ML Injection [Saphnelo]	2565287	BROAD		0.8 ML anifrolumab-fnia 150 MG/ML Auto-Injector [Saphnelo]	2026-03-30
+EU/1/21/1623/004	701490	anifrolumab-fnia 150 MG/ML Injection [Saphnelo]	2565287	BROAD		0.8 ML anifrolumab-fnia 150 MG/ML Auto-Injector [Saphnelo]	2026-03-30
+EU/1/21/1623/005	701490	anifrolumab-fnia 150 MG/ML Injection [Saphnelo]	2565287	BROAD		0.8 ML anifrolumab-fnia 150 MG/ML Auto-Injector [Saphnelo]	2026-03-30

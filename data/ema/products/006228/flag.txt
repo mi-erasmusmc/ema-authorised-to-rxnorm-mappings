@@ -1,0 +1,3 @@
+No suitable strength-specific standard RxNorm or RxNorm Extension concept was found for Myqorzo.
+
+Searches found only an ingredient-level RxNorm Extension concept, `AFICAMTEN`, without tablet dose form or strength-specific concepts. The EMA rows are therefore mapped conservatively as BROAD to the ingredient concept, with row-specific suggestions preserving the intended tablet strengths.
