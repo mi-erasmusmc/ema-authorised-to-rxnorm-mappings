@@ -1,22 +1,22 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 656346	68158	40095474	ciclopirox Medicated Shampoo	379154	BROAD	Spain shampoo is labeled 15 MG/G; RxNorm exposes shampoo concepts by MG/ML and I did not find a defensible exact 15 MG/G match.	ciclopirox 15 MG/G Medicated Shampoo	2026-03-13
-667857	61719	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
-669362	72143	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
+667857	61719	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
+669362	72143	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
 678200	73001	40095474	ciclopirox Medicated Shampoo	379154	BROAD	Spain shampoo is labeled 15 MG/G; RxNorm exposes shampoo concepts by MG/ML and I did not find a defensible exact 15 MG/G match.	ciclopirox 15 MG/G Medicated Shampoo	2026-03-13
-683799	74682	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
+683799	74682	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
 686296	75114	40095474	ciclopirox Medicated Shampoo	379154	BROAD	Spain shampoo is labeled 15 MG/G; RxNorm exposes shampoo concepts by MG/ML and I did not find a defensible exact 15 MG/G match.	ciclopirox 15 MG/G Medicated Shampoo	2026-03-13
 687438	75380	40095474	ciclopirox Medicated Shampoo	379154	BROAD	Spain shampoo is labeled 15 MG/G; RxNorm exposes shampoo concepts by MG/ML and I did not find a defensible exact 15 MG/G match.	ciclopirox 15 MG/G Medicated Shampoo	2026-03-13
-696750	77129	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
-696751	77129	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
-696940	77178	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
-697304	77305	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
-697647	61719	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
+696750	77129	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
+696751	77129	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
+696940	77178	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
+697304	77305	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
+697647	61719	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
 709252	80496	40095474	ciclopirox Medicated Shampoo	379154	BROAD	Spain shampoo is labeled 15 MG/G; RxNorm exposes shampoo concepts by MG/ML and I did not find a defensible exact 15 MG/G match.	ciclopirox 15 MG/G Medicated Shampoo	2026-03-13
 724981	83868	40095474	ciclopirox Medicated Shampoo	379154	BROAD	Spain shampoo is labeled 15 MG/G; RxNorm exposes shampoo concepts by MG/ML and I did not find a defensible exact 15 MG/G match.	ciclopirox 15 MG/G Medicated Shampoo	2026-03-13
-725760	84137	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
-725761	84137	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
-726569	84423	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
-726590	84430	36259737	ciclopirox 0.08 MG/MG Medicated nail lacquer	OMOP3110612	EXACT			2026-03-13
+725760	84137	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
+725761	84137	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
+726569	84423	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
+726590	84430	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-03-30
 926527	56884	40095476	ciclopirox Topical Cream	377873	BROAD	Spain cream is 10 MG/G; available RxNorm cream concepts are 7.7 MG/ML rather than a defensible exact 10 MG/G cream.	ciclopirox 10 MG/G Topical Cream	2026-03-13
 967612	56884	40095476	ciclopirox Topical Cream	377873	BROAD	Spain cream is 10 MG/G; available RxNorm cream concepts are 7.7 MG/ML rather than a defensible exact 10 MG/G cream.	ciclopirox 10 MG/G Topical Cream	2026-03-13
 968560	56941	40095476	ciclopirox Topical Cream	377873	BROAD	Spain cream is 10 MG/G; available RxNorm cream concepts are 7.7 MG/ML rather than a defensible exact 10 MG/G cream.	ciclopirox 10 MG/G Topical Cream	2026-03-13

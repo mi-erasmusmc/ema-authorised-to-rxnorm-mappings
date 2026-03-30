@@ -38,7 +38,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 673010	71614	19023426	repaglinide 2 MG Oral Tablet	200258	EXACT			2026-03-12
 673011	71612	19023425	repaglinide 0.5 MG Oral Tablet	200257	EXACT			2026-03-12
 673013	71613	19023424	repaglinide 1 MG Oral Tablet	200256	EXACT			2026-03-12
-673899	71671	1516766	repaglinide	73044	BROAD	No RxNorm concept for repaglinide 4 MG Oral Tablet	repaglinide 4 MG Oral Tablet	2026-03-13
+673899	71671	36892638	repaglinide 4 MG Oral Tablet	OMOP989931	EXACT			2026-03-30
 675149	72792	19023425	repaglinide 0.5 MG Oral Tablet	200257	EXACT			2026-03-12
 675154	72793	19023424	repaglinide 1 MG Oral Tablet	200256	EXACT			2026-03-12
 676190	72978	19023426	repaglinide 2 MG Oral Tablet	200258	EXACT			2026-03-12

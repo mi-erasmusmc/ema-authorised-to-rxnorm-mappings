@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652001	04285001	19131582	insulin glulisine, human 100 UNT/ML Injectable Solution [Apidra]	803194	BROAD	RxNorm has a branded Apidra injectable-solution concept but not an explicit 10 mL vial presentation	10 ML insulin glulisine, human 100 UNT/ML Injectable Solution [Apidra]	2026-03-12
+652001	04285001	35782575	10 ML Insulin, Glulisine, Human 100 UNT/ML Injectable Solution [Apidra]	OMOP2784036	EXACT			2026-03-30
 652002	04285008	19131582	insulin glulisine, human 100 UNT/ML Injectable Solution [Apidra]	803194	BROAD	RxNorm has no explicit branded Apidra 3 mL cartridge concept	3 ML insulin glulisine, human 100 UNT/ML Cartridge [Apidra]	2026-03-12
 656073	04285032	1544873	3 ML insulin glulisine, human 100 UNT/ML Pen Injector [Apidra]	847261	EXACT			2026-03-12

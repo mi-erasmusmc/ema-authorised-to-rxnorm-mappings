@@ -2,4 +2,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 704228	196007041	46233948	3 ML insulin lispro 200 UNT/ML Pen Injector [Humalog]	1652242	EXACT			2025-12-04
 719551	196007044	46233970	3 ML insulin lispro 100 UNT/ML Pen Injector [Humalog]	1652640	EXACT			2025-12-04
 661145	96007031	46233970	3 ML insulin lispro 100 UNT/ML Pen Injector [Humalog]	1652640	EXACT			2026-03-12
-677252	96007002	40166274	insulin lispro 100 UNT/ML Injectable Solution [Humalog]	865098	BROAD	RxNorm has a branded Humalog injectable-solution concept but not an explicit 10 mL vial presentation	10 ML insulin lispro 100 UNT/ML Injectable Solution [Humalog]	2026-03-12
+677252	96007002	41371472	10 ML Insulin Lispro 100 UNT/ML Injectable Solution [Humalog]	OMOP2569434	EXACT			2026-03-30

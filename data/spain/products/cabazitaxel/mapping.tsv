@@ -1,11 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 729297	1201448001	1718065	cabazitaxel Injection	1812332	BROAD	RxNorm does not expose the 3 mL 20 MG/ML single-use presentation.	3 ML cabazitaxel 20 MG/ML Injection	2026-03-13
-730217	85714	1718065	cabazitaxel Injection	1812332	BROAD	RxNorm does not expose the 6 mL 10 MG/ML single-use presentation.	6 ML cabazitaxel 10 MG/ML Injection	2026-03-30
+730217	85714	2908524	6 ML cabazitaxel 10 MG/ML Injection	OMOP5125267	EXACT			2026-03-30
 759673	88361	1718065	cabazitaxel Injection	1812332	BROAD	RxNorm does not expose the 3 mL 20 MG/ML single-use presentation.	3 ML cabazitaxel 20 MG/ML Injection	2026-03-13
 677657	11676001	43526488	1.5 ML cabazitaxel 40 MG/ML Injection [Jevtana]	1376084	EXACT			2026-03-13
 727468	11676001IP	43526488	1.5 ML cabazitaxel 40 MG/ML Injection [Jevtana]	1376084	EXACT			2026-03-13
 728883	85227	40224717	1.5 ML cabazitaxel 40 MG/ML Injection	1001433	EXACT			2026-03-13
 730792	85908	40224717	1.5 ML cabazitaxel 40 MG/ML Injection	1001433	EXACT			2026-03-13
-731228	86036	1718065	cabazitaxel Injection	1812332	BROAD	RxNorm does not expose the 6 mL 10 MG/ML single-use presentation.	6 ML cabazitaxel 10 MG/ML Injection	2026-03-30
+731228	86036	2908524	6 ML cabazitaxel 10 MG/ML Injection	OMOP5125267	EXACT			2026-03-30
 758091	88000	40224717	1.5 ML cabazitaxel 40 MG/ML Injection	1001433	EXACT			2026-03-13
-758156	88035	1718065	cabazitaxel Injection	1812332	BROAD	RxNorm does not expose the 6 mL 10 MG/ML single-use presentation.	6 ML cabazitaxel 10 MG/ML Injection	2026-03-30
+758156	88035	2908524	6 ML cabazitaxel 10 MG/ML Injection	OMOP5125267	EXACT			2026-03-30

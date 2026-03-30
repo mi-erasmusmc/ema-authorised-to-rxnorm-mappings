@@ -1,12 +1,12 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/06/360/001	780444	varenicline 0.5 MG Oral Tablet	636671	EXACT			2025-12-04
 EU/1/06/360/002	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2025-12-04
-EU/1/06/360/003	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	BROAD	EU pack has 11x0.5mg + 14x1mg; RxNorm pack has 11x0.5mg + 42x1mg	{11 (varenicline 0.5 MG Oral Tablet) / 14 (varenicline 1 MG Oral Tablet) } Pack	2026-03-16
+EU/1/06/360/003	21177907	{11 (varenicline 0.5 MG Oral Tablet) / 14 (varenicline 1 MG Oral Tablet) } Pack	OMOP340045	EXACT			2026-03-30
 EU/1/06/360/004	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2025-12-04
 EU/1/06/360/005	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2025-12-04
 EU/1/06/360/006	780444	varenicline 0.5 MG Oral Tablet	636671	EXACT			2025-12-04
 EU/1/06/360/007	780444	varenicline 0.5 MG Oral Tablet	636671	EXACT			2025-12-04
-EU/1/06/360/008	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	BROAD	EU pack has 11x0.5mg + 14x1mg; RxNorm pack has 11x0.5mg + 42x1mg	{11 (varenicline 0.5 MG Oral Tablet) / 14 (varenicline 1 MG Oral Tablet) } Pack	2026-03-16
+EU/1/06/360/008	21177907	{11 (varenicline 0.5 MG Oral Tablet) / 14 (varenicline 1 MG Oral Tablet) } Pack	OMOP340045	EXACT			2026-03-30
 EU/1/06/360/009	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2025-12-04
 EU/1/06/360/010	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2025-12-04
 EU/1/06/360/011	780446	varenicline 1 MG Oral Tablet	636676	EXACT			2025-12-04

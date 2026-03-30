@@ -1,12 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-669887	57849	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Solution	2026-03-13
-672418	72690	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Suspension	2026-03-13
-672419	72690	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Suspension	2026-03-13
-672498	73003	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Suspension	2026-03-13
-672499	73003	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Suspension	2026-03-13
-682676	74511	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Solution	2026-03-13
-693739	56281	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Solution	2026-03-13
+669887	57849	36264887	cloperastine 3.54 MG/ML Oral Solution	OMOP3115762	EXACT			2026-03-30
+672418	72690	2038492	cloperastine 3.54 MG/ML Oral Suspension	OMOP4937988	EXACT			2026-03-30
+672419	72690	2038492	cloperastine 3.54 MG/ML Oral Suspension	OMOP4937988	EXACT			2026-03-30
+672498	73003	2038492	cloperastine 3.54 MG/ML Oral Suspension	OMOP4937988	EXACT			2026-03-30
+672499	73003	2038492	cloperastine 3.54 MG/ML Oral Suspension	OMOP4937988	EXACT			2026-03-30
+682676	74511	36264887	cloperastine 3.54 MG/ML Oral Solution	OMOP3115762	EXACT			2026-03-30
+693739	56281	36264887	cloperastine 3.54 MG/ML Oral Solution	OMOP3115762	EXACT			2026-03-30
 764795	89519	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 35.4 MG Powder for Oral Solution	2026-03-13
-793752	57930	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 10 MG Oral Tablet	2026-03-13
-793919	57849	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Solution	2026-03-13
-960047	56281	35201862	cloperastine	2104180	BROAD	RxNorm does not expose the matching Spain cloperastine presentation.	cloperastine 3.54 MG/ML Oral Solution	2026-03-13
+793752	57930	35155070	cloperastine 10 MG Oral Tablet	OMOP4812091	EXACT			2026-03-30
+793919	57849	36264887	cloperastine 3.54 MG/ML Oral Solution	OMOP3115762	EXACT			2026-03-30
+960047	56281	36264887	cloperastine 3.54 MG/ML Oral Solution	OMOP3115762	EXACT			2026-03-30

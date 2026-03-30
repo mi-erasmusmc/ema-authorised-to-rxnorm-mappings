@@ -37,7 +37,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 694701	64689	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-12
 694702	64689	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-12
 694704	70121	19123643	amoxicillin 100 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	618001	EXACT			2026-03-12
-694754	66565	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 250 MG / clavulanate 62.5 MG Oral Powder	2026-03-12
+694754	66565	1235598	amoxicillin 250 MG / clavulanate 62.5 MG Oral Powder	OMOP5216304	EXACT			2026-03-30
 694755	66566	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder	2026-03-12
 694756	66567	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-12
 694757	66567	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-12

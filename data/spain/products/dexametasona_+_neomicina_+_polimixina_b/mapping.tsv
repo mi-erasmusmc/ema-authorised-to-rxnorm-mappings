@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 784215	42610	2055860	dexamethasone 1 MG/ML / neomycin 3500 IU/ML / polymyxin B 6000 IU/ML Ophthalmic Suspension	OMOP4956693	EXACT			2026-03-13
-698288	PL 00649-5915R	40027165	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Maxitrol]	93250	BROAD		dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 6000 IU/ML Ophthalmic Suspension [Maxitrol]	2026-03-13
-712567	5730-2005-01	40027165	dexamethasone / neomycin / polymyxin B Ophthalmic Suspension [Maxitrol]	93250	BROAD		dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 6000 IU/ML Ophthalmic Suspension [Maxitrol]	2026-03-13
+698288	PL 00649-5915R	2055863	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 6000 IU/ML Ophthalmic Suspension [Maxitrol]	OMOP4956696	EXACT			2026-03-30
+712567	5730-2005-01	2055863	dexamethasone 1 MG/ML / neomycin 3.5 MG/ML / polymyxin B 6000 IU/ML Ophthalmic Suspension [Maxitrol]	OMOP4956696	EXACT			2026-03-30

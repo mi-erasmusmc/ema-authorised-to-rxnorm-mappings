@@ -3,6 +3,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 753285	62465	42902238	estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet	1359126	EXACT			2026-03-13
 660867	69746	40221101	estradiol / norethindrone Transdermal System	1806052	BROAD	Sequential transdermal pack presentation not exposed exactly in RxNorm	Estradiol / Norethindrone Transdermal System [Sequidot]	2026-03-13
 662442	70576	42902235	estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet	1359123	EXACT			2026-03-13
-685818	60706	40042037	estradiol / norethindrone Oral Tablet	372073	BROAD	Sequential oral tablet pack not exposed exactly in RxNorm	Estradiol / Norethindrone Oral Tablet [Trisequens]	2026-03-13
+685818	60706	2075013	{6 (estradiol 1 MG Oral Tablet) / 10 (estradiol 2 MG / norethindrone 1 MG Oral Tablet) / 12 (estradiol 2 MG Oral Tablet) } Pack [Trisequens] by Novonordisk	OMOP4976766	EXACT			2026-03-30
 752980	62463	42709184	84 HR estradiol 0.00208 MG/HR / norethindrone acetate 0.0104 MG/HR Transdermal System	1251499	EXACT			2026-03-13
-763605	BE156134IP	40042037	estradiol / norethindrone Oral Tablet	372073	BROAD	Sequential oral tablet pack not exposed exactly in RxNorm	Estradiol / Norethindrone Oral Tablet [Trisequens]	2026-03-13
+763605	BE156134IP	2075013	{6 (estradiol 1 MG Oral Tablet) / 10 (estradiol 2 MG / norethindrone 1 MG Oral Tablet) / 12 (estradiol 2 MG Oral Tablet) } Pack [Trisequens] by Novonordisk	OMOP4976766	EXACT			2026-03-30

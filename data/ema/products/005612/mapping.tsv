@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/22/1643/001	701769	difelikefalin 0.05 MG/ML Injection	2569095	BROAD		1 ML difelikefalin 0.05 MG/ML Injection	2026-03-11
-EU/1/22/1643/002	701769	difelikefalin 0.05 MG/ML Injection	2569095	BROAD		1 ML difelikefalin 0.05 MG/ML Injection	2026-03-11
+EU/1/22/1643/001	36924838	1 ML difelikefalin 0.05 MG/ML Injection	OMOP5208226	EXACT			2026-03-30
+EU/1/22/1643/002	36924838	1 ML difelikefalin 0.05 MG/ML Injection	OMOP5208226	EXACT			2026-03-30

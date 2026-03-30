@@ -5,7 +5,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 719776	81968	35605202	5 ML vinorelbine 10 MG/ML Injection	1729422	EXACT			2026-03-12
 726117	84245	21149941	vinorelbine 20 MG Oral Capsule	OMOP350913	EXACT			2026-03-12
 726118	84246	21149936	vinorelbine 30 MG Oral Capsule	OMOP350892	EXACT			2026-03-12
-726119	84247	21120406	vinorelbine 80 MG Oral Capsule	OMOP350905	BROAD		vinorelbine 80 MG Oral Capsule	2026-03-30
+726119	84247	21169677	vinorelbine Oral Capsule	OMOP350887	BROAD		vinorelbine 80 MG Oral Capsule	2026-03-30
 747144	87418	21149941	vinorelbine 20 MG Oral Capsule	OMOP350913	EXACT			2026-03-12
 747145	87419	21149936	vinorelbine 30 MG Oral Capsule	OMOP350892	EXACT			2026-03-12
 762095	88629	21149941	vinorelbine 20 MG Oral Capsule	OMOP350913	EXACT			2026-03-12

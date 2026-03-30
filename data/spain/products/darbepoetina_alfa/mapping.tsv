@@ -17,5 +17,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 663014	01185095	42902618	darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp]	1359731	EXACT			2026-03-12
 663015	01185096	42902618	darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp]	1359731	EXACT			2026-03-12
 663016	01185098	42902618	darbepoetin alfa 0.5 MG/ML Prefilled Syringe [Aranesp]	1359731	EXACT			2026-03-12
-664093	01185079	42480887	darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp]	OMOP419452	BROAD		0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp]	2026-03-30
+664093	01185079	21098446	0.5 ML darbepoetin alfa 0.04 MG/ML Prefilled Syringe [Aranesp]	OMOP286724	EXACT			2026-03-30
 941682	01185002	46221598	darbepoetin alfa 0.025 MG/ML Prefilled Syringe [Aranesp]	1605174	EXACT			2026-03-12

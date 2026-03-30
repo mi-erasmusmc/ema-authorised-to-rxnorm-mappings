@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-633123	53884	40035918	diazepam Oral Capsule	375801	BROAD	Pinazepam not in RxNorm; mapped to diazepam Oral Capsule as nearest benzodiazepine oral capsule class concept	pinazepam 2.5 MG Oral Capsule	2026-03-12
-633131	53885	40035918	diazepam Oral Capsule	375801	BROAD	Pinazepam not in RxNorm; mapped to diazepam Oral Capsule as nearest benzodiazepine oral capsule class concept	pinazepam 5 MG Oral Capsule	2026-03-12
+633123	53884	2058332	pinazepam 2.5 MG Oral Capsule	OMOP4959610	EXACT			2026-03-30
+633131	53885	2058638	pinazepam 5 MG Oral Capsule	OMOP4959605	EXACT			2026-03-30
 633149	53886	40035918	diazepam Oral Capsule	375801	BROAD	Pinazepam not in RxNorm; mapped to diazepam Oral Capsule as nearest benzodiazepine oral capsule class concept	pinazepam 10 MG Oral Capsule	2026-03-12
-700652	53885	40035918	diazepam Oral Capsule	375801	BROAD	Pinazepam not in RxNorm; mapped to diazepam Oral Capsule as nearest benzodiazepine oral capsule class concept	pinazepam 5 MG Oral Capsule	2026-03-13
-700653	53884	40035918	diazepam Oral Capsule	375801	BROAD	Pinazepam not in RxNorm; mapped to diazepam Oral Capsule as nearest benzodiazepine oral capsule class concept	pinazepam 2.5 MG Oral Capsule	2026-03-13
+700652	53885	2058638	pinazepam 5 MG Oral Capsule	OMOP4959605	EXACT			2026-03-30
+700653	53884	2058332	pinazepam 2.5 MG Oral Capsule	OMOP4959610	EXACT			2026-03-30
 700654	53886	40035918	diazepam Oral Capsule	375801	BROAD	Pinazepam not in RxNorm; mapped to diazepam Oral Capsule as nearest benzodiazepine oral capsule class concept	pinazepam 10 MG Oral Capsule	2026-03-13

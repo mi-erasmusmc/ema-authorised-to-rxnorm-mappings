@@ -3,10 +3,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 660904	69771	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD		10 ML ferric carboxymaltose 50 MG/ML Injection [Ferinject]	2026-03-30
 701387	69771	1537594	20 ML ferric carboxymaltose 50 MG/ML Injection	2552400	EXACT			2026-03-13
 759460	88349	780273	2 ML ferric carboxymaltose 50 MG/ML Injection	2602296	EXACT			2026-03-13
-762702	88349	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD		10 ML ferric carboxymaltose 50 MG/ML Injection	2026-03-30
+762702	88349	36279873	10 ML ferric carboxymaltose 50 MG/ML Injection	OMOP3130748	EXACT			2026-03-30
 762703	88349	1537594	20 ML ferric carboxymaltose 50 MG/ML Injection	2552400	EXACT			2026-03-13
-764511	89432	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD		10 ML ferric carboxymaltose 50 MG/ML Injection	2026-03-30
+764511	89432	36279873	10 ML ferric carboxymaltose 50 MG/ML Injection	OMOP3130748	EXACT			2026-03-30
 765460	89432	1537594	20 ML ferric carboxymaltose 50 MG/ML Injection	2552400	EXACT			2026-03-13
 767095	90188	780273	2 ML ferric carboxymaltose 50 MG/ML Injection	2602296	EXACT			2026-03-13
-767098	90188	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD		10 ML ferric carboxymaltose 50 MG/ML Injection	2026-03-30
+767098	90188	36279873	10 ML ferric carboxymaltose 50 MG/ML Injection	OMOP3130748	EXACT			2026-03-30
 767099	90188	1537594	20 ML ferric carboxymaltose 50 MG/ML Injection	2552400	EXACT			2026-03-13

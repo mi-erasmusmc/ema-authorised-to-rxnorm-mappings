@@ -13,4 +13,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 815514	65910	19133766	desmopressin acetate 0.2 MG Oral Tablet	833008	EXACT			2026-03-13
 673119	58566	19135602	desmopressin acetate 0.01 MG/ACTUAT Nasal Spray	849506	EXACT			2026-03-13
 765171	89642	44097471	desmopressin 0.12 MG Sublingual Tablet	OMOP1092102	EXACT			2026-03-13
-840686	62821	1517070	desmopressin	3251	BROAD	RxNorm does not expose the exact 1.5 MG/ML nasal spray presentation.	desmopressin 1.5 MG/ML Nasal Spray	2026-03-13
+840686	62821	42921735	2.5 ML desmopressin 1.5 MG/ML Nasal Spray [Octostim]	OMOP4648557	EXACT			2026-03-30

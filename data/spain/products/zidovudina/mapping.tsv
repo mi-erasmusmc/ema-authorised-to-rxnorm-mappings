@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 695403	57486	19006864	zidovudine 250 MG Oral Capsule	105331	EXACT			2026-03-12
 603091	70767	19006864	zidovudine 250 MG Oral Capsule	105331	EXACT			2026-03-12
-603093	70768	40095221	zidovudine Oral Capsule	374331	BROAD		zidovudine 300 MG Oral Capsule	2026-03-12
-611442	62758	40095221	zidovudine Oral Capsule	374331	BROAD		zidovudine 300 MG Oral Capsule	2026-03-12
+603093	70768	35861991	zidovudine 300 MG Oral Capsule	OMOP5018617	EXACT			2026-03-30
+611442	62758	35861991	zidovudine 300 MG Oral Capsule	OMOP5018617	EXACT			2026-03-30
 648709	60925	19006864	zidovudine 250 MG Oral Capsule	105331	EXACT			2026-03-12
 659704	69184	1718461	zidovudine 10 MG/ML Injection	1857605	EXACT			2026-03-12
 661818	70223	1710616	zidovudine 100 MG Oral Capsule	198352	EXACT			2026-03-12

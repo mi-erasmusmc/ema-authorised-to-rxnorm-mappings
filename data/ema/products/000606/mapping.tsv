@@ -1,5 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/05/319/001	46276094	omalizumab Injection [Xolair]	1657211	BROAD		omalizumab 75 MG Injection [Xolair]	2025-12-04
+EU/1/05/319/001	35141587	omalizumab 75 MG Injection [Xolair]	OMOP4798713	EXACT			2026-03-30
 EU/1/05/319/002	46276095	omalizumab 150 MG Injection [Xolair]	1657212	EXACT			2025-12-04
 EU/1/05/319/003	46276095	omalizumab 150 MG Injection [Xolair]	1657212	EXACT			2025-12-04
 EU/1/05/319/004	46276095	omalizumab 150 MG Injection [Xolair]	1657212	EXACT			2025-12-04
