@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-727217	84581	40044998	guaifenesin / pseudoephedrine Oral Solution	373689	BROAD	RxNorm does not expose the Spain 20 MG/ML and 6 MG/ML strength combination exactly.	guaifenesin 20 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution	2026-03-14
-974477	57373	40044998	guaifenesin / pseudoephedrine Oral Solution	373689	BROAD	RxNorm does not expose the Spain 20 MG/ML and 6 MG/ML strength combination exactly.	guaifenesin 20 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution	2026-03-14
-974485	57373	40044998	guaifenesin / pseudoephedrine Oral Solution	373689	BROAD	RxNorm does not expose the Spain 20 MG/ML and 6 MG/ML strength combination exactly.	guaifenesin 20 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution	2026-03-14
+727217	84581	40236190	guaifenesin 20 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution	1089775	EXACT			2026-03-30
+974477	57373	40236190	guaifenesin 20 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution	1089775	EXACT			2026-03-30
+974485	57373	40236190	guaifenesin 20 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution	1089775	EXACT			2026-03-30

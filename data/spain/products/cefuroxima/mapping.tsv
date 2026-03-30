@@ -39,7 +39,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 695330	58305	19006516	cefuroxime 250 MG Oral Tablet [Zinnat]	105186	EXACT			2026-03-12
 695331	58309	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
 695332	58309	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
-695333	60656	1778162	cefuroxime	313876	BROAD		cefuroxime 500 MG Oral Granules	2026-03-13
+695333	60656	1778195	cefuroxime 250 MG Oral Granules	248212	EXACT			2026-03-30
 695343	72258	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-13
 695344	72258	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-13
 695345	72258	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-13
@@ -52,7 +52,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 695442	72257	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
 695443	72257	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
 695444	72257	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
-695631	59063	1778162	cefuroxime	313876	BROAD		cefuroxime 250 MG Oral Granules	2026-03-13
+695631	59063	1778195	cefuroxime 250 MG Oral Granules	248212	EXACT			2026-03-30
 697151	69954	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-13
 697153	69954	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-13
 697157	69956	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13

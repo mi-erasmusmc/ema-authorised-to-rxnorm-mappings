@@ -2,5 +2,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656289	67523	19037834	domperidone 10 MG Oral Tablet	199733	EXACT			2026-03-13
 946582	55411	19004937	domperidone 1 MG/ML Oral Suspension [Motilium]	104868	EXACT			2026-03-13
 946590	55410	19004939	domperidone 10 MG Oral Tablet [Motilium]	104870	EXACT			2026-03-13
-970640	57096	19037833	domperidone	3626	BROAD	10 mg oral capsule; no RxNorm concept for domperidone capsule	domperidone 10 MG Oral Capsule	2026-03-13
+970640	57096	35855830	domperidone 10 MG Oral Capsule	OMOP5012343	EXACT			2026-03-30
 971424	57151	19062181	domperidone 1 MG/ML Oral Suspension	250155	EXACT			2026-03-13

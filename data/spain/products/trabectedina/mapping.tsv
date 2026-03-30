@@ -1,13 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607501	86916	35603023	trabectedin Injection	1718588	BROAD	0.25mg product; no 0.25 MG trabectedin concept in RxNorm	trabectedin 0.25 MG Injection	2026-03-30
+607501	86916	35603023	trabectedin Injection	1718588	BROAD		trabectedin 0.25 MG Injection	2026-03-30
 735817	86917	35603024	trabectedin 1 MG Injection	1718589	EXACT			2026-03-12
-760141	88407	35603023	trabectedin Injection	1718588	BROAD	0.25mg product; no 0.25 MG trabectedin concept in RxNorm	trabectedin 0.25 MG Injection	2026-03-30
+760141	88407	35603023	trabectedin Injection	1718588	BROAD		trabectedin 0.25 MG Injection	2026-03-30
 760142	88408	35603024	trabectedin 1 MG Injection	1718589	EXACT			2026-03-12
 762909	88899	35603024	trabectedin 1 MG Injection	1718589	EXACT			2026-03-12
 763749	89147	35603024	trabectedin 1 MG Injection	1718589	EXACT			2026-03-12
 767555	1241902001	35603023	trabectedin Injection	1718588	BROAD		trabectedin 0.25 MG Injection	2026-03-30
 767556	1241902002	35603024	trabectedin 1 MG Injection	1718589	EXACT			2025-12-04
-659927	07417001	35603027	trabectedin Injection [Yondelis]	1718592	BROAD	0.25mg product; no 0.25 MG trabectedin concept in RxNorm	trabectedin 0.25 MG Injection [Yondelis]	2026-03-30
+659927	07417001	35603027	trabectedin Injection [Yondelis]	1718592	BROAD		trabectedin 0.25 MG Injection [Yondelis]	2026-03-30
 659928	07417002	35603028	trabectedin 1 MG Injection [Yondelis]	1718594	EXACT			2026-03-12
-762908	88898	35603023	trabectedin Injection	1718588	BROAD	0.25mg product; no 0.25 MG trabectedin concept in RxNorm	trabectedin 0.25 MG Injection	2026-03-30
-763747	89148	35603023	trabectedin Injection	1718588	BROAD	0.25mg product; no 0.25 MG trabectedin concept in RxNorm	trabectedin 0.25 MG Injection	2026-03-30
+762908	88898	35603023	trabectedin Injection	1718588	BROAD		trabectedin 0.25 MG Injection	2026-03-30
+763747	89148	35603023	trabectedin Injection	1718588	BROAD		trabectedin 0.25 MG Injection	2026-03-30

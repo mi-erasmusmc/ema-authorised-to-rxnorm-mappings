@@ -1,11 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-655365	59080	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-816207	59080	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-702296	4691-2004IP	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-702297	4691-2004IP	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-703584	4691-2004IP1	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-703585	4691-2004IP1	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-723543	1-20685	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-723545	1-20685	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-728941	1-20685IP	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
-728942	1-20685IP	19107400	diosmin 500 MG Oral Tablet	432430	BROAD	RxNorm does not expose the diosmin/hesperidin combination tablet.	diosmin 450 MG / hesperidin 50 MG Oral Tablet	2026-03-13
+655365	59080	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+816207	59080	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+702296	4691-2004IP	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+702297	4691-2004IP	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+703584	4691-2004IP1	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+703585	4691-2004IP1	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+723543	1-20685	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+723545	1-20685	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+728941	1-20685IP	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30
+728942	1-20685IP	19107567	diosmin 450 MG / hesperidin 50 MG Oral Tablet	432703	EXACT			2026-03-30

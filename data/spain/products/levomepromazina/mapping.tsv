@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 619924	32263	19022286	methotrimeprazine 25 MG Oral Tablet	199770	EXACT			2026-03-13
-686796	38211	19060676	methotrimeprazine 5 MG/ML Oral Solution	247057	BROAD	RxNorm lacks the exact 40 MG/ML oral-drops concentration.	methotrimeprazine 40 MG/ML Oral Solution	2026-03-13
+686796	38211	19060677	methotrimeprazine 40 MG/ML Oral Solution	247058	EXACT			2026-03-30
 824375	44275	19005148	methotrimeprazine 100 MG Oral Tablet	199769	EXACT			2026-03-13
 824391	32263	19022286	methotrimeprazine 25 MG Oral Tablet	199770	EXACT			2026-03-13
 973743	32262	19005150	methotrimeprazine 25 MG/ML Injectable Solution	245391	EXACT			2026-03-13

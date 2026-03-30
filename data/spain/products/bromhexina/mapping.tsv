@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 650632	66548	19030496	bromhexine 1.6 MG/ML Oral Solution	246139	EXACT			2026-03-13
-701093	78348	19030555	bromhexine 1 MG/ML Oral Solution	755575	BROAD	RxNorm does not expose a 0.8 mg/mL oral bromhexine solution; using the closest oral-solution strength.	bromhexine 0.8 MG/ML Oral Solution	2026-03-13
+701093	78348	19030495	bromhexine 0.8 MG/ML Oral Solution	246138	EXACT			2026-03-30
 684636	74772	19030494	bromhexine 8 MG Oral Tablet	199439	EXACT			2026-03-13
 719252	39295	19030498	bromhexine 2 MG/ML Oral Solution	249581	BROAD	Spain product has dual oral/inhalation use; RxNorm only exposes the oral-solution presentation.	bromhexine 2 MG/ML Oral Solution / Inhalation Solution	2026-03-13
 719294	44612	19064796	bromhexine 2 MG/ML Injectable Solution	252032	EXACT			2026-03-13

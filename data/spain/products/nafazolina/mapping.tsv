@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-734368	31271	914646	naphazoline 0.5 MG/ML Ophthalmic Solution	251796	BROAD	RxNorm lacks the exact 1 MG/ML naphazoline ophthalmic solution concept.	naphazoline 1 MG/ML Ophthalmic Solution	2026-03-13
-845149	21032	40231538	naphazoline hydrochloride 0.5 MG/ML Nasal Solution	1046602	BROAD	Spain source is a nasal spray; RxNorm exposes a 0.5 MG/ML nasal solution rather than a spray concept.	naphazoline hydrochloride 0.5 MG/ML Nasal Spray	2026-03-13
-845156	21032	40231538	naphazoline hydrochloride 0.5 MG/ML Nasal Solution	1046602	BROAD	Spain source is a nasal spray; RxNorm exposes a 0.5 MG/ML nasal solution rather than a spray concept.	naphazoline hydrochloride 0.5 MG/ML Nasal Spray	2026-03-13
+734368	31271	40231546	naphazoline hydrochloride 1 MG/ML Ophthalmic Solution	1046272	EXACT			2026-03-30
+845149	21032	40231540	naphazoline hydrochloride 0.5 MG/ML Nasal Spray	1046610	EXACT			2026-03-30
+845156	21032	40231540	naphazoline hydrochloride 0.5 MG/ML Nasal Spray	1046610	EXACT			2026-03-30

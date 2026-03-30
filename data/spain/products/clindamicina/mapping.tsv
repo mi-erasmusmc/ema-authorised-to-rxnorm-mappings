@@ -10,7 +10,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 714077	81565	997899	clindamycin 300 MG Oral Capsule	284215	EXACT			2026-03-13
 714081	81568	997892	clindamycin 150 MG Oral Capsule	197518	EXACT			2026-03-13
 719658	60034	19075531	clindamycin 20 MG/ML Vaginal Cream	309337	EXACT			2026-03-13
-765875	58782	997954	clindamycin 10 MG/ML	343113	BROAD		clindamycin 10 MG/ML Topical Lotion	2026-03-13
+765875	58782	997893	clindamycin 10 MG/ML Topical Lotion	197519	EXACT			2026-03-30
 851568	62911	997898	clindamycin 100 MG Vaginal Insert	259233	EXACT			2026-03-13
 604678	63667	35604117	2 ML clindamycin 150 MG/ML Injection	1737244	EXACT			2026-03-13
 604694	63669	35604327	4 ML clindamycin 150 MG/ML Injection	1737578	EXACT			2026-03-13

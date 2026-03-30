@@ -48,6 +48,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 725902	68406	19063315	budesonide 0.064 MG/ACTUAT Nasal Spray	250648	EXACT			2026-03-13
 738278	60537	939301	budesonide 0.1 MG/ACTUAT Nasal Spray	247691	EXACT			2026-03-13
 738328	59533	19060643	budesonide 0.05 MG/ACTUAT Nasal Spray	247042	EXACT			2026-03-13
-759864	88386	702521	budesonide 4 MG	2587882	BROAD	IntesTIFalk 4 mg rectal suppository; no exact budesonide suppository concept found in RxNorm.	budesonide 4 MG Rectal Suppository	2026-03-13
+759864	88386	860451	budesonide 4 MG Rectal Suppository	OMOP5583384	EXACT			2026-03-30
 859363	59280	43291282	Budesonide Inhalant	OMOP572533	BROAD	Olfex Bucal 200 mcg/actuation pMDI; no defensible exact budesonide 0.2 MG/ACTUAT Inhalation Suspension concept found in RxNorm.	budesonide 0.2 MG/ACTUAT Inhalation Suspension	2026-03-13
 893214	59281	43291282	Budesonide Inhalant	OMOP572533	BROAD	Olfex Bucal Infantil 50 mcg/actuation pMDI; no defensible exact budesonide 0.05 MG/ACTUAT Inhalation Suspension concept found in RxNorm.	budesonide 0.05 MG/ACTUAT Inhalation Suspension	2026-03-13

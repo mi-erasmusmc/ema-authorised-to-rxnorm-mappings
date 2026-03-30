@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-728933	85248				NO_MAPPING	No standard RxNorm concept was found for the dexamethasone/levofloxacin ophthalmic combination.	dexamethasone 1 MG/ML / levofloxacin 5 MG/ML Ophthalmic Solution	2026-03-30
+728933	85248	36951903	dexamethasone 1 MG/ML / levofloxacin 5 MG/ML Ophthalmic Solution	OMOP5195330	EXACT			2026-03-30

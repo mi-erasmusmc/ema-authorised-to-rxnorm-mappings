@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 664516	52190	40100637	silybin Oral Capsule	378397	BROAD	No 150 MG strength-specific silybin oral capsule concept in RxNorm	silybin 150 MG Oral Capsule	2026-03-12
-994749	59430	19024190	silybin	155067	BROAD	No silybin injectable/infusion concept in RxNorm; mapped to ingredient-level concept	silybin 350 MG Injection	2026-03-13
+994749	59430	36264698	silybin 350 MG Injection	OMOP3115573	EXACT			2026-03-30

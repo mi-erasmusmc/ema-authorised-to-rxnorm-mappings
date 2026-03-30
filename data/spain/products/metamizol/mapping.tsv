@@ -5,7 +5,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 607345	85080	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12
 617217	48905	19060499	dipyrone 500 MG Oral Tablet	246603	BROAD	500mg capsule; no capsule dose form in RxNorm; mapping to oral tablet equivalent	dipyrone 500 MG Oral Capsule	2026-03-12
 617225	51345	19063134	dipyrone 400 MG/ML Injectable Solution	250570	EXACT	2000mg/5ml=400MG/ML injectable; exact concentration and dose form match		2026-03-12
-617233	51599	40035313	dipyrone Rectal Suppository	371921	BROAD	1000mg suppository; no 1000mg rectal suppository concept in RxNorm	dipyrone 1000 MG Rectal Suppository	2026-03-12
+617233	51599	19060523	dipyrone 1000 MG Rectal Suppository	246609	EXACT			2026-03-30
 624809	63430	19063134	dipyrone 400 MG/ML Injectable Solution	250570	EXACT	2000mg/5ml=400MG/ML injectable; exact concentration and dose form match		2026-03-12
 624817	63431	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12
 650115	51345	19063134	dipyrone 400 MG/ML Injectable Solution	250570	EXACT	2000mg/5ml=400MG/ML injectable; exact concentration and dose form match		2026-03-12
@@ -20,7 +20,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656476	68224	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12
 659782	69225	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12
 659783	69225	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12
-660574	65787	40035311	dipyrone Oral Solution	371920	BROAD	500mg oral granules for solution (sachet); no granule dose form in RxNorm; mapping to oral solution	dipyrone 500 MG Granules for Oral Solution Sachet	2026-03-12
+660574	65787	40035311	dipyrone Oral Solution	371920	BROAD	500mg oral granules for solution (sachet); no granule dose form in RxNorm; mapping to oral solution	dipyrone 500 MG Oral Granules	2026-03-30
 672255	72616	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12
 672256	72616	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12
 672351	72769	19087091	dipyrone 500 MG	331086	BROAD	575mg capsule; 575mg magnesic approx 500mg equivalent; no capsule dose form in RxNorm	dipyrone 575 MG Oral Capsule	2026-03-12
@@ -48,7 +48,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 734305	86828	19087091	dipyrone 500 MG	331086	BROAD	575mg capsule; 575mg magnesic approx 500mg equivalent; no capsule dose form in RxNorm	dipyrone 575 MG Oral Capsule	2026-03-12
 762838	88872	19031455	dipyrone 500 MG/ML Injectable Solution	251442	EXACT	1000mg/2ml=500MG/ML injectable; exact concentration and dose form match		2026-03-12
 763941	89205	40035312	dipyrone Oral Tablet	371923	BROAD	1000mg oral tablet; no 1000mg tablet concept in RxNorm	dipyrone 1000 MG Oral Tablet	2026-03-12
-778357	65786	40035311	dipyrone Oral Solution	371920	BROAD	1000mg oral granules for solution (sachet); no granule dose form in RxNorm; mapping to oral solution	dipyrone 1000 MG Granules for Oral Solution Sachet	2026-03-12
+778357	65786	40035311	dipyrone Oral Solution	371920	BROAD	1000mg oral granules for solution (sachet); no granule dose form in RxNorm; mapping to oral solution	dipyrone 1000 MG Oral Granules	2026-03-30
 935049	63430	19063134	dipyrone 400 MG/ML Injectable Solution	250570	EXACT	2000mg/5ml=400MG/ML injectable; exact concentration and dose form match		2026-03-12
 935056	63431	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12
 935080	63431	19031397	dipyrone	3523	BROAD		dipyrone 575 MG Oral Capsule	2026-03-12

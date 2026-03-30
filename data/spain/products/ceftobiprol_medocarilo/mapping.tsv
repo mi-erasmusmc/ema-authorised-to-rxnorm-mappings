@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-702137	78691	1465299	ceftobiprole Injection	2703558	BROAD	Spanish 500 mg is ceftobiprole free base; RxNorm uses salt form (667 MG)	ceftobiprole medocaril sodium 667 MG Injection	2026-03-13
+702137	78691	1465300	ceftobiprole medocaril sodium 667 MG Injection	2703561	EXACT	Spanish 500 mg ceftobiprol medocaril free base corresponds to 667 mg ceftobiprole medocaril sodium in RxNorm		2026-03-30

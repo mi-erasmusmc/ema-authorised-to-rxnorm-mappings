@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-868091	49875	40158849	ascorbic acid Oral Powder	846044	BROAD			
+868091	49875	44817980	acetaminophen Effervescent Oral Tablet	1536879	BROAD	RxNorm does not expose the acetaminophen plus ascorbic acid effervescent combination; mapped to the main ingredient with matching dose form.	acetaminophen 330 MG / ascorbic acid 200 MG Effervescent Oral Tablet	2026-03-30

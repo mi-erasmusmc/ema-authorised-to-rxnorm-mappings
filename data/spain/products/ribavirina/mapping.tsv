@@ -6,4 +6,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 674172	73720	19061194	ribavirin 200 MG Oral Tablet	248109	EXACT			2026-03-12
 792200	99107002	19098309	ribavirin 200 MG Oral Capsule [Rebetol]	352007	EXACT			2026-03-12
 792242	99107003	19098309	ribavirin 200 MG Oral Capsule [Rebetol]	352007	EXACT			2026-03-12
-979369	57750	1356184	ribavirin Inhalation Solution	2108389	BROAD	Powder for inhalation mapped to ribavirin Inhalation Solution	ribavirin 20 MG/ML Inhalation Solution [Virazole]	2026-03-13
+979369	57750	19035444	ribavirin 20 MG/ML Inhalation Solution [Virazole]	207406	EXACT			2026-03-30

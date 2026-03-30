@@ -1,7 +1,7 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/04/278/001	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	BROAD	Levemir Penfill cartridge; no cartridge-specific RxNorm concept found	3 ML insulin detemir 100 UNT/ML Cartridge [Levemir]	2026-03-29
-EU/1/04/278/002	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	BROAD	Levemir Penfill cartridge; no cartridge-specific RxNorm concept found	3 ML insulin detemir 100 UNT/ML Cartridge [Levemir]	2026-03-29
-EU/1/04/278/003	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	BROAD	Levemir Penfill cartridge; no cartridge-specific RxNorm concept found	3 ML insulin detemir 100 UNT/ML Cartridge [Levemir]	2026-03-29
+EU/1/04/278/001	44191223	3 ML insulin detemir 100 UNT/ML Cartridge [Levemir]	OMOP3067946	EXACT			2026-03-30
+EU/1/04/278/002	44191223	3 ML insulin detemir 100 UNT/ML Cartridge [Levemir]	OMOP3067946	EXACT			2026-03-30
+EU/1/04/278/003	44191223	3 ML insulin detemir 100 UNT/ML Cartridge [Levemir]	OMOP3067946	EXACT			2026-03-30
 EU/1/04/278/004	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2025-12-04
 EU/1/04/278/005	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2025-12-04
 EU/1/04/278/006	1516981	3 ML insulin detemir 100 UNT/ML Pen Injector [Levemir]	847241	EXACT			2025-12-04

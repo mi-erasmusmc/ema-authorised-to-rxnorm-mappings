@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-727950	1191411	2123184	1.17 ML romosozumab-aqqg 89.7 MG/ML Prefilled Syringe	2123184	BROAD	Spanish pack contains 2 syringes (210 mg total dose); mapping to single-syringe SCD	{2 (1.17 ML romosozumab-aqqg 89.7 MG/ML Prefilled Syringe) } Pack	2026-03-12
+727950	1191411	1511421	{2 (1.17 ML romosozumab-aqqg 89.7 MG/ML Prefilled Syringe [Evenity]) } Pack [Evenity 210 MG Dose]	2123191	BROAD	Spanish pack contains 2 prefilled pens (210 mg total dose); RxNorm pack concept uses Prefilled Syringe form.	{2 (1.17 ML romosozumab-aqqg 89.7 MG/ML Pen Injector [Evenity]) } Pack [Evenity 210 MG Dose]	2026-03-30

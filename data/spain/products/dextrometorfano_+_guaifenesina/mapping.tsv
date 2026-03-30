@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-677375	73288	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin oral sachet presentation.	dextromethorphan hydrobromide 10 MG / guaifenesin 100 MG Oral Solution Sachet	2026-03-13
-682385	60898	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin strength combination.	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	2026-03-13
-693006	76436	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin strength combination.	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	2026-03-13
-703377	78985	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin oral sachet presentation.	dextromethorphan hydrobromide 10 MG / guaifenesin 100 MG Oral Solution Sachet	2026-03-13
-719052	60898	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin strength combination.	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	2026-03-13
-719053	60898	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin strength combination.	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	2026-03-13
-748343	60898	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin strength combination.	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	2026-03-13
-763072	88958	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin strength combination.	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	2026-03-13
+677375	73288	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin oral sachet presentation.	dextromethorphan hydrobromide 10 MG / guaifenesin 100 MG Oral Solution Pack	2026-03-30
+682385	60898	40221822	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	996520	EXACT			2026-03-30
+693006	76436	40221822	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	996520	EXACT			2026-03-30
+703377	78985	40035820	dextromethorphan / guaifenesin Oral Solution	371766	BROAD	No exact RxNorm standard concept found for this dextromethorphan/guaifenesin oral sachet presentation.	dextromethorphan hydrobromide 10 MG / guaifenesin 100 MG Oral Solution Pack	2026-03-30
+719052	60898	40221822	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	996520	EXACT			2026-03-30
+719053	60898	40221822	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	996520	EXACT			2026-03-30
+748343	60898	40221822	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	996520	EXACT			2026-03-30
+763072	88958	40221822	dextromethorphan hydrobromide 2 MG/ML / guaifenesin 20 MG/ML Oral Solution	996520	EXACT			2026-03-30

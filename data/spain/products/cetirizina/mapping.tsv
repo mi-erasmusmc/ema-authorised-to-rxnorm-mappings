@@ -17,7 +17,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 692905	60279	40228206	cetirizine hydrochloride 1 MG/ML Oral Solution [Zyrtec]	1020021	EXACT			2026-03-13
 699534	77949	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
 703682	79064	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
-703744	66044	1149196	cetirizine	20610	BROAD		cetirizine hydrochloride 10 MG Oral Tablet	2026-03-15
+703744	66044	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-30
 708992	80453	40228203	cetirizine hydrochloride 1 MG/ML Oral Solution	1014673	EXACT			2026-03-15
 732345	86419	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
 732346	86420	40228214	cetirizine hydrochloride 10 MG Oral Tablet	1014678	EXACT			2026-03-15
