@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006673
+Name of medicine: Zepzelca
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: lurbinectedin
+Active substance: lurbinectedin
+Therapeutic area (MeSH): Small Cell Lung Carcinoma
+ATC code (human): L01XX69
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Maintenance treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC)
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zepzelca

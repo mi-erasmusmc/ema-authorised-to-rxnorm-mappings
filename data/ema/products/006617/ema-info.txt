@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006617
+Name of medicine: Bopediat
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: furosemide
+Active substance: furosemide
+Therapeutic area (MeSH): Edema, Cardiac;Edema;Hypertension;Renal Insufficiency, Chronic
+ATC code (human): C03CA01
+Pharmacotherapeutic group (human): High-ceiling diuretics;Sulfonamides, plain
+Therapeutic indication: Treatment of all conditions requiring diuresis due to mechanical obstruction or venous insufficiency
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bopediat

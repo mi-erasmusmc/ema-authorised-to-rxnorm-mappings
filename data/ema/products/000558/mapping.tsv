@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/04/281/003							2025-12-04
-EU/1/04/281/005	46276298	cetuximab Injection [Erbitux]	1657659	BROAD			2025-12-04
+EU/1/04/281/003	21176559	20 ML cetuximab 5 MG/ML Injection	OMOP314212	EXACT	Uses RxNorm Extension; standard RxNorm lacks cetuximab 5 MG/ML concepts.		2026-03-30
+EU/1/04/281/005	21039794	100 ML cetuximab 5 MG/ML Injection	OMOP323956	EXACT	Uses RxNorm Extension; standard RxNorm lacks cetuximab 5 MG/ML concepts.		2026-03-30
