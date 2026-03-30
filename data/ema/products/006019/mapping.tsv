@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/21/1624/001				BROAD	No RxNorm concept for inactivated COVID-19 vaccine; only mRNA, vector, and subunit types exist in RxNorm	SARS-COV-2 (COVID-19) vaccine, inactivated Injectable Suspension	2026-02-11
+EU/1/21/1624/001				NO_MAPPING	No standard RxNorm concept exists for inactivated SARS-CoV-2 vaccine; RxNorm only has mRNA, vector non-replicating, and subunit recombinant spike protein COVID-19 vaccines	SARS-COV-2 (COVID-19) vaccine, inactivated Injectable Suspension	2026-03-30

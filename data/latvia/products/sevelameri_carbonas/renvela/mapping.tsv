@@ -2,8 +2,8 @@ product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	
 EU/1/09/521/001	19127954	sevelamer carbonate 800 MG Oral Tablet [Renvela]	749210	EXACT			2026-02-17
 EU/1/09/521/002	19127954	sevelamer carbonate 800 MG Oral Tablet [Renvela]	749210	EXACT			2026-02-17
 EU/1/09/521/003	19127954	sevelamer carbonate 800 MG Oral Tablet [Renvela]	749210	EXACT			2026-02-17
-EU/1/09/521/004	40166052	sevelamer carbonate 800 MG Powder for Oral Suspension [Renvela]	861377	BROAD			2026-02-17
-EU/1/09/521/005	40166052	sevelamer carbonate 800 MG Powder for Oral Suspension [Renvela]	861377	BROAD			2026-02-17
+EU/1/09/521/004	40166052	sevelamer carbonate 800 MG Powder for Oral Suspension [Renvela]	861377	BROAD	No standard RxNorm concept found for the 1.6 g Renvela powder for oral suspension strength	sevelamer carbonate 1600 MG Powder for Oral Suspension [Renvela]	2026-03-30
+EU/1/09/521/005	40166052	sevelamer carbonate 800 MG Powder for Oral Suspension [Renvela]	861377	BROAD	No standard RxNorm concept found for the 1.6 g Renvela powder for oral suspension strength	sevelamer carbonate 1600 MG Powder for Oral Suspension [Renvela]	2026-03-30
 EU/1/09/521/006	40166056	sevelamer carbonate 2400 MG Powder for Oral Suspension [Renvela]	861373	EXACT			2026-02-17
 EU/1/09/521/007	40166056	sevelamer carbonate 2400 MG Powder for Oral Suspension [Renvela]	861373	EXACT			2026-02-17
 EU/1/09/521/008	40166052	sevelamer carbonate 800 MG Powder for Oral Suspension [Renvela]	861377	EXACT			2026-02-17

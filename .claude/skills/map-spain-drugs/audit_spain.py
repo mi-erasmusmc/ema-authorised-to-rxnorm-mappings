@@ -24,7 +24,8 @@ Issue types:
     MISSING               - cod_nacion in data.tsv with no row in mapping.tsv
     NO_TYPE               - mapping row with empty mapping_type
     NO_CONCEPT            - mapping row with empty concept_id
-    BROAD                 - mapping row with mapping_type=BROAD (for review)
+    BROAD                 - mapping row with mapping_type=BROAD missing suggestion
+    NO_MAPPING            - mapping row with mapping_type=NO_MAPPING missing suggestion
     STALE_MAPPING         - mapping row whose cod_nacion no longer exists in data.tsv
     NRO_MISMATCH          - mapping row whose nro_definitivo disagrees with data.tsv
     DUPLICATE_DATA        - duplicate cod_nacion in data.tsv
@@ -55,6 +56,7 @@ ISSUE_TYPES = [
     "NO_CONCEPT",
     "NO_TYPE",
     "BROAD",
+    "NO_MAPPING",
     "STALE_MAPPING",
     "NRO_MISMATCH",
     "DUPLICATE_DATA",

@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/13/881/001	40001297	lidocaine / prilocaine Topical Cream	377743	BROAD			2025-12-04
-EU/1/13/881/002	40001297	lidocaine / prilocaine Topical Cream	377743	BROAD			2025-12-04
+EU/1/13/881/001	40001297	lidocaine / prilocaine Topical Cream	377743	BROAD	No lidocaine/prilocaine topical spray concept in RxNorm; nearest is cream	lidocaine 150 MG/ML / prilocaine 50 MG/ML Topical Spray [Fortacin]	2026-03-30
+EU/1/13/881/002	40001297	lidocaine / prilocaine Topical Cream	377743	BROAD	No lidocaine/prilocaine topical spray concept in RxNorm; nearest is cream	lidocaine 150 MG/ML / prilocaine 50 MG/ML Topical Spray [Fortacin]	2026-03-30

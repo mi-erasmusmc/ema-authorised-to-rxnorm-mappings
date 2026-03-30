@@ -20,7 +20,7 @@ Usage:
         --concept-id 1786082 ...
 
 --ids supports: comma-separated, glob (*), or range (..)
-For BROAD mappings, --suggestion is required.
+For BROAD and NO_MAPPING mappings, --suggestion is required.
 """
 
 import argparse
@@ -77,13 +77,13 @@ def main():
     parser.add_argument("--concept-id", required=True)
     parser.add_argument("--concept-name", required=True)
     parser.add_argument("--concept-code", default="")
-    parser.add_argument("--mapping-type", required=True, choices=["EXACT", "BROAD"])
+    parser.add_argument("--mapping-type", required=True, choices=["EXACT", "BROAD", "NO_MAPPING"])
     parser.add_argument("--comment", default="")
     parser.add_argument("--suggestion", default="")
     args = parser.parse_args()
 
-    if args.mapping_type == "BROAD" and not args.suggestion:
-        print("Error: BROAD mappings require --suggestion", file=sys.stderr)
+    if args.mapping_type in ("BROAD", "NO_MAPPING") and not args.suggestion:
+        print(f"Error: {args.mapping_type} mappings require --suggestion", file=sys.stderr)
         sys.exit(1)
 
     substance_dir = args.substance_dir.rstrip("/")

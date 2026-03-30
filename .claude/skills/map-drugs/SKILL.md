@@ -1,6 +1,6 @@
 ---
 name: map-drugs
-description: General principles for mapping pharmaceutical products to RxNorm standard concepts. Covers mapping types (EXACT/BROAD), terminology adaptation, unit conversions, and common pitfalls.
+description: General principles for mapping pharmaceutical products to RxNorm standard concepts. Covers mapping types (EXACT/BROAD/NO_MAPPING), terminology adaptation, unit conversions, and common pitfalls.
 user-invocable: false
 ---
 
@@ -27,6 +27,7 @@ These apply across all data sources:
 - **EXACT**: Matches active ingredient, strength, and dose form. **Do NOT use US-only brand names** - RxNorm contains US brands which may differ from EU names. Use unbranded concepts unless the brand is the same in both EU and US (e.g., Twinrix, Lantus). Minor label variations do not constitute a brand difference — if the base brand name matches, the branded RxNorm concept is appropriate. This includes suffixes like "Velotab", "DIF", "Ellipta", "Control", "Maintena", qualifiers like "Adult"/"Paediatric", and other sub-brand or formulation descriptors added to the same base brand.
 - **Generic products must use non-branded concepts**: If a product is a generic (i.e. not the originator brand), always map to the unbranded clinical drug concept even when a branded concept with matching strength and form exists. Example: a generic metformin 850 MG tablet → `metformin hydrochloride 850 MG Oral Tablet`, not `metformin hydrochloride 850 MG Oral Tablet [Glucophage]`. Only the originator brand product itself should map to the branded concept.
 - **BROAD**: Less specific match. Use when only a concept without specific strength/volume is available, or for vaccines/biologicals with less granular RxNorm coverage. When choosing between multiple BROAD candidates, pick the one that preserves the most clinically relevant information — dose (strength + volume) matters more than device/form differences. For example, `0.5 ML etanercept 50 MG/ML Prefilled Syringe` is preferred over `etanercept 50 MG/ML Auto-Injector` for a 25 mg pen injector, because the volume distinguishes the 25 mg dose from the 50 mg dose.
+- **NO_MAPPING**: No suitable RxNorm concept exists (e.g., EU-only strength or product with no FDA equivalent). Leave concept fields empty, populate `suggestion` with the ideal concept name, and do NOT set `mapping_type` to EXACT or BROAD. A `suggestion` is required.
 
 ### Partial-ingredient Combination Products
 
@@ -93,7 +94,7 @@ Create `mapping.tsv` in the product folder with these columns:
 | `concept_id` | RxNorm `concept_id` from search results |
 | `concept_name` | RxNorm `concept_name` from search results |
 | `concept_code` | RxNorm `concept_code` from search results |
-| `mapping_type` | `EXACT`, `BROAD`, or empty |
+| `mapping_type` | `EXACT`, `BROAD`, `NO_MAPPING`, or empty |
 | `comment` | Optional note explaining the mapping decision |
 | `suggestion` | Ideal concept name when no exact match exists |
 | `last_updated_date` | Date in `YYYY-MM-DD` format |

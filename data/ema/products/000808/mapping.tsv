@@ -1,6 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/07/384/001	1592236	0.5 ML docetaxel 40 MG/ML Injection	1870937	EXACT			
-EU/1/07/384/002	21097421	2 ML docetaxel 40 MG/ML Injection	OMOP303595	EXACT			
 EU/1/07/384/003	1718758	1 ML docetaxel 20 MG/ML Injection	1860480	EXACT			2026-01-02
 EU/1/07/384/004	1718763	4 ML docetaxel 20 MG/ML Injection	1860485	EXACT			2026-01-02
 EU/1/07/384/005	1718789	8 ML docetaxel 20 MG/ML Injection	1861411	EXACT			2026-01-02

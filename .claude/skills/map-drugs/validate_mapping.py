@@ -7,7 +7,8 @@ Usage:
 Validates:
 - last_updated_date is YYYY-MM-DD formatted and not null
 - concept_id is a number or empty
-- mapping_type is EXACT, BROAD, or empty
+- mapping_type is EXACT, BROAD, NO_MAPPING, or empty
+- EXACT and BROAD require concept_id, concept_name, and concept_code (use NO_MAPPING if no mapping exists)
 - suggestion is not identical to concept_name
 - suggestion is not a stray YYYY-MM-DD value
 - suggestion does not contain pipe-delimited pseudo-records
@@ -50,7 +51,7 @@ EXACT_NO_DOSE_FORM_EXEMPT_CODES = {
     "OMOP4711822",  # Beclomethasone 0.084 MG/ACTUAT / formoterol 0.005 MG/ACTUAT / glycopyrronium 0.009 MG/ACTUAT Inhalant Powder [Trimbow]
 }
 
-VALID_MAPPING_TYPES = {"EXACT", "BROAD", ""}
+VALID_MAPPING_TYPES = {"EXACT", "BROAD", "NO_MAPPING", ""}
 
 VALID_ID_COLUMNS = {"ma_number", "product_id", "cod_nacion"}
 # Extra columns that follow the first ID column for certain formats
@@ -144,18 +145,37 @@ def validate_file(path: str) -> list[str]:
                         f"  {line}: concept_id '{cid}' is not a number"
                     )
 
-                # mapping_type: EXACT, BROAD, or empty
+                # mapping_type: EXACT, BROAD, NO_MAPPING, or empty
                 mt = row.get("mapping_type", "").strip()
                 if mt not in VALID_MAPPING_TYPES:
                     errors.append(
-                        f"  {line}: mapping_type '{mt}' is not EXACT, BROAD, or empty"
+                        f"  {line}: mapping_type '{mt}' is not EXACT, BROAD, NO_MAPPING, or empty"
                     )
+
+                # EXACT and BROAD require concept_id, concept_name, and concept_code.
+                # If no mapping is possible, use NO_MAPPING instead.
+                concept_name = row.get("concept_name", "").strip()
+                concept_code = row.get("concept_code", "").strip()
+                if mt in ("EXACT", "BROAD"):
+                    if not cid:
+                        errors.append(
+                            f"  {line}: {mt} mappings require concept_id; "
+                            f"if no mapping is available use NO_MAPPING"
+                        )
+                    if not concept_name:
+                        errors.append(
+                            f"  {line}: {mt} mappings require concept_name; "
+                            f"if no mapping is available use NO_MAPPING"
+                        )
+                    if not concept_code:
+                        errors.append(
+                            f"  {line}: {mt} mappings require concept_code; "
+                            f"if no mapping is available use NO_MAPPING"
+                        )
 
                 # EXACT mappings to bare clinical drug components (has strength, no dose form) are invalid.
                 # Concepts with truncated names (ending "...") are skipped: the dose form may be cut off.
                 # Contrast agents and similar compounds are exempt via EXACT_NO_DOSE_FORM_EXEMPT_CODES.
-                concept_name = row.get("concept_name", "").strip()
-                concept_code = row.get("concept_code", "").strip()
                 if (mt == "EXACT" and concept_name
                         and not concept_name.endswith("...")
                         and concept_code not in EXACT_NO_DOSE_FORM_EXEMPT_CODES
@@ -166,12 +186,16 @@ def validate_file(path: str) -> list[str]:
                         f"dose form; use BROAD if no dose-form-specific concept exists"
                     )
 
-                # BROAD mappings require a suggestion
+                # BROAD and NO_MAPPING mappings require a suggestion
                 suggestion = row.get("suggestion", "").strip()
                 suggestion_required = normalized_path not in SUGGESTION_OPTIONAL_FILES
                 if mt == "BROAD" and suggestion_required and not suggestion:
                     errors.append(
                         f"  {line}: BROAD mappings require suggestion"
+                    )
+                if mt == "NO_MAPPING" and suggestion_required and not suggestion:
+                    errors.append(
+                        f"  {line}: NO_MAPPING mappings require suggestion"
                     )
                 if suggestion:
                     if suggestion.casefold() == concept_name.casefold():

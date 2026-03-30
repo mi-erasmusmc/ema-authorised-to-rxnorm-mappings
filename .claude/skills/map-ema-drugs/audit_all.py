@@ -21,13 +21,14 @@ With --details:
     Requires --issue.
 
 Issue types:
-    NO_MAPPING        - folder has parsed data but no mapping.tsv at all
+    NO_MAPPING        - folder has parsed data but no mapping.tsv at all, OR
+                        mapping row with mapping_type=NO_MAPPING missing suggestion
     NO_DATE           - parsed_data file has no date (parsed_data.tsv instead of parsed_data_dateXX.tsv)
     MISSING           - ma_number in parsed_data with no row in mapping.tsv
     STALE_MAPPING     - mapping row whose ma_number no longer exists in parsed_data
     NO_CONCEPT        - mapping row with empty concept_id
     NO_TYPE           - mapping row with concept_id but empty mapping_type
-    BROAD             - BROAD mapping row missing a suggestion
+    BROAD             - mapping row with mapping_type=BROAD missing suggestion
     DUPLICATE_DATA    - duplicate ma_number in parsed_data
     DUPLICATE_MAPPING - duplicate ma_number in mapping.tsv
     INVALID           - mapping.tsv fails structural validation

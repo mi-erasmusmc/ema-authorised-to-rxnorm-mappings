@@ -11,7 +11,7 @@ Issue dict schema (returned by run_common_checks and validate_folder_issues):
     description  str  — human-readable label for the row
     concept_id   str  — mapped concept_id (may be empty)
     concept_name str  — mapped concept_name (may be empty)
-    mapping_type str  — EXACT, BROAD, or empty
+    mapping_type str  — EXACT, BROAD, NO_MAPPING, or empty
 """
 
 import argparse
@@ -30,6 +30,7 @@ COMMON_CHECKS = [
     "NO_CONCEPT",
     "NO_TYPE",
     "BROAD",
+    "NO_MAPPING",
     "DUPLICATE_DATA",
     "DUPLICATE_MAPPING",
     "INVALID",
@@ -87,7 +88,7 @@ def run_common_checks(source_id_col, data_rows, mapping_rows, describe=None):
     Returns a list of issue dicts (see module docstring for schema).
 
     Checks performed: DUPLICATE_DATA, DUPLICATE_MAPPING, MISSING, STALE_MAPPING,
-                      NO_CONCEPT, NO_TYPE, BROAD.
+                      NO_CONCEPT, NO_TYPE, BROAD, NO_MAPPING.
     """
     if describe is None:
         describe = lambda row: ""  # noqa: E731
@@ -131,6 +132,8 @@ def run_common_checks(source_id_col, data_rows, mapping_rows, describe=None):
             issues.append(make_issue("NO_TYPE", sid, description, concept_id, concept_name, mapping_type))
         elif mapping_type == "BROAD" and not suggestion:
             issues.append(make_issue("BROAD", sid, description, concept_id, concept_name, mapping_type))
+        elif mapping_type == "NO_MAPPING" and not suggestion:
+            issues.append(make_issue("NO_MAPPING", sid, description, concept_id, concept_name, mapping_type))
 
     return issues
 
