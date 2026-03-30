@@ -23,10 +23,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 660968	106360023	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	EXACT			2026-03-12
 693210	06360012IP	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	EXACT			2026-03-12
 697864	06360012	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	EXACT			2026-03-12
-656179	06360003	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	BROAD		varenicline 0.5 MG + 1 MG Oral Tablet Pack [Chantix] 25-count	2026-03-12
-697863	106360014	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	BROAD		varenicline 0.5 MG + 1 MG Oral Tablet Pack [Chantix] 25-count	2026-03-12
+656179	06360003	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	BROAD	Spanish pack has 25 tablets (11×0.5 mg + 14×1 mg); RxNorm pack has 53	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 14 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix]	2026-03-30
+697863	106360014	19130125	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 42 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix First Month of Therapy]	795737	BROAD	Spanish pack has 25 tablets (11×0.5 mg + 14×1 mg); RxNorm pack has 53	{11 (varenicline 0.5 MG Oral Tablet [Chantix]) / 14 (varenicline 1 MG Oral Tablet [Chantix]) } Pack [Chantix]	2026-03-30
 763991	89220	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-12
 764692	89489	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-12
 764854	89533	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-12
 765892	89856	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-12
-768179	90475	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	BROAD		varenicline 0.5 MG + 1 MG Oral Tablet Pack (strength and count unconfirmed; des_dosific En revision)	2026-03-12
+768179	90475	19127968	{11 (varenicline 0.5 MG Oral Tablet) / 42 (varenicline 1 MG Oral Tablet) } Pack	749289	EXACT			2026-03-30

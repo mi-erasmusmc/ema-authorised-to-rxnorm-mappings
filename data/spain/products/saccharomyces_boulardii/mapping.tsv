@@ -23,7 +23,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726818	34009_369_913_0_9	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
 728986	62989610	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
 728987	62989610	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT			2026-03-12
-735115	86878	1735672	Saccharomyces boulardii Powder for Oral Suspension	2697764	BROAD		Saccharomyces boulardii 250 MG powder+diluent oral suspension	2026-03-12
+735115	86878	1735672	Saccharomyces boulardii Powder for Oral Suspension	2697764	BROAD	Powder-and-diluent kit; no kit-specific concept in RxNorm	Saccharomyces boulardii 250 MG Powder for Oral Suspension	2026-03-30
 841627	46035	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT	des_dosific 56.6mg = 50mg des_dcp label		2026-03-12
 936872	46035	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT	des_dosific 56.6mg = 50mg des_dcp label		2026-03-12
 946608	311001-9	19099673	Saccharomyces boulardii 50 MG Oral Capsule	360098	EXACT	des_dosific 56.6mg = 50mg des_dcp label		2026-03-12

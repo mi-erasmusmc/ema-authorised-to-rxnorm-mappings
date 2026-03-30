@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-961565	45477				BROAD		dexamethasone / cyanocobalamin / lidocaine / thiamine Injectable Solution	2026-03-13
+961565	45477	41236579	Dexamethasone / Lidocaine / Thiamine / Vitamin B 12 Injectable Solution	OMOP2434541	BROAD	RxNorm Extension has the matching four-ingredient injectable-solution concept but not the exact Spanish strengths.	dexamethasone 1 MG/ML / lidocaine 30 MG/ML / thiamine 25 MG/ML / vitamin B 12 0.125 MG/ML Injectable Solution [Inzitan]	2026-03-30

@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-797639	40356				BROAD		dexamethasone / chloramphenicol Ophthalmic Ointment	2026-03-13
+797639	40356	40022927	chloramphenicol / dexamethasone Ophthalmic Solution	376196	BROAD	RxNorm has the dexamethasone/chloramphenicol ophthalmic combination only as a solution, not the exact ophthalmic ointment presentation.	dexamethasone 0.5 MG/G / chloramphenicol 10 MG/G Ophthalmic Ointment	2026-03-30

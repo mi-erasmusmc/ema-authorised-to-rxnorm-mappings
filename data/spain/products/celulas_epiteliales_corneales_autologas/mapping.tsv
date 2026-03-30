@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-707656	114987001				BROAD	EU-only ATMP; no RxNorm concept available	ex vivo expanded autologous human corneal epithelial cells containing stem cells Implant [Holoclar]	2026-02-12
+707656	114987001	40744388	Autologous human corneal epithelial cells Drug Implant [Holoclar]	OMOP4712667	BROAD	RxNorm Extension has branded Holoclar drug-implant concepts, but not the exact Spanish cell-density range of 79,000-316,000 cells/cm2.	autologous human corneal epithelial cells 79000-316000 CELLS/SQCM Drug Implant [Holoclar]	2026-03-30

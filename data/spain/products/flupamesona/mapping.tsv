@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-696864	51864				BROAD	Flupamesone is not present in standard RxNorm; no sufficiently close proxy concept exists.	flupamesone 3 MG/G Topical Ointment	2026-03-23
-696898	51862				BROAD	Flupamesone is not present in standard RxNorm; no sufficiently close proxy concept exists.	flupamesone 3 MG/G Topical Cream	2026-03-23
-758813	51862				BROAD	Flupamesone is not present in standard RxNorm; no sufficiently close proxy concept exists.	flupamesone 3 MG/G Topical Cream	2026-03-23
-758888	51864				BROAD	Flupamesone is not present in standard RxNorm; no sufficiently close proxy concept exists.	flupamesone 3 MG/G Topical Ointment	2026-03-23
+696864	51864				NO_MAPPING	Flupamesone not in RxNorm; EU/Spain-only corticosteroid	flupamesone 3 MG/G Topical Ointment	2026-03-30
+696898	51862				NO_MAPPING	Flupamesone not in RxNorm; EU/Spain-only corticosteroid	flupamesone 3 MG/G Topical Cream	2026-03-30
+758813	51862				NO_MAPPING	Flupamesone not in RxNorm; EU/Spain-only corticosteroid	flupamesone 3 MG/G Topical Cream	2026-03-30
+758888	51864				NO_MAPPING	Flupamesone not in RxNorm; EU/Spain-only corticosteroid	flupamesone 3 MG/G Topical Ointment	2026-03-30

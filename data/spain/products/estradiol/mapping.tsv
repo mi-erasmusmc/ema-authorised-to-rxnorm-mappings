@@ -1,20 +1,20 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 665149	72171	40169037	estradiol 0.01 MG Vaginal Insert [Vagifem]	884709	EXACT			2026-03-13
-668061	61702	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 100 MCG/24HR Transdermal System	2026-03-13
-668079	61701	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 75 MCG/24HR Transdermal System	2026-03-13
-668087	61700	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 25 MCG/24HR Transdermal System	2026-03-13
-692160	60334	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 50 MCG/24HR Transdermal System	2026-03-13
+668061	61702	42903061	estradiol 0.00417 MG/HR Transdermal System	1360174	EXACT			2026-03-30
+668079	61701	42902463	estradiol 0.00313 MG/HR Transdermal System	1359576	EXACT			2026-03-30
+668087	61700	42903375	estradiol 0.00104 MG/HR Transdermal System	1360488	EXACT			2026-03-30
+692160	60334	42902825	estradiol 0.00208 MG/HR Transdermal System	1359938	EXACT			2026-03-30
 711046	80608	1548968	estradiol 1.53 MG/ACTUAT Topical Spray	728118	EXACT			2026-03-29
 716413	82115	1548199	estradiol 2 MG Oral Tablet	197659	EXACT			2026-03-13
 717546	64704	40221070	estradiol Transdermal System	1805869	EXACT			2026-03-13
 718346	64705	40221070	estradiol Transdermal System	1805869	EXACT			2026-03-13
 719062	64707	40221070	estradiol Transdermal System	1805869	EXACT			2026-03-13
 729121	85352	40169036	estradiol 0.01 MG Vaginal Insert	884707	EXACT			2026-03-13
-730887	59154	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 50 MCG/24HR Transdermal System	2026-03-13
+730887	59154	42902454	estradiol 0.00208 MG/HR Transdermal System [Estraderm]	1359567	EXACT			2026-03-30
 764837	47814	40181755	estradiol valerate 1 MG Oral Tablet	978948	EXACT			2026-03-13
-816223	59153	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 25 MCG/24HR Transdermal System	2026-03-13
+816223	59153	42903375	estradiol 0.00104 MG/HR Transdermal System	1360488	EXACT			2026-03-30
 843904	66103	40221070	estradiol Transdermal System	1805869	EXACT			2026-03-13
-878561	59155	40221070	estradiol Transdermal System	1805869	BROAD		estradiol 100 MCG/24HR Transdermal System	2026-03-13
+878561	59155	42902714	estradiol 0.00417 MG/HR Transdermal System [Estraderm]	1359827	EXACT			2026-03-30
 694521	60207	40181756	estradiol valerate 2 MG	978942	BROAD	No estradiol valerate 2 MG Oral Tablet concept in RxNorm; principios_activos is ESTRADIOL VALERATO 2 mg	estradiol valerate 2 MG Oral Tablet	2026-03-29
 694539	60206	40181755	estradiol valerate 1 MG Oral Tablet	978948	EXACT			2026-03-29
 699148	77867	19135457	90 DAY estradiol 0.000313 MG/HR Vaginal System [Estring]	848330	EXACT			2026-03-13

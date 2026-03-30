@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-728239	84979				BROAD		dexamethasone / netilmicin Ophthalmic Solution	2026-03-13
-728240	84980				BROAD		dexamethasone / netilmicin Ophthalmic Solution	2026-03-13
-729935	85629				BROAD		dexamethasone / netilmicin Ophthalmic Gel	2026-03-13
+728239	84979				NO_MAPPING	No standard RxNorm concept was found for the dexamethasone/netilmicin ophthalmic combination; the Spanish product is a unit-dose ophthalmic solution.	dexamethasone 1 MG/ML / netilmicin 3 MG/ML Ophthalmic Solution	2026-03-30
+728240	84980				NO_MAPPING	No standard RxNorm concept was found for the dexamethasone/netilmicin ophthalmic combination.	dexamethasone 1 MG/ML / netilmicin 3 MG/ML Ophthalmic Solution	2026-03-30
+729935	85629				NO_MAPPING	No standard RxNorm concept was found for the dexamethasone/netilmicin ophthalmic combination in ophthalmic gel form.	dexamethasone 1 MG/ML / netilmicin 3 MG/ML Ophthalmic Gel	2026-03-30

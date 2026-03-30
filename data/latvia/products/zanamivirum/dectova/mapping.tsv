@@ -1,2 +1,2 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/18/1349/001							
+EU/1/18/1349/001	40749527	Zanamivir 10 MG/ML Injectable Solution	OMOP4708181	BROAD	Uses RxNorm Extension injectable-solution concept; no suitable standard RxNorm IV concept or clean non-supplier volume-specific concept was found.	20 ML zanamivir 10 MG/ML Injectable Solution [Dectova]	2026-03-30
