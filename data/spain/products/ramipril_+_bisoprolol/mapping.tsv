@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-742364	87195	1334494	ramipril 10 MG Oral Capsule	261962	BROAD			2026-03-12
-742370	87201	40162874	bisoprolol fumarate 5 MG	854904	BROAD			2026-03-12
-742371	87202	40166186	bisoprolol fumarate 1.25 MG	865153	BROAD			2026-03-12
-742372	87203	1334459	ramipril 2.5 MG Oral Capsule	198188	BROAD			2026-03-12
-742373	87204	40162870	bisoprolol fumarate 2.5 MG	854915	BROAD			2026-03-12
-742374	87205	1334460	ramipril 5 MG Oral Capsule	198189	BROAD			2026-03-12
+742364	87195	1334494	ramipril 10 MG Oral Capsule	261962	BROAD	EU-only combination; bisoprolol component absent from RxNorm	ramipril 10 MG / bisoprolol fumarate 10 MG Oral Capsule	2026-03-30
+742370	87201	1334494	ramipril 10 MG Oral Capsule	261962	BROAD	EU-only combination; bisoprolol component absent from RxNorm	ramipril 10 MG / bisoprolol fumarate 5 MG Oral Capsule	2026-03-30
+742371	87202	1334459	ramipril 2.5 MG Oral Capsule	198188	BROAD	EU-only combination; bisoprolol component absent from RxNorm	ramipril 2.5 MG / bisoprolol fumarate 1.25 MG Oral Capsule	2026-03-30
+742372	87203	1334459	ramipril 2.5 MG Oral Capsule	198188	BROAD	EU-only combination; bisoprolol component absent from RxNorm	ramipril 2.5 MG / bisoprolol fumarate 2.5 MG Oral Capsule	2026-03-30
+742373	87204	1334460	ramipril 5 MG Oral Capsule	198189	BROAD	EU-only combination; bisoprolol component absent from RxNorm	ramipril 5 MG / bisoprolol fumarate 2.5 MG Oral Capsule	2026-03-30
+742374	87205	1334460	ramipril 5 MG Oral Capsule	198189	BROAD	EU-only combination; bisoprolol component absent from RxNorm	ramipril 5 MG / bisoprolol fumarate 5 MG Oral Capsule	2026-03-30

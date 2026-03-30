@@ -1,11 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-600635	61645	1701928	activated charcoal	272	BROAD			
-604975	61645	1701928	activated charcoal	272	BROAD			
-605740	75265	1701928	activated charcoal	272	BROAD			
-605742	75265	1701928	activated charcoal	272	BROAD			
-656920	61645	1701928	activated charcoal	272	BROAD			
-656921	61645	1701928	activated charcoal	272	BROAD			
-686986	75265	1701928	activated charcoal	272	BROAD			
-686987	75265	1701928	activated charcoal	272	BROAD			
-730247	60618	1701928	activated charcoal	272	BROAD			
-835975	59095	1701928	activated charcoal	272	BROAD			
+600635	61645	35201559	activated charcoal Powder for Oral Suspension	2102504	BROAD	Spanish source is granules/powder for suspension; RxNorm lacks a strength-specific powder concept	activated charcoal 125 MG/ML Powder for Oral Suspension	2026-03-30
+604975	61645	35201559	activated charcoal Powder for Oral Suspension	2102504	BROAD	Spanish source is granules/powder for suspension; RxNorm lacks a strength-specific powder concept	activated charcoal 125 MG/ML Powder for Oral Suspension	2026-03-30
+605740	75265	19075085	activated charcoal 200 MG/ML Oral Suspension	309146	EXACT			2026-03-30
+605742	75265	19075085	activated charcoal 200 MG/ML Oral Suspension	309146	EXACT			2026-03-30
+656920	61645	35201559	activated charcoal Powder for Oral Suspension	2102504	BROAD	Spanish source is granules/powder for suspension; RxNorm lacks a strength-specific powder concept	activated charcoal 125 MG/ML Powder for Oral Suspension	2026-03-30
+656921	61645	35201559	activated charcoal Powder for Oral Suspension	2102504	BROAD	Spanish source is granules/powder for suspension; RxNorm lacks a strength-specific powder concept	activated charcoal 125 MG/ML Powder for Oral Suspension	2026-03-30
+686986	75265	19075085	activated charcoal 200 MG/ML Oral Suspension	309146	EXACT			2026-03-30
+686987	75265	19075085	activated charcoal 200 MG/ML Oral Suspension	309146	EXACT			2026-03-30
+730247	60618	1702083	activated charcoal 225 MG Oral Capsule	412114	EXACT			2026-03-30
+835975	59095	1702084	activated charcoal 200 MG Oral Capsule	412115	EXACT			2026-03-30

@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-728828	85199	35150194	Amlodipine / irbesartan Oral Tablet	OMOP4807246	BROAD			
-728829	85200	35150194	Amlodipine / irbesartan Oral Tablet	OMOP4807246	BROAD			
-728830	85201	35150194	Amlodipine / irbesartan Oral Tablet	OMOP4807246	BROAD			
-728831	85202	35150194	Amlodipine / irbesartan Oral Tablet	OMOP4807246	BROAD			
+728828	85199	35150194	Amlodipine / irbesartan Oral Tablet	OMOP4807246	BROAD	EU-only combination; no strength-specific RxNorm concept available	amlodipine 5 MG / irbesartan 150 MG Oral Tablet	2026-03-30
+728829	85200	35150194	Amlodipine / irbesartan Oral Tablet	OMOP4807246	BROAD	EU-only combination; no strength-specific RxNorm concept available	amlodipine 10 MG / irbesartan 150 MG Oral Tablet	2026-03-30
+728830	85201	35150194	Amlodipine / irbesartan Oral Tablet	OMOP4807246	BROAD	EU-only combination; no strength-specific RxNorm concept available	amlodipine 5 MG / irbesartan 300 MG Oral Tablet	2026-03-30
+728831	85202	35150194	Amlodipine / irbesartan Oral Tablet	OMOP4807246	BROAD	EU-only combination; no strength-specific RxNorm concept available	amlodipine 10 MG / irbesartan 300 MG Oral Tablet	2026-03-30

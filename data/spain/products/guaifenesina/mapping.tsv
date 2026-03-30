@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-688104	75546	1163944	guaifenesin	5032	BROAD			
-691774	60356	42706778	guaifenesin 13.33 MG/ML	1249731	BROAD			
-691782	60356	42706778	guaifenesin 13.33 MG/ML	1249731	BROAD			
-777045	44990	1163944	guaifenesin	5032	BROAD			
+688104	75546	19077763	guaifenesin 20 MG/ML Oral Solution	310604	EXACT			2026-03-30
+691774	60356	40231089	guaifenesin 13.3 MG/ML Oral Solution	1039309	EXACT			2026-03-30
+691782	60356	40231089	guaifenesin 13.3 MG/ML Oral Solution	1039309	EXACT			2026-03-30
+777045	44990	40044407	guaifenesin Oral Solution	372358	BROAD		guaifenesin 6.5 MG/ML Oral Solution	2026-03-30

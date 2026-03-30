@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-896381	64262	36223423	oxerutins Oral Product	1161673	EXACT			
-906214	64262	36223423	oxerutins Oral Product	1161673	EXACT			
-650500	53004	40100356	troxerutin Oral Solution	452443	BROAD			2026-03-12
-662914	70904	40100356	troxerutin Oral Solution	452443	BROAD			2026-03-12
-682081	74423	40100356	troxerutin Oral Solution	452443	BROAD			2026-03-12
+896381	64262	19112331	troxerutin 1000 MG	452435	BROAD		troxerutin 1000 MG Oral Granules	2026-03-30
+906214	64262	19112331	troxerutin 1000 MG	452435	BROAD		troxerutin 1000 MG Oral Granules	2026-03-30
+650500	53004	40100356	troxerutin Oral Solution	452443	BROAD		troxerutin 100 MG/ML Oral Solution	2026-03-12
+662914	70904	40100356	troxerutin Oral Solution	452443	BROAD		troxerutin 100 MG/ML Oral Solution	2026-03-12
+682081	74423	19112331	troxerutin 1000 MG	452435	BROAD		troxerutin 1000 MG Oral Granules	2026-03-12
 845610	52595	19104590	troxerutin 0.02 MG/MG Topical Gel	415682	EXACT			2026-03-12
