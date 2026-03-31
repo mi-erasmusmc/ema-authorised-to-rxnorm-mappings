@@ -126,7 +126,7 @@ def run_common_checks(source_id_col, data_rows, mapping_rows, describe=None):
 
         description = describe(data_row)
 
-        if not concept_id:
+        if not concept_id and mapping_type != "NO_MAPPING":
             issues.append(make_issue("NO_CONCEPT", sid, description, concept_id, concept_name, mapping_type))
         elif not mapping_type:
             issues.append(make_issue("NO_TYPE", sid, description, concept_id, concept_name, mapping_type))

@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/14/944/003	19078559	insulin glargine 100 UNT/ML Injectable Solution	311041	EXACT			2026-02-17
-EU/1/14/944/007	19078559	insulin glargine 100 UNT/ML Injectable Solution	311041	EXACT			2026-02-17
-EU/1/14/944/008	19078559	insulin glargine 100 UNT/ML Injectable Solution	311041	EXACT			2026-02-17
-EU/1/14/944/009	19078559	insulin glargine 100 UNT/ML Injectable Solution	311041	EXACT			2026-02-17
-EU/1/14/944/012	19078559	insulin glargine 100 UNT/ML Injectable Solution	311041	EXACT			2026-02-17
-EU/1/14/944/013	19078559	insulin glargine 100 UNT/ML Injectable Solution	311041	EXACT			2026-02-17
+EU/1/14/944/003	1758672	insulin glargine-aglr 100 UNT/ML	2589007	BROAD	Standard RxNorm has the FDA-suffixed Abasaglar biosimilar ingredient-strength concept but no cartridge-form concept.	3 ML insulin glargine-aglr 100 UNT/ML Cartridge [Abasaglar]	2026-03-31
+EU/1/14/944/007	1759242	3 ML insulin glargine-aglr 100 UNT/ML Pen Injector	2589008	EXACT			2026-03-31
+EU/1/14/944/008	1759242	3 ML insulin glargine-aglr 100 UNT/ML Pen Injector	2589008	EXACT			2026-03-31
+EU/1/14/944/009	1758672	insulin glargine-aglr 100 UNT/ML	2589007	BROAD	Standard RxNorm has the FDA-suffixed Abasaglar biosimilar ingredient-strength concept but no cartridge-form concept.	3 ML insulin glargine-aglr 100 UNT/ML Cartridge [Abasaglar]	2026-03-31
+EU/1/14/944/012	1759242	3 ML insulin glargine-aglr 100 UNT/ML Pen Injector	2589008	EXACT			2026-03-31
+EU/1/14/944/013	1759242	3 ML insulin glargine-aglr 100 UNT/ML Pen Injector	2589008	EXACT			2026-03-31

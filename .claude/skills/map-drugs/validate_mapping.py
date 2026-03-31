@@ -9,6 +9,7 @@ Validates:
 - concept_id is a number or empty
 - mapping_type is EXACT, BROAD, NO_MAPPING, or empty
 - EXACT and BROAD require concept_id, concept_name, and concept_code (use NO_MAPPING if no mapping exists)
+- EXACT mappings must include a strength value in the concept name (use BROAD if only ingredient-level concepts exist)
 - suggestion is not identical to concept_name, including a concept_name plus only a [brand] suffix
 - suggestion is not a stray YYYY-MM-DD value
 - suggestion does not contain pipe-delimited pseudo-records
@@ -181,6 +182,16 @@ def validate_file(path: str) -> list[str]:
                             f"  {line}: {mt} mappings require concept_code; "
                             f"if no mapping is available use NO_MAPPING"
                         )
+
+                # EXACT mappings must specify a strength in the concept name.
+                # Concepts with truncated names (ending "...") are skipped: the strength may be cut off.
+                if (mt == "EXACT" and concept_name
+                        and not concept_name.endswith("...")
+                        and not STRENGTH_IN_NAME_RE.search(concept_name)):
+                    errors.append(
+                        f"  {line}: EXACT concept '{concept_name[:80]}' has no strength; "
+                        f"use BROAD if no strength-specific concept exists"
+                    )
 
                 # EXACT mappings to bare clinical drug components (has strength, no dose form) are invalid.
                 # Concepts with truncated names (ending "...") are skipped: the dose form may be cut off.
