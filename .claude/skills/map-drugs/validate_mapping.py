@@ -105,9 +105,35 @@ def suggestion_has_valid_ending(suggestion: str) -> bool:
     return any(lower.endswith(df.casefold()) for df in VALID_DOSE_FORMS)
 
 
+def _read_atc_code(mapping_path: Path) -> str:
+    """Return the ATC code for the product folder, or '' if not found.
+
+    Checks (in order):
+    - ema-info.txt:  line starting with 'ATC code (human):'
+    - data.tsv:      'atc' column (value may be 'CODE - Name'; only the code part is returned)
+    """
+    info_path = mapping_path.parent / "ema-info.txt"
+    if info_path.exists():
+        for line in info_path.read_text(encoding="utf-8").splitlines():
+            if line.startswith("ATC code (human):"):
+                return line.split(":", 1)[1].strip()
+
+    data_path = mapping_path.parent / "data.tsv"
+    if data_path.exists():
+        with open(data_path, newline="", encoding="utf-8") as fh:
+            reader = csv.DictReader(fh, delimiter="\t")
+            for row in reader:
+                atc = (row.get("atc") or "").strip()
+                if atc:
+                    return atc.split(" - ")[0].strip()
+
+    return ""
+
+
 def validate_file(path: str) -> list[str]:
     errors = []
     normalized_path = Path(path)
+    atc_code = _read_atc_code(normalized_path)
     try:
         with open(path, newline="") as f:
             reader = csv.DictReader(f, delimiter="\t")
@@ -135,6 +161,8 @@ def validate_file(path: str) -> list[str]:
                     f"got {fields}"
                 )
                 return errors
+
+            atc_v = atc_code.upper().startswith("V")
 
             for i, row in enumerate(reader, start=2):
                 line = f"line {i}"
@@ -183,11 +211,14 @@ def validate_file(path: str) -> list[str]:
                             f"if no mapping is available use NO_MAPPING"
                         )
 
-                # EXACT mappings must specify a strength in the concept name.
+                # EXACT mappings must specify a strength in the concept name (indicated by any digit).
                 # Concepts with truncated names (ending "...") are skipped: the strength may be cut off.
+                # Products with ATC codes starting with V (e.g. contrast media, diagnostics) are exempt:
+                # RxNorm often omits strength for these.
                 if (mt == "EXACT" and concept_name
                         and not concept_name.endswith("...")
-                        and not STRENGTH_IN_NAME_RE.search(concept_name)):
+                        and not atc_v
+                        and not re.search(r'\d', concept_name)):
                     errors.append(
                         f"  {line}: EXACT concept '{concept_name[:80]}' has no strength; "
                         f"use BROAD if no strength-specific concept exists"
@@ -207,8 +238,12 @@ def validate_file(path: str) -> list[str]:
                     )
 
                 # BROAD and NO_MAPPING mappings require a suggestion
+                # Products with ATC codes starting with V are exempt (diagnostics/contrast media).
                 suggestion = row.get("suggestion", "").strip()
-                suggestion_required = normalized_path not in SUGGESTION_OPTIONAL_FILES
+                suggestion_required = (
+                    normalized_path not in SUGGESTION_OPTIONAL_FILES
+                    and not atc_v
+                )
                 if mt == "BROAD" and suggestion_required and not suggestion:
                     errors.append(
                         f"  {line}: BROAD mappings require suggestion"

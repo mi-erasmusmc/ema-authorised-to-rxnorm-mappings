@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/06/339/003	45892169	parathyroid hormone 0.1 MG/ACTUAT Cartridge	1602047	BROAD			2025-12-04
+EU/1/06/339/003	45892169	parathyroid hormone 0.1 MG/ACTUAT Cartridge	1602047	BROAD	Standard RxNorm lacks a pen-injector concept for the Preotact dual-chamber pre-filled pen presentation; mapped to the closest cartridge concept.	parathyroid hormone 0.1 MG/ACTUAT Pen Injector [Preotact]	2026-03-31

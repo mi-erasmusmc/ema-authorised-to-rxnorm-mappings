@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/16/1121/001	36850448	NALOTIMAGENE CARMALEUCEL	OMOP5168065	BROAD	Checked by Rowan		2025-12-04
+EU/1/16/1121/001	36850448	NALOTIMAGENE CARMALEUCEL	OMOP5168065	BROAD	No RxNorm concept found for the cell therapy dispersion for infusion presentation.	nalotimagene carmaleucel 5e6-20e6 cells/ML Injection [Zalmoxis]	2026-03-31

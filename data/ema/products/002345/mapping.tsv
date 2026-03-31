@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/12/787/001	43013173	teduglutide 5 MG Injection	1364472	EXACT			2025-12-04
 EU/1/12/787/002	43013173	teduglutide 5 MG Injection	1364472	EXACT			2025-12-04
-EU/1/12/787/003	35603060	teduglutide Injection	1719758	BROAD			2025-12-04
+EU/1/12/787/003	35603060	teduglutide Injection	1719758	BROAD	No RxNorm concept found for the 1.25 MG strength presentation.	teduglutide 1.25 MG Injection [Revestive]	2026-03-31

@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/12/791/001	41017942	Alipogene Tiparvovec Injectable Solution	OMOP2215904	BROAD			2025-12-04
+EU/1/12/791/001	41017942	Alipogene Tiparvovec Injectable Solution	OMOP2215904	BROAD	No patient-specific pack concept found for this gene therapy presentation.	alipogene tiparvovec 3e12 gc/ML Injectable Solution [Glybera]	2026-03-31
