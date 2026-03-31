@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/14/964/001	37499738	60 ACTUAT aclidinium bromide 0.4 MG/ACTUAT / formoterol fumarate 0.012 MG/ACTUAT Dry Powder Inhaler [Duaklir]	2205099	EXACT	EMA 340 mcg = delivered dose; RxNorm 400 MCG = metered dose; 60 actuations		2026-02-17
-EU/1/14/964/002	37499738	60 ACTUAT aclidinium bromide 0.4 MG/ACTUAT / formoterol fumarate 0.012 MG/ACTUAT Dry Powder Inhaler [Duaklir]	2205099	EXACT	EMA 340 mcg = delivered dose; RxNorm 400 MCG = metered dose; 3x60 actuations		2026-02-17
-EU/1/14/964/003	37499739	30 ACTUAT aclidinium bromide 0.4 MG/ACTUAT / formoterol fumarate 0.012 MG/ACTUAT Dry Powder Inhaler [Duaklir]	2205104	EXACT	EMA 340 mcg = delivered dose; RxNorm 400 MCG = metered dose; 30 actuations		2026-02-17
+EU/1/14/964/001	37499738	60 ACTUAT aclidinium bromide 0.4 MG/ACTUAT / formoterol fumarate 0.012 MG/ACTUAT Dry Powder Inhaler [Duaklir]	2205099	EXACT	EMA 340 mcg = delivered dose; RxNorm 400 MG = metered dose; 60 actuations		2026-03-31
+EU/1/14/964/002	37499738	60 ACTUAT aclidinium bromide 0.4 MG/ACTUAT / formoterol fumarate 0.012 MG/ACTUAT Dry Powder Inhaler [Duaklir]	2205099	EXACT	EMA 340 mcg = delivered dose; RxNorm 400 MG = metered dose; 3x60 actuations		2026-03-31
+EU/1/14/964/003	37499739	30 ACTUAT aclidinium bromide 0.4 MG/ACTUAT / formoterol fumarate 0.012 MG/ACTUAT Dry Powder Inhaler [Duaklir]	2205104	EXACT	EMA 340 mcg = delivered dose; RxNorm 400 MG = metered dose; 30 actuations		2026-03-31

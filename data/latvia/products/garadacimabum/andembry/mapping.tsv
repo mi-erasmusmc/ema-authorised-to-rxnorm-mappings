@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1885/001	861240	GARADACIMAB 167 MG/ML	OMOP5584176	EXACT			2026-02-17
-EU/1/24/1885/002	861240	GARADACIMAB 167 MG/ML	OMOP5584176	EXACT			2026-02-17
-EU/1/24/1885/003	843684	1.2 ML GARADACIMAB 167 MG/ML Injectable Solution	OMOP5566487	EXACT			2026-02-17
-EU/1/24/1885/004	843684	1.2 ML GARADACIMAB 167 MG/ML Injectable Solution	OMOP5566487	EXACT			2026-02-17
+EU/1/24/1885/001	37353466	garadacimab-gxii 167 MG/ML [Andembry]	2717178	BROAD	Standard RxNorm has Andembry as an auto-injector but not as a prefilled syringe; mapped to the closest branded concept.	1.2 ML garadacimab-gxii 167 MG/ML Prefilled Syringe [Andembry]	2026-03-31
+EU/1/24/1885/002	37353466	garadacimab-gxii 167 MG/ML [Andembry]	2717178	BROAD	Standard RxNorm has Andembry as an auto-injector but not as a prefilled syringe; mapped to the closest branded concept.	1.2 ML garadacimab-gxii 167 MG/ML Prefilled Syringe [Andembry]	2026-03-31
+EU/1/24/1885/003	37355076	1.2 ML garadacimab-gxii 167 MG/ML Auto-Injector [Andembry]	2717182	EXACT			2026-03-31
+EU/1/24/1885/004	37355076	1.2 ML garadacimab-gxii 167 MG/ML Auto-Injector [Andembry]	2717182	EXACT			2026-03-31

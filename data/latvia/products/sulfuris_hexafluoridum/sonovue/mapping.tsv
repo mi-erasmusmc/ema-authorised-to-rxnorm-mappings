@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/01/177/002	45892833	sulfur hexafluoride	1599276	BROAD	Contrast agent		2026-02-16
+EU/1/01/177/002	44071023	Sulfur Hexafluoride 0.008 ML/ML Injectable Suspension	OMOP1065654	EXACT	Strength-specific suspension concept is clinically sufficient for the reconstituted SonoVue presentation.		2026-03-31
 EU/1/01/177/002-P01	45892833	sulfur hexafluoride	1599276	BROAD	Contrast agent		2026-02-17

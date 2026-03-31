@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/16/1141/001	36861912	EDOTREOTIDE	OMOP5179529	BROAD	No dose-form-specific SomaKit TOC or edotreotide kit concept was found in RxNorm or Extension; keeping ingredient-level mapping.	edotreotide 40 MCG Injection [SomaKit TOC]	2026-03-31
+EU/1/16/1141/001	36861912	EDOTREOTIDE	OMOP5179529	BROAD	No dose-form-specific SomaKit TOC or edotreotide kit concept was found in RxNorm or Extension; keeping ingredient-level mapping.	edotreotide 0.04 MG Injection [SomaKit TOC]	2026-03-31

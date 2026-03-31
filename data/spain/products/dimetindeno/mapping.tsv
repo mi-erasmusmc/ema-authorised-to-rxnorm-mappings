@@ -4,7 +4,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 723920	83552	41273317	Dimethindene 0.001 MG/MG Topical Gel	OMOP2471279	EXACT			2026-03-13
 756034	87838	41273317	Dimethindene 0.001 MG/MG Topical Gel	OMOP2471279	EXACT			2026-03-13
 857227	54083	41273317	Dimethindene 0.001 MG/MG Topical Gel	OMOP2471279	EXACT			2026-03-13
-712070	0228308	36257125	Dimethindene 1 MG/ML Topical Solution	OMOP3108000	BROAD	Cutaneous emulsion presentation is not exposed exactly in RxNorm.	Dimethindene 1 MG/ML Cutaneous Emulsion	2026-03-13
+712070	0228308	36257125	Dimethindene 1 MG/ML Topical Solution	OMOP3108000	BROAD	Cutaneous emulsion presentation is not exposed exactly in RxNorm.	Dimethindene 1 MG/ML Topical Lotion	2026-03-31
 728621	LT-1-95-0933-001	41273317	Dimethindene 0.001 MG/MG Topical Gel	OMOP2471279	EXACT			2026-03-13
-728901	37189-7-6-2010	36257125	Dimethindene 1 MG/ML Topical Solution	OMOP3108000	BROAD	Cutaneous emulsion presentation is not exposed exactly in RxNorm.	Dimethindene 1 MG/ML Cutaneous Emulsion	2026-03-13
-881581	63138	36257125	Dimethindene 1 MG/ML Topical Solution	OMOP3108000	BROAD	Cutaneous emulsion presentation is not exposed exactly in RxNorm.	Dimethindene 1 MG/ML Cutaneous Emulsion	2026-03-13
+728901	37189-7-6-2010	36257125	Dimethindene 1 MG/ML Topical Solution	OMOP3108000	BROAD	Cutaneous emulsion presentation is not exposed exactly in RxNorm.	Dimethindene 1 MG/ML Topical Lotion	2026-03-31
+881581	63138	36257125	Dimethindene 1 MG/ML Topical Solution	OMOP3108000	BROAD	Cutaneous emulsion presentation is not exposed exactly in RxNorm.	Dimethindene 1 MG/ML Topical Lotion	2026-03-31

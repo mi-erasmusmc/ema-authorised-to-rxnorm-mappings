@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656549	56610	19019620	benzydamine	1425	BROAD	Tetridamine (tetridamina maleate 500 mg vaginal solution, ATC G02CC91) is a Spain-specific NSAID with no RxNorm equivalent; mapped to benzydamine (closest topical vaginal anti-inflammatory available in RxNorm).	tetridamine 500 MG Vaginal Solution	2026-03-12
-656550	56610	19019620	benzydamine	1425	BROAD	Tetridamine (tetridamina maleate 500 mg vaginal solution, ATC G02CC91) is a Spain-specific NSAID with no RxNorm equivalent; mapped to benzydamine (closest topical vaginal anti-inflammatory available in RxNorm).	tetridamine 500 MG Vaginal Solution	2026-03-12
+656549	56610	40017170	benzydamine Douche	376596	BROAD	Tetridamine has no RxNorm concept; benzydamine douche is the closest vaginal-irrigation concept in RxNorm.	tetridamine 500 MG Douche	2026-03-31
+656550	56610	40017170	benzydamine Douche	376596	BROAD	Tetridamine has no RxNorm concept; benzydamine douche is the closest vaginal-irrigation concept in RxNorm.	tetridamine 500 MG Douche	2026-03-31

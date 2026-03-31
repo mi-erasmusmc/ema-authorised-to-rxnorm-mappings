@@ -1,2 +1,2 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/23/1787/001	747505	exagamglogene autotemcel 13000000 CELLS/ML [Casgevy]	2671674	BROAD			2026-02-17
+EU/1/23/1787/001	747507	exagamglogene autotemcel Injection [Casgevy]	2671676	BROAD	Autologous gene therapy with variable concentration (4-13 x 10^6 cells/ml); EU and US brand both Casgevy	exagamglogene autotemcel 4000000-13000000 CELLS/ML Injection [Casgevy]	2026-03-31

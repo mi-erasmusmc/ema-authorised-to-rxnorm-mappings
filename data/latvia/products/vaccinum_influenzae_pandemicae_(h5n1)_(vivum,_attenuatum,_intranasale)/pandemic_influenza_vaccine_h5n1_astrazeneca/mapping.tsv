@@ -1,2 +1,2 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/16/1089/001	40220901	influenza A virus (H5N1) antigen	1804260	BROAD			2026-02-17
+EU/1/16/1089/001	40220901	influenza A virus (H5N1) antigen	1804260	BROAD	Live attenuated H5N1 nasal spray; no nasal-spray H5N1 RxNorm concept was found, so mapped to the ingredient-level H5N1 antigen concept.	influenza A virus A/Vietnam/1203/2004 (H5N1) antigen Nasal Spray [Pandemic influenza vaccine H5N1 AstraZeneca]	2026-03-31
