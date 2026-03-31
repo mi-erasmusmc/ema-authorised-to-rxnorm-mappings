@@ -1,5 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/06/332/001	40135171	somatropin Injectable Solution [Omnitrope]	645883	BROAD		somatropin 1.33 MG/ML Injectable Solution [Omnitrope]	2025-12-04
+EU/1/06/332/001	1831155	somatropin 1.33 MG/ML Injectable Solution	OMOP5156403	EXACT	Strength-specific injectable-solution concept is clinically sufficient for this reconstituted presentation.		2026-03-31
 EU/1/06/332/002	1585112	somatropin 5 MG/ML Injectable Solution [Omnitrope]	645884	EXACT			2025-12-04
 EU/1/06/332/003	1585112	somatropin 5 MG/ML Injectable Solution [Omnitrope]	645884	EXACT			2025-12-04
 EU/1/06/332/004	40166101	1.5 ML somatropin 3.3 MG/ML Cartridge [Omnitrope]	864110	EXACT			2025-12-04

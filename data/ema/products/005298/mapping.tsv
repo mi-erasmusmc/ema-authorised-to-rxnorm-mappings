@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/19/1387/001	40169802	lidocaine / prilocaine Mucous Membrane Topical Solution	897113	BROAD	Standard RxNorm lacks the lidocaine/prilocaine cutaneous spray solution; mapped to the closest two-ingredient topical solution concept.	lidocaine 150 MG/ML / prilocaine 50 MG/ML Topical Spray [Senstend]	2026-03-31
-EU/1/19/1387/002	40169802	lidocaine / prilocaine Mucous Membrane Topical Solution	897113	BROAD	Standard RxNorm lacks the lidocaine/prilocaine cutaneous spray solution; mapped to the closest two-ingredient topical solution concept.	lidocaine 150 MG/ML / prilocaine 50 MG/ML Topical Spray [Senstend]	2026-03-31
+EU/1/19/1387/001	40747247	Lidocaine 150 MG/ML / Prilocaine 50 MG/ML Topical Spray	OMOP4709950	EXACT			2026-03-31
+EU/1/19/1387/002	40747247	Lidocaine 150 MG/ML / Prilocaine 50 MG/ML Topical Spray	OMOP4709950	EXACT			2026-03-31

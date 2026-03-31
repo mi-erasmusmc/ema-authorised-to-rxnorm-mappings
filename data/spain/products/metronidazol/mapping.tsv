@@ -22,4 +22,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 667717	55233	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-13
 758151	47656	1707439	metronidazole 25 MG/ML Oral Suspension	422429	EXACT			2026-03-13
 762021	63692	1707344	metronidazole 0.0075 MG/MG Topical Gel	311679	EXACT			2026-03-13
-907170	59325	1592856	metronidazole 5 MG/ML Injection	1863332	BROAD		300 ML metronidazole 5 MG/ML Injection	2026-03-13
+907170	59325	36282175	300 ML Metronidazole 5 MG/ML Injection [Flagyl]	OMOP3133050	EXACT	1500mg/300mL = 5 MG/ML; branded single-use infusion bag; Flagyl brand matches		2026-03-31

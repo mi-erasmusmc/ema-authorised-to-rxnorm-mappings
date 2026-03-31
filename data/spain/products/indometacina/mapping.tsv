@@ -5,7 +5,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 986307	45894	1178668	indomethacin 100 MG Rectal Suppository	199549	EXACT			2026-03-13
 620377	42582	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13
 620393	43857	1178667	indomethacin 50 MG Rectal Suppository	197819	EXACT			2026-03-13
-656955	56980	1178696	indomethacin Topical	198097	BROAD	No exact indomethacin 10 MG/ML topical spray concept found in RxNorm.	indomethacin 10 MG/ML Topical Spray	2026-03-13
+656955	56980	19061253	indomethacin 10 MG/ML Topical Solution	248270	EXACT			2026-03-31
 711713	43857	1178667	indomethacin 50 MG Rectal Suppository	197819	EXACT			2026-03-13
 711762	42582	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13
 711770	42582	1178665	indomethacin 25 MG Oral Capsule	197817	EXACT			2026-03-13

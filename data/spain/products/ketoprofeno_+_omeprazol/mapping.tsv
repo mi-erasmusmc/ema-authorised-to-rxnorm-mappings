@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-667721	71237	1185922	ketoprofen	6142	BROAD	No ketoprofen/omeprazole combination concept in RxNorm; mapped to ketoprofen ingredient	ketoprofen 100 MG / omeprazole 20 MG Extended Release Oral Capsule	2026-03-13
-667737	71239	1185922	ketoprofen	6142	BROAD	No ketoprofen/omeprazole combination concept in RxNorm; mapped to ketoprofen ingredient	ketoprofen 200 MG / omeprazole 20 MG Extended Release Oral Capsule	2026-03-13
+667721	71237	21111565	Ketoprofen 100 MG / Omeprazole 20 MG Extended Release Oral Capsule	OMOP366150	EXACT			2026-03-31
+667737	71239	21111564	Ketoprofen 200 MG / Omeprazole 20 MG Extended Release Oral Capsule	OMOP366142	EXACT			2026-03-31

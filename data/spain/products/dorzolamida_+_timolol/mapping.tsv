@@ -7,15 +7,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698735	77780	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
 703828	79101	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
 716318	82086	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
-723444	83389	40057969	dorzolamide / timolol Ophthalmic Solution [Cosopt]	363756	BROAD	RxNorm does not expose the preservative-free unit-dose Spain presentation.	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt PF]	2026-03-13
+723444	83389	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433	EXACT			2026-03-31
 732062	86345	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
-732063	86346	40057969	dorzolamide / timolol Ophthalmic Solution [Cosopt]	363756	BROAD	RxNorm does not expose the preservative-free unit-dose Spain presentation.	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt PF]	2026-03-13
+732063	86346	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-31
 758053	86765	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
 758054	86765	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
-760427	86346	40057969	dorzolamide / timolol Ophthalmic Solution [Cosopt]	363756	BROAD	RxNorm does not expose the preservative-free unit-dose Spain presentation.	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt PF]	2026-03-13
+760427	86346	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-31
 840702	62535	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433	EXACT			2026-03-13
 674933	72715	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
-679143	73508	40057969	dorzolamide / timolol Ophthalmic Solution [Cosopt]	363756	BROAD	RxNorm does not expose the preservative-free unit-dose Spain presentation.	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt PF]	2026-03-13
+679143	73508	1594712	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution [Cosopt]	1923433	EXACT			2026-03-31
 683674	74660	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
 685135	74886	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13
 685345	74934	1594711	dorzolamide 20 MG/ML / timolol 5 MG/ML Ophthalmic Solution	1923432	EXACT			2026-03-13

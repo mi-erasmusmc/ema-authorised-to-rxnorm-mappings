@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1069/001	42609191	birch triterpenes Topical Gel	2675586	BROAD	Birch bark extract (Betulae cortex) mapped to birch triterpenes Topical Gel; strength not specified in EMA data so using drug form concept		2026-02-12
+EU/1/15/1069/001	42609192	birch triterpenes 0.1 MG/MG Topical Gel	2675587	EXACT	Parsed EMA strength field is blank, but this 23.4 g birch triterpenes gel presentation matches the later Filsuvez formulation represented in RxNorm.		2026-03-31

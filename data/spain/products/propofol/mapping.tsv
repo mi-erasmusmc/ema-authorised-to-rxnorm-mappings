@@ -11,7 +11,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 658781	62134	1537391	propofol lipid emulsion 10 MG/ML Injectable Suspension	2561291	EXACT			2026-03-15
 658799	62134	1537391	propofol lipid emulsion 10 MG/ML Injectable Suspension	2561291	EXACT			2026-03-15
 658823	62134	1537391	propofol lipid emulsion 10 MG/ML Injectable Suspension	2561291	EXACT			2026-03-15
-663741	70956	40220385	propofol Injection	1808216	BROAD	Propofol-Lipuro 0.5% (5 mg/mL) is a paediatric formulation; no 5 mg/mL propofol concept in RxNorm	20 ML propofol 5 MG/ML Injectable Suspension	2026-03-29
+663741	70956	36895801	20 ML Propofol 5 MG/ML Injectable Suspension	OMOP988690	EXACT			2026-03-31
 685206	60744	753627	propofol 20 MG/ML Injectable Suspension	153475	EXACT			2026-03-29
 697791	64868	753627	propofol 20 MG/ML Injectable Suspension	153475	EXACT			2026-03-29
 726477	84394	1537391	propofol lipid emulsion 10 MG/ML Injectable Suspension	2561291	EXACT			2026-03-15

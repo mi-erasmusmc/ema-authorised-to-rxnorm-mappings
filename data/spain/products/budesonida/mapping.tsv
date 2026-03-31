@@ -5,7 +5,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 643692	59297	939543	budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort]	616819	EXACT			2026-03-13
 643700	59298	939542	budesonide 0.25 MG/ML Inhalation Suspension [Pulmicort]	616817	EXACT			2026-03-13
 650965	66669	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			2026-03-13
-650966	66670	939394	budesonide 0.1 MG/ACTUAT	332686	BROAD	100 microgram/puff inhalation powder; RxNorm exposes the matching strength but not a dose-form-specific inhalation-powder concept for this Easyhaler presentation.	budesonide 0.1 MG/ACTUAT Inhalation Powder	2026-03-30
+650966	66670	35148371	Budesonide 0.1 MG/ACTUAT Inhalation Powder	OMOP4805435	EXACT			2026-03-31
 650967	66671	36813122	Budesonide 0.4 MG/ACTUAT Inhalation Powder	OMOP4827155	EXACT			2026-03-13
 651626	66942	19098138	budesonide 0.25 MG/ML Inhalation Suspension	351109	EXACT			2026-03-13
 651628	66943	939359	budesonide 0.5 MG/ML Inhalation Suspension	252559	EXACT			2026-03-13

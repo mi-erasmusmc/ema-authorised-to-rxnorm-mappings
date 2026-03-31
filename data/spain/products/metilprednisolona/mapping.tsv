@@ -3,7 +3,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 608547	53202	35606540	methylprednisolone 500 MG Injection [Solu-Medrol]	1743722	EXACT			2026-03-13
 608554	53203	35606544	methylprednisolone 1000 MG Injection [Solu-Medrol]	1743729	EXACT			2026-03-13
 613158	34023	1506430	methylprednisolone 40 MG Injection	311659	EXACT			2026-03-13
-638700	50537	35606535	methylprednisolone Injection [Solu-Medrol]	1743706	BROAD		methylprednisolone 250 MG Injection [Solu-Medrol]	2026-03-13
+638700	50537	2057251	methylprednisolone 250 MG Injection	OMOP4958111	EXACT			2026-03-31
 642082	59123	19034647	methylprednisolone 16 MG Oral Tablet [Medrol]	207138	EXACT			2026-03-13
 654780	60139	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	EXACT			2026-03-13
 662437	63521	1506270	methylprednisolone	6902	BROAD		methylprednisolone aceponate 1 MG/ML Topical Solution	2026-03-13
@@ -27,8 +27,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768345	90524	40060736	methylprednisolone Topical Ointment	372863	BROAD		methylprednisolone aceponate 1 MG/G Topical Cream	2026-03-13
 804633	62662	40060736	methylprednisolone Topical Ointment	372863	BROAD		methylprednisolone aceponate 1 MG/G Topical Cream	2026-03-13
 825539	49768	35606536	methylprednisolone 125 MG Injection [Solu-Medrol]	1743707	EXACT			2026-03-13
-842435	50537	35606535	methylprednisolone Injection [Solu-Medrol]	1743706	BROAD		methylprednisolone 250 MG Injection [Solu-Medrol]	2026-03-13
-842443	50537	35606535	methylprednisolone Injection [Solu-Medrol]	1743706	BROAD		methylprednisolone 250 MG Injection [Solu-Medrol]	2026-03-13
+842435	50537	2057251	methylprednisolone 250 MG Injection	OMOP4958111	EXACT			2026-03-31
+842443	50537	2057251	methylprednisolone 250 MG Injection	OMOP4958111	EXACT			2026-03-31
 842492	32729	19067555	methylprednisolone 4 MG Oral Tablet [Medrol]	260330	EXACT			2026-03-13
 842500	32729	19067555	methylprednisolone 4 MG Oral Tablet [Medrol]	260330	EXACT			2026-03-13
 863167	59123	19034647	methylprednisolone 16 MG Oral Tablet [Medrol]	207138	EXACT			2026-03-13

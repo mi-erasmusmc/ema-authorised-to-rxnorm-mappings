@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650629	66547	45892921	carbidopa 4.63 MG/ML / levodopa 20 MG/ML Oral Suspension [Duopa]	1599852	BROAD	RxNorm has the branded Duopa oral suspension concept but not the intestinal-gel presentation.	carbidopa 5 MG/ML / levodopa 20 MG/ML Oral Suspension [Duodopa]	2026-03-30
+650629	66547	2916745	carbidopa 5 MG/ML / levodopa 20 MG/ML Oral Gel [Duodopa]	OMOP5133584	EXACT			2026-03-31
 654761	59872	789736	carbidopa 25 MG / levodopa 100 MG Extended Release Oral Tablet [Sinemet]	792381	EXACT			2026-03-12
 654765	59334	19074722	carbidopa 50 MG / levodopa 200 MG Extended Release Oral Tablet	308989	EXACT			2026-03-12
 700578	51794	19127007	carbidopa 25 MG / levodopa 250 MG Oral Tablet [Sinemet]	724602	EXACT			2026-03-12

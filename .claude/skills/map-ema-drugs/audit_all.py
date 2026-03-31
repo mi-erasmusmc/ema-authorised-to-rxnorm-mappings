@@ -55,6 +55,15 @@ ISSUE_TYPES = [
     "INVALID",
 ]
 
+SUPPRESSED_ISSUES_BY_FOLDER = {
+    # Zolgensma uses a distinct exact kit concept for each weight-band pack.
+    # The generic "same signature => same concept" heuristic is not useful here.
+    "004750": {"INCONSISTENT_CONCEPT"},
+    # Bortezomib Accord solution rows intentionally use different exact concepts.
+    # The mapping comments explain the 1 mL / 2.5 mg vs 1.4 mL / 3.5 mg split.
+    "003984": {"INCONSISTENT_CONCEPT"},
+}
+
 
 def find_parsed_data(folder):
     """Return the most recent parsed_data_*.tsv path, or None."""
@@ -101,6 +110,7 @@ def audit_folder(folder: Path) -> list[dict]:
             core.clean(data_row.get("route_of_administration", "")),
             core.clean(data_row.get("packaging", "")),
             core.clean(data_row.get("content", "")),
+            core.clean(data_row.get("pack_size", "")),
             core.clean(data_row.get("product_name", "")),
         )
 
@@ -114,6 +124,9 @@ def audit_folder(folder: Path) -> list[dict]:
         "ma_number", data_by_id, mapping_rows, sig_fn=ema_sig, describe=make_description,
     )
     issues += core.validate_folder_issues(mapping_path)
+    suppressed = SUPPRESSED_ISSUES_BY_FOLDER.get(folder.name, set())
+    if suppressed:
+        issues = [issue for issue in issues if issue["issue"] not in suppressed]
     return issues
 
 

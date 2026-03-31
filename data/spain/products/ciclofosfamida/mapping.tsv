@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 654435	33214	19018903	cyclophosphamide 50 MG Oral Tablet	197550	EXACT			2026-03-13
-672084	33411	35606511	cyclophosphamide Injection	1734916	BROAD		cyclophosphamide 200 MG Injection	2026-03-13
+672084	33411	21172402	Cyclophosphamide 200 MG Injection	OMOP400556	BROAD	Powder for injectable solution vial; no standard RxNorm concept at this total dose	cyclophosphamide 200 MG Powder for Injectable Solution	2026-03-31
 700551	48972	35606514	cyclophosphamide 1000 MG Injection	1734919	EXACT			2026-03-13
 732777	86548	35606512	cyclophosphamide 500 MG Injection	1734917	EXACT			2026-03-13
 732778	86548	35606514	cyclophosphamide 1000 MG Injection	1734919	EXACT			2026-03-13

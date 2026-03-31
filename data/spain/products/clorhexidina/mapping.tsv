@@ -9,7 +9,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 607530	88106	1791048	chlorhexidine gluconate 5 MG/ML Topical Solution	834176	EXACT			2026-03-13
 607532	88106	1791048	chlorhexidine gluconate 5 MG/ML Topical Solution	834176	EXACT			2026-03-13
 607602	88384	1791016	chlorhexidine gluconate 20 MG/ML Topical Solution	834152	EXACT			2026-03-13
-607605	88409	1791016	chlorhexidine gluconate 20 MG/ML Topical Solution	834152	BROAD	Source is a 20 MG/ML cutaneous emulsion; RxNorm exposes the closest topical solution concept rather than an emulsion.	chlorhexidine gluconate 20 MG/ML Cutaneous Emulsion	2026-03-13
+607605	88409	1791016	chlorhexidine gluconate 20 MG/ML Topical Solution	834152	BROAD	Source is a 20 MG/ML cutaneous emulsion; RxNorm exposes the closest topical solution concept rather than an emulsion.	chlorhexidine gluconate 20 MG/ML Topical Lotion	2026-03-31
 607615	88535	40230627	chlorhexidine gluconate 10 MG/ML Topical Solution	1044470	EXACT			2026-03-13
 607616	88535	40230627	chlorhexidine gluconate 10 MG/ML Topical Solution	1044470	EXACT			2026-03-13
 607636	88712	1791016	chlorhexidine gluconate 20 MG/ML Topical Solution	834152	EXACT			2026-03-13
@@ -54,5 +54,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 884817	61110	40024788	chlorhexidine Topical Gel	378065	BROAD	No exact RxNorm standard concept found for chlorhexidine 10 MG/G topical gel; mapped to the closest topical gel concept.	chlorhexidine gluconate 10 MG/G Topical Gel	2026-03-13
 884825	61110	40024788	chlorhexidine Topical Gel	378065	BROAD	No exact RxNorm standard concept found for chlorhexidine 10 MG/G topical gel; mapped to the closest topical gel concept.	chlorhexidine gluconate 10 MG/G Topical Gel	2026-03-13
 932673	63873	40230627	chlorhexidine gluconate 10 MG/ML Topical Solution	1044470	EXACT			2026-03-13
-983189	58035	40024531	chlorhexidine Oral Lozenge	378251	BROAD	No exact RxNorm standard concept found for chlorhexidine 5 MG oral lozenge; mapped to the closest oral lozenge concept.	chlorhexidine 5 MG Oral Lozenge	2026-03-13
+983189	58035	36259740	Chlorhexidine 5 MG Oral Lozenge	OMOP3110615	EXACT			2026-03-31
 983197	58036	40230627	chlorhexidine gluconate 10 MG/ML Topical Solution	1044470	EXACT			2026-03-13

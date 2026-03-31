@@ -1,17 +1,17 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-608612	49154	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
-608661	56463	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
-697473	77352	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 1 ML volume-specific concept in RxNorm	1 ML cytarabine 100 MG/ML Injection	2026-03-29
-697474	77352	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 5 ML volume-specific concept in RxNorm	5 ML cytarabine 100 MG/ML Injection	2026-03-29
-697475	77352	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 10 ML volume-specific concept in RxNorm	10 ML cytarabine 100 MG/ML Injection	2026-03-16
-697476	77352	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
-885210	49154	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
-885228	56463	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
-682432	74455	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 1 ML volume-specific concept in RxNorm	1 ML cytarabine 100 MG/ML Injection	2026-03-29
-682433	74455	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 5 ML volume-specific concept in RxNorm	5 ML cytarabine 100 MG/ML Injection	2026-03-29
-682434	74455	35606026	cytarabine 100 MG/ML Injection	1732363	BROAD	No 10 ML volume-specific concept in RxNorm	10 ML cytarabine 100 MG/ML Injection	2026-03-16
+608612	49154	42947183	Cytarabine 100 MG Injection	OMOP4673781	BROAD	Powder for injectable solution vial; no standard RxNorm concept at this total dose	cytarabine 100 MG Powder for Injectable Solution	2026-03-31
+608661	56463	44071685	Cytarabine 500 MG Injectable Solution	OMOP1066316	BROAD	Powder for injectable solution vial; no standard RxNorm concept at this total dose	cytarabine 500 MG Powder for Injectable Solution	2026-03-31
+697473	77352	43291310	1 ML Cytarabine 100 MG/ML Injection	OMOP560224	EXACT			2026-03-31
+697474	77352	36895373	5 ML Cytarabine 100 MG/ML Injection	OMOP994502	EXACT			2026-03-31
+697475	77352	43286239	10 ML Cytarabine 100 MG/ML Injection	OMOP563188	EXACT			2026-03-31
+697476	77352	1311105	20 ML cytarabine 100 MG/ML Injection	249364	EXACT			2026-03-31
+885210	49154	42947183	Cytarabine 100 MG Injection	OMOP4673781	BROAD	Powder for injectable solution vial; no standard RxNorm concept at this total dose	cytarabine 100 MG Powder for Injectable Solution	2026-03-31
+885228	56463	44071685	Cytarabine 500 MG Injectable Solution	OMOP1066316	BROAD	Powder for injectable solution vial; no standard RxNorm concept at this total dose	cytarabine 500 MG Powder for Injectable Solution	2026-03-31
+682432	74455	43291310	1 ML Cytarabine 100 MG/ML Injection	OMOP560224	EXACT			2026-03-31
+682433	74455	36895373	5 ML Cytarabine 100 MG/ML Injection	OMOP994502	EXACT			2026-03-31
+682434	74455	43286239	10 ML Cytarabine 100 MG/ML Injection	OMOP563188	EXACT			2026-03-31
 697290	74455	1311105	20 ML cytarabine 100 MG/ML Injection	249364	EXACT			2026-03-13
 722299	83265	2905919	2 ML cytarabine 20 MG/ML Injection	OMOP5122708	EXACT			2026-03-30
 725700	83265	35605641	5 ML cytarabine 20 MG/ML Injection	1731355	EXACT	Different concentration from 682432 (20 mg/mL vs 100 mg/mL); same des_dcp total dose is a false positive		2026-03-29
 731569	86180	35605641	5 ML cytarabine 20 MG/ML Injection	1731355	EXACT			2026-03-13
-731570	86180	35605642	cytarabine 20 MG/ML Injection	1731356	BROAD	RxNorm does not expose the matching 25 mL single-use presentation.	25 ML cytarabine 20 MG/ML Injection	2026-03-13
+731570	86180	43264579	25 ML Cytarabine 20 MG/ML Injection	OMOP564880	EXACT			2026-03-31

@@ -10,7 +10,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 651086	66706	21168745	Beclomethasone 5 MG Extended Release Oral Tablet [Clipper]	OMOP285072	EXACT			2026-03-30
 651088	66707	21158937	Beclomethasone 5 MG Extended Release Oral Tablet	OMOP285050	EXACT			2026-03-30
 654988	46410	40173741	beclomethasone dipropionate 0.25 MG/ML Topical Cream	966765	EXACT			2026-03-13
-678912	61131	1115673	beclomethasone 0.25 MG/ML	358485	BROAD	Becloenema 1 mg rectal solution; no exact beclomethasone rectal solution concept found in RxNorm.	Beclomethasone Enema	2026-03-13
+678912	61131	1234995	beclomethasone Enema	OMOP5215700	BROAD	Becloenema 1 mg/unit dose rectal solution; no strength-specific beclomethasone rectal concept exists; enema form matches.	beclomethasone 1 MG Enema	2026-03-31
 756239	53508	1115673	beclomethasone 0.25 MG/ML	358485	BROAD	Recto Menaderm 0.125 mg/g rectal ointment (30g); no exact beclomethasone rectal ointment concept found in RxNorm.	Beclomethasone 0.125 MG/G Rectal Ointment	2026-03-13
 756247	53508	1115673	beclomethasone 0.25 MG/ML	358485	BROAD	Recto Menaderm 0.125 mg/g rectal ointment (60g); no exact beclomethasone rectal ointment concept found in RxNorm.	Beclomethasone 0.125 MG/G Rectal Ointment	2026-03-13
 785105	46410	40173741	beclomethasone dipropionate 0.25 MG/ML Topical Cream	966765	EXACT			2026-03-13

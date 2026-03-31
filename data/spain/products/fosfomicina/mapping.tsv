@@ -24,11 +24,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 727294	84618	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 727295	84618	19132594	fosfomycin 3000 MG Granules for Oral Solution	808917	EXACT			2026-03-12
 607542	88264	40039204	fosfomycin Injectable Solution	372272	BROAD		fosfomycin 8000 MG Injection	2026-03-12
-603852	54164	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
-603860	54163	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
-604736	50879	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
-606488	50878	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 4000 MG Injection	2026-03-12
-606489	50882	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
+603852	54164	21130156	Fosfomycin 1000 MG Injection	OMOP350813	EXACT	Fosfomycin sodium 1g powder for IM injection		2026-03-31
+603860	54163	21130156	Fosfomycin 1000 MG Injection	OMOP350813	EXACT	Fosfomycin sodium 1g powder for IV infusion		2026-03-31
+604736	50879	21130156	Fosfomycin 1000 MG Injection	OMOP350813	EXACT	Fosfomycin sodium 1g powder for IM injection		2026-03-31
+606488	50878	21061568	Fosfomycin 4000 MG Injection	OMOP350824	EXACT	Fosfomycin sodium 4g powder for IV infusion		2026-03-31
+606489	50882	21130156	Fosfomycin 1000 MG Injection	OMOP350813	EXACT	Fosfomycin sodium 1g powder for IV infusion		2026-03-31
 656735	50880	19060194	fosfomycin 50 MG/ML Oral Suspension	246097	EXACT		fosfomycin 250mg/5ml = 50mg/mL oral suspension	2026-03-12
 656738	50880	19060194	fosfomycin 50 MG/ML Oral Suspension	246097	EXACT		fosfomycin 250mg/5ml = 50mg/mL oral suspension	2026-03-12
 656963	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
@@ -37,9 +37,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 693279	76513	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
 696424	77049	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
 696425	77049	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
-700561	54163	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
-700562	50882	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
-700563	50879	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 1000 MG Injection	2026-03-12
+700561	54163	21130156	Fosfomycin 1000 MG Injection	OMOP350813	EXACT	Fosfomycin sodium 1g powder for IV infusion		2026-03-31
+700562	50882	21130156	Fosfomycin 1000 MG Injection	OMOP350813	EXACT	Fosfomycin sodium 1g powder for IV infusion		2026-03-31
+700563	50879	21130156	Fosfomycin 1000 MG Injection	OMOP350813	EXACT	Fosfomycin sodium 1g powder for IM injection		2026-03-31
 709999	80660	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
 710978	80902	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
 710979	80902	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
@@ -52,4 +52,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 727664	54219	19060193	fosfomycin 500 MG Oral Capsule	246096	EXACT			2026-03-12
 850966	58807	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
 851782	58807	19115088	fosfomycin 2000 MG Oral Suspension	562039	BROAD	closest local strength-specific oral concept; source is 2 g sachet for oral solution/suspension	fosfomycin tromethamine 2000 MG Granules for Oral Solution	2026-03-15
-939751	54165	37354501	fosfomycin Injection	2725576	BROAD		fosfomycin 4000 MG Injection	2026-03-12
+939751	54165	21061568	Fosfomycin 4000 MG Injection	OMOP350824	EXACT	Fosfomycin sodium 4g powder for IV infusion		2026-03-31

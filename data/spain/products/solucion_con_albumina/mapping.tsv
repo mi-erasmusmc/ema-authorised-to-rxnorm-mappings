@@ -20,7 +20,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703589	79048	35605718	100 ML albumin human, USP 200 MG/ML Injection	1741295	EXACT			2026-03-31
 726123	84249	35605713	50 ML albumin human, USP 200 MG/ML Injection	1741290	EXACT			2026-03-31
 726124	84249	35605718	100 ML albumin human, USP 200 MG/ML Injection	1741295	EXACT			2026-03-31
-670604	46162	35606129	albumin human, USP 200 MG/ML Injection [Albutein]	1742218	BROAD	10 mL single-use vial; RxNorm has Albutein injection but no 10 mL presentation	10 ML albumin human, USP 200 MG/ML Injection [Albutein]	2026-03-31
+670604	46162	43286312	10 ML Albumin Human, USP 200 MG/ML Injection	OMOP563809	EXACT			2026-03-31
 670612	46162	35606128	50 ML albumin human, USP 200 MG/ML Injection [Albutein]	1742217	EXACT			2026-03-31
 670620	46162	35606130	100 ML albumin human, USP 200 MG/ML Injection [Albutein]	1742220	EXACT			2026-03-31
 748293	49305	35605713	50 ML albumin human, USP 200 MG/ML Injection	1741290	EXACT			2026-03-31

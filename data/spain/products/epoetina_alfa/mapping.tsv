@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-654532	67861	42480131	Epoetin Alfa 40000 UNT/ML Prefilled Syringe	OMOP418603	BROAD	No volume-specific prefilled syringe concept exists in RxNorm for this concentration	1 ML epoetin alfa 40000 UNT/ML Prefilled Syringe [Eprex]	2026-03-13
-654535	67861	42480131	Epoetin Alfa 40000 UNT/ML Prefilled Syringe	OMOP418603	BROAD	No volume-specific prefilled syringe concept exists in RxNorm for this concentration	0.5 ML epoetin alfa 40000 UNT/ML Prefilled Syringe [Eprex]	2026-03-13
+654532	67861	19058653	1 ML epoetin alfa 40000 UNT/ML Injection	242706	BROAD	Product is a prefilled syringe; no standard RxNorm volume-specific prefilled syringe concept exists for 40000 UNT/ML	1 ML epoetin alfa 40000 UNT/ML Prefilled Syringe [Eprex]	2026-03-31
+654535	67861	35605576	epoetin alfa 40000 UNT/ML Injection	1721660	BROAD	Product is a 0.5 mL prefilled syringe (20000 UI dose); no standard RxNorm volume-specific prefilled syringe concept exists for 40000 UNT/ML	0.5 ML epoetin alfa 40000 UNT/ML Prefilled Syringe [Eprex]	2026-03-31
 654549	60583	19129863	1 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	792710	EXACT			2026-03-12
 654550	60583	19129863	1 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	792710	EXACT			2026-03-12
 654552	60583	19129863	1 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	792710	EXACT			2026-03-12
-660201	67861	42480131	Epoetin Alfa 40000 UNT/ML Prefilled Syringe	OMOP418603	BROAD	No volume-specific prefilled syringe concept exists in RxNorm for this concentration	0.75 ML epoetin alfa 40000 UNT/ML Prefilled Syringe [Eprex]	2026-03-13
+660201	67861	35605576	epoetin alfa 40000 UNT/ML Injection	1721660	BROAD	Product is a 0.75 mL prefilled syringe (30000 UI dose); no standard RxNorm volume-specific prefilled syringe concept exists for 40000 UNT/ML	0.75 ML epoetin alfa 40000 UNT/ML Prefilled Syringe [Eprex]	2026-03-31
 688267	60583	19129863	1 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	792710	EXACT			2026-03-12
 688275	60582	19129860	0.4 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	792686	EXACT			2026-03-12
 688283	60581	19129859	0.3 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	792683	EXACT			2026-03-12

@@ -8,8 +8,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 716817	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-08
 717050	199126023	19132639	0.5 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	809159	BROAD	pen injector mapped to prefilled syringe to preserve 0.5 ML dose	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-02-16
 765653	1201436005	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-04
-655950	99126013	19132639	0.5 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	809159	BROAD	EU 25 mg/1 mL prefilled syringe; US RxNorm concept is 25 mg/0.5 mL (50 MG/ML) — same dose, different concentration.	1 ML etanercept 25 MG/ML Prefilled Syringe [Enbrel]	2026-03-30
+655950	99126013	43207335	1 ML Etanercept 25 MG/ML Prefilled Syringe	OMOP507888	EXACT	EU 25 mg/1 mL prefilled syringe; OMOP extension with correct 1 mL volume and 25 MG/ML concentration.		2026-03-31
 655953	99126017	19131494	1 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	802652	EXACT			2026-03-12
 663133	99126020	46234063	1 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	1653225	EXACT			2026-03-12
 684644	99126022	21161533	Etanercept 10 MG Injection [Enbrel Paediatric]	OMOP380750	EXACT			2026-03-30
-839282	99126003	37002664	etanercept Injection [Enbrel]	2392141	BROAD		etanercept 25 MG Injection [Enbrel]	2026-03-12
+839282	99126003	21053479	Etanercept 25 MG Injection	OMOP380758	BROAD	25 mg lyophilised powder for injection (Enbrel); OMOP extension with correct 25 MG dose but no vial/powder presentation in RxNorm.	etanercept 25 MG Powder for Injection [Enbrel]	2026-03-31

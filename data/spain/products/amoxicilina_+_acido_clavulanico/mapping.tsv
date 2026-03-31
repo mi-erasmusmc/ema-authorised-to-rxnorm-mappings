@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 600000	66337	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-12
 600027	66424	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-12
-600028	66425	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution	2026-03-12
+600028	66425	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT	1000mg/200mg vial reconstitutes to 50/10 MG/ML; Injectable Solution covers reconstituted powder multi-use vials		2026-03-31
 600841	59515	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-12
 602819	70189	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-12
 602820	70188	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-12
@@ -10,7 +10,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606907	66426	783197	Amoxicillin 2000 MG / Clavulanate 200 MG Injectable Solution	OMOP4831028	EXACT			2026-03-12
 608679	65679	783197	Amoxicillin 2000 MG / Clavulanate 200 MG Injectable Solution	OMOP4831028	EXACT			2026-03-12
 616938	66216	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT			2026-03-12
-626051	65131	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution	2026-03-12
+626051	65131	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT	1000mg/200mg vial reconstitutes to 50/10 MG/ML; Injectable Solution covers reconstituted powder multi-use vials		2026-03-31
 627141	64689	19115197	amoxicillin 875 MG / clavulanate 125 MG Oral Tablet	562508	EXACT			2026-03-12
 632547	64111	19123585	amoxicillin 25 MG/ML / clavulanate 6.25 MG/ML Oral Suspension	617302	EXACT			2026-03-12
 632653	64113	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder	2026-03-12
@@ -111,11 +111,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 904912	59051	19123643	amoxicillin 100 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	618001	EXACT			2026-03-12
 926253	64111	19123585	amoxicillin 25 MG/ML / clavulanate 6.25 MG/ML Oral Suspension	617302	EXACT			2026-03-12
 965046	56683	40131077	amoxicillin / clavulanate Oral Suspension	617301	BROAD		amoxicillin 500 MG / clavulanate 125 MG Oral Powder	2026-03-12
-600144	65136	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution	2026-03-12
+600144	65136	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT	1000mg/200mg vial reconstitutes to 50/10 MG/ML; Injectable Solution covers reconstituted powder multi-use vials		2026-03-31
 603322	71886	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-12
-606817	58215	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution	2026-03-12
+606817	58215	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT	1000mg/200mg vial reconstitutes to 50/10 MG/ML; Injectable Solution covers reconstituted powder multi-use vials		2026-03-31
 606840	58216	783197	Amoxicillin 2000 MG / Clavulanate 200 MG Injectable Solution	OMOP4831028	EXACT			2026-03-12
-607220	78970	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution	2026-03-12
+607220	78970	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT	1000mg/200mg vial reconstitutes to 50/10 MG/ML; Injectable Solution covers reconstituted powder multi-use vials		2026-03-31
 631432	65459	1713700	12 HR amoxicillin 1000 MG / clavulanate 62.5 MG Extended Release Oral Tablet	617995	EXACT			2026-03-12
 636498	56685	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-12
 650553	66523	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-12
@@ -155,7 +155,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703803	78228	36036161	amoxicillin 875 MG / clavulanate 125 MG Oral Powder	OMOP5046166	EXACT			2026-03-12
 707197	80065	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-12
 725063	83914	1713694	amoxicillin 500 MG / clavulanate 125 MG Oral Tablet	617296	EXACT			2026-03-12
-728379	65136	40131075	amoxicillin / clavulanate Injectable Solution	617294	BROAD		amoxicillin 1000 MG / clavulanate 200 MG Injectable Solution	2026-03-12
+728379	65136	1759851	amoxicillin 50 MG/ML / clavulanate 10 MG/ML Injectable Solution	617295	EXACT	1000mg/200mg vial reconstitutes to 50/10 MG/ML; Injectable Solution covers reconstituted powder multi-use vials		2026-03-31
 858837	65459	1713700	12 HR amoxicillin 1000 MG / clavulanate 62.5 MG Extended Release Oral Tablet	617995	EXACT			2026-03-12
 859405	65459	1713700	12 HR amoxicillin 1000 MG / clavulanate 62.5 MG Extended Release Oral Tablet	617995	EXACT			2026-03-12
 888602	63204	1759879	amoxicillin 50 MG/ML / clavulanate 12.5 MG/ML Oral Suspension	617322	EXACT			2026-03-12

@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-732691	86522	42875928	Amlodipine / Hydrochlorothiazide / Ramipril Oral Capsule	OMOP4873041	BROAD	RxNorm has the triple-combination oral capsule concept but no strength-specific standard concept for this presentation	amlodipine 5 MG / hydrochlorothiazide 25 MG / ramipril 10 MG Oral Capsule [Tarlodix Plus]	2026-03-30
-732694	86523	42875928	Amlodipine / Hydrochlorothiazide / Ramipril Oral Capsule	OMOP4873041	BROAD	RxNorm has the triple-combination oral capsule concept but no strength-specific standard concept for this presentation	amlodipine 5 MG / hydrochlorothiazide 12.5 MG / ramipril 5 MG Oral Capsule [Tarlodix Plus]	2026-03-30
-732696	86524	42875928	Amlodipine / Hydrochlorothiazide / Ramipril Oral Capsule	OMOP4873041	BROAD	RxNorm has the triple-combination oral capsule concept but no strength-specific standard concept for this presentation	amlodipine 10 MG / hydrochlorothiazide 25 MG / ramipril 10 MG Oral Capsule [Tarlodix Plus]	2026-03-30
-732698	86525	42875928	Amlodipine / Hydrochlorothiazide / Ramipril Oral Capsule	OMOP4873041	BROAD	RxNorm has the triple-combination oral capsule concept but no strength-specific standard concept for this presentation	amlodipine 5 MG / hydrochlorothiazide 25 MG / ramipril 5 MG Oral Capsule [Tarlodix Plus]	2026-03-30
+732691	86522	42875962	Amlodipine 5 MG / Hydrochlorothiazide 25 MG / Ramipril 10 MG Oral Capsule	OMOP4873074	EXACT			2026-03-31
+732694	86523	42875931	Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Ramipril 5 MG Oral Capsule	OMOP4873044	EXACT			2026-03-31
+732696	86524	42875952	Amlodipine 10 MG / Hydrochlorothiazide 25 MG / Ramipril 10 MG Oral Capsule	OMOP4873065	EXACT			2026-03-31
+732698	86525	42875943	Amlodipine 5 MG / Hydrochlorothiazide 25 MG / Ramipril 5 MG Oral Capsule	OMOP4873056	EXACT			2026-03-31

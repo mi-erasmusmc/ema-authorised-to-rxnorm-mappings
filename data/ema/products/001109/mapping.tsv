@@ -2,4 +2,4 @@ ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	l
 EU/1/09/564/001	1593215	canakinumab 150 MG/ML Injection [Ilaris]	1864328	EXACT			2025-12-04
 EU/1/09/564/002	1593215	canakinumab 150 MG/ML Injection [Ilaris]	1864328	EXACT			2025-12-04
 EU/1/09/564/004	1593213	1 ML canakinumab 150 MG/ML Injection [Ilaris]	1864326	EXACT			2025-12-04
-EU/1/09/564/005	1593213	1 ML canakinumab 150 MG/ML Injection [Ilaris]	1864326	BROAD			2025-12-04
+EU/1/09/564/005	1593213	1 ML canakinumab 150 MG/ML Injection [Ilaris]	1864326	BROAD		1 ML canakinumab 150 MG/ML Auto-Injector [Ilaris]	2026-03-31

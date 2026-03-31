@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 764339	1000169007	1466005	tenecteplase 25 MG Injection	2711697	EXACT			2026-03-13
-948828	00169005	40220477	tenecteplase Injection	1809071	BROAD		tenecteplase 40 MG Injection	2026-03-13
+948828	00169005	21122086	Tenecteplase 8000 UNT Injection	OMOP381576	EXACT	8000 units = 40 mg; labeled as 8000 U in Spain (Metalyse).		2026-03-31
 949461	00169006	19098549	tenecteplase 50 MG Injection	313212	EXACT			2026-03-12

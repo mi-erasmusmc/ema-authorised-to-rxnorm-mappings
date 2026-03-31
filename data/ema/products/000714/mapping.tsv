@@ -1,7 +1,7 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/07/396/001	35605092	follitropin alfa Injection	1720918	BROAD	Combination product; lutropin alfa component absent from RxNorm; no 150 UNT strength concept	follitropin alfa 150 UNT / lutropin alfa 75 UNT Injection	2026-03-16
-EU/1/07/396/002	35605092	follitropin alfa Injection	1720918	BROAD	Combination product; lutropin alfa component absent from RxNorm; no 150 UNT strength concept	follitropin alfa 150 UNT / lutropin alfa 75 UNT Injection	2026-03-16
-EU/1/07/396/003	35605092	follitropin alfa Injection	1720918	BROAD	Combination product; lutropin alfa component absent from RxNorm; no 150 UNT strength concept	follitropin alfa 150 UNT / lutropin alfa 75 UNT Injection	2026-03-16
-EU/1/07/396/004	46234179	0.48 ML follitropin alfa 625 UNT/ML Pen Injector	1654171	BROAD	Combination product; lutropin alfa component (150 UNT, 312.5 UNT/mL) absent from RxNorm	0.48 ML {follitropin alfa 625 UNT/ML / lutropin alfa 312.5 UNT/ML} Pen Injector	2026-03-16
-EU/1/07/396/005	46234185	0.72 ML follitropin alfa 625 UNT/ML Pen Injector	1654179	BROAD	Combination product; lutropin alfa component (225 UNT, 312.5 UNT/mL) absent from RxNorm	0.72 ML {follitropin alfa 625 UNT/ML / lutropin alfa 312.5 UNT/ML} Pen Injector	2026-03-16
-EU/1/07/396/006	46234188	1.44 ML follitropin alfa 625 UNT/ML Pen Injector	1654184	BROAD	Combination product; lutropin alfa component (450 UNT, 312.5 UNT/mL) absent from RxNorm	1.44 ML {follitropin alfa 625 UNT/ML / lutropin alfa 312.5 UNT/ML} Pen Injector	2026-03-16
+EU/1/07/396/001	21031166	Follitropin Alfa 150 UNT / Lutropin alfa 75 UNT Injection [Pergoveris]	OMOP287373	EXACT			2026-03-31
+EU/1/07/396/002	21031166	Follitropin Alfa 150 UNT / Lutropin alfa 75 UNT Injection [Pergoveris]	OMOP287373	EXACT			2026-03-31
+EU/1/07/396/003	21031166	Follitropin Alfa 150 UNT / Lutropin alfa 75 UNT Injection [Pergoveris]	OMOP287373	EXACT			2026-03-31
+EU/1/07/396/004	2901864	0.48 ML follitropin alfa 0.044 MG/ML / lutropin alfa 313 UNT/ML Pen Injector [Pergoveris]	OMOP5118745	EXACT	RxNorm Extension rounds lutropin alfa concentration to 313 UNT/ML.		2026-03-31
+EU/1/07/396/005	2902187	0.72 ML follitropin alfa 0.044 MG/ML / lutropin alfa 313 UNT/ML Pen Injector [Pergoveris]	OMOP5119058	EXACT	RxNorm Extension rounds lutropin alfa concentration to 313 UNT/ML.		2026-03-31
+EU/1/07/396/006	2903787	1.44 ML follitropin alfa 0.044 MG/ML / lutropin alfa 313 UNT/ML Pen Injector [Pergoveris]	OMOP5120622	EXACT	RxNorm Extension rounds lutropin alfa concentration to 313 UNT/ML.		2026-03-31

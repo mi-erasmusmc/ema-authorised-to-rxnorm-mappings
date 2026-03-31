@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 693705	55315	19035569	calcifediol	1889	BROAD	RxNorm does not expose the calcifediol oral-drops presentation.	calcifediol 0.1 MG/ML Oral Solution	2026-03-13
 700558	53683	19035569	calcifediol	1889	BROAD	RxNorm does not expose the ampoule oral-solution presentation.	calcifediol 0.266 MG Oral Solution	2026-03-13
-707347	80095	19104033	calcifediol 0.125 MG Oral Capsule	412227	BROAD	RxNorm does not expose the Spain 0.266 mg strength exactly.	calcifediol 0.266 MG Oral Capsule	2026-03-13
-707348	80095	19104033	calcifediol 0.125 MG Oral Capsule	412227	BROAD	RxNorm does not expose the Spain 0.266 mg strength exactly.	calcifediol 0.266 MG Oral Capsule	2026-03-13
+707347	80095	42683364	Calcifediol 0.266 MG Oral Capsule	OMOP4912466	EXACT			2026-03-31
+707348	80095	42683364	Calcifediol 0.266 MG Oral Capsule	OMOP4912466	EXACT			2026-03-31
 765895	89725	19109128	calcifediol 0.125 MG	438199	BROAD	RxNorm does not expose the Spain 100 microgram weekly capsule exactly.	calcifediol 0.1 MG Oral Capsule	2026-03-13
 769224	53684	19035569	calcifediol	1889	BROAD	RxNorm does not expose the ampoule oral-solution presentation.	calcifediol 3 MG Oral Solution	2026-03-13
 934554	55315	19035569	calcifediol	1889	BROAD	RxNorm does not expose the calcifediol oral-drops presentation.	calcifediol 0.1 MG/ML Oral Solution	2026-03-13

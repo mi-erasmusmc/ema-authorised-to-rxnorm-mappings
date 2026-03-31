@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 602421	68424	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
-602422	68424	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
+602422	68424	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
 602716	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 602717	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 602718	69380	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
-602719	69381	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
+602719	69381	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
 603427	72387	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 603428	72387	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 603429	72388	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
@@ -20,23 +20,23 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 651573	66914	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 651574	66914	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 656415	68195	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
-656416	68195	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
+656416	68195	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
 656438	68209	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 656451	68215	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 658390	68424	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
-658391	68424	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
+658391	68424	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
 660082	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 660083	69378	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
 660085	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 660086	69379	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
-660087	69381	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
+660087	69381	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
 661153	69905	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
-661155	69905	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-13
+661155	69905	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
 662256	70454	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 671282	72468	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894	EXACT			2026-03-12
 671287	72469	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087	EXACT			2026-03-12
-676229	73005	19005965	ondansetron 4 MG Disintegrating Oral Tablet	104894	BROAD	oral film mapped to disintegrating tablet	ondansetron 4 MG Oral Soluble Film	2026-03-12
-676232	73006	19079172	ondansetron 8 MG Disintegrating Oral Tablet	312087	BROAD	oral film mapped to disintegrating tablet	ondansetron 8 MG Oral Soluble Film	2026-03-12
+676229	73005	40223992	ondansetron 4 MG Oral Film	998033	EXACT			2026-03-31
+676232	73006	40223995	ondansetron 8 MG Oral Film	998028	EXACT			2026-03-31
 690891	60405	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 690909	60405	19079171	ondansetron 8 MG Oral Tablet	312086	EXACT			2026-03-12
 690917	60404	19019419	ondansetron 4 MG Oral Tablet	198052	EXACT			2026-03-12
@@ -70,12 +70,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698141	77544	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-13
 730289	59071	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
 796953	59071	35605482	2 ML ondansetron 2 MG/ML Injection	1740467	EXACT			2026-03-12
-600019	66395	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
-605407	72117	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
-643650	59072	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
-645234	60403	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
-671266	70969	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
-698142	77545	35605483	ondansetron 2 MG/ML Injection	1740468	BROAD	8 mg/4 ml ampoule; no 4 ML volume-specific concept	4 ML ondansetron 2 MG/ML Injection	2026-03-12
+600019	66395	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
+605407	72117	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
+643650	59072	2906859	4 ML ondansetron 2 MG/ML Injection [Zofran]	OMOP5123630	EXACT			2026-03-31
+645234	60403	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
+671266	70969	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
+698142	77545	43286105	4 ML Ondansetron 2 MG/ML Injection	OMOP562181	EXACT			2026-03-31
 715256	81829	40070100	ondansetron Injectable Solution	376327	BROAD	premixed 8 mg/50 ml infusion; no matching RxNorm concentration	50 ML ondansetron 0.16 MG/ML Injection	2026-03-12
 715257	81830	40070100	ondansetron Injectable Solution	376327	BROAD	premixed 8 mg/100 ml infusion; no matching RxNorm concentration	100 ML ondansetron 0.08 MG/ML Injection	2026-03-12
 753709	87731	40070100	ondansetron Injectable Solution	376327	BROAD	premixed 8 mg/50 ml infusion; no matching RxNorm concentration	50 ML ondansetron 0.16 MG/ML Injection	2026-03-12

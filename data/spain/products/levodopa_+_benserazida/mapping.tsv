@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 658336	62162	19006286	benserazide 25 MG / levodopa 100 MG Extended Release Oral Capsule [Madopar]	105044	EXACT			2026-03-12
-669770	52146	19006283	benserazide 50 MG / levodopa 200 MG Oral Capsule [Madopar]	105041	BROAD	RxNorm has a branded Madopar oral capsule concept but not the exact tablet presentation	benserazide 50 MG / levodopa 200 MG Oral Tablet [Madopar]	2026-03-12
+669770	52146	789652	benserazide 50 MG / levodopa 200 MG Oral Tablet	199566	EXACT			2026-03-31

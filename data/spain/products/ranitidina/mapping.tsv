@@ -67,4 +67,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 901447	63310	961082	ranitidine 300 MG Oral Tablet	198193	EXACT			2026-03-12
 901462	63310	961082	ranitidine 300 MG Oral Tablet	198193	EXACT			2026-03-12
 901470	63311	961050	ranitidine 150 MG Oral Tablet	198191	EXACT			2026-03-12
-956771	56072	961086	ranitidine 10 MG/ML Injectable Solution	246793	BROAD	single-use ampoule; no matching 5 ML Injection concept found	5 ML ranitidine 10 MG/ML Injection	2026-03-12
+956771	56072	43291526	5 ML Ranitidine 10 MG/ML Injection	OMOP562582	EXACT			2026-03-31

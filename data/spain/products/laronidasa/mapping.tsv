@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-849604	03253001	1718683	laronidase Injection [Aldurazyme]	1860092	BROAD		5 ML laronidase 100 UNT/ML Injection [Aldurazyme]	2026-03-13
+849604	03253001	19102784	5 ML laronidase 0.58 MG/ML Injection [Aldurazyme]	404492	EXACT	Spain labels 100 U/mL; RxNorm uses 0.58 MG/ML (equivalent: 100 U × 0.0058 mg/U = 0.58 mg/mL)		2026-03-31

@@ -5,7 +5,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 654153	55148	19004087	albuterol 0.5 MG/ML Injectable Solution [Ventolin]	104505	EXACT			2026-03-16
 656706	53010	42902903	albuterol 0.09 MG/ACTUAT Metered Dose Inhaler [Ventolin]	1360016	EXACT			2026-03-16
 664251	70869	1154615	200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler	745679	EXACT			2026-03-12
-677362	73563	1356108	albuterol Inhalation Solution	2108226	BROAD		albuterol 1 MG/ML Inhalation Solution	2026-03-12
+677362	73563	36812024	Albuterol 1 MG/ML Inhalation Solution	OMOP4826058	EXACT			2026-03-31
 677363	73562	19060972	albuterol 2 MG/ML Inhalation Solution	247840	EXACT			2026-03-12
 766118	55148	19004087	albuterol 0.5 MG/ML Injectable Solution [Ventolin]	104505	EXACT			2026-03-16
 797183	65850	1154615	200 ACTUAT albuterol 0.09 MG/ACTUAT Metered Dose Inhaler	745679	EXACT			2026-03-16

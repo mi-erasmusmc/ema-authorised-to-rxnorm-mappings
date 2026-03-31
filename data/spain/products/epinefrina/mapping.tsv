@@ -7,17 +7,17 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 658637	68552	44814533	epinephrine 1 MG/ML Injectable Solution [Adrenalin]	1490057	EXACT			2026-03-13
 677267	73186	19076899	epinephrine 1 MG/ML Injectable Solution	310132	EXACT			2026-03-13
 677268	73187	19076899	epinephrine 1 MG/ML Injectable Solution	310132	EXACT			2026-03-13
-687623	75408	44068911	Epinephrine Intramuscular Solution	OMOP1063542	EXACT			2026-03-13
+687623	75408	36280941	0.3 ML Epinephrine 0.5 MG/ML Pen Injector	OMOP3131816	EXACT			2026-03-31
 687625	75409	793005	0.3 ML epinephrine 1 MG/ML Prefilled Syringe	1989112	EXACT			2026-03-13
 706473	73187	19076899	epinephrine 1 MG/ML Injectable Solution	310132	EXACT			2026-03-13
 706474	73186	19076899	epinephrine 1 MG/ML Injectable Solution	310132	EXACT			2026-03-13
-707616	80146	19076899	epinephrine 1 MG/ML Injectable Solution	310132	BROAD		0.15 ML epinephrine 1 MG/ML Auto-Injector	2026-03-13
+707616	80146	36419192	0.15 ML Epinephrine 1 MG/ML Auto-Injector	OMOP4761489	EXACT			2026-03-31
 707618	80147	793005	0.3 ML epinephrine 1 MG/ML Prefilled Syringe	1989112	EXACT			2026-03-13
 707627	80149	36257198	Epinephrine 0.5 MG/ML Pen Injector	OMOP3108073	EXACT			2026-03-13
 714042	67263	1344014	epinephrine 0.5 MG/ML Injectable Solution	245317	EXACT			2026-03-13
-721042	75408	44068911	Epinephrine Intramuscular Solution	OMOP1063542	EXACT			2026-03-13
+721042	75408	36280941	0.3 ML Epinephrine 0.5 MG/ML Pen Injector	OMOP3131816	EXACT			2026-03-31
 721057	75409	793005	0.3 ML epinephrine 1 MG/ML Prefilled Syringe	1989112	EXACT			2026-03-13
-722200	83253	44068911	Epinephrine Intramuscular Solution	OMOP1063542	EXACT			2026-03-13
+722200	83253	2901797	0.3 ML epinephrine 1.67 MG/ML Pen Injector	OMOP5118679	EXACT			2026-03-31
 728447	85059	44814533	epinephrine 1 MG/ML Injectable Solution [Adrenalin]	1490057	EXACT			2026-03-13
 710668	80831	1344245	10 ML epinephrine 0.1 MG/ML Prefilled Syringe	727373	EXACT			2026-03-13
 713649	81446	46275916	1 ML epinephrine 1 MG/ML Injection	1660014	EXACT			2026-03-13

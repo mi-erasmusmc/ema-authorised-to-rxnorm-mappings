@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-701811	78574	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 20 MG / ramipril 2.5 MG Oral Capsule [Trinomia]	2026-03-29
-701814	78574	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 20 MG / ramipril 2.5 MG Oral Capsule [Trinomia]	2026-03-29
-701815	78575	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 20 MG / ramipril 5 MG Oral Capsule [Trinomia]	2026-03-29
-701817	78575	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 20 MG / ramipril 5 MG Oral Capsule [Trinomia]	2026-03-29
-701818	78576	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 20 MG / ramipril 10 MG Oral Capsule [Trinomia]	2026-03-29
-701820	78576	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 20 MG / ramipril 10 MG Oral Capsule [Trinomia]	2026-03-29
-714973	81772	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 40 MG / ramipril 2.5 MG Oral Capsule [Trinomia]	2026-03-29
-714974	81773	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 40 MG / ramipril 5 MG Oral Capsule [Trinomia]	2026-03-29
-714975	81774	40986970	Aspirin / atorvastatin / Ramipril Oral Capsule	OMOP2184932	BROAD	No strength-specific RxNorm standard concept for this 3-ingredient combination	aspirin 100 MG / atorvastatin 40 MG / ramipril 10 MG Oral Capsule [Trinomia]	2026-03-29
+701811	78574	40900902	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 2.5 MG Oral Capsule	OMOP2098864	EXACT			2026-03-31
+701814	78574	40900902	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 2.5 MG Oral Capsule	OMOP2098864	EXACT			2026-03-31
+701815	78575	41244476	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 5 MG Oral Capsule	OMOP2442438	EXACT			2026-03-31
+701817	78575	41244476	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 5 MG Oral Capsule	OMOP2442438	EXACT			2026-03-31
+701818	78576	41275386	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 10 MG Oral Capsule	OMOP2473348	EXACT			2026-03-31
+701820	78576	41275386	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 10 MG Oral Capsule	OMOP2473348	EXACT			2026-03-31
+714973	81772	42684061	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 2.5 MG Oral Capsule	OMOP4912201	EXACT			2026-03-31
+714974	81773	42683628	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 5 MG Oral Capsule	OMOP4912207	EXACT			2026-03-31
+714975	81774	42683622	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 10 MG Oral Capsule	OMOP4912213	EXACT			2026-03-31

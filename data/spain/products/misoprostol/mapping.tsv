@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-702410	77146	40065804	misoprostol Oral Tablet	372941	BROAD	RxNorm does not expose a 400 microgram oral-tablet concept.	misoprostol 0.4 MG Oral Tablet	2026-03-13
-729225	85394	40065804	misoprostol Oral Tablet	372941	BROAD	RxNorm does not expose a 25 microgram oral-tablet concept.	misoprostol 0.025 MG Oral Tablet	2026-03-13
+702410	77146	21122644	Misoprostol 0.4 MG Oral Tablet	OMOP391781	EXACT			2026-03-31
+729225	85394	43026422	Misoprostol 0.025 MG Oral Tablet	OMOP4841519	EXACT			2026-03-31
 990317	58403	1150926	misoprostol 0.2 MG Oral Tablet	317128	EXACT			2026-03-13
 660703	69682	856896	misoprostol Vaginal Tablet	OMOP5579823	BROAD	RxNorm does not expose a 25 microgram vaginal-tablet concept.	misoprostol 0.025 MG Vaginal Insert	2026-03-30
 660705	69683	856895	misoprostol 0.2 MG Vaginal Tablet	OMOP5579822	EXACT			2026-03-13

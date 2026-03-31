@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 710437	80781	19004047	tranexamic acid 500 MG Oral Tablet	104481	EXACT			2026-03-12
 759185	88279	19004047	tranexamic acid 500 MG Oral Tablet	104481	EXACT			2026-03-12
-622100	53939	42629304	tranexamic acid 100 MG/ML Injection	1789855	BROAD	RxNorm does not appear to contain a volume-specific 5 ML tranexamic acid 100 MG/ML injection concept.	5 ML tranexamic acid 100 MG/ML Injection	2026-03-12
+622100	53939	43280702	5 ML Tranexamic Acid 100 MG/ML Injection	OMOP562625	EXACT			2026-03-31
 663212	53940	19004047	tranexamic acid 500 MG Oral Tablet	104481	EXACT			2026-03-12
-700506	53939	42629304	tranexamic acid 100 MG/ML Injection	1789855	BROAD	RxNorm does not appear to contain a volume-specific 5 ML tranexamic acid 100 MG/ML injection concept.	5 ML tranexamic acid 100 MG/ML Injection	2026-03-12
-733089	86353	42629304	tranexamic acid 100 MG/ML Injection	1789855	BROAD	RxNorm does not appear to contain a volume-specific 5 ML tranexamic acid 100 MG/ML injection concept.	5 ML tranexamic acid 100 MG/ML Injection	2026-03-12
+700506	53939	43280702	5 ML Tranexamic Acid 100 MG/ML Injection	OMOP562625	EXACT			2026-03-31
+733089	86353	43280702	5 ML Tranexamic Acid 100 MG/ML Injection	OMOP562625	EXACT			2026-03-31
 733090	86353	19057433	10 ML tranexamic acid 100 MG/ML Injection	238720	EXACT			2026-03-12

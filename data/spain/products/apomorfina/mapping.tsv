@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-665028	72074	837028	apomorphine 10 MG/ML Injectable Solution	199929	BROAD		5 ML apomorphine 10 MG/ML Injection	2026-03-12
+665028	72074	43269797	5 ML Apomorphine 10 MG/ML Injection	OMOP562300	EXACT			2026-03-31
 681975	74401	19129891	10 ML apomorphine 5 MG/ML Prefilled Syringe	793283	EXACT			2026-03-12
 703421	63893	2906463	3 ML apomorphine 10 MG/ML Pen Injector	OMOP5123240	EXACT			2026-03-31
 704154	79174	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT			2026-03-12
@@ -7,7 +7,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 714165	79174	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT			2026-03-12
 729379	85464	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	BROAD		20 ML apomorphine 5 MG/ML Cartridge	2026-03-12
 759980	88396	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT			2026-03-12
-680425	74058	837028	apomorphine 10 MG/ML Injectable Solution	199929	BROAD		5 ML apomorphine 10 MG/ML Injection	2026-03-12
+680425	74058	43269797	5 ML Apomorphine 10 MG/ML Injection	OMOP562300	EXACT			2026-03-31
 763141	88975	1145839	apomorphine Sublingual Film	2371042	BROAD		{2 (apomorphine hydrochloride 10 MG Sublingual Film) / 2 (apomorphine hydrochloride 15 MG Sublingual Film) / 2 (apomorphine hydrochloride 20 MG Sublingual Film) / 2 (apomorphine hydrochloride 25 MG Sublingual Film) / 2 (apomorphine hydrochloride 30 MG Sublingual Film) } Starter Pack	2026-03-12
 763143	88976	1145840	apomorphine hydrochloride 10 MG Sublingual Film	2371043	EXACT			2026-03-12
 763146	88977	1145849	apomorphine hydrochloride 15 MG Sublingual Film	2371052	EXACT			2026-03-12

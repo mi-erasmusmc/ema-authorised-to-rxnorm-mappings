@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/04/284/001	1177480	ibuprofen	5640	BROAD	Standard RxNorm lacks an ibuprofen intravenous neonatal injection concept.	2 ML ibuprofen 5 MG/ML Injection [Pedea]	2026-03-31
+EU/1/04/284/001	21126761	2 ML Ibuprofen 5 MG/ML Injection [Pedea]	OMOP303690	EXACT			2026-03-31

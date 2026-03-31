@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-611509	62759	42620847	Rabbit anti-human T-lymphocyte globulin 20 MG/ML	OMOP2801308	BROAD	RxNorm does not expose a 5 mL Grafalon perfusion presentation	5 ML rabbit anti-human T-lymphocyte globulin 20 MG/ML Injection	2026-03-12
-611517	62759	42620847	Rabbit anti-human T-lymphocyte globulin 20 MG/ML	OMOP2801308	BROAD	RxNorm does not expose a 10 mL Grafalon perfusion presentation	10 ML rabbit anti-human T-lymphocyte globulin 20 MG/ML Injection	2026-03-12
+611509	62759	43681714	5 ML Rabbit anti-human T-lymphocyte globulin 20 MG/ML Injection	OMOP772884	EXACT			2026-03-31
+611517	62759	43682391	10 ML Rabbit anti-human T-lymphocyte globulin 20 MG/ML Injection	OMOP787037	EXACT			2026-03-31
 800425	62650	19009551	rabbit anti-human T-lymphocyte globulin 25 MG Injection	107047	EXACT			2026-03-12
-819524	62759	42620847	Rabbit anti-human T-lymphocyte globulin 20 MG/ML	OMOP2801308	BROAD	RxNorm does not expose a 5 mL Grafalon perfusion presentation	5 ML rabbit anti-human T-lymphocyte globulin 20 MG/ML Injection	2026-03-12
-819938	62759	42620847	Rabbit anti-human T-lymphocyte globulin 20 MG/ML	OMOP2801308	BROAD	RxNorm does not expose a 10 mL Grafalon perfusion presentation	10 ML rabbit anti-human T-lymphocyte globulin 20 MG/ML Injection	2026-03-12
+819524	62759	43681714	5 ML Rabbit anti-human T-lymphocyte globulin 20 MG/ML Injection	OMOP772884	EXACT			2026-03-31
+819938	62759	43682391	10 ML Rabbit anti-human T-lymphocyte globulin 20 MG/ML Injection	OMOP787037	EXACT			2026-03-31

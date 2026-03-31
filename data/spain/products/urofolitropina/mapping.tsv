@@ -7,7 +7,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 697602	77402	1515445	urofollitropin 300 UNT/ML Injectable Solution	348522	EXACT			2026-03-12
 697604	77402	1515445	urofollitropin 300 UNT/ML Injectable Solution	348522	EXACT			2026-03-12
 652311	67122	1515446	urofollitropin 75 UNT Injection	795143	EXACT			2026-03-12
-658417	68441	1515421	urofollitropin 150 UNT/ML Injectable Solution	313561	BROAD	RxNorm has 150 UNT/ML Injectable Solution but not a single-use 150 UNT Injection for this powder vial	urofollitropin 150 UNT Injection	2026-03-13
-658420	68441	1515421	urofollitropin 150 UNT/ML Injectable Solution	313561	BROAD	RxNorm has 150 UNT/ML Injectable Solution but not a single-use 150 UNT Injection for this powder vial	urofollitropin 150 UNT Injection	2026-03-13
-688347	75590	1515421	urofollitropin 150 UNT/ML Injectable Solution	313561	BROAD	RxNorm has 150 UNT/ML Injectable Solution but not a single-use 150 UNT Injection for this powder vial	urofollitropin 150 UNT Injection	2026-03-13
-688348	75590	1515421	urofollitropin 150 UNT/ML Injectable Solution	313561	BROAD	RxNorm has 150 UNT/ML Injectable Solution but not a single-use 150 UNT Injection for this powder vial	urofollitropin 150 UNT Injection	2026-03-13
+658417	68441	21133912	Urofollitropin 150 UNT Injection	OMOP252886	BROAD	Powder-for-injection vial; Injection (single-use) is correct form. No standard RxNorm concept at 150 UNT Injection exists.	urofollitropin 150 UNT Subcutaneous Injection	2026-03-31
+658420	68441	21133912	Urofollitropin 150 UNT Injection	OMOP252886	BROAD	Powder-for-injection vial; Injection (single-use) is correct form. No standard RxNorm concept at 150 UNT Injection exists.	urofollitropin 150 UNT Subcutaneous Injection	2026-03-31
+688347	75590	21133912	Urofollitropin 150 UNT Injection	OMOP252886	BROAD	Powder-for-injection vial (kit with pre-filled solvent); Injection (single-use) is correct form. No standard RxNorm concept at 150 UNT Injection exists.	urofollitropin 150 UNT Subcutaneous Injection	2026-03-31
+688348	75590	21133912	Urofollitropin 150 UNT Injection	OMOP252886	BROAD	Powder-for-injection vial (kit with pre-filled solvent); Injection (single-use) is correct form. No standard RxNorm concept at 150 UNT Injection exists.	urofollitropin 150 UNT Subcutaneous Injection	2026-03-31

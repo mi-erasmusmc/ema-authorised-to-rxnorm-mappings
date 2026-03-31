@@ -1,25 +1,25 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 661137	69896	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
-661138	69897	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
-661139	69898	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
+661138	69897	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
+661139	69898	43766918	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet [Zanipress]	OMOP674030	EXACT			2026-03-31
 661141	69899	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
-661143	69900	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
+661143	69900	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
 661151	69903	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
-699379	77907	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
+699379	77907	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
 699392	77908	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
 703152	78940	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
 703235	78969	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
-706052	79707	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
+706052	79707	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
 706054	79709	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
 706143	79727	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
 706391	79821	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
-706394	79824	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
+706394	79824	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
 714336	81651	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
-714338	81652	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
+714338	81652	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
 725186	83962	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
-706053	79708	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
-706392	79822	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
+706053	79708	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
+706392	79822	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
 706393	79823	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
-718509	82303	19017656	lercanidipine 10 MG Oral Tablet	153680	BROAD	RxNorm does not expose the enalapril/lercanidipine combination tablet.	enalapril 10 MG / lercanidipine 10 MG Oral Tablet	2026-03-13
+718509	82303	43282681	Enalapril 10 MG / lercanidipine 10 MG Oral Tablet	OMOP530580	EXACT			2026-03-31
 718510	82304	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13
 768714	742820150111	2924688	enalapril 20 MG / lercanidipine 10 MG Oral Tablet by Mylan	OMOP5141495	EXACT			2026-03-13

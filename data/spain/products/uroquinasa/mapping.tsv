@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-628370	52638	40085629	urokinase Injectable Solution	378685	BROAD		urokinase 250000 UNT Injectable Solution	2026-03-12
-628602	55422	40085629	urokinase Injectable Solution	378685	BROAD		urokinase 100000 UNT Injectable Solution	2026-03-12
-727616	84735	40085629	urokinase Injectable Solution	378685	BROAD		urokinase 10000 UNT Injectable Solution	2026-03-12
-727617	84736	40085629	urokinase Injectable Solution	378685	BROAD		urokinase 100000 UNT Injectable Solution	2026-03-12
-727618	84737	40085629	urokinase Injectable Solution	378685	BROAD		urokinase 25000 UNT Injectable Solution	2026-03-12
-727619	84738	40085629	urokinase Injectable Solution	378685	BROAD		urokinase 250000 UNT Injectable Solution	2026-03-12
-727620	84739	40085629	urokinase Injectable Solution	378685	BROAD		urokinase 500000 UNT Injectable Solution	2026-03-12
+628370	52638	21095666	Urokinase 250000 UNT Injection	OMOP269834	BROAD		urokinase 250000 UNT Intravenous Injection	2026-03-31
+628602	55422	21066260	Urokinase 100000 UNT Injection	OMOP269798	BROAD		urokinase 100000 UNT Intravenous Injection	2026-03-31
+727616	84735	21036803	Urokinase 10000 UNT Injection	OMOP269822	BROAD		urokinase 10000 UNT Intravenous Injection	2026-03-31
+727617	84736	21066260	Urokinase 100000 UNT Injection	OMOP269798	BROAD		urokinase 100000 UNT Intravenous Injection	2026-03-31
+727618	84737	21036801	Urokinase 25000 UNT Injection	OMOP269789	BROAD		urokinase 25000 UNT Intravenous Injection	2026-03-31
+727619	84738	21095666	Urokinase 250000 UNT Injection	OMOP269834	BROAD		urokinase 250000 UNT Intravenous Injection	2026-03-31
+727620	84739	21124954	Urokinase 500000 UNT Injection	OMOP269811	BROAD		urokinase 500000 UNT Intravenous Injection	2026-03-31

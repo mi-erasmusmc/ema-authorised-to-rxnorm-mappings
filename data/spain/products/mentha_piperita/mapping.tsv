@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-720031	82699	19086712	peppermint oil	33094	BROAD		peppermint oil 187 MG Delayed Release Oral Capsule	2026-03-13
+720031	82699	44084098	Peppermint oil 187 MG Delayed Release Oral Capsule	OMOP1078729	EXACT	Gastro-resistant = delayed release; Colpermin 187 mg.		2026-03-31
 728665	85121	19086712	peppermint oil	33094	BROAD		peppermint oil 181.6 MG Delayed Release Oral Capsule	2026-03-13
 730857	85935	19086712	peppermint oil	33094	BROAD		peppermint oil 182 MG Delayed Release Oral Capsule	2026-03-13
 730858	85935	19086712	peppermint oil	33094	BROAD		peppermint oil 182 MG Delayed Release Oral Capsule	2026-03-13

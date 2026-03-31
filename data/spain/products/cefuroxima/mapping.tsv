@@ -1,14 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 600747	68114	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-13
 600748	68115	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
-606818	76098	46287413	cefuroxime Injection	1665443	BROAD		cefuroxime 50 MG Injection	2026-03-13
-602470	68473	46287413	cefuroxime Injection	1665443	BROAD		cefuroxime 250 MG Injection	2026-03-13
+606818	76098	21081694	Cefuroxime 50 MG Injection	OMOP359568	EXACT	Single-use intracameral vial		2026-03-31
+602470	68473	41024237	Cefuroxime 250 MG Injectable Solution	OMOP2222199	EXACT			2026-03-31
 603017	69956	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
 607313	84566	46287414	cefuroxime 1500 MG Injection	1665444	EXACT			2026-03-12
 607314	84567	46287419	cefuroxime 750 MG Injection	1665449	EXACT			2026-03-12
 618751	62908	46287419	cefuroxime 750 MG Injection	1665449	EXACT			2026-03-13
 618769	62907	46287414	cefuroxime 1500 MG Injection	1665444	EXACT			2026-03-13
-618777	62909	46287413	cefuroxime Injection	1665443	BROAD		cefuroxime 250 MG Injection	2026-03-13
+618777	62909	41024237	Cefuroxime 250 MG Injectable Solution	OMOP2222199	EXACT			2026-03-31
 625889	64948	46287419	cefuroxime 750 MG Injection	1665449	EXACT			2026-03-13
 626085	64949	46287414	cefuroxime 1500 MG Injection	1665444	EXACT			2026-03-13
 638551	58309	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
@@ -86,8 +86,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 714619	80366	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
 728788	62806	1778225	cefuroxime 50 MG/ML Oral Suspension	313926	EXACT			2026-03-13
 851360	62908	46287419	cefuroxime 750 MG Injection	1665449	EXACT			2026-03-13
-851378	62909	46287413	cefuroxime Injection	1665443	BROAD		cefuroxime 250 MG Injection	2026-03-13
-605984	76098	46287413	cefuroxime Injection	1665443	BROAD		cefuroxime 50 MG Injection	2026-03-13
+851378	62909	41024237	Cefuroxime 250 MG Injectable Solution	OMOP2222199	EXACT			2026-03-31
+605984	76098	21081694	Cefuroxime 50 MG Injection	OMOP359568	EXACT	Single-use intracameral vial		2026-03-31
 656195	68098	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
 656222	68097	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
 669956	72248	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
@@ -111,6 +111,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 697838	71017	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
 707226	75051	19075001	cefuroxime 250 MG Oral Tablet	309097	EXACT			2026-03-12
 707227	75055	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-12
-713478	81381	46287413	cefuroxime Injection	1665443	BROAD		cefuroxime 50 MG Injection	2026-03-13
+713478	81381	21081694	Cefuroxime 50 MG Injection	OMOP359568	EXACT	Single-use intracameral vial		2026-03-31
 725928	15-061-88-C-C	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13
 725930	15-061-88-C-C	19075002	cefuroxime 500 MG Oral Tablet	309098	EXACT			2026-03-13

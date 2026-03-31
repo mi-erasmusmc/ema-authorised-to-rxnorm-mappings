@@ -1,18 +1,18 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 617316	48827	40238003	valproic acid 200 MG Delayed Release Oral Tablet	1099772	EXACT			2026-03-12
-617480	54470	40864885	Valproate 500 MG Oral Tablet	OMOP2062847	EXACT			2026-03-12
-650004	54470	40864885	Valproate 500 MG Oral Tablet	OMOP2062847	EXACT			2026-03-12
-650005	54470	40864885	Valproate 500 MG Oral Tablet	OMOP2062847	EXACT			2026-03-12
+617480	54470	40238254	divalproex sodium 500 MG Delayed Release Oral Tablet	1099870	BROAD	sodium valproate 500 mg delayed-release tablet; no valproic acid 500 mg delayed-release tablet in standard RxNorm	valproic acid 500 MG Delayed Release Oral Tablet	2026-03-31
+650004	54470	40238254	divalproex sodium 500 MG Delayed Release Oral Tablet	1099870	BROAD	sodium valproate 500 mg delayed-release tablet; no valproic acid 500 mg delayed-release tablet in standard RxNorm	valproic acid 500 MG Delayed Release Oral Tablet	2026-03-31
+650005	54470	40238254	divalproex sodium 500 MG Delayed Release Oral Tablet	1099870	BROAD	sodium valproate 500 mg delayed-release tablet; no valproic acid 500 mg delayed-release tablet in standard RxNorm	valproic acid 500 MG Delayed Release Oral Tablet	2026-03-31
 650006	48827	40238003	valproic acid 200 MG Delayed Release Oral Tablet	1099772	EXACT			2026-03-12
 650007	48827	40238003	valproic acid 200 MG Delayed Release Oral Tablet	1099772	EXACT			2026-03-12
-650008	48828	40154898	valproate Oral Solution	808657	BROAD	RxNorm does not appear to contain a 200 MG/ML sodium valproate oral solution concept.	valproate 200 MG/ML Oral Solution	2026-03-12
-671081	48828	40154898	valproate Oral Solution	808657	BROAD	RxNorm does not appear to contain a 200 MG/ML sodium valproate oral solution concept.	valproate 200 MG/ML Oral Solution	2026-03-12
-671131	60351	40154894	valproate Extended Release Oral Tablet	808572	BROAD	Spain chrono 300 mg is a mixed sodium valproate/valproic acid prolonged-release tablet; no exact 300 mg standard concept was found.	divalproex sodium 300 MG Extended Release Oral Tablet	2026-03-12
+650008	48828	36892728	Valproate 200 MG/ML Oral Solution	OMOP991674	EXACT			2026-03-31
+671081	48828	36892728	Valproate 200 MG/ML Oral Solution	OMOP991674	EXACT			2026-03-31
+671131	60351	40154894	valproate Extended Release Oral Tablet	808572	BROAD	Depakine Chrono 300 mg is a 2:1 molar mix of sodium valproate and valproic acid; no 300 mg extended-release tablet in standard RxNorm	valproic acid 300 MG Extended Release Oral Tablet	2026-03-31
 671149	60350	40238256	divalproex sodium 500 MG Extended Release Oral Tablet	1099572	EXACT			2026-03-12
 726898	84516	40238256	divalproex sodium 500 MG Extended Release Oral Tablet	1099572	EXACT			2026-03-12
-726906	84517	40154894	valproate Extended Release Oral Tablet	808572	BROAD	Spain chrono 300 mg is a mixed sodium valproate/valproic acid prolonged-release tablet; no exact 300 mg standard concept was found.	divalproex sodium 300 MG Extended Release Oral Tablet	2026-03-12
-728593	85097	40154898	valproate Oral Solution	808657	BROAD	RxNorm does not appear to contain a 200 MG/ML sodium valproate oral solution concept.	valproate 200 MG/ML Oral Solution	2026-03-12
-766452	90007	40237992	valproic acid 100 MG/ML	1099647	EXACT			2026-03-12
-656030	68033	1593786	valproate Injection	1867729	BROAD	Powder-for-solution injectable presentation lacks a clean 400 MG standard concept in RxNorm.	valproate 400 MG Injection	2026-03-12
-691840	60352	1593786	valproate Injection	1867729	BROAD	Powder-for-solution injectable presentation lacks a clean 400 MG standard concept in RxNorm.	valproate 400 MG Injection	2026-03-12
+726906	84517	40154894	valproate Extended Release Oral Tablet	808572	BROAD	Depakine Chrono 300 mg generic; no 300 mg extended-release tablet in standard RxNorm	valproic acid 300 MG Extended Release Oral Tablet	2026-03-31
+728593	85097	36892728	Valproate 200 MG/ML Oral Solution	OMOP991674	EXACT			2026-03-31
+766452	90007	36278730	4 ML Valproate 100 MG/ML Injection	OMOP3129605	EXACT			2026-03-31
+656030	68033	21141938	Valproate 400 MG Injection	OMOP383138	EXACT			2026-03-31
+691840	60352	21141938	Valproate 400 MG Injection	OMOP383138	EXACT			2026-03-31
 725108	419721021-06-2011	40238256	divalproex sodium 500 MG Extended Release Oral Tablet	1099572	EXACT			2026-03-12

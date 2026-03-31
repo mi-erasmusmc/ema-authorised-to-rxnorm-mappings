@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 651465	66861	19112640	fenofibrate 145 MG Oral Tablet	477560	EXACT			2026-03-15
-658193	68298	1551870	fenofibrate 160 MG	379822	BROAD	No exact 160 MG oral-capsule concept found in local RxNorm; source is a hard capsule.	fenofibrate 160 MG Oral Capsule	2026-03-13
+658193	68298	42938209	Fenofibrate 160 MG Oral Capsule	OMOP4664890	EXACT			2026-03-31
 660059	69367	1551838	fenofibrate 160 MG Oral Tablet	349287	EXACT			2026-03-15
 660060	69368	19077245	fenofibrate 200 MG Oral Capsule	310289	EXACT			2026-03-13
 660061	69369	19077245	fenofibrate 200 MG Oral Capsule	310289	EXACT			2026-03-13

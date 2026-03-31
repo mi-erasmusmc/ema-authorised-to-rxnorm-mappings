@@ -13,7 +13,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 654028	67639	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
 659787	69229	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
 659788	69229	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
-664607	71852	19022244	clarithromycin 500 MG/ML Injectable Solution	199710	BROAD	No standard RxNorm concept for 500 mg/vial lyophilised powder for solution for infusion	clarithromycin 500 MG Injection	2026-03-12
+664607	71852	21123288	Clarithromycin 500 MG Injection	OMOP403791	EXACT	Lyophilised powder vial; prior concept (500 MG/ML Injectable Solution) was incorrect concentration		2026-03-31
 670240	63380	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
 672686	72876	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
 672687	72874	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
@@ -27,7 +27,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 693485	67638	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
 693737	64824	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
 694071	75638	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
-694570	60202	19022244	clarithromycin 500 MG/ML Injectable Solution	199710	BROAD	No standard RxNorm concept for 500 mg/vial lyophilised powder for solution for infusion	clarithromycin 500 MG Injection	2026-03-12
+694570	60202	21123288	Clarithromycin 500 MG Injection	OMOP403791	EXACT	Klacid brand; Klaricid RxNorm brand is different name; unbranded extension used. Prior concept (500 MG/ML) was incorrect.		2026-03-31
 694889	64591	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
 694985	72876	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
 695433	64666	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
@@ -65,7 +65,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 654024	67637	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
 654630	67898	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
 654635	67898	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
-665070	72129	19022244	clarithromycin 500 MG/ML Injectable Solution	199710	BROAD	No standard RxNorm concept for 500 mg/vial lyophilised powder for solution for infusion	clarithromycin 500 MG Injection	2026-03-12
+665070	72129	21123288	Clarithromycin 500 MG Injection	OMOP403791	EXACT	Powder vial; prior concept (500 MG/ML Injectable Solution) was incorrect concentration		2026-03-31
 676395	63383	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
 679039	73809	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
 679047	73809	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
@@ -95,9 +95,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 714639	81715	1750501	clarithromycin 250 MG Oral Tablet	197516	EXACT			2026-03-12
 756783	59462	19058072	clarithromycin 25 MG/ML Oral Suspension	240741	EXACT			2026-03-12
 756809	59464	19058072	clarithromycin 25 MG/ML Oral Suspension	240741	EXACT			2026-03-12
-760660	60593	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	clarithromycin 500 MG Granules for Oral Suspension Sachet	2026-03-12
-761015	60518	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	clarithromycin 500 MG Granules for Oral Suspension Sachet	2026-03-12
-762005	60593	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	clarithromycin 500 MG Granules for Oral Suspension Sachet	2026-03-12
+760660	60593	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	clarithromycin 500 MG Granules for Oral Suspension	2026-03-31
+761015	60518	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	clarithromycin 500 MG Granules for Oral Suspension	2026-03-31
+762005	60593	40029800	clarithromycin Oral Suspension	371539	BROAD	No standard RxNorm concept for 500 mg granules for oral suspension (sachet)	clarithromycin 500 MG Granules for Oral Suspension	2026-03-31
 830604	63383	1750569	clarithromycin 500 MG Extended Release Oral Tablet	259543	EXACT			2026-03-12
 870857	64663	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12
 870865	64663	1750562	clarithromycin 500 MG Oral Tablet	197517	EXACT			2026-03-12

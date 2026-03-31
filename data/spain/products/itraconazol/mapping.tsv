@@ -19,11 +19,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 697028	71234	19078728	itraconazole 100 MG Oral Capsule	311204	EXACT			2026-03-13
 697583	77398	19078728	itraconazole 100 MG Oral Capsule	311204	EXACT			2026-03-13
 697584	77398	19078728	itraconazole 100 MG Oral Capsule	311204	EXACT			2026-03-13
-697800	77459	1703653	itraconazole	28031	BROAD	RxNorm lacks an exact 50 MG oral capsule concept.	itraconazole 50 MG Oral Capsule	2026-03-13
+697800	77459	43283237	Itraconazole 50 MG Oral Capsule	OMOP535690	EXACT			2026-03-31
 697978	59343	1703661	itraconazole 100 MG Oral Capsule [Sporanox]	833164	EXACT			2026-03-13
 697979	59343	1703661	itraconazole 100 MG Oral Capsule [Sporanox]	833164	EXACT			2026-03-13
-701154	77459	1703653	itraconazole	28031	BROAD	RxNorm lacks an exact 50 MG oral capsule concept.	itraconazole 50 MG Oral Capsule	2026-03-13
-701397	78446	19078729	itraconazole 10 MG/ML Injectable Solution	311205	BROAD	Spain source is concentrate and solvent for solution for infusion in a 25 ML presentation; RxNorm lacks the exact perfusion-ready concept.	25 ML itraconazole 10 MG/ML Injectable Solution	2026-03-13
+701154	77459	43283237	Itraconazole 50 MG Oral Capsule	OMOP535690	EXACT			2026-03-31
+701397	78446	36895862	25 ML Itraconazole 10 MG/ML Injectable Solution	OMOP996524	EXACT			2026-03-31
 702701	78838	19078728	itraconazole 100 MG Oral Capsule	311204	EXACT			2026-03-13
 702702	78838	19078728	itraconazole 100 MG Oral Capsule	311204	EXACT			2026-03-13
 703028	71196	19078728	itraconazole 100 MG Oral Capsule	311204	EXACT			2026-03-13
