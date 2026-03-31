@@ -1,5 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/16/1165/001	1151789	etanercept	214555	BROAD			2025-12-04
+EU/1/16/1165/001	21122043	Etanercept 10 MG Injection	OMOP380748	EXACT			2026-03-31
 EU/1/16/1165/002	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2025-12-04
 EU/1/16/1165/003	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2025-12-04
 EU/1/16/1165/004	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2025-12-04
