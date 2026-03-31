@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1851/001	859005	DELGOCITINIB 0.02 MG/MG Topical Cream	OMOP5581932	EXACT			2025-12-04
-EU/1/24/1851/002	859005	DELGOCITINIB 0.02 MG/MG Topical Cream	OMOP5581932	BROAD			2025-12-04
-EU/1/24/1851/003	859005	DELGOCITINIB 0.02 MG/MG Topical Cream	OMOP5581932	EXACT			2025-12-04
+EU/1/24/1851/001	37353891	delgocitinib 20 MG/ML Topical Cream [Anzupgo]	2721172	EXACT			2026-03-31
+EU/1/24/1851/002	37353891	delgocitinib 20 MG/ML Topical Cream [Anzupgo]	2721172	EXACT			2026-03-31
+EU/1/24/1851/003	37353891	delgocitinib 20 MG/ML Topical Cream [Anzupgo]	2721172	EXACT			2026-03-31

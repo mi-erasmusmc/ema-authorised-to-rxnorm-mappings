@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1887/001	40244268	0.05 ML aflibercept 40 MG/ML Injection	1232154	EXACT			2025-12-04
-EU/1/24/1887/002	1735855	0.05 ML aflibercept 40 MG/ML Prefilled Syringe	2693564	EXACT			
+EU/1/24/1887/001	40244268	0.05 ML aflibercept 40 MG/ML Injection	1232154	BROAD		0.05 ML aflibercept-xxxx 40 MG/ML Injection [Baiama]	2026-03-31
+EU/1/24/1887/002	1735855	0.05 ML aflibercept 40 MG/ML Prefilled Syringe	2693564	BROAD		0.05 ML aflibercept-xxxx 40 MG/ML Prefilled Syringe [Baiama]	2026-03-31

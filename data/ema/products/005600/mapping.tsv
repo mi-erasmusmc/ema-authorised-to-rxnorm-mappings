@@ -53,7 +53,7 @@ EU/1/21/1588/051	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-01-
 EU/1/21/1588/052	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-01-02
 EU/1/21/1588/053	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-01-02
 EU/1/21/1588/054	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-01-02
-EU/1/21/1588/055	45777059	{42 (rivaroxaban 15 MG Oral Tablet) / 9 (rivaroxaban 20 MG Oral Tablet) } Pack	1549682	EXACT	extra two tablets, don't matter, they will contineu with 20 MG onwards after inital 42 15 MG tablets		2026-01-02
+EU/1/21/1588/055	45777059	{42 (rivaroxaban 15 MG Oral Tablet) / 9 (rivaroxaban 20 MG Oral Tablet) } Pack	1549682	BROAD	EU pack has 42 x 15 mg + 7 x 20 mg (49 tablets); RxNorm concept has 42 x 15 mg + 9 x 20 mg	{42 (rivaroxaban 15 MG Oral Tablet) / 7 (rivaroxaban 20 MG Oral Tablet) } Pack	2026-03-31
 EU/1/21/1588/056	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-01-02
 EU/1/21/1588/057	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-01-02
 EU/1/21/1588/058	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-01-02
@@ -63,4 +63,4 @@ EU/1/21/1588/061	35200878	rivaroxaban 2.5 MG Oral Tablet	2059015	EXACT			2026-01
 EU/1/21/1588/062	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-01-02
 EU/1/21/1588/063	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-01-02
 EU/1/21/1588/064	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-01-02
-EU/1/21/1588/065	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			
+EU/1/21/1588/065	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-03-31

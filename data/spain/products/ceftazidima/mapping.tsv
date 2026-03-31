@@ -25,6 +25,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 607081	79992	46275520	ceftazidime 2000 MG Injection	1659287	EXACT			2026-03-12
 607179	83902	46275520	ceftazidime 2000 MG Injection	1659287	EXACT			2026-03-12
 607842	89855	46275516	ceftazidime 1000 MG Injection	1659283	EXACT			2026-03-12
-635052	56612	46275518	ceftazidime 1000 MG Injection [Fortaz]	1659285	BROAD	Spanish Fortam brand does not match US Fortaz; mapped to closest branded strength concept	ceftazidime 1000 MG Injection [Fortam]	2026-03-12
-635078	56613	46275522	ceftazidime 2000 MG Injection [Fortaz]	1659289	BROAD	Spanish Fortam brand does not match US Fortaz; mapped to closest branded strength concept	ceftazidime 2000 MG Injection [Fortam]	2026-03-12
-964262	56612	46275518	ceftazidime 1000 MG Injection [Fortaz]	1659285	BROAD	Spanish Fortam brand does not match US Fortaz; mapped to closest branded strength concept	ceftazidime 1000 MG Injection [Fortam]	2026-03-12
+635052	56612	46275516	ceftazidime 1000 MG Injection	1659283	EXACT			2026-03-31
+635078	56613	46275520	ceftazidime 2000 MG Injection	1659287	EXACT			2026-03-31
+964262	56612	46275516	ceftazidime 1000 MG Injection	1659283	EXACT			2026-03-31

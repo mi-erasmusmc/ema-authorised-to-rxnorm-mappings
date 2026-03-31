@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-718780	82368	19078612	indocyanine green	5775	BROAD		indocyanine green 25 MG Injection	2026-03-12
+718780	82368	21091791	Indocyanine Green 25 MG Injection	OMOP365245	EXACT	Single-use powder-for-solution vial aligns to Injection; skipped supplier/box Extension rows.		2026-03-31

@@ -34,7 +34,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 672698	72906	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 672699	72909	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 676635	61272	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-679927	73962	35861885	azithromycin 100 MG/ML	OMOP5018084	EXACT			2026-03-12
+679927	73962	35603389	azithromycin 500 MG Injection	1668238	EXACT	Single-use IV powder-for-infusion vial aligns to Injection.		2026-03-31
 693770	59615	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 694336	76718	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 698033	77507	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
@@ -56,11 +56,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726059	65617	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 726125	65617	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 726331	65621	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-728330	85006	35861885	azithromycin 100 MG/ML	OMOP5018084	EXACT			2026-03-12
+728330	85006	35603389	azithromycin 500 MG Injection	1668238	EXACT	Single-use IV powder-for-infusion vial aligns to Injection.		2026-03-31
 728881	65634	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 752790	65714	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 764514	65748	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-767475	64834	35861885	azithromycin 100 MG/ML	OMOP5018084	EXACT			2026-03-12
+767475	64834	35603389	azithromycin 500 MG Injection	1668238	EXACT	Single-use IV powder-for-infusion vial aligns to Injection.		2026-03-31
 781583	59615	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 781591	59616	1734107	azithromycin 250 MG Oral Capsule	141962	EXACT			2026-03-12
 602078	65633	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12

@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-700391	78203	43715092	terlipressin 0.118 MG/ML Injectable Solution	OMOP711002	EXACT			
-656807	61412	40102804	terlipressin Injectable Solution	377210	EXACT			2026-03-12
-663839	71539	40102804	terlipressin Injectable Solution	377210	EXACT			2026-03-12
-664100	71539	40102804	terlipressin Injectable Solution	377210	EXACT			2026-03-12
-665446	72359	40102804	terlipressin Injectable Solution	377210	BROAD			2026-03-12
-705045	79485	40102804	terlipressin Injectable Solution	377210	BROAD			2026-03-12
+700391	78203	43715092	terlipressin 0.118 MG/ML Injectable Solution	OMOP711002	EXACT			2026-03-31
+656807	61412	21065301	terlipressin 1 MG Injection	OMOP252576	EXACT			2026-03-31
+663839	71539	21065301	terlipressin 1 MG Injection	OMOP252576	EXACT			2026-03-31
+664100	71539	21065301	terlipressin 1 MG Injection	OMOP252576	EXACT			2026-03-31
+665446	72359	43715092	terlipressin 0.118 MG/ML Injectable Solution	OMOP711002	BROAD		terlipressin 0.118 MG/ML Injection	2026-03-31
+705045	79485	43715092	terlipressin 0.118 MG/ML Injectable Solution	OMOP711002	BROAD		terlipressin 0.118 MG/ML Injection	2026-03-31
 720471	82806	19007068	terlipressin 0.2 MG/ML Injectable Solution	105440	EXACT			2026-03-12
 720473	82807	19007068	terlipressin 0.2 MG/ML Injectable Solution	105440	EXACT			2026-03-12

@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-653931	60918	43713154	levocabastine 0.5 MG/ML Nasal Suspension	OMOP677326	EXACT			2026-03-13
+653931	60918	19021860	levocabastine 0.5 MG/ML Nasal Spray	199477	EXACT	Source is a nasal spray presentation; switched from the unsupported nasal-suspension concept to the valid spray concept.		2026-03-31
 682096	60920	907556	levocabastine 0.5 MG/ML Ophthalmic Suspension	311293	EXACT			2026-03-13
-682104	60919	43713154	levocabastine 0.5 MG/ML Nasal Suspension	OMOP677326	EXACT			2026-03-13
-682112	60918	43713154	levocabastine 0.5 MG/ML Nasal Suspension	OMOP677326	EXACT			2026-03-13
+682104	60919	19021860	levocabastine 0.5 MG/ML Nasal Spray	199477	EXACT	Source is a nasal spray presentation; switched from the unsupported nasal-suspension concept to the valid spray concept.		2026-03-31
+682112	60918	19021860	levocabastine 0.5 MG/ML Nasal Spray	199477	EXACT	Source is a nasal spray presentation; switched from the unsupported nasal-suspension concept to the valid spray concept.		2026-03-31
 682120	60917	907556	levocabastine 0.5 MG/ML Ophthalmic Suspension	311293	EXACT			2026-03-13
