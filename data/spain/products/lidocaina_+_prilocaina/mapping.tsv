@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-679290	61096	19092597	lidocaine 0.025 MG/MG / prilocaine 0.025 MG/MG [EMLA]	546649	EXACT			2026-03-13
-702060	78664	19092597	lidocaine 0.025 MG/MG / prilocaine 0.025 MG/MG [EMLA]	546649	EXACT			2026-03-13
-713325	113881002	40001297	lidocaine / prilocaine Topical Cream	377743	BROAD	No lidocaine/prilocaine topical spray concept in RxNorm for Fortacin 150mg/ml+50mg/ml	lidocaine 150 MG/ML / prilocaine 50 MG/ML Cutaneous Spray	2026-03-13
-725125	83948	19092597	lidocaine 0.025 MG/MG / prilocaine 0.025 MG/MG [EMLA]	546649	EXACT			2026-03-13
-727807	84812	19092597	lidocaine 0.025 MG/MG / prilocaine 0.025 MG/MG [EMLA]	546649	EXACT			2026-03-13
+679290	61096	19033317	lidocaine 25 MG/ML / prilocaine 25 MG/ML Topical Cream [EMLA]	206726	EXACT			2026-03-30
+702060	78664	989898	lidocaine 25 MG/ML / prilocaine 25 MG/ML Topical Cream	197877	EXACT			2026-03-30
+713325	113881002	40747247	Lidocaine 150 MG/ML / Prilocaine 50 MG/ML Topical Spray	OMOP4709950	EXACT			2026-03-30
+725125	83948	989898	lidocaine 25 MG/ML / prilocaine 25 MG/ML Topical Cream	197877	EXACT			2026-03-30
+727807	84812	989898	lidocaine 25 MG/ML / prilocaine 25 MG/ML Topical Cream	197877	EXACT			2026-03-30
 651148	66719	40169810	lidocaine 25 MG/ML / prilocaine 25 MG/ML Mucous Membrane Topical Solution [Oraqix]	897117	EXACT			2026-03-13
-679487	73848	19092597	lidocaine 0.025 MG/MG / prilocaine 0.025 MG/MG [EMLA]	546649	EXACT			2026-03-13
-704206	79196	19092597	lidocaine 0.025 MG/MG / prilocaine 0.025 MG/MG [EMLA]	546649	EXACT			2026-03-13
+679487	73848	989898	lidocaine 25 MG/ML / prilocaine 25 MG/ML Topical Cream	197877	EXACT			2026-03-30
+704206	79196	989898	lidocaine 25 MG/ML / prilocaine 25 MG/ML Topical Cream	197877	EXACT			2026-03-30

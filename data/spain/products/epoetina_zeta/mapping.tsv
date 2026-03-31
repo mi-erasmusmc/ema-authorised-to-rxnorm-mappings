@@ -2,16 +2,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 706824	109573036	36409996	1 ML Epoetin theta 10000 UNT/ML Injectable Solution	OMOP3102038	EXACT			2025-12-04
 706825	109573030	36411799	0.5 ML Epoetin theta 4000 UNT/ML Injectable Solution	OMOP3103841	EXACT			2025-12-04
 706826	109573037	36409734	1 ML Epoetin theta 20000 UNT/ML Injectable Solution	OMOP3101776	EXACT			2025-12-04
-706827	109573031	21174583	Epoetin theta 6000 UNT/ML [Eporatio]	OMOP275524	BROAD	No volume-specific epoetin theta 6000 UNT/ML concept in RxNorm	0.5 ML Epoetin theta 6000 UNT/ML Injectable Solution [Eporatio]	2026-03-30
+706827	109573031	36411841	0.5 ML Epoetin theta 6000 UNT/ML Injectable Solution [Eporatio]	OMOP3103883	EXACT			2026-03-30
 706828	109573040	36409681	1 ML Epoetin theta 30000 UNT/ML Injectable Solution	OMOP3101723	EXACT			2025-12-04
 706829	109573032	36405818	Epoetin theta 4000 UNT/ML Injectable Solution	OMOP3097860	EXACT			2025-12-04
-706830	109573033	21056745	Epoetin theta 10000 UNT/ML [Eporatio]	OMOP275549	BROAD	No volume-specific epoetin theta 10000 UNT/ML concept in RxNorm	0.5 ML Epoetin theta 10000 UNT/ML Injectable Solution [Eporatio]	2026-03-30
+706830	109573033	36411840	0.5 ML Epoetin theta 10000 UNT/ML Injectable Solution [Eporatio]	OMOP3103882	EXACT			2026-03-30
 706831	109573029	36411647	0.5 ML Epoetin theta 2000 UNT/ML Injectable Solution	OMOP3103689	EXACT			2025-12-04
 663887	09573001	36411647	0.5 ML Epoetin theta 2000 UNT/ML Injectable Solution	OMOP3103689	EXACT			2026-03-13
 663889	09573003	36411799	0.5 ML Epoetin theta 4000 UNT/ML Injectable Solution	OMOP3103841	EXACT			2026-03-13
-663891	09573005	21174583	Epoetin theta 6000 UNT/ML [Eporatio]	OMOP275524	BROAD	No volume-specific epoetin theta 6000 UNT/ML concept in RxNorm	0.5 ML Epoetin theta 6000 UNT/ML Injectable Solution [Eporatio]	2026-03-30
-663893	09573007	21076498	Epoetin theta 8000 UNT/ML [Eporatio]	OMOP275542	BROAD	No volume-specific epoetin theta 8000 UNT/ML concept in RxNorm	0.5 ML Epoetin theta 8000 UNT/ML Injectable Solution [Eporatio]	2026-03-30
-663895	09573009	21056745	Epoetin theta 10000 UNT/ML [Eporatio]	OMOP275549	BROAD	No volume-specific epoetin theta 10000 UNT/ML concept in RxNorm	0.5 ML Epoetin theta 10000 UNT/ML Injectable Solution [Eporatio]	2026-03-30
+663891	09573005	36411841	0.5 ML Epoetin theta 6000 UNT/ML Injectable Solution [Eporatio]	OMOP3103883	EXACT			2026-03-30
+663893	09573007	36411619	0.5 ML Epoetin theta 8000 UNT/ML Injectable Solution [Eporatio]	OMOP3103661	EXACT			2026-03-30
+663895	09573009	36411840	0.5 ML Epoetin theta 10000 UNT/ML Injectable Solution [Eporatio]	OMOP3103882	EXACT			2026-03-30
 663897	09573015	36409996	1 ML Epoetin theta 10000 UNT/ML Injectable Solution	OMOP3102038	EXACT			2026-03-13
 663900	09573017	36409734	1 ML Epoetin theta 20000 UNT/ML Injectable Solution	OMOP3101776	EXACT			2026-03-13
 663902	09573023	36409681	1 ML Epoetin theta 30000 UNT/ML Injectable Solution	OMOP3101723	EXACT			2026-03-13

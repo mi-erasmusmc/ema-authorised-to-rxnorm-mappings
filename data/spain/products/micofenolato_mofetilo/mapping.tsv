@@ -15,9 +15,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 676435	73170	19022826	mycophenolate mofetil 500 MG Oral Tablet	200060	EXACT			2026-03-12
 679373	96005002	19004039	mycophenolate mofetil 500 MG Oral Tablet [Cellcept]	616435	EXACT			2026-03-12
 679381	96005001	19004061	mycophenolate mofetil 250 MG Oral Capsule [Cellcept]	616447	EXACT			2026-03-12
-680417	74052	19004035	mycophenolate mofetil 250 MG	316316	BROAD	No 250 MG Oral Tablet concept in RxNorm	mycophenolate mofetil 250 MG Oral Tablet	2026-03-12
+680417	74052	41021923	mycophenolate mofetil 250 MG Oral Tablet	OMOP2219885	EXACT			2026-03-30
 680418	74053	19022826	mycophenolate mofetil 500 MG Oral Tablet	200060	EXACT			2026-03-12
-680931	74159	19004035	mycophenolate mofetil 250 MG	316316	BROAD	No 250 MG Oral Tablet concept in RxNorm	mycophenolate mofetil 250 MG Oral Tablet	2026-03-12
+680931	74159	41021923	mycophenolate mofetil 250 MG Oral Tablet	OMOP2219885	EXACT			2026-03-30
 683032	74562	19022826	mycophenolate mofetil 500 MG Oral Tablet	200060	EXACT			2026-03-12
 684094	74712	19022826	mycophenolate mofetil 500 MG Oral Tablet	200060	EXACT			2026-03-12
 684836	74825	19021102	mycophenolate mofetil 250 MG Oral Capsule	199058	EXACT			2026-03-12
@@ -27,7 +27,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 704620	79323	19022826	mycophenolate mofetil 500 MG Oral Tablet	200060	EXACT			2026-03-12
 704622	79324	19021102	mycophenolate mofetil 250 MG Oral Capsule	199058	EXACT			2026-03-12
 705107	79507	19004034	mycophenolate mofetil 500 MG Injection	311881	EXACT			2026-03-12
-707835	80224	19004035	mycophenolate mofetil 250 MG	316316	BROAD	No 250 MG Oral Tablet concept in RxNorm	mycophenolate mofetil 250 MG Oral Tablet	2026-03-12
+707835	80224	41021923	mycophenolate mofetil 250 MG Oral Tablet	OMOP2219885	EXACT			2026-03-30
 707836	80225	19022826	mycophenolate mofetil 500 MG Oral Tablet	200060	EXACT			2026-03-12
 712075	96005005	19004032	mycophenolate mofetil 500 MG Injection [Cellcept]	213394	EXACT			2026-03-12
 721385	83029	19022826	mycophenolate mofetil 500 MG Oral Tablet	200060	EXACT			2026-03-12

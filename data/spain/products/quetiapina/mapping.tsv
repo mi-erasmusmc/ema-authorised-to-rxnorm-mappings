@@ -236,7 +236,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728186	84958	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 728187	84959	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 728189	84960	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
-728215	84969	766814	quetiapine	51272	BROAD	no RxNorm concept for 600 mg ER tablet	quetiapine 600 MG Extended Release Oral Tablet	2026-03-12
+728215	84969	35886639	quetiapine 600 MG Extended Release Oral Tablet	OMOP5034047	EXACT			2026-03-30
 730360	85764	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
 730361	85765	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
 730362	85766	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
@@ -256,8 +256,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 760138	88406	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
 764606	89457	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
 767619	90311	766923	quetiapine 50 MG Oral Tablet	616487	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
-767867	90369	766814	quetiapine	51272	BROAD	no standard RxNorm oral solution concept; extension concept exists but oral solution vs suspension ambiguous	quetiapine 25 MG/ML Oral Solution	2026-03-12
-769517	90369	766814	quetiapine	51272	BROAD	no standard RxNorm oral solution concept; extension concept exists but oral solution vs suspension ambiguous	quetiapine 25 MG/ML Oral Solution	2026-03-12
+767867	90369	21033138	quetiapine 25 MG/ML Oral Suspension	OMOP369552	EXACT			2026-03-30
+769517	90369	21033138	quetiapine 25 MG/ML Oral Suspension	OMOP369552	EXACT			2026-03-30
 870063	63054	766815	quetiapine 25 MG Oral Tablet [Seroquel]	153638	EXACT			2026-03-12
 870089	63055	766816	quetiapine 100 MG Oral Tablet [Seroquel]	153639	EXACT			2026-03-12
 870105	63056	19017556	quetiapine 200 MG Oral Tablet [Seroquel]	153640	EXACT			2026-03-12

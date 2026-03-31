@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 700700	65396	903647	tretinoin 10 MG Oral Capsule [Vesanoid]	153595	EXACT			2026-03-12
-686436	52751	40091090	tretinoin Topical Cream	377828	BROAD			2026-03-12
-695569	60142	19019860	tretinoin 1 MG/ML Topical Cream	198300	BROAD			2026-03-12
-695577	60141	19008620	tretinoin 0.5 MG/ML Topical Cream	106303	BROAD			2026-03-12
-695585	60140	19008619	tretinoin 0.25 MG/ML Topical Cream	106302	BROAD			2026-03-12
+686436	52751	40091090	tretinoin Topical Cream	377828	BROAD		tretinoin 4 MG/G Topical Cream	2026-03-30
+695569	60142	19019860	tretinoin 1 MG/ML Topical Cream	198300	BROAD		tretinoin 1 MG/G Topical Cream	2026-03-30
+695577	60141	19008620	tretinoin 0.5 MG/ML Topical Cream	106303	BROAD		tretinoin 0.5 MG/G Topical Cream	2026-03-30
+695585	60140	19008619	tretinoin 0.25 MG/ML Topical Cream	106302	BROAD		tretinoin 0.25 MG/G Topical Cream	2026-03-30

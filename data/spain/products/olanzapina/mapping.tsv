@@ -298,7 +298,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 706246	99125001IP	785842	olanzapine 5 MG Disintegrating Oral Tablet	314155	EXACT			2026-03-12
 706247	96022004IP1	19079154	olanzapine 5 MG Oral Tablet	312078	EXACT			2026-03-12
 707066	99125001IP1	785842	olanzapine 5 MG Disintegrating Oral Tablet	314155	EXACT			2026-03-12
-712878	109592002	19079155	olanzapine 7.5 MG Oral Tablet	312079	BROAD	no 7.5 MG Disintegrating Oral Tablet in RxNorm; mapped to matching strength oral tablet	olanzapine 7.5 MG Disintegrating Oral Tablet	2026-03-12
+712878	109592002	43661643	olanzapine 7.5 MG Disintegrating Oral Tablet	OMOP901220	EXACT			2026-03-30
 751281	96022004IP2	19079154	olanzapine 5 MG Oral Tablet	312078	EXACT			2026-03-12
 758203	96022004IP3	19079154	olanzapine 5 MG Oral Tablet	312078	EXACT			2026-03-12
 758482	96022009IP	785821	olanzapine 10 MG Oral Tablet	314154	EXACT			2026-03-12

@@ -36,6 +36,7 @@ Issue types:
 """
 
 import argparse
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -111,8 +112,32 @@ def parse_args():
     return args
 
 
-def format_summary_line(folder_name: str, counts: Counter) -> str:
-    parts = [f"{counts[t]} {t}" for t in ISSUE_TYPES if counts[t] > 0]
+def _normalize_invalid_reason(msg: str) -> str:
+    """Strip 'line N:' prefix and collapse quoted values so identical errors cluster."""
+    msg = re.sub(r"^\s*line \d+:\s*", "", msg)
+    msg = re.sub(r"'[^']*'", "'…'", msg)
+    return msg
+
+
+def format_summary_line(folder_name: str, counts: Counter, issues: list = None) -> str:
+    parts = []
+    for t in ISSUE_TYPES:
+        if counts[t] > 0:
+            if t == "INVALID" and issues:
+                reason_counts = Counter(
+                    _normalize_invalid_reason(i["des_dcp"])
+                    for i in issues if i["issue"] == "INVALID" and i["des_dcp"]
+                )
+                if reason_counts:
+                    lines = "\n  ".join(
+                        f"{c}x {r}" if c > 1 else r
+                        for r, c in reason_counts.most_common()
+                    )
+                    parts.append(f"{counts[t]} INVALID\n  {lines}")
+                else:
+                    parts.append(f"{counts[t]} INVALID")
+            else:
+                parts.append(f"{counts[t]} {t}")
     return f"{folder_name}\t{', '.join(parts)}"
 
 
@@ -181,7 +206,7 @@ def main():
         print(f"# {len(folder_issues)} folders with issues, {total_issues} total\n")
         for folder, issues in ranked:
             counts = Counter(i["issue"] for i in issues)
-            print(format_summary_line(folder.name, counts))
+            print(format_summary_line(folder.name, counts, issues))
 
 
 if __name__ == "__main__":

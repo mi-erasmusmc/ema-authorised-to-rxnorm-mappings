@@ -9,7 +9,7 @@ Validates:
 - concept_id is a number or empty
 - mapping_type is EXACT, BROAD, NO_MAPPING, or empty
 - EXACT and BROAD require concept_id, concept_name, and concept_code (use NO_MAPPING if no mapping exists)
-- suggestion is not identical to concept_name
+- suggestion is not identical to concept_name, including a concept_name plus only a [brand] suffix
 - suggestion is not a stray YYYY-MM-DD value
 - suggestion does not contain pipe-delimited pseudo-records
 - non-empty suggestions contain a recognized RxNorm dose form
@@ -49,6 +49,15 @@ EXACT_NO_DOSE_FORM_EXEMPT_CODES = {
     # Not marketed in the US; no standard RxNorm concepts exist.
     "OMOP4776211",  # Beclomethasone 0.084 MG/ACTUAT / formoterol 0.005 MG/ACTUAT / glycopyrronium 0.009 MG/ACTUAT Inhalant Solution [Trimbow]
     "OMOP4711822",  # Beclomethasone 0.084 MG/ACTUAT / formoterol 0.005 MG/ACTUAT / glycopyrronium 0.009 MG/ACTUAT Inhalant Powder [Trimbow]
+    # OMOP extension concept for amorolfine medicated nail lacquer.
+    # Uses "Medicated nail lacquer", a European dose form term not in RxNorm's standard vocabulary.
+    # No standard RxNorm nail lacquer concept exists.
+    "OMOP412029",   # Amorolfine 50 MG/ML Medicated nail lacquer
+    # OMOP extension concepts for misoprostol vaginal presentations.
+    # "Vaginal Tablet" and "Vaginal delivery system" are EU dose form terms not in RxNorm's standard vocabulary.
+    # No standard RxNorm vaginal-tablet or vaginal-delivery-system concept for misoprostol exists.
+    "OMOP5579822",  # misoprostol 0.2 MG Vaginal Tablet
+    "OMOP3120717",  # Misoprostol 0.2 MG Vaginal delivery system
 }
 
 VALID_MAPPING_TYPES = {"EXACT", "BROAD", "NO_MAPPING", ""}
@@ -203,9 +212,9 @@ def validate_file(path: str) -> list[str]:
                             f"  {line}: suggestion must not equal concept_name"
                         )
                     m = BRAND_SUFFIX_RE.fullmatch(suggestion)
-                    if mt == "BROAD" and m and m.group("base") == concept_name:
+                    if m and m.group("base").casefold() == concept_name.casefold():
                         errors.append(
-                            f"  {line}: BROAD suggestion must not differ from concept_name only by brand suffix"
+                            f"  {line}: suggestion must not differ from concept_name only by brand suffix"
                         )
                     if DATE_RE.fullmatch(suggestion):
                         errors.append(

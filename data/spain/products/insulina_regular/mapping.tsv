@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-710008	80664	19078555	insulin, regular, human 100 UNT/ML Injectable Solution	311034	BROAD	RxNorm has only a broader human regular-insulin solution concept for the Humulina Regular vial	10 ML insulin, regular, human 100 UNT/ML Injectable Solution [Humulin R]	2026-03-12
+710008	80664	19078555	insulin, regular, human 100 UNT/ML Injectable Solution	311034	EXACT			2026-03-30
 775502	02230003	19012678	insulin, regular, human 100 UNT/ML Injectable Solution [Human Actrapid]	150973	BROAD	RxNorm has a branded Human Actrapid solution concept but not an explicit 10 mL vial presentation	10 ML insulin, regular, human 100 UNT/ML Injectable Solution [Human Actrapid]	2026-03-12
 775536	02230011	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT	Actrapid Innolet mapped to unbranded 3 mL regular-human pen concept; no branded Innolet concept found		2026-03-12

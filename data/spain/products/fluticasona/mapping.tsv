@@ -1,24 +1,24 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 654514	67852	36250141	fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797907	EXACT			2026-03-13
-662353	61972	40171042	fluticasone propionate 0.5 MG/ACTUAT	896217	EXACT	Trialona Accuhaler 500 mcg/actuation DPI; RxNorm 0.5 MG/ACTUAT fluticasone propionate clinical drug concept matches the strength precisely.		2026-03-13
+662353	61972	40171042	fluticasone propionate 0.5 MG/ACTUAT	896217	BROAD	Accuhaler 500 mcg/actuation DPI; no fluticasone propionate 0.5 MG/ACTUAT Dry Powder Inhaler concept in standard RxNorm.	fluticasone propionate 0.5 MG/ACTUAT Dry Powder Inhaler	2026-03-30
 662361	61971	42902447	fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler	1359560	EXACT	Trialona Accuhaler 100 mcg/actuation DPI; RxNorm 0.1 MG/ACTUAT Dry Powder Inhaler is a precise match.		2026-03-13
-665562	61788	40171037	fluticasone propionate 0.25 MG/ACTUAT	896024	EXACT			2026-03-13
+665562	61788	40171037	fluticasone propionate 0.25 MG/ACTUAT	896024	BROAD	EU 250 mcg pMDI; no fluticasone propionate 0.25 MG/ACTUAT Metered Dose Inhaler concept in standard RxNorm.	fluticasone propionate 0.25 MG/ACTUAT Metered Dose Inhaler	2026-03-30
 665570	61787	2070692	fluticasone 0.05 MG/ACTUAT Inhalation Suspension	OMOP4972249	EXACT			2026-03-13
-686097	60691	40171042	fluticasone propionate 0.5 MG/ACTUAT	896217	EXACT	Inalacor Accuhaler 500 mcg/actuation DPI; RxNorm 0.5 MG/ACTUAT fluticasone propionate concept matches the strength precisely.		2026-03-13
+686097	60691	40171042	fluticasone propionate 0.5 MG/ACTUAT	896217	BROAD	Accuhaler 500 mcg/actuation DPI; no fluticasone propionate 0.5 MG/ACTUAT Dry Powder Inhaler concept in standard RxNorm.	fluticasone propionate 0.5 MG/ACTUAT Dry Powder Inhaler	2026-03-30
 686139	60689	42902447	fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler	1359560	EXACT	Inalacor Accuhaler 100 mcg/actuation DPI; RxNorm 0.1 MG/ACTUAT Dry Powder Inhaler is a precise match.		2026-03-13
-686154	60688	40171037	fluticasone propionate 0.25 MG/ACTUAT	896024	EXACT			2026-03-13
+686154	60688	40171037	fluticasone propionate 0.25 MG/ACTUAT	896024	BROAD	EU 250 mcg pMDI; no fluticasone propionate 0.25 MG/ACTUAT Metered Dose Inhaler concept in standard RxNorm.	fluticasone propionate 0.25 MG/ACTUAT Metered Dose Inhaler	2026-03-30
 686196	60686	2070692	fluticasone 0.05 MG/ACTUAT Inhalation Suspension	OMOP4972249	EXACT			2026-03-13
-689042	60530	40171042	fluticasone propionate 0.5 MG/ACTUAT	896217	EXACT	Flusonal Accuhaler 500 mcg/actuation DPI; RxNorm 0.5 MG/ACTUAT fluticasone propionate concept matches the strength precisely.		2026-03-13
+689042	60530	40171042	fluticasone propionate 0.5 MG/ACTUAT	896217	BROAD	Accuhaler 500 mcg/actuation DPI; no fluticasone propionate 0.5 MG/ACTUAT Dry Powder Inhaler concept in standard RxNorm.	fluticasone propionate 0.5 MG/ACTUAT Dry Powder Inhaler	2026-03-30
 689083	60528	42902447	fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler	1359560	EXACT	Flusonal Accuhaler 100 mcg/actuation DPI; RxNorm 0.1 MG/ACTUAT Dry Powder Inhaler is a precise match.		2026-03-13
-689109	60527	40171037	fluticasone propionate 0.25 MG/ACTUAT	896024	EXACT			2026-03-13
+689109	60527	40171037	fluticasone propionate 0.25 MG/ACTUAT	896024	BROAD	EU 250 mcg pMDI; no fluticasone propionate 0.25 MG/ACTUAT Metered Dose Inhaler concept in standard RxNorm.	fluticasone propionate 0.25 MG/ACTUAT Metered Dose Inhaler	2026-03-30
 689141	60525	2070692	fluticasone 0.05 MG/ACTUAT Inhalation Suspension	OMOP4972249	EXACT			2026-03-13
 689679	60483	36250141	fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797907	EXACT			2026-03-13
-689687	60482	40171042	fluticasone propionate 0.5 MG/ACTUAT	896217	EXACT	Flixotide Accuhaler 500 mcg/actuation DPI; RxNorm 0.5 MG/ACTUAT fluticasone propionate concept matches the strength precisely.		2026-03-13
+689687	60482	40171042	fluticasone propionate 0.5 MG/ACTUAT	896217	BROAD	Accuhaler 500 mcg/actuation DPI; no fluticasone propionate 0.5 MG/ACTUAT Dry Powder Inhaler concept in standard RxNorm.	fluticasone propionate 0.5 MG/ACTUAT Dry Powder Inhaler	2026-03-30
 689729	60480	42902447	fluticasone propionate 0.1 MG/ACTUAT Dry Powder Inhaler	1359560	EXACT	Flixotide Accuhaler 100 mcg/actuation DPI; RxNorm 0.1 MG/ACTUAT Dry Powder Inhaler is a precise match.		2026-03-13
-689745	60479	40171037	fluticasone propionate 0.25 MG/ACTUAT	896024	EXACT			2026-03-13
+689745	60479	40171037	fluticasone propionate 0.25 MG/ACTUAT	896024	BROAD	EU 250 mcg pMDI; no fluticasone propionate 0.25 MG/ACTUAT Metered Dose Inhaler concept in standard RxNorm.	fluticasone propionate 0.25 MG/ACTUAT Metered Dose Inhaler	2026-03-30
 689786	60477	2070692	fluticasone 0.05 MG/ACTUAT Inhalation Suspension	OMOP4972249	EXACT			2026-03-13
-705031	79477	40171029	fluticasone propionate 0.11 MG/ACTUAT	895998	EXACT			2026-03-13
-705033	79478	40171033	fluticasone propionate 0.22 MG/ACTUAT	896003	EXACT			2026-03-13
+705031	79477	42903220	fluticasone propionate 0.11 MG/ACTUAT Metered Dose Inhaler	1360333	EXACT	EU 125 mcg pMDI maps to US 0.11 MG/ACTUAT (Flovent HFA 110 mcg); metered vs delivered dose labeling difference.		2026-03-30
+705033	79478	42902960	fluticasone propionate 0.22 MG/ACTUAT Metered Dose Inhaler	1360073	EXACT	EU 250 mcg pMDI maps to US 0.22 MG/ACTUAT (Flovent HFA 220 mcg); metered vs delivered dose labeling difference.		2026-03-30
 706809	79947	36250141	fluticasone propionate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797907	EXACT			2026-03-13
 726516	84405	35147990	fluticasone Inhalation Powder	OMOP4805056	BROAD	Fluticasone Aldo-Union 0.25 mg/mL nebuliser suspension; no exact fluticasone 0.25 MG/ML Inhalation Suspension concept found in RxNorm.	fluticasone 0.25 MG/ML Inhalation Suspension	2026-03-13
 726517	84406	35147990	fluticasone Inhalation Powder	OMOP4805056	BROAD	Fluticasone Aldo-Union 1 mg/mL nebuliser suspension; no exact fluticasone 1 MG/ML Inhalation Suspension concept found in RxNorm.	fluticasone 1 MG/ML Inhalation Suspension	2026-03-13

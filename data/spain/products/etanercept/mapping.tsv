@@ -11,5 +11,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 655950	99126013	19132639	0.5 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	809159	BROAD	EU 25 mg/1 mL prefilled syringe; US RxNorm concept is 25 mg/0.5 mL (50 MG/ML) — same dose, different concentration.	1 ML etanercept 25 MG/ML Prefilled Syringe [Enbrel]	2026-03-30
 655953	99126017	19131494	1 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	802652	EXACT			2026-03-12
 663133	99126020	46234063	1 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	1653225	EXACT			2026-03-12
-684644	99126022	37002664	etanercept Injection [Enbrel]	2392141	BROAD		etanercept 10 MG Injection [Enbrel]	2026-03-12
+684644	99126022	21161533	Etanercept 10 MG Injection [Enbrel Paediatric]	OMOP380750	EXACT			2026-03-30
 839282	99126003	37002664	etanercept Injection [Enbrel]	2392141	BROAD		etanercept 25 MG Injection [Enbrel]	2026-03-12

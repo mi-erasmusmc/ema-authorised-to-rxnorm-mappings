@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 651539	59078	19062961	sertaconazole 20 MG/ML Topical Cream	250511	EXACT			2026-03-12
 651547	59077	19062961	sertaconazole 20 MG/ML Topical Cream	250511	EXACT			2026-03-12
-660183	62087	40100559	sertaconazole Topical Cream	377931	BROAD	Vaginal cream; no sertaconazole vaginal cream concept in RxNorm	sertaconazole 20 MG/G Vaginal Cream	2026-03-13
+660183	62087	939134	sertaconazole	36435	BROAD	Vaginal cream; no sertaconazole vaginal cream concept in RxNorm; Topical Cream avoided as it implies wrong route.	sertaconazole 20 MG/G Vaginal Cream	2026-03-30
 660209	62086	939134	sertaconazole	36435	BROAD	500mg vaginal tablet; no sertaconazole vaginal insert concept in RxNorm	sertaconazole 500 MG Vaginal Insert	2026-03-13
-743039	59799	40100559	sertaconazole Topical Cream	377931	BROAD	Topical powder; no sertaconazole topical powder concept in RxNorm	sertaconazole 20 MG/G Topical Powder	2026-03-13
-743351	59804	40100559	sertaconazole Topical Cream	377931	BROAD	Topical solution; no sertaconazole topical solution concept in RxNorm	sertaconazole 20 MG/ML Topical Solution	2026-03-13
+743039	59799	939134	sertaconazole	36435	BROAD	Topical powder; no sertaconazole topical powder concept in RxNorm; Topical Cream avoided as it implies wrong dose form.	sertaconazole 20 MG/G Topical Powder	2026-03-30
+743351	59804	41270928	sertaconazole 20 MG/ML Topical Solution	OMOP2468890	EXACT			2026-03-30
 811729	59077	19062961	sertaconazole 20 MG/ML Topical Cream	250511	EXACT			2026-03-12
 811737	59078	19062961	sertaconazole 20 MG/ML Topical Cream	250511	EXACT			2026-03-12

@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-682809	72848	40165018	meperidine hydrochloride 50 MG/ML	861462	EXACT			2026-03-12
-682810	72848	40165018	meperidine hydrochloride 50 MG/ML	861462	EXACT			2026-03-12
-700769	24245	40165018	meperidine hydrochloride 50 MG/ML	861462	EXACT			2026-03-12
-700770	24245	40165018	meperidine hydrochloride 50 MG/ML	861462	EXACT			2026-03-12
-764459	89406	40165018	meperidine hydrochloride 50 MG/ML	861462	EXACT			2026-03-12
-764460	89406	40165018	meperidine hydrochloride 50 MG/ML	861462	EXACT			2026-03-12
-795062	24245	40165018	meperidine hydrochloride 50 MG/ML	861462	EXACT			2026-03-12
-795351	24245	40165018	meperidine hydrochloride 50 MG/ML	861462	EXACT			2026-03-12
+682809	72848	46287476	1 ML meperidine hydrochloride 50 MG/ML Injection	1665697	EXACT			2026-03-30
+682810	72848	46287474	meperidine hydrochloride 50 MG/ML Injection	1665692	BROAD		2 ML meperidine hydrochloride 50 MG/ML Injection	2026-03-30
+700769	24245	46287476	1 ML meperidine hydrochloride 50 MG/ML Injection	1665697	EXACT			2026-03-30
+700770	24245	46287476	1 ML meperidine hydrochloride 50 MG/ML Injection	1665697	EXACT			2026-03-30
+764459	89406	46287476	1 ML meperidine hydrochloride 50 MG/ML Injection	1665697	EXACT			2026-03-30
+764460	89406	46287474	meperidine hydrochloride 50 MG/ML Injection	1665692	BROAD		2 ML meperidine hydrochloride 50 MG/ML Injection	2026-03-30
+795062	24245	46287474	meperidine hydrochloride 50 MG/ML Injection	1665692	BROAD		2 ML meperidine hydrochloride 50 MG/ML Injection	2026-03-30
+795351	24245	46287474	meperidine hydrochloride 50 MG/ML Injection	1665692	BROAD		2 ML meperidine hydrochloride 50 MG/ML Injection	2026-03-30

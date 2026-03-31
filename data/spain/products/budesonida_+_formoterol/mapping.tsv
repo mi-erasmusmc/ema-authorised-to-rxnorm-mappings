@@ -1,11 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-723297	114920001	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-13
+723297	114920001	21082057	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	OMOP365871	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-30
 723298	114920004	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04
 723299	78803	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2026-03-13
-723300	78807	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-13
+723300	78807	21082057	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	OMOP365871	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-30
 723301	78808	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2026-03-13
-723302	78813	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-13
-723304	114921001	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-13
+723302	78813	21082057	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	OMOP365871	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-30
+723304	114921001	21082057	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	OMOP365871	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-30
 723305	114921004	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2026-03-13
 723306	64354	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD	RxNorm does not expose a clearly matching dry-powder combo concept for the 80/4.5 Turbuhaler presentation.	budesonide 80 MCG / formoterol fumarate 4.5 MCG Dry Powder Inhaler	2026-03-13
 723307	81115	42708509	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]	1246306	EXACT			2026-03-13
@@ -13,9 +13,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 723311	63956	35133500	Budesonide / formoterol Inhalation Powder	OMOP4790710	BROAD	RxNorm does not expose a clearly matching dry-powder combo concept for the 80/4.5 Turbuhaler presentation.	budesonide 80 MCG / formoterol fumarate 4.5 MCG Dry Powder Inhaler [Symbicort]	2026-03-13
 723312	65045	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2026-03-13
 723313	65044	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2026-03-13
-723314	63958	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT			2026-03-13
-723315	64353	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-13
-723825	83517	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-13
+723314	63958	21082057	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	OMOP365871	EXACT			2026-03-30
+723315	64353	21082057	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	OMOP365871	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-30
+723825	83517	21082057	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	OMOP365871	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-30
 730557	85833	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2026-03-13
-731458	83517	36883004	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Inhalant Powder	OMOP1002809	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-13
+731458	83517	21082057	Budesonide 0.2 MG/ACTUAT / formoterol 0.006 MG/ACTUAT Dry Powder Inhaler	OMOP365871	EXACT	RxNorm uses the dry-powder metered presentation equivalent for the 160/4.5 inhalation powder products.		2026-03-30
 728894	85232	42708505	120 ACTUAT budesonide 0.08 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler [Symbicort]	1246290	EXACT	Spain labels the delivered 80/2.25 strength; RxNorm encodes the matching Symbicort pMDI at the metered 80/4.5 per-actuation presentation.		2026-03-13

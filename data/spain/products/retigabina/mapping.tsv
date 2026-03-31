@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 677677	11681001	40240009	ezogabine 50 MG Oral Tablet	1113007	EXACT			2026-03-12
-677678	11681004	40240012	ezogabine Oral Tablet	1112992	BROAD	No 100 MG strength in RxNorm; mapped to ezogabine Oral Tablet clinical drug form.	ezogabine 100 MG Oral Tablet	2026-03-12
+677678	11681004	21119614	ezogabine 100 MG Oral Tablet	OMOP305993	EXACT			2026-03-30
 677679	11681007	40239997	ezogabine 200 MG Oral Tablet	1112993	EXACT			2026-03-12
 677680	11681009	40240001	ezogabine 300 MG Oral Tablet	1112999	EXACT			2026-03-12
 677681	11681011	40240005	ezogabine 400 MG Oral Tablet	1113003	EXACT			2026-03-12

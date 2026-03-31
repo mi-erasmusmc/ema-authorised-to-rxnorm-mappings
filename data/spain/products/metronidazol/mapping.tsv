@@ -14,7 +14,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 693738	62223	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			2026-03-12
 699566	35034	19035112	metronidazole 250 MG Oral Tablet [Flagyl]	207287	EXACT			2026-03-12
 727289	84614	19080187	metronidazole 250 MG Oral Tablet	314106	EXACT			2026-03-12
-758177	34985	1707164	metronidazole	6922	BROAD		metronidazole 500 MG Vaginal Insert	2026-03-12
+758177	34985	35862265	metronidazole 500 MG Vaginal Insert	OMOP5018846	EXACT			2026-03-30
 764180	89284	1707164	metronidazole	6922	BROAD		metronidazole 1000 MG Vaginal Insert	2026-03-12
 935478	63884	1707344	metronidazole 0.0075 MG/MG Topical Gel	311679	EXACT			2026-03-12
 600773	68162	1707348	100 ML metronidazole 5 MG/ML Injection	311683	EXACT			2026-03-12

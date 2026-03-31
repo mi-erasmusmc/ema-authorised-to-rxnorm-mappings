@@ -13,4 +13,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 727956	1191413	1314867	azacitidine 100 MG Injection	485246	EXACT			2026-03-13
 728730	85133	1314867	azacitidine 100 MG Injection	485246	EXACT			2026-03-13
 730418	85786	1314867	azacitidine 100 MG Injection	485246	EXACT			2026-03-13
-748648	1191413	35604287	azacitidine Injection	1726497	BROAD	RxNorm does not expose a 150 mg azacitidine injection concept.	azacitidine 150 MG Injection	2026-03-30
+748648	1191413	2065470	azacitidine 150 MG Injection	OMOP4966804	EXACT			2026-03-30

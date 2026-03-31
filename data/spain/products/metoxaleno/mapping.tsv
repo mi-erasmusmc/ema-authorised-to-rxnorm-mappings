@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607130	82826	905242	methoxsalen 0.02 MG/ML	332212	BROAD			
-607470	86543	905242	methoxsalen 0.02 MG/ML	332212	BROAD			
-656811	29008	905224	methoxsalen 10 MG Oral Capsule	197947	EXACT			
-664505	70858	905242	methoxsalen 0.02 MG/ML	332212	BROAD			
+607130	82826	905230	methoxsalen 0.02 MG/ML Injectable Solution	282561	EXACT	Extracorporeal photopheresis solution; RxNorm classifies as Injectable Solution.		2026-03-30
+607470	86543	905230	methoxsalen 0.02 MG/ML Injectable Solution	282561	EXACT	Extracorporeal photopheresis solution; RxNorm classifies as Injectable Solution.		2026-03-30
+656811	29008	905224	methoxsalen 10 MG Oral Capsule	197947	EXACT			2026-03-30
+664505	70858	19098374	methoxsalen 0.02 MG/ML Injectable Solution [Uvadex]	352083	EXACT	Uvadex brand matches RxNorm branded concept; extracorporeal photopheresis solution.		2026-03-30
