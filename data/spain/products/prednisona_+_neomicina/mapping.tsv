@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-797746	26533	40071905	neomycin / prednisolone Topical Ointment	376404	BROAD			2026-03-12
+797746	26533	40071905	neomycin / prednisolone Topical Ointment	376404	BROAD	RxNorm has only a topical ointment concept, not the ophthalmic prednisone presentation	neomycin 3.5 MG/GM / prednisone 5 MG/GM Ophthalmic Ointment	2026-03-31

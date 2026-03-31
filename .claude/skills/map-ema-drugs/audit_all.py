@@ -149,6 +149,9 @@ def main():
     for folder in discover_folders(products_dir):
         issues = audit_folder(folder)
         if issues:
+            # Suppress NO_DATE-only folders — a missing date suffix is not actionable
+            if all(i["issue"] == "NO_DATE" for i in issues):
+                continue
             folder_issues[folder] = issues
 
     core.run_reporter(folder_issues, args, ISSUE_TYPES)

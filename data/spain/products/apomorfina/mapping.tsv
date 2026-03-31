@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 665028	72074	837028	apomorphine 10 MG/ML Injectable Solution	199929	BROAD		5 ML apomorphine 10 MG/ML Injection	2026-03-12
 681975	74401	19129891	10 ML apomorphine 5 MG/ML Prefilled Syringe	793283	EXACT			2026-03-12
-703421	63893	40162458	3 ML apomorphine hydrochloride 10 MG/ML Cartridge	855856	BROAD		3 ML apomorphine hydrochloride 10 MG/ML Prefilled Pen	2026-03-12
+703421	63893	2906463	3 ML apomorphine 10 MG/ML Pen Injector	OMOP5123240	EXACT			2026-03-31
 704154	79174	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT			2026-03-12
 711308	80998	42903398	apomorphine hydrochloride 10 MG/ML Cartridge	1360511	EXACT			2026-03-12
 714165	79174	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT			2026-03-12

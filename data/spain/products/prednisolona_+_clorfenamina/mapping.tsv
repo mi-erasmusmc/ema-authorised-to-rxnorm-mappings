@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-703249	40886	40073454	prednisolone Oral Solution	373575	BROAD			2026-03-12
+703249	40886	40073454	prednisolone Oral Solution	373575	BROAD	RxNorm lacks the prednisolone / chlorpheniramine combination oral liquid	prednisolone 0.46 MG/ML / chlorpheniramine 0.25 MG/ML Oral Suspension	2026-03-31

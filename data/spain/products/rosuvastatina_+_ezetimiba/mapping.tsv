@@ -25,8 +25,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 759975	88392	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747	EXACT			2026-03-12
 759976	88393	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
 759978	88394	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
-760531	88437	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-760532	88438	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
+760531	88437	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+760532	88438	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
 762453	88748	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
 762454	88749	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
 762455	88750	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747	EXACT			2026-03-12
@@ -42,20 +42,20 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 765695	89805	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
 768618	90607	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
 768619	90606	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
-703598	79051	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
-703615	79053	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-729569	22082	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-729584	22082IP	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-729585	22083IP	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
-729587	22083	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
-730646	22083IP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
-730647	22082IP1	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
+703598	79051	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
+703615	79053	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+729569	22082	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+729584	22082IP	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+729585	22083IP	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
+729587	22083	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
+730646	22083IP1	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
+730647	22082IP1	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
 732407	24220	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
 732449	31-511-16-C	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
 732450	31-365-17-C	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
 733104	86678	36026845	ezetimibe 10 MG / rosuvastatin 5 MG Oral Tablet	2535747	EXACT			2026-03-12
-760588	22082IP2	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-760589	22083IP2	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
+760588	22082IP2	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+760589	22083IP2	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
 762861	31-511-16-CIP1	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
 762870	31-365-17-CIP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
 762975	31-511-16-CIP2	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
@@ -68,12 +68,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 765259	3147917CIP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
 765302	3147817CIP1	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
 766695	20180338	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
-767033	3135514C	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
+767033	3135514C	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
 767701	3147917CIP2	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
-768615	3135414C	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-768616	3135514CIP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
-768841	043496037	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-768842	043496102IP1	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
-768848	3135414CIP	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-769719	3135414CIP1	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	BROAD		ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	2026-03-12
-769720	3135514CIP2	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	BROAD		ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	2026-03-12
+768615	3135414C	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+768616	3135514CIP1	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
+768841	043496037	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+768842	043496102IP1	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
+768848	3135414CIP	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+769719	3135414CIP1	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
+769720	3135514CIP2	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31

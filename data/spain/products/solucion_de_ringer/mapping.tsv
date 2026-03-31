@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-614727	21340	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	EXACT			
-621680	65354	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	EXACT			
-607439	60265	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	BROAD	product label states 0.25 mg/ml CaCl2; no exact concept; mapped to 0.33 MG/ML Ringer		2026-03-12
-633974	60265	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	BROAD	product label states 0.33 mg/ml CaCl2; KABIPAC second pack size		2026-03-12
-637074	57280	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	BROAD	product label states 0.25 mg/ml CaCl2; no exact concept; Ringer Grifols		2026-03-12
+614727	21340	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	EXACT			2026-03-31
+621680	65354	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	EXACT			2026-03-31
+607439	60265	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	BROAD	product label states 0.25 mg/ml CaCl2; no exact standard RxNorm concept	500 ML calcium chloride 0.25 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injection	2026-03-31
+633974	60265	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	EXACT			2026-03-31
+637074	57280	968982	calcium chloride 0.33 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injectable Solution	847617	BROAD	product label states 0.25 mg/ml CaCl2; no exact standard RxNorm concept	500 ML calcium chloride 0.25 MG/ML / potassium chloride 0.3 MG/ML / sodium chloride 8.6 MG/ML Injection	2026-03-31
