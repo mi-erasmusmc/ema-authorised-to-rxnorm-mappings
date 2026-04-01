@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/20/1478/001	1537275	bupivacaine 29.3 MG/ML / meloxicam 0.88 MG/ML Injection [Zynrelef]	2560314	EXACT			2025-12-04
+EU/1/20/1478/001	1537275	bupivacaine 29.3 MG/ML / meloxicam 0.88 MG/ML Injection [Zynrelef]	2560314	BROAD	No 4.6 ML standard RxNorm concept found	4.6 ML bupivacaine 29.3 MG/ML / meloxicam 0.88 MG/ML Injection [Zynrelef]	2026-04-01
 EU/1/20/1478/002	1537628	10.5 ML bupivacaine 29.3 MG/ML / meloxicam 0.88 MG/ML Injection [Zynrelef]	2560309	EXACT			2025-12-04
-EU/1/20/1478/003	1537275	bupivacaine 29.3 MG/ML / meloxicam 0.88 MG/ML Injection [Zynrelef]	2560314	EXACT			2025-12-04
+EU/1/20/1478/003	1537275	bupivacaine 29.3 MG/ML / meloxicam 0.88 MG/ML Injection [Zynrelef]	2560314	BROAD	No 18.6 ML standard RxNorm concept found	18.6 ML bupivacaine 29.3 MG/ML / meloxicam 0.88 MG/ML Injection [Zynrelef]	2026-04-01

@@ -1,6 +1,6 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1015/001	35603118	asfotase alfa 40 MG/ML Injection [Strensiq]	1720270	EXACT			2025-12-04
-EU/1/15/1015/002	35603118	asfotase alfa 40 MG/ML Injection [Strensiq]	1720270	EXACT			2025-12-04
+EU/1/15/1015/001	35603118	asfotase alfa 40 MG/ML Injection [Strensiq]	1720270	BROAD		0.3 ML asfotase alfa 40 MG/ML Injection [Strensiq]	2026-04-01
+EU/1/15/1015/002	35603118	asfotase alfa 40 MG/ML Injection [Strensiq]	1720270	BROAD		0.3 ML asfotase alfa 40 MG/ML Injection [Strensiq]	2026-04-01
 EU/1/15/1015/003	35603126	0.8 ML asfotase alfa 100 MG/ML Injection [Strensiq]	1720280	EXACT			2025-12-04
 EU/1/15/1015/004	35603126	0.8 ML asfotase alfa 100 MG/ML Injection [Strensiq]	1720280	EXACT			2025-12-04
 EU/1/15/1015/005	35603116	0.45 ML asfotase alfa 40 MG/ML Injection [Strensiq]	1720268	EXACT			2025-12-04

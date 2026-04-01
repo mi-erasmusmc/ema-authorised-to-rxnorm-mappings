@@ -16,6 +16,7 @@ Issue dict schema (returned by run_common_checks and validate_folder_issues):
 
 import argparse
 import csv
+import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -71,6 +72,67 @@ def make_issue(issue, source_id, description, concept_id, concept_name, mapping_
         "concept_name": clean(concept_name),
         "mapping_type": clean(mapping_type),
     }
+
+
+def extract_ml(text):
+    match = re.search(r"(\d+(?:[.,]\d+)?)\s*ml\b", clean(text), flags=re.IGNORECASE)
+    if not match:
+        return None
+    return match.group(1).replace(",", ".")
+
+
+def normalize_numeric_string(value):
+    value = clean(value)
+    if not value:
+        return value
+    try:
+        number = float(value)
+    except ValueError:
+        return value.lower()
+    if number.is_integer():
+        return str(int(number))
+    return format(number, "g")
+
+
+def needs_volume_review(
+    data_row,
+    concept_name,
+    *,
+    description_key,
+    unit_key=None,
+    form_key=None,
+    route_key=None,
+    injectable_unit_markers=(),
+    injectable_form_markers=(),
+    route_skip_markers=(),
+    concept_dose_form="injection",
+    strength_marker="mg/ml",
+):
+    description = clean(data_row.get(description_key, ""))
+    volume = extract_ml(description)
+    if not volume:
+        return False
+
+    unit_value = clean(data_row.get(unit_key, "")).lower() if unit_key else ""
+    form_value = clean(data_row.get(form_key, "")).lower() if form_key else ""
+    route_value = clean(data_row.get(route_key, "")).lower() if route_key else ""
+    if injectable_unit_markers or injectable_form_markers:
+        unit_matches = any(marker in unit_value for marker in injectable_unit_markers)
+        form_matches = any(marker in form_value for marker in injectable_form_markers)
+        if not unit_matches and not form_matches:
+            return False
+    if route_skip_markers and any(marker in route_value for marker in route_skip_markers):
+        return False
+
+    concept_lower = clean(concept_name).lower()
+    if concept_dose_form and concept_dose_form not in concept_lower:
+        return False
+    if strength_marker and strength_marker not in concept_lower:
+        return False
+    prefix_match = re.match(r"^(?P<volume>\d+(?:\.\d+)?)\s*ml\b", concept_lower)
+    if not prefix_match:
+        return True
+    return normalize_numeric_string(prefix_match.group("volume")) != normalize_numeric_string(volume)
 
 
 # ── Common checks ──────────────────────────────────────────────────────────────

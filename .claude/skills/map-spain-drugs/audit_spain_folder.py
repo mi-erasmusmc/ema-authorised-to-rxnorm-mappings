@@ -33,7 +33,6 @@ Issue types:
 """
 
 import argparse
-import re
 import sys
 from collections import Counter
 from pathlib import Path
@@ -78,30 +77,6 @@ def make_issue(issue, cod, nro_definitivo, des_dcp, concept_id, concept_name, ma
         "concept_name": core.clean(concept_name),
         "mapping_type": core.clean(mapping_type),
     }
-
-
-def extract_ml(text):
-    match = re.search(r"(\d+(?:[.,]\d+)?)\s*ml\b", text, flags=re.IGNORECASE)
-    if not match:
-        return None
-    return match.group(1).replace(",", ".")
-
-
-def needs_volume_review(data_row, concept_name):
-    des_dcp = core.clean(data_row.get("des_dcp", ""))
-    unit = core.clean(data_row.get("unidad_contenido", "")).lower()
-    form = core.clean(data_row.get("forma_farmaceutica", "")).lower()
-    volume = extract_ml(des_dcp)
-    if not volume:
-        return False
-    if "inye" not in unit and "inyect" not in form:
-        return False
-    concept_lower = core.clean(concept_name).lower()
-    if "injection" not in concept_lower:
-        return False
-    if "mg/ml" not in concept_lower:
-        return False
-    return not concept_lower.startswith(f"{volume} ml ")
 
 
 def branded_signature_key(data_row):
@@ -229,7 +204,15 @@ def audit_folder(folder: Path, suppressed: set = None):
         if source_nro and mapped_nro and source_nro != mapped_nro:
             issues.append(make_issue("NRO_MISMATCH", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
 
-        if mapping_type == "EXACT" and needs_volume_review(data_row, concept):
+        if mapping_type == "EXACT" and core.needs_volume_review(
+            data_row,
+            concept,
+            description_key="des_dcp",
+            unit_key="unidad_contenido",
+            form_key="forma_farmaceutica",
+            injectable_unit_markers=("inye",),
+            injectable_form_markers=("inyect",),
+        ):
             issues.append(make_issue("REVIEW_VOLUME", cod, mapped_nro, des_dcp, concept_id, concept, mapping_type))
 
     # Spain-specific: INCONSISTENT_CONCEPT

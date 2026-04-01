@@ -29,6 +29,7 @@ Issue types:
     NO_CONCEPT        - mapping row with empty concept_id
     NO_TYPE           - mapping row with concept_id but empty mapping_type
     BROAD             - mapping row with mapping_type=BROAD missing suggestion
+    REVIEW_VOLUME     - likely single-use injectable mapped to a concentration-only concept
     DUPLICATE_DATA    - duplicate ma_number in parsed_data
     DUPLICATE_MAPPING - duplicate ma_number in mapping.tsv
     INVALID           - mapping.tsv fails structural validation
@@ -49,6 +50,7 @@ ISSUE_TYPES = [
     "NO_CONCEPT",
     "NO_TYPE",
     "BROAD",
+    "REVIEW_VOLUME",
     "DUPLICATE_DATA",
     "DUPLICATE_MAPPING",
     "INCONSISTENT_CONCEPT",
@@ -121,6 +123,38 @@ def audit_folder(folder: Path) -> list[dict]:
         mapping_rows,
         describe=make_description,
     )
+
+    for row in mapping_rows:
+        ma_number = core.clean(row.get("ma_number", ""))
+        if ma_number not in data_by_id:
+            continue
+        if core.clean(row.get("mapping_type", "")) != "EXACT":
+            continue
+        concept_name = core.clean(row.get("concept_name", ""))
+        if concept_name.startswith("{") or concept_name.endswith("Pack"):
+            continue
+        comment = core.clean(row.get("comment", "")).lower()
+        if "overfill" in comment or "deliverable dose" in comment:
+            continue
+        data_row = data_by_id[ma_number]
+        if core.needs_volume_review(
+            data_row,
+            concept_name,
+            description_key="content",
+            form_key="pharmaceutical_form",
+            route_key="route_of_administration",
+            injectable_form_markers=("injection", "injectable"),
+            route_skip_markers=("intravitreal",),
+        ):
+            issues.append(core.make_issue(
+                "REVIEW_VOLUME",
+                ma_number,
+                make_description(data_row),
+                core.clean(row.get("concept_id", "")),
+                concept_name,
+                core.clean(row.get("mapping_type", "")),
+            ))
+
     issues += core.check_inconsistent_concepts(
         "ma_number", data_by_id, mapping_rows, sig_fn=ema_sig, describe=make_description,
     )

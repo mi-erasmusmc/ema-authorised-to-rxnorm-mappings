@@ -1,10 +1,10 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/17/1234/001	1593709	1 ML guselkumab 100 MG/ML Prefilled Syringe	1928686	EXACT			2026-03-19
-EU/1/17/1234/002	1366759	1 ML guselkumab 100 MG/ML Auto-Injector	2118739	EXACT			2026-03-19
-EU/1/17/1234/003	1366759	1 ML guselkumab 100 MG/ML Auto-Injector	2118739	EXACT			2026-03-19
-EU/1/17/1234/004	1593709	1 ML guselkumab 100 MG/ML Prefilled Syringe	1928686	EXACT			2026-03-19
-EU/1/17/1234/005	1735847	20 ML guselkumab 10 MG/ML Injection	2693088	EXACT			2026-03-19
-EU/1/17/1234/006	1735851	2 ML guselkumab 100 MG/ML Prefilled Syringe	2693096	EXACT			2026-03-19
-EU/1/17/1234/007	1735851	2 ML guselkumab 100 MG/ML Prefilled Syringe	2693096	EXACT			2026-03-19
-EU/1/17/1234/008	1735849	2 ML guselkumab 100 MG/ML Auto-Injector	2693094	EXACT			2026-03-19
-EU/1/17/1234/009	1735849	2 ML guselkumab 100 MG/ML Auto-Injector	2693094	EXACT			2026-03-19
+EU/1/17/1234/001	1593711	1 ML guselkumab 100 MG/ML Prefilled Syringe [Tremfya]	1928689	EXACT			2026-04-01
+EU/1/17/1234/002	1366760	1 ML guselkumab 100 MG/ML Auto-Injector [Tremfya]	2118741	EXACT			2026-04-01
+EU/1/17/1234/003	1366760	1 ML guselkumab 100 MG/ML Auto-Injector [Tremfya]	2118741	EXACT			2026-04-01
+EU/1/17/1234/004	1593711	1 ML guselkumab 100 MG/ML Prefilled Syringe [Tremfya]	1928689	EXACT			2026-04-01
+EU/1/17/1234/005	1735848	20 ML guselkumab 10 MG/ML Injection [Tremfya]	2693092	EXACT			2026-04-01
+EU/1/17/1234/006	1735852	2 ML guselkumab 100 MG/ML Prefilled Syringe [Tremfya]	2693097	EXACT			2026-04-01
+EU/1/17/1234/007	1735852	2 ML guselkumab 100 MG/ML Prefilled Syringe [Tremfya]	2693097	EXACT			2026-04-01
+EU/1/17/1234/008	1735850	2 ML guselkumab 100 MG/ML Auto-Injector [Tremfya]	2693095	EXACT			2026-04-01
+EU/1/17/1234/009	1735850	2 ML guselkumab 100 MG/ML Auto-Injector [Tremfya]	2693095	EXACT			2026-04-01

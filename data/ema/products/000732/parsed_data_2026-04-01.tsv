@@ -1,0 +1,13 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/06/358/001	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	1 vial	Silgard
+EU/1/06/358/002	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	10 vials	Silgard
+EU/1/06/358/003	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe	Silgard
+EU/1/06/358/004	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes	Silgard
+EU/1/06/358/005	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe + 1 needle	Silgard
+EU/1/06/358/006	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes + 10 needles	Silgard
+EU/1/06/358/007	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe + 2 needles	Silgard
+EU/1/06/358/008	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes + 20 needles	Silgard
+EU/1/06/358/018	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	20 vials	Silgard
+EU/1/06/358/019	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	20 pre-filled syringes	Silgard
+EU/1/06/358/020	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	20 pre-filled syringes + 20 needles	Silgard
+EU/1/06/358/021	EMEA/H/C/000732	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	20 pre-filled syringes + 40 needles	Silgard

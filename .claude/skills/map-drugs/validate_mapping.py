@@ -32,6 +32,9 @@ STRENGTH_IN_NAME_RE = re.compile(
     r"\b\d+(?:\.\d+)?\s*(?:MG|UNT|MEQ|ACTUAT|MCI)\b",
     re.IGNORECASE,
 )
+EXACT_INJECTION_CONCENTRATION_RE = re.compile(r"/ML\b.*\bInjection\b", re.IGNORECASE)
+LEADING_VOLUME_RE = re.compile(r"^\d+(?:\.\d+)?\s*ML\b", re.IGNORECASE)
+PACK_LEADING_VOLUME_RE = re.compile(r"^\{\s*\d+\s*\(\s*\d+(?:\.\d+)?\s*ML\b", re.IGNORECASE)
 # Contrast agents and similar compounds where RxNorm intentionally omits dose form
 # from the concept name. EXACT is accepted for these even without a dose form.
 # Key: concept_code (RxNorm CUI code, the stable identifier).
@@ -235,6 +238,17 @@ def validate_file(path: str) -> list[str]:
                     errors.append(
                         f"  {line}: EXACT concept '{concept_name[:80]}' has a strength but no "
                         f"dose form; use BROAD if no dose-form-specific concept exists"
+                    )
+
+                # EXACT concentration-style Injection concepts must start with an explicit volume.
+                if (mt == "EXACT" and concept_name
+                        and not concept_name.endswith("...")
+                        and EXACT_INJECTION_CONCENTRATION_RE.search(concept_name)
+                        and not LEADING_VOLUME_RE.search(concept_name)
+                        and not PACK_LEADING_VOLUME_RE.search(concept_name)):
+                    errors.append(
+                        f"  {line}: EXACT concept '{concept_name[:80]}' uses /ML Injection without a leading volume; "
+                        f"use a volume-specific concept or downgrade to BROAD"
                     )
 
                 # BROAD and NO_MAPPING mappings require a suggestion

@@ -1,0 +1,13 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/06/357/001	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	1 vial	Gardasil
+EU/1/06/357/002	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	10 vials	Gardasil
+EU/1/06/357/003	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe	Gardasil
+EU/1/06/357/004	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes	Gardasil
+EU/1/06/357/005	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe + 1 needle	Gardasil
+EU/1/06/357/006	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes + 10 needles	Gardasil
+EU/1/06/357/007	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe + 2 needles	Gardasil
+EU/1/06/357/008	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes + 20 needles	Gardasil
+EU/1/06/357/018	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	20 vials	Gardasil
+EU/1/06/357/019	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	20 pre-filled syringes	Gardasil
+EU/1/06/357/020	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	20 pre-filled syringes + 20 needles	Gardasil
+EU/1/06/357/021	EMEA/H/C/000703	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	20 pre-filled syringes + 40 needles	Gardasil

@@ -22,6 +22,9 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent / "map-drugs"))
+import audit_core as core  # noqa: E402
+
 
 PATTERN_FIELDS = [
     "des_dcp",
@@ -79,35 +82,6 @@ def pattern_key(row: dict[str, str]) -> tuple[str, ...]:
     return tuple(clean(row.get(field, "")) for field in PATTERN_FIELDS)
 
 
-def extract_ml(text: str) -> str | None:
-    lowered = clean(text).lower().replace(",", ".")
-    for token in lowered.split():
-        if token.endswith("ml"):
-            return token[:-2]
-    parts = lowered.split()
-    for index, token in enumerate(parts[:-1]):
-        if parts[index + 1] == "ml":
-            return token
-    return None
-
-
-def needs_volume_review(data_row: dict[str, str], concept_name: str) -> bool:
-    des_dcp = clean(data_row.get("des_dcp", ""))
-    unit = clean(data_row.get("unidad_contenido", "")).lower()
-    form = clean(data_row.get("forma_farmaceutica", "")).lower()
-    volume = extract_ml(des_dcp)
-    if not volume:
-        return False
-    if "inye" not in unit and "inyect" not in form:
-        return False
-    concept_lower = clean(concept_name).lower()
-    if "injection" not in concept_lower:
-        return False
-    if "mg/ml" not in concept_lower:
-        return False
-    return not concept_lower.startswith(f"{volume} ml ")
-
-
 def candidate_plan(folder: Path) -> dict[str, object] | None:
     data_path = folder / "data.tsv"
     mapping_path = folder / "mapping.tsv"
@@ -131,7 +105,15 @@ def candidate_plan(folder: Path) -> dict[str, object] | None:
             return None
         if mapping_type == "EXACT" and not clean(row.get("last_updated_date", "")):
             missing_dates += 1
-        if mapping_type == "EXACT" and cod in data_by_cod and needs_volume_review(data_by_cod[cod], clean(row.get("concept_name", ""))):
+        if mapping_type == "EXACT" and cod in data_by_cod and core.needs_volume_review(
+            data_by_cod[cod],
+            clean(row.get("concept_name", "")),
+            description_key="des_dcp",
+            unit_key="unidad_contenido",
+            form_key="forma_farmaceutica",
+            injectable_unit_markers=("inye",),
+            injectable_form_markers=("inyect",),
+        ):
             return None
         if mapping_type != "EXACT" or cod not in data_by_cod:
             continue
