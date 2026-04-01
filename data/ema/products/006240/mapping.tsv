@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1874/001	1735893	1 ML marstacimab-hncq 150 MG/ML Prefilled Syringe	2697150	EXACT			2025-12-04
-EU/1/24/1874/002	1735891	1 ML marstacimab-hncq 150 MG/ML Auto-Injector	2697139	EXACT			2025-12-04
-EU/1/24/1874/003	1735891	1 ML marstacimab-hncq 150 MG/ML Auto-Injector	2697139	EXACT			2026-03-21
+EU/1/24/1874/001	1735894	1 ML marstacimab-hncq 150 MG/ML Prefilled Syringe [Hympavzi]	2697154	EXACT			2026-04-01
+EU/1/24/1874/002	1735892	1 ML marstacimab-hncq 150 MG/ML Auto-Injector [Hympavzi]	2697146	EXACT			2026-04-01
+EU/1/24/1874/003	1735892	1 ML marstacimab-hncq 150 MG/ML Auto-Injector [Hympavzi]	2697146	EXACT			2026-04-01

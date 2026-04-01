@@ -94,6 +94,20 @@ ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administratio
 EU/1/23/1727/001	EMEA/H/C/005652	300 mg	Concentrate for solution for infusion	Intravenous use	vial (glass)	30 ml (10 mg/ml)	1 vial	BEKEMV
 ```
 
+## Footnote Handling
+
+Some PDFs use footnote markers in the Strength column (e.g. `--15`, `--16`) whose definitions appear as multi-line blocks later in the PDF. When this occurs:
+
+1. Write the **marker + reference** in the strength column: e.g. `--15 see footnote.txt`
+   - **Always keep the marker** — it is the only link between the TSV row and the correct footnote entry.
+2. Create `footnote.txt` in the same product folder with the full footnote text exactly as it appears in the PDF.
+
+Short, simple footnotes (a single phrase that fits naturally in the cell) can be inlined directly without creating footnote.txt.
+
+**Example strength column values:**
+- Elaborate multi-line: `--15 see footnote.txt`
+- Simple inline: `30 micrograms/dose`
+
 ## Batch Parsing
 
 To parse multiple products efficiently using subagents:

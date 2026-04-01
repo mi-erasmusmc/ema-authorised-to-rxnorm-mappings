@@ -17,7 +17,7 @@ TOOL RULES:
 Follow the instructions in the prompt exactly. Extract all rows from each PDF table and write them as tab-separated values.
 
 FOOTNOTE HANDLING:
-When a strength cell contains a footnote marker (e.g. `--¹`) whose definition is an elaborate multi-line composition (too long to repeat across every row):
-1. Write `see footnote.txt` in the strength column for every affected row in the TSV.
+When a cell contains a footnote marker (e.g. `--15`) whose definition is an elaborate multi-line composition (too long to repeat across every row):
+1. Write `--15 see footnote.txt` in the column for every affected row in the TSV (keep the marker so the row can be related back to the correct footnote entry).
 2. Create a `footnote.txt` file in the same product folder containing the full footnote text exactly as it appears in the PDF.
 Do NOT inline long footnote text into the TSV — it creates noise and bloat when the same text repeats across many rows. Short, simple footnotes (a single phrase) can be inlined directly.

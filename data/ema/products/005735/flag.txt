@@ -1,8 +1,17 @@
-JN.1 presentations remain conservative BROAD mappings. Standard and `--extension` concept searches did not return JN.1-specific Pfizer/BioNTech concepts for the adult, pediatric, or infant tiers.
+Footnote review confirms the variant-specific actives in the EMA PDF:
+- JN.1 rows use bretovameran
+- KP.2 rows use cemivameran
+- LP.8.1 rows are described as mRNA encoding LP.8.1
+
+JN.1 presentations remain conservative BROAD mappings. The footnotes confirm these rows are JN.1-specific, but standard and `--extension` concept searches still did not return matching JN.1-specific Pfizer/BioNTech concepts for the adult, pediatric, or infant tiers.
 
 LP.8.1 coverage:
 - 045-046 map BROAD to LP.8.1-specific 0.1 MG/ML concept 37354061.
-- 047 and 051 map EXACT to branded 0.3 ML LP.8.1 prefilled syringe concept 37355134.
-- 048 maps EXACT to LP.8.1 0.0333 MG/ML Injection 37354069.
+- 047 and 051 map EXACT to branded 0.3 ML LP.8.1 prefilled syringe concept 37355134 (`[Comirnaty 2025-2026]`).
+- 048 maps EXACT to branded LP.8.1 0.0333 MG/ML Injection concept 37354072 (`[Comirnaty 2025-2026]`).
 - 049 maps BROAD to LP.8.1-specific 0.0333 MG/ML concept 37354068.
 - 050 remains BROAD to generic 0.015 MG/ML because no LP.8.1 0.015 MG/ML concept was found.
+
+KP.2 coverage:
+- 037-039 and 044 map EXACT to branded KP.2 concepts with seasonal label `[Comirnaty 2024-2025]`.
+- 040-042 remain EXACT to unbranded KP.2 concepts because no matching branded standard RxNorm concepts were found for those tiers/forms.
