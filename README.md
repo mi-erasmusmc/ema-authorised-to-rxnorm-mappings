@@ -8,8 +8,8 @@ comprehensive publicly available mappings of all EMA authorised products to OMOP
 
 | File | Mappings                        | Last Updated |
 |------|---------------------------------|--------------|
-| `ema-to-rxnorm.tsv` | 16,568                         | 2026-03-16 |
-| `spain-to-rxnorm.tsv` | 30,137                       | 2026-03-16 |
+| `ema-to-rxnorm.tsv` | 16,567                         | 2026-04-01 |
+| `spain-to-rxnorm.tsv` | 30,140                       | 2026-04-01 |
 | `latvia-to-rxnorm.tsv` | 33,136 mapped, 5,813 unmapped | 2026-03-22 |
 
 Because EMA centrally authorised products are valid across all EU member states, these mappings can serve as a
