@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-651648	60211	41156635	lenograstim 33600000 UNT Injectable Solution [GRANOCYTE]	OMOP2354597	BROAD	Source is powder and solvent for solution for injection or infusion.	lenograstim 33600000 UNT Injectable Solution [GRANOCYTE] for injection/infusion	2026-03-14
-651650	60672	40740643	lenograstim 13400000 UNT Injectable Solution [GRANOCYTE]	OMOP4716444	BROAD	Source is powder and solvent for solution for injection or infusion.	lenograstim 13400000 UNT Injectable Solution [GRANOCYTE] for injection/infusion	2026-03-14
+651648	60211	21035635	lenograstim 33600000 UNT Injection [Granocyte-34]	OMOP413690	EXACT			2026-04-01
+651650	60672	21123840	lenograstim 13400000 UNT Injection [Granocyte-13]	OMOP413702	EXACT			2026-04-01

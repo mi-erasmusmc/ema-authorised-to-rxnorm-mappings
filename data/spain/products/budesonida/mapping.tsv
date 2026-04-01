@@ -36,8 +36,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 888297	63198	36813122	Budesonide 0.4 MG/ACTUAT Inhalation Powder	OMOP4827155	EXACT			2026-03-13
 901082	59297	939543	budesonide 0.5 MG/ML Inhalation Suspension [Pulmicort]	616819	EXACT			2026-03-13
 901199	59298	939542	budesonide 0.25 MG/ML Inhalation Suspension [Pulmicort]	616817	EXACT			2026-03-13
-945436	65536	35157438	Budesonide 0.2 MG/ACTUAT Inhalation Powder	OMOP4814444	EXACT			2026-03-13
-945493	65536	35157438	Budesonide 0.2 MG/ACTUAT Inhalation Powder	OMOP4814444	EXACT			2026-03-13
+945436	65536	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			2026-04-01
+945493	65536	19060647	budesonide 0.2 MG Inhalation Powder	247047	EXACT			2026-04-01
 658368	68406	19063315	budesonide 0.064 MG/ACTUAT Nasal Spray	250648	EXACT			2026-03-13
 658691	68584	19063315	budesonide 0.064 MG/ACTUAT Nasal Spray	250648	EXACT			2026-03-13
 664227	61863	939294	budesonide 0.02 MG/ML Enema	153173	BROAD	Entocord rectal suspension (tablet + solvent); RxNorm has enema rather than the exact combined tablet-plus-solvent rectal suspension presentation.	budesonide 2 MG Enema	2026-03-30

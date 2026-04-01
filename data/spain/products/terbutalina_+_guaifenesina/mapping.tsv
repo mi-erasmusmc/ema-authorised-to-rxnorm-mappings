@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-929653	54883	40045268	guaifenesin / terbutaline Oral Solution	374042	EXACT			2026-03-12
+929653	54883	1236755	guaifenesin 13.3 MG/ML / terbutaline 0.3 MG/ML Oral Solution	246422	EXACT	Spain labels guaifenesin as 13.32 mg/mL (66.6 mg/5 mL); standard RxNorm rounds this presentation to 13.3 mg/mL		2026-04-01

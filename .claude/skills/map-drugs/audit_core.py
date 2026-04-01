@@ -204,6 +204,63 @@ def check_inconsistent_concepts(source_id_col, data_by_id, mapping_rows, sig_fn,
     return issues
 
 
+def check_inconsistent_types(source_id_col, data_by_id, mapping_rows, sig_fn, describe=None):
+    """
+    Detect mapping rows that share the same clinical signature and the same concept_id
+    but use different mapping_types.
+
+    This catches the case where identical concepts are expected and present but some rows
+    are EXACT while others are BROAD (or any other type mismatch).
+
+    Args:
+        source_id_col : column name for the source ID
+        data_by_id    : dict mapping source_id → data row
+        mapping_rows  : list of dicts read from mapping.tsv
+        sig_fn        : callable(data_row) → hashable signature tuple
+        describe      : optional callable(data_row) → str for human-readable labels
+
+    Returns a list of INCONSISTENT_TYPE issue dicts.
+    """
+    if describe is None:
+        describe = lambda row: ""  # noqa: E731
+
+    from collections import defaultdict
+    key_to_types = defaultdict(set)
+    key_to_rows = defaultdict(list)
+
+    for row in mapping_rows:
+        sid = clean(row.get(source_id_col, ""))
+        concept_id = clean(row.get("concept_id", ""))
+        mapping_type = clean(row.get("mapping_type", ""))
+        if not concept_id or not mapping_type:
+            continue
+        data_row = data_by_id.get(sid)
+        if data_row is None:
+            continue
+        sig = sig_fn(data_row)
+        if sig is None:
+            continue
+        key = (sig, concept_id)
+        key_to_types[key].add(mapping_type)
+        key_to_rows[key].append(row)
+
+    issues = []
+    for (sig, concept_id), types in key_to_types.items():
+        if len(types) > 1:
+            for row in key_to_rows[(sig, concept_id)]:
+                sid = clean(row.get(source_id_col, ""))
+                data_row = data_by_id.get(sid, {})
+                issues.append(make_issue(
+                    "INCONSISTENT_TYPE",
+                    sid,
+                    describe(data_row),
+                    clean(row.get("concept_id", "")),
+                    clean(row.get("concept_name", "")),
+                    clean(row.get("mapping_type", "")),
+                ))
+    return issues
+
+
 # ── Reporter ───────────────────────────────────────────────────────────────────
 
 def format_summary_line(folder_name, counts, issue_types):

@@ -2,6 +2,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 662379	61970	36250149	triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]	1797915	EXACT			2026-03-12
 683760	74673	40234056	1 ML triamcinolone acetonide 40 MG/ML Injection [Triesence]	1086259	EXACT			2026-03-12
 701739	78545	40234819	triamcinolone hexacetonide 20 MG/ML Injectable Suspension	1085996	EXACT			2026-03-12
-653296	55845	903963	triamcinolone	10759	BROAD	No triamcinolone diacetate rectal foam in RxNorm; mapped to ingredient		2026-03-12
+653296	55845	903963	triamcinolone	10759	BROAD	No triamcinolone diacetate rectal foam in RxNorm; mapped to ingredient	triamcinolone diacetate 10 MG/G Rectal Foam	2026-04-01
 732646	3400934292293	36250149	triamcinolone acetonide 0.055 MG/ACTUAT Metered Dose Nasal Spray [Nasacort]	1797915	EXACT			2026-03-12
 758717	44901	40234038	triamcinolone acetonide 40 MG/ML Injectable Suspension	1085754	EXACT			2026-03-12

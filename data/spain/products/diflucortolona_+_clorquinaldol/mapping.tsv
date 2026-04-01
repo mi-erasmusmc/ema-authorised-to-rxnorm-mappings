@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-699322	56536	40030487	chlorquinaldol / diflucortolone Topical Cream	377646	EXACT			2026-03-14
-963405	56536	40030487	chlorquinaldol / diflucortolone Topical Cream	377646	EXACT			2026-03-14
+699322	56536	40030487	chlorquinaldol / diflucortolone Topical Cream	377646	BROAD	RxNorm has no topical cream concept with the labeled 1 mg/g + 10 mg/g strength	chlorquinaldol 10 MG/GM / diflucortolone 1 MG/GM Topical Cream	2026-04-01
+963405	56536	40030487	chlorquinaldol / diflucortolone Topical Cream	377646	BROAD	RxNorm has no topical cream concept with the labeled 1 mg/g + 10 mg/g strength	chlorquinaldol 10 MG/GM / diflucortolone 1 MG/GM Topical Cream	2026-04-01

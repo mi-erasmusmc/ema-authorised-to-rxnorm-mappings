@@ -3,14 +3,14 @@ EU/1/02/230/001	19061542	insulin, regular, human 40 UNT/ML Injectable Solution	2
 EU/1/02/230/002	19061542	insulin, regular, human 40 UNT/ML Injectable Solution	249026	EXACT			2025-12-04
 EU/1/02/230/003	19078555	insulin, regular, human 100 UNT/ML Injectable Solution	311034	EXACT			2025-12-04
 EU/1/02/230/004	19078555	insulin, regular, human 100 UNT/ML Injectable Solution	311034	EXACT			2025-12-04
-EU/1/02/230/005	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
-EU/1/02/230/006	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
-EU/1/02/230/007	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
-EU/1/02/230/010	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
-EU/1/02/230/011	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
-EU/1/02/230/012	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
-EU/1/02/230/013	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
-EU/1/02/230/014	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
-EU/1/02/230/015	2028813	3 ML insulin, regular, human 100 IU/ML Pen Injector	OMOP4927560	EXACT			2025-12-04
+EU/1/02/230/005	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-04-01
+EU/1/02/230/006	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-04-01
+EU/1/02/230/007	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	BROAD	cartridge; no Cartridge concept for regular insulin	3 ML insulin, regular, human 100 UNT/ML Cartridge	2026-04-01
+EU/1/02/230/010	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-04-01
+EU/1/02/230/011	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-04-01
+EU/1/02/230/012	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-04-01
+EU/1/02/230/013	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-04-01
+EU/1/02/230/014	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-04-01
+EU/1/02/230/015	37499744	3 ML insulin, regular, human 100 UNT/ML Pen Injector	2206090	EXACT			2026-04-01
 EU/1/02/230/016	19061542	insulin, regular, human 40 UNT/ML Injectable Solution	249026	EXACT			2025-12-04
 EU/1/02/230/017	19078555	insulin, regular, human 100 UNT/ML Injectable Solution	311034	EXACT			2025-12-04

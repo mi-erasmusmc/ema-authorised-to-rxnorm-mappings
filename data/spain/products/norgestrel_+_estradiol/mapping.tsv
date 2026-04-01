@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-759407	53201	40181756	estradiol valerate 2 MG	978942	BROAD			
+759407	53201	40181756	estradiol valerate 2 MG	978942	BROAD	Biphasic sequential pack (11 estradiol-only + 10 norgestrel+estradiol tablets); no combination pack concept in RxNorm; mapped to estradiol valerate component	{11 (estradiol valerate 2 MG Oral Tablet) / 10 (norgestrel 0.5 MG / estradiol valerate 2 MG Oral Tablet)} Pack [Progyluton]	2026-04-01

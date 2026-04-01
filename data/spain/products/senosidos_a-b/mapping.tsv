@@ -4,5 +4,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 789339	40883	938293	sennosides, USP 12 MG Oral Tablet	243374	EXACT			2026-03-12
 813584	18494	938293	sennosides, USP 12 MG Oral Tablet	243374	EXACT			2026-03-12
 949669	55560	19062345	sennosides, USP 2 MG/ML Oral Solution	250235	EXACT			2026-03-12
-954453	55905	40081552	sennosides, USP Oral Solution	376533	BROAD	30mg/ml oral drops; no matching concentration in RxNorm	sennosides A-B 30 MG/ML Oral Drops	2026-03-12
-997270	58853	40081552	sennosides, USP Oral Solution	376533	BROAD	30mg/ml oral solution unit dose; no matching concentration in RxNorm	sennosides A-B 150 MG Oral Solution in Unit-Dose Container	2026-03-12
+954453	55905	40081552	sennosides, USP Oral Solution	376533	BROAD	30 MG/ML oral drops solution; no matching concentration in RxNorm	sennosides, USP 30 MG/ML Oral Solution	2026-04-01
+997270	58853	40081552	sennosides, USP Oral Solution	376533	BROAD	30 MG/ML oral solution in unit-dose container; no matching concentration in RxNorm	5 ML sennosides, USP 30 MG/ML Oral Solution	2026-04-01

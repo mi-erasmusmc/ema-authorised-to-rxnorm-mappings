@@ -7,6 +7,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 767278	1241908002	40166258	guanfacine 2 MG Extended Release Oral Tablet	862016	EXACT			2025-12-04
 767279	1241908003	40166125	24 HR guanfacine 3 MG Extended Release Oral Tablet	862019	EXACT			2025-12-04
 767280	1241908004	40166127	24 HR guanfacine 4 MG Extended Release Oral Tablet	862025	EXACT			2025-12-04
-767281	1241908005	40166269	guanfacine Extended Release Oral Tablet	862005	BROAD			2025-12-04
-767282	1241908006	40166269	guanfacine Extended Release Oral Tablet	862005	BROAD			2025-12-04
-767283	1241908007	1344965	guanfacine	40114	BROAD			2025-12-04
+767281	1241908005	40166269	guanfacine Extended Release Oral Tablet	862005	BROAD		guanfacine 5 MG Extended Release Oral Tablet	2026-04-01
+767282	1241908006	40166269	guanfacine Extended Release Oral Tablet	862005	BROAD		guanfacine 6 MG Extended Release Oral Tablet	2026-04-01
+767283	1241908007	1344965	guanfacine	40114	BROAD		guanfacine 7 MG Extended Release Oral Tablet	2026-04-01

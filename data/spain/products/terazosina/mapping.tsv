@@ -14,7 +14,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 694041	68822	1734894	terazosin 1 MG/ML Oral Solution	2689133	EXACT			2026-03-12
 694043	66414	19079718	terazosin 5 MG Oral Tablet	313220	EXACT			2026-03-12
 694346	66413	1341271	terazosin 2 MG Oral Tablet	313218	EXACT			2026-03-12
-695021	68821	1734893	terazosin Oral Solution	2689132	BROAD	5mg/5ml unit-dose; no exact 5 MG strength in oral solution in RxNorm	terazosin 5 MG/5 ML Oral Solution in Unit-Dose Container	2026-03-12
+695021	68821	1734894	terazosin 1 MG/ML Oral Solution	2689133	EXACT			2026-04-01
 695022	63458	1734894	terazosin 1 MG/ML Oral Solution	2689133	EXACT			2026-03-12
 695027	63460	19079718	terazosin 5 MG Oral Tablet	313220	EXACT			2026-03-12
 695028	63459	1341271	terazosin 2 MG Oral Tablet	313218	EXACT			2026-03-12

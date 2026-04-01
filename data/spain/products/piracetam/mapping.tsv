@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-937854	54713	19046654	piracetam	8351	BROAD			
-946178	53130	19006209	piracetam 800 MG Oral Tablet	105020	EXACT			
-968792	53167	19046654	piracetam	8351	BROAD			
+937854	54713	19105899	piracetam 200 MG/ML Oral Solution	423289	EXACT			2026-04-01
+946178	53130	19006209	piracetam 800 MG Oral Tablet	105020	EXACT			2026-04-01
+968792	53167	36886559	Piracetam Oral Granules	OMOP1003909	BROAD	No standard RxNorm granules concept at 800 MG strength; kept the matching oral-granules dose form.	piracetam 800 MG Oral Granules	2026-04-01
 644666	55917	19064034	piracetam 200 MG/ML Injectable Solution	250943	EXACT			2026-03-12
 680025	61046	19046659	piracetam 1200 MG Oral Tablet	252658	EXACT			2026-03-12
 937839	54735	19006209	piracetam 800 MG Oral Tablet	105020	EXACT			2026-03-12

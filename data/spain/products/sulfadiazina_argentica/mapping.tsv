@@ -3,5 +3,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 634592	53324	19008724	silver sulfadiazine 10 MG/ML Topical Cream	106351	EXACT			2026-03-12
 700623	49750	19008724	silver sulfadiazine 10 MG/ML Topical Cream	106351	EXACT			2026-03-12
 700624	49750	19008724	silver sulfadiazine 10 MG/ML Topical Cream	106351	EXACT			2026-03-12
-768283	49667	40082729	silver sulfadiazine Topical Cream	377813	BROAD	cutaneous spray form; mapped to cream as closest		2026-03-12
+768283	49667	40082729	silver sulfadiazine Topical Cream	377813	BROAD	cutaneous spray form; mapped to cream as closest	silver sulfadiazine 10 MG/ML Topical Spray	2026-04-01
 957787	53324	19008724	silver sulfadiazine 10 MG/ML Topical Cream	106351	EXACT			2026-03-12

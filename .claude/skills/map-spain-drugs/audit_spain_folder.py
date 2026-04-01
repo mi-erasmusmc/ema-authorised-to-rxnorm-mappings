@@ -27,6 +27,8 @@ Issue types:
     REVIEW_VOLUME         - likely single-use injectable mapped to a concentration-only concept
     INCONSISTENT_CONCEPT  - EXACT rows with the same des_dcp, sw_generico, and forma_farmaceutica map to different
                             concept_ids. For branded products the comparison is narrowed to the same brand key.
+    INCONSISTENT_TYPE     - rows sharing the same clinical signature and concept_id use different mapping_types
+                            (e.g. one row is EXACT while another with the same concept is BROAD).
     INVALID               - mapping.tsv fails structural validation (bad date, invalid suggestion, etc.)
 """
 
@@ -246,6 +248,12 @@ def audit_folder(folder: Path, suppressed: set = None):
         describe=lambda row: core.clean(row.get("des_dcp", "")),
     ):
         # Remap to Spain format (nro_definitivo not available here; use empty string)
+        issues.append(_core_to_spain(issue))
+
+    for issue in core.check_inconsistent_types(
+        "cod_nacion", data_by_cod, mapping_rows, sig_fn=spain_sig,
+        describe=lambda row: core.clean(row.get("des_dcp", "")),
+    ):
         issues.append(_core_to_spain(issue))
 
     if suppressed:

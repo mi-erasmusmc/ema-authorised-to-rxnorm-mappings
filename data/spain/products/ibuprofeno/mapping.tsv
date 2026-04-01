@@ -3,7 +3,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 603244	62974	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
 603626	72838	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
 605721	70039	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
-606813	80720	784896	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4832715	EXACT			2026-03-12
+606813	80720	995369	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4821876	EXACT			2026-04-01
 619429	54985	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 625681	65250	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 631051	65251	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
@@ -131,7 +131,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 715791	81973	19019050	ibuprofen 20 MG/ML Oral Suspension	197803	EXACT			2026-03-12
 715792	81974	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
 716602	82170	43685736	100 ML Ibuprofen 4 MG/ML Injectable Solution	OMOP835266	EXACT			2026-03-12
-716603	82171	784896	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4832715	EXACT			2026-03-12
+716603	82171	995369	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4821876	EXACT			2026-04-01
 718843	82403	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
 718845	82404	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	oral sobre		2026-03-12
 718848	82405	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12

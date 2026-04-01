@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 960856	56352	1036233	sucralfate 1000 MG Oral Tablet	314234	EXACT			2026-03-12
 975672	56352	1036233	sucralfate 1000 MG Oral Tablet	314234	EXACT			2026-03-12
-976225	57511	40080150	sucralfate Oral Suspension	373966	BROAD	sachet oral suspension form		2026-03-12
-984344	57511	40080150	sucralfate Oral Suspension	373966	BROAD	sachet oral suspension form		2026-03-12
+976225	57511	43028198	Sucralfate 1000 MG Oral Suspension	OMOP4843282	EXACT			2026-04-01
+984344	57511	43028198	Sucralfate 1000 MG Oral Suspension	OMOP4843282	EXACT			2026-04-01

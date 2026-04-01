@@ -2,6 +2,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606698	1151042003	35407450	Sufentanil 0.015 MG Sublingual Tablet	OMOP1141035	EXACT			2025-12-04
 662010	70301	40220497	5 ML sufentanil 0.05 MG/ML Injection	1809104	EXACT			2026-03-12
 725287	84001	40220497	5 ML sufentanil 0.05 MG/ML Injection	1809104	EXACT			2026-03-12
-725288	84002	40220489	sufentanil Injection	1809096	BROAD			2026-03-12
+725288	84002	587254	10 ML Sufentanil 0.005 MG/ML Injection	OMOP3136894	EXACT	Source labels 50 micrograms total in 10 mL, so the presentation aligns to 5 micrograms/mL despite the des_dosific typo.		2026-04-01
 758352	1181284001	35201758	sufentanil 0.03 MG Sublingual Tablet	2103192	EXACT			2025-12-04
-698251	70299	40220489	sufentanil Injection	1809096	BROAD			2026-03-12
+698251	70299	587461	2 ML Sufentanil 0.005 MG/ML Injection	OMOP3137191	EXACT			2026-04-01

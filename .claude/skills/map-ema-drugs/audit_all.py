@@ -52,6 +52,7 @@ ISSUE_TYPES = [
     "DUPLICATE_DATA",
     "DUPLICATE_MAPPING",
     "INCONSISTENT_CONCEPT",
+    "INCONSISTENT_TYPE",
     "INVALID",
 ]
 
@@ -121,6 +122,9 @@ def audit_folder(folder: Path) -> list[dict]:
         describe=make_description,
     )
     issues += core.check_inconsistent_concepts(
+        "ma_number", data_by_id, mapping_rows, sig_fn=ema_sig, describe=make_description,
+    )
+    issues += core.check_inconsistent_types(
         "ma_number", data_by_id, mapping_rows, sig_fn=ema_sig, describe=make_description,
     )
     issues += core.validate_folder_issues(mapping_path)

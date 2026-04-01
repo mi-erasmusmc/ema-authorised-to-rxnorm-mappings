@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-729492	1171239001	37499761	2 ML fibrinogen, human 80 MG/ML / thrombin, human 500 UNT/ML Prefilled Syringe	2264366	EXACT			2025-12-04
-729494	1171239001	37499761	2 ML fibrinogen, human 80 MG/ML / thrombin, human 500 UNT/ML Prefilled Syringe	2264366	EXACT			2025-12-04
-650310	04277001	42629171	fibrinogen / thrombin Medicated Patch [TachoSil]	1793103	EXACT			2026-03-13
-650311	04277002	42629171	fibrinogen / thrombin Medicated Patch [TachoSil]	1793103	EXACT			2026-03-13
+729492	1171239001	37499763	4 ML fibrinogen, human 80 MG/ML / thrombin, human 500 UNT/ML Prefilled Syringe	2264603	EXACT			2026-04-01
+729494	1171239001	37499767	10 ML fibrinogen, human 80 MG/ML / thrombin, human 500 UNT/ML Prefilled Syringe	2264608	EXACT			2026-04-01
+650310	04277001	40224958	fibrinogen, human 337 MG / thrombin, human 123 UNT Medicated Patch [TachoSil]	1001593	EXACT	Matched to the 9.5 x 4.8 cm TachoSil matrix in Spain source presentation		2026-04-01
+650311	04277002	40228355	fibrinogen, human 171 MG / thrombin, human 62.2 UNT Medicated Patch [TachoSil]	1014305	EXACT	Matched to two 4.8 x 4.8 cm TachoSil matrices in Spain source presentation		2026-04-01

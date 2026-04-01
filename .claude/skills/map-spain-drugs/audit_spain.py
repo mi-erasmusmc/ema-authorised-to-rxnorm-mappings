@@ -32,6 +32,7 @@ Issue types:
     DUPLICATE_MAPPING     - duplicate cod_nacion in mapping.tsv
     REVIEW_VOLUME         - likely single-use injectable mapped to a concentration-only concept
     INCONSISTENT_CONCEPT  - EXACT rows with same clinical signature but different concept_ids
+    INCONSISTENT_TYPE     - rows sharing the same clinical signature and concept_id use different mapping_types
     INVALID               - mapping.tsv fails structural validation (bad date, invalid suggestion, etc.)
 """
 
@@ -64,6 +65,7 @@ ISSUE_TYPES = [
     "DUPLICATE_MAPPING",
     "REVIEW_VOLUME",
     "INCONSISTENT_CONCEPT",
+    "INCONSISTENT_TYPE",
     "INVALID",
 ]
 
@@ -104,9 +106,21 @@ def parse_args():
         metavar="N",
         help="Only show folders with at least N occurrences of the issue (default: 1)",
     )
+    parser.add_argument(
+        "--invalid-reason",
+        metavar="TEXT",
+        help=(
+            "Sub-filter INVALID issues to those whose normalised reason contains TEXT "
+            "(case-insensitive). Implies --issue INVALID."
+        ),
+    )
     args = parser.parse_args()
     if args.issue:
         args.issue = args.issue.strip().upper()
+    if args.invalid_reason:
+        if args.issue and args.issue != "INVALID":
+            parser.error("--invalid-reason can only be used with --issue INVALID")
+        args.issue = "INVALID"
     if args.details and not args.issue:
         parser.error("--details requires --issue")
     return args
@@ -167,36 +181,51 @@ def main():
         return
 
     if args.issue:
+        reason_filter = args.invalid_reason.lower() if args.invalid_reason else None
+
+        def _issue_matches(i):
+            if i["issue"] != args.issue:
+                return False
+            if reason_filter and args.issue == "INVALID":
+                return reason_filter in _normalize_invalid_reason(i["des_dcp"]).lower()
+            return True
+
         # Filter to folders with the requested issue type at or above min-count
         matching = [
             (folder, issues)
             for folder, issues in folder_issues.items()
-            if sum(1 for i in issues if i["issue"] == args.issue) >= args.min_count
+            if sum(1 for i in issues if _issue_matches(i)) >= args.min_count
         ]
         matching.sort(
-            key=lambda item: -sum(1 for i in item[1] if i["issue"] == args.issue)
+            key=lambda item: -sum(1 for i in item[1] if _issue_matches(i))
         )
 
         if not matching:
-            print(f"OK - no {args.issue} issues found (min-count={args.min_count})")
+            label = args.issue
+            if reason_filter:
+                label += f" matching '{args.invalid_reason}'"
+            print(f"OK - no {label} issues found (min-count={args.min_count})")
             return
 
         total = sum(
-            sum(1 for i in issues if i["issue"] == args.issue)
+            sum(1 for i in issues if _issue_matches(i))
             for _, issues in matching
         )
-        print(f"# {args.issue}: {total} occurrences in {len(matching)} folders\n")
+        label = args.issue
+        if reason_filter:
+            label += f" matching '{args.invalid_reason}'"
+        print(f"# {label}: {total} occurrences in {len(matching)} folders\n")
 
         if args.details:
             print("\t".join(["folder"] + DETAIL_HEADER))
             for folder, issues in matching:
-                filtered = [i for i in issues if i["issue"] == args.issue]
+                filtered = [i for i in issues if _issue_matches(i)]
                 for issue in sorted(filtered, key=lambda x: x["cod_nacion"]):
                     row = [folder.name] + [issue[col] for col in DETAIL_HEADER]
                     print("\t".join(row))
         else:
             for folder, issues in matching:
-                count = sum(1 for i in issues if i["issue"] == args.issue)
+                count = sum(1 for i in issues if _issue_matches(i))
                 print(f"{count}\t{folder.name}")
 
     else:

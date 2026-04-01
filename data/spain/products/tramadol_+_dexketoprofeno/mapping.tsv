@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 606741	80925	40735547	Dexketoprofen 25 MG / Tramadol 75 MG Oral Tablet	OMOP4722100	EXACT			2026-03-12
 711033	80925	40735547	Dexketoprofen 25 MG / Tramadol 75 MG Oral Tablet	OMOP4722100	EXACT			2026-03-12
-721616	83077	40735547	Dexketoprofen 25 MG / Tramadol 75 MG Oral Tablet	OMOP4722100	BROAD	No tramadol/dexketoprofen oral granule/solution in RxNorm		2026-03-12
+721616	83077	40735547	Dexketoprofen 25 MG / Tramadol 75 MG Oral Tablet	OMOP4722100	BROAD	No tramadol/dexketoprofen oral granule/solution in RxNorm	tramadol hydrochloride 75 MG / dexketoprofen 25 MG Oral Granules	2026-04-01

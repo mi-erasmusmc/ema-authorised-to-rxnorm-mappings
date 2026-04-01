@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-673178	61452	19015998	raltitrexed 0.5 MG/ML Injectable Solution [Tomudex]	152584	BROAD	Spanish product is 2mg powder for infusion; RxNorm has injectable solution form		2026-03-12
+673178	61452	36275360	raltitrexed 2 MG Injection [Tomudex]	OMOP3126235	EXACT			2026-04-01

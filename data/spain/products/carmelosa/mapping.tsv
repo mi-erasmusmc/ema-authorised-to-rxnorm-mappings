@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-680579	61009	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	BROAD	Unit-dose ophthalmic container is not exposed in RxNorm.	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
-701617	78496	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	BROAD	Unit-dose ophthalmic container is not exposed in RxNorm.	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
-701637	78502	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	BROAD	Unit-dose ophthalmic container is not exposed in RxNorm.	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
-703083	78921	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	BROAD	Unit-dose ophthalmic container is not exposed in RxNorm.	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
+680579	61009	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	EXACT			2026-04-01
+701617	78496	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	EXACT			2026-04-01
+701637	78502	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	EXACT			2026-04-01
+703083	78921	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	EXACT			2026-04-01
 818658	63926	35603140	carboxymethylcellulose sodium 10 MG/ML Ophthalmic Solution	1718952	EXACT			2026-03-13
-698749	77789	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	BROAD	Unit-dose ophthalmic container is not exposed in RxNorm.	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
-722012	56872_03-08-2011	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	BROAD	Unit-dose ophthalmic container is not exposed in RxNorm.	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
-876458	64260	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	BROAD	Unit-dose ophthalmic container is not exposed in RxNorm.	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
-876466	64260	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	BROAD	Unit-dose ophthalmic container is not exposed in RxNorm.	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution in unit-dose container	2026-03-13
+698749	77789	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	EXACT			2026-04-01
+722012	56872_03-08-2011	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	EXACT			2026-04-01
+876458	64260	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	EXACT			2026-04-01
+876466	64260	40243494	carboxymethylcellulose sodium 5 MG/ML Ophthalmic Solution	1188426	EXACT			2026-04-01

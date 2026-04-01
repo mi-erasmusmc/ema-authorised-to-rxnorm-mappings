@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-817601	39574	19042447	tramazoline 0.12 MG/ACTUAT	335765	BROAD	No tramazoline 1.18 mg/ml nasal spray in RxNorm; closest clinical drug component		2026-03-12
-965673	56731	19042447	tramazoline 0.12 MG/ACTUAT	335765	BROAD	No tramazoline 1.18 mg/ml nasal spray in RxNorm; closest clinical drug component		2026-03-12
+817601	39574	36265043	tramazoline 1.18 MG/ML Nasal Spray [Rhinospray]	OMOP3115918	EXACT			2026-04-01
+965673	56731	36265043	tramazoline 1.18 MG/ML Nasal Spray [Rhinospray]	OMOP3115918	EXACT	Spanish product is the Rhinospray Eucalyptus sub-brand; RxNorm exposes the matching base Rhinospray nasal-spray concept.		2026-04-01

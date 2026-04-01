@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-654791	34348	40220923	pyridoxine Injectable Solution	1804722	BROAD			2026-03-12
+654791	34348	40220923	pyridoxine Injectable Solution	1804722	BROAD	Single-use 2 mL ampoule; RxNorm only offers a non-volume-specific injectable-solution concept for pyridoxine.	2 ML pyridoxine 150 MG/ML Injection	2026-04-01
 654831	34349	1353348	vitamin B6 300 MG Oral Tablet	246485	EXACT			2026-03-12
-736215	48616	40131536	vitamin B6 Oral Solution	618949	BROAD			2026-03-12
-736223	48625	19005046	pyridoxine	684879	BROAD			2026-03-12
+736215	48616	36061289	pyridoxine 30 MG/ML Oral Solution	OMOP4987190	BROAD	Alpha-ketoglutarate oral solution is labeled at 30.7 MG/ML; closest standard RxNorm oral-solution concept is 30 MG/ML.	pyridoxine 30.7 MG/ML Oral Solution	2026-04-01
+736223	48625	1353409	vitamin B6 150 MG Oral Capsule	312738	BROAD	Alpha-ketoglutarate capsule strength is 153.4 MG; closest standard RxNorm capsule concept is 150 MG.	pyridoxine 153.4 MG Oral Capsule	2026-04-01

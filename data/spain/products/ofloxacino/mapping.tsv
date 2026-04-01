@@ -9,6 +9,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698179	65053	19019415	ofloxacin 200 MG Oral Tablet	198048	EXACT			2026-03-13
 698343	77631	19079151	ofloxacin 3 MG/ML Ophthalmic Solution	312075	EXACT			2026-03-13
 711475	81022	19079151	ofloxacin 3 MG/ML Ophthalmic Solution	312075	EXACT			2026-03-13
-725801	84144	19079151	ofloxacin 3 MG/ML Ophthalmic Solution	312075	BROAD	RxNorm does not expose the unit-dose ophthalmic presentation.	ofloxacin 3 MG/ML Ophthalmic Solution in Unit-Dose Container	2026-03-13
+725801	84144	19079151	ofloxacin 3 MG/ML Ophthalmic Solution	312075	EXACT			2026-04-01
 736975	65197	19019415	ofloxacin 200 MG Oral Tablet	198048	EXACT			2026-03-13
 737460	65197	19019415	ofloxacin 200 MG Oral Tablet	198048	EXACT			2026-03-13
