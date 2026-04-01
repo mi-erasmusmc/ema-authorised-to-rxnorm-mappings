@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-718506	114955001	35897986	Tilmanocept 0.05 MG Kit for radiopharmaceutical preparation Box of 5	OMOP5042225	EXACT			2025-12-04
-720327	114955001	35897986	Tilmanocept 0.05 MG Kit for radiopharmaceutical preparation Box of 5	OMOP5042225	EXACT			2025-12-04
+718506	114955001	35897991	Tilmanocept 0.05 MG Kit for radiopharmaceutical preparation [Lymphoseek]	OMOP5042230	BROAD	Radiopharmaceutical kit; no tilmanocept concept with validator-recognised dose form exists	Tilmanocept 0.05 MG Injection [Lymphoseek]	2026-04-01
+720327	114955001	35897991	Tilmanocept 0.05 MG Kit for radiopharmaceutical preparation [Lymphoseek]	OMOP5042230	BROAD	Radiopharmaceutical kit; no tilmanocept concept with validator-recognised dose form exists	Tilmanocept 0.05 MG Injection [Lymphoseek]	2026-04-01

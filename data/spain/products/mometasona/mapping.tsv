@@ -19,8 +19,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 704482	79267	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
 709756	80572	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
 720345	82764	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
-744516	65226	36405810	Mometasone 0.2 MG/ACTUAT Inhalant Powder	OMOP3097852	EXACT			2026-03-12
-751271	65236	36405811	Mometasone 0.4 MG/ACTUAT Inhalant Powder	OMOP3097853	EXACT			2026-03-12
+744516	65226	43026361	Mometasone 0.2 MG/ACTUAT Dry Powder Inhaler	OMOP4841458	EXACT			2026-04-01
+751271	65236	21145221	Mometasone 0.4 MG/ACTUAT Dry Powder Inhaler	OMOP277812	EXACT			2026-04-01
 758052	87986	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
 766765	80572	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
 797894	59706	905236	mometasone furoate 1 MG/ML Topical Cream	311753	EXACT			2026-03-12

@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-762834	1201507014	746546	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (XBB.1.5) 0.1 MG/ML [Spikevax 2023-2024]	2664813	EXACT			2026-03-12
+762834	1201507014	746552	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (XBB.1.5) 0.1 MG/ML Injection [Spikevax 2023-2024]	2664823	BROAD	Spain source is a vial dispersion for injection; RxNorm Extension exposes XBB.1.5 Spikevax as injection/prefilled-syringe concepts but not a matching injectable suspension concept.	SARS-CoV-2 (COVID-19) vaccine, mRNA-1273 OMICRON (XBB.1.5) 0.1 MG/ML Injectable Suspension [Spikevax 2023-2024]	2026-04-01

@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-758190	1201528006	36929602	RILTOZINAMERAN 0.05 MG/ML / Tozinameran 0.05 MG/ML [Comirnaty]	OMOP5184416	EXACT			2026-03-12
+758190	1201528006	36926476	RILTOZINAMERAN 0.05 MG/ML / Tozinameran 0.05 MG/ML Injectable Solution [Comirnaty]	OMOP5184418	BROAD	RxNorm Extension exposes the BA.1 combination only as an injectable solution concept, not the matching injectable suspension described by the Spain source.	RILTOZINAMERAN 0.05 MG/ML / Tozinameran 0.05 MG/ML Injectable Suspension [Comirnaty]	2026-04-01
