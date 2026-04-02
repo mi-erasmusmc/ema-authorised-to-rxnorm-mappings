@@ -1,7 +1,7 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/17/1262/001	1510767	1 ML burosumab-twza 10 MG/ML Injection	2043859	EXACT			2026-04-02
-EU/1/17/1262/002	1510769	1 ML burosumab-twza 20 MG/ML Injection	2043868	EXACT			2026-04-02
-EU/1/17/1262/003	1510771	1 ML burosumab-twza 30 MG/ML Injection	2043876	EXACT			2026-04-02
-EU/1/17/1262/004	1510251	burosumab-twza 30 MG/ML Injection	2043879	BROAD		0.33 ML burosumab-twza 30 MG/ML Injection	2026-04-02
-EU/1/17/1262/005	1510251	burosumab-twza 30 MG/ML Injection	2043879	BROAD		0.67 ML burosumab-twza 30 MG/ML Injection	2026-04-02
-EU/1/17/1262/006	1510771	1 ML burosumab-twza 30 MG/ML Injection	2043876	EXACT			2026-04-02
+EU/1/17/1262/001	1510768	1 ML burosumab-twza 10 MG/ML Injection [Crysvita]	2043864	EXACT			2026-04-02
+EU/1/17/1262/002	1510770	1 ML burosumab-twza 20 MG/ML Injection [Crysvita]	2043870	EXACT			2026-04-02
+EU/1/17/1262/003	1510772	1 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2043878	EXACT			2026-04-02
+EU/1/17/1262/004	1510252	burosumab-twza 30 MG/ML Injection [Crysvita]	2043880	BROAD		0.33 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2026-04-02
+EU/1/17/1262/005	1510252	burosumab-twza 30 MG/ML Injection [Crysvita]	2043880	BROAD		0.67 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2026-04-02
+EU/1/17/1262/006	1510772	1 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2043878	EXACT			2026-04-02
