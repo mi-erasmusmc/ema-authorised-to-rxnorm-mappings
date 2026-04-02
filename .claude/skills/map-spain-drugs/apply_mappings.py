@@ -25,27 +25,13 @@ from datetime import date
 from io import StringIO
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "map-drugs"))
+from helpers import clean, fail, find_duplicates, load_tsv, write_tsv  # noqa: E402
+
 COLUMNS = [
     "cod_nacion", "nro_definitivo", "concept_id", "concept_name",
     "concept_code", "mapping_type", "comment", "suggestion", "last_updated_date",
 ]
-
-
-def load_tsv(path):
-    with open(path, newline="", encoding="utf-8") as f:
-        return list(csv.DictReader(f, delimiter="\t"))
-
-
-def write_tsv(path, rows):
-    with open(path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=COLUMNS, delimiter="\t", extrasaction="ignore")
-        writer.writeheader()
-        writer.writerows(rows)
-
-
-def fail(message):
-    print(f"ERROR: {message}", file=sys.stderr)
-    sys.exit(1)
 
 
 def validate_columns(rows, label):
@@ -53,19 +39,6 @@ def validate_columns(rows, label):
         missing = [column for column in ("cod_nacion", "nro_definitivo") if column not in row]
         if missing:
             fail(f"{label} row {index} is missing required columns: {', '.join(missing)}")
-
-
-def find_duplicates(rows, key):
-    seen = set()
-    duplicates = set()
-    for row in rows:
-        value = row.get(key, "").strip()
-        if not value:
-            continue
-        if value in seen:
-            duplicates.add(value)
-        seen.add(value)
-    return sorted(duplicates)
 
 
 def main():
@@ -90,7 +63,7 @@ def main():
             if not row.get("last_updated_date", "").strip():
                 row["last_updated_date"] = today
                 n += 1
-        write_tsv(mapping_path, rows)
+        write_tsv(mapping_path, rows, COLUMNS)
         print(f"Backfilled dates on {n} rows → {mapping_path}")
         return
 
@@ -131,7 +104,7 @@ def main():
         if row["cod_nacion"] in updates_by_cod:
             merged.append(updates_by_cod.pop(row["cod_nacion"]))
 
-    write_tsv(mapping_path, merged)
+    write_tsv(mapping_path, merged, COLUMNS)
 
     n_updated = sum(1 for r in updates if r["cod_nacion"] in existing_cods)
     n_added = len(updates) - n_updated

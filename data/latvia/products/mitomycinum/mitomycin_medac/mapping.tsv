@@ -1,79 +1,55 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-16-0012-01	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-02	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-03	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-01	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-02	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-03	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-04	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-05	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-06	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-04	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-05	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-06	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-07	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-08	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-09	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-07	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-08	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-09	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-10	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-11	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-12	35605506	mitomycin 20 MG Injection	1740900				
-16-0012-10	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-11	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-12	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-10	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-11	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-12	35605504	mitomycin 40 MG Injection	1740898				
-16-0012-01							
-16-0012-02							
-16-0012-03							
-16-0012-04							
-16-0012-05							
-16-0012-06							
-16-0012-07							
-16-0012-08							
-16-0012-09							
-16-0013-01							
-16-0013-02							
-16-0013-03							
-16-0013-04							
-16-0013-05							
-16-0013-06							
-16-0013-07							
-16-0013-08							
-16-0013-09							
-16-0013-10							
-16-0013-11							
-16-0013-12							
-16-0013-13							
-16-0013-14							
-16-0013-15							
-16-0013-16							
-16-0013-17							
-16-0013-18							
-16-0013-19							
-16-0013-20							
-16-0013-21							
-16-0013-22							
-16-0013-23							
-16-0013-24							
-16-0014-01							
-16-0014-02							
-16-0014-03							
-16-0014-04							
-16-0014-05							
-16-0014-06							
-16-0014-07							
-16-0014-08							
-16-0014-09							
-16-0014-10							
-16-0014-11							
-16-0014-12							
-16-0014-13							
-16-0014-14							
-16-0014-15							
-16-0014-16							
-16-0014-17							
-16-0014-18							
+16-0012-01	21034662	Mitomycin 2 MG Injection	OMOP396422	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 2 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-02	21034662	Mitomycin 2 MG Injection	OMOP396422	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 2 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-03	21034662	Mitomycin 2 MG Injection	OMOP396422	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 2 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-04	21172196	Mitomycin 10 MG Injection	OMOP396434	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 10 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-05	21172196	Mitomycin 10 MG Injection	OMOP396434	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 10 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-06	21172196	Mitomycin 10 MG Injection	OMOP396434	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 10 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-07	35605506	mitomycin 20 MG Injection	1740900	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 20 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-08	35605506	mitomycin 20 MG Injection	1740900	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 20 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-09	35605506	mitomycin 20 MG Injection	1740900	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 20 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-10	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 40 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-11	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 40 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0012-12	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	BROAD	Source presentation combines intravenous and intravesical powder uses.	mitomycin 40 MG Powder for Solution for Injection/Infusion or Intravesical Use [Mitomycin medac]	2026-04-02
+16-0013-01	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-02	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-03	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-04	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-05	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-06	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-07	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-08	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-09	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-10	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-11	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-12	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-13	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-14	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-15	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-16	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-17	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-18	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-19	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-20	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-21	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-22	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-23	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0013-24	37353788	mitomycin Powder for Intravesical Solution	2719765	BROAD		mitomycin 20 MG Powder for Intravesical Solution	2026-04-02
+16-0014-01	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-02	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-03	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-04	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-05	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-06	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-07	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-08	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-09	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-10	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-11	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-12	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-13	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-14	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-15	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-16	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-17	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02
+16-0014-18	37353789	mitomycin 40 MG Powder for Intravesical Solution	2719766	EXACT			2026-04-02

@@ -19,11 +19,9 @@ To list all product folders that have parsed data but no `mapping.tsv`:
 make find_unmapped
 ```
 
-This prints folder names (one per line) that need mapping. Use it to find the next product to work on.
-
 ## Prerequisites
 
-Refer to the `find-concepts` skill for how to search for RxNorm concepts, and the `map-drugs` skill for general mapping principles.
+Refer to the `find-concepts` skill for how to search for RxNorm concepts, and the `map-drugs` skill for general mapping principles and the standard workflow.
 
 ## Input Files
 

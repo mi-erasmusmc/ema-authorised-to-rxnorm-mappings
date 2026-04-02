@@ -24,6 +24,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent / "map-drugs"))
 import validate_core as core  # noqa: E402
+from helpers import clean, load_tsv, pattern_key as _pattern_key  # noqa: E402
 
 
 PATTERN_FIELDS = [
@@ -57,17 +58,6 @@ UPDATE_COLUMNS = [
 ]
 
 
-def clean(value: object) -> str:
-    if value is None:
-        return ""
-    return str(value).strip()
-
-
-def load_tsv(path: Path) -> list[dict[str, str]]:
-    with path.open(newline="", encoding="utf-8") as handle:
-        return list(csv.DictReader(handle, delimiter="\t"))
-
-
 def run_command(args: list[str], stdin: str | None = None) -> subprocess.CompletedProcess[str]:
     return subprocess.run(
         args,
@@ -79,7 +69,7 @@ def run_command(args: list[str], stdin: str | None = None) -> subprocess.Complet
 
 
 def pattern_key(row: dict[str, str]) -> tuple[str, ...]:
-    return tuple(clean(row.get(field, "")) for field in PATTERN_FIELDS)
+    return _pattern_key(row, PATTERN_FIELDS)
 
 
 def candidate_plan(folder: Path) -> dict[str, object] | None:

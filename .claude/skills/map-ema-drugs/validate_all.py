@@ -45,6 +45,12 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.parent / "map-drugs"))
 import validate_core as core  # noqa: E402
 
+VALIDATOR_CONFIG = {
+    "id_col": "ma_number",
+    "suppressions_path_fn": lambda folder: folder.parent.parent / "suppressions.tsv",
+    "display_name_fn": lambda folder: folder.name,
+}
+
 
 def find_parsed_data(folder):
     """Return the most recent parsed_data_*.tsv path, or None."""
@@ -102,45 +108,16 @@ def validate_folder(folder: Path, suppressions=None) -> list[dict]:
         describe=make_description,
     )
 
-    for row in mapping_rows:
-        ma_number = core.clean(row.get("ma_number", ""))
-        if ma_number not in data_by_id:
-            continue
-        if core.clean(row.get("mapping_type", "")) != "EXACT":
-            continue
-        concept_name = core.clean(row.get("concept_name", ""))
-        if concept_name.startswith("{") or concept_name.endswith("Pack"):
-            continue
-        comment = core.clean(row.get("comment", "")).lower()
-        if "overfill" in comment or "deliverable dose" in comment:
-            continue
-        data_row = data_by_id[ma_number]
-        if core.needs_volume_review(
-            data_row,
-            concept_name,
+    issues += core.check_volume_issues(
+        "ma_number", data_by_id, mapping_rows, make_description,
+        volume_review_kwargs=dict(
             description_key="content",
             form_key="pharmaceutical_form",
             route_key="route_of_administration",
             injectable_form_markers=("injection", "injectable"),
             route_skip_markers=("intravitreal",),
-        ):
-            issues.append(core.make_issue(
-                "REVIEW_VOLUME",
-                ma_number,
-                make_description(data_row),
-                core.clean(row.get("concept_id", "")),
-                concept_name,
-                core.clean(row.get("mapping_type", "")),
-            ))
-        if core.needs_injection_form_review(concept_name):
-            issues.append(core.make_issue(
-                "REVIEW_INJECTION_FORM",
-                ma_number,
-                make_description(data_row),
-                core.clean(row.get("concept_id", "")),
-                concept_name,
-                core.clean(row.get("mapping_type", "")),
-            ))
+        ),
+    )
 
     issues += core.check_inconsistent_concepts(
         "ma_number", data_by_id, mapping_rows, sig_fn=ema_sig, describe=make_description,
@@ -167,41 +144,15 @@ def main():
     script_dir = Path(__file__).parent
     default_products = script_dir.parent.parent.parent / "data" / "ema" / "products"
 
-    parser = core.build_argparser(
-        "Validate EMA product folders.",
-        default_products,
-        core.EMA_ISSUE_TYPES,
+    core.run_validator(
+        id_col="ma_number",
+        default_products=default_products,
+        issue_types=core.EMA_ISSUE_TYPES,
+        validate_fn=validate_folder,
+        discover_fn=discover_folders,
+        description="Validate EMA product folders.",
+        skip_filter=lambda issues: all(i["issue"] == "NO_DATE" for i in issues),
     )
-    args = core.parse_standard_args(parser)
-
-    if args.folder:
-        # Single-folder mode
-        folder = Path(args.folder)
-        suppressions_path = folder.parent.parent / "suppressions.tsv"
-        suppressions = core.load_suppressions(suppressions_path, id_col="ma_number")
-        issues = validate_folder(folder, suppressions=suppressions)
-        core.run_single_folder_reporter(folder.name, issues, args)
-        return
-
-    # Multi-folder mode
-    products_dir = Path(args.products_dir)
-    if not products_dir.is_dir():
-        print(f"ERROR: {products_dir} not found", file=sys.stderr)
-        sys.exit(1)
-
-    suppressions_path = products_dir.parent / "suppressions.tsv"
-    suppressions = core.load_suppressions(suppressions_path, id_col="ma_number")
-
-    folder_issues = {}
-    for folder in discover_folders(products_dir):
-        issues = validate_folder(folder, suppressions=suppressions)
-        if issues:
-            # Suppress NO_DATE-only folders -- a missing date suffix is not actionable
-            if all(i["issue"] == "NO_DATE" for i in issues):
-                continue
-            folder_issues[folder] = issues
-
-    core.run_reporter(folder_issues, args, core.EMA_ISSUE_TYPES)
 
 
 if __name__ == "__main__":

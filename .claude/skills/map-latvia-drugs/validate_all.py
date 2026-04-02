@@ -45,6 +45,18 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "map-drugs"))
 import validate_core as core  # noqa: E402
 
 
+def folder_display_name(folder: Path) -> str:
+    """Return substance/product as the display name for a Latvia folder."""
+    return f"{folder.parent.name}/{folder.name}"
+
+
+VALIDATOR_CONFIG = {
+    "id_col": "product_id",
+    "suppressions_path_fn": lambda folder: folder.parent.parent.parent / "suppressions.tsv",
+    "display_name_fn": folder_display_name,
+}
+
+
 def find_data_file(folder):
     """Return the most recent data_*.tsv path, or None."""
     candidates = sorted(folder.glob("data_*.tsv"), reverse=True)
@@ -85,44 +97,14 @@ def validate_folder(folder: Path, suppressions=None) -> list[dict]:
         describe=make_description,
     )
 
-    # REVIEW_VOLUME and REVIEW_INJECTION_FORM for injectables
-    for row in mapping_rows:
-        product_id = core.clean(row.get("product_id", ""))
-        if product_id not in data_by_id:
-            continue
-        if core.clean(row.get("mapping_type", "")) != "EXACT":
-            continue
-        concept_name = core.clean(row.get("concept_name", ""))
-        if concept_name.startswith("{") or concept_name.endswith("Pack"):
-            continue
-        comment = core.clean(row.get("comment", "")).lower()
-        if "overfill" in comment or "deliverable dose" in comment:
-            continue
-        data_row = data_by_id[product_id]
-        if core.needs_volume_review(
-            data_row,
-            concept_name,
+    issues += core.check_volume_issues(
+        "product_id", data_by_id, mapping_rows, make_description,
+        volume_review_kwargs=dict(
             description_key="product_strength",
             form_key="pharmaceutical_form",
             injectable_form_markers=("injection", "injectable", "infusion"),
-        ):
-            issues.append(core.make_issue(
-                "REVIEW_VOLUME",
-                product_id,
-                make_description(data_row),
-                core.clean(row.get("concept_id", "")),
-                concept_name,
-                core.clean(row.get("mapping_type", "")),
-            ))
-        if core.needs_injection_form_review(concept_name):
-            issues.append(core.make_issue(
-                "REVIEW_INJECTION_FORM",
-                product_id,
-                make_description(data_row),
-                core.clean(row.get("concept_id", "")),
-                concept_name,
-                core.clean(row.get("mapping_type", "")),
-            ))
+        ),
+    )
 
     # Inconsistency checks
     def latvia_sig(data_row):
@@ -161,74 +143,20 @@ def discover_folders(products_dir: Path):
     return folders
 
 
-def folder_display_name(folder: Path) -> str:
-    """Return substance/product as the display name for a Latvia folder."""
-    return f"{folder.parent.name}/{folder.name}"
-
-
 def main():
     script_dir = Path(__file__).parent
     default_products = script_dir.parent.parent.parent / "data" / "latvia" / "products"
 
-    parser = core.build_argparser(
-        "Validate Latvia product folders.",
-        default_products,
-        core.LATVIA_ISSUE_TYPES,
+    core.run_validator(
+        id_col="product_id",
+        default_products=default_products,
+        issue_types=core.LATVIA_ISSUE_TYPES,
+        validate_fn=validate_folder,
+        discover_fn=discover_folders,
+        description="Validate Latvia product folders.",
+        suppressions_path_fn=lambda f: f.parent.parent.parent / "suppressions.tsv",
+        display_name_fn=folder_display_name,
     )
-    args = core.parse_standard_args(parser)
-
-    if args.folder:
-        # Single-folder mode
-        folder = Path(args.folder)
-        suppressions_path = folder.parent.parent.parent / "suppressions.tsv"
-        suppressions = core.load_suppressions(suppressions_path, id_col="product_id")
-        issues = validate_folder(folder, suppressions=suppressions)
-        core.run_single_folder_reporter(folder_display_name(folder), issues, args)
-        return
-
-    # Multi-folder mode
-    products_dir = Path(args.products_dir)
-    if not products_dir.is_dir():
-        print(f"ERROR: {products_dir} not found", file=sys.stderr)
-        sys.exit(1)
-
-    suppressions_path = products_dir.parent / "suppressions.tsv"
-    suppressions = core.load_suppressions(suppressions_path, id_col="product_id")
-
-    folder_issues = {}
-    for folder in discover_folders(products_dir):
-        issues = validate_folder(folder, suppressions=suppressions)
-        if issues:
-            folder_issues[folder] = issues
-
-    display_issues = {}
-    for folder, issues in folder_issues.items():
-        display_folder = _DisplayPath(folder, folder_display_name(folder))
-        display_issues[display_folder] = issues
-
-    core.run_reporter(display_issues, args, core.LATVIA_ISSUE_TYPES)
-
-
-class _DisplayPath:
-    """Wraps a Path so that .name returns a custom display string for the reporter."""
-
-    def __init__(self, path: Path, display_name: str):
-        self._path = path
-        self.name = display_name
-
-    def __fspath__(self):
-        return str(self._path)
-
-    def __str__(self):
-        return str(self._path)
-
-    def __hash__(self):
-        return hash(self._path)
-
-    def __eq__(self, other):
-        if isinstance(other, _DisplayPath):
-            return self._path == other._path
-        return self._path == other
 
 
 if __name__ == "__main__":

@@ -30,6 +30,12 @@ DETAIL_HEADER = [
     "mapping_type",
 ]
 
+VALIDATOR_CONFIG = {
+    "id_col": "cod_nacion",
+    "suppressions_path_fn": lambda folder: folder.parent.parent / "suppressions.tsv",
+    "display_name_fn": lambda folder: folder.name,
+}
+
 
 def branded_signature_key(data_row):
     des_nomco = core.clean(data_row.get("des_nomco", ""))
@@ -42,11 +48,8 @@ def branded_signature_key(data_row):
     return core.clean(data_row.get("laboratorio_titular", "")).upper()
 
 
-def validate_folder(folder: Path, suppressed: set = None):
-    """Return a list of issue dicts for a product folder. Empty list = clean.
-
-    suppressed: optional set of (issue_type, source_id) tuples to exclude.
-    """
+def validate_folder(folder: Path, suppressions=None):
+    """Return a list of issue dicts for a product folder. Empty list = clean."""
     data_path = folder / "data.tsv"
     mapping_path = folder / "mapping.tsv"
 
@@ -59,45 +62,44 @@ def validate_folder(folder: Path, suppressed: set = None):
 
     describe = lambda row: core.clean(row.get("des_dcp", ""))  # noqa: E731
 
-    issues = list(core.run_common_checks("cod_nacion", data_rows, mapping_rows, describe=describe))
+    issues = core.run_common_checks("cod_nacion", data_rows, mapping_rows, describe=describe)
     issues += core.validate_folder_issues(mapping_path)
 
-    # Spain-specific: NRO_MISMATCH, REVIEW_VOLUME, and REVIEW_INJECTION_FORM
+    # Spain-specific: NRO_MISMATCH
     for row in mapping_rows:
         cod = core.clean(row.get("cod_nacion", ""))
         if cod not in data_by_cod:
             continue
         data_row = data_by_cod[cod]
-        des_dcp = describe(data_row)
-        concept = core.clean(row.get("concept_name", ""))
-        mapping_type = core.clean(row.get("mapping_type", ""))
-        concept_id = core.clean(row.get("concept_id", ""))
         source_nro = core.clean(data_row.get("nro_definitivo", ""))
         mapped_nro = core.clean(row.get("nro_definitivo", ""))
 
         if source_nro and mapped_nro and source_nro != mapped_nro:
             issues.append(core.make_issue(
-                "NRO_MISMATCH", cod, des_dcp, concept_id, concept, mapping_type,
+                "NRO_MISMATCH", cod, describe(data_row),
+                core.clean(row.get("concept_id", "")),
+                core.clean(row.get("concept_name", "")),
+                core.clean(row.get("mapping_type", "")),
                 nro_definitivo=mapped_nro,
             ))
 
-        if mapping_type == "EXACT" and core.needs_volume_review(
-            data_row, concept,
+    # Volume/injection checks
+    def spain_extra_fields(row, data_row):
+        return {"nro_definitivo": core.clean(row.get("nro_definitivo", ""))}
+
+    issues += core.check_volume_issues(
+        "cod_nacion", data_by_cod, mapping_rows, describe,
+        volume_review_kwargs=dict(
             description_key="des_dcp",
             unit_key="unidad_contenido",
             form_key="forma_farmaceutica",
             injectable_unit_markers=("inye",),
             injectable_form_markers=("inyect",),
-        ):
-            issues.append(core.make_issue(
-                "REVIEW_VOLUME", cod, des_dcp, concept_id, concept, mapping_type,
-                nro_definitivo=mapped_nro,
-            ))
-        if mapping_type == "EXACT" and core.needs_injection_form_review(concept):
-            issues.append(core.make_issue(
-                "REVIEW_INJECTION_FORM", cod, des_dcp, concept_id, concept, mapping_type,
-                nro_definitivo=mapped_nro,
-            ))
+        ),
+        skip_packs=False,
+        skip_overfill_comment=False,
+        extra_fields_fn=spain_extra_fields,
+    )
 
     # Inconsistency checks
     def spain_sig(data_row):
@@ -117,8 +119,8 @@ def validate_folder(folder: Path, suppressed: set = None):
         "cod_nacion", data_by_cod, mapping_rows, sig_fn=spain_sig, describe=describe,
     )
 
-    if suppressed:
-        issues = [i for i in issues if (i["issue"], i["source_id"]) not in suppressed]
+    if suppressions:
+        issues = core.apply_suppressions(issues, folder.name, suppressions)
 
     return issues
 
@@ -131,46 +133,15 @@ def main():
     script_dir = Path(__file__).parent
     default_products = script_dir.parent.parent.parent / "data" / "spain" / "products"
 
-    parser = core.build_argparser(
-        "Validate Spain product folders.",
-        default_products,
-        core.SPAIN_ISSUE_TYPES,
-    )
-    args = core.parse_standard_args(parser)
-
-    if args.folder:
-        # Single-folder mode
-        folder = Path(args.folder)
-        if not (folder / "data.tsv").exists():
-            print(f"ERROR: {folder / 'data.tsv'} not found", file=sys.stderr)
-            sys.exit(1)
-        suppressions_path = folder.parent.parent / "suppressions.tsv"
-        all_suppressions = core.load_suppressions(suppressions_path, id_col="cod_nacion")
-        suppressed = all_suppressions.get(folder.name, set())
-        issues = validate_folder(folder, suppressed=suppressed)
-        core.run_single_folder_reporter(folder.name, issues, args, detail_header=DETAIL_HEADER)
-        return
-
-    # Multi-folder mode
-    products_dir = Path(args.products_dir)
-    if not products_dir.is_dir():
-        print(f"ERROR: {products_dir} not found", file=sys.stderr)
-        sys.exit(1)
-
-    folders = discover_folders(products_dir)
-    suppressions_path = products_dir.parent / "suppressions.tsv"
-    all_suppressions = core.load_suppressions(suppressions_path, id_col="cod_nacion")
-
-    folder_issues = {}
-    for folder in folders:
-        suppressed = all_suppressions.get(folder.name, set())
-        issues = validate_folder(folder, suppressed=suppressed)
-        if issues:
-            folder_issues[folder] = issues
-
-    core.run_reporter(
-        folder_issues, args, core.SPAIN_ISSUE_TYPES,
-        detail_header=DETAIL_HEADER, sort_key="source_id",
+    core.run_validator(
+        id_col="cod_nacion",
+        default_products=default_products,
+        issue_types=core.SPAIN_ISSUE_TYPES,
+        validate_fn=validate_folder,
+        discover_fn=discover_folders,
+        description="Validate Spain product folders.",
+        detail_header=DETAIL_HEADER,
+        sort_key="source_id",
     )
 
 

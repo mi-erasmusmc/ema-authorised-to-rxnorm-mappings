@@ -28,6 +28,7 @@ These apply across all data sources:
 - **Generic products must use non-branded concepts**: If a product is a generic (i.e. not the originator brand), always map to the unbranded clinical drug concept even when a branded concept with matching strength and form exists. Example: a generic metformin 850 MG tablet → `metformin hydrochloride 850 MG Oral Tablet`, not `metformin hydrochloride 850 MG Oral Tablet [Glucophage]`. Only the originator brand product itself should map to the branded concept.
 - **BROAD**: Less specific match. Use when only a concept without specific strength/volume is available, or for vaccines/biologicals with less granular RxNorm coverage. When choosing between multiple BROAD candidates, pick the one that preserves the most clinically relevant information — dose (strength + volume) matters more than device/form differences. For example, `0.5 ML etanercept 50 MG/ML Prefilled Syringe` is preferred over `etanercept 50 MG/ML Auto-Injector` for a 25 mg pen injector, because the volume distinguishes the 25 mg dose from the 50 mg dose.
 - **NO_MAPPING**: No suitable RxNorm concept exists (e.g., EU-only strength or product with no FDA equivalent). Leave concept fields empty, populate `suggestion` with the ideal concept name, and do NOT set `mapping_type` to EXACT or BROAD. A `suggestion` is required.
+- **`suggestion` formatting must follow RxNorm style**: Construct `suggestion` values using the naming patterns visible in `find-concepts` results. For clinical drug suggestions, the order is `<volume when applicable> <ingredient> <strength> <dose form> [<Brand>]`, where ingredient, strength, and dose form are required, volume is included when clinically applicable, and brand is optional. Pack concepts follow a more elaborate RxNorm pack structure; do not improvise pack names from freeform source phrasing.
 
 ### Standard vs Extension Priority
 
@@ -98,7 +99,7 @@ Create `mapping.tsv` in the product folder with these columns:
 
 | Column | Description |
 |--------|-------------|
-| `<source_id>` | Source-specific ID (e.g., `ma_number` for EMA, `product_id` for Latvia) |
+| `<source_id>` | Source-specific ID (e.g., `ma_number` for EMA, `product_id` for Latvia, `cod_nacion` for Spain) |
 | `concept_id` | RxNorm `concept_id` from search results |
 | `concept_name` | RxNorm `concept_name` from search results |
 | `concept_code` | RxNorm `concept_code` from search results |
@@ -107,17 +108,62 @@ Create `mapping.tsv` in the product folder with these columns:
 | `suggestion` | Ideal concept name when no exact match exists |
 | `last_updated_date` | Date in `YYYY-MM-DD` format |
 
-See source-specific skills (`map-ema-drugs`, `map-latvia-drugs`) for the exact ID column name and any additional rules.
+See source-specific skills for the exact ID column name and any additional columns.
 
-### Validation
+## Standard Mapping Workflow
 
-After creating or editing any `mapping.tsv`, validate it:
+All data sources follow the same general workflow. Source-specific skills document deviations and extra steps.
 
-```bash
-make validate_mapping ARGS="<path_to_mapping.tsv>"
+1. **Validate the folder** to understand existing issues:
+   ```bash
+   make validate_mapping ARGS="<path_to_mapping.tsv>"
+   ```
+   Source-specific validators provide richer checks:
+   ```bash
+   make validate_spain ARGS="<folder>/"      # Spain
+   make validate_latvia ARGS="<folder>/"     # Latvia
+   make validate_ema ARGS="<folder>/"        # EMA
+   ```
+
+2. **Read the source data** to understand presentations, strengths, volumes, and forms.
+   For large folders, summarize repeated patterns first:
+   ```bash
+   make list_folder_patterns ARGS="<folder>/"
+   make list_folder_patterns ARGS="<folder>/ --missing-only"  # unmapped rows only
+   ```
+
+3. **Search RxNorm concepts** via the `find-concepts` skill. Bundle 3-5 queries per call. Translate non-English ingredient names to English before searching. Always retry with `--extension` before concluding no concept exists.
+
+4. **Apply mapping decisions.** Source-specific apply tools set `last_updated_date` automatically.
+   - Use `comment` only for mapping rationale another reviewer would need (salt conversions, metered-vs-delivered dose, biosimilar handling, manual corrections from bad source data). Do not use it for edit history.
+   - If `mapping_type` is `BROAD`, always populate `suggestion`.
+
+5. **Validate and regenerate**:
+   ```bash
+   make validate_mapping ARGS="<path_to_mapping.tsv>"
+   make generate_mapping_overviews
+   ```
+
+### Working with Mixed-pattern Folders
+
+When a folder contains multiple presentation families (oral + injectable, powder + solution, branded + generic, different release/device variants):
+
+- **Default to missing rows only.** Do not do full-folder rewrites.
+- **Treat existing high-quality EXACT rows as anchors.** Only overwrite when you have a specific, verified reason:
+  - The current concept has the wrong route, dose form, strength, volume, or brand
+  - The row is flagged by validate as incomplete or inconsistent and you confirmed the correction
+  - The source data itself is anomalous and you are correcting to the defensible RxNorm presentation
+- **Separate backfill from corrections.** If a folder needs both missing-row backfill and correction of a few existing rows, handle those as separate substeps.
+- Before overwriting existing rows, explicitly compare the current and proposed mappings for route changes, dose-form changes, branded-to-generic or generic-to-branded changes, oral vs injectable swaps, powder vs solution swaps, and unit-dose vs multidose/device changes.
+
+### Suppressing Known False Positives
+
+When a validate flag is a confirmed false positive (the mapping is correct but the check cannot distinguish the legitimate case), add a row to the source's `suppressions.tsv`:
 ```
-
-This checks header columns, date format, concept_id type, and mapping_type values.
+folder	issue	<source_id>
+<folder_name>	<ISSUE_TYPE>	<id_value>
+```
+Record *why* in the `comment` column of the corresponding `mapping.tsv` row. Use `<source_id>=*` to suppress all rows of an issue type in a folder.
 
 ## Biosimilars
 

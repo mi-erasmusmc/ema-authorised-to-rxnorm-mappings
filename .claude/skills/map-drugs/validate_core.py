@@ -29,8 +29,6 @@ from validate_mapping import COMMON_CHECK_OVERLAP_CODES, validate_file  # noqa: 
 
 # -- Issue type registry -------------------------------------------------------
 
-# Structural issue types produced by validate_mapping.py.
-# These replace the old catch-all "INVALID" bucket.
 STRUCTURAL_ISSUE_TYPES = [
     "EMPTY_DATE",
     "BAD_DATE",
@@ -43,10 +41,7 @@ STRUCTURAL_ISSUE_TYPES = [
     "INVALID_STRUCTURE",
 ]
 
-# Source-specific issue types
-EMA_ISSUE_TYPES = [
-    "UNMAPPED_FOLDER",
-    "NO_DATE",
+COMMON_ISSUE_TYPES = [
     "MISSING",
     "STALE_MAPPING",
     "NO_CONCEPT",
@@ -59,39 +54,11 @@ EMA_ISSUE_TYPES = [
     "DUPLICATE_MAPPING",
     "INCONSISTENT_CONCEPT",
     "INCONSISTENT_TYPE",
-] + STRUCTURAL_ISSUE_TYPES
+]
 
-SPAIN_ISSUE_TYPES = [
-    "MISSING",
-    "NO_CONCEPT",
-    "NO_TYPE",
-    "BROAD",
-    "NO_MAPPING",
-    "STALE_MAPPING",
-    "NRO_MISMATCH",
-    "DUPLICATE_DATA",
-    "DUPLICATE_MAPPING",
-    "REVIEW_VOLUME",
-    "REVIEW_INJECTION_FORM",
-    "INCONSISTENT_CONCEPT",
-    "INCONSISTENT_TYPE",
-] + STRUCTURAL_ISSUE_TYPES
-
-LATVIA_ISSUE_TYPES = [
-    "UNMAPPED_FOLDER",
-    "MISSING",
-    "STALE_MAPPING",
-    "NO_CONCEPT",
-    "NO_TYPE",
-    "BROAD",
-    "NO_MAPPING",
-    "REVIEW_VOLUME",
-    "REVIEW_INJECTION_FORM",
-    "DUPLICATE_DATA",
-    "DUPLICATE_MAPPING",
-    "INCONSISTENT_CONCEPT",
-    "INCONSISTENT_TYPE",
-] + STRUCTURAL_ISSUE_TYPES
+EMA_ISSUE_TYPES = ["UNMAPPED_FOLDER", "NO_DATE"] + COMMON_ISSUE_TYPES + STRUCTURAL_ISSUE_TYPES
+SPAIN_ISSUE_TYPES = ["NRO_MISMATCH"] + COMMON_ISSUE_TYPES + STRUCTURAL_ISSUE_TYPES
+LATVIA_ISSUE_TYPES = ["UNMAPPED_FOLDER"] + COMMON_ISSUE_TYPES + STRUCTURAL_ISSUE_TYPES
 
 DETAIL_HEADER = [
     "issue",
@@ -214,6 +181,45 @@ def needs_injection_form_review(concept_name):
     if not LEADING_VOLUME_RE.search(concept):
         return False
     return bool(CONCENTRATION_STRENGTH_RE.search(concept))
+
+
+def check_volume_issues(
+    source_id_col, data_by_id, mapping_rows, describe,
+    volume_review_kwargs,
+    skip_packs=True,
+    skip_overfill_comment=True,
+    extra_fields_fn=None,
+):
+    """Check REVIEW_VOLUME and REVIEW_INJECTION_FORM for EXACT mapping rows."""
+    issues = []
+    for row in mapping_rows:
+        sid = clean(row.get(source_id_col, ""))
+        if sid not in data_by_id:
+            continue
+        mapping_type = clean(row.get("mapping_type", ""))
+        if mapping_type != "EXACT":
+            continue
+        concept_name = clean(row.get("concept_name", ""))
+        if skip_packs and (concept_name.startswith("{") or concept_name.endswith("Pack")):
+            continue
+        if skip_overfill_comment:
+            comment = clean(row.get("comment", "")).lower()
+            if "overfill" in comment or "deliverable dose" in comment:
+                continue
+        data_row = data_by_id[sid]
+        concept_id = clean(row.get("concept_id", ""))
+        extra = extra_fields_fn(row, data_row) if extra_fields_fn else {}
+        if needs_volume_review(data_row, concept_name, **volume_review_kwargs):
+            issues.append(make_issue(
+                "REVIEW_VOLUME", sid, describe(data_row),
+                concept_id, concept_name, mapping_type, **extra,
+            ))
+        if needs_injection_form_review(concept_name):
+            issues.append(make_issue(
+                "REVIEW_INJECTION_FORM", sid, describe(data_row),
+                concept_id, concept_name, mapping_type, **extra,
+            ))
+    return issues
 
 
 # -- Suppressions --------------------------------------------------------------
@@ -456,19 +462,23 @@ def parse_standard_args(parser):
     return args
 
 
-def run_reporter(folder_issues, args, issue_types, detail_header=None, sort_key="source_id"):
+def run_reporter(folder_issues, args, issue_types, detail_header=None, sort_key="source_id",
+                 display_name_fn=None):
     """
     Print validation results to stdout.
 
     Args:
-        folder_issues : dict mapping Path -> list[issue dict]
-        args          : parsed argparse namespace with .issue, .details, .min_count
-        issue_types   : ordered list of all issue type names for summary formatting
-        detail_header : column names for --details rows (defaults to DETAIL_HEADER)
-        sort_key      : issue dict key to sort detail rows by (default: "source_id")
+        folder_issues    : dict mapping Path -> list[issue dict]
+        args             : parsed argparse namespace with .issue, .details, .min_count
+        issue_types      : ordered list of all issue type names for summary formatting
+        detail_header    : column names for --details rows (defaults to DETAIL_HEADER)
+        sort_key         : issue dict key to sort detail rows by (default: "source_id")
+        display_name_fn  : callable(folder) -> str (default: folder.name)
     """
     if detail_header is None:
         detail_header = DETAIL_HEADER
+    if display_name_fn is None:
+        display_name_fn = lambda f: f.name  # noqa: E731
 
     if not folder_issues:
         print("OK - no issues found")
@@ -497,12 +507,12 @@ def run_reporter(folder_issues, args, issue_types, detail_header=None, sort_key=
             for folder, issues in matching:
                 filtered = [i for i in issues if i["issue"] == args.issue]
                 for issue in sorted(filtered, key=lambda x: x.get(sort_key, "")):
-                    row_vals = [folder.name] + [issue.get(col, "") for col in detail_header]
+                    row_vals = [display_name_fn(folder)] + [issue.get(col, "") for col in detail_header]
                     print("\t".join(row_vals))
         else:
             for folder, issues in matching:
                 count = sum(1 for i in issues if i["issue"] == args.issue)
-                print(f"{count}\t{folder.name}")
+                print(f"{count}\t{display_name_fn(folder)}")
 
     else:
         ranked = sorted(folder_issues.items(), key=lambda item: -len(item[1]))
@@ -510,7 +520,7 @@ def run_reporter(folder_issues, args, issue_types, detail_header=None, sort_key=
         print(f"# {len(folder_issues)} folders with issues, {total_issues} total\n")
         for folder, issues in ranked:
             counts = Counter(i["issue"] for i in issues)
-            print(format_summary_line(folder.name, counts, issue_types))
+            print(format_summary_line(display_name_fn(folder), counts, issue_types))
 
 
 def run_single_folder_reporter(folder_name, issues, args, detail_header=None):
@@ -571,3 +581,74 @@ def run_single_folder_reporter(folder_name, issues, args, detail_header=None):
         for label, count in grouped[issue_type].most_common():
             print(f"{count}\t{label}")
         print()
+
+
+def run_validator(
+    *,
+    id_col,
+    default_products,
+    issue_types,
+    validate_fn,
+    discover_fn,
+    description="Validate product folders.",
+    suppressions_path_fn=None,
+    display_name_fn=None,
+    detail_header=None,
+    sort_key="source_id",
+    skip_filter=None,
+):
+    """Unified main() for source-specific validators.
+
+    Args:
+        id_col: source ID column name (e.g. "ma_number")
+        default_products: default path to the products directory
+        issue_types: ordered list of issue type names
+        validate_fn: callable(folder, suppressions=...) -> list[dict]
+        discover_fn: callable(products_dir) -> list[Path]
+        description: argparser description
+        suppressions_path_fn: callable(folder) -> Path for single-folder mode
+            (default: folder.parent.parent / "suppressions.tsv")
+        display_name_fn: callable(folder) -> str (default: folder.name)
+        detail_header: column names for --details rows
+        sort_key: issue dict key to sort detail rows by
+        skip_filter: callable(issues) -> bool, skip folder in multi-mode if True
+    """
+    if suppressions_path_fn is None:
+        suppressions_path_fn = lambda f: f.parent.parent / "suppressions.tsv"  # noqa: E731
+    if display_name_fn is None:
+        display_name_fn = lambda f: f.name  # noqa: E731
+
+    parser = build_argparser(description, default_products, issue_types)
+    args = parse_standard_args(parser)
+
+    if args.folder:
+        folder = Path(args.folder)
+        suppressions_path = suppressions_path_fn(folder)
+        suppressions = load_suppressions(suppressions_path, id_col=id_col)
+        issues = validate_fn(folder, suppressions=suppressions)
+        run_single_folder_reporter(
+            display_name_fn(folder), issues, args, detail_header=detail_header,
+        )
+        return
+
+    products_dir = Path(args.products_dir)
+    if not products_dir.is_dir():
+        print(f"ERROR: {products_dir} not found", file=sys.stderr)
+        sys.exit(1)
+
+    suppressions_path = products_dir.parent / "suppressions.tsv"
+    suppressions = load_suppressions(suppressions_path, id_col=id_col)
+
+    folder_issues = {}
+    for folder in discover_fn(products_dir):
+        issues = validate_fn(folder, suppressions=suppressions)
+        if issues:
+            if skip_filter and skip_filter(issues):
+                continue
+            folder_issues[folder] = issues
+
+    run_reporter(
+        folder_issues, args, issue_types,
+        detail_header=detail_header, sort_key=sort_key,
+        display_name_fn=display_name_fn,
+    )

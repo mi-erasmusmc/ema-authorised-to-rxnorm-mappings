@@ -106,18 +106,20 @@ SUGGESTION_OPTIONAL_FILES = {
 }
 
 
-BRAND_END_RE = re.compile(r"\[[^\]]+\]$")
-
-
 def suggestion_has_valid_dose_form(suggestion: str) -> bool:
     lower_suggestion = suggestion.casefold()
     return any(dose_form.casefold() in lower_suggestion for dose_form in VALID_DOSE_FORMS)
 
 
 def suggestion_has_valid_ending(suggestion: str) -> bool:
-    """Suggestion must end with a dose form, a [brand] suffix, or 'Pack'."""
-    if BRAND_END_RE.search(suggestion):
-        return True
+    """Suggestion must end with a dose form or Pack; branded suggestions must preserve that ending before [Brand]."""
+    branded = BRAND_SUFFIX_RE.fullmatch(suggestion)
+    if branded:
+        base = branded.group("base").rstrip()
+        if base.casefold().endswith("pack"):
+            return True
+        lower_base = base.casefold()
+        return any(lower_base.endswith(df.casefold()) for df in VALID_DOSE_FORMS)
     if suggestion.casefold().endswith("pack"):
         return True
     lower = suggestion.casefold()
@@ -327,7 +329,7 @@ def validate_file(path: str) -> list[tuple[str, str]]:
                     if not suggestion_has_valid_ending(suggestion):
                         errors.append((
                             "BAD_SUGGESTION",
-                            f"  {line}: suggestion must end with a dose form, [Brand], or 'Pack'"
+                            f"  {line}: suggestion must end with a dose form or Pack; branded suggestions must keep that ending before [Brand]"
                         ))
 
     except FileNotFoundError:
@@ -381,24 +383,13 @@ def _run_source_validator(path: str):
 
     module = _load_module(source["module_path"], f"validate_{source['kind']}_all")
     folder = source["folder"]
+    config = module.VALIDATOR_CONFIG
 
-    if source["kind"] == "ema":
-        suppressions_path = folder.parent.parent / "suppressions.tsv"
-        suppressions = module.core.load_suppressions(suppressions_path, id_col="ma_number")
-        issues = module.validate_folder(folder, suppressions=suppressions)
-        display_name = folder.name
-    elif source["kind"] == "spain":
-        suppressions_path = folder.parent.parent / "suppressions.tsv"
-        all_suppressions = module.core.load_suppressions(suppressions_path, id_col="cod_nacion")
-        issues = module.validate_folder(folder, suppressed=all_suppressions.get(folder.name, set()))
-        display_name = folder.name
-    else:
-        suppressions_path = folder.parent.parent.parent / "suppressions.tsv"
-        suppressions = module.core.load_suppressions(suppressions_path, id_col="product_id")
-        issues = module.validate_folder(folder, suppressions=suppressions)
-        display_name = module.folder_display_name(folder)
-
-    return display_name, issues
+    from validate_core import load_suppressions  # noqa: E402
+    suppressions_path = config["suppressions_path_fn"](folder)
+    suppressions = load_suppressions(suppressions_path, id_col=config["id_col"])
+    issues = module.validate_folder(folder, suppressions=suppressions)
+    return config["display_name_fn"](folder), issues
 
 
 def main():

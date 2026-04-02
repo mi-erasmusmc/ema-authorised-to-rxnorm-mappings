@@ -15,7 +15,16 @@ find_duplicate_nros:
 	$(PYTHON) .claude/skills/map-spain-drugs/scripts/find_duplicate_nros.py $(ARGS)
 
 list_folder_patterns:
-	$(PYTHON) .claude/skills/map-spain-drugs/scripts/list_folder_patterns.py $(ARGS)
+	$(PYTHON) .claude/skills/map-drugs/scripts/list_folder_patterns.py $(ARGS)
+
+list_latvia_patterns:
+	$(PYTHON) .claude/skills/map-drugs/scripts/list_folder_patterns.py $(ARGS)
+
+apply_spain_patterns:
+	$(PYTHON) .claude/skills/map-spain-drugs/apply_pattern_mappings.py $(ARGS)
+
+apply_latvia_patterns:
+	$(PYTHON) .claude/skills/map-latvia-drugs/apply_pattern_mappings.py $(ARGS)
 
 run_clean_room_batch:
 	$(PYTHON) .claude/skills/map-spain-drugs/scripts/run_clean_room_batch.py $(ARGS)
@@ -111,7 +120,7 @@ load_spain:
 	./load-spain-to-rxnorm.sh
 
 .PHONY: validate_spain apply_mappings find_duplicate_nros \
-        list_folder_patterns run_clean_room_batch \
+        list_folder_patterns list_latvia_patterns apply_spain_patterns apply_latvia_patterns run_clean_room_batch \
         download_spain_nomenclator split_spain_by_ingredient list_spain_changes \
         fetch_spain_pdf update_spain_data \
         validate_ema find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
