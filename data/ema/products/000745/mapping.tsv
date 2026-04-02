@@ -1,10 +1,10 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/07/398/001	41370769	10 ML gadoversetamide 331 MG/ML Injectable Solution [OptiMARK]	OMOP2568731	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept		2026-03-11
-EU/1/07/398/002	41370769	10 ML gadoversetamide 331 MG/ML Injectable Solution [OptiMARK]	OMOP2568731	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept; different pack size (10 vials)		2026-03-11
-EU/1/07/398/003	41374808	15 ML gadoversetamide 331 MG/ML Injectable Solution [OptiMARK]	OMOP2572770	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept		2026-03-11
-EU/1/07/398/004	41374808	15 ML gadoversetamide 331 MG/ML Injectable Solution [OptiMARK]	OMOP2572770	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept; different pack size (10 vials)		2026-03-11
-EU/1/07/398/005	41377626	20 ML gadoversetamide 331 MG/ML Injectable Solution [OptiMARK]	OMOP2575588	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept		2026-03-11
-EU/1/07/398/006	41377626	20 ML gadoversetamide 331 MG/ML Injectable Solution [OptiMARK]	OMOP2575588	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept; different pack size (10 vials)		2026-03-11
+EU/1/07/398/001	43297055	10 ML gadoversetamide 331 MG/ML Injection	OMOP563640	EXACT	MRI contrast agent; single-use vial		2026-04-02
+EU/1/07/398/002	43297055	10 ML gadoversetamide 331 MG/ML Injection	OMOP563640	EXACT	MRI contrast agent; single-use vial; different pack size (10 vials)		2026-04-02
+EU/1/07/398/003	43297116	15 ML gadoversetamide 331 MG/ML Injection	OMOP564191	EXACT	MRI contrast agent; single-use vial		2026-04-02
+EU/1/07/398/004	43297116	15 ML gadoversetamide 331 MG/ML Injection	OMOP564191	EXACT	MRI contrast agent; single-use vial; different pack size (10 vials)		2026-04-02
+EU/1/07/398/005	43259140	20 ML gadoversetamide 331 MG/ML Injection	OMOP564664	EXACT	MRI contrast agent; single-use vial		2026-04-02
+EU/1/07/398/006	43259140	20 ML gadoversetamide 331 MG/ML Injection	OMOP564664	EXACT	MRI contrast agent; single-use vial; different pack size (10 vials)		2026-04-02
 EU/1/07/398/007	41364006	10 ML gadoversetamide 331 MG/ML Prefilled Syringe [OptiMARK]	OMOP2561968	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept		2026-03-11
 EU/1/07/398/008	41364006	10 ML gadoversetamide 331 MG/ML Prefilled Syringe [OptiMARK]	OMOP2561968	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept; different pack size (10 syringes)		2026-03-11
 EU/1/07/398/009	41375559	15 ML gadoversetamide 331 MG/ML Prefilled Syringe [OptiMARK]	OMOP2573521	EXACT	MRI contrast agent; RxNorm Extension clinical drug concept		2026-03-11

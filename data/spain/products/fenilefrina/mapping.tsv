@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 662509	70638	46287545	1 ML phenylephrine hydrochloride 10 MG/ML Injection	1666372	EXACT			2026-03-28
-708351	80352	42903417	phenylephrine hydrochloride 0.05 MG/ML Prefilled Syringe	1360530	EXACT			2026-03-30
+708351	80352	42903417	phenylephrine hydrochloride 0.05 MG/ML Prefilled Syringe	1360530	BROAD	No volume-specific 10 ML prefilled syringe concept found in RxNorm.	10 ML phenylephrine hydrochloride 0.05 MG/ML Prefilled Syringe	2026-04-02
 728248	84988	37353558	phenylephrine hydrochloride 0.08 MG/ML Injection	2717660	BROAD	Source is 0.08 mg/mL (80 mcg/mL); previous mapping to 0.1 MG/ML was wrong strength. No 100 mL volume-specific concept in RxNorm.	100 ML phenylephrine hydrochloride 0.08 MG/ML Injection	2026-03-29
 728518	85084	37497615	phenylephrine hydrochloride 0.1 MG/ML Injection	2262019	BROAD	Single-use vial; no 20 ML volume-specific Injection concept in RxNorm.	20 ML phenylephrine hydrochloride 0.1 MG/ML Injection	2026-03-30
 653437	34185	42707558	phenylephrine hydrochloride 100 MG/ML Ophthalmic Solution	1234571	EXACT			2026-03-13

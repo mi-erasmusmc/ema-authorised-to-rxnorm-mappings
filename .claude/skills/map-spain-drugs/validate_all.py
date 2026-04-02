@@ -62,7 +62,7 @@ def validate_folder(folder: Path, suppressed: set = None):
     issues = list(core.run_common_checks("cod_nacion", data_rows, mapping_rows, describe=describe))
     issues += core.validate_folder_issues(mapping_path)
 
-    # Spain-specific: NRO_MISMATCH and REVIEW_VOLUME
+    # Spain-specific: NRO_MISMATCH, REVIEW_VOLUME, and REVIEW_INJECTION_FORM
     for row in mapping_rows:
         cod = core.clean(row.get("cod_nacion", ""))
         if cod not in data_by_cod:
@@ -91,6 +91,11 @@ def validate_folder(folder: Path, suppressed: set = None):
         ):
             issues.append(core.make_issue(
                 "REVIEW_VOLUME", cod, des_dcp, concept_id, concept, mapping_type,
+                nro_definitivo=mapped_nro,
+            ))
+        if mapping_type == "EXACT" and core.needs_injection_form_review(concept):
+            issues.append(core.make_issue(
+                "REVIEW_INJECTION_FORM", cod, des_dcp, concept_id, concept, mapping_type,
                 nro_definitivo=mapped_nro,
             ))
 

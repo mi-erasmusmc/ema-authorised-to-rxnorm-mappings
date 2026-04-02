@@ -54,6 +54,7 @@ EMA_ISSUE_TYPES = [
     "BROAD",
     "NO_MAPPING",
     "REVIEW_VOLUME",
+    "REVIEW_INJECTION_FORM",
     "DUPLICATE_DATA",
     "DUPLICATE_MAPPING",
     "INCONSISTENT_CONCEPT",
@@ -71,6 +72,7 @@ SPAIN_ISSUE_TYPES = [
     "DUPLICATE_DATA",
     "DUPLICATE_MAPPING",
     "REVIEW_VOLUME",
+    "REVIEW_INJECTION_FORM",
     "INCONSISTENT_CONCEPT",
     "INCONSISTENT_TYPE",
 ] + STRUCTURAL_ISSUE_TYPES
@@ -84,6 +86,7 @@ LATVIA_ISSUE_TYPES = [
     "BROAD",
     "NO_MAPPING",
     "REVIEW_VOLUME",
+    "REVIEW_INJECTION_FORM",
     "DUPLICATE_DATA",
     "DUPLICATE_MAPPING",
     "INCONSISTENT_CONCEPT",
@@ -189,6 +192,28 @@ def needs_volume_review(
     if not prefix_match:
         return True
     return normalize_numeric_string(prefix_match.group("volume")) != normalize_numeric_string(volume)
+
+
+MULTIUSE_INJECTION_FORM_RE = re.compile(
+    r"\bInjectable (?:Solution|Suspension)\b",
+    re.IGNORECASE,
+)
+LEADING_VOLUME_RE = re.compile(r"^\d+(?:\.\d+)?\s*ML\b", re.IGNORECASE)
+CONCENTRATION_STRENGTH_RE = re.compile(
+    r"\b\d+(?:\.\d+)?\s*(?:MG|MCG|UG|G|UNT|IU|UI|MEQ|MMOL|MCI|PFU)\s*/\s*(?:ML|L)\b",
+    re.IGNORECASE,
+)
+
+
+def needs_injection_form_review(concept_name):
+    concept = clean(concept_name)
+    if not concept:
+        return False
+    if not MULTIUSE_INJECTION_FORM_RE.search(concept):
+        return False
+    if not LEADING_VOLUME_RE.search(concept):
+        return False
+    return bool(CONCENTRATION_STRENGTH_RE.search(concept))
 
 
 # -- Suppressions --------------------------------------------------------------
@@ -526,10 +551,23 @@ def run_single_folder_reporter(folder_name, issues, args, detail_header=None):
         label = issue["description"] or issue["concept_name"] or issue["source_id"]
         grouped.setdefault(issue_type, Counter())[label] += 1
 
+    issue_hints = {
+        "REVIEW_INJECTION_FORM": (
+            "Injectable Solution/Suspension is a multi-use container form: the leading volume is "
+            "packaging size, not dose. Use the concentration-only concept or switch to a single-use dose form if that is more accurate."
+        ),
+        "REVIEW_VOLUME": (
+            "Single-use injectable mapped to a concentration-only concept. "
+            "A volume-specific concept (e.g. '2 ML drug 5 MG/ML Injection') may be available and should be used for EXACT."
+        ),
+    }
+
     for issue_type in sorted(grouped):
         if issue_filter and issue_type != issue_filter:
             continue
         print(f"[{issue_type}]")
+        if issue_type in issue_hints:
+            print(f"  {issue_hints[issue_type]}")
         for label, count in grouped[issue_type].most_common():
             print(f"{count}\t{label}")
         print()

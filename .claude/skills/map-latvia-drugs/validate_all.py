@@ -30,6 +30,7 @@ Issue types:
     BROAD                 - mapping row with mapping_type=BROAD missing suggestion
     NO_MAPPING            - mapping row with mapping_type=NO_MAPPING missing suggestion
     REVIEW_VOLUME         - likely single-use injectable mapped to a concentration-only concept
+    REVIEW_INJECTION_FORM - multi-use injectable solution/suspension concept includes packaging-style leading volume
     DUPLICATE_DATA        - duplicate product_id in data
     DUPLICATE_MAPPING     - duplicate product_id in mapping.tsv
     INCONSISTENT_CONCEPT  - EXACT rows with same clinical signature but different concept_ids
@@ -84,7 +85,7 @@ def validate_folder(folder: Path, suppressions=None) -> list[dict]:
         describe=make_description,
     )
 
-    # REVIEW_VOLUME for injectables
+    # REVIEW_VOLUME and REVIEW_INJECTION_FORM for injectables
     for row in mapping_rows:
         product_id = core.clean(row.get("product_id", ""))
         if product_id not in data_by_id:
@@ -107,6 +108,15 @@ def validate_folder(folder: Path, suppressions=None) -> list[dict]:
         ):
             issues.append(core.make_issue(
                 "REVIEW_VOLUME",
+                product_id,
+                make_description(data_row),
+                core.clean(row.get("concept_id", "")),
+                concept_name,
+                core.clean(row.get("mapping_type", "")),
+            ))
+        if core.needs_injection_form_review(concept_name):
+            issues.append(core.make_issue(
+                "REVIEW_INJECTION_FORM",
                 product_id,
                 make_description(data_row),
                 core.clean(row.get("concept_id", "")),

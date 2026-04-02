@@ -2,7 +2,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 691485	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			2026-03-29
 691493	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			2026-03-29
 691501	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT	Vial; same des_dcp as 720797 (prefilled syringe) but different dose form — INCONSISTENT_CONCEPT flag is a false positive		2026-03-29
-720797	64474	41241915	gadoteridol 279 MG/ML Prefilled Syringe	OMOP2439877	EXACT			2026-03-15
-720847	64474	41241915	gadoteridol 279 MG/ML Prefilled Syringe	OMOP2439877	EXACT			2026-03-15
+720797	64474	41241915	gadoteridol 279 MG/ML Prefilled Syringe	OMOP2439877	BROAD	No volume-specific 10 ML prefilled syringe concept found in RxNorm.	10 ML gadoteridol 279 MG/ML Prefilled Syringe	2026-04-02
+720847	64474	41241915	gadoteridol 279 MG/ML Prefilled Syringe	OMOP2439877	BROAD	No volume-specific 17 ML prefilled syringe concept found in RxNorm.	17 ML gadoteridol 279 MG/ML Prefilled Syringe	2026-04-02
 731183	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			2026-03-29
 781922	60377	44058686	gadoteridol 279 MG/ML Injectable Solution	OMOP1053317	EXACT			2026-03-29

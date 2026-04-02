@@ -2,7 +2,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606333	78267	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
 606404	78546	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
 606445	78761	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
-606520	78972	46287379	moxifloxacin 1.6 MG/ML Injection	1665198	EXACT			2026-03-12
+606520	78972	1716908	250 ML moxifloxacin 1.6 MG/ML Injection	351156	EXACT			2026-04-02
 606968	82550	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
 607082	78761	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
 607122	83756	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
@@ -44,7 +44,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 716978	82282	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
 719552	82550	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
 719553	82550	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
-722125	83222	46287379	moxifloxacin 1.6 MG/ML Injection	1665198	EXACT			2026-03-12
+722125	83222	1716908	250 ML moxifloxacin 1.6 MG/ML Injection	351156	EXACT			2026-04-02
 723638	83438	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
 723639	83438	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12
 723758	78761	1716905	moxifloxacin 400 MG Oral Tablet	311787	EXACT			2026-03-12

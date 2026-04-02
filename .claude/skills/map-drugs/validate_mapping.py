@@ -24,9 +24,11 @@ per-type counts.  Codes that overlap with common-check issue types
 """
 
 import csv
+import importlib.util
 import json
 from pathlib import Path
 import re
+from types import SimpleNamespace
 import sys
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -336,6 +338,69 @@ def validate_file(path: str) -> list[tuple[str, str]]:
     return errors
 
 
+def _load_module(module_path: Path, module_name: str):
+    spec = importlib.util.spec_from_file_location(module_name, module_path)
+    if spec is None or spec.loader is None:
+        raise ImportError(f"Could not load module from {module_path}")
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
+def _source_validator_for_mapping(path: Path):
+    resolved = path.resolve()
+    parts = resolved.parts
+
+    if resolved.name != "mapping.tsv":
+        return None
+    if "data" in parts and "ema" in parts and "products" in parts:
+        return {
+            "kind": "ema",
+            "folder": resolved.parent,
+            "module_path": Path(__file__).parent.parent / "map-ema-drugs" / "validate_all.py",
+        }
+    if "data" in parts and "spain" in parts and "products" in parts:
+        return {
+            "kind": "spain",
+            "folder": resolved.parent,
+            "module_path": Path(__file__).parent.parent / "map-spain-drugs" / "validate_all.py",
+        }
+    if "data" in parts and "latvia" in parts and "products" in parts:
+        return {
+            "kind": "latvia",
+            "folder": resolved.parent,
+            "module_path": Path(__file__).parent.parent / "map-latvia-drugs" / "validate_all.py",
+        }
+    return None
+
+
+def _run_source_validator(path: str):
+    source = _source_validator_for_mapping(Path(path))
+    if not source:
+        return None
+
+    module = _load_module(source["module_path"], f"validate_{source['kind']}_all")
+    folder = source["folder"]
+
+    if source["kind"] == "ema":
+        suppressions_path = folder.parent.parent / "suppressions.tsv"
+        suppressions = module.core.load_suppressions(suppressions_path, id_col="ma_number")
+        issues = module.validate_folder(folder, suppressions=suppressions)
+        display_name = folder.name
+    elif source["kind"] == "spain":
+        suppressions_path = folder.parent.parent / "suppressions.tsv"
+        all_suppressions = module.core.load_suppressions(suppressions_path, id_col="cod_nacion")
+        issues = module.validate_folder(folder, suppressed=all_suppressions.get(folder.name, set()))
+        display_name = folder.name
+    else:
+        suppressions_path = folder.parent.parent.parent / "suppressions.tsv"
+        suppressions = module.core.load_suppressions(suppressions_path, id_col="product_id")
+        issues = module.validate_folder(folder, suppressions=suppressions)
+        display_name = module.folder_display_name(folder)
+
+    return display_name, issues
+
+
 def main():
     if len(sys.argv) < 2:
         print(f"Usage: {sys.argv[0]} <mapping.tsv> [...]", file=sys.stderr)
@@ -343,6 +408,20 @@ def main():
 
     has_errors = False
     for path in sys.argv[1:]:
+        source_result = _run_source_validator(path)
+        if source_result is not None:
+            display_name, issues = source_result
+            if issues:
+                has_errors = True
+                from validate_core import run_single_folder_reporter  # local import avoids startup dependency
+                run_single_folder_reporter(
+                    display_name,
+                    issues,
+                    SimpleNamespace(issue=None, details=False),
+                )
+            else:
+                print(f"OK   {path}")
+            continue
         errors = validate_file(path)
         if errors:
             has_errors = True

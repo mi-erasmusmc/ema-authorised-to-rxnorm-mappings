@@ -67,9 +67,10 @@ The `find-concepts` script returns dose form definitions alongside search result
 
 ### Precision: Volume-specific vs Generic Concepts
 
-Always select the **most precise concept that is correct**:
-- **Single-use** products (ampoules, prefilled syringes): the volume is part of the dose and clinically relevant. If a volume-specific concept exists and matches (e.g., `2 ML ondansetron 2 MG/ML Injection`), use it — this is EXACT. If no volume-specific concept exists, use the concentration-only concept (e.g., `ondansetron 2 MG/ML Injection`) — BROAD if ingredient, strength, and form match.
-- **Multi-use** products (vials): usually only the concentration matters, not the container volume. There will usually only be concentration-only concepts available, these are EXACT.
+The clinical role of the leading volume in an RxNorm concept name depends on container type:
+
+- **Single-use containers** (ampoules, prefilled syringes, auto-injectors — dose forms: Injection, Prefilled Syringe, Auto-Injector): the volume is part of the dose and clinically relevant. If a volume-specific concept exists and matches (e.g., `2 ML ondansetron 2 MG/ML Injection`), use it — this is EXACT. If no volume-specific concept exists, use the concentration-only concept (e.g., `ondansetron 2 MG/ML Injection`) — BROAD.
+- **Multi-use containers** (vials — dose forms: Injectable Solution, Injectable Suspension): the container volume is packaging information only, not dose information. **Never use a volume-prefixed concept** (e.g., `15 ML daratumumab 120 MG/ML Injectable Solution`) even if one exists in OMOP Extension. Use the concentration-only concept (e.g., `daratumumab 120 MG/ML Injectable Solution`) — this is EXACT. Different pack sizes or vial fill volumes of the same concentration map to the same concept.
 - If you can only find a **less specific** concept (e.g., missing clinically relevant strength or form), the mapping is **BROAD**, not EXACT.
 
 ### Common Pitfalls

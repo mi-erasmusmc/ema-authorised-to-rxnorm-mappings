@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-665772	09609001	21066575	Corifollitropin alfa 0.2 MG/ML Prefilled Syringe	OMOP275253	EXACT			2026-03-13
-665773	09609002	21125290	Corifollitropin alfa 0.3 MG/ML Prefilled Syringe [Elonva]	OMOP275262	EXACT			2026-03-13
-769098	09609002IP	21125290	Corifollitropin alfa 0.3 MG/ML Prefilled Syringe [Elonva]	OMOP275262	EXACT			2026-03-13
+665772	09609001	36411802	0.5 ML Corifollitropin alfa 0.2 MG/ML Injectable Solution	OMOP3103844	EXACT			2026-04-02
+665773	09609002	36411622	0.5 ML Corifollitropin alfa 0.3 MG/ML Injectable Solution	OMOP3103664	EXACT			2026-04-02
+769098	09609002IP	36411622	0.5 ML Corifollitropin alfa 0.3 MG/ML Injectable Solution	OMOP3103664	EXACT			2026-04-02
