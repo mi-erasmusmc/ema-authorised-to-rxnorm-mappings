@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-721350	1171262001	36809256	1 ML burosumab 10 MG/ML Injectable Solution	OMOP4823294	EXACT			2025-12-04
-721351	1171262002	36809228	1 ML burosumab 20 MG/ML Injectable Solution	OMOP4823266	EXACT			2025-12-04
-721352	1171262003	36809278	1 ML burosumab 30 MG/ML Injectable Solution	OMOP4823316	EXACT			2025-12-04
+721350	1171262001	1510768	1 ML burosumab-twza 10 MG/ML Injection [Crysvita]	2043864	EXACT			2026-04-02
+721351	1171262002	1510770	1 ML burosumab-twza 20 MG/ML Injection [Crysvita]	2043870	EXACT			2026-04-02
+721352	1171262003	1510772	1 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2043878	EXACT			2026-04-02

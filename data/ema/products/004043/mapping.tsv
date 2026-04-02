@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/17/1231/001	40715131	10 ML ocrelizumab 30 MG/ML Injectable Solution	OMOP4741859	EXACT			2025-12-04
-EU/1/17/1231/002	40715131	10 ML ocrelizumab 30 MG/ML Injectable Solution	OMOP4741859	EXACT			2025-12-04
-EU/1/17/1231/003	841177	23 ML ocrelizumab 40 MG/ML Injectable Solution	OMOP5563969	EXACT			2025-12-04
+EU/1/17/1231/001	1593471	10 ML ocrelizumab 30 MG/ML Injection	1876380	EXACT			2026-04-02
+EU/1/17/1231/002	1593471	10 ML ocrelizumab 30 MG/ML Injection	1876380	EXACT			2026-04-02
+EU/1/17/1231/003	849119	ocrelizumab 40 MG/ML Injectable Solution [Ocrevus]	OMOP5571949	EXACT			2026-04-02

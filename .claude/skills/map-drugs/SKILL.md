@@ -29,6 +29,13 @@ These apply across all data sources:
 - **BROAD**: Less specific match. Use when only a concept without specific strength/volume is available, or for vaccines/biologicals with less granular RxNorm coverage. When choosing between multiple BROAD candidates, pick the one that preserves the most clinically relevant information — dose (strength + volume) matters more than device/form differences. For example, `0.5 ML etanercept 50 MG/ML Prefilled Syringe` is preferred over `etanercept 50 MG/ML Auto-Injector` for a 25 mg pen injector, because the volume distinguishes the 25 mg dose from the 50 mg dose.
 - **NO_MAPPING**: No suitable RxNorm concept exists (e.g., EU-only strength or product with no FDA equivalent). Leave concept fields empty, populate `suggestion` with the ideal concept name, and do NOT set `mapping_type` to EXACT or BROAD. A `suggestion` is required.
 
+### Standard vs Extension Priority
+
+- Start with standard RxNorm, but do not stop there if a clinically relevant element needed for `EXACT` is missing.
+- If standard RxNorm lacks a clinically relevant part of the presentation such as dose form, release type, route-specific presentation, or clinically relevant single-use volume, search RxNorm Extension.
+- Prefer a clean Extension concept over a weaker standard `BROAD` concept when the Extension concept adds the missing clinically relevant detail without introducing supplier names, box counts, or other non-clinical packaging noise.
+- Do not reject an Extension concept merely because it includes clinically relevant presentation detail. For example, `Injectable Solution`, `Prefilled Syringe`, and single-use volume can be necessary parts of an `EXACT` clinical drug concept.
+
 ### Partial-ingredient Combination Products
 
 When RxNorm does not contain the full ingredient combination, map to the closest clinically representative subset rather than forcing an incorrect `EXACT` match.
@@ -70,7 +77,7 @@ The `find-concepts` script returns dose form definitions alongside search result
 The clinical role of the leading volume in an RxNorm concept name depends on container type:
 
 - **Single-use containers** (ampoules, prefilled syringes, auto-injectors — dose forms: Injection, Prefilled Syringe, Auto-Injector): the volume is part of the dose and clinically relevant. If a volume-specific concept exists and matches (e.g., `2 ML ondansetron 2 MG/ML Injection`), use it — this is EXACT. If no volume-specific concept exists, use the concentration-only concept (e.g., `ondansetron 2 MG/ML Injection`) — BROAD.
-- **Multi-use containers** (vials — dose forms: Injectable Solution, Injectable Suspension): the container volume is packaging information only, not dose information. **Never use a volume-prefixed concept** (e.g., `15 ML daratumumab 120 MG/ML Injectable Solution`) even if one exists in OMOP Extension. Use the concentration-only concept (e.g., `daratumumab 120 MG/ML Injectable Solution`) — this is EXACT. Different pack sizes or vial fill volumes of the same concentration map to the same concept.
+- **Multi-use containers** (vials — dose forms: Injectable Solution, Injectable Suspension): the container volume is packaging information only, not dose information. Prefer a concentration-only concept such as `daratumumab 120 MG/ML Injectable Solution` when one exists. Do not choose a volume-prefixed concept for a multi-use product merely because it mirrors the pack size. If standard RxNorm lacks the concentration-plus-dose-form concept but Extension has a clean one, use the clean Extension concentration-level concept for `EXACT`.
 - If you can only find a **less specific** concept (e.g., missing clinically relevant strength or form), the mapping is **BROAD**, not EXACT.
 
 ### Common Pitfalls

@@ -11,13 +11,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 715450	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
 715451	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
 715453	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
-715454	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
-715455	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
-715456	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
+715454	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	10 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	2026-04-02
+715455	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	15 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	2026-04-02
+715456	81885	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	20 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	2026-04-02
 719435	81884	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-15
-653636	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
-653637	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
-653638	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
+653636	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	10 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe [Dotarem]	2026-04-02
+653637	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	15 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe [Dotarem]	2026-04-02
+653638	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	20 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe [Dotarem]	2026-04-02
 658286	62165	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-12
 658294	62165	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-12
 658302	62165	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-12
@@ -31,8 +31,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 707516	80134	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-12
 707517	80134	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-12
 707518	80134	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-12
-728594	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
-728595	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
-728596	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	EXACT			2026-03-12
+728594	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	10 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe [Dotarem]	2026-04-02
+728595	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	15 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe [Dotarem]	2026-04-02
+728596	67489	21056766	gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe	OMOP275906	BROAD	No volume-specific standard RxNorm gadoterate prefilled syringe concept found.	20 ML gadoterate meglumine 0.5 MMOL/ML Prefilled Syringe [Dotarem]	2026-04-02
 917781	62165	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-12
 918060	62165	36405054	gadoterate meglumine 0.5 MMOL/ML Injectable Solution	OMOP3097096	EXACT			2026-03-12

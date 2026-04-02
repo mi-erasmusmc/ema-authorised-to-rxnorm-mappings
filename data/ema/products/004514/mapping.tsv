@@ -1,6 +1,6 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/18/1323/001	2904230	1 ML tildrakizumab 100 MG/ML Injection	OMOP5121057	EXACT			2025-12-04
-EU/1/18/1323/002	2904230	1 ML tildrakizumab 100 MG/ML Injection	OMOP5121057	EXACT			2025-12-04
-EU/1/18/1323/003	843194	2 ML tildrakizumab 100 MG/ML Injectable Solution	OMOP5566001	EXACT			2025-12-04
+EU/1/18/1323/001	35201932	1 ML tildrakizumab-asmn 100 MG/ML Prefilled Syringe	2053453	EXACT			2026-04-02
+EU/1/18/1323/002	35201932	1 ML tildrakizumab-asmn 100 MG/ML Prefilled Syringe	2053453	EXACT			2026-04-02
+EU/1/18/1323/003	35200156	tildrakizumab-asmn 100 MG/ML Prefilled Syringe	2053459	BROAD		2 ML tildrakizumab-asmn 100 MG/ML Prefilled Syringe	2026-04-02
 EU/1/18/1323/004	35201932	1 ML tildrakizumab-asmn 100 MG/ML Prefilled Syringe	2053453	EXACT			2025-12-04
-EU/1/18/1323/005	843194	2 ML tildrakizumab 100 MG/ML Injectable Solution	OMOP5566001	EXACT			2025-12-04
+EU/1/18/1323/005	35200156	tildrakizumab-asmn 100 MG/ML Prefilled Syringe	2053459	BROAD		2 ML tildrakizumab-asmn 100 MG/ML Prefilled Syringe	2026-04-02

@@ -64,16 +64,18 @@ This searches both RxNorm and RxNorm Extension. Extension concepts have codes li
 ### When to use Extension concepts
 
 - Only after confirming no suitable standard RxNorm concept exists
-- Prefer the closest RxNorm concept over an Extension concept when both are reasonable
+- Prefer a standard RxNorm concept when it is equally specific and clinically appropriate
+- Prefer a clean Extension concept over a weaker standard concept when the Extension concept adds a missing clinically relevant element needed for `EXACT`, such as dose form, release type, route-specific presentation, or clinically relevant single-use volume
 
 ### Extension pitfalls — be selective
 
 RxNorm Extension contains duplicates, errors, and concepts that should not exist. Apply these filters:
 
-1. **No supplier/packaging concepts** — skip anything that includes a supplier name (e.g. `by Accord`) or box information (box of 30). We only want clinical drug concepts.
-2. **Stay close to RxNorm patterns** — the Extension concept name must follow standard RxNorm conventions.
-3. **Use correct dose forms** — verify the dose form in the Extension concept matches what the product actually is (use the dose form definitions printed by the script).
-4. **Prefer BROAD over bad Extension** — if the only Extension match is dubious, it is better to map BROAD to a standard RxNorm concept than EXACT to a questionable Extension concept.
+1. **No supplier or non-clinical packaging concepts** — skip anything that includes a supplier name (e.g. `by Accord`) or box information (`Box of 30`, `by Company X`). We only want clinical drug concepts.
+2. **Do not reject clinically relevant presentation detail** — a clean Extension concept is acceptable if it adds missing dose-form or presentation detail such as `Injectable Solution`, `Prefilled Syringe`, or a clinically relevant single-use volume. These are part of the clinical drug concept, not disqualifying packaging noise.
+3. **Stay close to RxNorm patterns** — the Extension concept name must follow standard RxNorm conventions.
+4. **Use correct dose forms** — verify the dose form in the Extension concept matches what the product actually is (use the dose form definitions printed by the script).
+5. **Prefer BROAD over bad Extension** — if the only Extension match is dubious, it is better to map BROAD to a standard RxNorm concept than EXACT to a questionable Extension concept.
 
 ## Reference Data
 

@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/21/1599/001	36919896	1 ML eptinezumab 100 MG/ML Injectable Solution	OMOP5208344	EXACT			2025-12-04
-EU/1/21/1599/002	36919896	1 ML eptinezumab 100 MG/ML Injectable Solution	OMOP5208344	EXACT			2025-12-04
-EU/1/21/1599/003	36930260	eptinezumab 100 MG/ML Injectable Solution	OMOP5192765	EXACT			2025-12-04
+EU/1/21/1599/001	37499819	1 ML eptinezumab-jjmr 100 MG/ML Injection [Vyepti]	2283054	EXACT			2026-04-02
+EU/1/21/1599/002	37499819	1 ML eptinezumab-jjmr 100 MG/ML Injection [Vyepti]	2283054	EXACT			2026-04-02
+EU/1/21/1599/003	37499082	eptinezumab-jjmr 100 MG/ML Injection [Vyepti]	2283056	BROAD		3 ML eptinezumab-jjmr 100 MG/ML Injection [Vyepti]	2026-04-02
