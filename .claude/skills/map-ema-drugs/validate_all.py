@@ -1,12 +1,13 @@
 #!/usr/bin/env python3
 """
-Audit all EMA product folders and report issues across the entire registry.
+Validate all EMA product folders and report issues across the entire registry.
 
 Usage:
-    python3 .claude/skills/map-ema-drugs/audit_all.py
-    python3 .claude/skills/map-ema-drugs/audit_all.py --issue STALE_MAPPING
-    python3 .claude/skills/map-ema-drugs/audit_all.py --issue MISSING --details
-    python3 .claude/skills/map-ema-drugs/audit_all.py --issue BROAD --min-count 2
+    python3 .claude/skills/map-ema-drugs/validate_all.py
+    python3 .claude/skills/map-ema-drugs/validate_all.py --issue STALE_MAPPING
+    python3 .claude/skills/map-ema-drugs/validate_all.py --issue MISSING --details
+    python3 .claude/skills/map-ema-drugs/validate_all.py --issue BROAD --min-count 2
+    python3 .claude/skills/map-ema-drugs/validate_all.py --issue INVALID --invalid-reason "dose form"
 
 Default output (no --issue):
     One summary line per folder with any issues, showing counts by type.
@@ -21,17 +22,19 @@ With --details:
     Requires --issue.
 
 Issue types:
-    NO_MAPPING        - folder has parsed data but no mapping.tsv at all, OR
-                        mapping row with mapping_type=NO_MAPPING missing suggestion
+    UNMAPPED_FOLDER   - folder has parsed data but no mapping.tsv at all
     NO_DATE           - parsed_data file has no date (parsed_data.tsv instead of parsed_data_dateXX.tsv)
     MISSING           - ma_number in parsed_data with no row in mapping.tsv
     STALE_MAPPING     - mapping row whose ma_number no longer exists in parsed_data
     NO_CONCEPT        - mapping row with empty concept_id
     NO_TYPE           - mapping row with concept_id but empty mapping_type
     BROAD             - mapping row with mapping_type=BROAD missing suggestion
+    NO_MAPPING        - mapping row with mapping_type=NO_MAPPING missing suggestion
     REVIEW_VOLUME     - likely single-use injectable mapped to a concentration-only concept
     DUPLICATE_DATA    - duplicate ma_number in parsed_data
     DUPLICATE_MAPPING - duplicate ma_number in mapping.tsv
+    INCONSISTENT_CONCEPT - EXACT rows with same clinical signature but different concept_ids
+    INCONSISTENT_TYPE - rows sharing same clinical signature and concept_id use different mapping_types
     INVALID           - mapping.tsv fails structural validation
 """
 
@@ -39,33 +42,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent.parent / "map-drugs"))
-import audit_core as core  # noqa: E402
-
-
-ISSUE_TYPES = [
-    "NO_MAPPING",
-    "NO_DATE",
-    "MISSING",
-    "STALE_MAPPING",
-    "NO_CONCEPT",
-    "NO_TYPE",
-    "BROAD",
-    "REVIEW_VOLUME",
-    "DUPLICATE_DATA",
-    "DUPLICATE_MAPPING",
-    "INCONSISTENT_CONCEPT",
-    "INCONSISTENT_TYPE",
-    "INVALID",
-]
-
-SUPPRESSED_ISSUES_BY_FOLDER = {
-    # Zolgensma uses a distinct exact kit concept for each weight-band pack.
-    # The generic "same signature => same concept" heuristic is not useful here.
-    "004750": {"INCONSISTENT_CONCEPT"},
-    # Bortezomib Accord solution rows intentionally use different exact concepts.
-    # The mapping comments explain the 1 mL / 2.5 mg vs 1.4 mL / 3.5 mg split.
-    "003984": {"INCONSISTENT_CONCEPT"},
-}
+import validate_core as core  # noqa: E402
 
 
 def find_parsed_data(folder):
@@ -84,7 +61,7 @@ def make_description(row):
     return " / ".join(p for p in parts if p)
 
 
-def audit_folder(folder: Path) -> list[dict]:
+def validate_folder(folder: Path, suppressions=None) -> list[dict]:
     """Return a list of issue dicts for an EMA product folder. Empty = clean."""
     parsed_path = find_parsed_data(folder)
     if parsed_path is None:
@@ -98,7 +75,7 @@ def audit_folder(folder: Path) -> list[dict]:
 
     if not mapping_path.exists():
         data_rows = core.load_tsv(parsed_path)
-        issues.append(core.make_issue("NO_MAPPING", "", f"{len(data_rows)} presentations unmapped", "", "", ""))
+        issues.append(core.make_issue("UNMAPPED_FOLDER", "", f"{len(data_rows)} presentations unmapped", "", "", ""))
         return issues
 
     data_rows = core.load_tsv(parsed_path)
@@ -162,9 +139,10 @@ def audit_folder(folder: Path) -> list[dict]:
         "ma_number", data_by_id, mapping_rows, sig_fn=ema_sig, describe=make_description,
     )
     issues += core.validate_folder_issues(mapping_path)
-    suppressed = SUPPRESSED_ISSUES_BY_FOLDER.get(folder.name, set())
-    if suppressed:
-        issues = [issue for issue in issues if issue["issue"] not in suppressed]
+
+    if suppressions:
+        issues = core.apply_suppressions(issues, folder.name, suppressions)
+
     return issues
 
 
@@ -180,32 +158,40 @@ def main():
     default_products = script_dir.parent.parent.parent / "data" / "ema" / "products"
 
     parser = core.build_argparser(
-        "Audit all EMA product folders.",
+        "Validate EMA product folders.",
         default_products,
-        ISSUE_TYPES,
+        core.EMA_ISSUE_TYPES,
     )
-    args = parser.parse_args()
-    if args.issue:
-        args.issue = args.issue.strip().upper()
-    if args.details and not args.issue:
-        parser.error("--details requires --issue")
+    args = core.parse_standard_args(parser)
 
+    if args.folder:
+        # Single-folder mode
+        folder = Path(args.folder)
+        suppressions_path = folder.parent.parent / "suppressions.tsv"
+        suppressions = core.load_suppressions(suppressions_path, id_col="ma_number")
+        issues = validate_folder(folder, suppressions=suppressions)
+        core.run_single_folder_reporter(folder.name, issues, args)
+        return
+
+    # Multi-folder mode
     products_dir = Path(args.products_dir)
     if not products_dir.is_dir():
-        import sys as _sys
-        print(f"ERROR: {products_dir} not found", file=_sys.stderr)
-        _sys.exit(1)
+        print(f"ERROR: {products_dir} not found", file=sys.stderr)
+        sys.exit(1)
+
+    suppressions_path = products_dir.parent / "suppressions.tsv"
+    suppressions = core.load_suppressions(suppressions_path, id_col="ma_number")
 
     folder_issues = {}
     for folder in discover_folders(products_dir):
-        issues = audit_folder(folder)
+        issues = validate_folder(folder, suppressions=suppressions)
         if issues:
-            # Suppress NO_DATE-only folders — a missing date suffix is not actionable
+            # Suppress NO_DATE-only folders -- a missing date suffix is not actionable
             if all(i["issue"] == "NO_DATE" for i in issues):
                 continue
             folder_issues[folder] = issues
 
-    core.run_reporter(folder_issues, args, ISSUE_TYPES)
+    core.run_reporter(folder_issues, args, core.EMA_ISSUE_TYPES)
 
 
 if __name__ == "__main__":

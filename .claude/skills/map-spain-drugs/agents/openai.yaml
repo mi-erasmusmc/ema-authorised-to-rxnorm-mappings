@@ -1,3 +1,3 @@
 display_name: Map Spain Drugs
 short_description: Map Spanish medicinal products to RxNorm and correct Spain-specific auto-links.
-default_prompt: Map or review Spanish national product mappings to RxNorm, audit the Spain product folder, and fix incorrect EMA-derived auto-links such as duplicate nro_definitivo cases.
+default_prompt: Map or review Spanish national product mappings to RxNorm, validate the Spain product folder, and fix incorrect EMA-derived auto-links such as duplicate nro_definitivo cases.

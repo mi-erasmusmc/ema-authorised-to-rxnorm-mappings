@@ -1,15 +1,12 @@
 # Usage: make <target> [ARGS="..."]
-# Example: make audit_spain_folder ARGS="data/spain/products/12345/ --details"
+# Example: make validate_spain_folder ARGS="data/spain/products/12345/ --details"
 
 .SILENT:
 PYTHON = python3
 
 # ── Spain ──────────────────────────────────────────────────────────────────────
-audit_spain:
-	$(PYTHON) .claude/skills/map-spain-drugs/audit_spain.py $(ARGS)
-
-audit_spain_folder:
-	$(PYTHON) .claude/skills/map-spain-drugs/audit_spain_folder.py $(ARGS)
+validate_spain:
+	$(PYTHON) .claude/skills/map-spain-drugs/validate_all.py $(ARGS)
 
 apply_mappings:
 	$(PYTHON) .claude/skills/map-spain-drugs/apply_mappings.py $(ARGS)
@@ -44,8 +41,8 @@ deduplicate_latvia:
 	$(PYTHON) data/latvia/deduplicate_data_files.py $(ARGS)
 
 # ── EMA ────────────────────────────────────────────────────────────────────────
-audit_ema:
-	$(PYTHON) .claude/skills/map-ema-drugs/audit_all.py $(ARGS)
+validate_ema:
+	$(PYTHON) .claude/skills/map-ema-drugs/validate_all.py $(ARGS)
 
 find_unmapped:
 	$(PYTHON) .claude/skills/map-ema-drugs/find_unmapped.py $(ARGS)
@@ -69,6 +66,9 @@ download_ema_presentation_files:
 	$(PYTHON) .claude/skills/process-ema-data/scripts/download_ema_presentation_files.py $(ARGS)
 
 # ── Latvia ─────────────────────────────────────────────────────────────────────
+validate_latvia:
+	$(PYTHON) .claude/skills/map-latvia-drugs/validate_all.py $(ARGS)
+
 organize_products:
 	$(PYTHON) .claude/skills/process-latvia-data/scripts/organize_products.py $(ARGS)
 
@@ -110,13 +110,13 @@ load_latvia:
 load_spain:
 	./load-spain-to-rxnorm.sh
 
-.PHONY: audit_spain audit_spain_folder apply_mappings find_duplicate_nros \
+.PHONY: validate_spain apply_mappings find_duplicate_nros \
         list_folder_patterns run_clean_room_batch \
         download_spain_nomenclator split_spain_by_ingredient list_spain_changes \
         fetch_spain_pdf update_spain_data \
-        audit_ema find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
+        validate_ema find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
         prepare_parse_batch fetch_ema_updates download_ema_presentation_files \
-        organize_products fill_missing_latvian_mappings find_concepts \
+        validate_latvia organize_products fill_missing_latvian_mappings find_concepts \
         resolve_rxcui_name validate_mapping find_conflicts apply_mapping \
         show_unmapped sync_mappings generate_mapping_overviews \
         load_ema load_latvia load_spain

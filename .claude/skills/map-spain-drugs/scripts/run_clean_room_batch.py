@@ -23,7 +23,7 @@ from collections import defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent / "map-drugs"))
-import audit_core as core  # noqa: E402
+import validate_core as core  # noqa: E402
 
 
 PATTERN_FIELDS = [
@@ -245,15 +245,15 @@ def apply_updates(repo_root: Path, folder_name: str, updates: list[dict[str, str
     if validate_result.returncode != 0:
         return "validate_failed", clean(validate_result.stdout) or clean(validate_result.stderr)
 
-    audit_cmd = [
+    validate_cmd = [
         "python3",
-        str(repo_root / ".claude" / "skills" / "map-spain-drugs" / "audit_spain_folder.py"),
+        str(repo_root / ".claude" / "skills" / "map-spain-drugs" / "validate_all.py"),
         str(mapping_path.parent),
     ]
-    audit_result = run_command(audit_cmd)
-    audit_text = clean(audit_result.stdout) or clean(audit_result.stderr)
-    if audit_result.returncode != 0 or audit_text != "OK - no issues found":
-        return "audit_failed", audit_text
+    validate_folder_result = run_command(validate_cmd)
+    validate_folder_text = clean(validate_folder_result.stdout) or clean(validate_folder_result.stderr)
+    if validate_folder_result.returncode != 0 or validate_folder_text != "OK - no issues found":
+        return "validate_failed", validate_folder_text
 
     return "completed", apply_message
 
@@ -293,7 +293,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--apply",
         action="store_true",
-        help="Apply updates, validate, and audit the selected folders",
+        help="Apply updates and validate the selected folders",
     )
     return parser.parse_args()
 

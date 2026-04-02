@@ -1,1 +1,1 @@
-JN.1 vial presentations (007, 009) remain BROAD - no NVX-CoV2705 Injectable Suspension concept exists in RxNorm.
+JN.1 vial presentations (007, 009) remain BROAD. RxNorm/RxNorm Extension contain a branded NVX-CoV2705 concentration concept and JN.1 prefilled-syringe concepts, but no vial-form NVX-CoV2705 concept for Nuvaxovid JN.1.

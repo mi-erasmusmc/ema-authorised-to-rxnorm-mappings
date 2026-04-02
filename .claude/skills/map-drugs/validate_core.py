@@ -1,41 +1,94 @@
 #!/usr/bin/env python3
 """
-Shared audit utilities for drug mapping folders (EMA, Spain, Latvia, …).
+Shared validation utilities for drug mapping folders (EMA, Spain, Latvia, ...).
 
 Provides common data-quality checks, structural validation via validate_mapping.py,
-and reporter helpers reused across source-specific audit scripts.
+and reporter helpers reused across source-specific validation scripts.
 
 Issue dict schema (returned by run_common_checks and validate_folder_issues):
-    issue        str  — issue type name
-    source_id    str  — source-specific ID (ma_number, cod_nacion, …)
-    description  str  — human-readable label for the row
-    concept_id   str  — mapped concept_id (may be empty)
-    concept_name str  — mapped concept_name (may be empty)
-    mapping_type str  — EXACT, BROAD, NO_MAPPING, or empty
+    issue        str  -- issue type name
+    source_id    str  -- source-specific ID (ma_number, cod_nacion, ...)
+    description  str  -- human-readable label for the row
+    concept_id   str  -- mapped concept_id (may be empty)
+    concept_name str  -- mapped concept_name (may be empty)
+    mapping_type str  -- EXACT, BROAD, NO_MAPPING, or empty
+
+Extra source-specific fields (e.g. nro_definitivo) may also be present.
 """
 
 import argparse
 import csv
 import re
 import sys
-from collections import Counter
+from collections import Counter, defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from validate_mapping import validate_file  # noqa: E402
+from validate_mapping import COMMON_CHECK_OVERLAP_CODES, validate_file  # noqa: E402
 
 
-COMMON_CHECKS = [
+# -- Issue type registry -------------------------------------------------------
+
+# Structural issue types produced by validate_mapping.py.
+# These replace the old catch-all "INVALID" bucket.
+STRUCTURAL_ISSUE_TYPES = [
+    "EMPTY_DATE",
+    "BAD_DATE",
+    "BAD_CONCEPT_ID",
+    "BAD_MAPPING_TYPE",
+    "EXACT_NO_STRENGTH",
+    "EXACT_NO_DOSE_FORM",
+    "EXACT_NO_VOLUME",
+    "BAD_SUGGESTION",
+    "INVALID_STRUCTURE",
+]
+
+# Source-specific issue types
+EMA_ISSUE_TYPES = [
+    "UNMAPPED_FOLDER",
+    "NO_DATE",
     "MISSING",
     "STALE_MAPPING",
     "NO_CONCEPT",
     "NO_TYPE",
     "BROAD",
     "NO_MAPPING",
+    "REVIEW_VOLUME",
     "DUPLICATE_DATA",
     "DUPLICATE_MAPPING",
-    "INVALID",
-]
+    "INCONSISTENT_CONCEPT",
+    "INCONSISTENT_TYPE",
+] + STRUCTURAL_ISSUE_TYPES
+
+SPAIN_ISSUE_TYPES = [
+    "MISSING",
+    "NO_CONCEPT",
+    "NO_TYPE",
+    "BROAD",
+    "NO_MAPPING",
+    "STALE_MAPPING",
+    "NRO_MISMATCH",
+    "DUPLICATE_DATA",
+    "DUPLICATE_MAPPING",
+    "REVIEW_VOLUME",
+    "INCONSISTENT_CONCEPT",
+    "INCONSISTENT_TYPE",
+] + STRUCTURAL_ISSUE_TYPES
+
+LATVIA_ISSUE_TYPES = [
+    "UNMAPPED_FOLDER",
+    "MISSING",
+    "STALE_MAPPING",
+    "NO_CONCEPT",
+    "NO_TYPE",
+    "BROAD",
+    "NO_MAPPING",
+    "REVIEW_VOLUME",
+    "DUPLICATE_DATA",
+    "DUPLICATE_MAPPING",
+    "INCONSISTENT_CONCEPT",
+    "INCONSISTENT_TYPE",
+] + STRUCTURAL_ISSUE_TYPES
 
 DETAIL_HEADER = [
     "issue",
@@ -47,7 +100,7 @@ DETAIL_HEADER = [
 ]
 
 
-# ── Utilities ──────────────────────────────────────────────────────────────────
+# -- Utilities -----------------------------------------------------------------
 
 def load_tsv(path):
     with open(path, newline="", encoding="utf-8") as fh:
@@ -63,8 +116,8 @@ def duplicate_values(rows, key):
     return sorted(v for v, c in counts.items() if c > 1)
 
 
-def make_issue(issue, source_id, description, concept_id, concept_name, mapping_type):
-    return {
+def make_issue(issue, source_id, description, concept_id, concept_name, mapping_type, **extra):
+    d = {
         "issue": clean(issue),
         "source_id": clean(source_id),
         "description": clean(description),
@@ -72,6 +125,9 @@ def make_issue(issue, source_id, description, concept_id, concept_name, mapping_
         "concept_name": clean(concept_name),
         "mapping_type": clean(mapping_type),
     }
+    for k, v in extra.items():
+        d[k] = clean(v)
+    return d
 
 
 def extract_ml(text):
@@ -135,7 +191,45 @@ def needs_volume_review(
     return normalize_numeric_string(prefix_match.group("volume")) != normalize_numeric_string(volume)
 
 
-# ── Common checks ──────────────────────────────────────────────────────────────
+# -- Suppressions --------------------------------------------------------------
+
+def load_suppressions(path, id_col="source_id"):
+    """Load a suppressions.tsv and return {folder_name: set of (issue, source_id)}.
+
+    The TSV must have columns: folder, issue, <id_col>.
+    Use id_col="*" rows to suppress all rows of an issue type in a folder.
+    """
+    result = {}
+    if not Path(path).exists():
+        return result
+    rows = load_tsv(path)
+    for row in rows:
+        folder_name = clean(row.get("folder", ""))
+        issue = clean(row.get("issue", ""))
+        sid = clean(row.get(id_col, ""))
+        if folder_name and issue:
+            result.setdefault(folder_name, set()).add((issue, sid))
+    return result
+
+
+def apply_suppressions(issues, folder_name, suppressions, id_key="source_id"):
+    """Filter issues using the suppressions dict from load_suppressions.
+
+    Supports both per-row suppression (issue, specific_id) and
+    wildcard suppression (issue, "*") which suppresses all rows of that issue type.
+    """
+    suppressed = suppressions.get(folder_name, set())
+    if not suppressed:
+        return issues
+    wildcard_issues = {issue for issue, sid in suppressed if sid == "*"}
+    return [
+        i for i in issues
+        if i["issue"] not in wildcard_issues
+        and (i["issue"], i.get(id_key, "")) not in suppressed
+    ]
+
+
+# -- Common checks -------------------------------------------------------------
 
 def run_common_checks(source_id_col, data_rows, mapping_rows, describe=None):
     """
@@ -145,7 +239,7 @@ def run_common_checks(source_id_col, data_rows, mapping_rows, describe=None):
         source_id_col : column name for the source ID (e.g. "ma_number", "cod_nacion")
         data_rows     : list of dicts from the source data file
         mapping_rows  : list of dicts read from mapping.tsv
-        describe      : optional callable(data_row) → str for human-readable row labels
+        describe      : optional callable(data_row) -> str for human-readable row labels
 
     Returns a list of issue dicts (see module docstring for schema).
 
@@ -203,98 +297,39 @@ def run_common_checks(source_id_col, data_rows, mapping_rows, describe=None):
 def validate_folder_issues(mapping_path):
     """
     Validate mapping.tsv structure via validate_mapping.py.
-    Returns a list of INVALID issue dicts, one per structural error found.
+
+    Returns a list of issue dicts, one per structural error found.
+    Skips errors whose codes overlap with common checks (NO_CONCEPT, BROAD, NO_MAPPING)
+    to avoid double-counting.
     """
     if not Path(mapping_path).exists():
         return []
     errors = validate_file(str(mapping_path))
-    return [make_issue("INVALID", "", error.strip(), "", "", "") for error in errors]
+    return [
+        make_issue(code, "", msg.strip(), "", "", "")
+        for code, msg in errors
+        if code not in COMMON_CHECK_OVERLAP_CODES
+    ]
 
 
-def check_inconsistent_concepts(source_id_col, data_by_id, mapping_rows, sig_fn, describe=None):
-    """
-    Detect EXACT mapping rows that share the same clinical signature but use different concept_ids.
+def _check_inconsistency(issue_name, source_id_col, data_by_id, mapping_rows, sig_fn,
+                         describe, group_key_fn, divergence_field, row_filter):
+    """Shared implementation for inconsistency checks.
 
-    Args:
-        source_id_col : column name for the source ID
-        data_by_id    : dict mapping source_id → data row
-        mapping_rows  : list of dicts read from mapping.tsv
-        sig_fn        : callable(data_row) → hashable signature tuple representing the
-                        clinical identity (e.g. strength + form + route). Rows whose
-                        data_row is missing are skipped.
-        describe      : optional callable(data_row) → str for human-readable labels
-
-    Returns a list of INCONSISTENT_CONCEPT issue dicts for every mapping row that
-    belongs to a signature group where more than one concept_id is used.
+    Groups mapping rows by group_key_fn(sig, row), then flags groups where
+    divergence_field takes more than one distinct value.
     """
     if describe is None:
         describe = lambda row: ""  # noqa: E731
 
-    from collections import defaultdict
-    sig_to_concepts = defaultdict(set)
-    sig_to_rows = defaultdict(list)
-
-    for row in mapping_rows:
-        sid = clean(row.get(source_id_col, ""))
-        concept_id = clean(row.get("concept_id", ""))
-        mapping_type = clean(row.get("mapping_type", ""))
-        if not concept_id or mapping_type != "EXACT":
-            continue
-        data_row = data_by_id.get(sid)
-        if data_row is None:
-            continue
-        sig = sig_fn(data_row)
-        if sig is None:
-            continue
-        sig_to_concepts[sig].add(concept_id)
-        sig_to_rows[sig].append(row)
-
-    issues = []
-    for sig, concepts in sig_to_concepts.items():
-        if len(concepts) > 1:
-            for row in sig_to_rows[sig]:
-                sid = clean(row.get(source_id_col, ""))
-                data_row = data_by_id.get(sid, {})
-                issues.append(make_issue(
-                    "INCONSISTENT_CONCEPT",
-                    sid,
-                    describe(data_row),
-                    clean(row.get("concept_id", "")),
-                    clean(row.get("concept_name", "")),
-                    clean(row.get("mapping_type", "")),
-                ))
-    return issues
-
-
-def check_inconsistent_types(source_id_col, data_by_id, mapping_rows, sig_fn, describe=None):
-    """
-    Detect mapping rows that share the same clinical signature and the same concept_id
-    but use different mapping_types.
-
-    This catches the case where identical concepts are expected and present but some rows
-    are EXACT while others are BROAD (or any other type mismatch).
-
-    Args:
-        source_id_col : column name for the source ID
-        data_by_id    : dict mapping source_id → data row
-        mapping_rows  : list of dicts read from mapping.tsv
-        sig_fn        : callable(data_row) → hashable signature tuple
-        describe      : optional callable(data_row) → str for human-readable labels
-
-    Returns a list of INCONSISTENT_TYPE issue dicts.
-    """
-    if describe is None:
-        describe = lambda row: ""  # noqa: E731
-
-    from collections import defaultdict
-    key_to_types = defaultdict(set)
+    key_to_values = defaultdict(set)
     key_to_rows = defaultdict(list)
 
     for row in mapping_rows:
         sid = clean(row.get(source_id_col, ""))
         concept_id = clean(row.get("concept_id", ""))
         mapping_type = clean(row.get("mapping_type", ""))
-        if not concept_id or not mapping_type:
+        if not row_filter(concept_id, mapping_type):
             continue
         data_row = data_by_id.get(sid)
         if data_row is None:
@@ -302,18 +337,18 @@ def check_inconsistent_types(source_id_col, data_by_id, mapping_rows, sig_fn, de
         sig = sig_fn(data_row)
         if sig is None:
             continue
-        key = (sig, concept_id)
-        key_to_types[key].add(mapping_type)
+        key = group_key_fn(sig, row)
+        key_to_values[key].add(clean(row.get(divergence_field, "")))
         key_to_rows[key].append(row)
 
     issues = []
-    for (sig, concept_id), types in key_to_types.items():
-        if len(types) > 1:
-            for row in key_to_rows[(sig, concept_id)]:
+    for key, values in key_to_values.items():
+        if len(values) > 1:
+            for row in key_to_rows[key]:
                 sid = clean(row.get(source_id_col, ""))
                 data_row = data_by_id.get(sid, {})
                 issues.append(make_issue(
-                    "INCONSISTENT_TYPE",
+                    issue_name,
                     sid,
                     describe(data_row),
                     clean(row.get("concept_id", "")),
@@ -323,7 +358,27 @@ def check_inconsistent_types(source_id_col, data_by_id, mapping_rows, sig_fn, de
     return issues
 
 
-# ── Reporter ───────────────────────────────────────────────────────────────────
+def check_inconsistent_concepts(source_id_col, data_by_id, mapping_rows, sig_fn, describe=None):
+    """Detect EXACT rows sharing a clinical signature but using different concept_ids."""
+    return _check_inconsistency(
+        "INCONSISTENT_CONCEPT", source_id_col, data_by_id, mapping_rows, sig_fn, describe,
+        group_key_fn=lambda sig, row: sig,
+        divergence_field="concept_id",
+        row_filter=lambda cid, mt: cid and mt == "EXACT",
+    )
+
+
+def check_inconsistent_types(source_id_col, data_by_id, mapping_rows, sig_fn, describe=None):
+    """Detect rows sharing a clinical signature and concept_id but using different mapping_types."""
+    return _check_inconsistency(
+        "INCONSISTENT_TYPE", source_id_col, data_by_id, mapping_rows, sig_fn, describe,
+        group_key_fn=lambda sig, row: (sig, clean(row.get("concept_id", ""))),
+        divergence_field="mapping_type",
+        row_filter=lambda cid, mt: cid and mt,
+    )
+
+
+# -- Reporter ------------------------------------------------------------------
 
 def format_summary_line(folder_name, counts, issue_types):
     parts = [f"{counts[t]} {t}" for t in issue_types if counts[t] > 0]
@@ -331,10 +386,15 @@ def format_summary_line(folder_name, counts, issue_types):
 
 
 def build_argparser(description, default_products_dir, issue_types):
-    """Return a configured ArgumentParser with --products-dir, --issue, --details, --min-count."""
+    """Return a configured ArgumentParser with folder, --products-dir, --issue, --details, --min-count."""
     parser = argparse.ArgumentParser(
         description=description,
         formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    parser.add_argument(
+        "folder",
+        nargs="?",
+        help="Single folder to validate. Omit to validate all folders.",
     )
     parser.add_argument(
         "--products-dir",
@@ -348,7 +408,7 @@ def build_argparser(description, default_products_dir, issue_types):
     parser.add_argument(
         "--details",
         action="store_true",
-        help="Print row-level TSV for matching folders (requires --issue)",
+        help="Print row-level TSV for matching folders (requires --issue in multi-folder mode)",
     )
     parser.add_argument(
         "--min-count",
@@ -360,15 +420,27 @@ def build_argparser(description, default_products_dir, issue_types):
     return parser
 
 
-def run_reporter(folder_issues, args, issue_types, detail_header=None):
+def parse_standard_args(parser):
+    """Parse args from a build_argparser()-created parser with standard validation."""
+    args = parser.parse_args()
+    if args.issue:
+        args.issue = args.issue.strip().upper()
+    # In multi-folder mode, --details requires --issue
+    if args.details and not args.issue and not args.folder:
+        parser.error("--details requires --issue")
+    return args
+
+
+def run_reporter(folder_issues, args, issue_types, detail_header=None, sort_key="source_id"):
     """
-    Print audit results to stdout.
+    Print validation results to stdout.
 
     Args:
-        folder_issues : dict mapping Path → list[issue dict]
+        folder_issues : dict mapping Path -> list[issue dict]
         args          : parsed argparse namespace with .issue, .details, .min_count
         issue_types   : ordered list of all issue type names for summary formatting
         detail_header : column names for --details rows (defaults to DETAIL_HEADER)
+        sort_key      : issue dict key to sort detail rows by (default: "source_id")
     """
     if detail_header is None:
         detail_header = DETAIL_HEADER
@@ -399,7 +471,7 @@ def run_reporter(folder_issues, args, issue_types, detail_header=None):
             print("\t".join(["folder"] + detail_header))
             for folder, issues in matching:
                 filtered = [i for i in issues if i["issue"] == args.issue]
-                for issue in sorted(filtered, key=lambda x: x.get("source_id", "")):
+                for issue in sorted(filtered, key=lambda x: x.get(sort_key, "")):
                     row_vals = [folder.name] + [issue.get(col, "") for col in detail_header]
                     print("\t".join(row_vals))
         else:
@@ -414,3 +486,50 @@ def run_reporter(folder_issues, args, issue_types, detail_header=None):
         for folder, issues in ranked:
             counts = Counter(i["issue"] for i in issues)
             print(format_summary_line(folder.name, counts, issue_types))
+
+
+def run_single_folder_reporter(folder_name, issues, args, detail_header=None):
+    """
+    Print single-folder validation results to stdout.
+
+    Default output shows a summary line followed by grouped pattern counts per issue type.
+    With --details, prints row-level TSV. --issue filters to one issue type in either mode.
+    """
+    if detail_header is None:
+        detail_header = DETAIL_HEADER
+
+    if not issues:
+        print("OK - no issues found")
+        return
+
+    issue_filter = args.issue if hasattr(args, "issue") else None
+
+    if args.details:
+        filtered = [i for i in issues if not issue_filter or i["issue"] == issue_filter]
+        if not filtered:
+            print(f"OK - no {issue_filter} issues found")
+            return
+        print("\t".join(detail_header))
+        for issue in sorted(filtered, key=lambda i: (i["issue"], i.get("source_id", ""))):
+            print("\t".join(issue.get(col, "") for col in detail_header))
+        return
+
+    # Summary with pattern grouping
+    counts = Counter(i["issue"] for i in issues)
+    summary_parts = [f"{c} {t}" for t, c in sorted(counts.items())]
+    print(f"# {folder_name}: {', '.join(summary_parts)}")
+    print()
+
+    grouped = {}
+    for issue in issues:
+        issue_type = issue["issue"]
+        label = issue["description"] or issue["concept_name"] or issue["source_id"]
+        grouped.setdefault(issue_type, Counter())[label] += 1
+
+    for issue_type in sorted(grouped):
+        if issue_filter and issue_type != issue_filter:
+            continue
+        print(f"[{issue_type}]")
+        for label, count in grouped[issue_type].most_common():
+            print(f"{count}\t{label}")
+        print()

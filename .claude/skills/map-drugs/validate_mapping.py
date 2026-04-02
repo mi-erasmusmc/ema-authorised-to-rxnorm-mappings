@@ -16,6 +16,11 @@ Validates:
 - non-empty suggestions contain a recognized RxNorm dose form
 
 Exit code 0 if all files pass, 1 if any errors found.
+
+Each error is a (code, message) tuple.  The code is a short issue-type name
+(e.g. "EMPTY_DATE", "EXACT_NO_DOSE_FORM") used by validate_core to produce
+per-type counts.  Codes that overlap with common-check issue types
+(NO_CONCEPT, BROAD, NO_MAPPING) are tagged so validate_core can skip them.
 """
 
 import csv
@@ -32,7 +37,12 @@ STRENGTH_IN_NAME_RE = re.compile(
     r"\b\d+(?:\.\d+)?\s*(?:MG|UNT|MEQ|ACTUAT|MCI)\b",
     re.IGNORECASE,
 )
-EXACT_INJECTION_CONCENTRATION_RE = re.compile(r"/ML\b.*\bInjection\b", re.IGNORECASE)
+# Matches concentration-style injectable/device dose forms where a strength precedes /ML
+# (e.g. "100 UNT/ML Injection", "60 MG/ML Prefilled Syringe").
+EXACT_VOLUME_REVIEW_RE = re.compile(
+    r"\b\d+(?:\.\d+)?\b.*?/ML\b.*\b(?:Injection|Prefilled Syringe|Auto-Injector|Jet Injector)\b",
+    re.IGNORECASE,
+)
 LEADING_VOLUME_RE = re.compile(r"^\d+(?:\.\d+)?\s*ML\b", re.IGNORECASE)
 PACK_LEADING_VOLUME_RE = re.compile(r"^\{\s*\d+\s*\(\s*\d+(?:\.\d+)?\s*ML\b", re.IGNORECASE)
 # Contrast agents and similar compounds where RxNorm intentionally omits dose form
@@ -74,6 +84,10 @@ REQUIRED_COLUMNS = [
     "mapping_type", "comment", "suggestion", "last_updated_date",
 ]
 DOSE_FORM_LOOKUP_PATH = Path(__file__).with_name("dose_form_lookup.json")
+
+# Codes that overlap with common checks in validate_core — these are skipped
+# by validate_folder_issues() to avoid double-counting.
+COMMON_CHECK_OVERLAP_CODES = {"NO_CONCEPT", "BROAD", "NO_MAPPING"}
 
 
 def load_dose_forms() -> list[str]:
@@ -133,7 +147,8 @@ def _read_atc_code(mapping_path: Path) -> str:
     return ""
 
 
-def validate_file(path: str) -> list[str]:
+def validate_file(path: str) -> list[tuple[str, str]]:
+    """Validate a mapping.tsv and return a list of (error_code, message) tuples."""
     errors = []
     normalized_path = Path(path)
     atc_code = _read_atc_code(normalized_path)
@@ -144,25 +159,27 @@ def validate_file(path: str) -> list[str]:
 
             # Check ID column (first column)
             if not fields or fields[0] not in VALID_ID_COLUMNS:
-                errors.append(
+                errors.append((
+                    "INVALID_STRUCTURE",
                     f"  First column must be one of {sorted(VALID_ID_COLUMNS)}, "
                     f"got '{fields[0] if fields else '(empty)'}'"
-                )
+                ))
                 return errors
 
             # Check required columns are present
             missing = [c for c in REQUIRED_COLUMNS if c not in fields]
             if missing:
-                errors.append(f"  Missing required columns: {missing}")
+                errors.append(("INVALID_STRUCTURE", f"  Missing required columns: {missing}"))
                 return errors
 
             extra = EXTRA_ID_COLUMNS.get(fields[0], [])
             expected = [fields[0]] + extra + REQUIRED_COLUMNS
             if fields != expected:
-                errors.append(
+                errors.append((
+                    "INVALID_STRUCTURE",
                     f"  Column order mismatch: expected {expected}, "
                     f"got {fields}"
-                )
+                ))
                 return errors
 
             atc_v = atc_code.upper().startswith("V")
@@ -173,25 +190,28 @@ def validate_file(path: str) -> list[str]:
                 # last_updated_date: required, YYYY-MM-DD
                 date = row.get("last_updated_date", "").strip()
                 if not date:
-                    errors.append(f"  {line}: last_updated_date is empty")
+                    errors.append(("EMPTY_DATE", f"  {line}: last_updated_date is empty"))
                 elif not DATE_RE.match(date):
-                    errors.append(
+                    errors.append((
+                        "BAD_DATE",
                         f"  {line}: last_updated_date '{date}' is not YYYY-MM-DD"
-                    )
+                    ))
 
                 # concept_id: number or empty
                 cid = row.get("concept_id", "").strip()
                 if cid and not cid.isdigit():
-                    errors.append(
+                    errors.append((
+                        "BAD_CONCEPT_ID",
                         f"  {line}: concept_id '{cid}' is not a number"
-                    )
+                    ))
 
                 # mapping_type: EXACT, BROAD, NO_MAPPING, or empty
                 mt = row.get("mapping_type", "").strip()
                 if mt not in VALID_MAPPING_TYPES:
-                    errors.append(
+                    errors.append((
+                        "BAD_MAPPING_TYPE",
                         f"  {line}: mapping_type '{mt}' is not EXACT, BROAD, NO_MAPPING, or empty"
-                    )
+                    ))
 
                 # EXACT and BROAD require concept_id, concept_name, and concept_code.
                 # If no mapping is possible, use NO_MAPPING instead.
@@ -199,20 +219,23 @@ def validate_file(path: str) -> list[str]:
                 concept_code = row.get("concept_code", "").strip()
                 if mt in ("EXACT", "BROAD"):
                     if not cid:
-                        errors.append(
+                        errors.append((
+                            "NO_CONCEPT",
                             f"  {line}: {mt} mappings require concept_id; "
                             f"if no mapping is available use NO_MAPPING"
-                        )
+                        ))
                     if not concept_name:
-                        errors.append(
+                        errors.append((
+                            "NO_CONCEPT",
                             f"  {line}: {mt} mappings require concept_name; "
                             f"if no mapping is available use NO_MAPPING"
-                        )
+                        ))
                     if not concept_code:
-                        errors.append(
+                        errors.append((
+                            "NO_CONCEPT",
                             f"  {line}: {mt} mappings require concept_code; "
                             f"if no mapping is available use NO_MAPPING"
-                        )
+                        ))
 
                 # EXACT mappings must specify a strength in the concept name (indicated by any digit).
                 # Concepts with truncated names (ending "...") are skipped: the strength may be cut off.
@@ -222,10 +245,11 @@ def validate_file(path: str) -> list[str]:
                         and not concept_name.endswith("...")
                         and not atc_v
                         and not re.search(r'\d', concept_name)):
-                    errors.append(
+                    errors.append((
+                        "EXACT_NO_STRENGTH",
                         f"  {line}: EXACT concept '{concept_name[:80]}' has no strength; "
                         f"use BROAD if no strength-specific concept exists"
-                    )
+                    ))
 
                 # EXACT mappings to bare clinical drug components (has strength, no dose form) are invalid.
                 # Concepts with truncated names (ending "...") are skipped: the dose form may be cut off.
@@ -235,21 +259,24 @@ def validate_file(path: str) -> list[str]:
                         and concept_code not in EXACT_NO_DOSE_FORM_EXEMPT_CODES
                         and STRENGTH_IN_NAME_RE.search(concept_name)
                         and not suggestion_has_valid_dose_form(concept_name)):
-                    errors.append(
+                    errors.append((
+                        "EXACT_NO_DOSE_FORM",
                         f"  {line}: EXACT concept '{concept_name[:80]}' has a strength but no "
                         f"dose form; use BROAD if no dose-form-specific concept exists"
-                    )
+                    ))
 
-                # EXACT concentration-style Injection concepts must start with an explicit volume.
+                # EXACT concentration-style injectable/device concepts must start with an explicit volume.
                 if (mt == "EXACT" and concept_name
                         and not concept_name.endswith("...")
-                        and EXACT_INJECTION_CONCENTRATION_RE.search(concept_name)
+                        and EXACT_VOLUME_REVIEW_RE.search(concept_name)
                         and not LEADING_VOLUME_RE.search(concept_name)
                         and not PACK_LEADING_VOLUME_RE.search(concept_name)):
-                    errors.append(
-                        f"  {line}: EXACT concept '{concept_name[:80]}' uses /ML Injection without a leading volume; "
+                    errors.append((
+                        "EXACT_NO_VOLUME",
+                        f"  {line}: EXACT concept '{concept_name[:80]}' uses /ML with Injection, Prefilled Syringe, "
+                        f"Auto-Injector, or Jet Injector without a leading volume; "
                         f"use a volume-specific concept or downgrade to BROAD"
-                    )
+                    ))
 
                 # BROAD and NO_MAPPING mappings require a suggestion
                 # Products with ATC codes starting with V are exempt (diagnostics/contrast media).
@@ -259,44 +286,52 @@ def validate_file(path: str) -> list[str]:
                     and not atc_v
                 )
                 if mt == "BROAD" and suggestion_required and not suggestion:
-                    errors.append(
+                    errors.append((
+                        "BROAD",
                         f"  {line}: BROAD mappings require suggestion"
-                    )
+                    ))
                 if mt == "NO_MAPPING" and suggestion_required and not suggestion:
-                    errors.append(
+                    errors.append((
+                        "NO_MAPPING",
                         f"  {line}: NO_MAPPING mappings require suggestion"
-                    )
+                    ))
                 if suggestion:
                     if suggestion.casefold() == concept_name.casefold():
-                        errors.append(
+                        errors.append((
+                            "BAD_SUGGESTION",
                             f"  {line}: suggestion must not equal concept_name"
-                        )
+                        ))
                     m = BRAND_SUFFIX_RE.fullmatch(suggestion)
                     if m and m.group("base").casefold() == concept_name.casefold():
-                        errors.append(
+                        errors.append((
+                            "BAD_SUGGESTION",
                             f"  {line}: suggestion must not differ from concept_name only by brand suffix"
-                        )
+                        ))
                     if DATE_RE.fullmatch(suggestion):
-                        errors.append(
+                        errors.append((
+                            "BAD_SUGGESTION",
                             f"  {line}: suggestion must not be a date"
-                        )
+                        ))
                     if "|" in suggestion:
-                        errors.append(
+                        errors.append((
+                            "BAD_SUGGESTION",
                             f"  {line}: suggestion must not contain pipe-delimited data"
-                        )
+                        ))
                     if not suggestion_has_valid_dose_form(suggestion):
-                        errors.append(
+                        errors.append((
+                            "BAD_SUGGESTION",
                             f"  {line}: suggestion must contain a valid dose form from dose_form_lookup.json"
-                        )
+                        ))
                     if not suggestion_has_valid_ending(suggestion):
-                        errors.append(
+                        errors.append((
+                            "BAD_SUGGESTION",
                             f"  {line}: suggestion must end with a dose form, [Brand], or 'Pack'"
-                        )
+                        ))
 
     except FileNotFoundError:
-        errors.append(f"  File not found: {path}")
+        errors.append(("INVALID_STRUCTURE", f"  File not found: {path}"))
     except Exception as e:
-        errors.append(f"  Error reading file: {e}")
+        errors.append(("INVALID_STRUCTURE", f"  Error reading file: {e}"))
 
     return errors
 
@@ -312,8 +347,8 @@ def main():
         if errors:
             has_errors = True
             print(f"FAIL {path}")
-            for e in errors:
-                print(e)
+            for _code, msg in errors:
+                print(msg)
         else:
             print(f"OK   {path}")
 

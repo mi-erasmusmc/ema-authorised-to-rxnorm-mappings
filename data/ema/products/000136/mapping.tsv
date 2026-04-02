@@ -6,17 +6,17 @@ EU/1/98/063/004	19129196	0.5 ML interferon beta-1a 0.088 MG/ML Prefilled Syringe
 EU/1/98/063/005	19129196	0.5 ML interferon beta-1a 0.088 MG/ML Prefilled Syringe [Rebif]	758027	EXACT			2025-12-04
 EU/1/98/063/006	19129196	0.5 ML interferon beta-1a 0.088 MG/ML Prefilled Syringe [Rebif]	758027	EXACT			2025-12-04
 EU/1/98/063/007	19129199	{6 (0.2 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe) / 6 (0.5 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe) } Pack	758030	EXACT			2025-12-04
-EU/1/98/063/008	46234530	0.5 ML interferon beta-1a 0.044 MG/ML Auto-Injector [Rebif]	1649996	EXACT			2025-12-04
-EU/1/98/063/009	46234536	0.5 ML interferon beta-1a 0.088 MG/ML Auto-Injector [Rebif]	1650004	EXACT			2025-12-04
-EU/1/98/063/010	42902582	interferon beta-1a 0.088 MG/ML Prefilled Syringe [Rebif]	1359695	EXACT	I don't know		2025-12-04
-EU/1/98/063/011	46234530	0.5 ML interferon beta-1a 0.044 MG/ML Auto-Injector [Rebif]	1649996	EXACT			2025-12-04
-EU/1/98/063/012	46234530	0.5 ML interferon beta-1a 0.044 MG/ML Auto-Injector [Rebif]	1649996	EXACT			2025-12-04
-EU/1/98/063/013	46234530	0.5 ML interferon beta-1a 0.044 MG/ML Auto-Injector [Rebif]	1649996	EXACT			2025-12-04
-EU/1/98/063/014	46234536	0.5 ML interferon beta-1a 0.088 MG/ML Auto-Injector [Rebif]	1650004	EXACT			2025-12-04
-EU/1/98/063/015	46234536	0.5 ML interferon beta-1a 0.088 MG/ML Auto-Injector [Rebif]	1650004	EXACT			2025-12-04
-EU/1/98/063/016	46234536	0.5 ML interferon beta-1a 0.088 MG/ML Auto-Injector [Rebif]	1650004	EXACT			2025-12-04
-EU/1/98/063/017	19130130	{6 (0.2 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe [Rebif]) / 6 (0.5 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe [Rebif]) } Pack [Rebif Titration]	795749	EXACT			2025-12-04
-EU/1/98/063/018	46234530	0.5 ML interferon beta-1a 0.044 MG/ML Auto-Injector [Rebif]	1649996	EXACT			2025-12-04
-EU/1/98/063/019	46234536	0.5 ML interferon beta-1a 0.088 MG/ML Auto-Injector [Rebif]	1650004	EXACT			2025-12-04
+EU/1/98/063/008	19089284	interferon beta-1a 0.044 MG/ML [Rebif]	575913	BROAD		1.5 ML Interferon beta-1a 0.044 MG/ML Cartridge [Rebif]	2026-04-02
+EU/1/98/063/009	43286730	1.5 ML Interferon beta-1a 0.088 MG/ML Cartridge [Rebif]	OMOP560995	EXACT			2026-04-02
+EU/1/98/063/010	19089283	interferon beta-1a 0.088 MG/ML [Rebif]	575912	BROAD		{1 (0.1 ML interferon beta-1a 0.088 MG/ML Cartridge [Rebif]) / 1 (0.25 ML interferon beta-1a 0.088 MG/ML Cartridge [Rebif]) } Pack [Rebif]	2026-04-02
+EU/1/98/063/011	19129200	0.5 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe [Rebif]	758032	BROAD		0.5 ML interferon beta-1a 0.044 MG/ML Pen Injector [Rebif]	2026-04-02
+EU/1/98/063/012	19129200	0.5 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe [Rebif]	758032	BROAD		0.5 ML interferon beta-1a 0.044 MG/ML Pen Injector [Rebif]	2026-04-02
+EU/1/98/063/013	19129200	0.5 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe [Rebif]	758032	BROAD		0.5 ML interferon beta-1a 0.044 MG/ML Pen Injector [Rebif]	2026-04-02
+EU/1/98/063/014	2902039	0.5 ML interferon beta-1a 0.088 MG/ML Pen Injector [Rebif]	OMOP5118911	EXACT			2026-04-02
+EU/1/98/063/015	2902039	0.5 ML interferon beta-1a 0.088 MG/ML Pen Injector [Rebif]	OMOP5118911	EXACT			2026-04-02
+EU/1/98/063/016	2902039	0.5 ML interferon beta-1a 0.088 MG/ML Pen Injector [Rebif]	OMOP5118911	EXACT			2026-04-02
+EU/1/98/063/017	19130130	{6 (0.2 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe [Rebif]) / 6 (0.5 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe [Rebif]) } Pack [Rebif Titration]	795749	BROAD		{6 (0.2 ML interferon beta-1a 0.044 MG/ML Pen Injector [Rebif]) / 6 (0.5 ML interferon beta-1a 0.044 MG/ML Pen Injector [Rebif]) } Pack [Rebif]	2026-04-02
+EU/1/98/063/018	19089284	interferon beta-1a 0.044 MG/ML [Rebif]	575913	BROAD		1.5 ML Interferon beta-1a 0.044 MG/ML Cartridge [Rebif]	2026-04-02
+EU/1/98/063/019	43286730	1.5 ML Interferon beta-1a 0.088 MG/ML Cartridge [Rebif]	OMOP560995	EXACT			2026-04-02
 EU/1/98/063/020	19129200	0.5 ML interferon beta-1a 0.044 MG/ML Prefilled Syringe [Rebif]	758032	EXACT			2025-12-04
 EU/1/98/063/021	19129196	0.5 ML interferon beta-1a 0.088 MG/ML Prefilled Syringe [Rebif]	758027	EXACT			2025-12-04

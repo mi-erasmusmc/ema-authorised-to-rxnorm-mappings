@@ -1,6 +1,6 @@
 ---
 name: map-spain-drugs
-description: Map Spanish national medicinal products from the AEMPS CIMA registry to RxNorm standard concepts. Use when asked to map a Spanish product, review or correct a Spain `mapping.tsv`, audit a Spain product folder, fix a bad EMA auto-link via `nro_definitivo`, or handle Spain-specific cases such as duplicate `nro_definitivo`, generics, biosimilars, herbal products, or radiopharmaceuticals.
+description: Map Spanish national medicinal products from the AEMPS CIMA registry to RxNorm standard concepts. Use when asked to map a Spanish product, review or correct a Spain `mapping.tsv`, validate a Spain product folder, fix a bad EMA auto-link via `nro_definitivo`, or handle Spain-specific cases such as duplicate `nro_definitivo`, generics, biosimilars, herbal products, or radiopharmaceuticals.
 ---
 
 # Map Drugs: Spanish Products
@@ -13,8 +13,7 @@ Refer to the `find-concepts` skill for RxNorm searches and the `map-drugs` skill
 
 ## Resources
 
-- Use `audit_spain_folder.py` to identify missing, stale, incomplete, or broad mappings in a Spain product folder.
-- Use `audit_spain.py` to audit all Spain product folders at once and surface the worst offenders by issue type.
+- Use `validate_all.py` to validate Spain product folders — pass a folder path for a single folder, or omit it to validate all folders at once.
 - Use `apply_mappings.py` to merge targeted TSV updates into `mapping.tsv` without rewriting unchanged rows.
 - Use `scripts/list_folder_patterns.py` to summarize repeated presentation patterns before concept search, especially in large folders.
 - Use `scripts/run_clean_room_batch.py` for conservative bulk cleanup when missing rows can be filled from existing `EXACT` mappings in the same folder.
@@ -42,16 +41,16 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
 ## Workflow
 
-1. Audit the folder:
+1. Validate the folder:
    ```bash
-   make audit_spain_folder ARGS="data/spain/products/<folder>/"
+   make validate_spain ARGS="data/spain/products/<folder>/"
    ```
    The default output is summary-first. It shows issue counts and repeated product patterns so you can decide quickly whether the folder is batchable.
 
    Use drill-down mode only when needed:
    ```bash
-   make audit_spain_folder ARGS="data/spain/products/<folder>/ --details"
-   make audit_spain_folder ARGS="data/spain/products/<folder>/ --details --issue MISSING"
+   make validate_spain ARGS="data/spain/products/<folder>/ --details"
+   make validate_spain ARGS="data/spain/products/<folder>/ --details --issue MISSING"
    ```
 
    Review these issue types:
@@ -67,12 +66,12 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
    - `INCONSISTENT_CONCEPT`: EXACT rows sharing the same clinical description and dose form but mapped to different concept_ids. For generics (`sw_generico=1`) this is usually a real error, but a legitimate split can occur when some products in the folder have their own RxNorm branded concept (e.g. `[Yargesa]`) while others do not — in that case the different concepts are both correct and the flag is a structural false positive. For branded products the check is per-brand key from `des_nomco`, not per manufacturer, so it only flags conflicts within the same branded line — **do not resolve by collapsing to a plain non-suffixed concept**. When the folder contains biosimilars, always read the biosimilar reference in `.claude/skills/map-drugs/biosimilars/` and apply the correct FDA-suffixed unbranded concept (Scenario 1) or BROAD+suggestion (Scenario 2). Never strip FDA suffixes (`-atto`, `-adaz`, `-fkjp`, etc.) in the name of harmonisation.
    - `INCONSISTENT_TYPE`: rows sharing the same clinical signature and the same concept_id but with different `mapping_type` values (e.g. one row is `EXACT` while another is `BROAD`). Resolve by deciding the correct type for the concept and applying it consistently across all affected rows.
 
-   **Suppressing known false positives:** when an audit flag is a confirmed false positive (the mapping is correct but the check cannot distinguish the legitimate case), add a row to `data/spain/audit_suppressions.tsv`:
+   **Suppressing known false positives:** when an validate flag is a confirmed false positive (the mapping is correct but the check cannot distinguish the legitimate case), add a row to `data/spain/suppressions.tsv`:
    ```
    folder	issue	cod_nacion
    abacavir-lamivudine	INCONSISTENT_CONCEPT	702018
    ```
-   Record *why* in the `comment` column of the corresponding `mapping.tsv` row — the suppression file holds the key, the mapping file holds the reason. Both `audit_spain` and `audit_spain_folder` apply suppressions automatically.
+   Record *why* in the `comment` column of the corresponding `mapping.tsv` row — the suppression file holds the key, the mapping file holds the reason. Suppressions are applied automatically in both single-folder and multi-folder mode.
 
 2. Read `data.tsv` to understand the presentation set, strengths, volumes, and flags for the product.
 
@@ -82,7 +81,7 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
    ```
    This is read-only. It helps you spot which rows truly share the same clinical pattern before you reuse a concept across them.
 
-   If the audit shows that `MISSING` is the dominant issue type, narrow to unmapped rows only:
+   If the validate shows that `MISSING` is the dominant issue type, narrow to unmapped rows only:
    ```bash
    make list_folder_patterns ARGS="data/spain/products/<folder>/ --missing-only"
    ```
@@ -104,7 +103,7 @@ Each product folder under `data/spain/products/{ingredient_slug}/` contains:
 
    Treat existing high-quality `EXACT` rows as anchors. Only overwrite an existing mapped row when you have a specific, verified reason, for example:
    - the current concept has the wrong route, dose form, strength, volume, or brand
-   - the row is flagged by audit as incomplete or inconsistent and you confirmed the correction
+   - the row is flagged by validate as incomplete or inconsistent and you confirmed the correction
    - the source data itself is anomalous and you are correcting to the defensible RxNorm presentation
 
    Before overwriting existing rows in a mixed-pattern folder, explicitly compare the current and proposed mappings for:
@@ -149,7 +148,7 @@ For low-risk bulk work, use the batch helper:
 make run_clean_room_batch ARGS="--apply --limit 60 --pass-size 3"
 ```
 
-It only selects folders where every missing row can be filled from an existing `EXACT` mapping in the same folder using the same full clinical pattern, then validates and audits each folder. This is a cleanup tool, not a substitute for concept search.
+It only selects folders where every missing row can be filled from an existing `EXACT` mapping in the same folder using the same full clinical pattern, then validates and validates each folder. This is a cleanup tool, not a substitute for concept search.
 
 ## Spain-specific Notes
 
