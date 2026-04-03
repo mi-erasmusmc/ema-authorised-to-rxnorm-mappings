@@ -1,11 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 603030	70000	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD	Spain source is 0.5 MG/ML concentrate for solution for perfusion.	0.5 MG/ML norepinephrine Injectable Solution	2026-03-14
 652135	67043	1321363	4 ML norepinephrine 1 MG/ML Injection	242969	EXACT			2026-03-14
-656019	62002	40072394	norepinephrine Injectable Solution	373112	BROAD	RxNorm does not expose a matching norepinephrine 0.5 MG/ML injectable concept; mapped to the ingredient-level injectable-solution concept.	norepinephrine 0.5 MG/ML Injectable Solution	2026-04-03
+656019	62002	36881917	Norepinephrine 0.5 MG/ML Injectable Solution	OMOP994415	EXACT			2026-04-03
 661660	62002	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD	Spain source is 0.5 MG/ML concentrate for solution for perfusion in a 10 ML ampoule.	10 ML norepinephrine 0.5 MG/ML Injectable Solution	2026-03-14
-728884	85228	35603733	norepinephrine 1 MG/ML Injection	1745280	BROAD	No 10 mL volume-specific concept in RxNorm	10 ML norepinephrine 1 MG/ML Injection	2026-03-29
+728884	85228	41331504	1 ML Norepinephrine 1 MG/ML Injectable Solution	OMOP2529466	BROAD	10 mL ampoule concentrate for perfusion; RxNorm Extension lacks a validator-friendly exact single-use 10 mL injection concept, so this keeps the labeled 1 MG/ML strength while dropping container volume.	10 ML Norepinephrine 1 MG/ML Injection	2026-04-03
 763878	89183	19111069	norepinephrine 0.04 MG/ML	446837	BROAD		norepinephrine 0.04 MG/ML Injectable Solution	2026-03-14
-765272	89669	19011871	norepinephrine 2 MG/ML Injectable Solution	142104	EXACT			2026-03-14
-765275	89669	19011871	norepinephrine 2 MG/ML Injectable Solution	142104	EXACT			2026-03-14
+765272	89669	1321363	4 ML norepinephrine 1 MG/ML Injection	242969	EXACT	Labeled strength is 1 MG/ML; tartrate amount in source ingredient field reflects the salt, not the clinical base strength.		2026-04-03
+765275	89669	21127064	8 ML Norepinephrine 1 MG/ML Injection	OMOP309490	EXACT	Labeled strength is 1 MG/ML; tartrate amount in source ingredient field reflects the salt, not the clinical base strength.		2026-04-03
 766942	86439	40072394	norepinephrine Injectable Solution	373112	BROAD		norepinephrine 0.005 MG/ML Injectable Solution	2026-03-14
-688041	75514	19011871	norepinephrine 2 MG/ML Injectable Solution	142104	EXACT			2026-03-14
+688041	75514	589138	4 ML Norepinephrine 2 MG/ML Injection	OMOP3137730	EXACT			2026-04-03

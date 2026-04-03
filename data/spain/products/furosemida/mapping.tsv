@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 600965	62168	35603226	2 ML furosemide 10 MG/ML Injection	1719290	EXACT	2 mL single-use injection presentation has an exact volume-specific RxNorm concept.		2026-03-15
-602357	68258	35603225	furosemide 10 MG/ML Injection	1719287	BROAD	250 mg/25 mL IV perfusion has no local 25 mL or ampoule-specific concept; concentration-only injection concept is the closest defensible match.	25 ML furosemide 10 MG/ML Injection	2026-04-02
+602357	68258	43259172	25 ML Furosemide 10 MG/ML Injection	OMOP564894	EXACT			2026-04-03
 602712	69097	35603226	2 ML furosemide 10 MG/ML Injection	1719290	EXACT	2 mL single-use injection presentation has an exact volume-specific RxNorm concept.		2026-03-15
 602713	69097	35603226	2 ML furosemide 10 MG/ML Injection	1719290	EXACT	2 mL single-use injection presentation has an exact volume-specific RxNorm concept.		2026-03-15
 605845	64140	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
@@ -17,7 +17,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 723704	79029	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
 724006	83588	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
 724007	83588	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
-726619	68258	35603225	furosemide 10 MG/ML Injection	1719287	BROAD	250 mg/25 mL IV perfusion has no local 25 mL or ampoule-specific concept; concentration-only injection concept is the closest defensible match.	25 ML furosemide 10 MG/ML Injection	2026-04-02
+726619	68258	43259172	25 ML Furosemide 10 MG/ML Injection	OMOP564894	EXACT			2026-04-03
 727945	84870	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
 727946	84870	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
 730476	85808	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
@@ -29,10 +29,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 993006	64140	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
 602356	68257	35603226	2 ML furosemide 10 MG/ML Injection	1719290	EXACT	2 mL single-use injection presentation has an exact volume-specific RxNorm concept.		2026-03-15
 628073	65540	35603226	2 ML furosemide 10 MG/ML Injection	1719290	EXACT	2 mL single-use injection presentation has an exact volume-specific RxNorm concept.		2026-03-15
-628172	65541	35603225	furosemide 10 MG/ML Injection	1719287	BROAD	250 mg/25 mL IV perfusion has no local 25 mL or vial-specific concept; concentration-only injection concept is the closest defensible match.	25 ML furosemide 10 MG/ML Injection	2026-04-02
+628172	65541	43259172	25 ML Furosemide 10 MG/ML Injection	OMOP564894	EXACT			2026-04-03
 656155	68078	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
 691204	39968	35603226	2 ML furosemide 10 MG/ML Injection	1719290	EXACT	2 mL single-use injection presentation has an exact volume-specific RxNorm concept.		2026-03-15
-703870	56508	35603225	furosemide 10 MG/ML Injection	1719287	BROAD	250 mg/25 mL IV perfusion has no local 25 mL or ampoule-specific concept; concentration-only injection concept is the closest defensible match.	25 ML furosemide 10 MG/ML Injection	2026-04-02
+703870	56508	43259172	25 ML Furosemide 10 MG/ML Injection	OMOP564894	EXACT			2026-04-03
 715406	81878	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
 715980	81878	957136	furosemide 40 MG Oral Tablet	313988	EXACT			2026-03-15
 721863	68257	35603226	2 ML furosemide 10 MG/ML Injection	1719290	EXACT	2 mL single-use injection presentation has an exact volume-specific RxNorm concept.		2026-03-15

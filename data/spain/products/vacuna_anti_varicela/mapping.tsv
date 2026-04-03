@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-651402	65709	42800032	varicella-zoster virus vaccine live (Oka-Merck) strain 2700 UNT/ML [Varivax]	1292427	EXACT			
-651403	65709	42800032	varicella-zoster virus vaccine live (Oka-Merck) strain 2700 UNT/ML [Varivax]	1292427	EXACT			
-668822	61671	42800029	varicella-zoster virus vaccine live (Oka-Merck) strain 2700 UNT/ML	1292423	BROAD	Varilrix uses Oka strain (not Oka-Merck); no separate RxNorm concept exists for Oka strain	varicella-zoster virus vaccine live (Oka) strain Injection [Varilrix]	2026-03-12
+651402	65709	42800031	0.5 ML varicella-zoster virus vaccine live (Oka-Merck) strain 2700 UNT/ML Injection [Varivax]	1292459	EXACT			2026-04-03
+651403	65709	42800031	0.5 ML varicella-zoster virus vaccine live (Oka-Merck) strain 2700 UNT/ML Injection [Varivax]	1292459	EXACT			2026-04-03
+668822	61671	43264044	Varicella-Zoster Virus Vaccine Live (Oka-Merck) strain 2000 PFU Injection [Varilrix]	OMOP558435	EXACT	Branded Varilrix injection concept is the closest dose-form-specific concept RxNorm exposes for this single-dose presentation.		2026-04-03

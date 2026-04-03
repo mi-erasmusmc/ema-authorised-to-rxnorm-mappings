@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-653979	56566	46275158	rabies virus vaccine wistar strain PM-1503-3M (human), inactivated 2.5 UNT/ML Injection	1658039	EXACT	Verorab uses Wistar PM-1503 strain; no branded concept in RxNorm		2026-03-12
-711054	80926	46275155	rabies virus vaccine flury-lep strain 2.5 UNT/ML Injection	1658033	EXACT	Rabipur uses flury-lep strain; no branded concept in RxNorm		2026-03-12
-834101	66100	46275155	rabies virus vaccine flury-lep strain 2.5 UNT/ML Injection	1658033	EXACT	Rabipur uses flury-lep strain; no branded concept in RxNorm		2026-03-12
+653979	56566	19133406	1 ML rabies virus vaccine wistar strain PM-1503-3M (human), inactivated 2.5 UNT/ML Injection	830467	EXACT	Verorab uses Wistar PM-1503 strain; no matching brand concept in RxNorm.		2026-04-03
+711054	80926	19133402	1 ML rabies virus vaccine flury-lep strain 2.5 UNT/ML Injection	830460	EXACT	Rabipur uses flury-lep strain; no matching single-use Rabipur injection concept in RxNorm.		2026-04-03
+834101	66100	19133402	1 ML rabies virus vaccine flury-lep strain 2.5 UNT/ML Injection	830460	EXACT	Rabipur uses flury-lep strain; no matching single-use Rabipur injection concept in RxNorm.		2026-04-03

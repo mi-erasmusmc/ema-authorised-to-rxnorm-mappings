@@ -7,6 +7,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 660515	07431012	19127226	0.6 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	727868	EXACT			2026-03-12
 660516	07431014	19129861	0.8 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	792693	EXACT			2026-03-12
 660517	07431016	19129863	1 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	792710	EXACT			2026-03-12
-660518	07431019	42902901	epoetin alfa 20000 UNT/ML Prefilled Syringe	1360014	EXACT			2026-03-12
+660518	07431019	42479541	1 ML Epoetin Alfa 40000 UNT/ML Prefilled Syringe	OMOP418604	EXACT	40000 UI/1 mL = 40000 UNT/ML; previous mapping to 20000 UNT/ML was incorrect		2026-04-03
 660945	07431017	19129864	0.5 ML epoetin alfa 40000 UNT/ML Prefilled Syringe	792715	EXACT			2026-03-12
 660946	07431018	19127225	0.7 ML epoetin alfa 10000 UNT/ML Prefilled Syringe	727867	EXACT			2026-03-12

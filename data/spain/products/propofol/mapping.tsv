@@ -11,7 +11,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 658781	62134	1537391	propofol lipid emulsion 10 MG/ML Injectable Suspension	2561291	EXACT			2026-03-15
 658799	62134	1537391	propofol lipid emulsion 10 MG/ML Injectable Suspension	2561291	EXACT			2026-03-15
 658823	62134	1537391	propofol lipid emulsion 10 MG/ML Injectable Suspension	2561291	EXACT			2026-03-15
-663741	70956	40076609	propofol Injectable Suspension	377483	BROAD	RxNorm does not expose a matching 5 MG/ML non-volume injectable-suspension concept for this presentation.	propofol 5 MG/ML Injectable Suspension	2026-04-03
+663741	70956	36882820	Propofol 5 MG/ML Injectable Suspension	OMOP1004173	EXACT			2026-04-03
 685206	60744	753627	propofol 20 MG/ML Injectable Suspension	153475	EXACT			2026-03-29
 697791	64868	753627	propofol 20 MG/ML Injectable Suspension	153475	EXACT			2026-03-29
 726477	84394	1537391	propofol lipid emulsion 10 MG/ML Injectable Suspension	2561291	EXACT			2026-03-15

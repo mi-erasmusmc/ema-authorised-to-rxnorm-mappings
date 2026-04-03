@@ -2,7 +2,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 605710	74823	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364	EXACT			2026-04-03
 607812	45544	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364	EXACT			2026-04-03
 607838	45544	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364	EXACT			2026-04-03
-634477	49811	939575	sodium bicarbonate 85 MG/ML Injectable Solution	251734	BROAD	RxNorm does not expose a non-volume 84 MG/ML perfusion concept; mapped to the nearest concentration-only injectable-solution concept.	sodium bicarbonate 84 MG/ML Injectable Solution	2026-04-03
+634477	49811	42927665	Sodium Bicarbonate 84 MG/ML Injectable Solution	OMOP4654467	EXACT			2026-04-03
 645705	60324	1594718	10 ML sodium bicarbonate 84 MG/ML Injection	1923484	EXACT			2026-03-13
 722030	65507	1593935	sodium bicarbonate Injection	1868187	BROAD	Hemofiltration solution at 145 mmol/L (about 12.18 mg/mL); no matching standard sodium bicarbonate concentration concept found.	sodium bicarbonate 145 mmol/L Injectable Solution	2026-03-13
 722032	65508	21034592	Sodium Bicarbonate 14.4 MG/ML Injectable Solution	OMOP395364	BROAD	167 mmol/L (about 14.03 mg/mL) hemodialysis solution; nearest available concept is 14.4 MG/ML injectable solution.	sodium bicarbonate 167 mmol/L Injectable Solution	2026-03-13

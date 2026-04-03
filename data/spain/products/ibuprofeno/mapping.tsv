@@ -296,5 +296,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 650320	04284001	21117026	2 ML Ibuprofen 5 MG/ML Injection	OMOP303688	EXACT	5 mg/ml inyectable 2 ml		2026-03-12
 606724	79593	42628868	ibuprofen 100 MG/ML Injection	1791364	BROAD	600 mg in 6 ml = 100 MG/ML; no 6 ML volume-specific concept	6 ML ibuprofen 100 MG/ML Injection	2026-03-12
 705622	79593	42628868	ibuprofen 100 MG/ML Injection	1791364	BROAD	600 mg in 6 ml = 100 MG/ML; no 6 ML volume-specific concept	6 ML ibuprofen 100 MG/ML Injection	2026-03-12
-723966	83570	42628868	ibuprofen 100 MG/ML Injection	1791364	BROAD	400 mg in 4 mL concentrate for solution for perfusion; RxNorm does not expose the matching concentrate presentation.	4 ML ibuprofen 100 MG/ML Injection	2026-04-02
+723966	83570	43291470	4 ML Ibuprofen 100 MG/ML Injection	OMOP562174	EXACT	Source names the diluted 100 mL perfusion volume; marketed presentation is a 4 mL single-use concentrate vial.		2026-04-03
 724323	83680	1361178	ibuprofen 4 MG/ML Injection	2178276	BROAD	600 mg in 150 ml = 4 MG/ML; no 150 ML volume-specific concept	150 ML ibuprofen 4 MG/ML Injection	2026-03-12

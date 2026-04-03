@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-694919	60178	19113061	lactobacillus acidophilus	778988	BROAD	RxNorm does not expose the exact dual-lactobacillus oral-capsule presentation.	lactobacillus acidophilus / lactobacillus bifidus Oral Capsule	2026-03-14
+694919	60178	41205862	Bifidobacterium bifidum / Lactobacillus acidophilus Oral Capsule	OMOP2403824	BROAD	RxNorm Extension has the matching two-organism oral capsule but not the labeled probiotic strength.	Lactobacillus acidophilus / Lactobacillus bifidus Oral Capsule	2026-04-03

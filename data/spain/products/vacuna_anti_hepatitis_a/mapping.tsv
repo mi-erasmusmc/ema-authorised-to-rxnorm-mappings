@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652442	61602	42902981	hepatitis A virus strain CR 326F antigen, inactivated 50 UNT/ML Prefilled Syringe [Vaqta]	1360094	EXACT			2026-03-30
-652443	61601	42902981	hepatitis A virus strain CR 326F antigen, inactivated 50 UNT/ML Prefilled Syringe [Vaqta]	1360094	EXACT			2026-03-30
-700676	61396	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146	EXACT			2026-03-30
-700677	61250	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146	EXACT			2026-03-12
-731326	61605	46275172	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Injection	1658061	BROAD	AVAXIM uses GBM strain not represented in RxNorm; adult 1440 UNT/ML equivalent dose form used	1 ML hepatitis A vaccine (inactivated) strain GBM 1440 UNT/ML Prefilled Syringe [Avaxim]	2026-03-30
+652442	61602	596900	0.5 ML hepatitis A virus strain CR 326F antigen, inactivated 50 UNT/ML Prefilled Syringe [Vaqta]	836636	EXACT			2026-04-03
+652443	61601	596898	1 ML hepatitis A virus strain CR 326F antigen, inactivated 50 UNT/ML Prefilled Syringe [Vaqta]	836634	EXACT			2026-04-03
+700676	61396	529687	0.5 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	798482	EXACT			2026-04-03
+700677	61250	529685	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	798479	EXACT			2026-04-03
+731326	61605	43264843	0.5 ML Hepatitis A Virus 320 UNT/ML Injection [Avaxim]	OMOP559820	EXACT	Adult Avaxim presentation is the branded 0.5 mL single-dose syringe; this strength-specific Extension concept matches better than the unstrengthened branded concept.		2026-04-03

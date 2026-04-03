@@ -32,6 +32,7 @@ These apply across all data sources:
 
 - Start with standard RxNorm, but do not stop there if a clinically relevant element needed for `EXACT` is missing.
 - If standard RxNorm lacks a clinically relevant part of the presentation such as dose form, release type, route-specific presentation, or clinically relevant single-use volume, search RxNorm Extension.
+- Do **not** switch from standard RxNorm to RxNorm Extension when the only added detail is brand name. If standard RxNorm already captures the clinically relevant ingredient, strength, volume, and dose form, keep the standard RxNorm concept and do not upgrade solely to gain a branded Extension concept.
 - Prefer a clean Extension concept over a weaker standard `BROAD` concept when the Extension concept adds the missing clinically relevant detail without introducing supplier names, box counts, or other non-clinical packaging noise.
 - Do not reject an Extension concept merely because it includes clinically relevant presentation detail. For example, `Injectable Solution`, `Prefilled Syringe`, and single-use volume can be necessary parts of an `EXACT` clinical drug concept.
 
@@ -98,6 +99,7 @@ The clinical role of the leading volume in an RxNorm concept name depends on con
 - **Metered vs actuated dose**: Verify via SmPC/FDA labelling, add `sources.md` if needed
 - **Pack sizes**: Different pack sizes of the same drug map to the same RxNorm concept
 - **Unit conversion**: IU = UNT, RxNorm uses MG not µg or MCG
+- **Brand-only Extension upgrade**: If the only difference between a standard RxNorm candidate and an RxNorm Extension candidate is the presence of a matching brand name, prefer the standard RxNorm concept.
 
 ## Output Format
 

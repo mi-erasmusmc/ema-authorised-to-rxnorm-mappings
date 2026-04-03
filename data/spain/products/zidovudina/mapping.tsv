@@ -4,7 +4,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 603093	70768	35861991	zidovudine 300 MG Oral Capsule	OMOP5018617	EXACT			2026-03-30
 611442	62758	35861991	zidovudine 300 MG Oral Capsule	OMOP5018617	EXACT			2026-03-30
 648709	60925	19006864	zidovudine 250 MG Oral Capsule	105331	EXACT			2026-03-12
-659704	69184	1718461	zidovudine 10 MG/ML Injection	1857605	EXACT			2026-03-12
+659704	69184	1718459	zidovudine Injection	1857601	BROAD	200mg/100mL = 2 MG/ML; no RxNorm concept for this pre-diluted concentration; previous mapping to 10 MG/ML was incorrect	100 ML zidovudine 2 MG/ML Injection	2026-04-03
 661818	70223	1710616	zidovudine 100 MG Oral Capsule	198352	EXACT			2026-03-12
 661819	70223	1710616	zidovudine 100 MG Oral Capsule	198352	EXACT			2026-03-12
 661822	70222	19006864	zidovudine 250 MG Oral Capsule	105331	EXACT			2026-03-12
