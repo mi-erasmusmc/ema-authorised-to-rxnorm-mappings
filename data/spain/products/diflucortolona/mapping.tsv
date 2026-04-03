@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-743757	54811	35201160	fluocinolone acetonide 0.001 MG/MG Topical Ointment	2098191	BROAD	RxNorm does not expose diflucortolone ointment; mapped conservatively by topical corticosteroid ointment family.	diflucortolone 1 MG/G Topical Ointment	2026-03-13
-743765	54811	35201160	fluocinolone acetonide 0.001 MG/MG Topical Ointment	2098191	BROAD	RxNorm does not expose diflucortolone ointment; mapped conservatively by topical corticosteroid ointment family.	diflucortolone 1 MG/G Topical Ointment	2026-03-13
-743815	54812	40019108	betamethasone Topical Cream	377613	BROAD	RxNorm does not expose diflucortolone cream; mapped conservatively by topical corticosteroid cream family.	diflucortolone 1 MG/G Topical Cream	2026-03-13
-743823	54812	40019108	betamethasone Topical Cream	377613	BROAD	RxNorm does not expose diflucortolone cream; mapped conservatively by topical corticosteroid cream family.	diflucortolone 1 MG/G Topical Cream	2026-03-13
-743831	54810	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	BROAD	RxNorm does not expose diflucortolone cutaneous solution.	diflucortolone 1 MG/G Cutaneous Solution	2026-03-13
-743872	54810	40243866	fluocinolone acetonide 0.1 MG/ML Topical Cream	1191302	BROAD	RxNorm does not expose diflucortolone cutaneous solution.	diflucortolone 1 MG/G Cutaneous Solution	2026-03-13
+743757	54811	19012310	diflucortolone 0.001 MG/MG Topical Ointment	150697	EXACT			2026-04-02
+743765	54811	19012310	diflucortolone 0.001 MG/MG Topical Ointment	150697	EXACT			2026-04-02
+743815	54812	19012309	diflucortolone 1 MG/ML Topical Cream	150696	EXACT			2026-04-02
+743823	54812	19012309	diflucortolone 1 MG/ML Topical Cream	150696	EXACT			2026-04-02
+743831	54810	19012310	diflucortolone 0.001 MG/MG Topical Ointment	150697	EXACT	Source forma_farmaceutica says SOLUCION CUTANEA, but des_nomco and des_dcp both label this presentation as ointment.		2026-04-02
+743872	54810	19012310	diflucortolone 0.001 MG/MG Topical Ointment	150697	EXACT	Source forma_farmaceutica says SOLUCION CUTANEA, but des_nomco and des_dcp both label this presentation as ointment.		2026-04-02

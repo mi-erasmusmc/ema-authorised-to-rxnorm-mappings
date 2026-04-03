@@ -91,6 +91,9 @@ find_concepts:
 resolve_rxcui_name:
 	$(PYTHON) .claude/skills/find-concepts/scripts/resolve_rxcui_name.py $(ARGS)
 
+search_dose_forms:
+	$(PYTHON) .claude/skills/map-drugs/scripts/search_dose_forms.py $(ARGS)
+
 validate_mapping:
 	$(PYTHON) .claude/skills/map-drugs/validate_mapping.py $(ARGS)
 
@@ -126,6 +129,6 @@ load_spain:
         validate_ema find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
         prepare_parse_batch fetch_ema_updates download_ema_presentation_files \
         validate_latvia organize_products fill_missing_latvian_mappings find_concepts \
-        resolve_rxcui_name validate_mapping find_conflicts apply_mapping \
+        resolve_rxcui_name search_dose_forms validate_mapping find_conflicts apply_mapping \
         show_unmapped sync_mappings generate_mapping_overviews \
         load_ema load_latvia load_spain

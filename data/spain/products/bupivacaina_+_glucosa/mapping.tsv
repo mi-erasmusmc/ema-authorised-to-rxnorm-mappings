@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603456	62163	35603838	bupivacaine hydrochloride 5 MG/ML Injection	1724882	BROAD		4 ML bupivacaine hydrochloride 5 MG/ML Injection (hyperbaric in glucose)	2026-03-13
-630103	65076	35603838	bupivacaine hydrochloride 5 MG/ML Injection	1724882	BROAD		4 ML bupivacaine hydrochloride 5 MG/ML Injection (hyperbaric in glucose)	2026-03-13
-649624	61555	35603838	bupivacaine hydrochloride 5 MG/ML Injection	1724882	BROAD		2 ML bupivacaine hydrochloride 5 MG/ML Injection (hyperbaric in glucose)	2026-03-13
-729499	62163	35603838	bupivacaine hydrochloride 5 MG/ML Injection	1724882	BROAD		4 ML bupivacaine hydrochloride 5 MG/ML Injection (hyperbaric in glucose)	2026-03-13
+603456	62163	35603838	bupivacaine hydrochloride 5 MG/ML Injection	1724882	BROAD	Hyperbaric intrathecal presentation in glucose; RxNorm does not expose a glucose-specific hyperbaric injection concept.	4 ML bupivacaine hydrochloride 5 MG/ML Injection	2026-04-02
+630103	65076	35603838	bupivacaine hydrochloride 5 MG/ML Injection	1724882	BROAD	Hyperbaric intrathecal presentation in glucose; RxNorm does not expose a glucose-specific hyperbaric injection concept.	4 ML bupivacaine hydrochloride 5 MG/ML Injection	2026-04-02
+649624	61555	35603838	bupivacaine hydrochloride 5 MG/ML Injection	1724882	BROAD	Hyperbaric intrathecal presentation in glucose; RxNorm does not expose a glucose-specific hyperbaric injection concept.	2 ML bupivacaine hydrochloride 5 MG/ML Injection	2026-04-02
+729499	62163	35603838	bupivacaine hydrochloride 5 MG/ML Injection	1724882	BROAD	Hyperbaric intrathecal presentation in glucose; RxNorm does not expose a glucose-specific hyperbaric injection concept.	4 ML bupivacaine hydrochloride 5 MG/ML Injection	2026-04-02

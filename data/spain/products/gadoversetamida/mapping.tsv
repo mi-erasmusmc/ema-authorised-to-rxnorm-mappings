@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602703	07398002	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	RxNorm does not expose the exact 0.5 mmol/mL vial presentation with this specific volume.	gadoversetamide 0.5 mmol/mL Injection 10 mL vial	2026-03-13
-602704	07398004	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	RxNorm does not expose the exact 0.5 mmol/mL vial presentation with this specific volume.	gadoversetamide 0.5 mmol/mL Injection 15 mL vial	2026-03-13
-602705	07398006	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	RxNorm does not expose the exact 0.5 mmol/mL vial presentation with this specific volume.	gadoversetamide 0.5 mmol/mL Injection 20 mL vial	2026-03-13
-659833	07398009	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	Prefilled syringe and exact volume are not exposed in RxNorm.	gadoversetamide 0.5 mmol/mL Injection 10 mL prefilled syringe	2026-03-13
-659834	07398007	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	Prefilled syringe and exact volume are not exposed in RxNorm.	gadoversetamide 0.5 mmol/mL Injection 15 mL prefilled syringe	2026-03-13
-659835	07398011	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	Prefilled syringe and exact volume are not exposed in RxNorm.	gadoversetamide 0.5 mmol/mL Injection 20 mL prefilled syringe	2026-03-13
-659836	07398013	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	Prefilled syringe and exact volume are not exposed in RxNorm.	gadoversetamide 0.5 mmol/mL Injection 30 mL prefilled syringe	2026-03-13
+602703	07398002	589120	gadoversetamide 332 MG/ML Injectable Solution	OMOP3135477	EXACT			2026-04-02
+602704	07398004	589120	gadoversetamide 332 MG/ML Injectable Solution	OMOP3135477	EXACT			2026-04-02
+602705	07398006	589120	gadoversetamide 332 MG/ML Injectable Solution	OMOP3135477	EXACT			2026-04-02
+659833	07398009	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	prefilled syringe; no volume-specific concept in RxNorm	10 ML gadoversetamide 332 MG/ML Prefilled Syringe	2026-04-02
+659834	07398007	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	prefilled syringe; no volume-specific concept in RxNorm	15 ML gadoversetamide 332 MG/ML Prefilled Syringe	2026-04-02
+659835	07398011	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	prefilled syringe; no volume-specific concept in RxNorm	20 ML gadoversetamide 332 MG/ML Prefilled Syringe	2026-04-02
+659836	07398013	588420	gadoversetamide 332 MG/ML Injection	794575	BROAD	prefilled syringe; no volume-specific concept in RxNorm	30 ML gadoversetamide 332 MG/ML Prefilled Syringe	2026-04-02

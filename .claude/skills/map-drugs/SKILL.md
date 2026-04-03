@@ -1,22 +1,20 @@
 ---
 name: map-drugs
-description: General principles for mapping pharmaceutical products to RxNorm standard concepts. Covers mapping types (EXACT/BROAD/NO_MAPPING), terminology adaptation, unit conversions, and common pitfalls.
+description: General principles for mapping pharmaceutical products to RxNorm concepts. Covers mapping types (EXACT/BROAD/NO_MAPPING), terminology adaptation, unit conversions, and common pitfalls.
 user-invocable: false
 ---
 
 # Map Drugs to RxNorm
 
-General principles for mapping pharmaceutical products to RxNorm standard concepts.
+General principles for mapping pharmaceutical products to RxNorm concepts.
 
 ## When to Use
 
 When asked to map a product to RxNorm, create or review a `mapping.tsv`, or find RxNorm concepts for a drug.
 
-## Related Skills
+## Required Skills
 
 - **`find-concepts`** - Search for RxNorm concepts using the semantic search API
-- **`map-ema-drugs`** - Map EMA centrally authorised products to RxNorm
-- **`map-latvia-drugs`** - Map Latvian national products to RxNorm
 
 ## General Mapping Principles
 
@@ -24,11 +22,11 @@ These apply across all data sources:
 
 ### Mapping Types
 
-- **EXACT**: Matches active ingredient, strength, and dose form. **Do NOT use US-only brand names** - RxNorm contains US brands which may differ from EU names. Use unbranded concepts unless the brand is the same in both EU and US (e.g., Twinrix, Lantus). Minor label variations do not constitute a brand difference — if the base brand name matches, the branded RxNorm concept is appropriate. This includes suffixes like "Velotab", "DIF", "Ellipta", "Control", "Maintena", qualifiers like "Adult"/"Paediatric", and other sub-brand or formulation descriptors added to the same base brand.
-- **Generic products must use non-branded concepts**: If a product is a generic (i.e. not the originator brand), always map to the unbranded clinical drug concept even when a branded concept with matching strength and form exists. Example: a generic metformin 850 MG tablet → `metformin hydrochloride 850 MG Oral Tablet`, not `metformin hydrochloride 850 MG Oral Tablet [Glucophage]`. Only the originator brand product itself should map to the branded concept.
+- **EXACT**: Contains all clinically relevant information, matches active ingredient, strength, and dose form.
 - **BROAD**: Less specific match. Use when only a concept without specific strength/volume is available, or for vaccines/biologicals with less granular RxNorm coverage. When choosing between multiple BROAD candidates, pick the one that preserves the most clinically relevant information — dose (strength + volume) matters more than device/form differences. For example, `0.5 ML etanercept 50 MG/ML Prefilled Syringe` is preferred over `etanercept 50 MG/ML Auto-Injector` for a 25 mg pen injector, because the volume distinguishes the 25 mg dose from the 50 mg dose.
 - **NO_MAPPING**: No suitable RxNorm concept exists (e.g., EU-only strength or product with no FDA equivalent). Leave concept fields empty, populate `suggestion` with the ideal concept name, and do NOT set `mapping_type` to EXACT or BROAD. A `suggestion` is required.
-- **`suggestion` formatting must follow RxNorm style**: Construct `suggestion` values using the naming patterns visible in `find-concepts` results. For clinical drug suggestions, the order is `<volume when applicable> <ingredient> <strength> <dose form> [<Brand>]`, where ingredient, strength, and dose form are required, volume is included when clinically applicable, and brand is optional. Pack concepts follow a more elaborate RxNorm pack structure; do not improvise pack names from freeform source phrasing.
+- **`suggestion` formatting must follow RxNorm style**: `{volume} {ingredient} {strength}/{ML or MG} {dose form} [{Brand}]`. Strength is always per-unit concentration (e.g. `10 MG/ML`), never total dose (e.g. `250 MG/25 ML`). Volume is the leading container size when clinically relevant. Pack concepts follow RxNorm pack structure; do not improvise.
+- **Brand** Use unbranded concepts unless the brand is the same in both EU and US (e.g., Twinrix, Lantus), RxNorm contains US brands which may differ from EU names do not use these. Minor label variations do not constitute a brand difference — if the base brand name matches, the branded RxNorm concept is appropriate. This includes suffixes like "Velotab", "DIF", "Ellipta", "Control", "Maintena", qualifiers like "Adult"/"Paediatric", and other sub-brand or formulation descriptors added to the same base brand.
 
 ### Standard vs Extension Priority
 
@@ -39,7 +37,7 @@ These apply across all data sources:
 
 ### Partial-ingredient Combination Products
 
-When RxNorm does not contain the full ingredient combination, map to the closest clinically representative subset rather than forcing an incorrect `EXACT` match.
+When the full ingredient combination is not available, map to the closest clinically representative subset rather than forcing an incorrect `EXACT` match.
 
 - Use `BROAD` when one or more active ingredients, extract components, or formulation-defining parts of the combination are missing from RxNorm.
 - Prefer the candidate that preserves the most clinically meaningful part of the presentation: usually the core active ingredients, then strength, then dose form.
@@ -60,14 +58,22 @@ Multi-extract herbal products often have incomplete or inconsistent representati
 
 ### Terminology Adaptation
 
-EMA/EU terminology must be adapted to RxNorm conventions:
+Terminology must be adapted to RxNorm conventions:
 - "film-coated tablet" / "tablet" -> "oral tablet"
 - "solution for injection" -> "injectable solution" or "injection"
 - "capsule, hard" -> "oral capsule"
 
 ### Dose Form Selection
 
-The `find-concepts` script returns dose form definitions alongside search results — use these to select the correct form. Key distinction for injectables include:
+`dose_form_lookup.json` in this skill directory contains all valid RxNorm dose forms with descriptions. Search it by keyword:
+```bash
+make search_dose_forms ARGS="topical cream"
+make search_dose_forms ARGS="injection"
+make search_dose_forms ARGS="oral tablet"
+```
+Keywords are matched against name + description. Use this to verify a dose form exists before writing a suggestion — the validator rejects suggestions that don't end with a valid dose form.
+
+The `find-concepts` script also returns dose form definitions alongside search results — use these to select the correct form. Key distinction for injectables include:
 - **Injectable Solution**: multi-use product (e.g., vials intended for multiple withdrawals)
 - **Injectable Suspension**: multi-use product (e.g., vials intended for multiple withdrawals)
 - **Injection**: single-use product
@@ -116,10 +122,6 @@ All data sources follow the same general workflow. Source-specific skills docume
 
 1. **Validate the folder** to understand existing issues:
    ```bash
-   make validate_mapping ARGS="<path_to_mapping.tsv>"
-   ```
-   Source-specific validators provide richer checks:
-   ```bash
    make validate_spain ARGS="<folder>/"      # Spain
    make validate_latvia ARGS="<folder>/"     # Latvia
    make validate_ema ARGS="<folder>/"        # EMA
@@ -132,7 +134,7 @@ All data sources follow the same general workflow. Source-specific skills docume
    make list_folder_patterns ARGS="<folder>/ --missing-only"  # unmapped rows only
    ```
 
-3. **Search RxNorm concepts** via the `find-concepts` skill. Bundle 3-5 queries per call. Translate non-English ingredient names to English before searching. Always retry with `--extension` before concluding no concept exists.
+3. **Search RxNorm concepts** via the `find-concepts` skill. Bundle 4-6 queries per call. Translate non-English ingredient names to English before searching. Always retry with `--extension` before concluding no concept exists.
 
 4. **Apply mapping decisions.** Source-specific apply tools set `last_updated_date` automatically.
    - Use `comment` only for mapping rationale another reviewer would need (salt conversions, metered-vs-delivered dose, biosimilar handling, manual corrections from bad source data). Do not use it for edit history.
@@ -141,14 +143,12 @@ All data sources follow the same general workflow. Source-specific skills docume
 5. **Validate and regenerate**:
    ```bash
    make validate_mapping ARGS="<path_to_mapping.tsv>"
-   make generate_mapping_overviews
    ```
 
 ### Working with Mixed-pattern Folders
 
 When a folder contains multiple presentation families (oral + injectable, powder + solution, branded + generic, different release/device variants):
 
-- **Default to missing rows only.** Do not do full-folder rewrites.
 - **Treat existing high-quality EXACT rows as anchors.** Only overwrite when you have a specific, verified reason:
   - The current concept has the wrong route, dose form, strength, volume, or brand
   - The row is flagged by validate as incomplete or inconsistent and you confirmed the correction

@@ -3,7 +3,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 603244	62974	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
 603626	72838	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
 605721	70039	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
-606813	80720	995369	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4821876	EXACT			2026-04-01
+606813	80720	995369	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4821876	BROAD	Ready-to-use 100 mL perfusion; RxNorm exposes the matching volume and concentration as Injectable Solution, a multi-use container form, so this is mapped conservatively.	100 ML ibuprofen 6 MG/ML Injection	2026-04-02
 619429	54985	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 625681	65250	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 631051	65251	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
@@ -125,13 +125,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 709969	70147	1177512	ibuprofen 0.05 MG/MG Topical Gel	141997	EXACT			2026-03-12
 710022	79722	1177512	ibuprofen 0.05 MG/MG Topical Gel	141997	EXACT			2026-03-12
 710175	68004	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
-710258	80711	43685736	100 ML Ibuprofen 4 MG/ML Injectable Solution	OMOP835266	EXACT			2026-03-12
+710258	80711	43685736	100 ML Ibuprofen 4 MG/ML Injectable Solution	OMOP835266	BROAD	Ready-to-use 100 mL perfusion; RxNorm exposes the matching volume and concentration as Injectable Solution, a multi-use container form, so this is mapped conservatively.	100 ML ibuprofen 4 MG/ML Injection	2026-04-02
 712713	81254	19078461	ibuprofen 200 MG Oral Tablet	310965	EXACT			2026-03-12
 713438	65147	19019050	ibuprofen 20 MG/ML Oral Suspension	197803	EXACT			2026-03-12
 715791	81973	19019050	ibuprofen 20 MG/ML Oral Suspension	197803	EXACT			2026-03-12
 715792	81974	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
-716602	82170	43685736	100 ML Ibuprofen 4 MG/ML Injectable Solution	OMOP835266	EXACT			2026-03-12
-716603	82171	995369	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4821876	EXACT			2026-04-01
+716602	82170	43685736	100 ML Ibuprofen 4 MG/ML Injectable Solution	OMOP835266	BROAD	Ready-to-use 100 mL perfusion; RxNorm exposes the matching volume and concentration as Injectable Solution, a multi-use container form, so this is mapped conservatively.	100 ML ibuprofen 4 MG/ML Injection	2026-04-02
+716603	82171	995369	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4821876	BROAD	Ready-to-use 100 mL perfusion; RxNorm exposes the matching volume and concentration as Injectable Solution, a multi-use container form, so this is mapped conservatively.	100 ML ibuprofen 6 MG/ML Injection	2026-04-02
 718843	82403	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
 718845	82404	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	oral sobre		2026-03-12
 718848	82405	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
@@ -140,7 +140,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 719461	82519	19078439	ibuprofen 100 MG Chewable Tablet	310963	EXACT			2026-03-12
 719462	82519	19078439	ibuprofen 100 MG Chewable Tablet	310963	EXACT			2026-03-12
 720467	82804	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
-720475	82808	1361178	ibuprofen 4 MG/ML Injection	2178276	EXACT			2026-03-12
+720475	82808	43685736	100 ML Ibuprofen 4 MG/ML Injectable Solution	OMOP835266	BROAD	Ready-to-use 100 mL perfusion; RxNorm exposes the matching volume and concentration as Injectable Solution, a multi-use container form, so this is mapped conservatively.	100 ML ibuprofen 4 MG/ML Injection	2026-04-02
 720517	82814	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
 720843	82897	19078461	ibuprofen 200 MG Oral Tablet	310965	EXACT			2026-03-12
 721209	82998	19019050	ibuprofen 20 MG/ML Oral Suspension	197803	EXACT			2026-03-12
@@ -152,8 +152,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 727423	82805	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 727827	84818	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 728476	80975	1177662	ibuprofen 400 MG Oral Capsule	245417	EXACT			2026-03-12
-728767	85161	1361178	ibuprofen 4 MG/ML Injection	2178276	EXACT			2026-03-12
-729796	85580	1361178	ibuprofen 4 MG/ML Injection	2178276	EXACT			2026-03-12
+728767	85161	1361178	ibuprofen 4 MG/ML Injection	2178276	BROAD	Ready-to-use 50 mL perfusion; RxNorm does not expose the matching 50 mL presentation.	50 ML ibuprofen 4 MG/ML Injection	2026-04-02
+729796	85580	43685736	100 ML Ibuprofen 4 MG/ML Injectable Solution	OMOP835266	BROAD	Ready-to-use 100 mL perfusion; RxNorm exposes the matching volume and concentration as Injectable Solution, a multi-use container form, so this is mapped conservatively.	100 ML ibuprofen 4 MG/ML Injection	2026-04-02
 729876	82815	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 730863	85936	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 731146	86016	19019050	ibuprofen 20 MG/ML Oral Suspension	197803	EXACT			2026-03-12
@@ -296,5 +296,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 650320	04284001	21117026	2 ML Ibuprofen 5 MG/ML Injection	OMOP303688	EXACT	5 mg/ml inyectable 2 ml		2026-03-12
 606724	79593	42628868	ibuprofen 100 MG/ML Injection	1791364	BROAD	600 mg in 6 ml = 100 MG/ML; no 6 ML volume-specific concept	6 ML ibuprofen 100 MG/ML Injection	2026-03-12
 705622	79593	42628868	ibuprofen 100 MG/ML Injection	1791364	BROAD	600 mg in 6 ml = 100 MG/ML; no 6 ML volume-specific concept	6 ML ibuprofen 100 MG/ML Injection	2026-03-12
-723966	83570	43685736	100 ML Ibuprofen 4 MG/ML Injectable Solution	OMOP835266	EXACT	400 mg in 100 ml perfusion		2026-03-12
+723966	83570	42628868	ibuprofen 100 MG/ML Injection	1791364	BROAD	400 mg in 4 mL concentrate for solution for perfusion; RxNorm does not expose the matching concentrate presentation.	4 ML ibuprofen 100 MG/ML Injection	2026-04-02
 724323	83680	1361178	ibuprofen 4 MG/ML Injection	2178276	BROAD	600 mg in 150 ml = 4 MG/ML; no 150 ML volume-specific concept	150 ML ibuprofen 4 MG/ML Injection	2026-03-12

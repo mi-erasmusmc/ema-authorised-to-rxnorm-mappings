@@ -72,7 +72,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 607060	83328	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	BROAD	50mg/100ml infusion (0.5mg/ml); no dexketoprofen 0.5MG/ML concept exists	dexketoprofen 0.5 MG/ML Injectable Solution	2026-03-12
 647867	60927	40961433	Dexketoprofen 12.5 MG Oral Tablet	OMOP2159395	EXACT			2026-03-12
 651375	66823	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
-651376	66824	41086417	Dexketoprofen 12.5 MG Oral Solution	OMOP2284379	BROAD	no dexketoprofen 12.5mg granules/oral solution concept; mapped to 12.5mg oral solution	If a dexketoprofen 12.5 MG granules for oral solution concept is created, upgrade to EXACT	2026-03-12
+651376	66824	41086417	Dexketoprofen 12.5 MG Oral Solution	OMOP2284379	BROAD	no dexketoprofen 12.5mg granules/oral solution concept; mapped to 12.5mg oral solution	dexketoprofen 12.5 MG Granules for Oral Solution	2026-04-02
 662876	70885	43030773	Dexketoprofen 25 MG Granules for Oral Solution	OMOP4845842	EXACT			2026-03-12
 673814	61404	19056874	dexketoprofen	237162	BROAD	no dexketoprofen topical gel concept in RxNorm	dexketoprofen Topical Gel	2026-03-12
 673822	61403	19056874	dexketoprofen	237162	BROAD	no dexketoprofen topical gel concept in RxNorm	dexketoprofen Topical Gel	2026-03-12
