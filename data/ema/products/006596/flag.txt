@@ -1,0 +1,1 @@
+NO_MAPPING: lutetium (177Lu) chloride is a radiopharmaceutical precursor with no RxNorm concept. RxNorm only covers completed lutetium-177 radiopharmaceuticals (dotatate, vipivotide tetraxetan), not the raw chloride salt used as a labelling precursor. Ilumira has no FDA-approved equivalent.

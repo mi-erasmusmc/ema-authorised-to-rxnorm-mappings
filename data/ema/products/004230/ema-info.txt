@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/004230
 Name of medicine: Mavenclad
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: cladribine
-Active substance: Cladribine
+Active substance: cladribine
 Therapeutic area (MeSH): Multiple Sclerosis
 ATC code (human): L04AA40
 Pharmacotherapeutic group (human): Immunosuppressants

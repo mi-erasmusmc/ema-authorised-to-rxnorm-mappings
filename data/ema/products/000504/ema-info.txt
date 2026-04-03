@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/000504
 Name of medicine: Litak
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: cladribine
-Active substance: Cladribine
+Active substance: cladribine
 Therapeutic area (MeSH): Leukemia, Hairy Cell
 ATC code (human): L01BB04
 Pharmacotherapeutic group (human): Antineoplastic agents
