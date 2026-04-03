@@ -1,15 +1,15 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602684	69299	987250	lactulose 667 MG/ML Oral Solution	391937	BROAD	Spain source is a unit-dose oral solution sachet; RxNorm does not expose the sachet presentation, so use the concentration-based oral solution as the closest standard concept.	lactulose 667 MG/ML Oral Solution Pack	2026-04-01
+602684	69299	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-04-03
 602685	69300	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
-650316	60189	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	BROAD	Spain source is a unit-dose oral solution sachet; RxNorm does not expose the sachet presentation, so use the branded concentration-based oral solution as the closest standard concept.	lactulose 667 MG/ML Oral Solution [Duphalac] Pack	2026-04-01
+650316	60189	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	EXACT			2026-04-03
 653453	59469	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
-659919	69299	987250	lactulose 667 MG/ML Oral Solution	391937	BROAD	Spain source is a unit-dose oral solution sachet; RxNorm does not expose the sachet presentation, so use the concentration-based oral solution as the closest standard concept.	lactulose 667 MG/ML Oral Solution Pack	2026-04-01
-659921	69299	987250	lactulose 667 MG/ML Oral Solution	391937	BROAD	Spain source is a unit-dose oral solution sachet; RxNorm does not expose the sachet presentation, so use the concentration-based oral solution as the closest standard concept.	lactulose 667 MG/ML Oral Solution Pack	2026-04-01
+659919	69299	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-04-03
+659921	69299	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-04-03
 659922	69300	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
 659923	69300	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
-694760	60189	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	BROAD	Spain source is a unit-dose oral solution sachet; RxNorm does not expose the sachet presentation, so use the branded concentration-based oral solution as the closest standard concept.	lactulose 667 MG/ML Oral Solution [Duphalac] Pack	2026-04-01
-698109	60189	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	BROAD	Spain source is a unit-dose oral solution sachet; RxNorm does not expose the sachet presentation, so use the branded concentration-based oral solution as the closest standard concept.	lactulose 667 MG/ML Oral Solution [Duphalac] Pack	2026-04-01
-698110	60189	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	BROAD	Spain source is a unit-dose oral solution sachet; RxNorm does not expose the sachet presentation, so use the branded concentration-based oral solution as the closest standard concept.	lactulose 667 MG/ML Oral Solution [Duphalac] Pack	2026-04-01
+694760	60189	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	EXACT			2026-04-03
+698109	60189	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	EXACT			2026-04-03
+698110	60189	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	EXACT			2026-04-03
 664991	71695	987250	lactulose 667 MG/ML Oral Solution	391937	EXACT			2026-03-13
 677342	73281	19003454	lactulose 670 MG/ML Oral Solution	104148	EXACT			2026-03-13
 748582	46197	987304	lactulose 667 MG/ML Oral Solution [Duphalac]	755469	EXACT			2026-03-13

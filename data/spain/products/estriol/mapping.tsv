@@ -4,5 +4,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 684560	72726	43145116	Estriol 0.00005 MG/MG Vaginal Gel	OMOP441609	EXACT			2026-03-12
 762456	72726	43145116	Estriol 0.00005 MG/MG Vaginal Gel	OMOP441609	EXACT			2026-03-12
 762457	72726	43145116	Estriol 0.00005 MG/MG Vaginal Gel	OMOP441609	EXACT			2026-03-12
-661340	57467	782678	Estriol 0.5 MG Vaginal Suppository	OMOP4830509	EXACT			2026-03-12
-719524	82222	36060121	estriol 0.03 MG Vaginal Suppository	OMOP4985914	EXACT			2026-03-12
+661340	57467	782678	Estriol 0.5 MG Vaginal Suppository	OMOP4830509	BROAD	Spain source is an ovule; RxNorm exposes the closest strength-matched vaginal suppository concept.	estriol 0.5 MG Vaginal Insert	2026-04-03
+719524	82222	36060121	estriol 0.03 MG Vaginal Suppository	OMOP4985914	BROAD	Spain source is an ovule; RxNorm exposes the closest strength-matched vaginal suppository concept.	estriol 0.03 MG Vaginal Insert	2026-04-03

@@ -1,9 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 682500	60889	19020429	hydrocortisone 5 MG/ML Topical Cream	198707	EXACT			2026-03-12
 682518	60888	40157437	hydrocortisone Topical Foam	832710	BROAD		hydrocortisone acetate 5 MG/G Topical Foam	2026-03-31
-718835	82398	40729792	Hydrocortisone 3.2 MG/ML Ophthalmic Solution	OMOP4727907				2026-03-12
-718836	82398	40729792	Hydrocortisone 3.2 MG/ML Ophthalmic Solution	OMOP4727907				2026-03-12
-770073	25699	975169	hydrocortisone 20 MG Oral Tablet	197783				2026-03-12
+718835	82398	40729794	Hydrocortisone 3.2 MG/ML Ophthalmic Solution [Softacort]	OMOP4727905	BROAD	Spain labels 3.35 MG/ML unit-dose eye drops; RxNorm Extension exposes the matching Softacort ophthalmic solution only at 3.2 MG/ML.	hydrocortisone 3.35 MG/ML Ophthalmic Solution [Softacort]	2026-04-03
+718836	82398	40729794	Hydrocortisone 3.2 MG/ML Ophthalmic Solution [Softacort]	OMOP4727905	BROAD	Spain labels 3.35 MG/ML unit-dose eye drops; RxNorm Extension exposes the matching Softacort ophthalmic solution only at 3.2 MG/ML.	hydrocortisone 3.35 MG/ML Ophthalmic Solution [Softacort]	2026-04-03
+770073	25699	975169	hydrocortisone 20 MG Oral Tablet	197783	EXACT			2026-04-03
 607609	88465	975505	hydrocortisone 100 MG Injection	238755	EXACT			2026-03-12
 606541	28824	975505	hydrocortisone 100 MG Injection	238755	EXACT	Same nro_definitivo as the 100 mg Actocortina row; source strength appears to be sodium phosphate labeling rather than a distinct hydrocortisone presentation		2026-03-12
 606558	52105	35604738	hydrocortisone 500 MG Injection	1738594	EXACT	Same nro_definitivo as the 500 mg Actocortina row; source 373 mg appears to be sodium phosphate labeling rather than a distinct hydrocortisone presentation		2026-03-12
