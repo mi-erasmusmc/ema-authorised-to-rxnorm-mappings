@@ -1,15 +1,15 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-99-0563-01	942382	torsemide 10 MG Oral Tablet	198369				
-99-0563-02	942382	torsemide 10 MG Oral Tablet	198369				
-99-0563-03	942382	torsemide 10 MG Oral Tablet	198369				
-99-0563-04	942382	torsemide 10 MG Oral Tablet	198369				
-99-0566-01	942430	torsemide 200 MG Oral Tablet	427474				
-99-0566-02	942430	torsemide 200 MG Oral Tablet	427474				
-99-0566-04	942430	torsemide 200 MG Oral Tablet	427474				
-99-0566-05	942430	torsemide 200 MG Oral Tablet	427474				
-99-0564-01							
-99-0564-02							
-I000621-01							
-I000675-01							
-I001382-01							
-I001534-01							
+99-0563-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+99-0563-02	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+99-0563-03	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+99-0563-04	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+99-0564-01	942422	torsemide 5 MG/ML Injectable Solution	251746	BROAD	Ampoule presentation is single-use; RxNorm lacks a matching 4 ML torsemide 5 MG/ML Injection concept.	4 ML torsemide 5 MG/ML Injection	2026-04-03
+99-0564-02	942422	torsemide 5 MG/ML Injectable Solution	251746	BROAD	Ampoule presentation is single-use; RxNorm lacks a matching 4 ML torsemide 5 MG/ML Injection concept.	4 ML torsemide 5 MG/ML Injection	2026-04-03
+99-0566-01	942430	torsemide 200 MG Oral Tablet	427474	EXACT			2026-04-03
+99-0566-02	942430	torsemide 200 MG Oral Tablet	427474	EXACT			2026-04-03
+99-0566-04	942430	torsemide 200 MG Oral Tablet	427474	EXACT			2026-04-03
+99-0566-05	942430	torsemide 200 MG Oral Tablet	427474	EXACT			2026-04-03
+I000621-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+I000675-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+I001382-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+I001534-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03

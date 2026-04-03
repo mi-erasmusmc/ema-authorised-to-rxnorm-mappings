@@ -1,57 +1,113 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-22-0114-01	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-02	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-03	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-04	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-05	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-06	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-07	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-08	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-09	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-10	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-11	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-12	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-13	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0114-14	1545997	atorvastatin 10 MG Oral Tablet	617312				
-22-0115-01	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-02	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-03	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-04	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-05	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-06	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-07	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-08	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-09	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-10	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-11	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-12	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-13	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0115-14	19123592	atorvastatin 20 MG Oral Tablet	617310				
-22-0116-01	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-02	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-03	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-04	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-05	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-06	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-07	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-08	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-09	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-10	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-11	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-12	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-13	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0116-14	1545996	atorvastatin 40 MG Oral Tablet	617311				
-22-0117-01	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-02	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-03	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-04	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-05	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-06	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-07	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-08	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-09	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-10	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-11	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-12	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-13	1545959	atorvastatin 80 MG Oral Tablet	259255				
-22-0117-14	1545959	atorvastatin 80 MG Oral Tablet	259255				
+22-0114-01	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-02	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-03	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-04	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-05	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-06	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-07	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-08	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-09	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-10	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-11	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-12	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-13	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-14	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-15	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-16	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-17	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-18	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-19	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-20	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-21	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-22	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-23	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-24	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-25	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-26	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-27	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0114-28	1545997	atorvastatin 10 MG Oral Tablet	617312	EXACT			2026-04-03
+22-0115-01	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-02	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-03	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-04	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-05	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-06	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-07	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-08	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-09	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-10	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-11	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-12	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-13	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-14	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-15	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-16	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-17	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-18	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-19	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-20	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-21	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-22	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-23	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-24	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-25	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-26	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-27	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0115-28	19123592	atorvastatin 20 MG Oral Tablet	617310	EXACT			2026-04-03
+22-0116-01	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-02	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-03	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-04	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-05	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-06	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-07	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-08	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-09	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-10	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-11	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-12	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-13	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-14	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-15	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-16	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-17	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-18	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-19	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-20	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-21	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-22	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-23	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-24	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-25	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-26	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-27	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0116-28	1545996	atorvastatin 40 MG Oral Tablet	617311	EXACT			2026-04-03
+22-0117-01	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-02	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-03	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-04	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-05	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-06	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-07	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-08	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-09	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-10	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-11	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-12	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-13	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-14	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-15	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-16	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-17	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-18	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-19	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-20	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-21	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-22	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-23	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-24	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-25	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-26	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-27	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03
+22-0117-28	1545959	atorvastatin 80 MG Oral Tablet	259255	EXACT			2026-04-03

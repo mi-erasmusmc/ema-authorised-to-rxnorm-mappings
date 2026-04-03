@@ -7,6 +7,7 @@ CSV I/O, string cleaning, and error handling.
 """
 
 import csv
+import re
 import sys
 from pathlib import Path
 
@@ -61,3 +62,15 @@ def find_duplicates(rows, key):
 def pattern_key(row, fields):
     """Build a hashable tuple from the given fields of a row."""
     return tuple(clean(row.get(field, "")) for field in fields)
+
+
+def normalize_latvia_package(value):
+    """
+    Normalize Latvia package_en text for pattern grouping.
+
+    The source often encodes pack count in package_en (for example ", N1", ", N4"),
+    which is not part of the device/container distinction we care about during
+    pattern-based mapping.
+    """
+    cleaned = clean(value)
+    return re.sub(r",\s*N\d+\s*$", "", cleaned)

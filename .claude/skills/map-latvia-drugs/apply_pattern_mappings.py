@@ -15,6 +15,7 @@ Usage:
 Flags:
     --only-missing    Only fill rows with no concept_id and no mapping_type
     --backfill-dates  Fill today's date on existing rows with empty last_updated_date
+    --package-aware   Include package_en in the pattern key for mixed-device Latvia folders
 """
 
 import csv
@@ -24,7 +25,7 @@ from io import StringIO
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "map-drugs"))
-from helpers import clean, fail, find_dated_file, load_tsv, pattern_key, write_tsv  # noqa: E402
+from helpers import clean, fail, find_dated_file, load_tsv, normalize_latvia_package, pattern_key, write_tsv  # noqa: E402
 
 PATTERN_COLUMNS = [
     "original_name",
@@ -32,6 +33,8 @@ PATTERN_COLUMNS = [
     "pharmaceutical_form",
     "product_strength",
 ]
+
+PACKAGE_PATTERN_COLUMNS = PATTERN_COLUMNS + ["package_en"]
 
 MAPPING_COLUMNS = [
     "product_id",
@@ -45,9 +48,9 @@ MAPPING_COLUMNS = [
 ]
 
 
-def validate_input_rows(rows):
+def validate_input_rows(rows, pattern_columns):
     for index, row in enumerate(rows, start=2):
-        missing = [column for column in PATTERN_COLUMNS if column not in row]
+        missing = [column for column in pattern_columns if column not in row]
         if missing:
             fail(f"stdin row {index} is missing required pattern columns: {', '.join(missing)}")
         mapping_type = clean(row.get("mapping_type", ""))
@@ -57,11 +60,20 @@ def validate_input_rows(rows):
             fail(f"stdin row {index} requires suggestion for mapping_type={mapping_type}")
 
 
+def build_pattern_key(row, pattern_columns):
+    normalized = dict(row)
+    if "package_en" in pattern_columns:
+        normalized["package_en"] = normalize_latvia_package(row.get("package_en", ""))
+    return pattern_key(normalized, pattern_columns)
+
+
 def main():
     args = sys.argv[1:]
     only_missing = "--only-missing" in args
     backfill = "--backfill-dates" in args
+    package_aware = "--package-aware" in args
     positional = [arg for arg in args if not arg.startswith("--")]
+    pattern_columns = PACKAGE_PATTERN_COLUMNS if package_aware else PATTERN_COLUMNS
 
     if not positional:
         fail(f"Usage: {sys.argv[0]} <mapping.tsv> [--only-missing] [--backfill-dates]")
@@ -91,11 +103,11 @@ def main():
         fail("no input on stdin")
 
     updates = list(csv.DictReader(StringIO(stdin_data), delimiter="\t"))
-    validate_input_rows(updates)
+    validate_input_rows(updates, pattern_columns)
 
     updates_by_pattern = {}
     for row in updates:
-        key = pattern_key(row, PATTERN_COLUMNS)
+        key = build_pattern_key(row, pattern_columns)
         if key in updates_by_pattern:
             fail(f"stdin contains duplicate pattern row for {key}")
         if not clean(row.get("last_updated_date", "")):
@@ -106,10 +118,10 @@ def main():
     existing_by_id = {clean(row.get("product_id", "")): row for row in existing_rows}
 
     matched_ids = set()
-    data_patterns = {pattern_key(row, PATTERN_COLUMNS) for row in data_rows}
+    data_patterns = {build_pattern_key(row, pattern_columns) for row in data_rows}
 
     for data_row in data_rows:
-        key = pattern_key(data_row, PATTERN_COLUMNS)
+        key = build_pattern_key(data_row, pattern_columns)
         if key not in updates_by_pattern:
             continue
         product_id = clean(data_row.get("product_id", ""))

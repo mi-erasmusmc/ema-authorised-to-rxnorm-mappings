@@ -19,6 +19,7 @@ Refer to the `find-concepts` skill for how to search for RxNorm concepts, and th
 
 - Use `validate_all.py` to validate Latvia product folders and triage issue-heavy folders.
 - Use `make list_folder_patterns` to summarize repeated presentation patterns before concept search, especially when one product has many pack variants.
+- For Latvia folders that mix device families under the same strength/form pattern, use `make list_folder_patterns ARGS="... --package-aware"` so `package_en` distinguishes patterns without splitting on pack size.
 - Use `apply_pattern_mappings.py` to expand one mapping decision per Latvia pattern into all matching `product_id` rows.
 
 ## Input Files
@@ -58,6 +59,15 @@ Follow the standard mapping workflow in `map-drugs`. Latvia-specific deviations:
    make apply_latvia_patterns ARGS="data/latvia/products/<substance>/<product>/mapping.tsv" <<'EOF'
    original_name	strength	pharmaceutical_form	product_strength	concept_id	concept_name	concept_code	mapping_type	comment	suggestion
    CarvedilolHexal 6.25 mg tablets	6.25 mg	Tablet	6,25 mg	19022749	carvedilol 6.25 MG Oral Tablet	200031	EXACT
+   EOF
+   ```
+
+   For mixed-device folders where `package_en` matters:
+   ```bash
+   make apply_latvia_patterns ARGS="data/latvia/products/<substance>/<product>/mapping.tsv --package-aware" <<'EOF'
+   original_name	strength	pharmaceutical_form	product_strength	package_en	concept_id	concept_name	concept_code	mapping_type	comment	suggestion
+   Nordimet	10 mg	Solution for injection	10 mg/0,4 ml	Glass pre-filled pen	44506728	methotrexate 25 MG/ML Auto-Injector	1441408	BROAD	RxNorm lacks the matching volume-specific 25 MG/ML auto-injector presentation.	0.4 ML methotrexate 25 MG/ML Auto-Injector
+   Nordimet	10 mg	Solution for injection	10 mg/0,4 ml	Glass pre-filled syringe with safety system	1146757	0.4 ML methotrexate 25 MG/ML Prefilled Syringe	2377333	EXACT
    EOF
    ```
 

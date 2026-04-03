@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-653062	62699	36405853	gadodiamide 0.5 MMOL/ML Injectable Solution	OMOP3097895	BROAD	RxNorm Extension has exact 10/15/20 mL and prefilled-syringe concepts, but no matching 100 mL vial concept for the Spain presentation.	100 ML gadodiamide 0.5 MMOL/ML Injectable Solution	2026-03-31
+653062	62699	36405853	gadodiamide 0.5 MMOL/ML Injectable Solution	OMOP3097895	EXACT			2026-04-03
 692210	60331	21029274	20 ML gadodiamide 0.5 MMOL/ML Prefilled Syringe	OMOP314197	EXACT			2026-03-31
 692228	60331	21039087	15 ML gadodiamide 0.5 MMOL/ML Prefilled Syringe	OMOP313069	EXACT			2026-03-31
 692236	60331	21107699	10 ML gadodiamide 0.5 MMOL/ML Prefilled Syringe	OMOP311331	EXACT			2026-03-31
-808493	62699	36410675	10 ML gadodiamide 0.5 MMOL/ML Injectable Solution	OMOP3102717	EXACT			2026-03-31
-808519	62699	36410933	15 ML gadodiamide 0.5 MMOL/ML Injectable Solution	OMOP3102975	EXACT			2026-03-31
-808527	62699	36411099	20 ML gadodiamide 0.5 MMOL/ML Injectable Solution	OMOP3103141	EXACT			2026-03-31
+808493	62699	36405853	gadodiamide 0.5 MMOL/ML Injectable Solution	OMOP3097895	EXACT			2026-04-03
+808519	62699	36405853	gadodiamide 0.5 MMOL/ML Injectable Solution	OMOP3097895	EXACT			2026-04-03
+808527	62699	36405853	gadodiamide 0.5 MMOL/ML Injectable Solution	OMOP3097895	EXACT			2026-04-03

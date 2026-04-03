@@ -10,6 +10,7 @@ Usage:
     python3 .claude/skills/map-drugs/scripts/list_folder_patterns.py data/spain/products/<folder>/
     python3 .claude/skills/map-drugs/scripts/list_folder_patterns.py data/latvia/products/<substance>/<product>/
     python3 .claude/skills/map-drugs/scripts/list_folder_patterns.py <folder>/ --missing-only
+    python3 .claude/skills/map-drugs/scripts/list_folder_patterns.py <folder>/ --package-aware
     python3 .claude/skills/map-drugs/scripts/list_folder_patterns.py <folder>/ --full
 """
 
@@ -19,7 +20,7 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
-from helpers import clean, fail, find_dated_file, load_tsv, pattern_key  # noqa: E402
+from helpers import clean, fail, find_dated_file, load_tsv, normalize_latvia_package, pattern_key  # noqa: E402
 
 
 # -- Source configurations -----------------------------------------------------
@@ -59,6 +60,13 @@ LATVIA_CONFIG = {
         "strength",
         "pharmaceutical_form",
         "product_strength",
+    ],
+    "package_fields": [
+        "original_name",
+        "strength",
+        "pharmaceutical_form",
+        "product_strength",
+        "package_en",
     ],
     "full_fields": [
         "original_name",
@@ -109,6 +117,11 @@ def parse_args():
         help="Only summarize rows not yet mapped in mapping.tsv",
     )
     parser.add_argument(
+        "--package-aware",
+        action="store_true",
+        help="For Latvia folders, include package_en in the grouping key while still collapsing pack-size variants",
+    )
+    parser.add_argument(
         "--full",
         action="store_true",
         help="Include extra fields (packaging, holder, etc.) in the grouping key",
@@ -124,7 +137,12 @@ def main():
     data_path = find_data_path(folder, config)
     mapping_path = folder / "mapping.tsv"
 
-    fields = config["full_fields"] if args.full else config["default_fields"]
+    if args.full:
+        fields = config["full_fields"]
+    elif args.package_aware:
+        fields = config.get("package_fields", config["default_fields"])
+    else:
+        fields = config["default_fields"]
     id_col = config["id_col"]
     data_rows = load_tsv(data_path)
 
@@ -147,10 +165,16 @@ def main():
         print("OK - no matching rows found")
         return
 
-    grouped = Counter(pattern_key(row, fields) for row in selected_rows)
+    def build_key(row):
+        normalized = dict(row)
+        if args.package_aware and "latvia" in folder.resolve().parts and "package_en" in fields:
+            normalized["package_en"] = normalize_latvia_package(row.get("package_en", ""))
+        return pattern_key(normalized, fields)
+
+    grouped = Counter(build_key(row) for row in selected_rows)
     examples = defaultdict(list)
     for row in selected_rows:
-        key = pattern_key(row, fields)
+        key = build_key(row)
         if len(examples[key]) < 3:
             examples[key].append(clean(row.get(id_col, "")))
 

@@ -1,10 +1,10 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-I001346-01							
-I001368-01							
-I001385-01							
-I001442-01							
-I001653-01							
-I001656-01							
-I001683-01							
-I001684-01							
-I001684-02							
+I001346-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+I001368-01	36893717	torsemide 50 MG Oral Tablet	OMOP992089	EXACT			2026-04-03
+I001385-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+I001442-01	19019937	torsemide 100 MG Oral Tablet	198370	EXACT			2026-04-03
+I001653-01	36893717	torsemide 50 MG Oral Tablet	OMOP992089	EXACT			2026-04-03
+I001656-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+I001683-01	36893717	torsemide 50 MG Oral Tablet	OMOP992089	EXACT			2026-04-03
+I001684-01	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03
+I001684-02	942382	torsemide 10 MG Oral Tablet	198369	EXACT			2026-04-03

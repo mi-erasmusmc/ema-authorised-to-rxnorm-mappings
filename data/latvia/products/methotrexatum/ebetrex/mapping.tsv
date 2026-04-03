@@ -1,121 +1,61 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-09-0207-01	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-04	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-07	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-10	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-13	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-16	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-01	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-04	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-07	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-10	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-13	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-16	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-02	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-05	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-08	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-11	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-14	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-17	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-02	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-05	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-08	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-11	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-14	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-17	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-03	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-06	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-09	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-12	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-15	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-18	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-03	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-06	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-09	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-12	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-15	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-18	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-19	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-20	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-21	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-22	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-23	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-24	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-19	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-20	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-21	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-22	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-23	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-24	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-25	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-26	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-27	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-28	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-29	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-30	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-25	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-26	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-27	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-28	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-29	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-30	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-31	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-32	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-33	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-34	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-35	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-36	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-31	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-32	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-33	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-34	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-35	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-36	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-37	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-38	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-39	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-40	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-41	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-42	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-37	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-38	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-39	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-40	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-41	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-42	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-43	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-44	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-45	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-46	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-47	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-48	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-43	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-44	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-45	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-46	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-47	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-48	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-49	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-50	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-51	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-52	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-53	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-54	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-49	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-50	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-51	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-52	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-53	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-54	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-55	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-56	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-57	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-58	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-59	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-60	792631	methotrexate 25 MG/ML Injectable Solution	1946772				
-09-0207-55	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-56	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-57	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-58	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-59	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
-09-0207-60	1146294	methotrexate 25 MG/ML Prefilled Syringe	2377339				
+09-0207-01	36895065	1 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993659	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-02	36897115	1.25 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP996181	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-03	36896237	1.5 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000093	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-04	36895065	1 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993659	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-05	36897115	1.25 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP996181	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-06	36896237	1.5 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000093	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-07	36895065	1 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993659	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-08	36897115	1.25 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP996181	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-09	36896237	1.5 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000093	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-10	36895065	1 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993659	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-11	36897115	1.25 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP996181	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-12	36896237	1.5 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000093	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-13	36895065	1 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993659	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-14	36897115	1.25 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP996181	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-15	36896237	1.5 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000093	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-16	36895065	1 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993659	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-17	36897115	1.25 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP996181	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-18	36896237	1.5 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000093	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-19	43652981	0.375 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP716114	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-20	43652981	0.375 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP716114	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-21	43652981	0.375 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP716114	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-22	43652981	0.375 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP716114	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-23	43652981	0.375 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP716114	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-24	43652981	0.375 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP716114	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-25	43648187	0.5 ML Methotrexate 22 MG/ML Prefilled Syringe	OMOP717769	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-26	43648187	0.5 ML Methotrexate 22 MG/ML Prefilled Syringe	OMOP717769	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-27	43648187	0.5 ML Methotrexate 22 MG/ML Prefilled Syringe	OMOP717769	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-28	43648187	0.5 ML Methotrexate 22 MG/ML Prefilled Syringe	OMOP717769	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-29	43648187	0.5 ML Methotrexate 22 MG/ML Prefilled Syringe	OMOP717769	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-30	43648187	0.5 ML Methotrexate 22 MG/ML Prefilled Syringe	OMOP717769	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-31	36897108	0.75 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP992359	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-32	36897108	0.75 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP992359	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-33	36897108	0.75 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP992359	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-34	36897108	0.75 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP992359	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-35	36897108	0.75 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP992359	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-36	36897108	0.75 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP992359	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-37	36897350	0.625 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993973	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-38	36897350	0.625 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993973	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-39	36897350	0.625 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993973	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-40	36897350	0.625 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993973	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-41	36897350	0.625 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993973	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-42	36897350	0.625 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP993973	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-43	36897353	0.875 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000448	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-44	36897353	0.875 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000448	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-45	36897353	0.875 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000448	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-46	36897353	0.875 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000448	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-47	36897353	0.875 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000448	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-48	36897353	0.875 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1000448	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-49	43633877	1.14 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP741758	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-50	43633877	1.14 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP741758	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-51	43633877	1.14 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP741758	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-52	43633877	1.14 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP741758	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-53	43633877	1.14 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP741758	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-54	43633877	1.14 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP741758	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-55	36897118	1.38 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1006895	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-56	36897118	1.38 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1006895	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-57	36897118	1.38 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1006895	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-58	36897118	1.38 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1006895	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-59	36897118	1.38 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1006895	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03
+09-0207-60	36897118	1.38 ML Methotrexate 21.9 MG/ML Prefilled Syringe	OMOP1006895	EXACT	Source strength is methotrexate base; RxNorm Extension expresses the matching syringe as methotrexate disodium with rounded fill volume.		2026-04-03

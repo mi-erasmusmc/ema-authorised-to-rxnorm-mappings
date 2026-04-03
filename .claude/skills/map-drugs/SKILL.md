@@ -133,6 +133,10 @@ All data sources follow the same general workflow. Source-specific skills docume
    make list_folder_patterns ARGS="<folder>/"
    make list_folder_patterns ARGS="<folder>/ --missing-only"  # unmapped rows only
    ```
+   For Latvia folders that mix device families under the same strength/form, prefer:
+   ```bash
+   make list_folder_patterns ARGS="<folder>/ --package-aware"
+   ```
 
 3. **Search RxNorm concepts** via the `find-concepts` skill. Bundle 4-6 queries per call. Translate non-English ingredient names to English before searching. Always retry with `--extension` before concluding no concept exists.
 
