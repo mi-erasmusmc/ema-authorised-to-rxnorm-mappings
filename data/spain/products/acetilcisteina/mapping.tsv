@@ -46,9 +46,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 730517	85822	19106586	acetylcysteine 600 MG Oral Tablet	429042	EXACT			2026-03-12
 730549	62388	36267555	Acetylcysteine 100 MG Granules for Oral Solution	OMOP3118430	EXACT			2026-03-12
 730833	85923	19106586	acetylcysteine 600 MG Oral Tablet	429042	EXACT			2026-03-12
-758706	41474	43752926	3 ML Acetylcysteine 100 MG/ML Injectable Solution	OMOP760213	EXACT			2026-03-12
-764182	2274-2009-01IP	43752926	3 ML Acetylcysteine 100 MG/ML Injectable Solution	OMOP760213	EXACT			2026-03-12
-766532	90038	43752926	3 ML Acetylcysteine 100 MG/ML Injectable Solution	OMOP760213	EXACT			2026-03-12
+758706	41474	19095712	acetylcysteine 100 MG/ML	345092	BROAD	RxNorm does not expose the 3 mL single-use injection presentation; mapped to the concentration-only concept.	3 ML acetylcysteine 100 MG/ML Injection	2026-04-03
+764182	2274-2009-01IP	19095712	acetylcysteine 100 MG/ML	345092	BROAD	RxNorm does not expose the 3 mL single-use injection presentation; mapped to the concentration-only concept.	3 ML acetylcysteine 100 MG/ML Injection	2026-04-03
+766532	90038	19095712	acetylcysteine 100 MG/ML	345092	BROAD	RxNorm does not expose the 3 mL single-use injection presentation; mapped to the concentration-only concept.	3 ML acetylcysteine 100 MG/ML Injection	2026-04-03
 767682	150202	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
 768418	BE150202	42480812	Acetylcysteine 600 MG Effervescent Oral Tablet	OMOP419110	EXACT			2026-03-12
 773622	65292	43154957	Acetylcysteine 200 MG Granules for Oral Solution	OMOP453439	EXACT			2026-03-12

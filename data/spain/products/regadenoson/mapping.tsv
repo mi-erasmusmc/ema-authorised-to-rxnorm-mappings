@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-698441	110643001	41353334	5 ML regadenoson 0.08 MG/ML Injectable Solution	OMOP2551296	EXACT			2025-12-04
+698441	110643001	19090761	regadenoson	640062	BROAD	RxNorm does not expose a matching regadenoson 0.08 MG/ML injection concept.	regadenoson 0.08 MG/ML Injection	2026-04-03

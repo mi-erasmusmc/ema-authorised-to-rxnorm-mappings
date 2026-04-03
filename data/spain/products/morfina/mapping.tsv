@@ -5,7 +5,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 663377	61909	19006058	morphine sulfate 200 MG Extended Release Oral Tablet [MST Continus]	104946	EXACT			2026-03-12
 679548	61081	40169924	morphine sulfate 15 MG Extended Release Oral Tablet	891881	EXACT			2026-03-12
 679555	61080	40170025	morphine sulfate 5 MG Extended Release Oral Tablet	895217	EXACT			2026-03-12
-720312	82748	35776762	1 ML Morphine 1 MG/ML Injectable Solution	OMOP2778223	EXACT			2026-03-12
+720312	82748	35604843	morphine sulfate 1 MG/ML Injection	1728802	EXACT			2026-04-03
 720314	82750	36407384	Morphine 40 MG/ML Injectable Solution	OMOP3099426	EXACT			2026-03-12
 720801	82883	35605835	1 ML morphine sulfate 10 MG/ML Injection	1731993	EXACT			2026-03-12
 787911	59655	19006057	morphine sulfate 20 MG Oral Tablet [Sevredol]	104945	EXACT			2026-03-12

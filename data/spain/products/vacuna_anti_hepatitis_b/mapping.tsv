@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 686709	60653	528328	1 ML hepatitis B surface antigen vaccine 0.02 MG/ML Prefilled Syringe [Engerix-B]	798428	EXACT			2026-03-30
 877514	60652	19130426	0.5 ML hepatitis B surface antigen vaccine 0.02 MG/ML Prefilled Syringe [Engerix-B]	798430	EXACT			2026-03-12
-650862	04299001	35201908	0.5 ML hepatitis B surface antigen vaccine 0.04 MG/ML Prefilled Syringe	2050057	BROAD	FENDRIX (20mcg/0.5ml=0.04mg/ml) not in RxNorm; no brand or AS04 adjuvant representation	0.5 ML hepatitis B surface antigen vaccine 0.04 MG/ML Prefilled Syringe with AS04 adjuvant [Fendrix]	2026-03-30
+650862	04299001	35201908	0.5 ML hepatitis B surface antigen vaccine 0.04 MG/ML Prefilled Syringe	2050057	BROAD	FENDRIX (20mcg/0.5ml=0.04mg/ml) not in RxNorm; no brand or AS04 adjuvant representation	0.5 ML hepatitis B surface antigen vaccine 0.04 MG/ML Injectable Suspension [Fendrix]	2026-03-30
 652093	01183024	19133379	0.5 ML hepatitis B surface antigen vaccine 0.01 MG/ML Prefilled Syringe	830252	EXACT	HBVAXPRO brand not in RxNorm; unbranded dose-volume-form match		2026-03-30
 652094	01183028	19133377	1 ML hepatitis B surface antigen vaccine 0.01 MG/ML Prefilled Syringe	830243	EXACT	HBVAXPRO brand not in RxNorm; unbranded dose-volume-form match		2026-03-30
 906800	01183007	46275236	1 ML hepatitis B surface antigen vaccine 0.01 MG/ML Injection	1658149	EXACT	HBVAXPRO brand not in RxNorm; unbranded vial-form match		2026-03-30

@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 665906	07420002	19125674	hydroxocobalamin 5000 MG Injection [Cyanokit]	700499	EXACT	Injection dose-form definition covers this single-use powder for solution for infusion presentation.		2026-03-13
 762446	88743	19082349	hydroxocobalamin 1 MG/ML Injectable Solution	317106	EXACT			2026-03-13
-784652	46090	35778918	2 ML Hydroxocobalamin 2.5 MG/ML Injectable Solution	OMOP2780379	EXACT			2026-03-13
+784652	46090	19110223	hydroxocobalamin 2.5 MG/ML	440402	BROAD	RxNorm does not expose the 2 mL single-use injection presentation; mapped to the concentration-only concept.	2 ML hydroxocobalamin 2.5 MG/ML Injection	2026-04-03

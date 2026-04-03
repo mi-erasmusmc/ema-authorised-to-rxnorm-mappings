@@ -10,3 +10,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 767805	24354IP3	40930196	cytisine 1.5 MG Oral Tablet	OMOP2128158	EXACT			2026-03-13
 767818	90351	35606016	cytisine	1723152	BROAD	RxNorm does not expose the Spain oral-solution presentation.	cytisine 1.5 MG/DOSE Oral Solution	2026-03-13
 769126	25108IP1	40930196	cytisine 1.5 MG Oral Tablet	OMOP2128158	EXACT			2026-03-13
+768464	25108IP	40930196	cytisine 1.5 MG Oral Tablet	OMOP2128158	EXACT			2026-04-03

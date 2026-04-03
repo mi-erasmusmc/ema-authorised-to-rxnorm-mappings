@@ -1,13 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 617308	63854	36280895	80 ML Gentamicin 3 MG/ML Injection	OMOP3131770	EXACT	240mg/80mL = 3 MG/ML; volume-specific extension concept		2026-03-31
-601286	62203	21068986	80 ML Gentamicin 1 MG/ML Injectable Solution	OMOP320773	EXACT	80mg/80mL = 1 MG/ML; volume-specific extension concept		2026-03-31
+601286	62203	1594668	gentamicin 1 MG/ML Injection	1870622	EXACT			2026-04-03
 624577	54324	1594391	gentamicin Injection	1870244	BROAD	240mg/3ml=80MG/ML; no 80 MG/ML concentration concept in RxNorm	gentamicin 80 MG/ML Injection	2026-03-12
 624593	51886	1594391	gentamicin Injection	1870244	BROAD	40mg/2ml=20MG/ML; no 20 MG/ML concentration concept in RxNorm	gentamicin 20 MG/ML Injection	2026-03-12
 624601	51885	1594686	2 ML gentamicin 40 MG/ML Injection	1870650	EXACT	80mg/2ml=40MG/ML; exact volume and concentration match		2026-03-12
-606088	62203	21068986	80 ML Gentamicin 1 MG/ML Injectable Solution	OMOP320773	EXACT	80mg/80mL = 1 MG/ML; volume-specific extension concept		2026-03-31
+606088	62203	1594668	gentamicin 1 MG/ML Injection	1870622	EXACT			2026-04-03
 653470	50958	19077601	gentamicin 3 MG/ML Ophthalmic Solution	310467	EXACT			2026-03-13
 653536	52662	19077580	gentamicin 0.003 MG/MG Ophthalmic Ointment	310466	EXACT			2026-03-13
-657387	62203	21068986	80 ML Gentamicin 1 MG/ML Injectable Solution	OMOP320773	EXACT	80mg/80mL = 1 MG/ML; volume-specific extension concept		2026-03-31
+657387	62203	1594668	gentamicin 1 MG/ML Injection	1870622	EXACT			2026-04-03
 763011	54324	1594391	gentamicin Injection	1870244	BROAD	240mg/3ml=80MG/ML; no 80 MG/ML concentration concept in RxNorm	gentamicin 80 MG/ML Injection	2026-03-13
 882811	51886	1594391	gentamicin Injection	1870244	BROAD	40mg/2ml=20MG/ML; no 20 MG/ML concentration concept in RxNorm	gentamicin 20 MG/ML Injection	2026-03-13
 999037	51885	1594686	2 ML gentamicin 40 MG/ML Injection	1870650	EXACT	80mg/2ml=40MG/ML; exact volume and concentration match		2026-03-13

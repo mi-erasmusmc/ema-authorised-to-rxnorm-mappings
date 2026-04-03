@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-654793	17536	43627215	5 ML Ascorbic Acid 200 MG/ML Injectable Solution	OMOP765238	EXACT			2026-03-12
+654793	17536	19012138	ascorbic acid 200 MG/ML	315394	BROAD	RxNorm does not expose the 5 mL single-use injection presentation; mapped to the concentration-only concept.	5 ML ascorbic acid 200 MG/ML Injection	2026-04-03

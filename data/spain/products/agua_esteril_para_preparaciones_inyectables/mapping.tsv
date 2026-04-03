@@ -1,43 +1,43 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-602227	62052	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+602227	62052	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 602489	58935	40722407	Water 5000 MG Injectable Solution	OMOP4735293	EXACT			2026-03-12
-605413	62052	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
-606973	58448	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+605413	62052	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
+606973	58448	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 606974	58448	40722380	Water 20000 MG Injectable Solution	OMOP4735321	EXACT			2026-03-12
-606976	58448	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+606976	58448	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 606977	58448	40722380	Water 20000 MG Injectable Solution	OMOP4735321	EXACT			2026-03-12
-607801	38186	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+607801	38186	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 640573	58935	40722407	Water 5000 MG Injectable Solution	OMOP4735293	EXACT			2026-03-12
-640581	58935	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
-640995	58448	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+640581	58935	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
+640995	58448	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 641001	58448	40722380	Water 20000 MG Injectable Solution	OMOP4735321	EXACT			2026-03-12
 644906	17012	40721886	Water 100000 MG Injectable Solution	OMOP4735275	EXACT			2026-03-12
-647008	17012	43650579	250 ML Water 1000 MG/ML Injectable Solution	OMOP847721	EXACT			2026-03-12
+647008	17012	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 647016	17012	40722363	Water 500000 MG Injectable Solution	OMOP4735338	EXACT			2026-03-12
 671621	72539	40722380	Water 20000 MG Injectable Solution	OMOP4735321	EXACT			2026-03-12
 721866	58448	40722407	Water 5000 MG Injectable Solution	OMOP4735293	EXACT			2026-03-12
-724076	72539	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
-729644	72539	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+724076	72539	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
+729644	72539	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 796748	63721	40722363	Water 500000 MG Injectable Solution	OMOP4735338	EXACT			2026-03-12
-796755	63721	43705984	1000 ML Water 1000 MG/ML Injectable Solution	OMOP870527	EXACT			2026-03-12
+796755	63721	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 892703	38186	40722407	Water 5000 MG Injectable Solution	OMOP4735293	EXACT			2026-03-12
-892711	38186	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
-990903	58448	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+892711	38186	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
+990903	58448	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 990911	58448	40722380	Water 20000 MG Injectable Solution	OMOP4735321	EXACT			2026-03-12
-602616	69101	43647680	50 ML Water 1000 MG/ML Injectable Solution	OMOP809773	EXACT			2026-03-12
+602616	69101	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 602617	69101	40721886	Water 100000 MG Injectable Solution	OMOP4735275	EXACT			2026-03-12
-602618	69101	43650579	250 ML Water 1000 MG/ML Injectable Solution	OMOP847721	EXACT			2026-03-12
+602618	69101	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 602619	69101	40722363	Water 500000 MG Injectable Solution	OMOP4735338	EXACT			2026-03-12
-602620	69101	43705984	1000 ML Water 1000 MG/ML Injectable Solution	OMOP870527	EXACT			2026-03-12
+602620	69101	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 602630	69131	40722407	Water 5000 MG Injectable Solution	OMOP4735293	EXACT			2026-03-12
-602635	69131	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+602635	69131	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 602638	69131	40722380	Water 20000 MG Injectable Solution	OMOP4735321	EXACT			2026-03-12
-659546	69101	43647680	50 ML Water 1000 MG/ML Injectable Solution	OMOP809773	EXACT			2026-03-12
+659546	69101	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 659547	69101	40721886	Water 100000 MG Injectable Solution	OMOP4735275	EXACT			2026-03-12
-659548	69101	43650579	250 ML Water 1000 MG/ML Injectable Solution	OMOP847721	EXACT			2026-03-12
+659548	69101	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 659549	69101	40722363	Water 500000 MG Injectable Solution	OMOP4735338	EXACT			2026-03-12
-659550	69101	43705984	1000 ML Water 1000 MG/ML Injectable Solution	OMOP870527	EXACT			2026-03-12
+659550	69101	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03
 660936	62044	40722407	Water 5000 MG Injectable Solution	OMOP4735293	EXACT			2026-03-12
 664895	71999	40722407	Water 5000 MG Injectable Solution	OMOP4735293	EXACT			2026-03-12
 854190	919607	40722407	Water 5000 MG Injectable Solution	OMOP4735293	EXACT			2026-03-12
-854208	919607	43789712	10 ML Water 1000 MG/ML Injectable Solution	OMOP777125	EXACT			2026-03-12
+854208	919607	19094511	water 1000 MG/ML	340584	BROAD	RxNorm does not expose a non-volume sterile-water injectable concept; mapped to the concentration-only concept.	water 1000 MG/ML Injectable Solution	2026-04-03

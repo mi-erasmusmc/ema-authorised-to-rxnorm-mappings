@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 700523	48932	751284	lithium carbonate 400 MG Extended Release Oral Tablet	199762	EXACT			2026-03-12
-820845	65389	36410595	10 ML Lithium Chloride 0.15 MMOL/ML Injectable Solution	OMOP3102637	EXACT			2026-03-12
+820845	65389	42899307	lithium chloride	1311533	BROAD	RxNorm does not expose a matching lithium chloride injectable concept at 0.15 MMOL/ML.	lithium chloride 0.15 MMOL/ML Injectable Solution	2026-04-03

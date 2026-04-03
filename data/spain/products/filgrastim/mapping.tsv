@@ -10,7 +10,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 705606	114946014	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2025-12-04
 705607	114946011	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2025-12-04
 732085	114946024	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2025-12-04
-732086	114946033	36964208	0.733 ML filgrastim 96000000 UNT/ML Injectable Solution	OMOP5207995	EXACT	Out of line with others		2025-12-04
+732086	114946033	21082668	Filgrastim 96000000 UNT/ML Prefilled Syringe	OMOP376997	BROAD	RxNorm does not expose the 0.733 mL prefilled syringe presentation; this preserves the correct concentration and device family.	0.733 ML filgrastim 96000000 UNT/ML Prefilled Syringe	2026-04-03
 845826	59102	46234503	1 ML filgrastim 0.3 MG/ML Injection [Neupogen]	1649946	EXACT			2026-03-28
 867465	64315	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-03-12
 886077	64315	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-03-12

@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-994434	58661	43208992	100 ML Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP427792	EXACT			2026-03-12
-994442	58661	43176564	250 ML Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP430656	EXACT			2026-03-12
+994434	58661	43215169	Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP478107	EXACT			2026-04-03
+994442	58661	43215169	Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP478107	EXACT			2026-04-03
 994459	58661	43215169	Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP478107	EXACT			2026-03-12
-665200	72233	43208992	100 ML Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP427792	EXACT			2026-03-12
-665201	72233	43176564	250 ML Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP430656	EXACT			2026-03-12
+665200	72233	43215169	Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP478107	EXACT			2026-04-03
+665201	72233	43215169	Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP478107	EXACT			2026-04-03
 665202	72233	43215169	Medium chain triglycerides 100 MG/ML / Soybean Oil 100 MG/ML Injectable Suspension	OMOP478107	EXACT			2026-03-12
-994426	58660	42918699	500 ML Medium chain triglycerides 50 MG/ML / Soybean Oil 50 MG/ML Injectable Solution	OMOP4645579	EXACT			2026-03-12
+994426	58660	42918699	500 ML Medium chain triglycerides 50 MG/ML / Soybean Oil 50 MG/ML Injectable Solution	OMOP4645579	BROAD	RxNorm does not expose a non-volume concept for this infusion emulsion; the available concept retains container volume.	Medium chain triglycerides 50 MG/ML / Soybean Oil 50 MG/ML Injectable Solution	2026-04-03

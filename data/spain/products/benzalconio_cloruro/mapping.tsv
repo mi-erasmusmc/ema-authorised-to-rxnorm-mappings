@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 672910	73118	40232120	benzalkonium chloride 2 MG/ML Topical Spray	1049402	EXACT			2026-03-13
-763789	50075	43214961	Benzalkonium Vaginal Cream	OMOP476122	BROAD	Spain source is a 10 MG/ML vaginal solution; RxNorm lacks a matching vaginal solution concept.	benzalkonium chloride 10 MG/ML Vaginal Solution	2026-03-13
+763789	50075	43214961	Benzalkonium Vaginal Cream	OMOP476122	BROAD	Spain source is a 10 MG/ML vaginal solution; RxNorm lacks a matching vaginal solution concept.	benzalkonium chloride 10 MG/ML Douche	2026-03-13
 949255	55534	43214961	Benzalkonium Vaginal Cream	OMOP476122	BROAD	RxNorm does not expose a strength-specific 12 MG/G vaginal cream concept.	benzalkonium chloride 12 MG/G Vaginal Cream	2026-03-13

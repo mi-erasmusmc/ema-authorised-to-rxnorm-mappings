@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-723548	83405	43039572	2 ML Argipressin 20 UNT/ML Injectable Solution	OMOP4854608	EXACT	Source is a 2 mL concentrate-for-infusion ampoule; RxNorm Extension exposes a matching 2 mL injectable-solution concept but no corresponding injection concept.		2026-03-31
+723548	83405	19006872	argipressin 20 UNT/ML Injectable Solution	413832	BROAD	RxNorm does not expose the 2 mL single-use concentrate-for-infusion presentation; mapped to the concentration-only injectable-solution concept.	2 ML argipressin 20 UNT/ML Injection	2026-04-03

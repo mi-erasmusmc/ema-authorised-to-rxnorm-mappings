@@ -15,4 +15,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 720772	82876	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
 722475	83321	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
 722474	83320	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	EXACT			2026-03-13
-710397	80761	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD	Source is doxylamine 25 MG oral powder sachet; RxNorm exposes the closest oral tablet concept.	doxylamine succinate 25 MG Oral Powder Sachet	2026-03-13
+710397	80761	40239109	doxylamine succinate 25 MG Oral Tablet	1101446	BROAD	Source is doxylamine 25 MG oral powder sachet; RxNorm exposes the closest oral tablet concept.	doxylamine succinate 25 MG Oral Powder	2026-03-13

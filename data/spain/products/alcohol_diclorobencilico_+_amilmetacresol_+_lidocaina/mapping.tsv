@@ -7,4 +7,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 695788	76952	36270018	amylmetacresol 0.6 MG / dichlorobenzyl alcohol 1.2 MG / Lidocaine 2 MG Oral Lozenge	OMOP3120893	EXACT			2026-03-12
 695789	76952	36270018	amylmetacresol 0.6 MG / dichlorobenzyl alcohol 1.2 MG / Lidocaine 2 MG Oral Lozenge	OMOP3120893	EXACT			2026-03-12
 727519	BE207462	36270018	amylmetacresol 0.6 MG / dichlorobenzyl alcohol 1.2 MG / Lidocaine 2 MG Oral Lozenge	OMOP3120893	EXACT			2026-03-12
-731910	85434	40003247	amylmetacresol / dichlorobenzyl alcohol / lidocaine Oral Lozenge	440801	BROAD	RxNorm does not appear to contain the Spanish buccal spray presentation for this triple combination.	amylmetacresol 2.23 MG/ML / dichlorobenzyl alcohol 4.46 MG/ML / lidocaine 6.9 MG/ML Buccal Spray	2026-03-12
+731910	85434	40003247	amylmetacresol / dichlorobenzyl alcohol / lidocaine Oral Lozenge	440801	BROAD	RxNorm does not appear to contain the Spanish buccal spray presentation for this triple combination.	amylmetacresol 2.23 MG/ML / dichlorobenzyl alcohol 4.46 MG/ML / lidocaine 6.9 MG/ML Oral Spray	2026-03-12

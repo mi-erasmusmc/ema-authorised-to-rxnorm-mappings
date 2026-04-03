@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-764320	1231774001	844440	0.4 ML PEGZILARGINASE 5 MG/ML Injectable Solution	OMOP5567253	EXACT			2025-12-04
+764320	1231774001	844440	0.4 ML PEGZILARGINASE 5 MG/ML Injectable Solution	OMOP5567253	BROAD	RxNorm does not expose a non-volume pegzilarginase concept or a matching single-use injection concept; the available concept retains container volume.	pegzilarginase 5 MG/ML Injectable Solution	2026-04-03
