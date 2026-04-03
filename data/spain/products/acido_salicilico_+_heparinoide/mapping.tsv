@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-789768	42454	40892902	heparin / Salicylic Acid Topical Ointment	OMOP2090864	EXACT	Spain labels heparinoide; RxNorm's closest standard representation uses heparin for this topical combination.		2026-03-12
-944744	55298	40047381	heparinoids / salicylic acid Topical Gel	385180	EXACT			2026-03-12
+789768	42454	40892902	heparin / Salicylic Acid Topical Ointment	OMOP2090864	BROAD	Spain labels heparinoide; RxNorm's closest standard representation uses heparin for this topical combination, but no matching strength-specific ointment concept is available.	heparinoids 2 MG/G / salicylic acid 20 MG/G Topical Ointment	2026-04-03
+944744	55298	40047381	heparinoids / salicylic acid Topical Gel	385180	BROAD	RxNorm exposes the topical gel combination but not a matching strength-specific gel concept.	heparinoids 2 MG/G / salicylic acid 20 MG/G Topical Gel	2026-04-03

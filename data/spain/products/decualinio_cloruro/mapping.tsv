@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-686579	75159	36880119	Dequalinium 10 MG Vaginal Tablet	OMOP1004698	EXACT			2026-03-14
+686579	75159	36880119	Dequalinium 10 MG Vaginal Tablet	OMOP1004698	BROAD	Spain source is a vaginal tablet/ovule presentation; keep the strength-specific concept but stay BROAD because the validator does not accept this as a clean EXACT dose-form match.	dequalinium 10 MG Vaginal Insert	2026-04-03

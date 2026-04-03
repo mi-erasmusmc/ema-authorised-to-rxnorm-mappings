@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-795328	64946	40175321	pamidronate disodium 6 MG/ML	904922	EXACT			2026-03-12
-795401	64947	40175325	pamidronate disodium 9 MG/ML	904926	EXACT			2026-03-12
+795328	64946	35604145	10 ML pamidronate disodium 6 MG/ML Injection	1737451	EXACT			2026-04-03
+795401	64947	35604147	10 ML pamidronate disodium 9 MG/ML Injection	1737453	EXACT			2026-04-03
 658872	62129	21176255	5 ML pamidronate 3 MG/ML Injection	OMOP308434	EXACT			2026-03-12
 794891	64945	21176255	5 ML pamidronate 3 MG/ML Injection	OMOP308434	EXACT			2026-03-12
 794958	64945	35604143	10 ML pamidronate disodium 3 MG/ML Injection	1737449	EXACT			2026-03-12

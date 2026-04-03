@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-674741	72725	2043618	fibrinogen 20 MG/ML	OMOP4943611	EXACT			2026-03-13
-729078	85322	2043618	fibrinogen 20 MG/ML	OMOP4943611	EXACT			2026-03-13
+674741	72725	19133677	fibrinogen, human 1 MG Injection [RiaSTAP]	831509	EXACT	Standard RxNorm exposes a branded single-use Injection concept for RiaSTAP; use that instead of the Extension concentration concept.		2026-04-03
+729078	85322	792465	fibrinogen, human 1 MG Injection [Fibryga]	1947382	EXACT	Standard RxNorm exposes a branded single-use Injection concept for Fibryga; use that instead of the Extension concentration concept.		2026-04-03
 711474	81021	19133675	fibrinogen, human 1 MG Injection	831506	EXACT	Fibclot; no IU/mg-specific or branded RxNorm concept for this brand; ingredient-level used		2026-03-13

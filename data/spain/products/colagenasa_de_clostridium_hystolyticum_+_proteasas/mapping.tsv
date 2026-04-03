@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-771220	59557	36267123	COLLAGENASE / Protease Topical Ointment [Iruxol]	OMOP3117998	EXACT			2026-03-14
-771808	59557	36267123	COLLAGENASE / Protease Topical Ointment [Iruxol]	OMOP3117998	EXACT			2026-03-14
+771220	59557	36267123	COLLAGENASE / Protease Topical Ointment [Iruxol]	OMOP3117998	BROAD	RxNorm exposes the branded topical-ointment combination but not a matching strength-specific concept.	collagenase 1.2 UNT/G / protease 0.24 UNT/G Topical Ointment [Iruxol]	2026-04-03
+771808	59557	36267123	COLLAGENASE / Protease Topical Ointment [Iruxol]	OMOP3117998	BROAD	RxNorm exposes the branded topical-ointment combination but not a matching strength-specific concept.	collagenase 1.2 UNT/G / protease 0.24 UNT/G Topical Ointment [Iruxol]	2026-04-03

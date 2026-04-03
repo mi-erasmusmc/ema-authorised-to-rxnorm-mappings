@@ -76,7 +76,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 904763	63341	781062	alprazolam 1 MG Oral Tablet	197321	EXACT			2026-03-12
 932772	63877	781063	alprazolam 2 MG Oral Tablet	197322	EXACT			2026-03-12
 932780	63877	781063	alprazolam 2 MG Oral Tablet	197322	EXACT			2026-03-12
-934984	64079	36258975	Alprazolam 0.75 MG/ML	OMOP3109850	EXACT			2026-03-12
+934984	64079	40006092	alprazolam Oral Solution	370815	BROAD	RxNorm does not expose a dose-form-specific 0.75 MG/ML oral-drops concept; oral solution is the closest available form.	alprazolam 0.75 MG/ML Oral Solution	2026-04-03
 976423	64214	19072933	alprazolam 0.25 MG Oral Tablet	308047	EXACT			2026-03-13
 996231	58784	781063	alprazolam 2 MG Oral Tablet	197322	EXACT			2026-03-12
 997817	58784	781063	alprazolam 2 MG Oral Tablet	197322	EXACT			2026-03-12
