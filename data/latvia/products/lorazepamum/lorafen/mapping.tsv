@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0325-01	19019113	lorazepam 1 MG Oral Tablet	197901				
-00-0326-01	791992	lorazepam 2.5 MG Oral Tablet	199275				
-23-0152-01	19057271	lorazepam 2 MG/ML Injectable Solution	238100				
-23-0153-01	19057272	lorazepam 4 MG/ML Injectable Solution	238101				
+00-0325-01	19019113	lorazepam 1 MG Oral Tablet	197901	EXACT			2026-04-05
+00-0326-01	791992	lorazepam 2.5 MG Oral Tablet	199275	EXACT			2026-04-05
+23-0152-01	46287372	1 ML lorazepam 2 MG/ML Injection	1665188	EXACT			2026-04-05
+23-0153-01	46287393	1 ML lorazepam 4 MG/ML Injection	1665326	EXACT			2026-04-05

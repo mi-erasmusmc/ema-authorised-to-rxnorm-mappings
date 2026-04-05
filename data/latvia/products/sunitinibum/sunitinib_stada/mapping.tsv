@@ -1,21 +1,21 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-22-0009-01	1336541	sunitinib 12.5 MG Oral Capsule	616279				
-22-0009-02	1336541	sunitinib 12.5 MG Oral Capsule	616279				
-22-0009-03	1336541	sunitinib 12.5 MG Oral Capsule	616279				
-22-0009-04	1336541	sunitinib 12.5 MG Oral Capsule	616279				
-22-0009-05	1336541	sunitinib 12.5 MG Oral Capsule	616279				
-22-0010-01	1336624	sunitinib 25 MG Oral Capsule	616285				
-22-0010-02	1336624	sunitinib 25 MG Oral Capsule	616285				
-22-0010-03	1336624	sunitinib 25 MG Oral Capsule	616285				
-22-0010-04	1336624	sunitinib 25 MG Oral Capsule	616285				
-22-0010-05	1336624	sunitinib 25 MG Oral Capsule	616285				
-22-0012-01	1336627	sunitinib 50 MG Oral Capsule	616289				
-22-0012-02	1336627	sunitinib 50 MG Oral Capsule	616289				
-22-0012-03	1336627	sunitinib 50 MG Oral Capsule	616289				
-22-0012-04	1336627	sunitinib 50 MG Oral Capsule	616289				
-22-0012-05	1336627	sunitinib 50 MG Oral Capsule	616289				
-22-0011-01							
-22-0011-02							
-22-0011-03							
-22-0011-04							
-22-0011-05							
+22-0009-01	1336541	sunitinib 12.5 MG Oral Capsule	616279	EXACT			2026-04-05
+22-0009-02	1336541	sunitinib 12.5 MG Oral Capsule	616279	EXACT			2026-04-05
+22-0009-03	1336541	sunitinib 12.5 MG Oral Capsule	616279	EXACT			2026-04-05
+22-0009-04	1336541	sunitinib 12.5 MG Oral Capsule	616279	EXACT			2026-04-05
+22-0009-05	1336541	sunitinib 12.5 MG Oral Capsule	616279	EXACT			2026-04-05
+22-0010-01	1336624	sunitinib 25 MG Oral Capsule	616285	EXACT			2026-04-05
+22-0010-02	1336624	sunitinib 25 MG Oral Capsule	616285	EXACT			2026-04-05
+22-0010-03	1336624	sunitinib 25 MG Oral Capsule	616285	EXACT			2026-04-05
+22-0010-04	1336624	sunitinib 25 MG Oral Capsule	616285	EXACT			2026-04-05
+22-0010-05	1336624	sunitinib 25 MG Oral Capsule	616285	EXACT			2026-04-05
+22-0011-01	45776252	sunitinib 37.5 MG Oral Capsule	1541890	EXACT			2026-04-05
+22-0011-02	45776252	sunitinib 37.5 MG Oral Capsule	1541890	EXACT			2026-04-05
+22-0011-03	45776252	sunitinib 37.5 MG Oral Capsule	1541890	EXACT			2026-04-05
+22-0011-04	45776252	sunitinib 37.5 MG Oral Capsule	1541890	EXACT			2026-04-05
+22-0011-05	45776252	sunitinib 37.5 MG Oral Capsule	1541890	EXACT			2026-04-05
+22-0012-01	1336627	sunitinib 50 MG Oral Capsule	616289	EXACT			2026-04-05
+22-0012-02	1336627	sunitinib 50 MG Oral Capsule	616289	EXACT			2026-04-05
+22-0012-03	1336627	sunitinib 50 MG Oral Capsule	616289	EXACT			2026-04-05
+22-0012-04	1336627	sunitinib 50 MG Oral Capsule	616289	EXACT			2026-04-05
+22-0012-05	1336627	sunitinib 50 MG Oral Capsule	616289	EXACT			2026-04-05
