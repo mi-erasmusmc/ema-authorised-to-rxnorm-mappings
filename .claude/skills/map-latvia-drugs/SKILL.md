@@ -39,6 +39,15 @@ Create `mapping.tsv` in the product folder following the schema in the `map-drug
 Follow the standard mapping workflow in `map-drugs`. Latvia-specific deviations:
 
 1. **Validate:**
+
+   **Important:** `make validate_latvia` only works at the **product** level (`<substance>/<product>/`). Passing a substance-level folder silently returns OK even when product subfolders have issues.
+
+   To triage all products under a substance, use `validate_all.py` (no args) and grep:
+   ```bash
+   python3 .claude/skills/map-latvia-drugs/validate_all.py 2>&1 | grep "<substance>"
+   ```
+
+   To validate a single product folder:
    ```bash
    make validate_latvia ARGS="data/latvia/products/<substance>/<product>/"
    ```
