@@ -1,11 +1,11 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-11-0351-02	40165262	rosuvastatin calcium 5 MG Oral Tablet [Crestor]	859426				
-11-0352-02	40165246	rosuvastatin calcium 10 MG Oral Tablet [Crestor]	859749				
-11-0353-02	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753				
-11-0354-02	40165258	rosuvastatin calcium 40 MG Oral Tablet [Crestor]	859421				
-20-0042-01							
-20-0042-02							
-20-0042-03							
-20-0043-01							
-20-0043-02							
-20-0043-03							
+11-0351-02	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-04-05
+11-0352-02	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-04-05
+11-0353-02	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-04-05
+11-0354-02	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-04-05
+20-0042-01	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-04-05
+20-0042-02	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-04-05
+20-0042-03	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-04-05
+20-0043-01	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-04-05
+20-0043-02	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-04-05
+20-0043-03	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-04-05
