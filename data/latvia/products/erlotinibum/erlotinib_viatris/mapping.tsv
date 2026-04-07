@@ -1,5 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-17-0182-01	19122517	erlotinib 100 MG Oral Tablet	603203				
-17-0182-02	19122517	erlotinib 100 MG Oral Tablet	603203				
-17-0183-01	19122519	erlotinib 150 MG Oral Tablet	603206				
-17-0183-02	19122519	erlotinib 150 MG Oral Tablet	603206				
+17-0182-01	19122517	erlotinib 100 MG Oral Tablet	603203	EXACT			2026-04-07
+17-0182-02	19122517	erlotinib 100 MG Oral Tablet	603203	EXACT			2026-04-07
+17-0183-01	19122519	erlotinib 150 MG Oral Tablet	603206	EXACT			2026-04-07
+17-0183-02	19122519	erlotinib 150 MG Oral Tablet	603206	EXACT			2026-04-07
+

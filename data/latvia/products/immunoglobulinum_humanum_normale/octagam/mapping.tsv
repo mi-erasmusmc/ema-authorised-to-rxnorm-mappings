@@ -1,13 +1,13 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-04-0293-01	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644				
-04-0293-02	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644				
-04-0293-03	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644				
-04-0293-04	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644				
-09-0379-01	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698				
-09-0379-02	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698				
-09-0379-07	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698				
-09-0379-03	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698				
-09-0379-06	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698				
-09-0379-04	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698				
-09-0379-05	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698				
-09-0379-08	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698				
+04-0293-01	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	BROAD	No volume-specific branded concept exists in RxNorm.	20 ML immunoglobulin G, human 50 MG/ML Injection [Octagam]	2026-04-07
+04-0293-02	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	BROAD	No volume-specific branded concept exists in RxNorm.	50 ML immunoglobulin G, human 50 MG/ML Injection [Octagam]	2026-04-07
+04-0293-03	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	BROAD	No volume-specific branded concept exists in RxNorm.	100 ML immunoglobulin G, human 50 MG/ML Injection [Octagam]	2026-04-07
+04-0293-04	40220618	immunoglobulin G, human 50 MG/ML Injection [Octagam]	1809644	BROAD	No volume-specific branded concept exists in RxNorm.	200 ML immunoglobulin G, human 50 MG/ML Injection [Octagam]	2026-04-07
+09-0379-01	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698	BROAD	No dose-form or volume-specific branded concept exists in RxNorm.	20 ML immunoglobulin G, human 100 MG/ML Injection [Octagam]	2026-04-07
+09-0379-02	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698	BROAD	No dose-form or volume-specific branded concept exists in RxNorm.	100 ML immunoglobulin G, human 100 MG/ML Injection [Octagam]	2026-04-07
+09-0379-03	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698	BROAD	No dose-form or volume-specific branded concept exists in RxNorm.	200 ML immunoglobulin G, human 100 MG/ML Injection [Octagam]	2026-04-07
+09-0379-04	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698	BROAD	No dose-form or volume-specific branded concept exists in RxNorm.	50 ML immunoglobulin G, human 100 MG/ML Injection [Octagam]	2026-04-07
+09-0379-05	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698	BROAD	No dose-form or volume-specific branded concept exists in RxNorm.	60 ML immunoglobulin G, human 100 MG/ML Injection [Octagam]	2026-04-07
+09-0379-06	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698	BROAD	No dose-form or volume-specific branded concept exists in RxNorm.	200 ML immunoglobulin G, human 100 MG/ML Injection [Octagam]	2026-04-07
+09-0379-07	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698	BROAD	No dose-form or volume-specific branded concept exists in RxNorm.	100 ML immunoglobulin G, human 100 MG/ML Injection [Octagam]	2026-04-07
+09-0379-08	45776829	immunoglobulin G, human 100 MG/ML [Octagam]	1549698	BROAD	No dose-form or volume-specific branded concept exists in RxNorm.	300 ML immunoglobulin G, human 100 MG/ML Injection [Octagam]	2026-04-07

@@ -1,9 +1,9 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-10-0053-01	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-10-0053-02	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040				
-10-0054-01	40165169	pramipexole dihydrochloride 0.5 MG Oral Tablet	859044				
-10-0054-02	40165169	pramipexole dihydrochloride 0.5 MG Oral Tablet	859044				
-10-0055-01	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
-10-0055-02	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052				
-10-0056-01	40165181	pramipexole dihydrochloride 1.5 MG Oral Tablet	859048				
-10-0056-02	40165181	pramipexole dihydrochloride 1.5 MG Oral Tablet	859048				
+10-0053-01	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040	EXACT	0.18 mg base = 0.25 mg dihydrochloride salt		2026-04-07
+10-0053-02	40165165	pramipexole dihydrochloride 0.25 MG Oral Tablet	859040	EXACT	0.18 mg base = 0.25 mg dihydrochloride salt		2026-04-07
+10-0054-01	40165169	pramipexole dihydrochloride 0.5 MG Oral Tablet	859044	EXACT	0.35 mg base = 0.5 mg dihydrochloride salt		2026-04-07
+10-0054-02	40165169	pramipexole dihydrochloride 0.5 MG Oral Tablet	859044	EXACT	0.35 mg base = 0.5 mg dihydrochloride salt		2026-04-07
+10-0055-01	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT	0.7 mg base = 1 mg dihydrochloride salt		2026-04-07
+10-0055-02	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT	0.7 mg base = 1 mg dihydrochloride salt		2026-04-07
+10-0056-01	40165181	pramipexole dihydrochloride 1.5 MG Oral Tablet	859048	EXACT	1.1 mg base = 1.5 mg dihydrochloride salt		2026-04-07
+10-0056-02	40165181	pramipexole dihydrochloride 1.5 MG Oral Tablet	859048	EXACT	1.1 mg base = 1.5 mg dihydrochloride salt		2026-04-07

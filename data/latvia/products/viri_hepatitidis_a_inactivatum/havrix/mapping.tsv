@@ -1,9 +1,9 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-02-0026-03	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146				
-02-0026-04	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146				
-02-0026-05	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146				
-02-0026-06	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146				
-02-0026-07	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146				
-02-0026-08	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146				
-02-0026-09	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146				
-02-0026-10	42903033	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	1360146				
+02-0026-03	42902653	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe	1359766	BROAD	No volume-specific 1 ML concept exists; standard RxNorm unbranded used per rules.	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	2026-04-07
+02-0026-04	42902653	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe	1359766	BROAD	No volume-specific 1 ML concept exists; standard RxNorm unbranded used per rules.	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	2026-04-07
+02-0026-05	42902653	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe	1359766	BROAD	No volume-specific 1 ML concept exists; standard RxNorm unbranded used per rules.	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	2026-04-07
+02-0026-06	42902653	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe	1359766	BROAD	No volume-specific 1 ML concept exists; standard RxNorm unbranded used per rules.	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	2026-04-07
+02-0026-07	42902653	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe	1359766	BROAD	No volume-specific 1 ML concept exists; standard RxNorm unbranded used per rules.	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	2026-04-07
+02-0026-08	42902653	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe	1359766	BROAD	No volume-specific 1 ML concept exists; standard RxNorm unbranded used per rules.	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	2026-04-07
+02-0026-09	42902653	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe	1359766	BROAD	No volume-specific 1 ML concept exists; standard RxNorm unbranded used per rules.	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	2026-04-07
+02-0026-10	42902653	hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe	1359766	BROAD	No volume-specific 1 ML concept exists; standard RxNorm unbranded used per rules.	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	2026-04-07

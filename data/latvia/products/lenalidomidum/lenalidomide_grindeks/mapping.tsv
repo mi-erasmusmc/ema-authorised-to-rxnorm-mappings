@@ -1,15 +1,15 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-19-0135-01	42707968	lenalidomide 2.5 MG Oral Capsule	1242231				
-19-0135-02	42707968	lenalidomide 2.5 MG Oral Capsule	1242231				
-19-0136-01	19122475	lenalidomide 5 MG Oral Capsule	602912				
-19-0136-02	19122475	lenalidomide 5 MG Oral Capsule	602912				
-19-0137-01	21164052	lenalidomide 7.5 MG Oral Capsule	OMOP261819				
-19-0137-02	21164052	lenalidomide 7.5 MG Oral Capsule	OMOP261819				
-19-0138-01	19122473	lenalidomide 10 MG Oral Capsule	602910				
-19-0138-02	19122473	lenalidomide 10 MG Oral Capsule	602910				
-19-0139-01	19026980	lenalidomide 15 MG Oral Capsule	643712				
-19-0139-02	19026980	lenalidomide 15 MG Oral Capsule	643712				
-19-0140-01	43532833	lenalidomide 20 MG Oral Capsule	1428947				
-19-0140-02	43532833	lenalidomide 20 MG Oral Capsule	1428947				
-19-0141-01	19124417	lenalidomide 25 MG Oral Capsule	643720				
-19-0141-02	19124417	lenalidomide 25 MG Oral Capsule	643720				
+19-0135-01	42707968	lenalidomide 2.5 MG Oral Capsule	1242231	EXACT			2026-04-07
+19-0135-02	42707968	lenalidomide 2.5 MG Oral Capsule	1242231	EXACT			2026-04-07
+19-0136-01	19122475	lenalidomide 5 MG Oral Capsule	602912	EXACT			2026-04-07
+19-0136-02	19122475	lenalidomide 5 MG Oral Capsule	602912	EXACT			2026-04-07
+19-0137-01	21164052	lenalidomide 7.5 MG Oral Capsule	OMOP261819	EXACT			2026-04-07
+19-0137-02	21164052	lenalidomide 7.5 MG Oral Capsule	OMOP261819	EXACT			2026-04-07
+19-0138-01	19122473	lenalidomide 10 MG Oral Capsule	602910	EXACT			2026-04-07
+19-0138-02	19122473	lenalidomide 10 MG Oral Capsule	602910	EXACT			2026-04-07
+19-0139-01	19026980	lenalidomide 15 MG Oral Capsule	643712	EXACT			2026-04-07
+19-0139-02	19026980	lenalidomide 15 MG Oral Capsule	643712	EXACT			2026-04-07
+19-0140-01	43532833	lenalidomide 20 MG Oral Capsule	1428947	EXACT			2026-04-07
+19-0140-02	43532833	lenalidomide 20 MG Oral Capsule	1428947	EXACT			2026-04-07
+19-0141-01	19124417	lenalidomide 25 MG Oral Capsule	643720	EXACT			2026-04-07
+19-0141-02	19124417	lenalidomide 25 MG Oral Capsule	643720	EXACT			2026-04-07

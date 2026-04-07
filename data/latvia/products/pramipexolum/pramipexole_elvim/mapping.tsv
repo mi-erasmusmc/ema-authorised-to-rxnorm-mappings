@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-09-0165-01	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591				
-09-0165-02	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591				
-09-0165-03	36065295	pramipexole 0.7 MG Oral Tablet	OMOP4991591				
+09-0165-01	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT	0.7 mg base = 1 mg dihydrochloride salt		2026-04-07
+09-0165-02	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT	0.7 mg base = 1 mg dihydrochloride salt		2026-04-07
+09-0165-03	40165177	pramipexole dihydrochloride 1 MG Oral Tablet	859052	EXACT	0.7 mg base = 1 mg dihydrochloride salt		2026-04-07

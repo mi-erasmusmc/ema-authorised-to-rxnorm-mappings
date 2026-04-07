@@ -1,23 +1,23 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-05-0045-01	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-02	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-03	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-04	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-11	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-05	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-07	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-08	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-06	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-09	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0045-10	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675				
-05-0046-01	753631	propofol 20 MG/ML	385578				
-05-0046-02	753631	propofol 20 MG/ML	385578				
-05-0046-03	753631	propofol 20 MG/ML	385578				
-05-0046-04	753631	propofol 20 MG/ML	385578				
-05-0046-05	753631	propofol 20 MG/ML	385578				
-13-0187-01	40220389	propofol 10 MG/ML Injection	1808220				
-13-0187-02	40220389	propofol 10 MG/ML Injection	1808220				
-13-0187-05	40220389	propofol 10 MG/ML Injection	1808220				
-13-0187-03	40220389	propofol 10 MG/ML Injection	1808220				
-13-0187-04	40220389	propofol 10 MG/ML Injection	1808220				
-13-0188-01	43820942	Propofol 20 MG/ML Prefilled Syringe	OMOP671983				
+05-0045-01	1537217	propofol lipid emulsion 10 MG/ML Injection	2559910	BROAD		20 ML propofol lipid emulsion 10 MG/ML Injection [Propoven]	2026-04-07
+05-0045-02	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-03	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-04	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-05	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-06	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-07	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-08	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-09	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-10	40168828	propofol lipid emulsion 10 MG/ML Injectable Suspension [Propoven]	884675	EXACT			2026-04-07
+05-0045-11	1537217	propofol lipid emulsion 10 MG/ML Injection	2559910	BROAD		20 ML propofol lipid emulsion 10 MG/ML Injection [Propoven]	2026-04-07
+05-0046-01	1537390	propofol lipid emulsion 20 MG/ML [Propoven]	2561287	BROAD		propofol lipid emulsion 20 MG/ML Injectable Suspension [Propoven]	2026-04-07
+05-0046-02	1537390	propofol lipid emulsion 20 MG/ML [Propoven]	2561287	BROAD		propofol lipid emulsion 20 MG/ML Injectable Suspension [Propoven]	2026-04-07
+05-0046-03	1537390	propofol lipid emulsion 20 MG/ML [Propoven]	2561287	BROAD		propofol lipid emulsion 20 MG/ML Injectable Suspension [Propoven]	2026-04-07
+05-0046-04	1537390	propofol lipid emulsion 20 MG/ML [Propoven]	2561287	BROAD		propofol lipid emulsion 20 MG/ML Injectable Suspension [Propoven]	2026-04-07
+05-0046-05	1537390	propofol lipid emulsion 20 MG/ML [Propoven]	2561287	BROAD		propofol lipid emulsion 20 MG/ML Injectable Suspension [Propoven]	2026-04-07
+13-0187-01	1537392	propofol lipid emulsion 10 MG/ML [Propoven]	2561292	BROAD		propofol lipid emulsion 10 MG/ML Prefilled Syringe [Propoven]	2026-04-07
+13-0187-02	1537392	propofol lipid emulsion 10 MG/ML [Propoven]	2561292	BROAD		propofol lipid emulsion 10 MG/ML Prefilled Syringe [Propoven]	2026-04-07
+13-0187-03	1537392	propofol lipid emulsion 10 MG/ML [Propoven]	2561292	BROAD		propofol lipid emulsion 10 MG/ML Prefilled Syringe [Propoven]	2026-04-07
+13-0187-04	1537392	propofol lipid emulsion 10 MG/ML [Propoven]	2561292	BROAD		propofol lipid emulsion 10 MG/ML Prefilled Syringe [Propoven]	2026-04-07
+13-0187-05	1537392	propofol lipid emulsion 10 MG/ML [Propoven]	2561292	BROAD		propofol lipid emulsion 10 MG/ML Prefilled Syringe [Propoven]	2026-04-07
+13-0188-01	1537390	propofol lipid emulsion 20 MG/ML [Propoven]	2561287	BROAD		propofol lipid emulsion 20 MG/ML Prefilled Syringe [Propoven]	2026-04-07

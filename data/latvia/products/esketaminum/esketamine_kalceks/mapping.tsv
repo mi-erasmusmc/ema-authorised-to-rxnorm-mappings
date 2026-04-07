@@ -1,7 +1,8 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-19-0152-01	36811939	esketamine 5 MG/ML Injectable Solution	OMOP4825974				
-19-0152-02	36811939	esketamine 5 MG/ML Injectable Solution	OMOP4825974				
-19-0153-01	36814473	esketamine 25 MG/ML Injectable Solution	OMOP4828513				
-19-0153-02	36814473	esketamine 25 MG/ML Injectable Solution	OMOP4828513				
-19-0153-03	36814473	esketamine 25 MG/ML Injectable Solution	OMOP4828513				
-19-0153-04	36814473	esketamine 25 MG/ML Injectable Solution	OMOP4828513				
+19-0152-01	40743834	Esketamine 5 MG/ML Injectable Solution	OMOP4713212	EXACT			2026-04-07
+19-0152-02	40743834	Esketamine 5 MG/ML Injectable Solution	OMOP4713212	EXACT			2026-04-07
+19-0153-01	40743840	Esketamine 25 MG/ML Injectable Solution	OMOP4713206	EXACT			2026-04-07
+19-0153-02	40743840	Esketamine 25 MG/ML Injectable Solution	OMOP4713206	EXACT			2026-04-07
+19-0153-03	40743840	Esketamine 25 MG/ML Injectable Solution	OMOP4713206	EXACT			2026-04-07
+19-0153-04	40743840	Esketamine 25 MG/ML Injectable Solution	OMOP4713206	EXACT			2026-04-07
+

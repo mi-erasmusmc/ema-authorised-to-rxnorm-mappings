@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-23-0209-01	45775399	nintedanib 100 MG Oral Capsule	1592742				
-23-0210-01	45775405	nintedanib 150 MG Oral Capsule	1592750				
-23-0210-02	45775405	nintedanib 150 MG Oral Capsule	1592750				
+23-0209-01	45775399	nintedanib 100 MG Oral Capsule	1592742	EXACT			2026-04-07
+23-0210-01	45775405	nintedanib 150 MG Oral Capsule	1592750	EXACT			2026-04-07
+23-0210-02	45775405	nintedanib 150 MG Oral Capsule	1592750	EXACT			2026-04-07

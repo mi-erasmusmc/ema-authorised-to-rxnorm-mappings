@@ -1,19 +1,19 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-10-0657-01	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-02	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-03	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-04	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-05	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-06	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-07	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-08	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-09	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-10	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-11	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-12	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-13	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-14	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-15	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-16	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-17	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
-10-0657-18	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061				
+10-0657-01	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-02	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-03	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-04	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-05	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-06	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-07	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-08	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-09	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-10	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-11	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-12	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-13	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-14	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-15	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-16	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-17	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07
+10-0657-18	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm lacks a 165 MG/ML concept; nearest is 160 MG/ML.	immunoglobulin G, human 165 MG/ML Injectable Solution	2026-04-07

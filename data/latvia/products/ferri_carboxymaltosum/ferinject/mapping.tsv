@@ -1,8 +1,8 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-08-0017-01	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063				
-08-0017-03	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063				
-08-0017-05	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063				
-08-0017-02	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063				
-08-0017-04	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063				
-08-0017-06	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063				
-08-0017-07	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063				
+08-0017-01	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD	No volume-specific unbranded standard RxNorm concept exists; Ferinject is EU brand only (US brand is Injectafer).	2 ML ferric carboxymaltose 50 MG/ML Injection	2026-04-07
+08-0017-02	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD	No volume-specific unbranded standard RxNorm concept exists; Ferinject is EU brand only (US brand is Injectafer).	10 ML ferric carboxymaltose 50 MG/ML Injection	2026-04-07
+08-0017-03	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD	No volume-specific unbranded standard RxNorm concept exists; Ferinject is EU brand only (US brand is Injectafer).	2 ML ferric carboxymaltose 50 MG/ML Injection	2026-04-07
+08-0017-04	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD	No volume-specific unbranded standard RxNorm concept exists; Ferinject is EU brand only (US brand is Injectafer).	10 ML ferric carboxymaltose 50 MG/ML Injection	2026-04-07
+08-0017-05	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD	No volume-specific unbranded standard RxNorm concept exists; Ferinject is EU brand only (US brand is Injectafer).	2 ML ferric carboxymaltose 50 MG/ML Injection	2026-04-07
+08-0017-06	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD	No volume-specific unbranded standard RxNorm concept exists; Ferinject is EU brand only (US brand is Injectafer).	10 ML ferric carboxymaltose 50 MG/ML Injection	2026-04-07
+08-0017-07	35605693	ferric carboxymaltose 50 MG/ML Injection	1741063	BROAD	No volume-specific unbranded standard RxNorm concept exists; Ferinject is EU brand only (US brand is Injectafer).	20 ML ferric carboxymaltose 50 MG/ML Injection	2026-04-07
