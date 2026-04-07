@@ -1,9 +1,13 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-24-0194-01	74594927	enzalutamide 40 MG Oral Tablet					
-24-0194-02	74594927	enzalutamide 40 MG Oral Tablet					
-24-0194-03	74594927	enzalutamide 40 MG Oral Tablet					
-24-0194-04	74594927	enzalutamide 40 MG Oral Tablet					
-24-0195-01	72834224	enzalutamide 80 MG Oral Tablet					
-24-0195-02	72834224	enzalutamide 80 MG Oral Tablet					
-24-0195-03	72834224	enzalutamide 80 MG Oral Tablet					
-24-0195-04	72834224	enzalutamide 80 MG Oral Tablet					
+24-0194-01	37002518	enzalutamide 40 MG Oral Tablet	2390644	EXACT			2026-04-07
+24-0194-02	37002518	enzalutamide 40 MG Oral Tablet	2390644	EXACT			2026-04-07
+24-0194-03	37002518	enzalutamide 40 MG Oral Tablet	2390644	EXACT			2026-04-07
+24-0194-04	37002518	enzalutamide 40 MG Oral Tablet	2390644	EXACT			2026-04-07
+24-0195-01	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-04-07
+24-0195-02	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-04-07
+24-0195-03	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-04-07
+24-0195-04	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-04-07
+25-0301-01				NO_MAPPING		enzalutamide 160 MG Oral Tablet	2026-04-07
+25-0301-02				NO_MAPPING		enzalutamide 160 MG Oral Tablet	2026-04-07
+25-0301-03				NO_MAPPING		enzalutamide 160 MG Oral Tablet	2026-04-07
+25-0301-04				NO_MAPPING		enzalutamide 160 MG Oral Tablet	2026-04-07

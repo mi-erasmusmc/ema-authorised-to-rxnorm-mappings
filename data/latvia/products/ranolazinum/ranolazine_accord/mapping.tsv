@@ -1,10 +1,10 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-24-0170-01	21065752	ranolazine 375 MG Extended Release Oral Tablet	OMOP261070				
-24-0170-02	21065752	ranolazine 375 MG Extended Release Oral Tablet	OMOP261070				
-24-0170-03	21065752	ranolazine 375 MG Extended Release Oral Tablet	OMOP261070				
-24-0171-01	1337109	ranolazine 500 MG Extended Release Oral Tablet	616492				
-24-0171-02	1337109	ranolazine 500 MG Extended Release Oral Tablet	616492				
-24-0171-03	1337109	ranolazine 500 MG Extended Release Oral Tablet	616492				
-24-0172-01	21154230	ranolazine 750 MG Extended Release Oral Tablet	OMOP261052				
-24-0172-02	21154230	ranolazine 750 MG Extended Release Oral Tablet	OMOP261052				
-24-0172-03	21154230	ranolazine 750 MG Extended Release Oral Tablet	OMOP261052				
+24-0170-01	21065752	ranolazine 375 MG Extended Release Oral Tablet	OMOP261070	EXACT			2026-04-07
+24-0170-02	21065752	ranolazine 375 MG Extended Release Oral Tablet	OMOP261070	EXACT			2026-04-07
+24-0170-03	21065752	ranolazine 375 MG Extended Release Oral Tablet	OMOP261070	EXACT			2026-04-07
+24-0171-01	1337109	ranolazine 500 MG Extended Release Oral Tablet	616492	EXACT			2026-04-07
+24-0171-02	1337109	ranolazine 500 MG Extended Release Oral Tablet	616492	EXACT			2026-04-07
+24-0171-03	1337109	ranolazine 500 MG Extended Release Oral Tablet	616492	EXACT			2026-04-07
+24-0172-01	21154230	ranolazine 750 MG Extended Release Oral Tablet	OMOP261052	EXACT			2026-04-07
+24-0172-02	21154230	ranolazine 750 MG Extended Release Oral Tablet	OMOP261052	EXACT			2026-04-07
+24-0172-03	21154230	ranolazine 750 MG Extended Release Oral Tablet	OMOP261052	EXACT			2026-04-07

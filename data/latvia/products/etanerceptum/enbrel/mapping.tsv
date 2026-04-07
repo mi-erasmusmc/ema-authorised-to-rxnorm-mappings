@@ -13,7 +13,7 @@ EU/1/99/126/019	46234063	1 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	1653225
 EU/1/99/126/020	46234063	1 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	1653225	EXACT			2026-02-16
 EU/1/99/126/021	46234063	1 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	1653225	EXACT			2026-02-16
 EU/1/99/126/022	35831427	etanercept 10 MG Injection [Enbrel]	OMOP5036790	EXACT	powder+solvent kit reconstituted to 10 mg injection	etanercept 10 MG/ML Injectable Solution [Enbrel]	2026-03-31
-EU/1/99/126/023	36421909	Etanercept 25 MG Auto-Injector [Enbrel]	OMOP4764187	EXACT	pen injector mapped to prefilled syringe to preserve 0.5 ML dose	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-03-31
-EU/1/99/126/024	36421909	Etanercept 25 MG Auto-Injector [Enbrel]	OMOP4764187	EXACT	pen injector mapped to prefilled syringe to preserve 0.5 ML dose	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-03-31
-EU/1/99/126/025	36421909	Etanercept 25 MG Auto-Injector [Enbrel]	OMOP4764187	EXACT	pen injector mapped to prefilled syringe to preserve 0.5 ML dose	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-03-31
-EU/1/99/126/026	19132639	0.5 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	809159	EXACT			2026-02-16
+EU/1/99/126/023	36421909	Etanercept 25 MG Auto-Injector [Enbrel]	OMOP4764187	EXACT	25 mg/0.5 mL pre-filled pen (auto-injector); OMOP extension used as no standard 0.5 ML auto-injector branded concept exists	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-04-07
+EU/1/99/126/024	36421909	Etanercept 25 MG Auto-Injector [Enbrel]	OMOP4764187	EXACT	25 mg/0.5 mL pre-filled pen (auto-injector); OMOP extension used as no standard 0.5 ML auto-injector branded concept exists	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-04-07
+EU/1/99/126/025	36421909	Etanercept 25 MG Auto-Injector [Enbrel]	OMOP4764187	EXACT	25 mg/0.5 mL pre-filled pen (auto-injector); OMOP extension used as no standard 0.5 ML auto-injector branded concept exists	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-04-07
+EU/1/99/126/026	36421909	Etanercept 25 MG Auto-Injector [Enbrel]	OMOP4764187	EXACT	25 mg/0.5 mL pre-filled pen (auto-injector); OMOP extension used as no standard 0.5 ML auto-injector branded concept exists	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-04-07

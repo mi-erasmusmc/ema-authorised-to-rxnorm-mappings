@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/12/787/001	43013173	teduglutide 5 MG Injection	1364472	EXACT			2026-02-17
 EU/1/12/787/002	43013173	teduglutide 5 MG Injection	1364472	EXACT			2026-02-17
-EU/1/12/787/003	35603060	teduglutide Injection	1719758	BROAD	No RxNorm concept found for the 1.25 MG strength presentation.	teduglutide 1.25 MG Injection [Revestive]	2026-03-31
+EU/1/12/787/003	40749413	teduglutide 1.25 MG Injectable Solution	OMOP4707857	EXACT	RxNorm Extension concept; unbranded used as Revestive is EU-only. Injectable Solution dose form covers reconstituted powder for injection per RxNorm definition.		2026-04-07

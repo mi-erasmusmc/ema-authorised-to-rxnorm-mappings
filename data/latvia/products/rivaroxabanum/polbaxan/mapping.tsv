@@ -43,5 +43,4 @@ product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	
 24-0060-09	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
 24-0060-10	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
 24-0060-11	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
-24-0061-01	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-02-17
-24-0061-01	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-02-17
+24-0061-01	45777059	{42 (rivaroxaban 15 MG Oral Tablet) / 9 (rivaroxaban 20 MG Oral Tablet) } Pack	1549682	EXACT	extra two tablets, don't matter, they will continue with 20 MG onwards after initial 42 15 MG tablets		2026-04-07

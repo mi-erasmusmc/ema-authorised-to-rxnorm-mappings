@@ -147,15 +147,43 @@ def main():
     script_dir = Path(__file__).parent
     default_products = script_dir.parent.parent.parent / "data" / "latvia" / "products"
 
-    core.run_validator(
-        id_col="product_id",
-        default_products=default_products,
-        issue_types=core.LATVIA_ISSUE_TYPES,
-        validate_fn=validate_folder,
-        discover_fn=discover_folders,
-        description="Validate Latvia product folders.",
-        suppressions_path_fn=lambda f: f.parent.parent.parent / "suppressions.tsv",
-        display_name_fn=folder_display_name,
+    parser = core.build_argparser("Validate Latvia product folders.", default_products, core.LATVIA_ISSUE_TYPES)
+    args = core.parse_standard_args(parser)
+
+    # Single-folder mode: unchanged behaviour
+    if args.folder:
+        folder = Path(args.folder)
+        suppressions_path = folder.parent.parent.parent / "suppressions.tsv"
+        suppressions = core.load_suppressions(suppressions_path, id_col="product_id")
+        issues = validate_folder(folder, suppressions=suppressions)
+        core.run_single_folder_reporter(folder_display_name(folder), issues, args)
+        return
+
+    products_dir = Path(args.products_dir)
+    if not products_dir.is_dir():
+        print(f"ERROR: {products_dir} not found", file=sys.stderr)
+        sys.exit(1)
+
+    suppressions_path = products_dir.parent / "suppressions.tsv"
+    suppressions = core.load_suppressions(suppressions_path, id_col="product_id")
+
+    # Aggregate issues at ingredient (substance) level
+    substance_issues: dict[Path, list[dict]] = {}
+    for folder in discover_folders(products_dir):
+        issues = validate_folder(folder, suppressions=suppressions)
+        if not issues:
+            continue
+        for issue in issues:
+            issue["product"] = folder.name
+        substance_issues.setdefault(folder.parent, []).extend(issues)
+
+    detail_header = ["product"] + core.DETAIL_HEADER
+
+    core.run_reporter(
+        substance_issues, args, core.LATVIA_ISSUE_TYPES,
+        detail_header=detail_header,
+        sort_key="source_id",
+        display_name_fn=lambda f: f.name,
     )
 
 

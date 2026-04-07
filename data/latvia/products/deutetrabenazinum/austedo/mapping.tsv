@@ -1,0 +1,12 @@
+product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/25/1956/001				NO_MAPPING	EU titration pack (12/12/24/30/36/42/48 mg) has no US RxNorm equivalent; US packs cover different strength sequences.	{7 (deutetrabenazine 12 MG Extended Release Oral Tablet [Austedo]) / 7 (deutetrabenazine 24 MG Extended Release Oral Tablet [Austedo]) / 7 (deutetrabenazine 30 MG Extended Release Oral Tablet [Austedo]) / 7 (deutetrabenazine 36 MG Extended Release Oral Tablet [Austedo]) / 7 (deutetrabenazine 42 MG Extended Release Oral Tablet [Austedo]) / 7 (deutetrabenazine 48 MG Extended Release Oral Tablet [Austedo]) } Pack [Austedo XR Titration Pack]	2026-04-07
+EU/1/25/1956/002	1301730	deutetrabenazine 24 MG Extended Release Oral Tablet [Austedo]	2630154	EXACT			2026-04-07
+EU/1/25/1956/003	1301730	deutetrabenazine 24 MG Extended Release Oral Tablet [Austedo]	2630154	EXACT			2026-04-07
+EU/1/25/1956/004	1734456	deutetrabenazine 30 MG Extended Release Oral Tablet [Austedo]	2683286	EXACT			2026-04-07
+EU/1/25/1956/005	1734456	deutetrabenazine 30 MG Extended Release Oral Tablet [Austedo]	2683286	EXACT			2026-04-07
+EU/1/25/1956/006	1734460	deutetrabenazine 36 MG Extended Release Oral Tablet [Austedo]	2683292	EXACT			2026-04-07
+EU/1/25/1956/007	1734460	deutetrabenazine 36 MG Extended Release Oral Tablet [Austedo]	2683292	EXACT			2026-04-07
+EU/1/25/1956/008	1734464	deutetrabenazine 42 MG Extended Release Oral Tablet [Austedo]	2683298	EXACT			2026-04-07
+EU/1/25/1956/009	1734464	deutetrabenazine 42 MG Extended Release Oral Tablet [Austedo]	2683298	EXACT			2026-04-07
+EU/1/25/1956/010	1734468	deutetrabenazine 48 MG Extended Release Oral Tablet [Austedo]	2683304	EXACT			2026-04-07
+EU/1/25/1956/011	1734468	deutetrabenazine 48 MG Extended Release Oral Tablet [Austedo]	2683304	EXACT			2026-04-07

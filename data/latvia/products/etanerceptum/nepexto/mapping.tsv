@@ -1,9 +1,9 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/20/1436/001	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2026-03-19
-EU/1/20/1436/002	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2026-03-19
-EU/1/20/1436/003	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	EXACT			2026-03-19
-EU/1/20/1436/004	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	EXACT			2026-03-19
-EU/1/20/1436/005	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2026-03-19
-EU/1/20/1436/006	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2026-03-19
-EU/1/20/1436/007	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2026-03-19
-EU/1/20/1436/008	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2026-03-19
+EU/1/20/1436/001	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	0.5 ML etanercept-xxxx 50 MG/ML Prefilled Syringe [Nepexto]	2026-04-07
+EU/1/20/1436/002	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	0.5 ML etanercept-xxxx 50 MG/ML Prefilled Syringe [Nepexto]	2026-04-07
+EU/1/20/1436/003	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	1 ML etanercept-xxxx 50 MG/ML Prefilled Syringe [Nepexto]	2026-04-07
+EU/1/20/1436/004	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	1 ML etanercept-xxxx 50 MG/ML Prefilled Syringe [Nepexto]	2026-04-07
+EU/1/20/1436/005	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	1 ML etanercept-xxxx 50 MG/ML Auto-Injector [Nepexto]	2026-04-07
+EU/1/20/1436/006	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	1 ML etanercept-xxxx 50 MG/ML Auto-Injector [Nepexto]	2026-04-07
+EU/1/20/1436/007	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	0.5 ML etanercept-xxxx 50 MG/ML Prefilled Syringe [Nepexto]	2026-04-07
+EU/1/20/1436/008	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	0.5 ML etanercept-xxxx 50 MG/ML Prefilled Syringe [Nepexto]	2026-04-07
