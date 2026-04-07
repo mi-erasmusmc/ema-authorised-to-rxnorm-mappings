@@ -1,12 +1,12 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0796-01							
-00-0796-02							
-00-0796-03							
-00-0796-04							
-00-0796-05							
-00-0796-06							
-00-0796-07							
-14-0186-01							
-14-0186-02							
-14-0186-03							
-14-0186-04							
+00-0796-01	19107505	benphothiamine 50 MG Oral Tablet	432623	EXACT			2026-04-07
+00-0796-02	19107505	benphothiamine 50 MG Oral Tablet	432623	EXACT			2026-04-07
+00-0796-03	19107505	benphothiamine 50 MG Oral Tablet	432623	EXACT			2026-04-07
+00-0796-04	19107505	benphothiamine 50 MG Oral Tablet	432623	EXACT			2026-04-07
+00-0796-05	19107505	benphothiamine 50 MG Oral Tablet	432623	EXACT			2026-04-07
+00-0796-06	19107505	benphothiamine 50 MG Oral Tablet	432623	EXACT			2026-04-07
+00-0796-07	19107505	benphothiamine 50 MG Oral Tablet	432623	EXACT			2026-04-07
+14-0186-01	19111703	benphothiamine 300 MG	451249	BROAD	RxNorm lacks a 300 MG oral tablet concept; the closest concept preserves the strength only.	benphothiamine 300 MG Oral Tablet	2026-04-07
+14-0186-02	19111703	benphothiamine 300 MG	451249	BROAD	RxNorm lacks a 300 MG oral tablet concept; the closest concept preserves the strength only.	benphothiamine 300 MG Oral Tablet	2026-04-07
+14-0186-03	19111703	benphothiamine 300 MG	451249	BROAD	RxNorm lacks a 300 MG oral tablet concept; the closest concept preserves the strength only.	benphothiamine 300 MG Oral Tablet	2026-04-07
+14-0186-04	19111703	benphothiamine 300 MG	451249	BROAD	RxNorm lacks a 300 MG oral tablet concept; the closest concept preserves the strength only.	benphothiamine 300 MG Oral Tablet	2026-04-07

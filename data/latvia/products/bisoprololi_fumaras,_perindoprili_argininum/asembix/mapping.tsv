@@ -1,29 +1,29 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-15-0320-01							
-15-0320-02							
-15-0320-03							
-15-0320-04							
-15-0320-05							
-15-0320-06							
-15-0320-07							
-15-0321-01							
-15-0321-02							
-15-0321-03							
-15-0321-04							
-15-0321-05							
-15-0321-06							
-15-0321-07							
-15-0322-01							
-15-0322-02							
-15-0322-03							
-15-0322-04							
-15-0322-05							
-15-0322-06							
-15-0322-07							
-15-0323-01							
-15-0323-02							
-15-0323-03							
-15-0323-04							
-15-0323-05							
-15-0323-06							
-15-0323-07							
+15-0320-01	36257254	Bisoprolol 10 MG / Perindopril 10 MG Oral Tablet	OMOP3108129	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0320-02	36257254	Bisoprolol 10 MG / Perindopril 10 MG Oral Tablet	OMOP3108129	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0320-03	36257254	Bisoprolol 10 MG / Perindopril 10 MG Oral Tablet	OMOP3108129	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0320-04	36257254	Bisoprolol 10 MG / Perindopril 10 MG Oral Tablet	OMOP3108129	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0320-05	36257254	Bisoprolol 10 MG / Perindopril 10 MG Oral Tablet	OMOP3108129	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0320-06	36257254	Bisoprolol 10 MG / Perindopril 10 MG Oral Tablet	OMOP3108129	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0320-07	36257254	Bisoprolol 10 MG / Perindopril 10 MG Oral Tablet	OMOP3108129	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0321-01	36262323	Bisoprolol 10 MG / Perindopril 5 MG Oral Tablet	OMOP3113198	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0321-02	36262323	Bisoprolol 10 MG / Perindopril 5 MG Oral Tablet	OMOP3113198	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0321-03	36262323	Bisoprolol 10 MG / Perindopril 5 MG Oral Tablet	OMOP3113198	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0321-04	36262323	Bisoprolol 10 MG / Perindopril 5 MG Oral Tablet	OMOP3113198	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0321-05	36262323	Bisoprolol 10 MG / Perindopril 5 MG Oral Tablet	OMOP3113198	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0321-06	36262323	Bisoprolol 10 MG / Perindopril 5 MG Oral Tablet	OMOP3113198	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0321-07	36262323	Bisoprolol 10 MG / Perindopril 5 MG Oral Tablet	OMOP3113198	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0322-01	36272540	Bisoprolol 5 MG / Perindopril 10 MG Oral Tablet	OMOP3123415	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0322-02	36272540	Bisoprolol 5 MG / Perindopril 10 MG Oral Tablet	OMOP3123415	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0322-03	36272540	Bisoprolol 5 MG / Perindopril 10 MG Oral Tablet	OMOP3123415	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0322-04	36272540	Bisoprolol 5 MG / Perindopril 10 MG Oral Tablet	OMOP3123415	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0322-05	36272540	Bisoprolol 5 MG / Perindopril 10 MG Oral Tablet	OMOP3123415	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0322-06	36272540	Bisoprolol 5 MG / Perindopril 10 MG Oral Tablet	OMOP3123415	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0322-07	36272540	Bisoprolol 5 MG / Perindopril 10 MG Oral Tablet	OMOP3123415	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0323-01	36262321	Bisoprolol 5 MG / Perindopril 5 MG Oral Tablet	OMOP3113196	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0323-02	36262321	Bisoprolol 5 MG / Perindopril 5 MG Oral Tablet	OMOP3113196	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0323-03	36262321	Bisoprolol 5 MG / Perindopril 5 MG Oral Tablet	OMOP3113196	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0323-04	36262321	Bisoprolol 5 MG / Perindopril 5 MG Oral Tablet	OMOP3113196	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0323-05	36262321	Bisoprolol 5 MG / Perindopril 5 MG Oral Tablet	OMOP3113196	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0323-06	36262321	Bisoprolol 5 MG / Perindopril 5 MG Oral Tablet	OMOP3113196	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07
+15-0323-07	36262321	Bisoprolol 5 MG / Perindopril 5 MG Oral Tablet	OMOP3113196	EXACT	Bisoprolol fumarate and perindopril arginine correspond clinically to the bisoprolol/perindopril salt-normalized combo concept in RxNorm Extension.		2026-04-07

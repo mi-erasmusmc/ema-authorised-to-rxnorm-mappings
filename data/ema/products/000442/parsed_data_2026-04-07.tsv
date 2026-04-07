@@ -1,0 +1,16 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/02/234/001	EMEA/H/C/000442	40 iu/ml	Suspension for injection	Subcutaneous use	Vial (glass)	10 ml (1.4 mg/ml)	1 vial	Protaphane
+EU/1/02/234/002	EMEA/H/C/000442	40 iu/ml	Suspension for injection	Subcutaneous use	Vial (glass)	10 ml (1.4 mg/ml)	5 vials	Protaphane
+EU/1/02/234/003	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Vial (glass)	10 ml (3.5 mg/ml)	1 vial	Protaphane
+EU/1/02/234/004	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Vial (glass)	10 ml (3.5 mg/ml)	5 vials	Protaphane
+EU/1/02/234/005	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass)	3 ml (3.5 mg/ml)	1 cartridge	Protaphane Penfill
+EU/1/02/234/006	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass)	3 ml (3.5 mg/ml)	5 cartridges	Protaphane Penfill
+EU/1/02/234/007	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass)	3 ml (3.5 mg/ml)	10 cartridges	Protaphane Penfill
+EU/1/02/234/010	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass) in pre-filled pen	3 ml (3.5 mg/ml)	1 pre-filled pen	Protaphane InnoLet
+EU/1/02/234/011	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass) in pre-filled pen	3 ml (3.5 mg/ml)	5 pre-filled pens	Protaphane InnoLet
+EU/1/02/234/012	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass) in pre-filled pen	3 ml (3.5 mg/ml)	10 pre-filled pens	Protaphane InnoLet
+EU/1/02/234/013	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass) in pre-filled pen	3 ml (3.5 mg/ml)	1 pre-filled pen	Protaphane FlexPen
+EU/1/02/234/014	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass) in pre-filled pen	3 ml (3.5 mg/ml)	5 pre-filled pens	Protaphane FlexPen
+EU/1/02/234/015	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Cartridge (glass) in pre-filled pen	3 ml (3.5 mg/ml)	10 pre-filled pens	Protaphane FlexPen
+EU/1/02/234/016	EMEA/H/C/000442	40 iu/ml	Suspension for injection	Subcutaneous use	Vial (glass)	10 ml (1.4 mg/ml)	5 (5 x 1) vials (multipack)	Protaphane
+EU/1/02/234/017	EMEA/H/C/000442	100 iu/ml	Suspension for injection	Subcutaneous use	Vial (glass)	10 ml (3.5 mg/ml)	5 (5 x 1) vials (multipack)	Protaphane

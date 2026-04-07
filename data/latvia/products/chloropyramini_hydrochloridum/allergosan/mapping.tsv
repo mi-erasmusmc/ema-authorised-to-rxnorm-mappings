@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-05-0278-01							
-06-0039-01							
-06-0039-02							
+05-0278-01				NO_MAPPING		chloropyramine 0.01 MG/MG Topical Cream	2026-04-07
+06-0039-01	19049439	chloropyramine 10 MG/ML Injectable Solution	246126	BROAD	RxNorm lacks the single-use ampoule injection presentation; the closest concept is the multi-use injectable solution.	2 ML chloropyramine 10 MG/ML Injection	2026-04-07
+06-0039-02	19049439	chloropyramine 10 MG/ML Injectable Solution	246126	BROAD	RxNorm lacks the single-use ampoule injection presentation; the closest concept is the multi-use injectable solution.	2 ML chloropyramine 10 MG/ML Injection	2026-04-07

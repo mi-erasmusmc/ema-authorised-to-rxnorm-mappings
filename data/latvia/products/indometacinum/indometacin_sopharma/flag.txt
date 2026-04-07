@@ -1,1 +1,1 @@
-No RxNorm concept for indomethacin topical ointment at 100 mg/g (0.1 MG/MG). RxNorm has indomethacin in cream, gel, solution, and spray forms but not ointment (only a combination indomethacin/polidocanol ointment exists). Suggestion added for ideal concept name.
+No RxNorm or clean RxNorm Extension concept matches indomethacin topical ointment at 100 mg/g (0.1 MG/MG). Available ointment concepts are unspecified strength or different strengths such as 0.01 MG/MG, 0.04 MG/MG, 10 MG/ML, and combination products, so the row remains NO_MAPPING with an ideal suggestion.

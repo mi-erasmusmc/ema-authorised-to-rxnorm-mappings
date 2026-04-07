@@ -1,37 +1,37 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-14-0057-01							
-14-0057-02							
-14-0057-03							
-14-0057-04							
-14-0057-05							
-14-0057-06							
-14-0057-07							
-14-0057-08							
-14-0057-09							
-14-0058-01							
-14-0058-02							
-14-0058-03							
-14-0058-04							
-14-0058-05							
-14-0058-06							
-14-0058-07							
-14-0058-08							
-14-0058-09							
-14-0059-01							
-14-0059-02							
-14-0059-03							
-14-0059-04							
-14-0059-05							
-14-0059-06							
-14-0059-07							
-14-0059-08							
-14-0059-09							
-14-0060-01							
-14-0060-02							
-14-0060-03							
-14-0060-04							
-14-0060-05							
-14-0060-06							
-14-0060-07							
-14-0060-08							
-14-0060-09							
+14-0057-01	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0057-02	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0057-03	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0057-04	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0057-05	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0057-06	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0057-07	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0057-08	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0057-09	36257299	Amlodipine 5 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3108174	EXACT			2026-04-07
+14-0058-01	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0058-02	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0058-03	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0058-04	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0058-05	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0058-06	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0058-07	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0058-08	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0058-09	36275158	Amlodipine 10 MG / Indapamide 1.25 MG / Perindopril 5 MG Oral Tablet	OMOP3126033	EXACT			2026-04-07
+14-0059-01	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0059-02	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0059-03	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0059-04	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0059-05	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0059-06	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0059-07	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0059-08	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0059-09	36270031	Amlodipine 5 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3120906	EXACT			2026-04-07
+14-0060-01	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07
+14-0060-02	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07
+14-0060-03	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07
+14-0060-04	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07
+14-0060-05	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07
+14-0060-06	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07
+14-0060-07	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07
+14-0060-08	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07
+14-0060-09	36257296	Amlodipine 10 MG / Indapamide 2.5 MG / Perindopril 10 MG Oral Tablet	OMOP3108171	EXACT			2026-04-07

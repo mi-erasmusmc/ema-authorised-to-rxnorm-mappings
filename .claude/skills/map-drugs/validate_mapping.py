@@ -201,6 +201,15 @@ def validate_file(path: str) -> list[tuple[str, str]]:
                         f"  {line}: last_updated_date '{date}' is not YYYY-MM-DD"
                     ))
 
+                # fields must not be whitespace-only; use empty string to represent null
+                for col, val in row.items():
+                    if val and not val.strip():
+                        errors.append((
+                            "WHITESPACE_FIELD",
+                            f"  {line}: column '{col}' contains only whitespace; "
+                            f"use empty string for null"
+                        ))
+
                 # concept_id: number or empty
                 cid = row.get("concept_id", "").strip()
                 if cid and not cid.isdigit():
