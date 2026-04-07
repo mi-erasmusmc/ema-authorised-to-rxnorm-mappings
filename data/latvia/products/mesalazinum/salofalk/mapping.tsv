@@ -1,43 +1,43 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-10-0300-01	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-10-0300-02	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-10-0300-03	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-10-0300-04	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-10-0300-05	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-10-0300-06	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-10-0300-07	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-99-0382-01	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054				
-99-0382-02	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054				
-99-0383-01	968429	mesalamine 500 MG Rectal Suppository	197932				
-99-0383-02	968429	mesalamine 500 MG Rectal Suppository	197932				
-99-0383-03	968429	mesalamine 500 MG Rectal Suppository	197932				
-99-0935-01	968464	mesalamine 66.7 MG/ML Enema	238151				
-13-0203-01							
-13-0203-02							
-13-0203-03							
-13-0204-01							
-13-0204-02							
-13-0204-03							
-13-0204-04							
-13-0204-05							
-13-0205-01							
-13-0205-02							
-13-0205-03							
-13-0205-04							
-13-0205-05							
-13-0205-06							
-13-0205-07							
-13-0205-08							
-13-0205-09							
-13-0205-10							
-13-0206-01							
-13-0206-02							
-13-0206-03							
-13-0206-04							
-13-0206-05							
-13-0206-06							
-13-0206-07							
-13-0206-08							
-I001586-01							
-I001641-01							
-I001816-01	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054				2026-02-17
+10-0300-01	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+10-0300-02	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+10-0300-03	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+10-0300-04	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+10-0300-05	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+10-0300-06	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+10-0300-07	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+13-0203-01	43261733	mesalamine 500 MG Oral Granules [Salofalk]	OMOP537963	EXACT			2026-04-07
+13-0203-02	43261733	mesalamine 500 MG Oral Granules [Salofalk]	OMOP537963	EXACT			2026-04-07
+13-0203-03	43261733	mesalamine 500 MG Oral Granules [Salofalk]	OMOP537963	EXACT			2026-04-07
+13-0204-01	43261732	mesalamine 1000 MG Oral Granules [Salofalk]	OMOP537955	EXACT			2026-04-07
+13-0204-02	43261732	mesalamine 1000 MG Oral Granules [Salofalk]	OMOP537955	EXACT			2026-04-07
+13-0204-03	43261732	mesalamine 1000 MG Oral Granules [Salofalk]	OMOP537955	EXACT			2026-04-07
+13-0204-04	43261732	mesalamine 1000 MG Oral Granules [Salofalk]	OMOP537955	EXACT			2026-04-07
+13-0204-05	43261732	mesalamine 1000 MG Oral Granules [Salofalk]	OMOP537955	EXACT			2026-04-07
+13-0205-01	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-02	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-03	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-04	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-05	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-06	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-07	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-08	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-09	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0205-10	43256419	mesalamine 1500 MG Oral Granules [Salofalk]	OMOP537943	EXACT			2026-04-07
+13-0206-01	43256420	mesalamine 3000 MG Oral Granules [Salofalk]	OMOP537949	EXACT			2026-04-07
+13-0206-02	43256420	mesalamine 3000 MG Oral Granules [Salofalk]	OMOP537949	EXACT			2026-04-07
+13-0206-03	43256420	mesalamine 3000 MG Oral Granules [Salofalk]	OMOP537949	EXACT			2026-04-07
+13-0206-04	43256420	mesalamine 3000 MG Oral Granules [Salofalk]	OMOP537949	EXACT			2026-04-07
+13-0206-05	43256420	mesalamine 3000 MG Oral Granules [Salofalk]	OMOP537949	EXACT			2026-04-07
+13-0206-06	43256420	mesalamine 3000 MG Oral Granules [Salofalk]	OMOP537949	EXACT			2026-04-07
+13-0206-07	43256420	mesalamine 3000 MG Oral Granules [Salofalk]	OMOP537949	EXACT			2026-04-07
+13-0206-08	43256420	mesalamine 3000 MG Oral Granules [Salofalk]	OMOP537949	EXACT			2026-04-07
+99-0382-01	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054	EXACT			2026-04-07
+99-0382-02	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054	EXACT			2026-04-07
+99-0383-01	968429	mesalamine 500 MG Rectal Suppository	197932	EXACT			2026-04-07
+99-0383-02	968429	mesalamine 500 MG Rectal Suppository	197932	EXACT			2026-04-07
+99-0383-03	968429	mesalamine 500 MG Rectal Suppository	197932	EXACT			2026-04-07
+99-0935-01	968464	mesalamine 66.7 MG/ML Enema	238151	EXACT			2026-04-07
+I001586-01	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054	EXACT			2026-04-07
+I001641-01	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054	EXACT			2026-04-07
+I001816-01	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054	EXACT			2026-04-07

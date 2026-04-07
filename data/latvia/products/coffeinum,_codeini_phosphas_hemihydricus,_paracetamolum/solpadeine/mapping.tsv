@@ -1,2 +1,2 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-I001667-01							
+I001667-01	44818282	acetaminophen 500 MG / codeine phosphate 8 MG Effervescent Oral Tablet	1536457	BROAD	Caffeine 30 mg component absent from RxNorm concept; EU brand with no US equivalent.	acetaminophen 500 MG / caffeine 30 MG / codeine phosphate 8 MG Effervescent Oral Tablet [Solpadeine]	2026-04-07

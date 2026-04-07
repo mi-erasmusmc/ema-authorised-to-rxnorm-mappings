@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-20-0016-01	1361178	ibuprofen 4 MG/ML Injection	2178276				
-20-0016-02	1361178	ibuprofen 4 MG/ML Injection	2178276				
-17-0102-01							
-17-0102-02							
-17-0110-01							
-17-0110-02							
+17-0102-01	1361178	ibuprofen 4 MG/ML Injection	2178276	BROAD		100 ML ibuprofen 4 MG/ML Injection	2026-04-06
+17-0102-02	1361178	ibuprofen 4 MG/ML Injection	2178276	BROAD		100 ML ibuprofen 4 MG/ML Injection	2026-04-06
+17-0110-01	994549	Ibuprofen 6 MG/ML Injectable Solution	OMOP4821063	EXACT			2026-04-06
+17-0110-02	994549	Ibuprofen 6 MG/ML Injectable Solution	OMOP4821063	EXACT			2026-04-06
+20-0016-01	1361178	ibuprofen 4 MG/ML Injection	2178276	BROAD		50 ML ibuprofen 4 MG/ML Injection	2026-04-06
+20-0016-02	1361178	ibuprofen 4 MG/ML Injection	2178276	BROAD		50 ML ibuprofen 4 MG/ML Injection	2026-04-06

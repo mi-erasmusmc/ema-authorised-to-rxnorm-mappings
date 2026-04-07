@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-21-0187-01							
-21-0188-01							
-21-0189-01							
-21-0190-01							
-21-0191-01							
+21-0187-01	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT			2026-04-07
+21-0188-01	19059823	cholecalciferol 0.025 MG Oral Capsule	245500	EXACT			2026-04-07
+21-0189-01	19131640	cholecalciferol 0.05 MG Oral Capsule	804146	EXACT			2026-04-07
+21-0190-01				NO_MAPPING		cholecalciferol 6000 UNT Oral Capsule	2026-04-07
+21-0191-01	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-04-07

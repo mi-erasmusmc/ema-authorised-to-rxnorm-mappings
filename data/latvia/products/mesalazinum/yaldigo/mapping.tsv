@@ -1,9 +1,9 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-21-0007-01	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-21-0007-02	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-21-0007-03	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-21-0007-04	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-21-0007-05	19061326	mesalamine 1000 MG Rectal Suppository	248420				
-18-0046-01							
-18-0046-02							
-18-0046-03							
+18-0046-01	1234754	mesalamine 1600 MG Extended Release Oral Tablet [Yaldigo]	OMOP5215457	EXACT			2026-04-07
+18-0046-02	1234754	mesalamine 1600 MG Extended Release Oral Tablet [Yaldigo]	OMOP5215457	EXACT			2026-04-07
+18-0046-03	1234754	mesalamine 1600 MG Extended Release Oral Tablet [Yaldigo]	OMOP5215457	EXACT			2026-04-07
+21-0007-01	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+21-0007-02	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+21-0007-03	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+21-0007-04	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07
+21-0007-05	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-04-07

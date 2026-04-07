@@ -1,26 +1,26 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0244-01							
-00-0244-02							
-00-0244-03							
-00-0244-04							
-00-0244-05							
-00-0244-06							
-00-0244-07							
-00-0244-08							
-00-0244-09							
-00-0245-01							
-00-0245-02							
-00-0245-03							
-00-0245-04							
-00-0245-05							
-00-0245-06							
-00-0245-07							
-00-0245-08							
-00-0245-09							
-I000113-01							
-I000113-02							
-I000114-01							
-I000114-02							
-I000770-01							
-I000770-02							
-I001714-01							
+00-0244-01	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0244-02	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0244-03	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0244-04	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0244-05	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0244-06	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0244-07	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0244-08	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0244-09	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+00-0245-01	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+00-0245-02	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+00-0245-03	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+00-0245-04	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+00-0245-05	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+00-0245-06	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+00-0245-07	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+00-0245-08	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+00-0245-09	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+I000113-01	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+I000113-02	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+I000114-01	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+I000114-02	40822665	Methylprednisolone 0.001 MG/MG Topical Ointment	OMOP2020627	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical ointment.	methylprednisolone aceponate 0.001 MG/MG Topical Ointment [Advantan]	2026-04-06
+I000770-01	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+I000770-02	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06
+I001714-01	40835197	Methylprednisolone 0.001 MG/MG Topical Cream	OMOP2033159	BROAD	RxNorm has no methylprednisolone aceponate ester concept; mapping to unbranded methylprednisolone 0.001 MG/MG topical cream.	methylprednisolone aceponate 0.001 MG/MG Topical Cream [Advantan]	2026-04-06

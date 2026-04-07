@@ -1,14 +1,14 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-18-0052-01							
-18-0052-02							
-18-0052-03							
-18-0052-04							
-18-0052-05							
-20-0159-01							
-20-0159-02							
-20-0159-03							
-20-0159-04							
-20-0160-01							
-20-0160-02							
-20-0160-03							
-20-0160-04							
+18-0052-01	21031321	Cholecalciferol 25000 UNT/ML Oral Solution	OMOP316699	EXACT			2026-04-07
+18-0052-02	21031321	Cholecalciferol 25000 UNT/ML Oral Solution	OMOP316699	EXACT			2026-04-07
+18-0052-03	21031321	Cholecalciferol 25000 UNT/ML Oral Solution	OMOP316699	EXACT			2026-04-07
+18-0052-04	21031321	Cholecalciferol 25000 UNT/ML Oral Solution	OMOP316699	EXACT			2026-04-07
+18-0052-05	21031321	Cholecalciferol 25000 UNT/ML Oral Solution	OMOP316699	EXACT			2026-04-07
+20-0159-01	36059373	cholecalciferol 50000 UNT/ML Oral Solution	OMOP4985092	EXACT			2026-04-07
+20-0159-02	36059373	cholecalciferol 50000 UNT/ML Oral Solution	OMOP4985092	EXACT			2026-04-07
+20-0159-03	36059373	cholecalciferol 50000 UNT/ML Oral Solution	OMOP4985092	EXACT			2026-04-07
+20-0159-04	36059373	cholecalciferol 50000 UNT/ML Oral Solution	OMOP4985092	EXACT			2026-04-07
+20-0160-01	36880158	Cholecalciferol 100000 UNT/ML Oral Solution	OMOP988779	EXACT			2026-04-07
+20-0160-02	36880158	Cholecalciferol 100000 UNT/ML Oral Solution	OMOP988779	EXACT			2026-04-07
+20-0160-03	36880158	Cholecalciferol 100000 UNT/ML Oral Solution	OMOP988779	EXACT			2026-04-07
+20-0160-04	36880158	Cholecalciferol 100000 UNT/ML Oral Solution	OMOP988779	EXACT			2026-04-07

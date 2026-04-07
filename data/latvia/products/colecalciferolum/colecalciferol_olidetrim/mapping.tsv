@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-23-0072-01	19126425	cholecalciferol 1.25 MG Oral Capsule	705728				
-23-0071-01							
-23-0071-02							
-23-0071-03							
+23-0071-01	21168876	Cholecalciferol 20000 UNT Oral Capsule	OMOP310636	EXACT			2026-04-07
+23-0071-02	21168876	Cholecalciferol 20000 UNT Oral Capsule	OMOP310636	EXACT			2026-04-07
+23-0071-03	21168876	Cholecalciferol 20000 UNT Oral Capsule	OMOP310636	EXACT			2026-04-07
+23-0072-01	19126425	cholecalciferol 1.25 MG Oral Capsule	705728	EXACT			2026-04-07

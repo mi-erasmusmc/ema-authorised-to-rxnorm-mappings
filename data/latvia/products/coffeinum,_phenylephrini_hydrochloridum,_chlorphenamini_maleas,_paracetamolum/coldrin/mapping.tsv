@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0599-01							
-00-0599-02							
+00-0599-01	40003525	acetaminophen / caffeine / chlorpheniramine / phenylephrine Oral Tablet	378119	BROAD	Strength not specified in source data; local Latvian product with no US equivalent. Dose form differs (film-coated vs oral tablet).	acetaminophen / caffeine / chlorpheniramine / phenylephrine Film Coated Oral Tablet [Coldrin]	2026-04-07
+00-0599-02	40003525	acetaminophen / caffeine / chlorpheniramine / phenylephrine Oral Tablet	378119	BROAD	Strength not specified in source data; local Latvian product with no US equivalent. Dose form differs (film-coated vs oral tablet).	acetaminophen / caffeine / chlorpheniramine / phenylephrine Film Coated Oral Tablet [Coldrin]	2026-04-07

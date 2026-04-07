@@ -1,7 +1,7 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-06-0163-02	1559853	desmopressin acetate 0.0553 MG Sublingual Tablet	2048720				
-06-0163-03	1559853	desmopressin acetate 0.0553 MG Sublingual Tablet	2048720				
-06-0164-02							
-06-0164-03							
-06-0165-02							
-06-0165-03							
+06-0163-02	44045827	desmopressin 0.06 MG Sublingual Tablet	OMOP1040458	EXACT			2026-04-06
+06-0163-03	44045827	desmopressin 0.06 MG Sublingual Tablet	OMOP1040458	EXACT			2026-04-06
+06-0164-02	44097471	desmopressin 0.12 MG Sublingual Tablet	OMOP1092102	EXACT			2026-04-06
+06-0164-03	44097471	desmopressin 0.12 MG Sublingual Tablet	OMOP1092102	EXACT			2026-04-06
+06-0165-02	44123519	desmopressin 0.24 MG Sublingual Tablet	OMOP1118150	EXACT			2026-04-06
+06-0165-03	44123519	desmopressin 0.24 MG Sublingual Tablet	OMOP1118150	EXACT			2026-04-06

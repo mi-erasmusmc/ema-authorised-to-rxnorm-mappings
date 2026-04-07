@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-04-0434-01	19024892	mesalamine 500 MG Rectal Suppository [Asacol]	201253				
-04-0435-01							
-04-0435-02							
-05-0531-01							
-05-0531-02							
+04-0434-01	19024892	mesalamine 500 MG Rectal Suppository [Asacol]	201253	EXACT			2026-04-07
+04-0435-01	19003394	mesalamine 400 MG Delayed Release Oral Tablet [Asacol]	104112	EXACT			2026-04-07
+04-0435-02	19003394	mesalamine 400 MG Delayed Release Oral Tablet [Asacol]	104112	EXACT			2026-04-07
+05-0531-01	968668	mesalamine 800 MG Delayed Release Oral Tablet [Asacol]	849383	EXACT			2026-04-07
+05-0531-02	968668	mesalamine 800 MG Delayed Release Oral Tablet [Asacol]	849383	EXACT			2026-04-07

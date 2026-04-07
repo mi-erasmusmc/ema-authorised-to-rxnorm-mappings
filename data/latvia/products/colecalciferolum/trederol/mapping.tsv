@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-22-0141-01							
-22-0141-02							
-22-0142-01							
-22-0142-02							
-22-0142-03							
+22-0141-01	35885941	cholecalciferol 10000 UNT Oral Tablet	OMOP5033253	EXACT			2026-04-07
+22-0141-02	35885941	cholecalciferol 10000 UNT Oral Tablet	OMOP5033253	EXACT			2026-04-07
+22-0142-01	21100080	Cholecalciferol 20000 UNT Oral Tablet	OMOP311848	EXACT			2026-04-07
+22-0142-02	21100080	Cholecalciferol 20000 UNT Oral Tablet	OMOP311848	EXACT			2026-04-07
+22-0142-03	21100080	Cholecalciferol 20000 UNT Oral Tablet	OMOP311848	EXACT			2026-04-07

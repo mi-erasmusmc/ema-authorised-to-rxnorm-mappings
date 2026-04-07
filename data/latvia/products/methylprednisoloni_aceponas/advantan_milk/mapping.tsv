@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-04-0250-01							
-04-0250-02							
+04-0250-01	43515969	Methylprednisolone 0.001 MG/MG Topical Lotion	OMOP2803084	BROAD	RxNorm has no methylprednisolone aceponate ester concept and no cutaneous emulsion dose form; closest is unbranded methylprednisolone 0.001 MG/MG Topical Lotion.	methylprednisolone aceponate 0.001 MG/MG Topical Lotion [Advantan]	2026-04-07
+04-0250-02	43515969	Methylprednisolone 0.001 MG/MG Topical Lotion	OMOP2803084	BROAD	RxNorm has no methylprednisolone aceponate ester concept and no cutaneous emulsion dose form; closest is unbranded methylprednisolone 0.001 MG/MG Topical Lotion.	methylprednisolone aceponate 0.001 MG/MG Topical Lotion [Advantan]	2026-04-07

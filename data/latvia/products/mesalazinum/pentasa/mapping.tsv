@@ -1,11 +1,11 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-97-0616-01	19024817	mesalamine 1000 MG Rectal Suppository [Pentasa]	201226				
-98-0118-01	19064967	mesalamine 500 MG Extended Release Oral Tablet	252208				
-10-0562-01							
-10-0562-02							
-10-0562-03							
-10-0562-04							
-10-0563-01							
-10-0563-02							
-10-0563-03							
-24-0125-01							
+10-0562-01	43294385	mesalamine 1000 MG Oral Granules [Pentasa]	OMOP537956	EXACT			2026-04-07
+10-0562-02	43294385	mesalamine 1000 MG Oral Granules [Pentasa]	OMOP537956	EXACT			2026-04-07
+10-0562-03	43294385	mesalamine 1000 MG Oral Granules [Pentasa]	OMOP537956	EXACT			2026-04-07
+10-0562-04	43294385	mesalamine 1000 MG Oral Granules [Pentasa]	OMOP537956	EXACT			2026-04-07
+10-0563-01	43168848	mesalamine 2000 MG Oral Granules [Pentasa]	OMOP456011	EXACT			2026-04-07
+10-0563-02	43168848	mesalamine 2000 MG Oral Granules [Pentasa]	OMOP456011	EXACT			2026-04-07
+10-0563-03	43168848	mesalamine 2000 MG Oral Granules [Pentasa]	OMOP456011	EXACT			2026-04-07
+24-0125-01	43516067	mesalamine 4000 MG Oral Granules [Pentasa]	OMOP2803182	EXACT			2026-04-07
+97-0616-01	19024817	mesalamine 1000 MG Rectal Suppository [Pentasa]	201226	EXACT			2026-04-07
+98-0118-01	19064967	mesalamine 500 MG Extended Release Oral Tablet	252208	EXACT			2026-04-07
