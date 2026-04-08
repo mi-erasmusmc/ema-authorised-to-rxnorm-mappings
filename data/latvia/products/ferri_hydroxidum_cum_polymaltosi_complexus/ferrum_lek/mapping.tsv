@@ -1,10 +1,10 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0093-01							
-00-0093-02							
-00-0093-03							
-00-0093-04							
-00-0093-05							
-00-0093-06							
-00-0561-01							
-I001088-01							
-I001647-01							
+00-0093-01				NO_MAPPING	RxNorm lacks a strength-matched chewable tablet concept for ferric hydroxide polymaltose complex.	ferric hydroxide polymaltose complex 100 MG Chewable Tablet [Ferrum Lek]	2026-04-08
+00-0093-02				NO_MAPPING	RxNorm lacks a strength-matched chewable tablet concept for ferric hydroxide polymaltose complex.	ferric hydroxide polymaltose complex 100 MG Chewable Tablet [Ferrum Lek]	2026-04-08
+00-0093-03				NO_MAPPING	RxNorm lacks a strength-matched chewable tablet concept for ferric hydroxide polymaltose complex.	ferric hydroxide polymaltose complex 100 MG Chewable Tablet [Ferrum Lek]	2026-04-08
+00-0093-04				NO_MAPPING	RxNorm lacks a strength-matched chewable tablet concept for ferric hydroxide polymaltose complex.	ferric hydroxide polymaltose complex 100 MG Chewable Tablet [Ferrum Lek]	2026-04-08
+00-0093-05				NO_MAPPING	RxNorm lacks a strength-matched chewable tablet concept for ferric hydroxide polymaltose complex.	ferric hydroxide polymaltose complex 100 MG Chewable Tablet [Ferrum Lek]	2026-04-08
+00-0093-06				NO_MAPPING	RxNorm lacks a strength-matched chewable tablet concept for ferric hydroxide polymaltose complex.	ferric hydroxide polymaltose complex 100 MG Chewable Tablet [Ferrum Lek]	2026-04-08
+00-0561-01	2060253	iron 10 MG/ML Oral Solution	OMOP4961431	BROAD	RxNorm lacks the polymaltose complex ingredient detail for this oral solution.	ferric hydroxide polymaltose complex 10 MG/ML Oral Solution [Ferrum Lek]	2026-04-08
+I001088-01				NO_MAPPING	RxNorm lacks a strength-matched chewable tablet concept for ferric hydroxide polymaltose complex.	ferric hydroxide polymaltose complex 100 MG Chewable Tablet [Ferrum Lek]	2026-04-08
+I001647-01				NO_MAPPING	RxNorm lacks a strength-matched chewable tablet concept for ferric hydroxide polymaltose complex.	ferric hydroxide polymaltose complex 100 MG Chewable Tablet [Ferrum Lek]	2026-04-08

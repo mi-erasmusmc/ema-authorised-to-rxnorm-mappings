@@ -1,10 +1,10 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-99-0914-01	1154380	albuterol 5 MG/ML Inhalation Solution	245314				
-99-1044-01	2070096	albuterol 0.1 MG/ACTUAT Inhalation Suspension	OMOP4971621				
-99-1045-01							
-I000508-01							
-I001686-01							
-I001692-01							
-I001705-01							
-I001770-01							
-I001787-01							
+99-0914-01	1154380	albuterol 5 MG/ML Inhalation Solution	245314	EXACT			2026-04-08
+99-1044-01	2070096	albuterol 0.1 MG/ACTUAT Inhalation Suspension	OMOP4971621	EXACT			2026-04-08
+99-1045-01	19128417	albuterol 0.4 MG/ML Oral Solution [Ventolin]	754902	EXACT			2026-04-08
+I000508-01	19128417	albuterol 0.4 MG/ML Oral Solution [Ventolin]	754902	EXACT			2026-04-08
+I001686-01	19128417	albuterol 0.4 MG/ML Oral Solution [Ventolin]	754902	EXACT			2026-04-08
+I001692-01	19128417	albuterol 0.4 MG/ML Oral Solution [Ventolin]	754902	EXACT			2026-04-08
+I001705-01	2070096	albuterol 0.1 MG/ACTUAT Inhalation Suspension	OMOP4971621	EXACT			2026-04-08
+I001770-01	2070096	albuterol 0.1 MG/ACTUAT Inhalation Suspension	OMOP4971621	EXACT			2026-04-08
+I001787-01	1154380	albuterol 5 MG/ML Inhalation Solution	245314	EXACT			2026-04-08

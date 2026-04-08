@@ -1,9 +1,9 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0136-01	19043973	somatropin 12 MG/ML [Genotropin]	573247				
-00-0136-02	19043973	somatropin 12 MG/ML [Genotropin]	573247				
-00-0136-03	19043973	somatropin 12 MG/ML [Genotropin]	573247				
-00-0136-04	19043973	somatropin 12 MG/ML [Genotropin]	573247				
-99-1014-01							
-99-1014-02							
-99-1014-03							
-99-1014-04							
+00-0136-01	19043973	somatropin 12 MG/ML [Genotropin]	573247	BROAD	RxNorm lacks a dose-form-specific concept for this cartridge presentation.	1 ML somatropin 12 MG/ML Cartridge [Genotropin]	2026-04-08
+00-0136-02	19043973	somatropin 12 MG/ML [Genotropin]	573247	BROAD	RxNorm lacks a dose-form-specific concept for this cartridge presentation.	1 ML somatropin 12 MG/ML Cartridge [Genotropin]	2026-04-08
+00-0136-03	19043973	somatropin 12 MG/ML [Genotropin]	573247	BROAD	RxNorm lacks a dose-form-specific concept for this pre-filled pen presentation.	1 ML somatropin 12 MG/ML Pen Injector [Genotropin]	2026-04-08
+00-0136-04	19043973	somatropin 12 MG/ML [Genotropin]	573247	BROAD	RxNorm lacks a dose-form-specific concept for this pre-filled pen presentation.	1 ML somatropin 12 MG/ML Pen Injector [Genotropin]	2026-04-08
+99-1014-01	1831144	somatropin 5.3 MG/ML	OMOP5156392	BROAD	RxNorm lacks a matching Genotropin cartridge concept at 5.3 MG/ML.	somatropin 5.3 MG/ML Cartridge [Genotropin]	2026-04-08
+99-1014-02	1831144	somatropin 5.3 MG/ML	OMOP5156392	BROAD	RxNorm lacks a matching Genotropin cartridge concept at 5.3 MG/ML.	somatropin 5.3 MG/ML Cartridge [Genotropin]	2026-04-08
+99-1014-03	1831144	somatropin 5.3 MG/ML	OMOP5156392	BROAD	RxNorm lacks a matching Genotropin pre-filled pen concept at 5.3 MG/ML.	somatropin 5.3 MG/ML Pen Injector [Genotropin]	2026-04-08
+99-1014-04	1831144	somatropin 5.3 MG/ML	OMOP5156392	BROAD	RxNorm lacks a matching Genotropin pre-filled pen concept at 5.3 MG/ML.	somatropin 5.3 MG/ML Pen Injector [Genotropin]	2026-04-08

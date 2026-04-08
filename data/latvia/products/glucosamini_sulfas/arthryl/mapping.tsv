@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0145-01							
-00-0145-02							
+00-0145-01	19132997	glucosamine sulfate 1500 MG	823882	BROAD	RxNorm lacks the matching powder for oral solution presentation.	glucosamine sulfate 1500 MG Powder for Oral Solution	2026-04-08
+00-0145-02	19132997	glucosamine sulfate 1500 MG	823882	BROAD	RxNorm lacks the matching powder for oral solution presentation.	glucosamine sulfate 1500 MG Powder for Oral Solution	2026-04-08
