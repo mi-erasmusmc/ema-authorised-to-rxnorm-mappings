@@ -1,10 +1,10 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-96-0058-01	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT		 	2026-02-12
-96-0058-02	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT		 	2026-02-12
-96-0058-03	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT		 	2026-02-12
-96-0058-04	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT		 	2026-02-12
-96-0058-05	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT		 	2026-02-12
-96-0058-06	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT		 	2026-02-12
-00-0026-01	40056031	dexpanthenol Topical Cream	377885	BROAD	No RxNorm concept for dexpanthenol 0.05 MG/MG Topical Cream; mapped to form-level concept		2026-02-12
-00-0026-02	40056031	dexpanthenol Topical Cream	377885	BROAD	No RxNorm concept for dexpanthenol 0.05 MG/MG Topical Cream; mapped to form-level concept		2026-02-12
-00-0026-03	40056031	dexpanthenol Topical Cream	377885	BROAD	No RxNorm concept for dexpanthenol 0.05 MG/MG Topical Cream; mapped to form-level concept		2026-02-12
+96-0058-01	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT			2026-02-12
+96-0058-02	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT			2026-02-12
+96-0058-03	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT			2026-02-12
+96-0058-04	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT			2026-02-12
+96-0058-05	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT			2026-02-12
+96-0058-06	988301	dexpanthenol 0.05 MG/MG Topical Ointment	249792	EXACT			2026-02-12
+00-0026-01	35410573	dexpanthenol 0.05 MG/MG Topical Cream	OMOP1144158	EXACT			2026-04-08
+00-0026-02	35410573	dexpanthenol 0.05 MG/MG Topical Cream	OMOP1144158	EXACT			2026-04-08
+00-0026-03	35410573	dexpanthenol 0.05 MG/MG Topical Cream	OMOP1144158	EXACT			2026-04-08
