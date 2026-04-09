@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006674
 Name of medicine: Supemtek
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: trivalent influenza vaccine (recombinant, prepared in cell culture)
 Active substance: Influenza A virus subtype H1N1 haemagglutinin, recombinant
 Therapeutic area (MeSH): Influenza, Human
 ATC code (human): J07BB02
 Pharmacotherapeutic group (human): Vaccines
-Therapeutic indication: Immunisation for the prevention of influenza disease
+Therapeutic indication: Supemtek is indicated for active immunisation for the prevention of influenza disease in adults and children from 9 years of age and older.&nbsp;Supemtek should be used in accordance with official recommendations.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/supemtek

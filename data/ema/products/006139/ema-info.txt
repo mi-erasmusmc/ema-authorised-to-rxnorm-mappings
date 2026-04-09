@@ -6,7 +6,7 @@ Active substance: epinephrine
 Therapeutic area (MeSH): Anaphylaxis
 ATC code (human): C01CA24
 Pharmacotherapeutic group (human): Cardiac therapy
-Therapeutic indication: Emergency treatment of allergic reactions (anaphylaxis) due to insect stings or bites, foods, medicinal products and other allergens as well as idiopathic or exercise induced anaphylaxis. Treatment is indicated for adults and children with a body weight ≥30&nbsp;kg.&nbsp;
+Therapeutic indication: Eurneffy is indicated in the emergency treatment of allergic reactions (anaphylaxis) due to insect stings or bites, foods, medicinal products and other allergens as well as idiopathic or exercise induced anaphylaxis. Treatment is indicated for adults and children aged 4&nbsp;years and over with a body weight of 15&nbsp;kg or more.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/eurneffy

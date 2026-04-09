@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006421
 Name of medicine: Rezurock
-Medicine status: Opinion
-International non-proprietary name (INN) / common name: Belumosudil
-Active substance: Belumosudil mesilate
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: belumosudil
+Active substance: belumosudil mesilate
 Therapeutic area (MeSH): Graft vs Host Disease
 ATC code (human): L04AA48
 Pharmacotherapeutic group (human): Immunosuppressants
-Therapeutic indication: Treatment of chronic graft-versus-host disease (cGVHD) after failure of at least two prior lines of systemic therapy.&nbsp;
+Therapeutic indication: Rezurock is indicated for the treatment of adults and paediatric patients (12 years and older with a body weight of at least 40 kg) with chronic graft-versus-host disease (cGVHD) when other treatment options provide limited clinical benefit, are not suitable, or have been exhausted.&nbsp;
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rezurock

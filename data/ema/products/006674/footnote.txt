@@ -1,0 +1,10 @@
+--1
+One dose (0.5 ml) contains:
+Influenza virus haemagglutinin (HA) proteins, of the following strains*:
+A/California/07/2009 (H1N1)pdm09-like strain (A/California/07/2009)
+45 micrograms HA
+A/Texas/50/2012 (H3N2)-like strain (A/Texas/50/2012)
+45 micrograms HA
+B/Brisbane/60/2008-like strain (B/Brisbane/60/2008)
+45 micrograms HA
+* produced by recombinant DNA technology using a baculovirus expression system in a continuous insect cell line that is derived from Sf9 cells of the fall armyworm, Spodoptera frugiperda.
