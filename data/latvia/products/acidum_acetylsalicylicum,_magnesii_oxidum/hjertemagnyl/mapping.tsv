@@ -1,5 +1,5 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-05-0414-01							
-05-0414-02							
-93-0449-01							
-93-0449-02							
+05-0414-01	19004043	aspirin 75 MG Oral Tablet	104474	BROAD	RxNorm lacks an aspirin and magnesium oxide combination tablet concept.	aspirin 75 MG / magnesium oxide 10.5 MG Oral Tablet	2026-04-09
+05-0414-02	19004043	aspirin 75 MG Oral Tablet	104474	BROAD	RxNorm lacks an aspirin and magnesium oxide combination tablet concept.	aspirin 75 MG / magnesium oxide 10.5 MG Oral Tablet	2026-04-09
+93-0449-01	1113262	aspirin 150 MG	315413	BROAD	RxNorm lacks an aspirin and magnesium oxide combination tablet concept.	aspirin 150 MG / magnesium oxide 21 MG Oral Tablet	2026-04-09
+93-0449-02	1113262	aspirin 150 MG	315413	BROAD	RxNorm lacks an aspirin and magnesium oxide combination tablet concept.	aspirin 150 MG / magnesium oxide 21 MG Oral Tablet	2026-04-09

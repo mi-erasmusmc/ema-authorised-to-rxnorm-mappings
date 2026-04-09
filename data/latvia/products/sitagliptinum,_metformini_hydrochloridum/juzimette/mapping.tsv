@@ -1,17 +1,17 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-21-0164-01	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769				
-21-0164-02	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769				
-21-0164-03	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769				
-21-0164-04	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769				
-21-0164-05	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769				
-21-0164-06	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769				
-21-0164-07	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769				
-21-0164-08	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769				
-21-0165-01	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910				
-21-0165-02	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910				
-21-0165-03	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910				
-21-0165-04	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910				
-21-0165-05	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910				
-21-0165-06	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910				
-21-0165-07	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910				
-21-0165-08	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910				
+21-0164-01	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-04-09
+21-0164-02	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-04-09
+21-0164-03	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-04-09
+21-0164-04	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-04-09
+21-0164-05	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-04-09
+21-0164-06	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-04-09
+21-0164-07	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-04-09
+21-0164-08	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-04-09
+21-0165-01	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-04-09
+21-0165-02	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-04-09
+21-0165-03	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-04-09
+21-0165-04	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-04-09
+21-0165-05	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-04-09
+21-0165-06	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-04-09
+21-0165-07	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-04-09
+21-0165-08	36887702	Metformin 850 MG / sitagliptin 50 MG Oral Tablet	OMOP988910	EXACT	RxExt has naming inconsistency with RxNorm, suggestion has appropriate name	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-04-09

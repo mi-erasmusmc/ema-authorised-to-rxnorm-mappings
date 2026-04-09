@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-05-0085-01							
-05-0085-02							
-05-0085-03							
+05-0085-01	40241588	acetaminophen 180 MG / aspirin 230 MG / caffeine 15 MG Oral Tablet	1144168	BROAD	Latvia source omits strengths; external product references indicate aspirin 240 MG / paracetamol 180 MG / caffeine 30 MG per tablet, which RxNorm does not contain exactly.	acetaminophen 180 MG / aspirin 240 MG / caffeine 30 MG Oral Tablet	2026-04-09
+05-0085-02	40241588	acetaminophen 180 MG / aspirin 230 MG / caffeine 15 MG Oral Tablet	1144168	BROAD	Latvia source omits strengths; external product references indicate aspirin 240 MG / paracetamol 180 MG / caffeine 30 MG per tablet, which RxNorm does not contain exactly.	acetaminophen 180 MG / aspirin 240 MG / caffeine 30 MG Oral Tablet	2026-04-09
+05-0085-03	40241588	acetaminophen 180 MG / aspirin 230 MG / caffeine 15 MG Oral Tablet	1144168	BROAD	Latvia source omits strengths; external product references indicate aspirin 240 MG / paracetamol 180 MG / caffeine 30 MG per tablet, which RxNorm does not contain exactly.	acetaminophen 180 MG / aspirin 240 MG / caffeine 30 MG Oral Tablet	2026-04-09

@@ -1,49 +1,49 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-06-0073-02	43760958	Calcium Chloride 0.257 MG/ML / Glucose 16.5 MG/ML / Lactate 7.85 MG/ML / Magnesium Chloride 0.102 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution	OMOP917654				
-06-0073-03	43760958	Calcium Chloride 0.257 MG/ML / Glucose 16.5 MG/ML / Lactate 7.85 MG/ML / Magnesium Chloride 0.102 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution	OMOP917654				
-06-0073-04	43760958	Calcium Chloride 0.257 MG/ML / Glucose 16.5 MG/ML / Lactate 7.85 MG/ML / Magnesium Chloride 0.102 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution	OMOP917654				
-06-0073-05	43760958	Calcium Chloride 0.257 MG/ML / Glucose 16.5 MG/ML / Lactate 7.85 MG/ML / Magnesium Chloride 0.102 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution	OMOP917654				
-06-0073-06	43760958	Calcium Chloride 0.257 MG/ML / Glucose 16.5 MG/ML / Lactate 7.85 MG/ML / Magnesium Chloride 0.102 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution	OMOP917654				
-06-0073-08	43760958	Calcium Chloride 0.257 MG/ML / Glucose 16.5 MG/ML / Lactate 7.85 MG/ML / Magnesium Chloride 0.102 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution	OMOP917654				
-06-0073-07	43760958	Calcium Chloride 0.257 MG/ML / Glucose 16.5 MG/ML / Lactate 7.85 MG/ML / Magnesium Chloride 0.102 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution	OMOP917654				
-06-0073-09	43760958	Calcium Chloride 0.257 MG/ML / Glucose 16.5 MG/ML / Lactate 7.85 MG/ML / Magnesium Chloride 0.102 MG/ML / Sodium Chloride 6 MG/ML Injectable Solution	OMOP917654				
-06-0070-02							
-06-0070-03							
-06-0070-04							
-06-0070-05							
-06-0070-06							
-06-0070-08							
-06-0070-07							
-06-0070-09							
-06-0071-02							
-06-0071-03							
-06-0071-04							
-06-0071-05							
-06-0071-06							
-06-0071-08							
-06-0071-07							
-06-0071-09							
-06-0072-02							
-06-0072-03							
-06-0072-04							
-06-0072-05							
-06-0072-06							
-06-0072-08							
-06-0072-07							
-06-0072-09							
-06-0074-02							
-06-0074-03							
-06-0074-04							
-06-0074-05							
-06-0074-06							
-06-0074-08							
-06-0074-07							
-06-0074-09							
-06-0075-02							
-06-0075-03							
-06-0075-04							
-06-0075-05							
-06-0075-06							
-06-0075-08							
-06-0075-07							
-06-0075-09							
+06-0070-02	44123773	Calcium Chloride 0.184 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118404	EXACT			2026-04-09
+06-0070-03	44123773	Calcium Chloride 0.184 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118404	EXACT			2026-04-09
+06-0070-04	44123773	Calcium Chloride 0.184 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118404	EXACT			2026-04-09
+06-0070-05	44123773	Calcium Chloride 0.184 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118404	EXACT			2026-04-09
+06-0070-06	44123773	Calcium Chloride 0.184 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118404	EXACT			2026-04-09
+06-0070-07	44123773	Calcium Chloride 0.184 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118404	EXACT			2026-04-09
+06-0070-08	44123773	Calcium Chloride 0.184 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118404	EXACT			2026-04-09
+06-0070-09	44123773	Calcium Chloride 0.184 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118404	EXACT			2026-04-09
+06-0071-02	44084780	Calcium Chloride 0.184 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079411	EXACT			2026-04-09
+06-0071-03	44084780	Calcium Chloride 0.184 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079411	EXACT			2026-04-09
+06-0071-04	44084780	Calcium Chloride 0.184 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079411	EXACT			2026-04-09
+06-0071-05	44084780	Calcium Chloride 0.184 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079411	EXACT			2026-04-09
+06-0071-06	44084780	Calcium Chloride 0.184 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079411	EXACT			2026-04-09
+06-0071-07	44084780	Calcium Chloride 0.184 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079411	EXACT			2026-04-09
+06-0071-08	44084780	Calcium Chloride 0.184 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079411	EXACT			2026-04-09
+06-0071-09	44084780	Calcium Chloride 0.184 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079411	EXACT			2026-04-09
+06-0072-02	44084781	Calcium Chloride 0.184 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079412	EXACT			2026-04-09
+06-0072-03	44084781	Calcium Chloride 0.184 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079412	EXACT			2026-04-09
+06-0072-04	44084781	Calcium Chloride 0.184 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079412	EXACT			2026-04-09
+06-0072-05	44084781	Calcium Chloride 0.184 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079412	EXACT			2026-04-09
+06-0072-06	44084781	Calcium Chloride 0.184 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079412	EXACT			2026-04-09
+06-0072-07	44084781	Calcium Chloride 0.184 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079412	EXACT			2026-04-09
+06-0072-08	44084781	Calcium Chloride 0.184 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079412	EXACT			2026-04-09
+06-0072-09	44084781	Calcium Chloride 0.184 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.051 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079412	EXACT			2026-04-09
+06-0073-02	44097742	Calcium Chloride 0.257 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1092373	EXACT			2026-04-09
+06-0073-03	44097742	Calcium Chloride 0.257 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1092373	EXACT			2026-04-09
+06-0073-04	44097742	Calcium Chloride 0.257 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1092373	EXACT			2026-04-09
+06-0073-05	44097742	Calcium Chloride 0.257 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1092373	EXACT			2026-04-09
+06-0073-06	44097742	Calcium Chloride 0.257 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1092373	EXACT			2026-04-09
+06-0073-07	44097742	Calcium Chloride 0.257 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1092373	EXACT			2026-04-09
+06-0073-08	44097742	Calcium Chloride 0.257 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1092373	EXACT			2026-04-09
+06-0073-09	44097742	Calcium Chloride 0.257 MG/ML / Glucose 15 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1092373	EXACT			2026-04-09
+06-0074-02	44084778	Calcium Chloride 0.257 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079409	EXACT			2026-04-09
+06-0074-03	44084778	Calcium Chloride 0.257 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079409	EXACT			2026-04-09
+06-0074-04	44084778	Calcium Chloride 0.257 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079409	EXACT			2026-04-09
+06-0074-05	44084778	Calcium Chloride 0.257 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079409	EXACT			2026-04-09
+06-0074-06	44084778	Calcium Chloride 0.257 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079409	EXACT			2026-04-09
+06-0074-07	44084778	Calcium Chloride 0.257 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079409	EXACT			2026-04-09
+06-0074-08	44084778	Calcium Chloride 0.257 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079409	EXACT			2026-04-09
+06-0074-09	44084778	Calcium Chloride 0.257 MG/ML / Glucose 25 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1079409	EXACT			2026-04-09
+06-0075-02	44123774	Calcium Chloride 0.257 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118405	EXACT			2026-04-09
+06-0075-03	44123774	Calcium Chloride 0.257 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118405	EXACT			2026-04-09
+06-0075-04	44123774	Calcium Chloride 0.257 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118405	EXACT			2026-04-09
+06-0075-05	44123774	Calcium Chloride 0.257 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118405	EXACT			2026-04-09
+06-0075-06	44123774	Calcium Chloride 0.257 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118405	EXACT			2026-04-09
+06-0075-07	44123774	Calcium Chloride 0.257 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118405	EXACT			2026-04-09
+06-0075-08	44123774	Calcium Chloride 0.257 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118405	EXACT			2026-04-09
+06-0075-09	44123774	Calcium Chloride 0.257 MG/ML / Glucose 43 MG/ML / Lactate 4.48 MG/ML / Magnesium Chloride 0.0508 MG/ML / Sodium Chloride 5.38 MG/ML Intraperitoneal Solution	OMOP1118405	EXACT			2026-04-09

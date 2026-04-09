@@ -1,14 +1,14 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0129-01	19004934	betahistine 8 MG Oral Tablet	104865				
-03-0036-01	19020127	betahistine 16 MG Oral Tablet	251259				
-03-0317-02	19020151	betahistine 24 MG Oral Tablet	428758				
-03-0317-03	19020151	betahistine 24 MG Oral Tablet	428758				
-03-0317-04	19020151	betahistine 24 MG Oral Tablet	428758				
-14-0269-01							
-14-0269-02							
-14-0269-03							
-14-0269-04							
-14-0269-05							
-I000611-01	19020151	betahistine 24 MG Oral Tablet	428758				2026-02-17
-I001090-01	19020151	betahistine 24 MG Oral Tablet	428758				2026-02-17
-I001615-01	19020151	betahistine 24 MG Oral Tablet	428758				2026-02-17
+00-0129-01	19004934	betahistine 8 MG Oral Tablet	104865	EXACT			2026-04-09
+03-0036-01	19020127	betahistine 16 MG Oral Tablet	251259	EXACT			2026-04-09
+03-0317-02	19020151	betahistine 24 MG Oral Tablet	428758	EXACT			2026-04-09
+03-0317-03	19020151	betahistine 24 MG Oral Tablet	428758	EXACT			2026-04-09
+03-0317-04	19020151	betahistine 24 MG Oral Tablet	428758	EXACT			2026-04-09
+14-0269-01	19020151	betahistine 24 MG Oral Tablet	428758	BROAD		betahistine 24 MG Disintegrating Oral Tablet [Betaserc]	2026-04-09
+14-0269-02	19020151	betahistine 24 MG Oral Tablet	428758	BROAD		betahistine 24 MG Disintegrating Oral Tablet [Betaserc]	2026-04-09
+14-0269-03	19020151	betahistine 24 MG Oral Tablet	428758	BROAD		betahistine 24 MG Disintegrating Oral Tablet [Betaserc]	2026-04-09
+14-0269-04	19020151	betahistine 24 MG Oral Tablet	428758	BROAD		betahistine 24 MG Disintegrating Oral Tablet [Betaserc]	2026-04-09
+14-0269-05	19020151	betahistine 24 MG Oral Tablet	428758	BROAD		betahistine 24 MG Disintegrating Oral Tablet [Betaserc]	2026-04-09
+I000611-01	19020151	betahistine 24 MG Oral Tablet	428758	EXACT			2026-04-09
+I001090-01	19020151	betahistine 24 MG Oral Tablet	428758	EXACT			2026-04-09
+I001615-01	19020151	betahistine 24 MG Oral Tablet	428758	EXACT			2026-04-09

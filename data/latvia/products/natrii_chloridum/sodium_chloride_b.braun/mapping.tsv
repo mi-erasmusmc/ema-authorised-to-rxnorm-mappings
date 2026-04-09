@@ -1,13 +1,13 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-00-0569-02	19079524	sodium chloride 9 MG/ML Injectable Solution	313002				
-00-0569-08	19079524	sodium chloride 9 MG/ML Injectable Solution	313002				
-00-0569-09	19079524	sodium chloride 9 MG/ML Injectable Solution	313002				
-00-0569-05	19079524	sodium chloride 9 MG/ML Injectable Solution	313002				
-00-0569-10	19079524	sodium chloride 9 MG/ML Injectable Solution	313002				
-00-0569-11	19079524	sodium chloride 9 MG/ML Injectable Solution	313002				
-00-0569-07	19079524	sodium chloride 9 MG/ML Injectable Solution	313002				
-99-0244-05							
-99-0244-06							
-99-0244-07							
-99-0244-08							
-99-0244-09							
+00-0569-02	40221390	20 ML sodium chloride 9 MG/ML Injection	1807638	EXACT			2026-04-09
+00-0569-05	40221389	10 ML sodium chloride 9 MG/ML Injection	1807637	EXACT			2026-04-09
+00-0569-07	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-04-09
+00-0569-08	40221390	20 ML sodium chloride 9 MG/ML Injection	1807638	EXACT			2026-04-09
+00-0569-09	40221390	20 ML sodium chloride 9 MG/ML Injection	1807638	EXACT			2026-04-09
+00-0569-10	40221389	10 ML sodium chloride 9 MG/ML Injection	1807637	EXACT			2026-04-09
+00-0569-11	40221389	10 ML sodium chloride 9 MG/ML Injection	1807637	EXACT			2026-04-09
+99-0244-05	40221385	100 ML sodium chloride 9 MG/ML Injection	1807632	EXACT			2026-04-09
+99-0244-06	40221386	250 ML sodium chloride 9 MG/ML Injection	1807633	EXACT			2026-04-09
+99-0244-07	40221387	500 ML sodium chloride 9 MG/ML Injection	1807634	EXACT			2026-04-09
+99-0244-08	40220357	1000 ML sodium chloride 9 MG/ML Injection	1807639	EXACT			2026-04-09
+99-0244-09	40221384	50 ML sodium chloride 9 MG/ML Injection	1807631	EXACT			2026-04-09

@@ -1,3 +1,3 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-02-0093-03	43033237	Sodium Chloride 58.5 MG/ML Injectable Solution	OMOP4848286				
-02-0093-04	43033237	Sodium Chloride 58.5 MG/ML Injectable Solution	OMOP4848286				
+02-0093-03	43033237	Sodium Chloride 58.5 MG/ML Injectable Solution	OMOP4848286	BROAD	RxNorm lacks a concentrate-for-solution-for-infusion concept at this strength; mapped to the closest sodium chloride 58.5 MG/ML injectable solution.	100 ML sodium chloride 58.5 MG/ML Injectable Solution	2026-04-09
+02-0093-04	36890639	Sodium Chloride 58.5 MG/ML Injection	OMOP992857	BROAD	RxNorm lacks a concentrate-for-solution-for-infusion concept at this strength; mapped to the closest sodium chloride 58.5 MG/ML single-use injection.	20 ML sodium chloride 58.5 MG/ML Injection	2026-04-09
