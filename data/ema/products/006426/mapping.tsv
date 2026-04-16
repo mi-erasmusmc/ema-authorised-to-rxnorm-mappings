@@ -1,0 +1,6 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/26/2019/001	741832	0.25 MG, 0.5 MG Dose 3 ML semaglutide 0.68 MG/ML Pen Injector	2619152	BROAD		1.5 ML semaglutide 0.68 MG/ML Pen Injector [Kayshild]	2026-04-16
+EU/1/26/2019/002	741832	0.25 MG, 0.5 MG Dose 3 ML semaglutide 0.68 MG/ML Pen Injector	2619152	BROAD		3 ML semaglutide 0.68 MG/ML Pen Injector [Kayshild]	2026-04-16
+EU/1/26/2019/003	37003015	semaglutide 1.34 MG/ML Pen Injector	2398843	EXACT			2026-04-16
+EU/1/26/2019/004	1537038	semaglutide 2.27 MG/ML Auto-Injector	2553904	BROAD		3 ML semaglutide 2.27 MG/ML Pen Injector [Kayshild]	2026-04-16
+EU/1/26/2019/005	1537042	semaglutide 3.2 MG/ML Auto-Injector	2554105	BROAD		3 ML semaglutide 3.2 MG/ML Pen Injector [Kayshild]	2026-04-16

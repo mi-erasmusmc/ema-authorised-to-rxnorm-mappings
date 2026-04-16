@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006136
+Name of medicine: Ondibta
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: insulin glargine
+Active substance: insulin glargine
+Therapeutic area (MeSH): Diabetes Mellitus
+ATC code (human): A10AE04
+Pharmacotherapeutic group (human): Drugs used in diabetes
+Therapeutic indication: Treatment of diabetes mellitus in adults, adolescents and children aged 2 years and above.
+Biosimilar: Yes
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ondibta

@@ -2,10 +2,10 @@ EMA product number: EMEA/H/C/006027
 Name of medicine: Abrysvo
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: respiratory syncytial virus vaccine (bivalent, recombinant)
-Active substance: respiratory Syncytial Virus, subgroup A, stabilized prefusion F protein 847A;respiratory syncytial virus, subgroup B, stabilized prefusion F protein 847B
+Active substance: respiratory syncytial virus vaccine (bivalent, recombinant)
 Therapeutic area (MeSH): Respiratory Syncytial Virus Infections
 ATC code (human): J07BX05
-Pharmacotherapeutic group (human): Vaccines
+Pharmacotherapeutic group (human): Other viral vaccines
 Therapeutic indication: Abrysvo is indicated for:  Passive protection against lower respiratory tract disease caused by respiratory syncytial virus (RSV) in infants from birth through 6 months of age following maternal immunisation during pregnancy.&nbsp; Active immunisation of individuals 18 years of age and older for the prevention of lower respiratory tract disease caused by RSV.  The use of this vaccine should be in accordance with official recommendations.
 Biosimilar: No
 Generic or hybrid: 

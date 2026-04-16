@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006426
 Name of medicine: Kayshild
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: semaglutide
 Active substance: semaglutide
 Therapeutic area (MeSH): Non-alcoholic Fatty Liver Disease;Liver Cirrhosis
 ATC code (human): A10BJ06
 Pharmacotherapeutic group (human): Drugs used in diabetes
-Therapeutic indication: Treatment of non-cirrhotic metabolic dysfunction-associated steatohepatitis with liver fibrosis
+Therapeutic indication: Kayshild is indicated in conjunction with diet and exercise for the treatment of adults with non-cirrhotic metabolic dysfunction-associated steatohepatitis (MASH) with moderate to advanced liver fibrosis (fibrosis stages F2 to F3).
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/kayshild

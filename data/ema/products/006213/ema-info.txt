@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006213
 Name of medicine: Fylrevy
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: estetrol
 Active substance: estetrol monohydrate
 Therapeutic area (MeSH): Menopause
-ATC code (human): G03CA
+ATC code (human): G03CA10
 Pharmacotherapeutic group (human): Sex hormones and modulators of the genital system
-Therapeutic indication: Hormone replacement therapy (HRT) for oestrogen deficiency symptoms in postmenopausal women
+Therapeutic indication: Hormone replacement therapy (HRT) for oestrogen deficiency symptoms in hysterectomised postmenopausal womenHormone replacement therapy (HRT) for oestrogen deficiency symptoms in non-hysterectomised postmenopausal women with at least 12 months since last menses.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fylrevy

@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/006674
 Name of medicine: Supemtek
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: trivalent influenza vaccine (recombinant, prepared in cell culture)
-Active substance: Influenza A virus subtype H1N1 haemagglutinin, recombinant
+Active substance: A/California/07/2009 (H1N1)pdm09-like strain (A/California/07/2009);A/Texas/50/2012 (H3N2)-like strain (A/Texas/50/2012);B/Brisbane/60/2008-like strain (B/Brisbane/60/2008)
 Therapeutic area (MeSH): Influenza, Human
 ATC code (human): J07BB02
 Pharmacotherapeutic group (human): Vaccines
