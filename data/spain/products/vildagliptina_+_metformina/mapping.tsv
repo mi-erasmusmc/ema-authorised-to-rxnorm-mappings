@@ -56,3 +56,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 732099	07425009IP3	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT			2026-03-12
 763394	07425048IP	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT			2026-03-12
 765783	08483009IP3	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT			2026-03-12
+766878	90125	21169719	Metformin 1000 MG / vildagliptin 50 MG Oral Tablet	OMOP351557	EXACT			2026-04-16
+766888	90126	21081251	Metformin 850 MG / vildagliptin 50 MG Oral Tablet	OMOP351542	EXACT			2026-04-16

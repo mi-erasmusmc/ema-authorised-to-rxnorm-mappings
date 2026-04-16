@@ -196,3 +196,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 765002	04276007IP4	757690	aripiprazole 10 MG Oral Tablet	349545	EXACT			2026-03-12
 767415	04276017IP	757691	aripiprazole 30 MG Oral Tablet	349547	EXACT			2026-03-12
 768547	113882002IP2	46275767	aripiprazole 400 MG Injection [Abilify]	1659814	EXACT			2026-03-12
+763460	113882002IP	46275767	aripiprazole 400 MG Injection [Abilify]	1659814	EXACT			2026-04-16

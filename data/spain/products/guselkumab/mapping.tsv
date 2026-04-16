@@ -1,3 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 720058	1171234001	1593709	1 ML guselkumab 100 MG/ML Prefilled Syringe	1928686	EXACT			2025-12-04
 723461	1171234002	1366759	1 ML guselkumab 100 MG/ML Auto-Injector	2118739	EXACT			2025-12-04
+767548	1171234005	1735848	20 ML guselkumab 10 MG/ML Injection [Tremfya]	2693092	EXACT			2026-04-16
+768188	1171234008	1735850	2 ML guselkumab 100 MG/ML Auto-Injector [Tremfya]	2693095	EXACT			2026-04-16

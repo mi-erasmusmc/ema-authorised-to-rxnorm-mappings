@@ -24,3 +24,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768399	5352265IP1	1552350	progesterone 200 MG Oral Capsule	312641	EXACT			2026-03-12
 851907	62915	19017494	progesterone 0.08 MG/MG Vaginal Gel [Crinone]	153580	EXACT			2026-03-12
 881722	55868	19061769	progesterone 0.01 MG/MG Topical Gel	249501	EXACT			2026-03-12
+766373	89979	849342	progesterone 400 MG Vaginal Insert	OMOP5572168	EXACT			2026-04-16

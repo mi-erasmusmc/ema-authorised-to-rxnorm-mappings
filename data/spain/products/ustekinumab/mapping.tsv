@@ -35,3 +35,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 762981	1080494006	46234170	0.5 ML ustekinumab 90 MG/ML Injection [Stelara]	1654079	BROAD	No Stelara auto-injector concept in RxNorm; mapped to branded injection	0.5 ML ustekinumab 90 MG/ML Auto-Injector [Stelara]	2026-03-13
 762982	1080494007	46234174	1 ML ustekinumab 90 MG/ML Injection [Stelara]	1654083	BROAD	No Stelara auto-injector concept in RxNorm; mapped to branded injection	1 ML ustekinumab 90 MG/ML Auto-Injector [Stelara]	2026-03-13
 767965	1241863004	37355160	0.5 ML ustekinumab-aauz 90 MG/ML Injection	2724429	EXACT			2026-03-13
+768379	1241801007	1466432	0.5 ML ustekinumab-ttwe 90 MG/ML Prefilled Syringe	2705568	EXACT	des_dosific is En revisión in source data; des_dcp confirms 0.5 ml SC		2026-04-16

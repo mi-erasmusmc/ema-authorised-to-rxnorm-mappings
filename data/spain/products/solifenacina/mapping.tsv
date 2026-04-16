@@ -64,3 +64,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726121	84248	916010	solifenacin succinate 10 MG Oral Tablet [Vesicare]	539815	EXACT			2026-03-12
 728827	66671854	916010	solifenacin succinate 10 MG Oral Tablet [Vesicare]	539815	EXACT			2026-03-12
 728877	34009936551671	916010	solifenacin succinate 10 MG Oral Tablet [Vesicare]	539815	EXACT			2026-03-12
+728349	85020	916008	solifenacin succinate 10 MG Oral Tablet	477372	BROAD	COMPRIMIDO BUCODISPERSABLE; no RxNorm orodispersible/chewable concept for solifenacin	solifenacin succinate 10 MG Chewable Tablet	2026-04-16
+728350	85021	916006	solifenacin succinate 5 MG Oral Tablet	477367	BROAD	COMPRIMIDO BUCODISPERSABLE; no RxNorm orodispersible/chewable concept for solifenacin	solifenacin succinate 5 MG Chewable Tablet	2026-04-16
