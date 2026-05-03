@@ -56,3 +56,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768761	90667	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-03-15
 768763	90666	19126425	cholecalciferol 1.25 MG Oral Capsule	705728	EXACT			2026-03-15
 769020	7547	35885960	cholecalciferol 10000 UNT/ML Oral Solution	OMOP5033280	EXACT	Spain labels this as oral drops in solution; RxNorm uses the matching 10,000 UNT/mL oral-solution concept.		2026-04-03
+763976	88588	36059283	cholecalciferol 25000 UNT Oral Capsule	OMOP4984984	EXACT			2026-05-03

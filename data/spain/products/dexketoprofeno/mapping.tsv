@@ -128,3 +128,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 764881	89548	19102047	dexketoprofen 25 MG	393429	BROAD	no dexketoprofen 25mg oral capsule concept in RxNorm	dexketoprofen 25 MG Oral Capsule	2026-03-12
 781047	64890	41054885	Dexketoprofen 25 MG/ML Injectable Solution	OMOP2252847	EXACT			2026-03-12
 885699	63155	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-03-12
+764502	89429	19101779	dexketoprofen 25 MG Oral Tablet	389243	EXACT			2026-05-03

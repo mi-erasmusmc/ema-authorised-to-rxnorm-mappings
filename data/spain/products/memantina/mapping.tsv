@@ -127,3 +127,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 822528	02218009	41030639	Memantine 10 MG Oral Tablet [Axura]	OMOP2228601	EXACT			2026-03-12
 832725	02219009	21143981	Memantine 10 MG Oral Tablet [Ebixa]	OMOP255635	EXACT			2026-03-12
 925933	02218006	41124534	Memantine 10 MG/ML Oral Solution [Axura]	OMOP2322496	EXACT			2026-03-12
+769214	77610	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-05-03
