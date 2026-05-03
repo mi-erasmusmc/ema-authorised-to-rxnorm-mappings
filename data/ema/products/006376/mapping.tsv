@@ -1,2 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/25/1944/001	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar with no FDA equivalent; mapped to plain INN concept	1.7 ML denosumab-xxxx 70 MG/ML Injection [Enwylma]	2026-02-16
+EU/1/25/1944/002	40230585	1.7 ML denosumab 70 MG/ML Injection	1046398	BROAD	Biosimilar with no FDA equivalent; mapped to plain INN concept	1.7 ML denosumab-xxxx 70 MG/ML Injection [Enwylma]	2026-05-02

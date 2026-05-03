@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006576
+Name of medicine: Viokat
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: diazoxide choline
+Active substance: diazoxide choline
+Therapeutic area (MeSH): Prader-Willi Syndrome
+ATC code (human): N07X
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Treatment of adult and paediatric patients with Prader-Willi syndrome (PWS).
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/viokat
