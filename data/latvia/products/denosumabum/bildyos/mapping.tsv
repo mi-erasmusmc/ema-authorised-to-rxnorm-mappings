@@ -1,0 +1,3 @@
+product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/25/1978/001	37355145	1 ML denosumab-nxxp 60 MG/ML Prefilled Syringe [Bildyos]	2723357	EXACT			2026-05-03
+EU/1/25/1978/002	37355143	1.7 ML denosumab-nxxp 70 MG/ML Injection [Bilprevda]	2723345	BROAD	RxNorm only contains the vial presentation under the paired EU brand Bilprevda.	1.7 ML denosumab-nxxp 70 MG/ML Injection [Bildyos]	2026-05-03
