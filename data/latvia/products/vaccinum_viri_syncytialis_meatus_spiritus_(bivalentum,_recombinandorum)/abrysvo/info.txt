@@ -1,7 +1,7 @@
 short_name: Abrysvo
 active_substance: Vaccinum viri syncytialis meatus spiritus (bivalentum, recombinandorum)
 marketing_authorisation_holder: Pfizer Europe MA EEIG, Belgium
-manufacturer: Pfizer Ireland Pharmaceuticals, Ireland; Pfizer Manufacturing Belgium N.V., Belgium
+manufacturer: Pfizer Manufacturing Belgium N.V., Belgium
 atc_code: J07BX05
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1752/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/23/1752/001/smpc

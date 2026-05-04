@@ -3,5 +3,5 @@ active_substance: Telmisartanum, Hydrochlorothiazidum
 marketing_authorisation_holder: Accord Healthcare B.V., Netherlands
 manufacturer: Accord Healthcare B.V., Netherlands; Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
 atc_code: C09DA07
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0085/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0085/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/16-0087/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/16-0087/smpc

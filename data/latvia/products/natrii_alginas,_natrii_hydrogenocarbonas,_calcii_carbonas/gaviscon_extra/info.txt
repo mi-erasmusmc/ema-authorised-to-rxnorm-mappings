@@ -1,0 +1,7 @@
+short_name: Gaviscon Extra
+active_substance: Natrii alginas, Natrii hydrogenocarbonas, Calcii carbonas
+marketing_authorisation_holder: Reckitt Benckiser Ireland Ltd, Ireland
+manufacturer: RB NL Brands B.V., Netherlands
+atc_code: A02BX13
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001848/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001848/smpc

@@ -1,6 +1,6 @@
 short_name: Esbriet
 active_substance: Pirfenidonum
-marketing_authorisation_holder: Roche Registration GmbH, Germany
+marketing_authorisation_holder: H.A.C. Pharma, France
 manufacturer: Roche Pharma AG, Germany
 atc_code: L04AX05
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/11/667/001/pil

@@ -1,4 +1,4 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/1998/001	742000	teplizumab-mzwv 1 MG/ML Injection	2621886	BROAD	RxNorm has the matching 2 ML presentation only under the US brand Tzield.	2 ML teplizumab-mzwv 1 MG/ML Injection [Teizeild]	2026-05-03
-EU/1/25/1998/002	742000	teplizumab-mzwv 1 MG/ML Injection	2621886	BROAD	RxNorm has the matching 2 ML presentation only under the US brand Tzield.	2 ML teplizumab-mzwv 1 MG/ML Injection [Teizeild]	2026-05-03
-EU/1/25/1998/003	742000	teplizumab-mzwv 1 MG/ML Injection	2621886	BROAD	RxNorm has the matching 2 ML presentation only under the US brand Tzield.	2 ML teplizumab-mzwv 1 MG/ML Injection [Teizeild]	2026-05-03
+EU/1/25/1998/001	742173	2 ML teplizumab-mzwv 1 MG/ML Injection [Tzield]	2621891	EXACT	EU brand name: Teizeild; US brand name: Tzield	2 ML teplizumab-mzwv 1 MG/ML Injection [Teizeild]	2026-05-04
+EU/1/25/1998/002	742173	2 ML teplizumab-mzwv 1 MG/ML Injection [Tzield]	2621891	EXACT	EU brand name: Teizeild; US brand name: Tzield	2 ML teplizumab-mzwv 1 MG/ML Injection [Teizeild]	2026-05-04
+EU/1/25/1998/003	742173	2 ML teplizumab-mzwv 1 MG/ML Injection [Tzield]	2621891	EXACT	EU brand name: Teizeild; US brand name: Tzield	2 ML teplizumab-mzwv 1 MG/ML Injection [Teizeild]	2026-05-04

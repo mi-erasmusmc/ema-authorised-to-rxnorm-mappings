@@ -1,0 +1,7 @@
+short_name: Vysribli
+active_substance: Denosumabum
+marketing_authorisation_holder: Intas Third Party Sales 2005 S.L., Spain
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland; Kymos S.L., Spain
+atc_code: M05BX04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1993/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1993/001/smpc

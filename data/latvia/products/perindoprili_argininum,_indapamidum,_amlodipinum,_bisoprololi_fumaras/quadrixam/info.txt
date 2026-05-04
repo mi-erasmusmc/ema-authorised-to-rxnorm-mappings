@@ -1,0 +1,7 @@
+short_name: Quadrixam
+active_substance: Perindoprili argininum, Indapamidum, Amlodipinum, Bisoprololi fumaras
+marketing_authorisation_holder: Les Laboratoires Servier, France
+manufacturer: ANPHARM Przedsiebiorstwo Farmaceutyczne S.A., Poland
+atc_code: C09BX06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0090/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0090/smpc

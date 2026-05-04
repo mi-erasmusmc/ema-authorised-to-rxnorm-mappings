@@ -1,0 +1,7 @@
+short_name: Afatinib Lotus
+active_substance: Afatinibum
+marketing_authorisation_holder: Lotus Pharma Bulgaria EOOD, Bulgaria
+manufacturer: Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta; KeVaRo Group Ltd., Bulgaria; Qualimetrix S.A., Greece
+atc_code: L01EB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0074/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0074/smpc

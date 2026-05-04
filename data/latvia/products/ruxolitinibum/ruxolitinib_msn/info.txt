@@ -1,0 +1,7 @@
+short_name: Ruxolitinib MSN
+active_substance: Ruxolitinibum
+marketing_authorisation_holder: MSN Labs Europe Limited, Malta
+manufacturer: Pharmadox Healthcare Ltd., Malta; MSN Labs Europe Limited, Malta
+atc_code: L01EJ01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0069/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0069/smpc

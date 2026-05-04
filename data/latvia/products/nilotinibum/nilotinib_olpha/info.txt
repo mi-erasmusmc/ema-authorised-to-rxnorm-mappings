@@ -1,0 +1,7 @@
+short_name: Nilotinib Olpha
+active_substance: Nilotinibum
+marketing_authorisation_holder: Olpha, AS, Latvia
+manufacturer: Bluepharma - Industria Farmaceutica S.A., Portugal; Bluepharma Indústria Farmacêutica, S.A., Portugal
+atc_code: L01EA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0081/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0081/smpc

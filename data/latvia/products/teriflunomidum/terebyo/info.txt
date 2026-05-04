@@ -1,7 +1,7 @@
 short_name: Terebyo
 active_substance: Teriflunomidum
 marketing_authorisation_holder: Sandoz d.d., Slovenia
-manufacturer: HBM Pharma s.r.o., Slovakia; Salutas Pharma GmbH, Germany; Combino Pharm (Malta) Ltd, Malta
+manufacturer: HBM Pharma s.r.o., Slovakia; Salutas Pharma GmbH, Germany; Combino Pharm (Malta) Ltd, Malta; Lek Pharmaceuticals d.d., Slovenia
 atc_code: L04AK02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0204/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0204/smpc

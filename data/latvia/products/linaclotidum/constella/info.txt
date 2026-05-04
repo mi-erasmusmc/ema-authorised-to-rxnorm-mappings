@@ -1,7 +1,7 @@
 short_name: Constella
 active_substance: Linaclotidum
 marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG, Germany
-manufacturer: Allergan Pharmaceuticals International Ltd, Ireland
+manufacturer: Forest Laboratories Ireland Limited, Ireland
 atc_code: A06AX04
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/801/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/12/801/001/smpc

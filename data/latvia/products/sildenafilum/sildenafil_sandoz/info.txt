@@ -1,7 +1,7 @@
 short_name: Sildenafil Sandoz
 active_substance: Sildenafilum
 marketing_authorisation_holder: Sandoz d.d., Slovenia
-manufacturer: Lek Pharmaceuticals d.d., Slovenia; Salutas Pharma GmbH, Germany; S.C. Sandoz S.R.L., Romania; Lek Pharmaceuticals d.d., Slovenia; Lek S.A., Poland
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Salutas Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia; Lek S.A., Poland
 atc_code: G04BE03
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0425/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0425/smpc

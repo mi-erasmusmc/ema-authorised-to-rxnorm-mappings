@@ -1,0 +1,7 @@
+short_name: Ilumira
+active_substance: Lutetium (177 Lu) chloridum
+marketing_authorisation_holder: SHINE Europe B.V., Netherlands
+manufacturer: MIAS Pharma Limited, Ireland
+atc_code: V10X
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2018/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2018/001/smpc

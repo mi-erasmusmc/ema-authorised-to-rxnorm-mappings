@@ -1,7 +1,7 @@
 short_name: Angeliq
 active_substance: Estradiolum, Drospirenonum
 marketing_authorisation_holder: Bayer AG, Germany
-manufacturer: Bayer AG, Germany
+manufacturer: Bayer Weimar GmbH und Co. KG, Germany; Bayer AG, Germany
 atc_code: G03FA17
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0094/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0094/smpc

@@ -1,7 +1,7 @@
 short_name: Volibris
 active_substance: Ambrisentanum
-marketing_authorisation_holder: GlaxoSmithKline (Ireland) Limited, Ireland
-manufacturer: GlaxoSmithKline (Ireland) Limited, Ireland
+marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
+manufacturer: GlaxoSmithKline Trading Services Limited, Ireland
 atc_code: C02KX02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/451/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/08/451/001/smpc

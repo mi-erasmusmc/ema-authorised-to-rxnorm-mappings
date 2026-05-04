@@ -1,7 +1,7 @@
 short_name: Rivaroxaban Stada
 active_substance: Rivaroxabanum
 marketing_authorisation_holder: Stada Arzneimittel AG, Germany
-manufacturer: Clonmel Healthcare Ltd., Ireland; Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Laboratorios Liconsa, S.A., Spain; Centrafarm Services B.V., Netherlands
+manufacturer: Clonmel Healthcare Ltd., Ireland; Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Laboratorios Liconsa, S.A., Spain; Centrafarm Services B.V., Netherlands; STADA Nordic ApS., Denmark
 atc_code: B01AF01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0174/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0174/smpc

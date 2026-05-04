@@ -1,0 +1,7 @@
+short_name: Amoxicillin/Clavulanic Acid BH Pharma
+active_substance: Amoxicillinum, Acidum clavulanicum
+marketing_authorisation_holder: BH Pharma, France
+manufacturer: Medochemie Ltd., (Factory B) Injectable Facility, Cyprus
+atc_code: J01CR02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0084/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0084/smpc

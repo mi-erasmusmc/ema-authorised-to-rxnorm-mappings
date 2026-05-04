@@ -1,7 +1,7 @@
 short_name: Ogsiveo
 active_substance: Nirogacestatum
-marketing_authorisation_holder: Springworks Therapeutics Ireland Limited, Ireland
-manufacturer: Rottendorf Pharma GmbH, Germany; Patheon France, France
+marketing_authorisation_holder: Merck Europe B.V., Netherlands
+manufacturer: MIAS Pharma Limited, Ireland
 atc_code: L01XX81
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1932/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1932/001/smpc

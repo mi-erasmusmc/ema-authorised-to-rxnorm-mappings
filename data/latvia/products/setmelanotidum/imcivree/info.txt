@@ -1,7 +1,7 @@
 short_name: IMCIVREE
 active_substance: Setmelanotidum
-marketing_authorisation_holder: Rhythm Pharmaceuticals Limited, Ireland
-manufacturer: Recipharm Monts, Usine de Monts, France
+marketing_authorisation_holder: Rhythm Pharmaceuticals Netherlands B.V., Netherlands
+manufacturer: Rhythm Pharmaceuticals Netherlands B.V., Netherlands
 atc_code: A08AA12
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1564/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1564/001/smpc

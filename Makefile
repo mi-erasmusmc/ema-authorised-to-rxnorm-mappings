@@ -43,8 +43,10 @@ fetch_spain_pdf:
 
 update_spain_data: download_spain_nomenclator split_spain_by_ingredient
 
-download_zva:
+update_latvia:
 	$(PYTHON) data/latvia/download_zva.py $(ARGS)
+	$(PYTHON) .claude/skills/process-latvia-data/scripts/organize_products.py $(ARGS)
+	$(PYTHON) data/latvia/deduplicate_data_files.py $(ARGS)
 
 deduplicate_latvia:
 	$(PYTHON) data/latvia/deduplicate_data_files.py $(ARGS)
@@ -77,9 +79,6 @@ download_ema_presentation_files:
 # ── Latvia ─────────────────────────────────────────────────────────────────────
 validate_latvia:
 	$(PYTHON) .claude/skills/map-latvia-drugs/validate_all.py $(ARGS)
-
-organize_products:
-	$(PYTHON) .claude/skills/process-latvia-data/scripts/organize_products.py $(ARGS)
 
 fill_missing_latvian_mappings:
 	$(PYTHON) scripts/fill-missing-latvian-mappings.py $(ARGS)
@@ -125,10 +124,10 @@ load_spain:
 .PHONY: validate_spain apply_mappings find_duplicate_nros \
         list_folder_patterns list_latvia_patterns apply_spain_patterns apply_latvia_patterns run_clean_room_batch \
         download_spain_nomenclator split_spain_by_ingredient list_spain_changes \
-        fetch_spain_pdf update_spain_data \
+        fetch_spain_pdf update_spain_data update_latvia \
         validate_ema find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
         prepare_parse_batch fetch_ema_updates download_ema_presentation_files \
-        validate_latvia organize_products fill_missing_latvian_mappings find_concepts \
+        validate_latvia fill_missing_latvian_mappings find_concepts \
         resolve_rxcui_name search_dose_forms validate_mapping find_conflicts apply_mapping \
         show_unmapped sync_mappings generate_mapping_overviews \
         load_ema load_latvia load_spain

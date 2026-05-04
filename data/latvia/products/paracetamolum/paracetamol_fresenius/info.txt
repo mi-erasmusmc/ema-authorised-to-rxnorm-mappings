@@ -1,0 +1,7 @@
+short_name: Paracetamol Fresenius
+active_substance: Paracetamolum
+marketing_authorisation_holder: Fresenius Kabi Polska Sp.z o.o., Poland
+manufacturer: Fresenius Kabi Polska Sp. z o.o., Poland
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0083/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0083/smpc

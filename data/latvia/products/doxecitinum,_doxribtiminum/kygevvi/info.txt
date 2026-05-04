@@ -1,0 +1,7 @@
+short_name: Kygevvi
+active_substance: Doxecitinum, Doxribtiminum
+marketing_authorisation_holder: UCB Pharma S.A., Belgium
+manufacturer: Catalent Germany Schorndorf GmbH, Germany
+atc_code: A16AX29
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2013/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2013/001/smpc

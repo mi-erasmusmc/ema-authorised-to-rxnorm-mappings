@@ -1,0 +1,7 @@
+short_name: Sugammadex MSN
+active_substance: Sugammadexum
+marketing_authorisation_holder: MSN Labs Europe Limited, Malta
+manufacturer: Pharmadox Healthcare Ltd., Malta; MSN Labs Europe Limited, Malta
+atc_code: V03AB35
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0063/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0063/smpc

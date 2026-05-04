@@ -1,7 +1,7 @@
 short_name: Camcevi
 active_substance: Leuprorelinum
 marketing_authorisation_holder: Accord Healthcare S.L.U., Spain
-manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland
+manufacturer: Accord Healthcare Polska Sp. z.o.o., Poland; Accord Healthcare Single Member S.A., Greece
 atc_code: L02AE02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1647/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/22/1647/001/smpc

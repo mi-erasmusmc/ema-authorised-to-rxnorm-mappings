@@ -1,6 +1,6 @@
 short_name: Ezmekly
 active_substance: Mirdametinibum
-marketing_authorisation_holder: Springworks Therapeutics Ireland Limited, Ireland
+marketing_authorisation_holder: Merck Europe B.V., Netherlands
 manufacturer: MIAS Pharma Limited, Ireland
 atc_code: L01EE05
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/1950/001/pil

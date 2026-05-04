@@ -1,0 +1,7 @@
+short_name: Sitagliptin/Metformin Inventia
+active_substance: Sitagliptinum, Metformini hydrochloridum
+marketing_authorisation_holder: Inventia Healthcare B.V., Netherlands
+manufacturer: Laboratori Fundacio Dau, Spain
+atc_code: A10BD07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0072/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0072/smpc

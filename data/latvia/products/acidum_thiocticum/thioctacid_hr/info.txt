@@ -1,7 +1,7 @@
 short_name: Thioctacid HR
 active_substance: Acidum thiocticum
 marketing_authorisation_holder: Viatris SIA, Latvia
-manufacturer: Meda Pharma GmbH & Co.KG, Germany; Rottapharm Ltd., Ireland
+manufacturer: Rottapharm Ltd., Ireland
 atc_code: A16AX01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0380/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0380/smpc

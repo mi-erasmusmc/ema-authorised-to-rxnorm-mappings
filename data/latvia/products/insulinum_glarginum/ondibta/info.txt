@@ -1,0 +1,7 @@
+short_name: Ondibta
+active_substance: Insulinum glarginum
+marketing_authorisation_holder: Gan & Lee Pharmaceuticals Europe GmbH, Germany
+manufacturer: IL CSM Clinical Supplies Management GmbH, Germany
+atc_code: A10AE04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2000/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2000/001/smpc

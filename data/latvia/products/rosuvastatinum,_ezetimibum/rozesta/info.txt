@@ -1,7 +1,7 @@
 short_name: Rozesta
 active_substance: Rosuvastatinum, Ezetimibum
 marketing_authorisation_holder: Zentiva, k.s., Czech Republic
-manufacturer: ELPEN Pharmaceutical Co. Inc (SA), Greece; Elpen Pharmaceutical Co. Inc., Greece
+manufacturer: ELPEN Pharmaceutical Co. Inc (SA), Greece; Elpen Pharmaceutical Co. Inc., Greece; Rontis Hellas Medical and Pharmaceutical Products S.A., Greece
 atc_code: C10BA06
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0032/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0032/smpc

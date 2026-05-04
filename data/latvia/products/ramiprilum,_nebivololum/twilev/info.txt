@@ -1,0 +1,7 @@
+short_name: Twilev
+active_substance: Ramiprilum, Nebivololum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: Saneca Pharmaceuticals A.S., Slovakia
+atc_code: C09BX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0052/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0052/smpc

@@ -1,0 +1,7 @@
+short_name: Anktiva
+active_substance: Nogapendekinum alfa inbakiceptum
+marketing_authorisation_holder: ImmunityBio Ireland Limited, Ireland
+manufacturer: Bilthoven Biologicals B.V., Netherlands
+atc_code: L03AC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2002/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2002/001/smpc

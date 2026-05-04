@@ -1,7 +1,7 @@
 short_name: Jayempi
 active_substance: Azathioprinum
 marketing_authorisation_holder: Lipomed GmbH, Germany
-manufacturer: Pronav Clinical Limited, Ireland
+manufacturer: Lipomed GmbH, Germany
 atc_code: L04AX01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1557/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1557/001/smpc
