@@ -1,0 +1,17 @@
+--1:
+One dose (0.5 mL) contains:
+40 micrograms of selvacovatein adjuvanted with SQBA (EU/1/22/1709/001-004).
+Selvacovatein is a SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion heterodimer (B.1.351 and B.1.1.7 strains) produced by recombinant DNA technology using a plasmid expression vector in a CHO cell line.
+SQBA adjuvant containing per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
+
+--2:
+One dose (0.5 mL) contains:
+40 micrograms of damlecovatein adjuvanted with SQBA (EU/1/22/1709/005-007).
+Damlecovatein is a SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion homodimer (Omicron XBB.1.16 – XBB.1.16 strain) produced by recombinant DNA technology using a plasmid expression vector in a CHO cell line.
+SQBA adjuvant containing per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.
+
+--3:
+One dose (0.5 mL) contains:
+40 micrograms of SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion homodimer (Omicron LP.8.1-LP.8.1 strain) adjuvanted with SQBA (EU/1/22/1709/008-010).
+Produced by recombinant DNA technology using a plasmid expression vector in a CHO cell line.
+SQBA adjuvant containing per 0.5 mL dose: squalene (9.75 mg), polysorbate 80 (1.18 mg), sorbitan trioleate (1.18 mg), sodium citrate (0.66 mg), citric acid (0.04 mg) and water for injections.

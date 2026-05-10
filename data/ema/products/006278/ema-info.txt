@@ -1,8 +1,8 @@
 EMA product number: EMEA/H/C/006278
 Name of medicine: mResvia
 Medicine status: Authorised
-International non-proprietary name (INN) / common name: Single-stranded 5' capped mRNA encoding the respiratory syncytial virus glycoprotein F stabilised in the prefusion conformation;Respiratory syncytial virus mRNA vaccine (nucleoside modified)
-Active substance: Single-stranded 5' capped mRNA encoding the respiratory syncytial virus glycoprotein F stabilised in the prefusion conformation;Respiratory syncytial virus mRNA vaccine (nucleoside modified)
+International non-proprietary name (INN) / common name: respiratory syncytial virus mRNA vaccine
+Active substance: Single-stranded 5' capped mRNA encoding the respiratory syncytial virus glycoprotein F stabilised in the prefusion conformation
 Therapeutic area (MeSH): Respiratory Syncytial Virus Infections
 ATC code (human): J07BX05
 Pharmacotherapeutic group (human): Other viral vaccines

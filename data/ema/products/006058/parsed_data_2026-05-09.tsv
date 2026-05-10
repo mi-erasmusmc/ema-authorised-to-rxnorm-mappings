@@ -1,0 +1,11 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/22/1709/001	EMEA/H/C/006058	--1 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	5 ml (10 doses)	10 multidose vials (100 doses)	BIMERVAX
+EU/1/22/1709/002	EMEA/H/C/006058	--1 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	5 single dose vials (5 doses)	BIMERVAX
+EU/1/22/1709/003	EMEA/H/C/006058	--1 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	10 single dose vials (10 doses)	BIMERVAX
+EU/1/22/1709/004	EMEA/H/C/006058	--1 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	20 single dose vials (20 doses)	BIMERVAX
+EU/1/22/1709/005	EMEA/H/C/006058	--2 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	5 single dose vials (5 doses)	BIMERVAX XBB.1.16
+EU/1/22/1709/006	EMEA/H/C/006058	--2 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	10 single dose vials (10 doses)	BIMERVAX XBB.1.16
+EU/1/22/1709/007	EMEA/H/C/006058	--2 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	20 single dose vials (20 doses)	BIMERVAX XBB.1.16
+EU/1/22/1709/008	EMEA/H/C/006058	--3 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	10 single dose vials (10 doses)	BIMERVAX LP.8.1
+EU/1/22/1709/009	EMEA/H/C/006058	--3 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	20 single dose vials (20 doses)	BIMERVAX LP.8.1
+EU/1/22/1709/010	EMEA/H/C/006058	--3 see footnote.txt	Emulsion for injection	Intramuscular use	vial (glass)	0.5 ml (1 dose)	1 single dose vial (1 dose)	BIMERVAX LP.8.1

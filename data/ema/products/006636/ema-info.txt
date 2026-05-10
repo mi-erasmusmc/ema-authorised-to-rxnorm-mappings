@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006636
 Name of medicine: Palsonify
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: paltusotine
 Active substance: paltusotine hydrochloride
 Therapeutic area (MeSH): Acromegaly
-ATC code (human): H01C
+ATC code (human): H01CB06
 Pharmacotherapeutic group (human): Pituitary and hypothalamic hormones and analogues
-Therapeutic indication: Maintenance treatment in adult patients with acromegaly.
+Therapeutic indication: Palsonify is indicated for the medical treatment of adult patients with acromegaly.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/palsonify

@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/005343
 Name of medicine: Mvabea
-Medicine status: Authorised
+Medicine status: Withdrawn
 International non-proprietary name (INN) / common name: Ebola vaccine (MVA-BN-Filo [recombinant])
 Active substance: recombinant Modified Vaccinia Ankara Bavarian Nordic Virus encoding the: Ebola virus Zaire (ZEBOV) Mayinga strain glycoprotein (GP); Ebola virus Sudan Gulu strain GP; Ebola virus Taï Forest strain nucleoprotein and the Marburg virus Musoke strain GP
 Therapeutic area (MeSH): Hemorrhagic Fever, Ebola
 ATC code (human): J07BX
 Pharmacotherapeutic group (human): Vaccines
-Therapeutic indication: Active immunization for prevention of disease caused by Ebola virus (Zaire Ebolavirus species) in individuals ? 1 year of age.
+Therapeutic indication: Mvabea, as part of the Zabdeno, Mvabea vaccine regimen, is indicated for active immunisation for prevention of disease caused by Ebola virus (Zaire ebolavirus species) in individuals ≥ 1 year of age (see sections 4.4 and 5.1).
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mvabea

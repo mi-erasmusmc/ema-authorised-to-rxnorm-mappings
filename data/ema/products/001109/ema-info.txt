@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/001109
 Name of medicine: Ilaris
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: canakinumab
-Active substance: Canakinumab
+Active substance: canakinumab
 Therapeutic area (MeSH): Cryopyrin-Associated Periodic Syndromes;Arthritis, Juvenile Rheumatoid;Arthritis, Gouty
 ATC code (human): L04AC08
 Pharmacotherapeutic group (human): Interleukin inhibitors

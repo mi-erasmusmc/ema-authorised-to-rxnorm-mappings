@@ -6,7 +6,7 @@ Active substance: asciminib hydrochloride
 Therapeutic area (MeSH): Leukemia, Myelogenous, Chronic, BCR-ABL Positive
 ATC code (human): L01EA06
 Pharmacotherapeutic group (human): Antineoplastic agents
-Therapeutic indication: Scemblix is indicated for the treatment of adult patients with Philadelphia chromosome positive chronic myeloid leukaemia in chronic phase (Ph+ CML CP) previously treated with two or more tyrosine kinase inhibitors (see section 5.1).
+Therapeutic indication: Scemblix is indicated for the treatment of adult patients with Philadelphia chromosome positive chronic myeloid leukaemia in chronic phase (Ph+ CML CP). Scemblix is indicated for the treatment of adult patients with Ph+ CML-CP with the T315I mutation who are resistant to, intolerant to or ineligible for ponatinib (see section&nbsp;5.1).
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/scemblix

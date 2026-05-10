@@ -1,6 +1,6 @@
 EMA product number: EMEA/H/C/005337
 Name of medicine: Zabdeno
-Medicine status: Authorised
+Medicine status: Withdrawn
 International non-proprietary name (INN) / common name: ebola vaccine (Ad26.ZEBOV-GP [recombinant])
 Active substance: recombinant adenovirus type 26 (Ad26) encoding the glycoprotein (GP) of the Ebola virus Zaire (ZEBOV) Mayinga strain
 Therapeutic area (MeSH): Hemorrhagic Fever, Ebola
