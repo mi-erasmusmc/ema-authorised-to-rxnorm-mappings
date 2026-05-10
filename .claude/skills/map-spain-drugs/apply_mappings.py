@@ -3,8 +3,9 @@
 Merge mapping updates into a mapping.tsv file.
 
 Reads new/updated rows from stdin as TSV (same columns as mapping.tsv).
-- Existing cod_nacion: updated in place (preserves row order)
-- New cod_nacion: appended at the end
+- Existing cod_nacion: updated in place
+- New cod_nacion: added
+- Output is always sorted by cod_nacion
 
 Usage:
     python3 .claude/skills/map-spain-drugs/apply_mappings.py data/spain/products/<folder>/mapping.tsv <<'EOF'
@@ -32,6 +33,11 @@ COLUMNS = [
     "cod_nacion", "nro_definitivo", "concept_id", "concept_name",
     "concept_code", "mapping_type", "comment", "suggestion", "last_updated_date",
 ]
+
+
+def cod_nacion_sort_key(row):
+    cod = clean(row.get("cod_nacion", ""))
+    return (0, int(cod)) if cod.isdigit() else (1, cod)
 
 
 def validate_columns(rows, label):
@@ -63,6 +69,7 @@ def main():
             if not row.get("last_updated_date", "").strip():
                 row["last_updated_date"] = today
                 n += 1
+        rows.sort(key=cod_nacion_sort_key)
         write_tsv(mapping_path, rows, COLUMNS)
         print(f"Backfilled dates on {n} rows → {mapping_path}")
         return
@@ -104,6 +111,7 @@ def main():
         if row["cod_nacion"] in updates_by_cod:
             merged.append(updates_by_cod.pop(row["cod_nacion"]))
 
+    merged.sort(key=cod_nacion_sort_key)
     write_tsv(mapping_path, merged, COLUMNS)
 
     n_updated = sum(1 for r in updates if r["cod_nacion"] in existing_cods)

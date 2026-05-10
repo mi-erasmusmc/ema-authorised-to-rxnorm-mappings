@@ -16,6 +16,9 @@ Usage:
 Flags:
     --only-missing    Only fill rows with no concept_id and no mapping_type
     --backfill-dates  Fill today's date on existing rows with empty last_updated_date
+
+Output:
+    mapping.tsv is always rewritten in cod_nacion order.
 """
 
 import csv
@@ -47,6 +50,11 @@ MAPPING_COLUMNS = [
     "suggestion",
     "last_updated_date",
 ]
+
+
+def cod_nacion_sort_key(row):
+    cod = clean(row.get("cod_nacion", ""))
+    return (0, int(cod)) if cod.isdigit() else (1, cod)
 
 
 def validate_input_rows(rows):
@@ -86,6 +94,7 @@ def main():
             if not clean(row.get("last_updated_date", "")):
                 row["last_updated_date"] = today
                 changed += 1
+        existing_rows.sort(key=cod_nacion_sort_key)
         write_tsv(mapping_path, existing_rows, MAPPING_COLUMNS)
         print(f"Backfilled dates on {changed} rows -> {mapping_path}")
         return
@@ -139,7 +148,7 @@ def main():
         if key not in data_patterns:
             fail(f"stdin pattern did not exist in data: {key}")
 
-    # Merge: preserve data.tsv ordering, keep existing unmapped rows
+    # Merge all rows, then normalize final output to cod_nacion order.
     merged_rows = []
     seen_ids = set()
     for data_row in data_rows:
@@ -159,6 +168,7 @@ def main():
             seen_ids.add(cod)
             merged_rows.append({col: clean(row.get(col, "")) for col in MAPPING_COLUMNS})
 
+    merged_rows.sort(key=cod_nacion_sort_key)
     write_tsv(mapping_path, merged_rows, MAPPING_COLUMNS)
     print(f"Applied {len(updates)} pattern rows -> {len(matched_ids)} cod_nacion rows in {mapping_path}")
 

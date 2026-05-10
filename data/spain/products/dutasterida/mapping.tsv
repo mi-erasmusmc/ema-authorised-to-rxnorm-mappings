@@ -2,6 +2,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698356	77634	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 698357	77635	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 703402	78989	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
+705701	79628	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 706191	79750	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 709770	80581	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 709796	80595	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
@@ -9,21 +10,21 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 712213	81152	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 712214	81153	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 712367	81195	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
+712671	81244	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
+713606	81431	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 713833	81493	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 713842	81498	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 714089	81574	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
+714983	81781	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
+715576	81938	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 722264	83259	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 722265	83259	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
+723626	035895010	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-03-15
+726726	035895010IP	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-03-15
 726836	84497	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 727245	84597	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
 727529	65178	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-03-29
-705701	79628	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
-712671	81244	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
-713606	81431	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
-714983	81781	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
-715576	81938	989485	dutasteride 0.5 MG Oral Capsule	351172	EXACT			2026-03-15
-723626	035895010	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-03-15
-726726	035895010IP	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-03-15
 728125	035895010IP1	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-03-15
 728976	035895010IP2	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-03-15
 763711	58047-04-09-2015IP	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-03-15
+769829	035895010IP3	989486	dutasteride 0.5 MG Oral Capsule [Avodart]	352118	EXACT			2026-05-10
