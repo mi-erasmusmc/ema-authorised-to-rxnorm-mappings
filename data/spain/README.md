@@ -66,7 +66,7 @@ To refresh from AEMPS without losing manual edits:
 
 ```bash
 # Download latest nomenclator and re-split into product folders
-make update_spain_data
+make update_spain
 
 # Review what changed
 make list_spain_changes

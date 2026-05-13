@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006496
 Name of medicine: Xolremdi
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: mavorixafor
 Active substance: mavorixafor
 Therapeutic area (MeSH): Primary Immunodeficiency Diseases
-ATC code (human): Not yet assigned
-Pharmacotherapeutic group (human): 
-Therapeutic indication: Treatment of WHIM syndrome.
+ATC code (human): L03AX24
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Xolremdi is indicated in patients 12 years of age and older for the treatment of WHIM syndrome (warts, hypogammaglobulinemia, infections and myelokathexis) to increase the number of circulating mature neutrophils and lymphocytes.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/xolremdi

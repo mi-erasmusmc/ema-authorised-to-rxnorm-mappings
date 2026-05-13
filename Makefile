@@ -41,7 +41,7 @@ list_spain_changes:
 fetch_spain_pdf:
 	$(PYTHON) data/spain/fetch_pdf.py $(ARGS)
 
-update_spain_data: download_spain_nomenclator split_spain_by_ingredient
+update_spain: download_spain_nomenclator split_spain_by_ingredient
 
 update_latvia:
 	$(PYTHON) data/latvia/download_zva.py $(ARGS)
@@ -70,7 +70,7 @@ list_pdfs_by_date:
 prepare_parse_batch:
 	$(PYTHON) .claude/skills/process-ema-data/scripts/prepare_parse_batch.py $(ARGS)
 
-fetch_ema_updates:
+update_ema:
 	$(PYTHON) .claude/skills/process-ema-data/scripts/fetch_ema_updates.py $(ARGS)
 
 download_ema_presentation_files:
@@ -124,9 +124,9 @@ load_spain:
 .PHONY: validate_spain apply_mappings find_duplicate_nros \
         list_folder_patterns list_latvia_patterns apply_spain_patterns apply_latvia_patterns run_clean_room_batch \
         download_spain_nomenclator split_spain_by_ingredient list_spain_changes \
-        fetch_spain_pdf update_spain_data update_latvia \
+        fetch_spain_pdf update_spain update_latvia update_ema \
         validate_ema find_unmapped generate_ema_info find_missing_files list_pdfs_by_date \
-        prepare_parse_batch fetch_ema_updates download_ema_presentation_files \
+        prepare_parse_batch download_ema_presentation_files \
         validate_latvia fill_missing_latvian_mappings find_concepts \
         resolve_rxcui_name search_dose_forms validate_mapping find_conflicts apply_mapping \
         show_unmapped sync_mappings generate_mapping_overviews \

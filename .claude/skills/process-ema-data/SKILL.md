@@ -40,7 +40,7 @@ When asked to parse an EMA product PDF, extract packaging data from a product fo
 When asked to fetch, download, or update EMA data, run a single command:
 
 ```bash
-make fetch_ema_updates
+make update_ema
 ```
 
 This automatically:
@@ -50,7 +50,7 @@ This automatically:
 
 To override the auto-detected date cutoff:
 ```bash
-make fetch_ema_updates ARGS="--since YYYY-MM-DD"
+make update_ema ARGS="--since YYYY-MM-DD"
 ```
 
 After fetching, proceed to parse the new PDFs using the steps below.
