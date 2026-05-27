@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006416
 Name of medicine: Tuyory
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: tocilizumab
 Active substance: tocilizumab
 Therapeutic area (MeSH): Arthritis, Rheumatoid;Arthritis, Juvenile;Cytokine Release Syndrome;Giant Cell Arteritis;COVID-19 virus infection
 ATC code (human): L04AC07
 Pharmacotherapeutic group (human): Immunosuppressants
-Therapeutic indication: Treatment of rheumatoid arthritis and other immunological conditions.
+Therapeutic indication: Rheumatoid arthritis (RA) Tuyory, in combination with methotrexate (MTX), is indicated for:- the treatment of severe, active and progressive RA in adults not previously treated with MTX.- the treatment of moderate to severe active RA in adult patients who have either responded inadequately to, or who were intolerant to, previous therapy with one or more disease- modifying anti-rheumatic drugs (DMARDs) or tumour necrosis factor (TNF) antagonists.In these patients, Tuyory can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.Tocilizumab has been shown to reduce the rate of progression of joint damage as measured by X-ray and to improve physical function when given in combination with methotrexate. Coronavirus disease 2019 (COVID-19) Tuyory is indicated for the treatment of COVID-19 in adults who are receiving systemic corticosteroids and require supplemental oxygen or mechanical ventilation. Systemic juvenile idiopathic arthritis (sJIA) Tuyory is indicated for the treatment of active sJIA in patients 1 year of age and older, who have responded inadequately to previous therapy with non-steroidal anti-inflammatory drugs (NSAIDs) and systemic corticosteroids. Tuyory can be given as monotherapy (in case of intolerance to MTX or where treatment with MTX is inappropriate) or in combination with MTX.Polyarticular juvenile idiopathic arthritis (pJIA) Tuyory in combination with MTX is indicated for the treatment of pJIA (rheumatoid factor positive or negative and extended oligoarthritis) in patients 2 years of age and older, who have responded inadequately to previous therapy with MTX. Tuyory can be given as monotherapy in case of intolerance to MTX or where continued treatment with MTX is inappropriate.Cytokine release syndrome (CRS) Tuyory is indicated for the treatment of chimeric antigen receptor (CAR) T cell-induced severe or life-threatening CRS in adults and paediatric patients 2 years of age and older. Giant cell arteritis (GCA) Tuyory is indicated for the treatment of GCA in adult patients.
 Biosimilar: Yes
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tuyory

@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/000201
 Name of medicine: Insuman
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: insulin human
-Active substance: Insulin human
+Active substance: insulin human
 Therapeutic area (MeSH): Diabetes Mellitus
 ATC code (human): A10AB01;A10AC01
 Pharmacotherapeutic group (human): Drugs used in diabetes

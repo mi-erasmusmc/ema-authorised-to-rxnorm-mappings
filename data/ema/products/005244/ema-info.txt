@@ -4,9 +4,9 @@ Medicine status: Authorised
 International non-proprietary name (INN) / common name: selumetinib
 Active substance: selumetinib sulfate
 Therapeutic area (MeSH): Neurofibromatosis 1
-ATC code (human): 
+ATC code (human): L01EE04
 Pharmacotherapeutic group (human): Antineoplastic agents
-Therapeutic indication: Koselugo as monotherapy is indicated for the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in paediatric patients with neurofibromatosis type 1 (NF1) aged 3 years and above
+Therapeutic indication: Koselugo as monotherapy is indicated for the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in adult and paediatric patients with neurofibromatosis type 1 (NF1) aged 3 years and older. Koselugo as monotherapy is indicated for the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in patients with neurofibromatosis type 1 (NF1) aged 1 year to less than 7 years and for older patients with swallowing difficulties.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/koselugo

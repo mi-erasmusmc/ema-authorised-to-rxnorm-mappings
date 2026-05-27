@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/006376
 Name of medicine: Enwylma
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: denosumab
-Active substance: 
+Active substance: denosumab
 Therapeutic area (MeSH): Neoplasms, Bone Tissue;Giant Cell Tumor of Bone
 ATC code (human): M05BX04
 Pharmacotherapeutic group (human): Drugs for treatment of bone diseases

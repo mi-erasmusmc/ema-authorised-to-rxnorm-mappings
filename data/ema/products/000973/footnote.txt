@@ -1,0 +1,16 @@
+--1 1 dose (0.5 ml) contains:
+Pneumococcal polysaccharide serotype 1* 1 microgram
+Pneumococcal polysaccharide serotype 4* 3 micrograms
+Pneumococcal polysaccharide serotype 5* 1 microgram
+Pneumococcal polysaccharide serotype 6B* 1 microgram
+Pneumococcal polysaccharide serotype 7F* 1 microgram
+Pneumococcal polysaccharide serotype 9V* 1 microgram
+Pneumococcal polysaccharide serotype 14* 1 microgram
+Pneumococcal polysaccharide serotype 18C* 3 micrograms
+Pneumococcal polysaccharide serotype 19F* 3 micrograms
+Pneumococcal polysaccharide serotype 23F* 1 microgram
+
+* adsorbed on aluminium phosphate 0.5 milligram Al3+
+1 conjugated to protein D (derived from non-typeable Haemophilus influenzae) carrier protein 9-16 micrograms
+2 conjugated to tetanus toxoid carrier protein 5-10 micrograms
+3 conjugated to diphtheria toxoid carrier protein 3-6 micrograms

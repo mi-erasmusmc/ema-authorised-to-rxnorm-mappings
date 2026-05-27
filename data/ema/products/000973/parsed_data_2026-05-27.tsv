@@ -1,0 +1,12 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/09/508/001	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe	Synflorix
+EU/1/09/508/002	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes	Synflorix
+EU/1/09/508/003	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe + 1 needle	Synflorix
+EU/1/09/508/004	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	10 pre-filled syringes + 10 needles	Synflorix
+EU/1/09/508/005	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	1 pre-filled syringe + 2 needles	Synflorix
+EU/1/09/508/006	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	1 vial	Synflorix
+EU/1/09/508/007	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	10 vials	Synflorix
+EU/1/09/508/008	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	0.5 ml	100 vials	Synflorix
+EU/1/09/508/010	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	pre-filled syringe (glass)	0.5 ml	50 pre-filled syringes	Synflorix
+EU/1/09/508/012	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	2.0 ml	10 vials (multidose)	Synflorix
+EU/1/09/508/013	EMEA/H/C/000973	--1 see footnote.txt	Suspension for injection	Intramuscular use	vial (glass)	2.0 ml	100 vials (multidose)	Synflorix

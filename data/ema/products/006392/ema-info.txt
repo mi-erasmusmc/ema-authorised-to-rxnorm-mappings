@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006392
+Name of medicine: Orblid
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: bevacizumab
+Active substance: bevacizumab
+Therapeutic area (MeSH): Telangiectasia, Hereditary Hemorrhagic
+ATC code (human): L01FG01
+Pharmacotherapeutic group (human): Antineoplastic agents;monoclonal antibodies and antibody drug conjugates
+Therapeutic indication: Treatment of adult patients with hereditary haemorrhagic telangiectasia
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/orblid

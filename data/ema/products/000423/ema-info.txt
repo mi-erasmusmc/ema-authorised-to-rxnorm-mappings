@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/000423
 Name of medicine: Velosulin
 Medicine status: Withdrawn
 International non-proprietary name (INN) / common name: insulin human (rDNA)
-Active substance: Insulin human
+Active substance: insulin human
 Therapeutic area (MeSH): Diabetes Mellitus
 ATC code (human): A10AB01
 Pharmacotherapeutic group (human): Drugs used in diabetes

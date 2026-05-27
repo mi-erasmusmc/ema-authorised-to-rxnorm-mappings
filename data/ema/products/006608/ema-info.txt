@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006608
+Name of medicine: Deqtynet
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: copper (64Cu) oxodotreotide
+Active substance: oxodotreotide
+Therapeutic area (MeSH): Radionuclide Imaging
+ATC code (human): V09IX15
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: Positron emission tomography (PET) for localization of somatostatin receptor positive neuroendocrine neoplasms (NENs).
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/deqtynet

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006653
+Name of medicine: Colchicine Agepha Pharma
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: colchicine
+Active substance: colchicine
+Therapeutic area (MeSH): Myocardial Infarction;Stroke;Coronary Artery Disease
+ATC code (human): M04AC01
+Pharmacotherapeutic group (human): Antigout preparations
+Therapeutic indication: Indicated to reduce the risk of myocardial infarction (MI), stroke, coronary revascularization, and cardiovascular death in patients with atherosclerotic disease or with multiple risk factors for cardiovascular disease.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/colchicine-agepha-pharma

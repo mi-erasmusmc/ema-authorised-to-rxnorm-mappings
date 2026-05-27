@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006901
+Name of medicine: Veblocema
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: infliximab
+Active substance: infliximab
+Therapeutic area (MeSH): Arthritis, Rheumatoid;Crohn Disease;Colitis, Ulcerative
+ATC code (human): L04AB02
+Pharmacotherapeutic group (human): Immunosuppressants
+Therapeutic indication: Treatment of adults with Rheumatoid arthritis, Crohn’s disease or Ulcerative colitis
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/veblocema

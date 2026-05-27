@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006187
 Name of medicine: Dazparda
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: insulin aspart
 Active substance: insulin aspart
 Therapeutic area (MeSH): Diabetes Mellitus
 ATC code (human): A10AB05
 Pharmacotherapeutic group (human): Drugs used in diabetes
-Therapeutic indication: Treatment of diabetes mellitus from 1 year of age.
+Therapeutic indication: Dazparda is indicated for treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above.
 Biosimilar: Yes
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dazparda

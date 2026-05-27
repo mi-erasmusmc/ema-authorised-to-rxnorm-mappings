@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006620
+Name of medicine: Ablymico
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: liraglutide
+Active substance: liraglutide
+Therapeutic area (MeSH): Obesity;Overweight
+ATC code (human): A10BJ02
+Pharmacotherapeutic group (human): Drugs used in diabetes;Glucagon-like peptide-1 (GLP-1) analogues
+Therapeutic indication: Treatment of weight management.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico

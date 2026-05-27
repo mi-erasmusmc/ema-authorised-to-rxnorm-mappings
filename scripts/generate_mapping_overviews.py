@@ -85,7 +85,7 @@ def _load_medicines_report(report_file):
             product_number = row.get("EMA product number", "")
             if product_number:
                 report[product_number] = {
-                    "active_substance": row.get("Active substance", ""),
+                    "active_substance": row.get("Active substance", "") or row.get("International non-proprietary name (INN) / common name", ""),
                     "name_of_medicine": row.get("Name of medicine", ""),
                     "atc_code": row.get("ATC code (human)", ""),
                 }

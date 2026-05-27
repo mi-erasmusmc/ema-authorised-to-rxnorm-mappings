@@ -53,7 +53,12 @@ def main():
             continue
         if folder in products:
             row = products[folder]
-            lines = [f"{field}: {row.get(field, '')}" for field in FIELDS]
+            def _get(field):
+                val = row.get(field, "")
+                if field == "Active substance" and not val:
+                    val = row.get("International non-proprietary name (INN) / common name", "")
+                return val
+            lines = [f"{field}: {_get(field)}" for field in FIELDS]
             with open(os.path.join(folder_path, "ema-info.txt"), "w") as out:
                 out.write("\n".join(lines) + "\n")
             created += 1

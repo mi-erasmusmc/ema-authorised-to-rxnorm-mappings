@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006539
+Name of medicine: Vijoice
+Medicine status: Opinion
+International non-proprietary name (INN) / common name: alpelisib
+Active substance: alpelisib
+Therapeutic area (MeSH): Genetic Diseases, Inborn;Growth Disorders
+ATC code (human): L01EM03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of adult and paediatric patients aged 2 years and older with severe or life-threatening manifestations of PIK3CA-related overgrowth spectrum (PROS)
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vijoice

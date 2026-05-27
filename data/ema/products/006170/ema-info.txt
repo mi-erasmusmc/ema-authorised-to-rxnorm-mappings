@@ -3,10 +3,10 @@ Name of medicine: Hetronifly
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: serplulimab
 Active substance: serplulimab
-Therapeutic area (MeSH): Small Cell Lung Carcinoma
+Therapeutic area (MeSH): Small Cell Lung Carcinoma;Carcinoma, Non-Small-Cell Lung;Esophageal Squamous Cell Carcinoma
 ATC code (human): L01FF12
 Pharmacotherapeutic group (human): Antineoplastic agents
-Therapeutic indication: Hetronifly in combination with carboplatin and etoposide is indicated for the first-line treatment of adult patients with extensive-stage small cell lung cancer (ES-SCLC).
+Therapeutic indication: Small cell lung cancer (SCLC) Hetronifly in combination with carboplatin and etoposide is indicated for the first‑line treatment of adult patients with extensive‑stage small cell lung cancer (ES‑SCLC). Non-small cell lung carcinoma (NSCLC) Hetronifly in combination with carboplatin and pemetrexed is indicated for the first-line treatment of adult non-squamous&nbsp;NSCLC patients with no EGFR, ALK or ROS1 positive mutations and who have:  locally advanced NSCLC who are not candidates for surgery or radiotherapy, or metastatic NSCLC.  Oesophageal squamous cell carcinoma (OSCC) Hetronifly in combination with fluoropyrimidine- and platinum-based chemotherapy is indicated for the first-line treatment of adult patients with unresectable, locally advanced, recurrent or metastatic oesophageal squamous cell carcinoma whose tumours express PD-L1 with a CPS ≥ 5.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hetronifly

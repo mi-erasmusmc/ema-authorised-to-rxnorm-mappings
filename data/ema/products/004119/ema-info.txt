@@ -4,9 +4,9 @@ Medicine status: Authorised
 International non-proprietary name (INN) / common name: inotuzumab ozogamicin
 Active substance: Inotuzumab ozogamicin
 Therapeutic area (MeSH): Precursor Cell Lymphoblastic Leukemia-Lymphoma
-ATC code (human): L01FX06
+ATC code (human): L01FB01
 Pharmacotherapeutic group (human): Antineoplastic agents
-Therapeutic indication: Besponsa is indicated as monotherapy for the treatment of adults with relapsed or refractory CD22-positive B cell precursor acute lymphoblastic leukaemia (ALL). Adult patients with Philadelphia chromosome positive (Ph+) relapsed or refractory B cell precursor ALL should have failed treatment with at least 1 tyrosine kinase inhibitor (TKI).
+Therapeutic indication: Besponsa is indicated as monotherapy for the treatment of adults with relapsed or refractory CD22-positive B cell precursor acute lymphoblastic leukaemia (ALL). Adult pPatients with Philadelphia chromosome positive (Ph+) relapsed or refractory B cell precursor ALL should have failed treatment with at least 1 tyrosine kinase inhibitor (TKI).   Besponsa is indicated as monotherapy for paediatric patients 1 year and older with CD22-positive B cell precursor ALL: in first relapse after allo-haematopoietic stem cell transplant (HSCT); after any first relapse in patients with Very High Risk (VHR) disease (see section 5.1); after a second or greater relapse; and in those with refractory disease. Patients with Philadelphia chromosome positive (Ph+) disease should have exhausted relevant BCR-ABL targeting treatment options.&nbsp;
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/besponsa
