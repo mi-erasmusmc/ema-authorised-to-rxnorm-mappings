@@ -1,0 +1,2 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/25/2008/001	42801289	14 ML pertuzumab 30 MG/ML Injection	1298948	BROAD	RxNorm lacks pertuzumab-dpzb concepts; plain pertuzumab preserves dose and presentation.	14 ML pertuzumab-dpzb 30 MG/ML Injection [Poherdy]	2026-05-29

@@ -3,3 +3,5 @@ EU/1/25/1973/001	1466442	0.5 ML ustekinumab-kfce 90 MG/ML Injection	2705601	EXAC
 EU/1/25/1973/002	1466438	0.5 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe	2705592	EXACT			2026-03-29
 EU/1/25/1973/003	1466440	1 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe	2705599	EXACT			2026-03-29
 EU/1/25/1973/004	1466436	26 ML ustekinumab-kfce 5 MG/ML Injection	2705581	EXACT			2026-03-29
+EU/1/25/1973/005	1466438	0.5 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe	2705592	BROAD	No ustekinumab-kfce auto-injector concept found; prefilled syringe preserves biosimilar suffix and dose.	0.5 ML ustekinumab-kfce 90 MG/ML Auto-Injector [Usrenty]	2026-05-29
+EU/1/25/1973/006	1466440	1 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe	2705599	BROAD	No ustekinumab-kfce auto-injector concept found; prefilled syringe preserves biosimilar suffix and dose.	1 ML ustekinumab-kfce 90 MG/ML Auto-Injector [Usrenty]	2026-05-29
