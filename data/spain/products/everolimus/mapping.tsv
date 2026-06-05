@@ -1,14 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 697856	111710006	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-700525	66001	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-700527	66002	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-700528	66006	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-700529	66007	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-700530	66008	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-700531	66009	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-702015	111710010	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-702016	111710012	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
-702017	111710014	19135083	everolimus 5 MG Oral Tablet	845515	EXACT			2026-03-13
+700525	66001	40175813	everolimus 0.25 MG Oral Tablet	977427	EXACT			2026-06-05
+700527	66002	43185081	everolimus 0.25 MG Disintegrating Oral Tablet	OMOP503010	EXACT	Extension concept preserves the low-strength dispersible-tablet presentation; no 0.25 mg tablet-for-oral-suspension concept found.		2026-06-05
+700528	66006	40175817	everolimus 0.5 MG Oral Tablet	977434	EXACT			2026-06-05
+700529	66007	40175821	everolimus 0.75 MG Oral Tablet	977438	EXACT			2026-06-05
+700530	66008	35200596	everolimus 1 MG Oral Tablet	2056895	EXACT			2026-06-05
+700531	66009	43206979	everolimus 0.1 MG Disintegrating Oral Tablet	OMOP503024	EXACT	Extension concept preserves the low-strength dispersible-tablet presentation; no 0.1 mg tablet-for-oral-suspension concept found.		2026-06-05
+702015	111710010	42900297	everolimus 2 MG Tablet for Oral Suspension	1308428	EXACT			2026-06-05
+702016	111710012	42900301	everolimus 3 MG Tablet for Oral Suspension	1308430	EXACT			2026-06-05
+702017	111710014	42900305	everolimus 5 MG Tablet for Oral Suspension	1308432	EXACT			2026-06-05
 721874	83145	19135077	everolimus 10 MG Oral Tablet	845507	EXACT			2026-03-13
 721884	83147	19135083	everolimus 5 MG Oral Tablet	845515	EXACT			2026-03-13
 723490	83393	40223693	everolimus 2.5 MG Oral Tablet	998189	EXACT			2026-03-13

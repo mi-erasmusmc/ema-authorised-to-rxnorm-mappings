@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 653423	53193	44046204	Betamethasone 0.00064 MG/MG Topical Cream	OMOP1040835	EXACT			2026-03-13
-653424	55041	36889861	Betamethasone 0.00064 MG/MG Topical Ointment	OMOP991494	BROAD	RxNorm ointment strength does not cleanly align to the Spain 0.5 MG/G ointment row.	betamethasone 0.5 MG/G Topical Ointment	2026-03-13
+653424	55041	36889861	Betamethasone 0.00064 MG/MG Topical Ointment	OMOP991494	EXACT	CIMA labels 0.5 mg/g betamethasone as 0.64 mg/g betamethasone dipropionate.		2026-06-05
 694626	53193	44046204	Betamethasone 0.00064 MG/MG Topical Cream	OMOP1040835	EXACT			2026-03-13
 709795	80594	920626	betamethasone 0.5 MG/ML Oral Solution	246255	EXACT			2026-03-13
 806745	40628	19121383	betamethasone 3 MG/ML / betamethasone acetate 3 MG/ML Injectable Suspension	578803	EXACT			2026-03-13

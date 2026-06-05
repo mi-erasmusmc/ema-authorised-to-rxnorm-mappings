@@ -3,10 +3,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 650687	66575	40232706	oxycodone hydrochloride 10 MG Oral Capsule	1049717	EXACT			2026-03-13
 650691	66576	40232729	oxycodone hydrochloride 20 MG Oral Capsule	1049721	EXACT			2026-03-13
 650823	66614	40232713	oxycodone hydrochloride 10 MG/ML Oral Solution	1049720	EXACT			2026-03-13
-651505	63446	40232705	oxycodone hydrochloride 10 MG Extended Release Oral Tablet [Oxycontin]	1049506	EXACT			2026-03-13
-651679	63447	40232728	oxycodone hydrochloride 20 MG Extended Release Oral Tablet [Oxycontin]	1049567	EXACT			2026-03-13
-652099	63448	40232751	oxycodone hydrochloride 40 MG Extended Release Oral Tablet [Oxycontin]	1049588	EXACT			2026-03-13
-652511	63449	40232770	oxycodone hydrochloride 80 MG Extended Release Oral Tablet [Oxycontin]	1049603	EXACT			2026-03-13
+651505	63446	40231804	12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet	1049502	EXACT	RxNorm branded 12 HR Oxycontin concept adds abuse-deterrent wording not present in CIMA; unbranded 12 HR concept preserves the clinically relevant release duration.		2026-06-05
+651679	63447	40231810	12 HR oxycodone hydrochloride 20 MG Extended Release Oral Tablet	1049563	EXACT	RxNorm branded 12 HR Oxycontin concept adds abuse-deterrent wording not present in CIMA; unbranded 12 HR concept preserves the clinically relevant release duration.		2026-06-05
+652099	63448	40231814	12 HR oxycodone hydrochloride 40 MG Extended Release Oral Tablet	1049584	EXACT	RxNorm branded 12 HR Oxycontin concept adds abuse-deterrent wording not present in CIMA; unbranded 12 HR concept preserves the clinically relevant release duration.		2026-06-05
+652511	63449	40231818	12 HR oxycodone hydrochloride 80 MG Extended Release Oral Tablet	1049599	EXACT	RxNorm branded 12 HR Oxycontin concept adds abuse-deterrent wording not present in CIMA; unbranded 12 HR concept preserves the clinically relevant release duration.		2026-06-05
 658743	68605	40232753	oxycodone hydrochloride 5 MG Extended Release Oral Tablet	1049727	EXACT			2026-03-13
 663684	71243	40232712	oxycodone hydrochloride 10 MG/ML Injectable Solution	1049719	EXACT			2026-03-13
 663685	71243	40232712	oxycodone hydrochloride 10 MG/ML Injectable Solution	1049719	EXACT			2026-03-13

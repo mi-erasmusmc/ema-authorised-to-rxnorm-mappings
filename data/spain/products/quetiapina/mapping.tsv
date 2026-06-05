@@ -4,10 +4,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 603242	71556	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 603243	71557	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
 603267	70177	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
-606429	78245	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-606430	76955	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-606431	76954	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-606432	76953	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
+606429	78245	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+606430	76955	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+606431	76954	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+606432	76953	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
 660440	69556	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 660450	69558	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
 660452	69560	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
@@ -16,10 +16,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 660601	69636	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
 660604	69638	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 660607	69639	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
-660615	69645	19133813	quetiapine 50 MG Extended Release Oral Tablet [Seroquel]	833454	EXACT			2026-03-12
-660616	69646	19134839	quetiapine 200 MG Extended Release Oral Tablet [Seroquel]	845031	EXACT			2026-03-12
-660617	69647	19134841	quetiapine 300 MG Extended Release Oral Tablet [Seroquel]	845033	EXACT			2026-03-12
-660618	69648	19134843	quetiapine 400 MG Extended Release Oral Tablet [Seroquel]	845035	EXACT			2026-03-12
+660615	69645	40160986	24 HR quetiapine 50 MG Extended Release Oral Tablet [Seroquel]	853202	EXACT			2026-06-05
+660616	69646	766926	24 HR quetiapine 200 MG Extended Release Oral Tablet [Seroquel]	721793	EXACT			2026-06-05
+660617	69647	766928	24 HR quetiapine 300 MG Extended Release Oral Tablet [Seroquel]	721795	EXACT			2026-06-05
+660618	69648	766930	24 HR quetiapine 400 MG Extended Release Oral Tablet [Seroquel]	721797	EXACT			2026-06-05
 660619	69649	766820	quetiapine 25 MG Oral Tablet	312744	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
 660620	69650	766819	quetiapine 100 MG Oral Tablet	312743	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
 660623	69652	766842	quetiapine 200 MG Oral Tablet	317174	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
@@ -61,7 +61,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 661774	70200	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
 661789	70199	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 662573	69671	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
-662793	70859	767022	quetiapine 150 MG Extended Release Oral Tablet [Seroquel]	828289	EXACT			2026-03-12
+662793	70859	40169353	24 HR quetiapine 150 MG Extended Release Oral Tablet [Seroquel]	895671	EXACT			2026-06-05
 662891	69556	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 663556	71128	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 663557	71129	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
@@ -89,7 +89,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 672712	72882	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
 672713	72883	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 672714	72880	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
-676091	69645	19133813	quetiapine 50 MG Extended Release Oral Tablet [Seroquel]	833454	EXACT			2026-03-12
+676091	69645	40160986	24 HR quetiapine 50 MG Extended Release Oral Tablet [Seroquel]	853202	EXACT			2026-06-05
 679406	73829	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 679409	73831	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
 679414	73834	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
@@ -102,120 +102,120 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 682329	74444	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
 682359	74446	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 682375	74447	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
-684590	74755	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-684595	74757	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-684601	74758	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-687025	75279	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-687034	75280	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-687044	75281	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-687055	75282	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
+684590	74755	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+684595	74757	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+684601	74758	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+687025	75279	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+687034	75280	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+687044	75281	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+687055	75282	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
 687128	69805	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
-687957	75500	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-687967	75501	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-687977	75502	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-687986	75503	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-687997	75504	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-688007	75505	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-688017	75506	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-15
-688026	75507	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
+687957	75500	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+687967	75501	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+687977	75502	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+687986	75503	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+687997	75504	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+688007	75505	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+688017	75506	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+688026	75507	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
 691347	70195	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 691348	70195	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
-695034	76833	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-695093	76839	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-695146	76842	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-695790	76953	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-695792	76954	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-695793	76955	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-699646	77977	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-699647	77977	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-700188	78145	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-700189	78145	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-700474	78245	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-702204	78710	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-702205	78711	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-702206	78712	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-702207	78713	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-702208	78714	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-702210	78715	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-702211	78716	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-702212	78717	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-702213	78718	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-702214	78719	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-702215	78720	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-702216	78721	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-702218	78722	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-702219	78723	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-702220	78724	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-702221	78725	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-702222	78726	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-702223	78727	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-702224	78728	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-702226	78729	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-704025	79157	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
-704036	79158	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-15
-704046	79159	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
-704058	79160	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
-705639	79601	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-705641	79602	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-705642	79603	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-705643	79604	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-705644	79606	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-705645	79606	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-705986	79677	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-705987	79678	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-705989	79679	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-705990	79680	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-705991	79681	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-707030	80023	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-707031	80024	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-707032	80025	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-707852	80236	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-707855	80237	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-707857	80238	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-707859	80239	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-707861	80240	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-707863	80241	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-707865	80243	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-707866	80244	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-707867	80245	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
+695034	76833	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+695093	76839	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+695146	76842	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+695790	76953	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+695792	76954	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+695793	76955	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+699646	77977	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+699647	77977	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+700188	78145	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+700189	78145	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+700474	78245	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+702204	78710	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+702205	78711	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+702206	78712	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+702207	78713	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+702208	78714	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+702210	78715	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+702211	78716	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+702212	78717	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+702213	78718	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+702214	78719	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+702215	78720	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+702216	78721	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+702218	78722	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+702219	78723	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+702220	78724	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+702221	78725	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+702222	78726	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+702223	78727	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+702224	78728	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+702226	78729	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+704025	79157	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT	upgraded from BROAD ingredient-only mapping		2026-06-05
+704036	79158	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+704046	79159	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT	upgraded from BROAD ingredient-only mapping		2026-06-05
+704058	79160	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT	upgraded from BROAD ingredient-only mapping		2026-06-05
+705639	79601	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+705641	79602	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+705642	79603	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+705643	79604	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+705644	79606	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+705645	79606	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+705986	79677	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+705987	79678	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+705989	79679	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+705990	79680	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+705991	79681	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+707030	80023	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+707031	80024	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+707032	80025	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+707852	80236	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+707855	80237	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+707857	80238	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+707859	80239	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+707861	80240	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+707863	80241	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+707865	80243	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+707866	80244	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+707867	80245	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
 708305	80334	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 708306	80335	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
 708307	80336	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 708308	80337	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
 709009	80459	766923	quetiapine 50 MG Oral Tablet	616487	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
-709750	80569	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-709751	80569	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
+709750	80569	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+709751	80569	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
 710826	71128	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
-711203	80968	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
+711203	80968	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
 711228	80334	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
-711572	81048	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-712215	81154	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
+711572	81048	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+712215	81154	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
 713115	64436	19071493	quetiapine 300 MG Oral Tablet [Seroquel]	284509	EXACT			2026-03-12
 713336	70180	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 713444	81371	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 713445	81372	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 713447	81373	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
 713448	81374	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
-715375	81875	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-717019	82292	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-723322	83331	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-723368	83353	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-723369	83354	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-723370	83355	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-723371	83356	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-723373	83357	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-723380	83361	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-723381	83362	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-723382	83363	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-723384	83364	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-723421	83366	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
+715375	81875	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+717019	82292	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+723322	83331	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+723368	83353	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+723369	83354	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+723370	83355	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+723371	83356	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+723373	83357	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+723380	83361	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+723381	83362	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+723382	83363	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+723384	83364	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+723421	83366	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
 723624	72881	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 725059	71553	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
-725138	83949	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-725145	83950	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-725152	83951	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-725160	83952	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-725166	83953	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
+725138	83949	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+725145	83950	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+725152	83951	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+725160	83952	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+725166	83953	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
 726387	84358	19101761	quetiapine 150 MG Oral Tablet	389201	EXACT			2026-03-12
 726388	84359	766850	quetiapine 400 MG Oral Tablet	616483	EXACT			2026-03-12
 726393	84363	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
@@ -227,29 +227,29 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726598	84436	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 726599	84436	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 726600	84437	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
-726909	84518	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-726910	84519	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-726911	84520	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-726912	84521	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-726914	84522	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
+726909	84518	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+726910	84519	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+726911	84520	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+726912	84521	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+726914	84522	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
 728185	84957	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
 728186	84958	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 728187	84959	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 728189	84960	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
 728215	84969	35886639	quetiapine 600 MG Extended Release Oral Tablet	OMOP5034047	EXACT			2026-03-30
-730360	85764	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-730361	85765	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
-730362	85766	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-730363	85767	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-730364	85768	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
+730360	85764	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+730361	85765	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
+730362	85766	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+730363	85767	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+730364	85768	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
 731400	86112	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
 732885	86592	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
 732886	86593	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
 732895	86599	766923	quetiapine 50 MG Oral Tablet	616487	EXACT	upgraded from BROAD ingredient-only mapping		2026-03-12
-733031	86638	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-733033	86640	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-733034	86641	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-733035	86642	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
+733031	86638	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+733033	86640	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+733034	86641	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+733035	86642	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
 733092	86669	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
 758108	88013	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
 760137	88405	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
@@ -261,9 +261,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 870063	63054	766815	quetiapine 25 MG Oral Tablet [Seroquel]	153638	EXACT			2026-03-12
 870089	63055	766816	quetiapine 100 MG Oral Tablet [Seroquel]	153639	EXACT			2026-03-12
 870105	63056	19017556	quetiapine 200 MG Oral Tablet [Seroquel]	153640	EXACT			2026-03-12
-707864	80242	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-716183	82055	766931	quetiapine 150 MG Extended Release Oral Tablet	828287	EXACT			2026-03-12
-733032	86639	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
+707864	80242	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+716183	82055	40169352	24 HR quetiapine 150 MG Extended Release Oral Tablet	895670	EXACT			2026-06-05
+733032	86639	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
 652355	70135	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
 652363	70141	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 652371	70138	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
@@ -299,23 +299,23 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 692151	76189	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 692167	76190	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 692182	76191	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
-694667	76796	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-694668	76797	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-694807	76802	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-694808	76803	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
+694667	76796	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+694668	76797	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+694807	76802	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+694808	76803	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
 697354	77318	19101761	quetiapine 150 MG Oral Tablet	389201	EXACT			2026-03-12
 697366	77319	766842	quetiapine 200 MG Oral Tablet	317174	EXACT			2026-03-12
 697384	77321	766821	quetiapine 300 MG Oral Tablet	312745	EXACT			2026-03-12
 699849	77320	766820	quetiapine 25 MG Oral Tablet	312744	EXACT			2026-03-12
 699850	77317	766819	quetiapine 100 MG Oral Tablet	312743	EXACT			2026-03-12
-699987	78058	19133729	quetiapine 50 MG Extended Release Oral Tablet	832652	EXACT			2026-03-12
-699992	78059	19134838	quetiapine 200 MG Extended Release Oral Tablet	845030	EXACT			2026-03-12
-699993	78060	19134840	quetiapine 300 MG Extended Release Oral Tablet	845032	EXACT			2026-03-12
-699994	78061	19134842	quetiapine 400 MG Extended Release Oral Tablet	845034	EXACT			2026-03-12
+699987	78058	40160985	24 HR quetiapine 50 MG Extended Release Oral Tablet	853201	EXACT			2026-06-05
+699992	78059	766925	24 HR quetiapine 200 MG Extended Release Oral Tablet	721791	EXACT			2026-06-05
+699993	78060	766927	24 HR quetiapine 300 MG Extended Release Oral Tablet	721794	EXACT			2026-06-05
+699994	78061	766929	24 HR quetiapine 400 MG Extended Release Oral Tablet	721796	EXACT			2026-06-05
 765965	46412033	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
-769121	127419IP	19134843	quetiapine 400 MG Extended Release Oral Tablet [Seroquel]	845035	EXACT			2026-03-15
-769122	127422IP	19134841	quetiapine 300 MG Extended Release Oral Tablet [Seroquel]	845033	EXACT			2026-03-15
-769123	127421IP	19134839	quetiapine 200 MG Extended Release Oral Tablet [Seroquel]	845031	EXACT			2026-03-15
+769121	127419IP	766930	24 HR quetiapine 400 MG Extended Release Oral Tablet [Seroquel]	721797	EXACT			2026-06-05
+769122	127422IP	766928	24 HR quetiapine 300 MG Extended Release Oral Tablet [Seroquel]	721795	EXACT			2026-06-05
+769123	127421IP	766926	24 HR quetiapine 200 MG Extended Release Oral Tablet [Seroquel]	721793	EXACT			2026-06-05
 769225	46412033IP	766923	quetiapine 50 MG Oral Tablet	616487	EXACT			2026-03-12
 769470	123463IP	19017556	quetiapine 200 MG Oral Tablet [Seroquel]	153640	EXACT			2026-03-15
 769537	124319	19071493	quetiapine 300 MG Oral Tablet [Seroquel]	284509	EXACT			2026-03-15
