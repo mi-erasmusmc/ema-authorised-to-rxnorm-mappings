@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 960856	56352	1036233	sucralfate 1000 MG Oral Tablet	314234	EXACT			2026-03-12
 975672	56352	1036233	sucralfate 1000 MG Oral Tablet	314234	EXACT			2026-03-12
-976225	57511	43028198	Sucralfate 1000 MG Oral Suspension	OMOP4843282	EXACT			2026-04-01
-984344	57511	43028198	Sucralfate 1000 MG Oral Suspension	OMOP4843282	EXACT			2026-04-01
+976225	57511	1036231	sucralfate 200 MG/ML Oral Suspension	247123	EXACT	5 mL sachet contains 1 g sucralfate per AEMPS SmPC (=200 MG/ML).		2026-06-05
+984344	57511	1036231	sucralfate 200 MG/ML Oral Suspension	247123	EXACT	5 mL sachet contains 1 g sucralfate per AEMPS SmPC (=200 MG/ML).		2026-06-05
