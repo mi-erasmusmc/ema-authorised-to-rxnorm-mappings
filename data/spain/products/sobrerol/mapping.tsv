@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-758896	53313	19039512	sobrerol	36669	BROAD	suppository 100mg; no RxNorm concept for sobrerol suppository	sobrerol 100 MG Rectal Suppository	2026-03-30
+758896	53313	19111902	sobrerol 100 MG	451643	BROAD	RxNorm lacks a sobrerol rectal suppository concept; this preserves the 100 mg strength.	sobrerol 100 MG Rectal Suppository	2026-06-06
 758920	53311	19128897	sobrerol 8 MG/ML Oral Solution	755940	EXACT			2026-03-30
-824839	53315	19039512	sobrerol	36669	BROAD	suppository 200mg; no RxNorm concept for sobrerol suppository	sobrerol 200 MG Rectal Suppository	2026-03-30
-824870	53070	19039512	sobrerol	36669	BROAD	inhalation solution 40mg/3ml; no RxNorm concept for sobrerol inhalation	sobrerol 40 MG/3ML Inhalation Solution	2026-03-30
+824839	53315	42956036	sobrerol 200 MG	OMOP4682575	BROAD	RxNorm lacks a sobrerol rectal suppository concept; this preserves the 200 mg strength.	sobrerol 200 MG Rectal Suppository	2026-06-06
+824870	53070	19039512	sobrerol	36669	BROAD	RxNorm lacks a sobrerol inhalation solution concept; no 40 mg or 13.33 mg/mL strength-only fallback was found.	3 ML sobrerol 13.33 MG/ML Inhalation Solution	2026-06-06
 824888	53314	19103312	sobrerol 100 MG Oral Capsule	410009	EXACT	100mg hard capsule		2026-03-12

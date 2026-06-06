@@ -6,12 +6,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656238	68105	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-03-12
 656240	68106	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-03-12
 656755	64546	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-03-12
-658266	66203	1360332	glucosamine	4845	BROAD		glucosamine sulfate 1500 MG Oral Powder	2026-03-12
-658430	68446	1360332	glucosamine	4845	BROAD		glucosamine sulfate 1500 MG Oral Powder	2026-03-12
-658431	68446	1360332	glucosamine	4845	BROAD		glucosamine sulfate 1500 MG Oral Powder	2026-03-12
+658266	66203	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-06-06
+658430	68446	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-06-06
+658431	68446	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-06-06
 658648	68557	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-03-12
 658649	68557	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-03-12
-664983	72008	1360332	glucosamine	4845	BROAD		glucosamine sulfate 1500 MG Oral Powder	2026-03-12
+664983	72008	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-06-06
 673130	67084	42799744	glucosamine hydrochloride 750 MG Oral Tablet	1291244	EXACT			2026-03-12
 688732	75658	1360405	glucosamine hydrochloride 750 MG Oral Capsule	411451	EXACT			2026-03-12
 650919	61105	43182005	Glucosamine 1180 MG Powder for Oral Solution	OMOP475216	EXACT			2026-03-12

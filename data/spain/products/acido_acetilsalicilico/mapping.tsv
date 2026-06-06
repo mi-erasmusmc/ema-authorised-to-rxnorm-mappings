@@ -4,7 +4,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 605990	62825	19021575	aspirin 100 MG Delayed Release Oral Tablet	199335	EXACT			2026-03-12
 606126	77483	19021575	aspirin 100 MG Delayed Release Oral Tablet	199335	EXACT			2026-03-12
 607110	62825	19021575	aspirin 100 MG Delayed Release Oral Tablet	199335	EXACT			2026-03-12
-640144	58791	40009875	aspirin Extended Release Oral Capsule	376394	BROAD		aspirin 300 MG Extended Release Oral Capsule	2026-03-12
+640144	58791	19021511	aspirin 300 MG Oral Capsule	199274	BROAD	RxNorm lacks a strength-specific extended-release oral capsule; preserves 300 mg capsule dose form.	aspirin 300 MG Extended Release Oral Capsule	2026-06-06
 642793	59210	40009875	aspirin Extended Release Oral Capsule	376394	BROAD		aspirin 150 MG Extended Release Oral Capsule	2026-03-12
 654571	67875	40233411	aspirin 500 MG Oral Powder	1052980	EXACT			2026-03-12
 660370	67268	42479592	Aspirin 500 MG Effervescent Oral Tablet	OMOP418794	EXACT			2026-03-12
@@ -32,7 +32,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 765585	89776	19021575	aspirin 100 MG Delayed Release Oral Tablet	199335	EXACT			2026-03-12
 768049	86705	19021575	aspirin 100 MG Delayed Release Oral Tablet	199335	EXACT			2026-03-12
 841288	62825	19021575	aspirin 100 MG Delayed Release Oral Tablet	199335	EXACT			2026-03-12
-936526	58791	40009875	aspirin Extended Release Oral Capsule	376394	BROAD		aspirin 300 MG Extended Release Oral Capsule	2026-03-12
+936526	58791	19021511	aspirin 300 MG Oral Capsule	199274	BROAD	RxNorm lacks a strength-specific extended-release oral capsule; preserves 300 mg capsule dose form.	aspirin 300 MG Extended Release Oral Capsule	2026-06-06
 936534	59210	40009875	aspirin Extended Release Oral Capsule	376394	BROAD		aspirin 150 MG Extended Release Oral Capsule	2026-03-12
 605991	62824	19005970	aspirin 300 MG Delayed Release Oral Tablet	104899	EXACT			2026-03-12
 697897	77482	19021575	aspirin 100 MG Delayed Release Oral Tablet	199335	EXACT			2026-03-12

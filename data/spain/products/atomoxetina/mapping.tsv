@@ -10,7 +10,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 654841	67656	742230	atomoxetine 60 MG Oral Capsule [Strattera]	352321	EXACT			2026-03-13
 661552	70123	742265	atomoxetine 100 MG Oral Capsule [Strattera]	617945	EXACT			2026-03-13
 661555	70124	742266	atomoxetine 80 MG Oral Capsule [Strattera]	617947	EXACT			2026-03-13
-706844	79268	36223222	atomoxetine Oral Product	1158282	BROAD		4 MG/ML atomoxetine Oral Solution	2026-03-13
+706844	79268	21026267	atomoxetine 4 MG/ML Oral Solution [Strattera]	OMOP256376	EXACT			2026-06-06
 718811	82386	742186	atomoxetine 10 MG Oral Capsule	349591	EXACT			2026-03-13
 718812	82386	742186	atomoxetine 10 MG Oral Capsule	349591	EXACT			2026-03-13
 718813	82387	742187	atomoxetine 18 MG Oral Capsule	349592	EXACT			2026-03-13
@@ -55,7 +55,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726946	84535	742189	atomoxetine 40 MG Oral Capsule	349594	EXACT			2026-03-13
 726948	84536	742190	atomoxetine 60 MG Oral Capsule	349595	EXACT			2026-03-13
 726949	84537	19123233	atomoxetine 80 MG Oral Capsule	608143	EXACT			2026-03-13
-730398	85776	36223222	atomoxetine Oral Product	1158282	BROAD		4 MG/ML atomoxetine Oral Solution	2026-03-13
+730398	85776	21124225	atomoxetine 4 MG/ML Oral Solution	OMOP256375	EXACT			2026-06-06
 764197	89292	19123231	atomoxetine 100 MG Oral Capsule	608139	EXACT			2026-03-13
 764198	89293	742186	atomoxetine 10 MG Oral Capsule	349591	EXACT			2026-03-13
 764199	89293	742186	atomoxetine 10 MG Oral Capsule	349591	EXACT			2026-03-13

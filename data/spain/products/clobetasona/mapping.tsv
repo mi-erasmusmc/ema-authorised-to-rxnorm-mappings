@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-959957	56273	41086768	Clobetasone 0.0005 MG/MG Topical Cream	OMOP2284730	EXACT			2026-03-14
+959957	56273	19008543	clobetasone butyrate 0.5 MG/ML Topical Cream	106244	EXACT	Standard RxNorm expresses the 0.05% topical cream as 0.5 MG/ML, matching the labeled 0.5 mg/g strength convention used for this presentation.		2026-06-06

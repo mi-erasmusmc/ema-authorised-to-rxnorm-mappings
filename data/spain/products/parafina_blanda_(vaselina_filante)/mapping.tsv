@@ -1,10 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-653949	13363	40069100	petrolatum Topical Ointment	367375	EXACT	Source strength 1 mg/g appears anomalous for pure petrolatum ointment; mapped as petrolatum ointment.		2026-03-13
-844902	53212	40069100	petrolatum Topical Ointment	367375	EXACT			2026-03-13
-844910	53212	40069100	petrolatum Topical Ointment	367375	EXACT			2026-03-13
-844985	34411	40069100	petrolatum Topical Ointment	367375	EXACT			2026-03-13
-844993	34411	40069100	petrolatum Topical Ointment	367375	EXACT			2026-03-13
-845008	34411	40069100	petrolatum Topical Ointment	367375	EXACT			2026-03-13
-845081	13363	40069100	petrolatum Topical Ointment	367375	EXACT	Source strength 1 mg/g appears anomalous for pure petrolatum ointment; mapped as petrolatum ointment.		2026-03-13
-878975	47962	40069100	petrolatum Topical Ointment	367375	EXACT			2026-03-13
-973370	40415	40069100	petrolatum Topical Ointment	367375	EXACT			2026-03-13
+653949	13363	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT	des_dcp says pure 1 g/g petrolatum ointment; des_dosific 1 mg/g appears anomalous.		2026-06-06
+844902	53212	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT			2026-06-06
+844910	53212	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT			2026-06-06
+844985	34411	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT			2026-06-06
+844993	34411	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT			2026-06-06
+845008	34411	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT			2026-06-06
+845081	13363	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT	des_dcp says pure 1 g/g petrolatum ointment; des_dosific 1 mg/g appears anomalous.		2026-06-06
+878975	47962	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT			2026-06-06
+973370	40415	19028123	petrolatum 1 MG/MG Topical Ointment	204754	EXACT			2026-06-06

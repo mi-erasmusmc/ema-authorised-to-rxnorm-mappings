@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-685398	11690002	40058693	nomegestrol Oral Tablet	376269	BROAD	RxNorm does not expose the nomegestrol/estradiol combination tablet.	nomegestrol 2.5 MG / estradiol 1.5 MG Oral Tablet	2026-03-13
-685399	11690001	40058693	nomegestrol Oral Tablet	376269	BROAD	RxNorm does not expose the nomegestrol/estradiol combination tablet.	nomegestrol 2.5 MG / estradiol 1.5 MG Oral Tablet	2026-03-13
-715323	11690002IP	40058693	nomegestrol Oral Tablet	376269	BROAD	RxNorm does not expose the nomegestrol/estradiol combination tablet.	nomegestrol 2.5 MG / estradiol 1.5 MG Oral Tablet	2026-03-13
-715324	11690001IP	40058693	nomegestrol Oral Tablet	376269	BROAD	RxNorm does not expose the nomegestrol/estradiol combination tablet.	nomegestrol 2.5 MG / estradiol 1.5 MG Oral Tablet	2026-03-13
-767512	11690002IP1	40058693	nomegestrol Oral Tablet	376269	BROAD	RxNorm does not expose the nomegestrol/estradiol combination tablet.	nomegestrol 2.5 MG / estradiol 1.5 MG Oral Tablet	2026-03-13
-767513	11690001IP1	40058693	nomegestrol Oral Tablet	376269	BROAD	RxNorm does not expose the nomegestrol/estradiol combination tablet.	nomegestrol 2.5 MG / estradiol 1.5 MG Oral Tablet	2026-03-13
+685398	11690002	42658820	{24 (Estradiol 1.5 MG / nomegestrol 2.5 MG Oral Tablet) / 4 (Inert Ingredients 0 MG Oral Tablet) } Pack [Zoely]	OMOP4870404	EXACT			2026-06-06
+685399	11690001	42658820	{24 (Estradiol 1.5 MG / nomegestrol 2.5 MG Oral Tablet) / 4 (Inert Ingredients 0 MG Oral Tablet) } Pack [Zoely]	OMOP4870404	EXACT			2026-06-06
+715323	11690002IP	42658820	{24 (Estradiol 1.5 MG / nomegestrol 2.5 MG Oral Tablet) / 4 (Inert Ingredients 0 MG Oral Tablet) } Pack [Zoely]	OMOP4870404	EXACT			2026-06-06
+715324	11690001IP	42658820	{24 (Estradiol 1.5 MG / nomegestrol 2.5 MG Oral Tablet) / 4 (Inert Ingredients 0 MG Oral Tablet) } Pack [Zoely]	OMOP4870404	EXACT			2026-06-06
+767512	11690002IP1	42658820	{24 (Estradiol 1.5 MG / nomegestrol 2.5 MG Oral Tablet) / 4 (Inert Ingredients 0 MG Oral Tablet) } Pack [Zoely]	OMOP4870404	EXACT			2026-06-06
+767513	11690001IP1	42658820	{24 (Estradiol 1.5 MG / nomegestrol 2.5 MG Oral Tablet) / 4 (Inert Ingredients 0 MG Oral Tablet) } Pack [Zoely]	OMOP4870404	EXACT			2026-06-06

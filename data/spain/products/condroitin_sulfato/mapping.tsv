@@ -4,8 +4,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 757974	87950	1395598	chondroitin sulfates 400 MG Oral Capsule	259147	EXACT			2026-03-13
 815241	64549	1395598	chondroitin sulfates 400 MG Oral Capsule	259147	EXACT			2026-03-13
 873539	65481	1395598	chondroitin sulfates 400 MG Oral Capsule	259147	EXACT			2026-03-13
-708304	80333	1395573	chondroitin sulfates	2473	BROAD	RxNorm does not expose the sachet oral-solution presentation.	chondroitin sulfates 400 MG Powder for Oral Solution	2026-03-13
-708575	80391	1395573	chondroitin sulfates	2473	BROAD	RxNorm does not expose the sachet oral-solution presentation.	chondroitin sulfates 400 MG Powder for Oral Solution	2026-03-13
+708304	80333	1395612	chondroitin sulfates 400 MG	331694	BROAD	RxNorm does not expose the sachet oral-solution presentation; preserves the labeled 400 mg dose.	chondroitin sulfates 400 MG Powder for Oral Solution	2026-06-06
+708575	80391	1395612	chondroitin sulfates 400 MG	331694	BROAD	RxNorm does not expose the sachet oral-solution presentation; preserves the labeled 400 mg dose.	chondroitin sulfates 400 MG Powder for Oral Solution	2026-06-06
 769737	53768	40026439	chondroitin sulfates Topical Gel	438549	BROAD	RxNorm does not expose the matching 3 mg/g topical-gel strength.	chondroitin sulfates 3 MG/G Topical Gel	2026-03-13
 769745	18853	19104887	chondroitin sulfates 0.003 MG/MG Topical Ointment	417016	EXACT			2026-03-13
 815217	64547	1395598	chondroitin sulfates 400 MG Oral Capsule	259147	EXACT			2026-03-13

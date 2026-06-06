@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-980755	59439	42958983	Osseinum hydroxyapatitum 830 MG Oral Tablet	OMOP4685493	EXACT			2026-03-13
+980755	59439	19007648	durapatite 830 MG Oral Tablet	105740	EXACT	Standard RxNorm represents complejo de oseina-hidroxiapatita as durapatite; Extension Osseinum hydroxyapatitum is the same ossein-hydroxyapatite presentation.		2026-06-05

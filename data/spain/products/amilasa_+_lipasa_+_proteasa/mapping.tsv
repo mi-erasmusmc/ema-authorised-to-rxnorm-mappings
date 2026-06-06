@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656824	58719	19103962	pancreatin 150 MG Delayed Release Oral Capsule	412081	EXACT			2026-03-12
-656825	58719	19103962	pancreatin 150 MG Delayed Release Oral Capsule	412081	EXACT			2026-03-12
-672971	63832	19103964	pancreatin 300 MG Delayed Release Oral Capsule	412083	EXACT			2026-03-12
-672974	63832	19103964	pancreatin 300 MG Delayed Release Oral Capsule	412083	EXACT			2026-03-12
+656824	58719	36257126	Amylases 8000 UNT / Lipase 10000 UNT / Protease 600 UNT Delayed Release Oral Capsule	OMOP3108001	EXACT			2026-06-06
+656825	58719	36257126	Amylases 8000 UNT / Lipase 10000 UNT / Protease 600 UNT Delayed Release Oral Capsule	OMOP3108001	EXACT			2026-06-06
+672971	63832	43515153	alpha-amylase 18000 UNT / Lipase 25000 UNT / Protease 1000 UNT Delayed Release Oral Capsule	OMOP2802268	EXACT			2026-06-06
+672974	63832	43515153	alpha-amylase 18000 UNT / Lipase 25000 UNT / Protease 1000 UNT Delayed Release Oral Capsule	OMOP2802268	EXACT			2026-06-06
 697014	77205	44168280	Pancreas extract Oral Powder	OMOP3045003	BROAD	RxNorm exposes a pancreas-extract oral powder concept, but not the matching delayed-release oral-granules strength for this Kreon presentation.	amylase 36000 UNT/G / lipase 50000 UNT/G / protease 2000 UNT/G Delayed Release Oral Granules [Kreon]	2026-04-03
-724969	83862	2043432	pancreas extract 400 MG Delayed Release Oral Capsule	OMOP4943417	EXACT			2026-03-12
+724969	83862	2043432	pancreas extract 400 MG Delayed Release Oral Capsule	OMOP4943417	BROAD	RxNorm lacks the matching amylase/lipase/protease activity-unit delayed-release capsule for this Kreon 35,000 presentation; closest concept preserves pancreas extract and delayed-release capsule dose form.	amylase 25200 UNT / lipase 35000 UNT / protease 1400 UNT Delayed Release Oral Capsule [Kreon]	2026-06-06

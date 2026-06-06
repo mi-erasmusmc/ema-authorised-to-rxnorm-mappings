@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-725069	64718	1548198	estradiol 1 MG Oral Tablet	197658	EXACT			2026-03-13
+725069	64718	36814846	{12 (Estradiol 1 MG / Norethindrone 1 MG Oral Tablet) / 16 (Estradiol 1 MG Oral Tablet) } Pack	OMOP4828917	EXACT			2026-06-06
 753285	62465	42902238	estradiol 1 MG / norethindrone acetate 0.5 MG Oral Tablet	1359126	EXACT			2026-03-13
 660867	69746	40221101	estradiol / norethindrone Transdermal System	1806052	BROAD	Sequential transdermal pack: 4 estradiol-only patches then 4 combination patches; no sequential pack concept in RxNorm.	{4 (estradiol 0.00208 MG/HR Transdermal System) / 4 (estradiol 0.00208 MG/HR / norethindrone acetate 0.0104 MG/HR Transdermal System)} Pack [Estalis Sequidot]	2026-03-30
 662442	70576	42902235	estradiol 0.5 MG / norethindrone acetate 0.1 MG Oral Tablet	1359123	EXACT			2026-03-13

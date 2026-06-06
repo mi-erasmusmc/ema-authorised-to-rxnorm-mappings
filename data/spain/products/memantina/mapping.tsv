@@ -10,7 +10,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698158	77553	21085124	Memantine 10 MG/ML Oral Solution	OMOP269866	EXACT			2026-03-29
 698202	77580	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
 698203	77581	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
-698207	77585	40222850	memantine hydrochloride 20 MG Oral Tablet	750780	EXACT			2026-03-29
+698207	77585	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-29
 698247	77610	40222834	memantine hydrochloride 10 MG Oral Tablet	996561	EXACT			2026-03-12
 698249	77611	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2026-03-12
 698276	113827028	40222850	memantine hydrochloride 20 MG Oral Tablet	996752	EXACT			2025-12-04

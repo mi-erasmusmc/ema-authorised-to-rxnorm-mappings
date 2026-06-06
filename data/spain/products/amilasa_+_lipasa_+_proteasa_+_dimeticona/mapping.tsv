@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-801415	44633	40069010	pancreatin / simethicone Oral Tablet	376272	EXACT			2026-03-12
+801415	44633	19108026	pancreatin 170 MG / simethicone 80 MG Delayed Release Oral Tablet	434025	BROAD	RxNorm lacks the exact amylase/lipase/protease enzyme-unit combination with dimethicone; this preserves the 80 mg antiflatulent component and closest pancreatin tablet strength.	amylase 6000 UNT / lipase 6000 UNT / protease 400 UNT / simethicone 80 MG Oral Tablet	2026-06-06

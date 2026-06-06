@@ -1,52 +1,52 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 654387	67800	19101536	calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet	386989	EXACT			2026-04-01
 655967	68006	43024037	Calcium Carbonate / Cholecalciferol Powder for Oral Solution	OMOP4839152	BROAD		calcium carbonate 2500 MG / cholecalciferol 880 UNT Granules for Oral Solution	2026-03-22
-655997	68017	36060406	calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Tablet	OMOP4986213	EXACT			2026-03-12
-658362	68402	36060406	calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Tablet	OMOP4986213	EXACT			2026-03-12
-658771	68620	36060406	calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Tablet	OMOP4986213	EXACT			2026-03-12
+655997	68017	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	Spain bucodispersible/liotab row aligns best to RxNorm chewable tablet; 400 IU cholecalciferol = 0.01 MG.		2026-06-06
+658362	68402	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	Spain bucodispersible/liotab row aligns best to RxNorm chewable tablet; 400 IU cholecalciferol = 0.01 MG.		2026-06-06
+658771	68620	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	Spain bucodispersible/liotab row aligns best to RxNorm chewable tablet; 400 IU cholecalciferol = 0.01 MG.		2026-06-06
 664683	71639	21021604	Calcium Carbonate 2500 MG / Cholecalciferol 800 UNT Chewable Tablet	OMOP320610	EXACT			2026-03-31
-665187	72175	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
+665187	72175	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
 671656	72582	21139353	Calcium Carbonate 1250 MG / Cholecalciferol 800 UNT Chewable Tablet	OMOP320041	EXACT			2026-03-31
-673016	62263	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
+673016	62263	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
 678334	61159	19101536	calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet	386989	EXACT			2026-04-01
 678342	61159	19101536	calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet	386989	EXACT			2026-04-01
-680422	74056	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
-693699	76617	36892822	Calcium Carbonate 2500 MG / Cholecalciferol 8.8 MG Chewable Tablet	OMOP988786	EXACT			2026-03-30
-698564	77720	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
+680422	74056	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
+693699	76617	36060433	calcium carbonate 2500 MG / cholecalciferol 880 UNT Chewable Tablet	OMOP4986242	EXACT	880 IU cholecalciferol = 0.022 MG; avoiding erroneous 8.8 MG Extension concept.		2026-06-06
+698564	77720	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
 706766	79937	40237701	calcium carbonate 1200 MG / cholecalciferol 1000 UNT Chewable Tablet	1099869	EXACT			2026-03-12
 706773	79938	19101536	calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet	386989	EXACT			2026-04-01
 709863	80628	40237701	calcium carbonate 1200 MG / cholecalciferol 1000 UNT Chewable Tablet	1099869	EXACT			2026-03-12
 709881	62321	19101536	calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet	386989	EXACT			2026-03-12
 709889	80635	40019683	calcium carbonate / cholecalciferol Chewable Tablet	375786	BROAD		calcium carbonate 1250 MG / cholecalciferol 1000 UNT Chewable Tablet	2026-03-22
 710053	62321	19101536	calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet	386989	EXACT			2026-03-12
-715892	81988	36892822	Calcium Carbonate 2500 MG / Cholecalciferol 8.8 MG Chewable Tablet	OMOP988786	EXACT			2026-03-12
+715892	81988	36060433	calcium carbonate 2500 MG / cholecalciferol 880 UNT Chewable Tablet	OMOP4986242	EXACT	880 IU cholecalciferol = 0.022 MG; avoiding erroneous 8.8 MG Extension concept.		2026-06-06
 723723	83477	40237701	calcium carbonate 1200 MG / cholecalciferol 1000 UNT Chewable Tablet	1099869	EXACT			2026-03-12
 728979	85267	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 1500 MG / cholecalciferol 2000 UNT oral tablet	2026-04-01
-735811	64524	36060406	calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Tablet	OMOP4986213	EXACT			2026-03-12
-749002	62442	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
-758839	66064	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
+735811	64524	19036366	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Oral Tablet	428485	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
+749002	62442	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
+758839	66064	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
 891887	65097	19101536	calcium carbonate 1250 MG / cholecalciferol 0.01 MG Chewable Tablet	386989	EXACT			2026-04-01
-999730	65582	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
+999730	65582	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
 656383	68179	40019686	calcium carbonate / cholecalciferol Oral Solution	385561	BROAD	PIL states 128 mg/mL calcium carbonate; 3000 mg / 23.4 mL = 128 MG/ML CaCO3, 800 UNT / 23.4 mL ≈ 34 UNT/ML cholecalciferol; no RxNorm concept at this concentration	calcium carbonate 128 MG/ML / cholecalciferol 34 UNT/ML Oral Suspension	2026-03-22
 658183	68290	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 2500 MG / cholecalciferol 880 UNT Effervescent Oral Tablet	2026-03-22
 658189	68295	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 2500 MG / cholecalciferol 880 UNT Effervescent Oral Tablet	2026-03-22
-658396	68427	36060406	calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Tablet	OMOP4986213	EXACT			2026-03-12
-658397	68428	36060406	calcium carbonate 1500 MG / cholecalciferol 400 UNT Oral Tablet	OMOP4986213	EXACT			2026-03-12
+658396	68427	19036366	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Oral Tablet	428485	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
+658397	68428	19036366	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Oral Tablet	428485	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
 660691	69676	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 2500 MG / cholecalciferol 880 UNT Effervescent Oral Tablet	2026-03-22
 694522	76758	40166212	calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Tablet	864665	EXACT			2026-03-12
 694524	76760	40166212	calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Tablet	864665	EXACT			2026-03-12
 697784	76759	40166212	calcium carbonate 1500 MG / cholecalciferol 1000 UNT Oral Tablet	864665	EXACT			2026-03-12
 706637	79904	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 2500 MG / cholecalciferol 880 UNT Effervescent Oral Tablet	2026-03-22
-715333	81859	36892822	Calcium Carbonate 2500 MG / Cholecalciferol 8.8 MG Chewable Tablet	OMOP988786	EXACT			2026-03-12
-715336	81860	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
-715341	81862	36892822	Calcium Carbonate 2500 MG / Cholecalciferol 8.8 MG Chewable Tablet	OMOP988786	EXACT			2026-03-12
+715333	81859	36060433	calcium carbonate 2500 MG / cholecalciferol 880 UNT Chewable Tablet	OMOP4986242	EXACT	880 IU cholecalciferol = 0.022 MG; avoiding erroneous 8.8 MG Extension concept.		2026-06-06
+715336	81860	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
+715341	81862	36060433	calcium carbonate 2500 MG / cholecalciferol 880 UNT Chewable Tablet	OMOP4986242	EXACT	880 IU cholecalciferol = 0.022 MG; avoiding erroneous 8.8 MG Extension concept.		2026-06-06
 721238	032033019	43024037	Calcium Carbonate / Cholecalciferol Powder for Oral Solution	OMOP4839152	BROAD		calcium carbonate 2500 MG / cholecalciferol 880 UNT Granules for Oral Solution	2026-03-22
 728983	85269	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 1500 MG / cholecalciferol 2000 UNT oral tablet	2026-04-01
-758805	66063	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
+758805	66063	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
 763387	89047	40019683	calcium carbonate / cholecalciferol Chewable Tablet	375786	BROAD		calcium carbonate 1250 MG / cholecalciferol 2000 UNT Chewable Tablet	2026-03-12
 768931	041529052	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 1500 MG / cholecalciferol 2000 UNT oral tablet	2026-04-01
 769226	41529052IP	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 1500 MG / cholecalciferol 2000 UNT oral tablet	2026-04-01
-834549	62796	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
-849141	62871	2044505	calcium carbonate 1500 MG / cholecalciferol 400 IU Chewable Tablet	OMOP4944525	EXACT			2026-03-12
+834549	62796	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
+849141	62871	19101775	calcium carbonate 1500 MG / cholecalciferol 0.01 MG Chewable Tablet	389238	EXACT	400 IU cholecalciferol = 10 micrograms = 0.01 MG.		2026-06-06
 769891	41529052IP1	40019687	calcium carbonate / cholecalciferol Oral Tablet	375477	BROAD		calcium carbonate 1500 MG / cholecalciferol 2000 UNT oral tablet	2026-04-01
 767700	032033019IP	43024037	Calcium Carbonate / Cholecalciferol Powder for Oral Solution	OMOP4839152	BROAD		calcium carbonate 2500 MG / cholecalciferol 880 UNT Granules for Oral Solution	2026-03-28

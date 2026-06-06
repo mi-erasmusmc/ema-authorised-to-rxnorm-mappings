@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-658126	68254	43641669	Mometasone 0.001 MG/MG Topical Solution	OMOP683255	EXACT			2026-03-12
-658676	68576	43641669	Mometasone 0.001 MG/MG Topical Solution	OMOP683255	EXACT			2026-03-12
-662446	70577	43641669	Mometasone 0.001 MG/MG Topical Solution	OMOP683255	EXACT			2026-03-12
-662447	70577	43641669	Mometasone 0.001 MG/MG Topical Solution	OMOP683255	EXACT			2026-03-12
+658126	68254	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	RxNorm standard represents the 0.1% cutaneous liquid/solution as mometasone furoate topical lotion.		2026-06-06
+658676	68576	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	RxNorm standard represents the 0.1% cutaneous liquid/solution as mometasone furoate topical lotion.		2026-06-06
+662446	70577	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	RxNorm standard represents the 0.1% cutaneous liquid/solution as mometasone furoate topical lotion.		2026-06-06
+662447	70577	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	RxNorm standard represents the 0.1% cutaneous liquid/solution as mometasone furoate topical lotion.		2026-06-06
 663526	61905	36250102	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray [Nasonex]	1797870	EXACT			2026-03-12
 665194	70975	19012749	mometasone furoate 0.001 MG/MG Topical Ointment	151029	EXACT			2026-03-12
 665195	70975	19012749	mometasone furoate 0.001 MG/MG Topical Ointment	151029	EXACT			2026-03-12
@@ -25,12 +25,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 766765	80572	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
 797894	59706	905236	mometasone furoate 1 MG/ML Topical Cream	311753	EXACT			2026-03-12
 797928	59706	905236	mometasone furoate 1 MG/ML Topical Cream	311753	EXACT			2026-03-12
-797951	59707	43641669	Mometasone 0.001 MG/MG Topical Solution	OMOP683255	EXACT			2026-03-12
+797951	59707	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	RxNorm standard represents the 0.1% cutaneous liquid/solution as mometasone furoate topical lotion.		2026-06-06
 797977	59708	19012749	mometasone furoate 0.001 MG/MG Topical Ointment	151029	EXACT			2026-03-12
 807248	62689	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12
-656966	68347	43641669	Mometasone 0.001 MG/MG Topical Solution	OMOP683255	EXACT			2026-03-12
-673181	68599	43641669	Mometasone 0.001 MG/MG Topical Solution	OMOP683255	EXACT			2026-03-12
-680785	60999	43641669	Mometasone 0.001 MG/MG Topical Solution	OMOP683255	EXACT			2026-03-12
+656966	68347	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	RxNorm standard represents the 0.1% cutaneous liquid/solution as mometasone furoate topical lotion.		2026-06-06
+673181	68599	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	RxNorm standard represents the 0.1% cutaneous liquid/solution as mometasone furoate topical lotion.		2026-06-06
+680785	60999	19012750	mometasone furoate 1 MG/ML Topical Lotion	151030	EXACT	RxNorm standard represents the 0.1% cutaneous liquid/solution as mometasone furoate topical lotion.		2026-06-06
 681411	60960	905236	mometasone furoate 1 MG/ML Topical Cream	311753	EXACT			2026-03-12
 681429	60960	905236	mometasone furoate 1 MG/ML Topical Cream	311753	EXACT			2026-03-12
 699634	77973	36250097	mometasone furoate 0.05 MG/ACTUAT Metered Dose Nasal Spray	1797865	EXACT			2026-03-12

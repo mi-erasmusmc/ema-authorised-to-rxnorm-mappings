@@ -1,14 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 603632	73242	19026493	tapentadol 50 MG Oral Tablet	825411	EXACT			2026-03-12
 603633	73239	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			2026-03-29
-603634	73241	36886700	tapentadol 87.4 MG Oral Tablet	OMOP997467	EXACT			2026-03-12
+603634	73241	19026495	tapentadol 75 MG Oral Tablet	825413	EXACT	Spain labels clinical strength as tapentadol base in des_dcp/des_dosific; RxNorm tablet concepts use base strength despite hydrochloride in principios_activos.		2026-06-06
 603637	73246	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-12
 603638	73245	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-12
 603640	73244	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-12
 603641	73243	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-12
 604503	73601	19026493	tapentadol 50 MG Oral Tablet	825411	EXACT			2026-03-12
 605110	73613	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			2026-03-29
-605111	73616	36886700	tapentadol 87.4 MG Oral Tablet	OMOP997467	EXACT			2026-03-12
+605111	73616	19026495	tapentadol 75 MG Oral Tablet	825413	EXACT	Spain labels clinical strength as tapentadol base in des_dcp/des_dosific; RxNorm tablet concepts use base strength despite hydrochloride in principios_activos.		2026-06-06
 605112	73624	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-12
 605114	73629	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-12
 605118	73639	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-12
@@ -19,13 +19,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 673604	73641	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-12
 677282	73242	19026493	tapentadol 50 MG Oral Tablet	825411	EXACT			2026-03-12
 677283	73239	19133109	tapentadol 100 MG Oral Tablet	825409	EXACT			2026-03-29
-677284	73241	36886700	tapentadol 87.4 MG Oral Tablet	OMOP997467	EXACT			2026-03-12
+677284	73241	19026495	tapentadol 75 MG Oral Tablet	825413	EXACT	Spain labels clinical strength as tapentadol base in des_dcp/des_dosific; RxNorm tablet concepts use base strength despite hydrochloride in principios_activos.		2026-06-06
 677293	73246	40243113	tapentadol 200 MG Extended Release Oral Tablet	1148804	EXACT			2026-03-12
 677295	73245	40243109	tapentadol 150 MG Extended Release Oral Tablet	1148801	EXACT			2026-03-12
 677296	73244	40243106	tapentadol 100 MG Extended Release Oral Tablet	1148798	EXACT			2026-03-12
 677297	73243	40243120	tapentadol 50 MG Extended Release Oral Tablet	1148810	EXACT			2026-03-12
-689941	75917	43715054	tapentadol 29.1 MG Extended Release Oral Tablet	OMOP710548	EXACT			2026-03-12
-689956	75921	43715054	tapentadol 29.1 MG Extended Release Oral Tablet	OMOP710548	EXACT			2026-03-12
+689941	75917	43281734	tapentadol 25 MG Extended Release Oral Tablet	OMOP537936	EXACT	Spain labels clinical strength as tapentadol base in des_dcp/des_dosific; RxNorm tablet concepts use base strength despite hydrochloride in principios_activos.		2026-06-06
+689956	75921	43281734	tapentadol 25 MG Extended Release Oral Tablet	OMOP537936	EXACT	Spain labels clinical strength as tapentadol base in des_dcp/des_dosific; RxNorm tablet concepts use base strength despite hydrochloride in principios_activos.		2026-06-06
 694781	76792	42901815	tapentadol 20 MG/ML Oral Solution	1356315	EXACT			2026-03-29
 694783	76793	41052078	tapentadol 4 MG/ML Oral Solution	OMOP2250040	EXACT			2026-03-29
 694784	76794	41052078	tapentadol 4 MG/ML Oral Solution	OMOP2250040	EXACT			2026-03-29
