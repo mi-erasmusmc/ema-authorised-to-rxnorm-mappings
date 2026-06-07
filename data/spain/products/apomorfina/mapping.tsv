@@ -1,14 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 665028	72074	43269797	5 ML Apomorphine 10 MG/ML Injection	OMOP562300	EXACT			2026-03-31
+680425	74058	43269797	5 ML Apomorphine 10 MG/ML Injection	OMOP562300	EXACT			2026-03-31
 681975	74401	19129891	10 ML apomorphine 5 MG/ML Prefilled Syringe	793283	EXACT			2026-03-12
 703421	63893	2906463	3 ML apomorphine 10 MG/ML Pen Injector	OMOP5123240	EXACT			2026-03-31
-704154	79174	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT			2026-03-12
-711308	80998	42903398	apomorphine hydrochloride 10 MG/ML Cartridge	1360511	EXACT			2026-03-12
-714165	79174	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT			2026-03-12
-729379	85464	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	BROAD		20 ML apomorphine 5 MG/ML Cartridge	2026-03-12
-759980	88396	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT			2026-03-12
-680425	74058	43269797	5 ML Apomorphine 10 MG/ML Injection	OMOP562300	EXACT			2026-03-31
-763141	88975	1145839	apomorphine Sublingual Film	2371042	BROAD		{2 (apomorphine hydrochloride 10 MG Sublingual Film) / 2 (apomorphine hydrochloride 15 MG Sublingual Film) / 2 (apomorphine hydrochloride 20 MG Sublingual Film) / 2 (apomorphine hydrochloride 25 MG Sublingual Film) / 2 (apomorphine hydrochloride 30 MG Sublingual Film) } Starter Pack	2026-03-12
+704154	79174	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT	20 mL vial for continuous subcutaneous infusion; RxNorm Injectable Solution is the applicable multi-use/in-use vial dose form.		2026-06-07
+711308	80998	40162458	3 ML apomorphine hydrochloride 10 MG/ML Cartridge	855856	EXACT	Product information describes a multidose cartridge for D-mine Pen; CIMA des_dcp/product name support 10 mg/mL despite des_dosific showing 5 mg/mL.		2026-06-07
+714165	79174	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT	20 mL vial for continuous subcutaneous infusion; RxNorm Injectable Solution is the applicable multi-use/in-use vial dose form.		2026-06-07
+729379	85464	1466446	20 ML apomorphine hydrochloride 4.9 MG/ML Cartridge	2705789	EXACT	20 mL APO-go POD infusion cartridge; 5 mg/mL apomorphine hydrochloride hemihydrate corresponds to RxNorm anhydrous hydrochloride 4.9 mg/mL.		2026-06-07
+759980	88396	36890913	Apomorphine 5 MG/ML Injectable Solution	OMOP997164	EXACT	20 mL vial for continuous subcutaneous infusion; RxNorm Injectable Solution is the applicable multi-use/in-use vial dose form.		2026-06-07
+763141	88975	1146712	{2 (apomorphine hydrochloride 10 MG Sublingual Film [Kynmobi]) / 2 (apomorphine hydrochloride 15 MG Sublingual Film [Kynmobi]) / 2 (apomorphine hydrochloride 20 MG Sublingual Film [Kynmobi]) / 2 (apomorphine hydrochloride 25 MG Sublingual Film [Kynmobi]) / 2 (apomorphine hydrochloride 30 MG Sublingual Film [Kynmobi]) } Pack [Kynmobi Titration Kit]	2371068	EXACT			2026-06-07
 763143	88976	1145840	apomorphine hydrochloride 10 MG Sublingual Film	2371043	EXACT			2026-03-12
 763146	88977	1145849	apomorphine hydrochloride 15 MG Sublingual Film	2371052	EXACT			2026-03-12
 763148	88978	1145853	apomorphine hydrochloride 20 MG Sublingual Film	2371056	EXACT			2026-03-12

@@ -60,7 +60,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656159	68079	19019050	ibuprofen 20 MG/ML Oral Suspension	197803	EXACT			2026-03-12
 656185	68086	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
 656412	68194	19064433	ibuprofen 400 MG Oral Suspension	251270	EXACT			2026-03-12
-656427	68200	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	oral sobre		2026-03-12
+656427	68200	19064433	ibuprofen 400 MG Oral Suspension	251270	EXACT	Spain sachet is labelled 400 mg suspensión oral; standard RxNorm has the matching dose-level oral suspension concept.		2026-06-07
 656473	68222	21142318	Ibuprofen 600 MG Oral Granules	OMOP389984	EXACT	arginina salt oral sobre		2026-03-12
 656509	56498	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
 656520	62258	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
@@ -205,7 +205,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 716603	82171	995369	100 ML Ibuprofen 6 MG/ML Injectable Solution	OMOP4821876	BROAD	Ready-to-use 100 mL perfusion; RxNorm exposes the matching volume and concentration as Injectable Solution, a multi-use container form, so this is mapped conservatively.	100 ML ibuprofen 6 MG/ML Injection	2026-04-02
 718840	82402	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	oral sobre		2026-03-12
 718843	82403	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
-718845	82404	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	oral sobre		2026-03-12
+718845	82404	19064433	ibuprofen 400 MG Oral Suspension	251270	EXACT	Spain sachet is labelled 400 mg suspensión oral; standard RxNorm has the matching dose-level oral suspension concept.		2026-06-07
 718848	82405	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
 719055	82430	35870105	ibuprofen 100 MG Oral Granules	OMOP5026546	EXACT	oral sobre		2026-03-12
 719057	82431	35870105	ibuprofen 100 MG Oral Granules	OMOP5026546	EXACT	oral sobre		2026-03-12

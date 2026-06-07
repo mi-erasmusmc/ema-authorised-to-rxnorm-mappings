@@ -1,33 +1,33 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+656669	37472	36895040	1 ML Morphine 20 MG/ML Injection	OMOP996443	EXACT			2026-03-12
 656670	37473	35605835	1 ML morphine sulfate 10 MG/ML Injection	1731993	EXACT			2026-03-31
 656671	37473	35605835	1 ML morphine sulfate 10 MG/ML Injection	1731993	EXACT			2026-03-31
 656757	42221	35605835	1 ML morphine sulfate 10 MG/ML Injection	1731993	EXACT			2026-03-31
+656758	42592	36880006	Morphine 20 MG/ML Injection	OMOP990434	BROAD	Spain presentation is a single-use 2 mL ampoule; RxNorm lacks a 2 mL morphine 20 MG/ML Injection concept, so this preserves single-use Injection form but not volume.	2 ML morphine 20 MG/ML Injection	2026-06-07
+659213	68892	43625247	Morphine 20 MG Effervescent Oral Tablet	OMOP900549	EXACT			2026-03-12
+659214	68892	43625247	Morphine 20 MG Effervescent Oral Tablet	OMOP900549	EXACT			2026-03-12
 663377	61909	19006058	morphine sulfate 200 MG Extended Release Oral Tablet [MST Continus]	104946	EXACT			2026-03-12
 679548	61081	40169924	morphine sulfate 15 MG Extended Release Oral Tablet	891881	EXACT			2026-03-12
 679555	61080	40170025	morphine sulfate 5 MG Extended Release Oral Tablet	895217	EXACT			2026-03-12
-720312	82748	35604843	morphine sulfate 1 MG/ML Injection	1728802	EXACT			2026-04-03
-720314	82750	36407384	Morphine 40 MG/ML Injectable Solution	OMOP3099426	EXACT			2026-03-12
+696005	60125	40169891	morphine sulfate 10 MG Extended Release Oral Capsule	892494	EXACT			2026-03-12
+696013	60124	40169985	morphine sulfate 30 MG Extended Release Oral Capsule	892345	EXACT			2026-03-12
+696021	60123	40170053	morphine sulfate 60 MG Extended Release Oral Capsule	892352	EXACT			2026-03-12
+696047	60122	40169906	morphine sulfate 100 MG Extended Release Oral Capsule	892554	EXACT			2026-03-12
+720312	82748	35604843	morphine sulfate 1 MG/ML Injection	1728802	BROAD	Spain presentation is a single-use 1 mL ampoule; RxNorm lacks a 1 mL morphine sulfate 1 MG/ML Injection concept, so this preserves single-use Injection form but not volume.	1 ML morphine sulfate 1 MG/ML Injection	2026-06-07
+720313	82749	40169959	morphine sulfate 20 MG/ML Injectable Solution	895202	EXACT			2026-03-12
+720314	82750	36895630	10 ML Morphine 40 MG/ML Prefilled Syringe	OMOP1006279	BROAD	Spain presentation is a single-use 10 mL ampoule; closest volume-specific single-use RxNorm concept has Prefilled Syringe rather than ampoule/injection.	10 ML morphine 40 MG/ML Injection	2026-06-07
 720801	82883	35605835	1 ML morphine sulfate 10 MG/ML Injection	1731993	EXACT			2026-03-12
+722482	83323	40169904	morphine sulfate 10 MG/ML Oral Solution	895016	EXACT			2026-03-12
+722483	83323	40169904	morphine sulfate 10 MG/ML Oral Solution	895016	EXACT			2026-03-12
+722484	83323	40169904	morphine sulfate 10 MG/ML Oral Solution	895016	EXACT			2026-03-12
 787911	59655	19006057	morphine sulfate 20 MG Oral Tablet [Sevredol]	104945	EXACT			2026-03-12
 787945	59656	19006056	morphine sulfate 10 MG Oral Tablet [Sevredol]	104944	EXACT			2026-03-12
 820860	62040	40169960	morphine sulfate 20 MG/ML Oral Solution	892625	EXACT			2026-03-12
+821199	62047	40169944	morphine sulfate 2 MG/ML Oral Solution	892589	EXACT	Spain unit-dose drinkable vial volume is not retained; RxNorm standard oral-solution convention represents the clinical strength by concentration.		2026-06-07
+821868	62048	40170049	morphine sulfate 6 MG/ML Oral Solution	895238	EXACT	Spain unit-dose drinkable vial volume is not retained; RxNorm standard oral-solution convention represents the clinical strength by concentration.		2026-06-07
 821934	62039	40169944	morphine sulfate 2 MG/ML Oral Solution	892589	EXACT			2026-03-12
 965194	42221	35605835	1 ML morphine sulfate 10 MG/ML Injection	1731993	EXACT			2026-03-31
 981365	57897	19006051	morphine sulfate 30 MG Extended Release Oral Tablet [MST Continus]	104937	EXACT			2026-03-12
 981373	57898	19006029	morphine sulfate 10 MG Extended Release Oral Tablet [MST Continus]	104935	EXACT			2026-03-12
 981399	57899	19006052	morphine sulfate 60 MG Extended Release Oral Tablet [MST Continus]	104938	EXACT			2026-03-12
 981415	57900	19006053	morphine sulfate 100 MG Extended Release Oral Tablet [MST Continus]	104940	EXACT			2026-03-12
-656669	37472	36895040	1 ML Morphine 20 MG/ML Injection	OMOP996443	EXACT			2026-03-12
-656758	42592	40169959	morphine sulfate 20 MG/ML Injectable Solution	895202	BROAD	No 2 mL 20 MG/ML injection concept found in RxNorm or RxNorm Extension.	2 ML morphine sulfate 20 MG/ML Injection	2026-03-12
-659213	68892	43625247	Morphine 20 MG Effervescent Oral Tablet	OMOP900549	EXACT			2026-03-12
-659214	68892	43625247	Morphine 20 MG Effervescent Oral Tablet	OMOP900549	EXACT			2026-03-12
-696005	60125	40169891	morphine sulfate 10 MG Extended Release Oral Capsule	892494	EXACT			2026-03-12
-696013	60124	40169985	morphine sulfate 30 MG Extended Release Oral Capsule	892345	EXACT			2026-03-12
-696021	60123	40170053	morphine sulfate 60 MG Extended Release Oral Capsule	892352	EXACT			2026-03-12
-696047	60122	40169906	morphine sulfate 100 MG Extended Release Oral Capsule	892554	EXACT			2026-03-12
-720313	82749	40169959	morphine sulfate 20 MG/ML Injectable Solution	895202	EXACT			2026-03-12
-722482	83323	40169904	morphine sulfate 10 MG/ML Oral Solution	895016	EXACT			2026-03-12
-722483	83323	40169904	morphine sulfate 10 MG/ML Oral Solution	895016	EXACT			2026-03-12
-722484	83323	40169904	morphine sulfate 10 MG/ML Oral Solution	895016	EXACT			2026-03-12
-821199	62047	21136917	5 ML Morphine 2 MG/ML Oral Solution	OMOP308943	EXACT			2026-03-12
-821868	62048	21087874	5 ML Morphine 6 MG/ML Oral Solution	OMOP308960	EXACT			2026-03-12

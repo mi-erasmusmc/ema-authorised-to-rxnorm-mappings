@@ -1,17 +1,17 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-660699	69680	37354396	clotrimazole 10 MG/ML Otic Solution	2725165	EXACT			2026-03-13
-700688	62218	37354396	clotrimazole 10 MG/ML Otic Solution	2725165	EXACT			2026-03-13
+660699	69680	19075602	clotrimazole 10 MG/ML Topical Cream	309367	EXACT	RxNorm standard represents this 10 mg/g cutaneous cream concentration as 10 MG/ML.		2026-06-06
+700688	62218	19018880	clotrimazole 100 MG Vaginal Insert	197530	EXACT			2026-06-06
 700689	62219	1000636	clotrimazole 500 MG Vaginal Insert	197532	EXACT			2026-03-13
 700691	62220	19022063	clotrimazole 20 MG/ML Vaginal Cream	199603	EXACT			2026-03-13
-700694	62221	37354396	clotrimazole 10 MG/ML Otic Solution	2725165	EXACT			2026-03-13
+700694	62221	19075602	clotrimazole 10 MG/ML Topical Cream	309367	EXACT	RxNorm standard represents this 10 mg/g cutaneous cream concentration as 10 MG/ML.		2026-06-06
 701299	78414	1000636	clotrimazole 500 MG Vaginal Insert	197532	EXACT			2026-03-13
-720607	82837	37354396	clotrimazole 10 MG/ML Otic Solution	2725165	EXACT			2026-03-13
-725036	52626	37354396	clotrimazole 10 MG/ML Otic Solution	2725165	EXACT			2026-03-13
-725044	52625	37354396	clotrimazole 10 MG/ML Otic Solution	2725165	EXACT			2026-03-13
-725051	52624	37354396	clotrimazole 10 MG/ML Otic Solution	2725165	EXACT			2026-03-13
+720607	82837	42800643	clotrimazole 10 MG/ML Topical Foam	1299969	EXACT			2026-06-06
+725036	52626	19075602	clotrimazole 10 MG/ML Topical Cream	309367	EXACT	RxNorm standard represents this 10 mg/g cutaneous cream concentration as 10 MG/ML.		2026-06-06
+725044	52625	1000734	clotrimazole 10 MG/ML Topical Spray	358371	EXACT	RxNorm topical spray best matches the cutaneous spray solution presentation.		2026-06-06
+725051	52624	19018880	clotrimazole 100 MG Vaginal Insert	197530	EXACT			2026-06-06
 965970	56755	1000636	clotrimazole 500 MG Vaginal Insert	197532	EXACT			2026-03-13
 966812	56825	19022063	clotrimazole 20 MG/ML Vaginal Cream	199603	EXACT			2026-03-13
-966820	56826	37354396	clotrimazole 10 MG/ML Otic Solution	2725165	EXACT			2026-03-13
+966820	56826	19067264	clotrimazole 0.01 MG/MG Topical Powder	260229	EXACT	10 mg/g = 0.01 MG/MG.		2026-06-06
 728306	11003-29-03-1999	19022063	clotrimazole 20 MG/ML Vaginal Cream	199603	EXACT			2026-03-13
 732405	11003-29-03-1999IP	19022063	clotrimazole 20 MG/ML Vaginal Cream	199603	EXACT			2026-03-13
 763319	11003-29-03-1999IP1	19022063	clotrimazole 20 MG/ML Vaginal Cream	199603	EXACT			2026-03-13

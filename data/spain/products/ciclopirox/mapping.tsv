@@ -1,34 +1,34 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-656346	68158	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
+656346	68158	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
 667857	61719	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
 669362	72143	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
-678200	73001	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
+678200	73001	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
 683799	74682	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
-686296	75114	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-687438	75380	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
+686296	75114	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+687438	75380	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
 694771	76788	43180306	ciclopirox 0.01 MG/MG Topical Cream	OMOP459557	EXACT			2026-06-06
 696750	77129	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
 696751	77129	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
 696940	77178	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
 697304	77305	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
 697647	61719	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
-701880	1-24293	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-702238	5781588	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-707148	1-24293IP	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-709252	80496	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-719446	3400935233073	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-721500	1-24293IP1	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-724981	83868	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
+701880	1-24293	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+702238	5781588	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+707148	1-24293IP	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+709252	80496	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+719446	3400935233073	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+721500	1-24293IP1	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+724981	83868	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
 725760	84137	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
 725761	84137	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
 726569	84423	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
 726590	84430	19075343	ciclopirox 80 MG/ML Topical Solution	309291	EXACT	Spain labels 80 mg/g; RxNorm classifies ciclopirox nail lacquer as Topical Solution (80 MG/ML); EU brand not in RxNorm, using unbranded standard concept.		2026-06-06
-729011	1-24293IP2	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-729712	3400935233073IP	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-763537	3400935233073IP1	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
-764132	1-24293IP3	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
+729011	1-24293IP2	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+729712	3400935233073IP	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+763537	3400935233073IP1	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
+764132	1-24293IP3	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
 926527	56884	43180306	ciclopirox 0.01 MG/MG Topical Cream	OMOP459557	EXACT			2026-06-06
-930545	64120	2036485	ciclopirox 0.015 MG/MG Medicated Shampoo	OMOP4935800	EXACT			2026-06-06
+930545	64120	950176	ciclopirox 15 MG/ML Medicated Shampoo	425731	EXACT	RxNorm standard represents this 15 mg/g shampoo concentration as 15 MG/ML.		2026-06-06
 967612	56884	43180306	ciclopirox 0.01 MG/MG Topical Cream	OMOP459557	EXACT			2026-06-06
 967638	56886	19022180	ciclopirox 0.01 MG/MG Topical Powder	199706	EXACT			2026-03-13
 968560	56941	43180306	ciclopirox 0.01 MG/MG Topical Cream	OMOP459557	EXACT			2026-06-06

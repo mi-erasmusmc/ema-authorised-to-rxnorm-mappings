@@ -1,13 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 675820	72938	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 695552	76902	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
-704906	79428	43754320	15 ML Flurbiprofen 16.2 MG/ML Oral Spray	OMOP790819	EXACT	Spain labels the oral spray as 8.75 mg per 3 sprays; RxNorm expresses the same 15 mL presentation as 16.2 MG/ML Oral Spray.		2026-03-16
+704906	79428	856706	flurbiprofen 2.92 MG/ACTUAT Mucosal Spray [Strefen]	OMOP5579633	EXACT	Spain labels the buccal spray as 8.75 mg per 3 sprays; 2.92 MG/ACTUAT preserves the per-actuation dosing convention.		2026-06-06
 715501	81911	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 715502	81912	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
-725283	83997	43754320	15 ML Flurbiprofen 16.2 MG/ML Oral Spray	OMOP790819	EXACT	Spain labels the oral spray as 8.75 mg per 3 sprays; RxNorm expresses the same 15 mL presentation as 16.2 MG/ML Oral Spray.		2026-03-16
-727293	84617	43754320	15 ML Flurbiprofen 16.2 MG/ML Oral Spray	OMOP790819	EXACT	Spain labels the oral spray as 8.75 mg per 3 sprays; RxNorm expresses the same 15 mL presentation as 16.2 MG/ML Oral Spray.		2026-03-16
+725283	83997	1235099	flurbiprofen 2.92 MG/ACTUAT Mucosal Spray	OMOP5215802	EXACT	Spain labels the buccal spray as 8.75 mg per 3 sprays; 2.92 MG/ACTUAT preserves the per-actuation dosing convention.		2026-06-06
+727293	84617	856706	flurbiprofen 2.92 MG/ACTUAT Mucosal Spray [Strefen]	OMOP5579633	EXACT	Spain labels the buccal spray as 8.75 mg per 3 sprays; 2.92 MG/ACTUAT preserves the per-actuation dosing convention.		2026-06-06
 728331	85007	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
-729656	85542	43754320	15 ML Flurbiprofen 16.2 MG/ML Oral Spray	OMOP790819	EXACT	Spain labels the oral spray as 8.75 mg per 3 sprays; RxNorm expresses the same 15 mL presentation as 16.2 MG/ML Oral Spray.		2026-03-16
+729656	85542	1235099	flurbiprofen 2.92 MG/ACTUAT Mucosal Spray	OMOP5215802	EXACT	Spain labels the buccal spray as 8.75 mg per dose, corresponding to the 3-spray dose convention; 2.92 MG/ACTUAT preserves per-actuation dosing.		2026-06-06
 729708	85551	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 734052	86532	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 715494	81909	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-13

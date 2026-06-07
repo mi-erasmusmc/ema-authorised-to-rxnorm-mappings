@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-603325	65471	19103698	ferrous glycine sulfate 568 MG Oral Capsule	411435	EXACT			2026-03-13
-651473	66867	19103698	ferrous glycine sulfate 568 MG Oral Capsule	411435	EXACT			2026-03-13
-870261	65471	19103698	ferrous glycine sulfate 568 MG Oral Capsule	411435	EXACT			2026-03-13
-654625	41455	36886968	Ferrous glycine sulfate 170 MG/ML Oral Solution	OMOP991574	EXACT	CIMA labels Glutaferro as 170 mg/mL ferroglicina sulfato, equivalent to 30 mg/mL Fe2+; standard RxNorm 28.2 mg/mL is close but not the same strength.		2026-06-05
+603325	65471	41281111	ferrous cation 100 MG Delayed Release Oral Capsule [Ferro Sanol]	OMOP2479073	EXACT	Spain labels the gastroresistant ferroglycine sulfate capsule by the 100 mg elemental ferrous iron strength; RxNorm Extension has the matching delayed-release Ferro Sanol capsule.		2026-06-06
+651473	66867	41148017	ferrous cation 100 MG Delayed Release Oral Capsule	OMOP2345979	EXACT	Spain labels the gastroresistant ferroglycine sulfate capsule by the 100 mg elemental ferrous iron strength; RxNorm Extension has the matching delayed-release capsule.		2026-06-06
+870261	65471	41281111	ferrous cation 100 MG Delayed Release Oral Capsule [Ferro Sanol]	OMOP2479073	EXACT	Spain labels the gastroresistant ferroglycine sulfate capsule by the 100 mg elemental ferrous iron strength; RxNorm Extension has the matching delayed-release Ferro Sanol capsule.		2026-06-06
+654625	41455	1235664	ferrous glycine sulfate 30 MG/ML Oral Solution	OMOP5216370	EXACT	Structured CIMA strength is 30 mg/mL for the oral drops; Extension provides the matching oral solution concentration.		2026-06-06
