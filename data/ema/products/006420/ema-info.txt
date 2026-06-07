@@ -1,10 +1,10 @@
 EMA product number: EMEA/H/C/006420
 Name of medicine: Boey
 Medicine status: Opinion
-International non-proprietary name (INN) / common name: clostridium botulinum, serotype E, neurotoxin (150 kDa)
-Active substance: clostridium botulinum, serotype E, neurotoxin (150 kDa)
+International non-proprietary name (INN) / common name: trenibotulinumtoxinE
+Active substance: trenibotulinumtoxinE
 Therapeutic area (MeSH): Stress, Psychological;Cosmetic Techniques
-ATC code (human): M03AX01
+ATC code (human): Not yet assigned
 Pharmacotherapeutic group (human): MUSCLE RELAXANTS;Other muscle relaxants, peripherally acting agents
 Therapeutic indication: Temporary improvement in the appearance of moderate to severe lines between the eyebrows when these have an important psychological impact in adult patients&nbsp;
 Biosimilar: No

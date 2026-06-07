@@ -52,9 +52,9 @@ def read_product_name(folder):
 
 
 def find_pdf(folder):
-    """Find the single PDF in a product folder."""
-    pdfs = list(folder.glob("*.pdf"))
-    return pdfs[0] if pdfs else None
+    """Find the most recent PDF in a product folder (by filename date)."""
+    pdfs = sorted(folder.glob("*.pdf"))
+    return pdfs[-1] if pdfs else None
 
 
 def find_existing_tsvs(folder):

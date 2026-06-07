@@ -1,5 +1,15 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/18/1325/001	36814464	Mexiletine 167 MG Oral Capsule	OMOP4828504	EXACT			2025-12-04
-EU/1/18/1325/002	36814464	Mexiletine 167 MG Oral Capsule	OMOP4828504	EXACT			2025-12-04
-EU/1/18/1325/003	36814464	Mexiletine 167 MG Oral Capsule	OMOP4828504	EXACT			2025-12-04
-EU/1/18/1325/004	36814464	Mexiletine 167 MG Oral Capsule	OMOP4828504	EXACT			2025-12-04
+EU/1/18/1325/001	43011932	mexiletine hydrochloride 200 MG Oral Capsule	1362712	EXACT	167 mg mexiletine (base) = 200 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/002	43011932	mexiletine hydrochloride 200 MG Oral Capsule	1362712	EXACT	167 mg mexiletine (base) = 200 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/003	43011932	mexiletine hydrochloride 200 MG Oral Capsule	1362712	EXACT	167 mg mexiletine (base) = 200 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/004	43011932	mexiletine hydrochloride 200 MG Oral Capsule	1362712	EXACT	167 mg mexiletine (base) = 200 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/005	43011939	mexiletine hydrochloride 100 MG Oral Capsule	1362730	EXACT	83 mg mexiletine (base) = 100 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/006	43011939	mexiletine hydrochloride 100 MG Oral Capsule	1362730	EXACT	83 mg mexiletine (base) = 100 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/007	43011939	mexiletine hydrochloride 100 MG Oral Capsule	1362730	EXACT	83 mg mexiletine (base) = 100 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/008	43011939	mexiletine hydrochloride 100 MG Oral Capsule	1362730	EXACT	83 mg mexiletine (base) = 100 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/009	43011939	mexiletine hydrochloride 100 MG Oral Capsule	1362730	EXACT	83 mg mexiletine (base) = 100 mg mexiletine HCl		2026-06-07
+EU/1/18/1325/010	40062994	mexiletine Oral Capsule	372909	BROAD		mexiletine hydrochloride 75 MG Oral Capsule	2026-06-07
+EU/1/18/1325/011	40062994	mexiletine Oral Capsule	372909	BROAD		mexiletine hydrochloride 75 MG Oral Capsule	2026-06-07
+EU/1/18/1325/012	40062994	mexiletine Oral Capsule	372909	BROAD		mexiletine hydrochloride 75 MG Oral Capsule	2026-06-07
+EU/1/18/1325/013	40062994	mexiletine Oral Capsule	372909	BROAD		mexiletine hydrochloride 75 MG Oral Capsule	2026-06-07
+EU/1/18/1325/014	40062994	mexiletine Oral Capsule	372909	BROAD		mexiletine hydrochloride 75 MG Oral Capsule	2026-06-07

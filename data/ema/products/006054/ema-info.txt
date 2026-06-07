@@ -1,8 +1,8 @@
 EMA product number: EMEA/H/C/006054
 Name of medicine: Arexvy
 Medicine status: Authorised
-International non-proprietary name (INN) / common name: recombinant respiratory syncytial virus pre-fusion F protein, adjuvanted with AS01E
-Active substance: recombinant respiratory syncytial virus pre-fusion F protein, adjuvanted with AS01E
+International non-proprietary name (INN) / common name: Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
+Active substance: Respiratory Syncytial Virus (RSV) vaccine (recombinant, adjuvanted)
 Therapeutic area (MeSH): Respiratory Syncytial Virus Infections
 ATC code (human): J07BX05
 Pharmacotherapeutic group (human): Other viral vaccines

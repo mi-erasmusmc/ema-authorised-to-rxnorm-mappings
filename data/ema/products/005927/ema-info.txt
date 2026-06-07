@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/005927
 Name of medicine: Joenja
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: leniolisib
 Active substance: leniolisib phosphate
 Therapeutic area (MeSH): Primary Immunodeficiency Diseases
-ATC code (human): 
+ATC code (human): L03AX22
 Pharmacotherapeutic group (human): Antineoplastic agents
-Therapeutic indication: Treatment of activated phosphoinositide 3-kinase delta syndrome (APDS)
+Therapeutic indication: Joenja is indicated for the treatment of activated phosphoinositide 3-kinase delta syndrome (APDS) in adults and adolescents 12 years of age and older and weighing 45 kg or more.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/joenja
