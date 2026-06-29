@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/005856
 Name of medicine: Adstiladrin
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: nadofaragene firadenovec
 Active substance: nadofaragene firadenovec
 Therapeutic area (MeSH): Non-Muscle Invasive Bladder Neoplasms
 ATC code (human): L01XL10
 Pharmacotherapeutic group (human): Antineoplastic agents
-Therapeutic indication: Treatment of adult patients with high-grade (HG), Bacillus Calmette-Guérin (BCG)-unresponsive non-muscle invasive bladder cancer (NMIBC)
+Therapeutic indication: Adstiladrin is indicated as monotherapy for the treatment of adult patients with Bacillus Calmette-Guérin (BCG)-unresponsive non-muscle invasive bladder cancer (NMIBC) with carcinoma in situ (CIS) with or without papillary tumours.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/adstiladrin

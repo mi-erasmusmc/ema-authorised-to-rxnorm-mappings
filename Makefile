@@ -97,7 +97,7 @@ fill_missing_latvian_mappings:
 
 # ── General ────────────────────────────────────────────────────────────────────
 find_concepts:
-	$(PYTHON) .claude/skills/find-concepts/scripts/find_concepts.py $(ARGS)
+	.claude/skills/find-concepts/scripts/find_concepts.sh $(ARGS)
 
 resolve_rxcui_name:
 	$(PYTHON) .claude/skills/find-concepts/scripts/resolve_rxcui_name.py $(ARGS)

@@ -6,7 +6,7 @@ Active substance: vamorolone
 Therapeutic area (MeSH): Muscular Dystrophy, Duchenne
 ATC code (human): H02AB18
 Pharmacotherapeutic group (human): Glucocorticoids
-Therapeutic indication: Agamree is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients aged 4 years and older.
+Therapeutic indication: Agamree is indicated for the treatment of Duchenne muscular dystrophy (DMD) in patients aged 2 years and older.&nbsp;
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/agamree

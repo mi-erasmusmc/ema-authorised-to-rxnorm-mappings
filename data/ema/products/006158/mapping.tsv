@@ -1,0 +1,3 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/26/2030/001	46233969	3 ML insulin lispro 100 UNT/ML Pen Injector	1652639	BROAD	Biosimilar with no confirmed FDA-suffixed equivalent in RxNorm; mapped to plain INN concept.	3 ML insulin lispro-xxxx 100 UNT/ML Pen Injector [Bysumlog]	2026-06-29
+EU/1/26/2030/002	46233969	3 ML insulin lispro 100 UNT/ML Pen Injector	1652639	BROAD	Biosimilar with no confirmed FDA-suffixed equivalent in RxNorm; mapped to plain INN concept.	3 ML insulin lispro-xxxx 100 UNT/ML Pen Injector [Bysumlog]	2026-06-29

@@ -6,7 +6,7 @@ Active substance: ferric maltol
 Therapeutic area (MeSH): Anemia, Iron-Deficiency
 ATC code (human): B03AB
 Pharmacotherapeutic group (human): Antianemic preparations
-Therapeutic indication: Feraccru is indicated in adults for the treatment of iron deficiency.
+Therapeutic indication: Feraccru is indicated for the treatment of iron deficiency in adults and adolescents aged 12 years and older.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/feraccru

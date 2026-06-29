@@ -6,7 +6,7 @@ Active substance: acetylsalicylic acid;clopidogrel hydrogen sulfate
 Therapeutic area (MeSH): Acute Coronary Syndrome;Myocardial Infarction
 ATC code (human): B01AC30
 Pharmacotherapeutic group (human): Antithrombotic agents
-Therapeutic indication: &nbsp;Clopidogrel/Acetylsalicylic acid Viatris is indicated for the secondary prevention of atherothrombotic events in adult patients already taking both clopidogrel and acetylsalicylic acid (ASA). Clopidogrel/Acetylsalicylic acid Viatris is a fixed-dose combination medicinal product for continuation of therapy in: - Non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction) including patients undergoing a stent placement following percutaneous coronary intervention - ST segment elevation acute myocardial infarction in medically treated patients eligible for thrombolytic therapy
+Therapeutic indication: Clopidogrel/Acetylsalicylic acid Viatris is indicated for the secondary prevention of atherothrombotic events in adult patients already taking both clopidogrel and acetylsalicylic acid (ASA). Clopidogrel/Acetylsalicylic acid Viatris is a fixed-dose combination medicinal product for continuation of therapy in:  Non-ST segment elevation acute coronary syndrome (unstable angina or non-Q-wave myocardial infarction) including patients undergoing a stent placement following percutaneous coronary intervention ST segment elevation acute myocardial infarction in medically treated patients eligible for thrombolytic therapy
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-acetylsalicylic-acid-viatris

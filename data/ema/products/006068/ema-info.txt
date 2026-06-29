@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006068
+Name of medicine: Dazluma
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: troriluzole
+Active substance: troriluzole
+Therapeutic area (MeSH): Spinocerebellar Ataxias
+ATC code (human): N07XX
+Pharmacotherapeutic group (human): Other nervous system drugs
+Therapeutic indication: Treatment of adult patients with spinocerebellar ataxia genotype 3 (SCA3)
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dazluma

@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006624
 Name of medicine: Palbociclib Viatris
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: palbociclib
 Active substance: Palbociclib
 Therapeutic area (MeSH): Breast Neoplasms
 ATC code (human): L01EF01
 Pharmacotherapeutic group (human): Antineoplastic agents
-Therapeutic indication: Treatment of breast cancer.&nbsp;
+Therapeutic indication: Palbociclib Viatris is indicated for the treatment of hormone receptor (HR)‑positive, human epidermal growth factor receptor 2 (HER2)‑negative locally advanced or metastatic breast cancer.  in combination with an aromatase inhibitor; in combination with fulvestrant in women who have received prior endocrine therapy (see section&nbsp;5.1).  In pre‑ or perimenopausal women, the endocrine therapy should be combined with a luteinizing hormone‑releasing hormone (LHRH) agonist.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/palbociclib-viatris

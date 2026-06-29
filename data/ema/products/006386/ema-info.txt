@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006386
 Name of medicine: Cenrifki
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: tolebrutinib
 Active substance: tolebrutinib
 Therapeutic area (MeSH): Multiple Sclerosis, Chronic Progressive
-ATC code (human): 
-Pharmacotherapeutic group (human): 
-Therapeutic indication: treatment of non-relapsing secondary progressive multiple sclerosis (nrSPMS) in adults
+ATC code (human): L04AA62
+Pharmacotherapeutic group (human): Selective immunosuppressants
+Therapeutic indication: Cenrifki is indicated for the treatment of adult patients with secondary progressive multiple sclerosis (SPMS) without relapses in the last 2 years.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cenrifki

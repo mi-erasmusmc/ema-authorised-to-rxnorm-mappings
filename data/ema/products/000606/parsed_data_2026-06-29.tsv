@@ -1,0 +1,38 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/05/319/001	EMEA/H/C/000606	75 mg	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: ampoule (glass)	powder: 75 mg; solvent: 2 ml	1 vial + 1 ampoule	Xolair
+EU/1/05/319/002	EMEA/H/C/000606	150 mg	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: ampoule (glass)	powder: 150 mg; solvent: 2 ml	1 vial + 1 ampoule	Xolair
+EU/1/05/319/003	EMEA/H/C/000606	150 mg	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: ampoule (glass)	powder: 150 mg; solvent: 2 ml	4 (4 x 1) vials + 4 (4 x 1) ampoules (multipack)	Xolair
+EU/1/05/319/004	EMEA/H/C/000606	150 mg	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass); solvent: ampoule (glass)	powder: 150 mg; solvent: 2 ml	10 (10 x 1) vials + 10 (10 x 1) ampoules (multipack)	Xolair
+EU/1/05/319/005	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 26-gauge staked needle	0.5 ml (150 mg/ml)	1 pre-filled syringe	Xolair
+EU/1/05/319/006	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 26-gauge staked needle	0.5 ml (150 mg/ml)	4 (4 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/007	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 26-gauge staked needle	0.5 ml (150 mg/ml)	10 (10 x 1) prefilled syringes (multipack)	Xolair
+EU/1/05/319/008	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 26-gauge staked needle	1.0 ml (150 mg/ml)	1 pre-filled syringe	Xolair
+EU/1/05/319/009	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 26-gauge staked needle	1.0 ml (150 mg/ml)	4 (4 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/010	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 26-gauge staked needle	1.0 ml (150 mg/ml)	10 (10 x 1) prefilled syringes (multipack)	Xolair
+EU/1/05/319/011	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 26-gauge staked needle	1.0 ml (150 mg/ml)	6 (6 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/012	EMEA/H/C/000606	300 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	2.0 ml (150 mg/ml)	1 pre-filled syringe	Xolair
+EU/1/05/319/013	EMEA/H/C/000606	300 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	2.0 ml (150 mg/ml)	3 (3 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/014	EMEA/H/C/000606	300 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	2.0 ml (150 mg/ml)	6 (6 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/015	EMEA/H/C/000606	300 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	2.0 ml (150 mg/ml)	1 pre-filled pen	Xolair
+EU/1/05/319/016	EMEA/H/C/000606	300 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	2.0 ml (150 mg/ml)	3 (3 x 1) pre-filled pens (multipack)	Xolair
+EU/1/05/319/017	EMEA/H/C/000606	300 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	2.0 ml (150 mg/ml)	6 (6 x 1) pre-filled pens (multipack)	Xolair
+EU/1/05/319/018	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	0.5 ml (150 mg/ml)	1 pre-filled syringe	Xolair
+EU/1/05/319/019	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	0.5 ml (150 mg/ml)	3 (3 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/020	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	0.5 ml (150 mg/ml)	6 (6 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/021	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.5 ml (150 mg/ml)	1 pre-filled pen	Xolair
+EU/1/05/319/022	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.5 ml (150 mg/ml)	3 (3 x 1) pre-filled pens (multipack)	Xolair
+EU/1/05/319/023	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.5 ml (150 mg/ml)	6 (6 x 1) pre-filled pens (multipack)	Xolair
+EU/1/05/319/024	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	1.0 ml (150 mg/ml)	1 pre-filled syringe	Xolair
+EU/1/05/319/025	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	1.0 ml (150 mg/ml)	3 (3 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/026	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a blister	1.0 ml (150 mg/ml)	6 (6 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/027	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	1.0 ml (150 mg/ml)	1 pre-filled pen	Xolair
+EU/1/05/319/028	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	1.0 ml (150 mg/ml)	3 (3 x 1) pre-filled pens (multipack)	Xolair
+EU/1/05/319/029	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	1.0 ml (150 mg/ml)	6 (6 x 1) pre-filled pens (multipack)	Xolair
+EU/1/05/319/030	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	1.0 ml (150 mg/ml)	10 (10 x 1) pre-filled pens (multipack)	Xolair
+EU/1/05/319/031	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a cardboard inlay	0.5 ml (150 mg/ml)	1 pre-filled syringe	Xolair
+EU/1/05/319/032	EMEA/H/C/000606	75 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a cardboard inlay	0.5 ml (150 mg/ml)	3 (3 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/033	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a cardboard inlay	1.0 ml (150 mg/ml)	1 pre-filled syringe	Xolair
+EU/1/05/319/034	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a cardboard inlay	1.0 ml (150 mg/ml)	3 (3 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/035	EMEA/H/C/000606	150 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a cardboard inlay	1.0 ml (150 mg/ml)	6 (6 x 1) pre-filled syringes (multipack)	Xolair
+EU/1/05/319/036	EMEA/H/C/000606	300 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a cardboard inlay	2.0 ml (150 mg/ml)	1 pre-filled syringe	Xolair
+EU/1/05/319/037	EMEA/H/C/000606	300 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) with 27-gauge staked needle in a cardboard inlay	2.0 ml (150 mg/ml)	3 (3 x 1) pre-filled syringes (multipack)	Xolair

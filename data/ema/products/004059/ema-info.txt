@@ -6,7 +6,7 @@ Active substance: migalastat hydrochloride
 Therapeutic area (MeSH): Fabry Disease
 ATC code (human): A16AX
 Pharmacotherapeutic group (human): migalastat
-Therapeutic indication: Galafold is indicated for long-term treatment of adults and adolescents aged 16 years and older with a confirmed diagnosis of Fabry disease (?-galactosidase A deficiency) and who have an amenable mutation.
+Therapeutic indication: Galafold is indicated for long-term treatment of adults and adolescents aged 12 years and older with a confirmed diagnosis of Fabry disease (α-galactosidase A deficiency) and who have an amenable mutation (see the tables in section 5.1).
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/galafold

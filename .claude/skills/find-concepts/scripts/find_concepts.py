@@ -3,14 +3,11 @@
 
 import argparse
 import os
-import ssl
 import subprocess
 import sys
-import urllib.error
-import urllib.request
 import urllib.parse
 import json
-import certifi
+import requests
 
 
 def _gitroot():
@@ -44,33 +41,36 @@ RXNAV_BASE = "https://rxnav.nlm.nih.gov/REST/rxcui/{rxcui}/{endpoint}.json"
 
 def resolve_full_name(rxcui):
     """Return the full RxNorm name for an rxcui, or None if not found."""
-    ctx = ssl.create_default_context(cafile=certifi.where())
     for endpoint, extract in [
         ("properties", lambda p: p.get("properties", {}).get("name")),
         ("historystatus", lambda p: p.get("rxcuiStatusHistory", {}).get("attributes", {}).get("name")),
     ]:
         url = RXNAV_BASE.format(rxcui=rxcui, endpoint=endpoint)
         try:
-            with urllib.request.urlopen(url, context=ctx) as resp:
-                payload = json.loads(resp.read())
+            resp = requests.get(url, timeout=10)
+            resp.raise_for_status()
+            payload = resp.json()
             name = extract(payload)
             if name:
                 return name
-        except urllib.error.URLError:
+        except requests.RequestException:
             pass
     return None
 
 
 def search(query, limit=5, vocabulary_ids=("RxNorm",)):
-    params = urllib.parse.urlencode({
+    params = {
         "q": query,
         "limit": limit,
         "vocabulary_id": ",".join(vocabulary_ids),
-    })
-    url = f"https://hecate.pantheon-hds.com/api/search_standard?{params}"
-    ctx = ssl.create_default_context(cafile=certifi.where())
-    with urllib.request.urlopen(url, context=ctx) as resp:
-        return json.loads(resp.read())
+    }
+    resp = requests.get(
+        "https://hecate.pantheon-hds.com/api/search_standard",
+        params=params,
+        timeout=10,
+    )
+    resp.raise_for_status()
+    return resp.json()
 
 
 def main():
