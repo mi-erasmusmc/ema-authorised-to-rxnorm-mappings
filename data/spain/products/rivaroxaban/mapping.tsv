@@ -40,6 +40,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 758178	88049	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-03-12
 758179	88050	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-03-12
 758180	88051	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-03-12
+759840	88373	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-06-07
+759841	88374	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-06-07
+759842	88375	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-06-07
 760418	88428	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-03-12
 760419	88428	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-03-12
 760420	88429	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-03-12
@@ -86,3 +89,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768852	90692	40241333	rivaroxaban 10 MG Oral Tablet	1114198	EXACT			2026-03-12
 768854	90693	40244444	rivaroxaban 15 MG Oral Tablet	1232082	EXACT			2026-03-12
 768855	90694	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-03-12
+768983	08472012IP	40244445	rivaroxaban 15 MG Oral Tablet [Xarelto]	1232084	EXACT			2026-06-07
+769336	88375	40244448	rivaroxaban 20 MG Oral Tablet	1232086	EXACT			2026-06-07

@@ -48,6 +48,18 @@ update_latvia:
 	$(PYTHON) .claude/skills/process-latvia-data/scripts/organize_products.py $(ARGS)
 	$(PYTHON) data/latvia/deduplicate_data_files.py $(ARGS)
 
+# ── Italy ───────────────────────────────────────────────────────────────────────
+download_italy:
+	$(PYTHON) data/italy/download_aifa.py $(ARGS)
+
+split_italy_by_ingredient:
+	$(PYTHON) data/italy/split_by_ingredient.py $(ARGS)
+
+link_italy_ema_mappings:
+	$(PYTHON) data/italy/link_ema_mappings.py $(ARGS)
+
+update_italy: download_italy split_italy_by_ingredient
+
 deduplicate_latvia:
 	$(PYTHON) data/latvia/deduplicate_data_files.py $(ARGS)
 
@@ -130,4 +142,5 @@ load_spain:
         validate_latvia fill_missing_latvian_mappings find_concepts \
         resolve_rxcui_name search_dose_forms validate_mapping find_conflicts apply_mapping \
         show_unmapped sync_mappings generate_mapping_overviews \
-        load_ema load_latvia load_spain
+        load_ema load_latvia load_spain \
+        download_italy split_italy_by_ingredient link_italy_ema_mappings update_italy
