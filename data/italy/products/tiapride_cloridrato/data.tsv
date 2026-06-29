@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+023402011	023402	SEREPRILE	100 MG COMPRESSE- 20 COMPRESSE	TIAPRIDE CLORIDRATO	TIAPRIDE CLORIDRATO	111.1	milligrammi	Compressa	N05AL03	NEURAXPHARM ITALY S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+023402023	023402	SEREPRILE	100 MG/2 ML SOLUZIONE INIETTABILE- 10 FIALE 2 ML	TIAPRIDE CLORIDRATO	TIAPRIDE CLORIDRATO	111.1	milligrammi	Soluzione iniettabile	N05AL03	NEURAXPHARM ITALY S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+023913015	023913	ITALPRID	20 COMPRESSE 100 MG	TIAPRIDE CLORIDRATO	TIAPRIDE CLORIDRATO	111.2	milligrammi	Compressa	N05AL03	TEOFARMA S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica

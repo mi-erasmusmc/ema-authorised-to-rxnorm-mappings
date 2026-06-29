@@ -1,0 +1,11 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+027632013	027632	POLIMOD	10 COMPRESSE 400 MG	PIDOTIMOD	PIDOTIMOD	400	milligrammi	Compressa	L03AX05	POLICHEM S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027632037	027632	POLIMOD	800 MG GRANULATO  PER  SOLUZIONE  ORALE-  10  BUSTINE	PIDOTIMOD	PIDOTIMOD	800	milligrammi	Granulato per soluzione orale	L03AX05	POLICHEM S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027632049	027632	POLIMOD	400 MG SOLUZIONE ORALE-10 FLACONCINI	PIDOTIMOD	PIDOTIMOD	400	milligrammi	Soluzione orale	L03AX05	POLICHEM S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027632076	027632	POLIMOD	10 FIALE 3 ML 200 MG	PIDOTIMOD	PIDOTIMOD	200	milligrammi	Soluzione iniettabile	L03AX05	POLICHEM S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027633039	027633	AXIL	800 MG GRANULATO PER SOLUZIONE ORALE- 10 BUSTINE	PIDOTIMOD	PIDOTIMOD	800	milligrammi	Granulato	L03AX05	POLICHEM S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027633041	027633	AXIL	400 MG/7 ML SOLUZIONE ORALE- 10 CONTENITORI MONODOSE DA 7 ML	PIDOTIMOD	PIDOTIMOD	400	milligrammi	SOLUZIONE	L03AX05	POLICHEM S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027889031	027889	PIGITIL	800 MG GRANULATO PER SOLUZIONE ORALE- 10 BUSTINE	PIDOTIMOD	PIDOTIMOD	800	milligrammi	POLVERE	L03AX05	FIDIA FARMACEUTICI S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027889043	027889	PIGITIL	400 MG SOLUZIONE ORALE-10 FLACONCINI	PIDOTIMOD	PIDOTIMOD	400	milligrammi	SOLUZIONE	L03AX05	FIDIA FARMACEUTICI S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027946033	027946	ONAKA	<<800 MG GRANULATO PER SOLUZIONE ORALE> 10 BUSTINE	PIDOTIMOD	PIDOTIMOD	800	milligrammi	Granulato	L03AX05	I.B.N. SAVIO S.R.L	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027946045	027946	ONAKA	<400 MG SOLUZIONE ORALE> 10 FLACONCINI MONODOSE	PIDOTIMOD	PIDOTIMOD	400	milligrammi	SOLUZIONE	L03AX05	I.B.N. SAVIO S.R.L	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica

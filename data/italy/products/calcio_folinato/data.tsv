@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+024632085	024632	CITOFOLIN	15 MG COMPRESSE- 10 COMPRESSE	CALCIO FOLINATO	CALCIO FOLINATO	15	milligrammi	Compressa	V03AF03	SUBSTIPHARM	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+027328018	027328	CALCIFOLIN	10 CAPSULE 15 MG	CALCIO FOLINATO	CALCIO FOLINATO	15	milligrammi	Capsula rigida	V03AF03	LANOVA FARMACEUTICI S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+028367011	028367	CALCIO FOLINATO SANDOZ	10 COMPRESSE 15 MG	CALCIO FOLINATO	CALCIO FOLINATO			Compressa	V03AF03	SANDOZ S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica

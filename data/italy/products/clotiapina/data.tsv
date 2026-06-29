@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+021553019	021553	ENTUMIN	40 MG COMPRESSE-30 COMPRESSE	CLOTIAPINA	CLOTIAPINA	40	milligrammi	Compressa	N05AH06	LABORATOIRES JUVISE PHARMACEUTICALS	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+021553021	021553	ENTUMIN	100 MG/ML GOCCE ORALI, SOLUZIONE- FLACONE 10 ML	CLOTIAPINA	CLOTIAPINA	100	milligrammi	Soluzione orale	N05AH06	LABORATOIRES JUVISE PHARMACEUTICALS	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+021553033	021553	ENTUMIN	40 MG/4 ML SOLUZIONE INIETTABILE- 10 FIALE 4 ML	CLOTIAPINA	CLOTIAPINA	10	milligrammi	Soluzione iniettabile	N05AH06	LABORATOIRES JUVISE PHARMACEUTICALS	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica da rinnovare volta per volta

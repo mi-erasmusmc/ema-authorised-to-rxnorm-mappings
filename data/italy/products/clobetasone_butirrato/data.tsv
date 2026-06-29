@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+024603019	024603	EUMOVATE	0,5 MG/G CREMA- TUBO 30 G	CLOBETASONE BUTIRRATO	CLOBETASONE BUTIRRATO	0.1		Crema	D07AB01	HALEON ITALY S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+026591026	026591	VISUCLOBEN	1 MG/ML COLLIRIO, SOSPENSIONE- 1 FLACONE DA 10 ML	CLOBETASONE BUTIRRATO	CLOBETASONE BUTIRRATO	0.1	percent	Collirio, sospensione	S01BA09	VISUFARMA S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+028591016	028591	CLOBET	0,1% COLLIRIO, SOSPENSIONE- 1 FLACONE DA 5 ML	CLOBETASONE BUTIRRATO	CLOBETASONE BUTIRRATO	0.1	percent	Collirio, soluzione	S01BA09	OMNIVISION ITALIA SRL	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica

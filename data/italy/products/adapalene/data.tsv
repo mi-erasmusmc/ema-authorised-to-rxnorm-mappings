@@ -1,0 +1,11 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+029309034	029309	DIFFERIN	<0,1% gel> 1 tubo da 30g in LDPE	ADAPALENE	ADAPALENE	0.1	percent	Gel	D10AD03	GALDERMA ITALIA S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+029309046	029309	DIFFERIN	<0,1% crema> 1 tubo da 30g in Al	ADAPALENE	ADAPALENE	0.1	percent	Crema	D10AD03	GALDERMA ITALIA S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+029309073	029309	DIFFERIN	0,1 % GEL- 1 TUBO DA 50 G IN LDPE	ADAPALENE	ADAPALENE			Gel	D10AD03	GALDERMA ITALIA S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+029309085	029309	DIFFERIN	0,1 % CREMA- 1 TUBO DA 50 G IN AL	ADAPALENE	ADAPALENE			Crema	D10AD03	GALDERMA ITALIA S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+042654018	042654	DIFFERIN	0,1% GEL -TUBO 30 G	ADAPALENE	ADAPALENE	0.1	percent	Gel	D10AD03	BB FARMA S.R.L.	Autorizzata	Importazione Parallela	Medicinali soggetti a prescrizione medica
+042654020	042654	DIFFERIN	0,1% CREMA- TUBO DA 30 G	ADAPALENE	ADAPALENE	0.1	percent	Crema auricolare	D10AD03	BB FARMA S.R.L.	Autorizzata	Importazione Parallela	Medicinali soggetti a prescrizione medica
+047465012	047465	DIFFERIN	0,1% GEL -TUBO 30 G	ADAPALENE	ADAPALENE			Gel	D10AD03	GMM FARMA S.R.L.	Autorizzata	Importazione Parallela	Medicinali soggetti a prescrizione medica
+049384011	049384	DIFFERIN	0,1% GEL -TUBO 30 G	ADAPALENE	ADAPALENE	0.1	percent	Gel	D10AD03	MEDIFARM S.R.L.	Autorizzata	Importazione Parallela	Medicinali soggetti a prescrizione medica
+049794011	049794	DIFFERIN	0,1% GEL -TUBO 30 G	ADAPALENE	ADAPALENE	0.1	percent	Gel	D10AD03	NEW PHARMASHOP S.R.L.	Autorizzata	Importazione Parallela	Medicinali soggetti a prescrizione medica
+049794023	049794	DIFFERIN	<0,1% crema> 1 tubo da 30g in Al	ADAPALENE	ADAPALENE	0.1	percent	Crema	D10AD03	NEW PHARMASHOP S.R.L.	Autorizzata	Importazione Parallela	Medicinali soggetti a prescrizione medica

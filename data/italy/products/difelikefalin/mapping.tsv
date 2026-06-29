@@ -1,0 +1,3 @@
+codice_aic	cod_farmaco	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+050051010	050051	36924838	1 ML difelikefalin 0.05 MG/ML Injection	OMOP5208226	EXACT	auto-linked from EMA 005612		2026-06-12
+050051022	050051	36924838	1 ML difelikefalin 0.05 MG/ML Injection	OMOP5208226	EXACT	auto-linked from EMA 005612		2026-06-12

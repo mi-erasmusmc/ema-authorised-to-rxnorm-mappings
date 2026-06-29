@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+006455036	006455	NICOZID	50 COMPRESSE 200 MG	ISONIAZIDE	ISONIAZIDE	200	milligrammi	Compressa	J04AC01	PIAM FARMACEUTICI S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+006455048	006455	NICOZID	6 FIALE 100 MG	ISONIAZIDE	ISONIAZIDE	100	milligrammi	Soluzione iniettabile	J04AC01	PIAM FARMACEUTICI S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+006455051	006455	NICOZID	5 FIALE 5 ML 500 MG IM IV	ISONIAZIDE	ISONIAZIDE	500	milligrammi	Soluzione iniettabile	J04AC01	PIAM FARMACEUTICI S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica

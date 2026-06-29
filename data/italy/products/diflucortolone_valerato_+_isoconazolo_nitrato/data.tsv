@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+025371016	025371	TRAVOCORT	0,1% + 1% CREMA- 1 TUBO DA 20 G	DIFLUCORTOLONE VALERATO/ISOCONAZOLO NITRATO	DIFLUCORTOLONE VALERATO|ISOCONAZOLO NITRATO	|	|	Crema	D01AC20	LEO PHARMA A/S	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+025371030	025371	TRAVOCORT	0,1% + 1% CREMA- 1 TUBO IN AL DA 30 G	DIFLUCORTOLONE VALERATO/ISOCONAZOLO NITRATO	DIFLUCORTOLONE VALERATO|ISOCONAZOLO NITRATO	|	|	Crema	D01AC20	LEO PHARMA A/S	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+053016010	053016	TRAVOCORT	0,1% + 1% CREMA- 1 TUBO IN AL DA 30 G	DIFLUCORTOLONE VALERATO/ISOCONAZOLO NITRATO	DIFLUCORTOLONE VALERATO|ISOCONAZOLO NITRATO	0.1|1	percent|percent	Crema	D01AC20	FARMED S.R.L.	Autorizzata	Importazione Parallela	Medicinali soggetti a prescrizione medica

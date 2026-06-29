@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+025575010	025575	LIMICAN	50 mg compresse> 20 compresse in blister pvc/al	ALIZAPRIDE	ALIZAPRIDE			Compressa	A03FA05	ACARPIA FARMACEUTICI S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+025575059	025575	LIMICAN	50 mg/2 ml soluzione iniettabile> 4 fiale in vetro da 2 ml	ALIZAPRIDE	ALIZAPRIDE			Soluzione iniettabile	A03FA05	ACARPIA FARMACEUTICI S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+025575061	025575	LIMICAN	50 mg compresse> 10 compresse in blister pvc/al	ALIZAPRIDE	ALIZAPRIDE	50	milligrammi	Compressa	A03FA05	ACARPIA FARMACEUTICI S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica

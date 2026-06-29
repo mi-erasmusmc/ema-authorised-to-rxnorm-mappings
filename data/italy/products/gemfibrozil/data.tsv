@@ -1,0 +1,7 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+025445026	025445	LOPID	600 MG COMPRESSE RIVESTITE- 30 COMPRESSE	GEMFIBROZIL	GEMFIBROZIL	600	milligrammi	Compressa rivestita	C10AB04	PFIZER ITALIA S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+025445053	025445	LOPID	900 MG COMPRESSE RIVESTITE- 20 COMPRESSE	GEMFIBROZIL	GEMFIBROZIL	900	milligrammi	Compressa rivestita	C10AB04	PFIZER ITALIA S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+029512011	029512	GEMFIBROZIL EG	900 MG COMPRESSE- 20 COMPRESSE	GEMFIBROZIL	GEMFIBROZIL	900	milligrammi	Compressa	C10AB04	EG S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+029512023	029512	GEMFIBROZIL EG	600 MG COMPRESSE- 30 COMPRESSE	GEMFIBROZIL	GEMFIBROZIL	600	milligrammi	Compressa	C10AB04	EG S.P.A.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+034080010	034080	GEMFIBROZIL DOC GENERICI	600 MG COMPRESSE RIVESTITE CON FILM- 30 COMPRESSE	GEMFIBROZIL	GEMFIBROZIL			Compressa rivestita con film	C10AB04	DOC GENERICI SRL	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+034080022	034080	GEMFIBROZIL DOC GENERICI	900 MG COMPRESSE RIVESTITE CON FILM- 20 COMPRESSE	GEMFIBROZIL	GEMFIBROZIL			Compressa rivestita con film	C10AB04	DOC GENERICI SRL	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica

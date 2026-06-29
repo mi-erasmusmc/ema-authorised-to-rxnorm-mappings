@@ -1,0 +1,6 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+028253019	028253	DAIVONEX	0,005% UNGUENTO- TUBO DA 30 G	CALCIPOTRIOLO	CALCIPOTRIOLO	5	milligrammi	Crema	D05AX02	LEO PHARMA A/S	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+028253021	028253	DAIVONEX	0,005%  CREMA-TUBO 30 G	CALCIPOTRIOLO	CALCIPOTRIOLO	5	milligrammi	Crema	D05AX02	LEO PHARMA A/S	Autorizzata	Procedura Mutuo riconoscimento o Decentrata	Medicinali soggetti a prescrizione medica
+028253033	028253	DAIVONEX	0,005% CREMA-TUBO 100 G	CALCIPOTRIOLO	CALCIPOTRIOLO	5	milligrammi	Crema	D05AX02	LEO PHARMA A/S	Autorizzata	Procedura Mutuo riconoscimento o Decentrata	Medicinali soggetti a prescrizione medica
+037726015	037726	CALCIPOTRIOLO SANDOZ	0.05 MG/G UNGUENTO- 1 TUBO DI AL DA 30 G	CALCIPOTRIOLO	CALCIPOTRIOLO	50	microgrammi	Unguento	D05AX02	SANDOZ S.P.A.	Autorizzata	Procedura Mutuo riconoscimento o Decentrata	Medicinali soggetti a prescrizione medica
+037726027	037726	CALCIPOTRIOLO SANDOZ	0.05 MG/G UNGUENTO- 1 TUBO DI AL DA 120 G	CALCIPOTRIOLO	CALCIPOTRIOLO	50	microgrammi	Unguento	D05AX02	SANDOZ S.P.A.	Autorizzata	Procedura Mutuo riconoscimento o Decentrata	Medicinali soggetti a prescrizione medica

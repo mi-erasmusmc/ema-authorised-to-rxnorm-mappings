@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+036561013	036561	DUKORAL	1 FLACONCINO DA 3 ML	VACCINO COLERICO	VACCINO COLERICO	3	millilitre	Soluzione iniettabile	J07AE01	VALNEVA SWEDEN AB	Autorizzata	Procedura Centralizzata	Medicinali soggetti a prescrizione medica
+036561025	036561	DUKORAL	2 FLACONCINI DA 3 ML	VACCINO COLERICO	VACCINO COLERICO	3	millilitre	Sospensione orale	J07AE01	VALNEVA SWEDEN AB	Autorizzata	Procedura Centralizzata	Medicinali soggetti a prescrizione medica
+036561037	036561	DUKORAL	20 FLACONCINI DA 3 ML	VACCINO COLERICO	VACCINO COLERICO	3	millilitre	Soluzione iniettabile	J07AE01	VALNEVA SWEDEN AB	Autorizzata	Procedura Centralizzata	Medicinali soggetti a prescrizione medica

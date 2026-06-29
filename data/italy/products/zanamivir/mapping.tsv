@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+034497014	034497	40749527	Zanamivir 10 MG/ML Injectable Solution	OMOP4708181	EXACT	auto-linked from EMA 004102		2026-06-12
+034497026	034497	40749527	Zanamivir 10 MG/ML Injectable Solution	OMOP4708181	EXACT	auto-linked from EMA 004102		2026-06-12
+047820016	047820	40749527	Zanamivir 10 MG/ML Injectable Solution	OMOP4708181	EXACT	auto-linked from EMA 004102		2026-06-12

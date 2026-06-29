@@ -1,0 +1,4 @@
+codice_aic	cod_farmaco	denominazione	descrizione	pa_associati	principio_attivo	quantita	unita_misura	forma	codice_atc	ragione_sociale	stato_amministrativo	tipo_procedura	fornitura
+022556029	022556	TOPSYN	15 MG/30 G CREMA- TUBO 30 G	FLUOCINONIDE	FLUOCINONIDE	0.5	milligram(s)/gram	Crema	D07AC08	TEOFARMA S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+022556068	022556	TOPSYN	15 MG/30 G LIQUIDO SOLUZIONE CUTANEA- FLACONE 30 ML	FLUOCINONIDE	FLUOCINONIDE	0.5	milligram(s)/millilitre	Soluzione cutanea	D07AC08	TEOFARMA S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
+022556070	022556	TOPSYN	15 MG/30 G GEL- TUBO 30 G	FLUOCINONIDE	FLUOCINONIDE	0.5	milligram(s)/gram	Gel	D07AC08	TEOFARMA S.R.L.	Autorizzata	Procedura Nazionale	Medicinali soggetti a prescrizione medica
