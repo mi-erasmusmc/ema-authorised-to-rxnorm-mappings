@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/000133
 Name of medicine: Sifrol
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: pramipexole
-Active substance: pramipexole dihydrochloride monohydrate
+Active substance: pramipexole
 Therapeutic area (MeSH): Restless Legs Syndrome;Parkinson Disease
 ATC code (human): N04BC05
 Pharmacotherapeutic group (human): Anti-Parkinson drugs

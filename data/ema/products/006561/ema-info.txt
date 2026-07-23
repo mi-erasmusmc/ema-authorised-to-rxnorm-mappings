@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006561
 Name of medicine: Iloperidone Vanda Pharmaceuticals
-Medicine status: Opinion
+Medicine status: Refused
 International non-proprietary name (INN) / common name: iloperidone
 Active substance: iloperidone
 Therapeutic area (MeSH): Schizophrenia;Bipolar Disorder
 ATC code (human): N05AX14
 Pharmacotherapeutic group (human): Psycholeptics
-Therapeutic indication: Treatment of schizophrenia, acute treatment of manic or mixed episodes associated with bipolar I disorder.
+Therapeutic indication: Iloperidone is indicated for:  treatment of schizophrenia in adults acute treatment of manic or mixed episodes associated with bipolar I disorder in adults
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/iloperidone-vanda-pharmaceuticals

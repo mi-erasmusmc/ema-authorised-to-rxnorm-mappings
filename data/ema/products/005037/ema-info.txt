@@ -6,7 +6,7 @@ Active substance: insulin lispro
 Therapeutic area (MeSH): Diabetes Mellitus
 ATC code (human): A10AB04
 Pharmacotherapeutic group (human): Drugs used in diabetes
-Therapeutic indication: Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above. Treatment of diabetes mellitus in adults.
+Therapeutic indication: Treatment of diabetes mellitus in adults, adolescents and children aged 1 year and above.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/lyumjev

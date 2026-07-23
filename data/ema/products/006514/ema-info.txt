@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006514
+Name of medicine: Fluenz
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: influenza vaccine (live attenuated, nasal)
+Active substance: influenza virus (live attenuated);A/Missouri/11/2025 (H1N1)pdm09 - like strain (A/Switzerland/6849/2025, MEDI 400592);A/Darwin/1454/2025 (H3N2) - like strain (A/Darwin/1369/2025, MEDI 406666);B/Tokyo/EIS13-175/2025 - like strain (B/Perth/115/2025, MEDI 407730)
+Therapeutic area (MeSH): Influenza, Human
+ATC code (human): J07BB03
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Fluenz is indicated for active immunisation for the prevention of influenza disease in children and adolescents from 2 years to less than 18 years of age.Fluenz should be used in accordance with official recommendations.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fluenz

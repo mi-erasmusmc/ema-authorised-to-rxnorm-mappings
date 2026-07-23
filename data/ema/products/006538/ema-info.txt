@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/006538
 Name of medicine: Fluad
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: influenza vaccine (surface antigen, inactivated, adjuvanted)
-Active substance: A/Victoria/4897/2022 (H1N1)pdm09 like strain (A/Victoria/4897/2022, IVR-238);A/Croatia/10136RV/2023 (H3N2)-like strain (A/Croatia/10136RV/2023, X-425A);B/Austria/1359417/2021 like strain (B/Austria/1359417/2021, BVR-26)
+Active substance: type A (H1N1) strain; type A (H3N2) strain; type B strain;A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Missouri/11/2025, IVR-279);A/Darwin/1454/2025 (H3N2)-like strain (A/Michigan/105/2025, IVR-285);B/Tokyo/EIS13-175/2025-like strain (B/Tokyo/EIS13-175/2025, wild type)
 Therapeutic area (MeSH): Influenza, Human
 ATC code (human): J07BB02
 Pharmacotherapeutic group (human): 

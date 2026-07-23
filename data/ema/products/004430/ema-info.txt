@@ -6,7 +6,7 @@ Active substance: glecaprevir;pibrentasvir
 Therapeutic area (MeSH): Hepatitis C, Chronic
 ATC code (human): J05AP57
 Pharmacotherapeutic group (human): Antivirals for systemic use
-Therapeutic indication: Maviret is indicated for the treatment of chronic hepatitis C virus (HCV) infection in adults and children aged 3 years and older. Maviret coated granules is indicated for the treatment of chronic hepatitis C virus (HCV) infection in children 3 years and older.
+Therapeutic indication: &nbsp; Maviret coated granules is indicated for the treatment of acute and chronic hepatitis C virus (HCV) infection in children 3 years and older. &nbsp; Maviret is indicated for the treatment of acute and chronic hepatitis C virus (HCV) infection in adults and children aged 3 years and older.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/maviret

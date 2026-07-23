@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/006532
 Name of medicine: Flucelvax
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: influenza vaccine (surface antigen, inactivated, prepared in cell cultures)
-Active substance: A/Wisconsin/67/2022 (H1N1)pdm09-like strain (A/Georgia/12/2022 CVR-167) / A/District of Columbia/27/2023 (H3N2)-like strain (A/Victoria/800/2024 CVR-289) / B/Austria/1359417/2021-like strain (B/Singapore/WUH4618/2021)
+Active substance: A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Tasmania/318/2025, CVR-351);A/Darwin/1415/2025 (H3N2)-like strain (A/Tasmania/787/2025, CVR-388);B/Pennsylvania/14/2025-like strain (B/Arizona/21/2025, wild type)
 Therapeutic area (MeSH): Influenza, Human
 ATC code (human): J07BB02
 Pharmacotherapeutic group (human): Vaccines

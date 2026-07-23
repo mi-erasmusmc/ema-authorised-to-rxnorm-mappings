@@ -1,0 +1,8 @@
+--1
+Each 0.5 ml dose contains:
+Influenza virus surface antigens (haemagglutinin and neuraminidase), inactivated, of the following strains*:
+A/Missouri/11/2025 (H1N1)pdm09-like strain (A/Tasmania/318/2025, CVR-351) 15 micrograms HA**
+A/Darwin/1415/2025 (H3N2)-like strain (A/Tasmania/787/2025, CVR-388) 15 micrograms HA**
+B/Pennsylvania/14/2025-like strain (B/Arizona/21/2025, wild type) 15 micrograms HA**
+
+* propagated in Madin Darby Canine Kidney (MDCK) cells   ** haemagglutinin
