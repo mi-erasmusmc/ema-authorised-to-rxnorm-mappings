@@ -1,0 +1,7 @@
+short_name: Fubelv
+active_substance: Etanerceptum
+marketing_authorisation_holder: Biosimilar Collaborations Ireland Limited, Ireland
+manufacturer: Biosimilar Collaborations Ireland Limited, Ireland
+atc_code: L04AB01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2023/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2023/001/smpc

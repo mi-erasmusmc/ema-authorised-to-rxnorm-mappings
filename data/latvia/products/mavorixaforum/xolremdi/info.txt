@@ -1,0 +1,7 @@
+short_name: Xolremdi
+active_substance: Mavorixaforum
+marketing_authorisation_holder: Norgine B.V., Netherlands
+manufacturer: Catalent Germany Schorndorf GmbH, Germany
+atc_code: L03AX24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2017/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2017/001/smpc

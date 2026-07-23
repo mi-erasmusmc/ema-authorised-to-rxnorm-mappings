@@ -1,6 +1,6 @@
 short_name: Xanax
 active_substance: Alprazolamum
-marketing_authorisation_holder: Upjohn EESV, Netherlands
+marketing_authorisation_holder: Viatris SIA, Latvia
 manufacturer: Pfizer Italia s.r.l., Italy; Mylan Hungary Kft., Hungary
 atc_code: N05BA12
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0165/pil

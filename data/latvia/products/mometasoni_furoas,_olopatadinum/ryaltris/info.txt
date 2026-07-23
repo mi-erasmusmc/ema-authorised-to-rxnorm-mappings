@@ -1,0 +1,7 @@
+short_name: Ryaltris
+active_substance: Mometasoni furoas, Olopatadinum
+marketing_authorisation_holder: Glenmark Pharmaceuticals s.r.o., Czech Republic
+manufacturer: Glenmark Pharmaceuticals s.r.o., Czech Republic
+atc_code: R01AD59
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0156/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0156/smpc

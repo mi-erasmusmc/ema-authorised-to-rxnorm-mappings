@@ -1,7 +1,7 @@
 short_name: Gynofort
 active_substance: Butoconazoli nitras
-marketing_authorisation_holder: Gedeon Richter Plc., Hungary
+marketing_authorisation_holder: Gedeon Richter Romania S.A., Romania
 manufacturer: Gedeon Richter Plc., Hungary
 atc_code: G01AF15
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0350/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0350/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I000752/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I000752/smpc

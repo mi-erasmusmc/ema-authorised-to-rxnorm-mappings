@@ -1,7 +1,7 @@
 short_name: Venoruton forte
 active_substance: O-beta-hydroxyethylrutosidum
 marketing_authorisation_holder: Stada Arzneimittel AG, Germany
-manufacturer: Recipharm Uppsala AB, Sweden; GlaxoSmithKline Consumer Healthcare GmbH & Co. KG, Germany; Stada Arzneimittel AG, Germany
+manufacturer: GlaxoSmithKline Consumer Healthcare GmbH & Co. KG, Germany; Stada Arzneimittel AG, Germany; Recipharm Uppsala AB, Sweden
 atc_code: C05CA01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/98-0426/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/98-0426/smpc

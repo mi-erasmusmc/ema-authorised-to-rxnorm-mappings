@@ -1,0 +1,7 @@
+short_name: Ceftriaxone AshCure
+active_substance: Ceftriaxonum
+marketing_authorisation_holder: AshCure Pharma B.V., Netherlands
+manufacturer: Pharmadox Healthcare Ltd., Malta
+atc_code: J01DD04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0136/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0136/smpc

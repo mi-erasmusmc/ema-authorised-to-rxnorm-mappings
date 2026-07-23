@@ -1,0 +1,7 @@
+short_name: Alfacalcidol Theramex
+active_substance: Alfacalcidolum
+marketing_authorisation_holder: Theramex Ireland Limited, Ireland
+manufacturer: Aenova Romania S.R.L., Romania
+atc_code: A11CC03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0419/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0419/smpc

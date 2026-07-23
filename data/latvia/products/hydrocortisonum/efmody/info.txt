@@ -1,7 +1,7 @@
 short_name: Efmody
 active_substance: Hydrocortisonum
-marketing_authorisation_holder: Neurocrine Netherlands B.V., Netherlands
-manufacturer: SkyePharma Production SAS, France; Delpharm Lille SAS, France
+marketing_authorisation_holder: Immedica Pharma AB, Sweden
+manufacturer: SkyePharma Production SAS, France
 atc_code: H02AB09
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1549/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/21/1549/001/smpc

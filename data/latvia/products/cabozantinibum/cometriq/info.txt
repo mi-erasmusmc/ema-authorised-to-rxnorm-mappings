@@ -1,7 +1,7 @@
 short_name: COMETRIQ
 active_substance: Cabozantinibum
 marketing_authorisation_holder: Ipsen Pharma SAS, France
-manufacturer: Catalent UK Packaging Ltd., United Kingdom; Catalent Germany Schorndorf GmbH, Germany
+manufacturer: TjoaPack Netherlands B.V., Netherlands; Catalent Germany Schorndorf GmbH, Germany
 atc_code: L01EX07
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/890/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/13/890/001/smpc

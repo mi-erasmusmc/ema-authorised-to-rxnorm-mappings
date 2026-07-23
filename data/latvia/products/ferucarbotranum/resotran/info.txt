@@ -1,0 +1,7 @@
+short_name: Resotran
+active_substance: Ferucarbotranum
+marketing_authorisation_holder: Sanochemia Pharmazeutika GmbH, Austria
+manufacturer: Sanochemia Pharmazeutika GmbH, Austria; Lyocontract GmbH, Germany
+atc_code: V08CB03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0131/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0131/smpc

@@ -1,0 +1,7 @@
+short_name: Cenrifki
+active_substance: Tolebrutinibum
+marketing_authorisation_holder: Sanofi Winthrop Industrie, France
+manufacturer: Sanofi S.r.l., Italy
+atc_code: L04AA62
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2011/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2011/001/smpc

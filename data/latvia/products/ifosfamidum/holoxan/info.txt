@@ -1,7 +1,7 @@
 short_name: Holoxan
 active_substance: Ifosfamidum
 marketing_authorisation_holder: Baxter Latvia, SIA, Latvia
-manufacturer: Baxter Oncology GmbH, Germany
+manufacturer: Simtra Deutschland GmbH, Germany
 atc_code: L01AA06
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0468/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/01-0468/smpc

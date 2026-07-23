@@ -1,0 +1,7 @@
+short_name: Siluxir
+active_substance: Liraglutidum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: Universal Farma S.L., Spain
+atc_code: A10BJ02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0112/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0112/smpc

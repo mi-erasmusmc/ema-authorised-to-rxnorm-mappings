@@ -1,0 +1,7 @@
+short_name: Vortioxetine Unifarma
+active_substance: Vortioxetinum
+marketing_authorisation_holder: Unifarma, SIA, Latvia
+manufacturer: Unifarma, SIA, Latvia
+atc_code: N06AX26
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0119/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0119/smpc

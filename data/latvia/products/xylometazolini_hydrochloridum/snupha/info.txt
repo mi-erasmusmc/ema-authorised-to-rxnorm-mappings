@@ -1,0 +1,7 @@
+short_name: Snupha
+active_substance: Xylometazolini hydrochloridum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Jadran Galenski Laboratorij d.d., Croatia; Stada Arzneimittel AG, Germany
+atc_code: R01AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0144/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0144/smpc

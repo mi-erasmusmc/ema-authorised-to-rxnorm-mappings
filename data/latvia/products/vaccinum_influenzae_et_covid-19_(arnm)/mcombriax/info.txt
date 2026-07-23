@@ -1,0 +1,7 @@
+short_name: mCombriax
+active_substance: Vaccinum influenzae et COVID-19 (ARNm)
+marketing_authorisation_holder: Moderna Biotech Spain S.L., Spain
+manufacturer: Moderna Biotech Spain S.L., Spain
+atc_code: Nav_piešķirts
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2028/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2028/001/smpc

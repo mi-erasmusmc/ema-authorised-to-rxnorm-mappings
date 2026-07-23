@@ -1,6 +1,6 @@
 short_name: Xalatan
 active_substance: Latanoprostum
-marketing_authorisation_holder: Upjohn EESV, Netherlands
+marketing_authorisation_holder: Viatris SIA, Latvia
 manufacturer: Pfizer Manufacturing Belgium N.V., Belgium
 atc_code: S01EE01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0502/pil

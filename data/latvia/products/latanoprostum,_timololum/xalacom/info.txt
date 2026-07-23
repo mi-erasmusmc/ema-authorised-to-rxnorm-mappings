@@ -1,6 +1,6 @@
 short_name: Xalacom
 active_substance: Latanoprostum, Timololum
-marketing_authorisation_holder: Upjohn EESV, Netherlands
+marketing_authorisation_holder: Viatris SIA, Latvia
 manufacturer: Pfizer Manufacturing Belgium N.V., Belgium
 atc_code: S01ED51
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0418/pil

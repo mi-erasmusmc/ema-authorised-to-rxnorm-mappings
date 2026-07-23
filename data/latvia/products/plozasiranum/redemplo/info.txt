@@ -1,0 +1,7 @@
+short_name: Redemplo
+active_substance: Plozasiranum
+marketing_authorisation_holder: Arrowhead Pharmaceuticals Ireland Limited, Ireland
+manufacturer: MIAS Pharma Limited, Ireland
+atc_code: Nav_piešķirts
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2041/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2041/001/smpc

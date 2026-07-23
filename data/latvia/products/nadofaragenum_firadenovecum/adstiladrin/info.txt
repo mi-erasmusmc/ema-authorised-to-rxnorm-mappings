@@ -1,0 +1,7 @@
+short_name: Adstiladrin
+active_substance: Nadofaragenum firadenovecum
+marketing_authorisation_holder: Ferring Pharmaceuticals A/S, Denmark
+manufacturer: FinVector Oy, Finland
+atc_code: L01XL10
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2035/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2035/001/smpc

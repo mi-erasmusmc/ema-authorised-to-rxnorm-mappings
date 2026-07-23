@@ -1,0 +1,7 @@
+short_name: Flaverol
+active_substance: Solidaginis herbae extractum siccum, Ononidis radicis extractum siccum, Orthosiphonis folii extractum siccum
+marketing_authorisation_holder: Medice Arzneimittel Putter GmbH & Co.KG, Germany
+manufacturer: Medice Arzneimittel Putter GmbH & Co.KG, Germany
+atc_code: G04BX
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0094/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0094/smpc

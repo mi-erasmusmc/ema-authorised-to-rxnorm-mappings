@@ -3,5 +3,5 @@ active_substance: Buprenorphini hydrochloridum
 marketing_authorisation_holder: Indivior Europe Limited, Ireland
 manufacturer: Indivior Europe Limited, Ireland
 atc_code: N07BC01
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0401/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0401/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001134/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001134/smpc

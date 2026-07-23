@@ -3,5 +3,5 @@ active_substance: Celecoxibum
 marketing_authorisation_holder: Zentiva, k.s., Czech Republic
 manufacturer: Zentiva, k.s., Czech Republic
 atc_code: M01AH01
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0265/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0265/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/13-0266/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/13-0266/smpc

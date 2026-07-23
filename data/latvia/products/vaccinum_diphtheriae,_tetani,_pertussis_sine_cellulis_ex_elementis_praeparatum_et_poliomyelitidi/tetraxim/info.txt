@@ -1,7 +1,7 @@
 short_name: Tetraxim
 active_substance: Vaccinum diphtheriae, tetani, pertussis sine cellulis ex elementis praeparatum et poliomyelitidis inactivatum adsorbatum
 marketing_authorisation_holder: Sanofi Winthrop Industrie, France
-manufacturer: SANOFI-AVENTIS Zrt., Hungary; Sanofi Winthrop Industrie, France; Sanofi Winthrop Industrie, France
+manufacturer: Sanofi-Aventis Zrt., Hungary; Sanofi Winthrop Industrie, France; Sanofi Winthrop Industrie, France
 atc_code: J07CA02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0343/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0343/smpc

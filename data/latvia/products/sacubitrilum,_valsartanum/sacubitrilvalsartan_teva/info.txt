@@ -1,7 +1,7 @@
 short_name: Sacubitril/Valsartan Teva
 active_substance: Sacubitrilum, Valsartanum
 marketing_authorisation_holder: Teva GmbH, Germany
-manufacturer: Elpen Pharmaceutical Co. Inc., Greece; ELPEN Pharmaceutical Co. Inc., Greece
+manufacturer: Pharmacare Premium Ltd, Malta; Elpen Pharmaceutical Co. Inc., Greece; ELPEN Pharmaceutical Co. Inc., Greece
 atc_code: C09DX04
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0253/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0253/smpc

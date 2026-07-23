@@ -1,7 +1,7 @@
 short_name: Uniflox
 active_substance: Ofloxacinum
 marketing_authorisation_holder: Unimed Pharma Ltd., Slovakia
-manufacturer: Unimed Pharma, S.R.O., Slovakia
+manufacturer: Unimed Pharma spol. s r.o., Slovakia
 atc_code: S01AE01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0579/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0579/smpc

@@ -1,6 +1,6 @@
 short_name: Celebrex
 active_substance: Celecoxibum
-marketing_authorisation_holder: Upjohn EESV, Netherlands
+marketing_authorisation_holder: Viatris SIA, Latvia
 manufacturer: Klocke Verpackungs-Service GmbH, Germany; Pfizer Manufacturing Deutschland GmbH, Germany
 atc_code: M01AH01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/01-0288/pil

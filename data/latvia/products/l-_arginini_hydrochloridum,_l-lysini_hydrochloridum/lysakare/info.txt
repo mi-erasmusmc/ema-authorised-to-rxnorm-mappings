@@ -1,7 +1,7 @@
 short_name: LysaKare
 active_substance: L- Arginini hydrochloridum, L-Lysini hydrochloridum
-marketing_authorisation_holder: Advanced Accelerator Applications S.A., France
-manufacturer: Laboratoire Bioluz, France
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Laboratoire Bioluz, France; Novartis Pharma GmbH, Germany
 atc_code: V03AF11
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1381/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1381/001/smpc

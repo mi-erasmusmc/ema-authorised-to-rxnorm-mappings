@@ -1,0 +1,7 @@
+short_name: Ibuprofen/Caffeine Teva
+active_substance: Ibuprofenum, Coffeinum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Gyogyszergyar Zrt., Hungary
+atc_code: M01AE51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0095/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0095/smpc

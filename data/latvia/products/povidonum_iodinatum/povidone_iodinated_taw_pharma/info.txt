@@ -1,0 +1,7 @@
+short_name: Povidone iodinated Taw Pharma
+active_substance: Povidonum iodinatum
+marketing_authorisation_holder: Taw Pharma (Ireland) Limited, Ireland
+manufacturer: Mundipharma Pharmaceuticals Limited, Cyprus
+atc_code: D08AG02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0143/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0143/smpc

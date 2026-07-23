@@ -1,6 +1,6 @@
 short_name: Sortis
 active_substance: Atorvastatinum
-marketing_authorisation_holder: Upjohn EESV, Netherlands
+marketing_authorisation_holder: Viatris SIA, Latvia
 manufacturer: Medis International a.s., Czech Republic; Mylan Hungary Kft., Hungary; Pfizer Manufacturing Deutschland GmbH, Germany
 atc_code: C10AA05
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0502/pil

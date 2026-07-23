@@ -1,7 +1,7 @@
 short_name: Nimotop S
 active_substance: Nimodipinum
 marketing_authorisation_holder: Laboratoire X.O, France
-manufacturer: KVP Pharma + Veterinar Produkte GmbH, Germany
+manufacturer: Haupt Pharma Münster GmbH, Germany
 atc_code: C08CA06
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001849/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001849/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001147/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001147/smpc

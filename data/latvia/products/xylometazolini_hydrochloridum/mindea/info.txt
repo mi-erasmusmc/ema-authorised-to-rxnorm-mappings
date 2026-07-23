@@ -1,0 +1,7 @@
+short_name: Mindea
+active_substance: Xylometazolini hydrochloridum
+marketing_authorisation_holder: Sanus24, MB, Lithuania
+manufacturer: Perfect Care Manufacturing S.R.L., Romania
+atc_code: R01AA07
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0093/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0093/smpc

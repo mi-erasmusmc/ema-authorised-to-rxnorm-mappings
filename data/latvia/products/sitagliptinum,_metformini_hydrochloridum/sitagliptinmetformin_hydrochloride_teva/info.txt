@@ -3,5 +3,5 @@ active_substance: Sitagliptinum, Metformini hydrochloridum
 marketing_authorisation_holder: Teva GmbH, Germany
 manufacturer: Laboratorios Liconsa, S.A., Spain
 atc_code: A10BD07
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0018/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0018/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0019/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0019/smpc

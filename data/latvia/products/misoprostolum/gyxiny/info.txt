@@ -1,0 +1,7 @@
+short_name: Gyxiny
+active_substance: Misoprostolum
+marketing_authorisation_holder: Afyx Therapeutics A/S, Denmark
+manufacturer: Afyx Therapeutics A/S, Denmark
+atc_code: G02AD06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0138/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0138/smpc

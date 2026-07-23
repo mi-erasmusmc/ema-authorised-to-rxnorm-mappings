@@ -1,7 +1,7 @@
 short_name: Diovan
 active_substance: Valsartanum
 marketing_authorisation_holder: Novartis Baltics, SIA, Latvia
-manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Farma S.p.A., Italy
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Farma S.p.A., Italy; Novartis Pharmaceutical Manufacturing LLC, Slovenia
 atc_code: C09CA03
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/02-0391/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/02-0391/smpc

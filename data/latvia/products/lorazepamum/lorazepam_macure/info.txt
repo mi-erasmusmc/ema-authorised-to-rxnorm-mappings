@@ -1,0 +1,7 @@
+short_name: Lorazepam Macure
+active_substance: Lorazepamum
+marketing_authorisation_holder: Macure Healthcare Limited, Malta
+manufacturer: Medochemie Ltd, Cyprus
+atc_code: N05BA06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0095/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0095/smpc

@@ -1,7 +1,7 @@
 short_name: Temelor
 active_substance: Lorazepamum
 marketing_authorisation_holder: Medochemie Ltd., Cyprus
-manufacturer: Medochemie Ltd, Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus; Farmaceutisch Analytisch Laboratorium Duiven B.V., Netherlands
 atc_code: N05BA06
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0095/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0095/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0208/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0208/smpc

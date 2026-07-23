@@ -1,7 +1,7 @@
 short_name: Aflubin
 active_substance: Gentiana lutea, Aconitum napellus, Bryonia dioica, Ferrum phosphoricum, Acidum L-lacticum
 marketing_authorisation_holder: Perrigo Poland Sp. z o.o., Poland
-manufacturer: Richard Bittner AG, Austria
+manufacturer: Richard Bittner GmbH, Austria
 atc_code: V03AX
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0037/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0037/smpc

@@ -1,7 +1,7 @@
 short_name: Meropenem
 active_substance: Meropenemum
 marketing_authorisation_holder: Steriscience B.V., Netherlands
-manufacturer: Lek Pharmaceuticals d.d., Slovenia
+manufacturer: Pharmadox Healthcare Ltd., Malta; Lek Pharmaceuticals d.d., Slovenia
 atc_code: J01DH02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0068/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0068/smpc

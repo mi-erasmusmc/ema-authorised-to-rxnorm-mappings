@@ -1,6 +1,6 @@
 short_name: Dimethyl fumarate Mylan
 active_substance: Dimethylis fumaras
-marketing_authorisation_holder: Mylan Ireland Limited, Ireland
+marketing_authorisation_holder: Mylan Pharmaceuticals Limited, Ireland
 manufacturer: Mylan Hungary Kft., Hungary; Mylan Germany GmbH, Germany
 atc_code: L04AX07
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/24/1814/001/pil

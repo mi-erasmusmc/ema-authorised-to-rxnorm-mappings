@@ -1,6 +1,6 @@
 short_name: Migard
 active_substance: Frovatriptanum
-marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+marketing_authorisation_holder: Phoenix Labs Unlimited Company, Ireland
 manufacturer: A. Menarini Manufacturing Logistic and Services s.r.l., Italy; Laboratorios Menarini S.A., Spain; BERLIN-CHEMIE AG, Germany
 atc_code: N02CC07
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0053/pil

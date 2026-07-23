@@ -1,0 +1,7 @@
+short_name: Zandoriah
+active_substance: Teriparatidum
+marketing_authorisation_holder: Cinnagen Co Unipessoal Lda., Portugal
+manufacturer: UAB Profarma, Lithuania
+atc_code: H05AA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2031/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2031/001/smpc

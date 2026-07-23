@@ -3,5 +3,5 @@ active_substance: Factor VIII coagulationis humanus
 marketing_authorisation_holder: CSL Behring GmbH, Germany
 manufacturer: CSL Behring GmbH, Germany
 atc_code: B02BD02
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0191/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0191/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/19-0192/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/19-0192/smpc

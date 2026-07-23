@@ -1,7 +1,7 @@
 short_name: Adixemin
 active_substance: Lisdexamfetamini dimesylas
 marketing_authorisation_holder: Stada Arzneimittel AG, Germany
-manufacturer: Stada Arzneimittel AG, Germany; Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta; Centrafarm Services B.V., Netherlands
+manufacturer: Stada Arzneimittel AG, Germany; Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta; Centrafarm Services B.V., Netherlands; KeVaRo Group EOOD, Bulgaria
 atc_code: N06BA12
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/25-0001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/25-0001/smpc

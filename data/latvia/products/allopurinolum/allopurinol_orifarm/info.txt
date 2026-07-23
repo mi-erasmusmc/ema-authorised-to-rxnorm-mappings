@@ -1,7 +1,7 @@
 short_name: Allopurinol Orifarm
 active_substance: Allopurinolum
 marketing_authorisation_holder: Orifarm Healthcare A/S, Denmark
-manufacturer: Takeda GmbH, Germany; Orifarm Manufacturing Poland Sp z o.o, Poland
+manufacturer: Orifarm Manufacturing Poland Sp z o.o, Poland
 atc_code: M04AA01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/93-0442/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/93-0442/smpc

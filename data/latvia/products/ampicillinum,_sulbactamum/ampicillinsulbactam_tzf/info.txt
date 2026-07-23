@@ -1,0 +1,7 @@
+short_name: Ampicillin/Sulbactam TZF
+active_substance: Ampicillinum, Sulbactamum
+marketing_authorisation_holder: Tarchomin Pharmaceutical Works "Polfa" S.A., Poland
+manufacturer: Tarchominskie Zaklady Farmaceutyczne ''Polfa'' S.A., Poland
+atc_code: J01CR01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0127/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0127/smpc

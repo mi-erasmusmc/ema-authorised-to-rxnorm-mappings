@@ -1,0 +1,7 @@
+short_name: Bronsora
+active_substance: Thymi herbae extractum siccum
+marketing_authorisation_holder: Bionorica SE, Germany
+manufacturer: Bionorica SE, Germany
+atc_code: R05CA
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0135/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0135/smpc

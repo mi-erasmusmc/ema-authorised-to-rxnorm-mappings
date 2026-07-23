@@ -1,0 +1,7 @@
+short_name: Palsonify
+active_substance: Paltusotinum
+marketing_authorisation_holder: Crinetics Pharmaceuticals Europe GmbH, Netherlands
+manufacturer: Cilatus Manufacturing Services Limited, Ireland
+atc_code: H01CB06
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2021/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2021/001/smpc

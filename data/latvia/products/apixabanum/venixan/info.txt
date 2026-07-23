@@ -1,0 +1,7 @@
+short_name: Venixan
+active_substance: Apixabanum
+marketing_authorisation_holder: Remedica Ltd., Cyprus
+manufacturer: Remedica Ltd., Cyprus
+atc_code: B01AF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0113/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0113/smpc

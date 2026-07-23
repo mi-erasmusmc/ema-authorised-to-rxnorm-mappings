@@ -1,0 +1,7 @@
+short_name: Poherdy
+active_substance: Pertuzumabum
+marketing_authorisation_holder: N.V. Organon, Netherlands
+manufacturer: N.V. Organon, Netherlands
+atc_code: L01FD02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2008/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/25/2008/001/smpc

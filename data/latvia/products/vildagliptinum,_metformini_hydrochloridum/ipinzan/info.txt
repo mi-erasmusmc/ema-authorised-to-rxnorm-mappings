@@ -3,5 +3,5 @@ active_substance: Vildagliptinum, Metformini hydrochloridum
 marketing_authorisation_holder: Zentiva, k.s., Czech Republic
 manufacturer: Pharmathen S.A., Greece; Pharmathen International S.A., Greece
 atc_code: A10BD08
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0194/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0194/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0195/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0195/smpc

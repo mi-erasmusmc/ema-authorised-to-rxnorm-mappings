@@ -1,0 +1,7 @@
+short_name: Ojemda
+active_substance: Tovorafenibum
+marketing_authorisation_holder: Ipsen Pharma SAS, France
+manufacturer: Ipsen Pharma Biotech, France
+atc_code: L01EC04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2025/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2025/001/smpc

@@ -3,5 +3,5 @@ active_substance: Betahistini dihydrochloridum
 marketing_authorisation_holder: Viatris SIA, Latvia
 manufacturer: Mylan Laboratories SAS, France
 atc_code: N07CA01
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0129/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0129/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/03-0036/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/03-0036/smpc

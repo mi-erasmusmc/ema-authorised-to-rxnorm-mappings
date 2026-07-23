@@ -1,0 +1,7 @@
+short_name: Epixust
+active_substance: Epinephrinum
+marketing_authorisation_holder: Viatris Healthcare Limited, Ireland
+manufacturer: Meda Pharma GmbH & Co.KG, Germany
+atc_code: C01CA24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0117/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0117/smpc

@@ -1,7 +1,7 @@
 short_name: Ceftazidime Qilu
 active_substance: Ceftazidimum
 marketing_authorisation_holder: Qilu Pharma Spain S.L., Spain
-manufacturer: MIAS Pharma Limited, Ireland; Netpharmalab Consulting Services, Spain; Kymos, S.L., Spain; Tillomed Malta Limited, Malta
+manufacturer: MIAS Pharma Limited, Ireland; Kymos, S.L., Spain; Tillomed Malta Limited, Malta
 atc_code: J01DD02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/22-0005/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/22-0005/smpc

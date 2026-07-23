@@ -1,7 +1,7 @@
 short_name: Sirdalud
 active_substance: Tizanidinum
 marketing_authorisation_holder: Sandoz d.d., Slovenia
-manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Lek Pharmaceuticals d.d., Slovenia
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharma GmbH, Germany; Lek S.A., Poland; Lek Pharmaceuticals d.d., Slovenia
 atc_code: M03BX02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/00-0449/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/00-0449/smpc

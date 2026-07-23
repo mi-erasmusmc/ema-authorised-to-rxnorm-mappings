@@ -1,7 +1,7 @@
 short_name: Flixotide Diskus
 active_substance: Fluticasoni propionas
 marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited, Ireland
-manufacturer: GlaxoWellcome Production, France
+manufacturer: Glaxo Wellcome Production, France
 atc_code: R03BA05
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/99-0395/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/99-0395/smpc

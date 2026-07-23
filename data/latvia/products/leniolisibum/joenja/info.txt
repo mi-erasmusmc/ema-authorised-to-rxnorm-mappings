@@ -1,0 +1,7 @@
+short_name: Joenja
+active_substance: Leniolisibum
+marketing_authorisation_holder: Pharming Technologies B.V., Netherlands
+manufacturer: Pharming Technologies B.V., Netherlands
+atc_code: L03AX22
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2034/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2034/001/smpc

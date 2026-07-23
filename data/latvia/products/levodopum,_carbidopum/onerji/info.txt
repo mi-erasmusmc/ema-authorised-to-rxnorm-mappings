@@ -1,0 +1,7 @@
+short_name: Onerji
+active_substance: Levodopum, Carbidopum
+marketing_authorisation_holder: Tanabe Pharma GmbH, Germany
+manufacturer: The Qp Services GmbH, Germany
+atc_code: N04BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2026/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2026/001/smpc

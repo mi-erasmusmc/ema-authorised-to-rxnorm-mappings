@@ -1,7 +1,7 @@
 short_name: Mirtastad
 active_substance: Mirtazapinum
 marketing_authorisation_holder: Stada Arzneimittel AG, Germany
-manufacturer: Clonmel Healthcare Ltd., Ireland; Cosmo S.p.A., Italy; Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Sanico N.V., Belgium; Lamp San Prospero S.p.A., Italy; Combino Pharm, SL, Spain; Genus Pharmaceuticals Ltd., United Kingdom; Centrafarm Services B.V., Netherlands; Stada M&D S.R.L, Romania
+manufacturer: Clonmel Healthcare Ltd., Ireland; Cosmo S.p.A., Italy; Stada Arzneimittel AG, Germany; Stada Arzneimittel GmbH, Austria; Sanico N.V., Belgium; Lamp San Prospero S.p.A., Italy; Combino Pharm, SL, Spain; Centrafarm Services B.V., Netherlands; Stada M&D S.R.L, Romania
 atc_code: N06AX11
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/05-0474/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/05-0474/smpc

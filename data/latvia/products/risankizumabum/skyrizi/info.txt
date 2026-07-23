@@ -1,7 +1,7 @@
 short_name: Skyrizi
 active_substance: Risankizumabum
 marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG, Germany
-manufacturer: AbbVie S.r.l., Italy; AbbVie Deutschland GmbH & Co. KG, Germany
+manufacturer: AbbVie S.r.l., Italy; AbbVie Deutschland GmbH & Co. KG, Germany; AbbVie Biotechnology GmbH, Germany
 atc_code: L04AC18
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1361/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/19/1361/001/smpc

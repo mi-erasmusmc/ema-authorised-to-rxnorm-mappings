@@ -1,0 +1,7 @@
+short_name: Hydrocortisone Medochemie
+active_substance: Hydrocortisonum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd, Cyprus
+atc_code: H02AB09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0096/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0096/smpc

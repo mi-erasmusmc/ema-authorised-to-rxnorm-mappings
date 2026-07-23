@@ -1,0 +1,7 @@
+short_name: Flurbiprofen Stadacare
+active_substance: Flurbiprofenum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Infarmade, S.L., Spain
+atc_code: R02AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0133/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0133/smpc

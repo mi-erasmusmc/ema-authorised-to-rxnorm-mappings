@@ -1,0 +1,7 @@
+short_name: Mirabegron Zentiva k.s.
+active_substance: Mirabegronum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta
+atc_code: G04BD12
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0105/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0105/smpc

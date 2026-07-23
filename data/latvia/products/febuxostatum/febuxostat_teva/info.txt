@@ -3,5 +3,5 @@ active_substance: Febuxostatum
 marketing_authorisation_holder: Teva B.V., Netherlands
 manufacturer: Merckle GmbH, Germany; Pliva Hrvatska d.o.o., Croatia; Teva Pharma, S.L.U., Spain; Teva Gyogyszergyar Zrt., Hungary; Actavis Ltd, Malta
 atc_code: M04AA03
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0095/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0095/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/18-0096/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/18-0096/smpc

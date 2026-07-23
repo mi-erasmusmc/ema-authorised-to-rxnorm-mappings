@@ -1,7 +1,7 @@
 short_name: Apixaban Teva
 active_substance: Apixabanum
 marketing_authorisation_holder: Teva GmbH, Germany
-manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Actavis Limited, Malta
 atc_code: B01AF02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/20-0131/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/20-0131/smpc

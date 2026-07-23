@@ -1,7 +1,7 @@
 short_name: Alkindi
 active_substance: Hydrocortisonum
-marketing_authorisation_holder: Diurnal Europe B.V., Netherlands
-manufacturer: Delpharm Lille SAS, France
+marketing_authorisation_holder: Immedica Pharma AB, Sweden
+manufacturer: Delpharm Lille SAS, France; SkyePharma Production SAS, France
 atc_code: H02AB09
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1260/001/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/17/1260/001/smpc

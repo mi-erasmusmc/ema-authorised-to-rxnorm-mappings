@@ -1,7 +1,7 @@
 short_name: Endoxan
 active_substance: Cyclophosphamidum
 marketing_authorisation_holder: Baxter Latvia, SIA, Latvia
-manufacturer: Baxter Oncology GmbH, Germany
+manufacturer: Simtra Deutschland GmbH, Germany
 atc_code: L01AA01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0498/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0498/smpc

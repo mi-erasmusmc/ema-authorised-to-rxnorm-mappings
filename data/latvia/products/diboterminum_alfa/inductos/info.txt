@@ -1,0 +1,7 @@
+short_name: InductOs
+active_substance: Diboterminum alfa
+marketing_authorisation_holder: Medtronic Biopharma BV, Netherlands
+manufacturer: Medtronic Biopharma BV, Netherlands
+atc_code: M05BC01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/226/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/02/226/001/smpc

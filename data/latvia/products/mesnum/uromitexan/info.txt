@@ -1,7 +1,7 @@
 short_name: Uromitexan
 active_substance: Mesnum
 marketing_authorisation_holder: Baxter Latvia, SIA, Latvia
-manufacturer: Baxter Oncology GmbH, Germany; Prasfarma S.L., Spain
+manufacturer: Prasfarma S.L., Spain; Simtra Deutschland GmbH, Germany
 atc_code: V03AF01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/96-0504/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/96-0504/smpc

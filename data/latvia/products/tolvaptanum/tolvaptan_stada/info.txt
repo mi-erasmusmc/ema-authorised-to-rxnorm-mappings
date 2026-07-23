@@ -1,0 +1,7 @@
+short_name: Tolvaptan Stada
+active_substance: Tolvaptanum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Stada Arzneimittel AG, Germany; Coripharma ehf., Iceland; Stada M&D S.R.L, Romania; Laboratori Fundacio Dau, Spain
+atc_code: C03XA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0146/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0146/smpc

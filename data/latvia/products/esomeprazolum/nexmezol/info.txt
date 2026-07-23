@@ -3,5 +3,5 @@ active_substance: Esomeprazolum
 marketing_authorisation_holder: Sandoz d.d., Slovenia
 manufacturer: Lek Pharmaceuticals d.d., Slovenia; Lek S.A., Poland; Salutas Pharma GmbH, Germany; S.C. Sandoz S.R.L., Romania; Lek Pharmaceuticals d.d., Slovenia; Lek S.A., Poland; Novartis Pharmaceutical Manufacturing LLC, Slovenia
 atc_code: A02BC05
-package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0139/pil
-summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0139/smpc
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/09-0140/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/09-0140/smpc

@@ -1,6 +1,6 @@
 short_name: Zoloft
 active_substance: Sertralinum
-marketing_authorisation_holder: Upjohn EESV, Netherlands
+marketing_authorisation_holder: Viatris SIA, Latvia
 manufacturer: Mylan Hungary Kft., Hungary; Pfizer Manufacturing Deutschland GmbH, Germany; Towa Pharmaceutical Europe S.L., Spain
 atc_code: N06AB06
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/97-0311/pil

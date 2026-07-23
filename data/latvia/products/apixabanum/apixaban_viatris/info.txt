@@ -1,7 +1,7 @@
 short_name: Apixaban Viatris
 active_substance: Apixabanum
 marketing_authorisation_holder: Viatris Limited, Ireland
-manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited, t/a Gerard Laboratories, t/a Mylan Dublin, Ireland; Mylan Germany GmbH, Germany
+manufacturer: Mylan Hungary Kft., Hungary; McDermott Laboratories Limited, t/a Gerard Laboratories, t/a Mylan Dublin, Ireland; Viatris Germany GmbH, Germany
 atc_code: B01AF02
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/21-0100/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/21-0100/smpc

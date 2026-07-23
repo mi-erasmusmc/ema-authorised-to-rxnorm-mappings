@@ -1,0 +1,7 @@
+short_name: Nintedanib TevaPharm
+active_substance: Nintedanibum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Merckle GmbH, Germany; Catalent France Beinheim, France
+atc_code: L01EX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0140/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0140/smpc

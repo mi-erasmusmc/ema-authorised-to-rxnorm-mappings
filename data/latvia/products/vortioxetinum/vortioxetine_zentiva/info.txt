@@ -1,0 +1,7 @@
+short_name: Vortioxetine Zentiva
+active_substance: Vortioxetinum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Labormed - Pharma S.A., Romania
+atc_code: N06AX26
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0115/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0115/smpc

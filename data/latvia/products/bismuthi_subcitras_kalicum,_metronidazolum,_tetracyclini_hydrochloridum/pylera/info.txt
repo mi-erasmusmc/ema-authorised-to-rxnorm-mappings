@@ -1,0 +1,7 @@
+short_name: Pylera
+active_substance: Bismuthi subcitras kalicum, Metronidazolum, Tetracyclini hydrochloridum
+marketing_authorisation_holder: Laboratoires Juvise Pharmaceuticals, France
+manufacturer: SkyePharma Production SAS, France
+atc_code: A02BD08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0111/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0111/smpc

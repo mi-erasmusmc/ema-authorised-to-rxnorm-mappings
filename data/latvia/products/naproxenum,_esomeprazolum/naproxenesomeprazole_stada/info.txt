@@ -1,0 +1,7 @@
+short_name: Naproxen/Esomeprazole STADA
+active_substance: Naproxenum, Esomeprazolum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Pharmadox Healthcare Ltd., Malta; MSN Labs Europe Limited, Malta
+atc_code: M01AE52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0106/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0106/smpc
