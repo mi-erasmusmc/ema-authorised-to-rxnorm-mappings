@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/005815
 Name of medicine: Ertapenem SUN
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: ertapenem
-Active substance: ertapenem sodium
+Active substance: ertapenem
 Therapeutic area (MeSH): Bacterial Infections
 ATC code (human): 
 Pharmacotherapeutic group (human): ertapenem

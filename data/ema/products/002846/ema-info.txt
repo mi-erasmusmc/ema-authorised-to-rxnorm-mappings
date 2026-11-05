@@ -6,7 +6,7 @@ Active substance: tedizolid
 Therapeutic area (MeSH): Soft Tissue Infections;Skin Diseases, Bacterial
 ATC code (human): J01XX11
 Pharmacotherapeutic group (human): Antibacterials for systemic use;Other antibacterials
-Therapeutic indication: Sivextro tablets are indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults, adolescents and children weighing at least 35 kg.Consideration should be given to official guidance on the appropriate use of antibacterial agents. Sivextro powder for concentrate for solution for infusion is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) from birth. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Therapeutic indication: Sivextro tablets are indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in adults, adolescents and children weighing at least 35 kg. Sivextro powder for concentrate for solution for infusion is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) from birth. Sivextro powder for oral suspension is indicated for the treatment of acute bacterial skin and skin structure infections (ABSSSI) in patients from birth. Consideration should be given to official guidance on the appropriate use of antibacterial agents.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sivextro

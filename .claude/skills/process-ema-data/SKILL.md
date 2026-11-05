@@ -44,11 +44,19 @@ make update_ema
 ```
 
 This automatically:
-1. Detects the most recent PDF date from existing files
-2. Downloads the EMA medicines report and new/updated Authorised Presentations PDFs
-3. Generates `ema-info.txt` metadata for any new product folders
+1. Downloads the EMA medicines report for product names and metadata.
+2. Downloads the [official bulk document index](https://www.ema.europa.eu/en/about-us/about-website/download-website-data-json-data-format), which provides presentation PDF URLs, EMA product numbers, and document-specific dates. No medicine pages are requested.
+3. Compares each document date with complete local PDFs and downloads missing, incomplete, or outdated files, newest first. Medicine-page update dates and progress status never suppress a missing download.
+4. Generates `ema-info.txt` metadata and combines parsed data into mapping overviews.
 
-To override the auto-detected date cutoff:
+The bulk feed is refreshed twice daily (06:00 and 18:00 Amsterdam time). A valid local PDF with the same or a newer document date is reused, including after a product rename. When multiple presentation documents exist for a product, the most recently updated English document is selected. Products absent from the feed are reported as having no PDF in the index, not queried individually. Invalid or incomplete feed data fails the update rather than marking everything absent.
+
+To audit all products without downloading PDFs or changing progress/metadata (the two source reports are still downloaded):
+```bash
+make update_ema ARGS="--dry-run"
+```
+
+To explicitly restrict downloads using the **presentation document date**, independently of medicine-page dates:
 ```bash
 make update_ema ARGS="--since YYYY-MM-DD"
 ```
@@ -128,7 +136,7 @@ To parse multiple products efficiently using subagents:
 
 All scripts are located in `.claude/skills/process-ema-data/scripts/` and should be invoked with this full path from the workspace root:
 
-- **`.claude/skills/process-ema-data/scripts/fetch_ema_updates.py`** - One-command wrapper: detects latest date, downloads updates, generates metadata
+- **`.claude/skills/process-ema-data/scripts/fetch_ema_updates.py`** - One-command wrapper: checks local PDFs per product, downloads updates, generates metadata
 - **`.claude/skills/process-ema-data/scripts/download_ema_presentation_files.py`** - Downloads the EMA medicines report and Authorised Presentations PDFs
 - **`.claude/skills/process-ema-data/scripts/generate_ema_info.py`** - Generates `ema-info.txt` metadata files from `medicines_report.tsv`
 - **`.claude/skills/process-ema-data/scripts/prepare_parse_batch.py`** - Generates a batch parsing prompt for multiple products (eliminates per-product filesystem exploration)

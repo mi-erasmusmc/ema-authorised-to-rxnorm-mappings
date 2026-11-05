@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006629
 Name of medicine: Hopledo
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: levodopa;carbidopa
 Active substance: carbidopa monohydrate;levodopa
 Therapeutic area (MeSH): Parkinson Disease
 ATC code (human): N04BA02
-Pharmacotherapeutic group (human): 
-Therapeutic indication: Treatment of adult patients with Parkinson’s disease&nbsp;
+Pharmacotherapeutic group (human): Anti-Parkinson drugs
+Therapeutic indication: Hopledo is indicated for the treatment of adult patients with Parkinson’s disease and moderate to severe motor fluctuations who have not been sufficiently stabilised with oral levodopa/dopa decarboxylase (DDC) inhibitor-based treatment regimens.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/hopledo

@@ -1,0 +1,31 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/21/1608/001	EMEA/H/C/005422	0.25 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.5 ml (0.5 mg/ml)	4 pre-filled pens	Wegovy
+EU/1/21/1608/002	EMEA/H/C/005422	0.5 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.5 ml (1 mg/ml)	4 pre-filled pens	Wegovy
+EU/1/21/1608/003	EMEA/H/C/005422	1 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.5 ml (2 mg/ml)	4 pre-filled pens	Wegovy
+EU/1/21/1608/004	EMEA/H/C/005422	1.7 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.75 ml (2.27 mg/ml)	4 pre-filled pens	Wegovy
+EU/1/21/1608/005	EMEA/H/C/005422	2.4 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.75 ml (3.2 mg/ml)	4 pre-filled pens	Wegovy
+EU/1/21/1608/006	EMEA/H/C/005422	0.25 mg	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen (FlexTouch)	1.5 ml (0.68 mg/ml)	1 pre-filled pen + 4 needles	Wegovy
+EU/1/21/1608/007	EMEA/H/C/005422	0.5 mg	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen (FlexTouch)	1.5 ml (1.34 mg/ml)	1 pre-filled pen + 4 needles	Wegovy
+EU/1/21/1608/008	EMEA/H/C/005422	1 mg	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen (FlexTouch)	3 ml (1.34 mg/ml)	1 pre-filled pen + 4 needles	Wegovy
+EU/1/21/1608/009	EMEA/H/C/005422	1.7 mg	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen (FlexTouch)	3 ml (2.27 mg/ml)	1 pre-filled pen + 4 needles	Wegovy
+EU/1/21/1608/010	EMEA/H/C/005422	2.4 mg	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen (FlexTouch)	3 ml (3.2 mg/ml)	1 pre-filled pen + 4 needles	Wegovy
+EU/1/21/1608/011	EMEA/H/C/005422	2.4 mg	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen (FlexTouch)	3 ml (3.2 mg/ml)	3 pre-filled pens + 12 needles	Wegovy
+EU/1/21/1608/012	EMEA/H/C/005422	0.5 mg	Solution for injection	Subcutaneous use	cartridge (glass) in pre-filled pen (FlexTouch)	3 ml (0.68 mg/ml)	1 pre-filled pen + 4 needles	Wegovy
+EU/1/21/1608/013	EMEA/H/C/005422	1.5 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	10 tablets	Wegovy
+EU/1/21/1608/014	EMEA/H/C/005422	1.5 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	30 tablets	Wegovy
+EU/1/21/1608/015	EMEA/H/C/005422	1.5 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	90 tablets	Wegovy
+EU/1/21/1608/016	EMEA/H/C/005422	4 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	10 tablets	Wegovy
+EU/1/21/1608/017	EMEA/H/C/005422	4 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	30 tablets	Wegovy
+EU/1/21/1608/018	EMEA/H/C/005422	4 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	90 tablets	Wegovy
+EU/1/21/1608/019	EMEA/H/C/005422	9 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	10 tablets	Wegovy
+EU/1/21/1608/020	EMEA/H/C/005422	9 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	30 tablets	Wegovy
+EU/1/21/1608/021	EMEA/H/C/005422	9 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	90 tablets	Wegovy
+EU/1/21/1608/022	EMEA/H/C/005422	25 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	10 tablets	Wegovy
+EU/1/21/1608/023	EMEA/H/C/005422	25 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	30 tablets	Wegovy
+EU/1/21/1608/024	EMEA/H/C/005422	25 mg	Tablets	Oral use	Blister (Alu/Alu)	NA	90 tablets	Wegovy
+EU/1/21/1608/025	EMEA/H/C/005422	7.2 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass) in pre-filled pen	0.75 ml (9.6 mg/ml)	4 pre-filled pens	Wegovy
+EU/1/21/1608/026	EMEA/H/C/005422	0.25 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass)	0.5 ml (0.5 mg/ml)	4 pre-filled syringes	Wegovy
+EU/1/21/1608/027	EMEA/H/C/005422	0.5 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass)	0.5 ml (1 mg/ml)	4 pre-filled syringes	Wegovy
+EU/1/21/1608/028	EMEA/H/C/005422	1 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass)	0.5 ml (2 mg/ml)	4 pre-filled syringes	Wegovy
+EU/1/21/1608/029	EMEA/H/C/005422	1.7 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass)	0.75 ml (2.27 mg/ml)	4 pre-filled syringes	Wegovy
+EU/1/21/1608/030	EMEA/H/C/005422	2.4 mg	Solution for injection	Subcutaneous use	pre-filled syringe (glass)	0.75 ml (3.2 mg/ml)	4 pre-filled syringes	Wegovy

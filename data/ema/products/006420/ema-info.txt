@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006420
 Name of medicine: Boey
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: trenibotulinumtoxinE
 Active substance: trenibotulinumtoxinE
 Therapeutic area (MeSH): Stress, Psychological;Cosmetic Techniques
 ATC code (human): Not yet assigned
 Pharmacotherapeutic group (human): MUSCLE RELAXANTS;Other muscle relaxants, peripherally acting agents
-Therapeutic indication: Temporary improvement in the appearance of moderate to severe lines between the eyebrows when these have an important psychological impact in adult patients&nbsp;
+Therapeutic indication: Boey is indicated for the temporary improvement in the appearance of moderate to severe lines between the eyebrows seen at maximum frown (glabellar lines), when these have an important psychological impact in adult patients.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/boey

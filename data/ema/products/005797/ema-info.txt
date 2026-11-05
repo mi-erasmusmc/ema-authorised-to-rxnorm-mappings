@@ -6,7 +6,7 @@ Active substance: Chikungunya virus, strain CHIKV LR2006-OPY1, live attenuated
 Therapeutic area (MeSH): Chikungunya virus
 ATC code (human): J07BP01
 Pharmacotherapeutic group (human): Vaccines
-Therapeutic indication: Ixchiq is indicated for active immunisation for the prevention of disease caused by chikungunya virus (CHIKV) in individuals between 12 years older.&nbsp;The use of this vaccine should be in accordance with official recommendations.&nbsp;
+Therapeutic indication: Ixchiq is indicated for active immunisation for the prevention of disease caused by chikungunya virus (CHIKV) in individuals 12 years and older&nbsp;at high risk of acquiring chikungunya infection.&nbsp; The use of this vaccine should be in accordance with official recommendations.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ixchiq

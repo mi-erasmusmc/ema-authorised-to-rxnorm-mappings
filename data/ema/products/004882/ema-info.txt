@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/004882
 Name of medicine: GoResp Digihaler (previously Budesonide/Formoterol Teva Pharma B.V.)
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: budesonide;formoterol fumarate dihydrate
-Active substance: Budesonide;formoterol fumarate dihydrate
+Active substance: budesonide;formoterol fumarate dihydrate
 Therapeutic area (MeSH): Asthma;Pulmonary Disease, Chronic Obstructive
 ATC code (human): R03AK07
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases

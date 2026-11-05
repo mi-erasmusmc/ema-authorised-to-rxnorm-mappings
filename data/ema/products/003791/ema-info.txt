@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/003791
 Name of medicine: Imbruvica
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: ibrutinib
-Active substance: Ibrutinib
+Active substance: ibrutinib
 Therapeutic area (MeSH): Lymphoma, Mantle-Cell;Leukemia, Lymphocytic, Chronic, B-Cell
 ATC code (human): L01EL01
 Pharmacotherapeutic group (human): Antineoplastic agents;Protein kinase inhibitors

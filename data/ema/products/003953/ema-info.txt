@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/003953
 Name of medicine: Budesonide/Formoterol Teva Pharma B.V.
 Medicine status: Withdrawn
 International non-proprietary name (INN) / common name: budesonide;formoterol fumarate dihydrate
-Active substance: Budesonide;formoterol
+Active substance: budesonide;formoterol
 Therapeutic area (MeSH): Asthma
 ATC code (human): R03AK07
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases

@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/006058
 Name of medicine: Bimervax
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: COVID-19 Vaccine (recombinant, adjuvanted)
-Active substance: SARS-CoV-2 virus recombinant spike (S) protein receptor binding domain (RBD) fusion dimer produced by recombinant DNA technology
+Active substance: COVID-19 Vaccine (recombinant, adjuvanted)
 Therapeutic area (MeSH): COVID-19 virus infection
 ATC code (human): J07BN
 Pharmacotherapeutic group (human): Vaccines

@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/003918
 Name of medicine: Qarziba (previously Dinutuximab beta EUSA and Dinutuximab beta Apeiron)
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: dinutuximab beta
-Active substance: Dinutuximab beta
+Active substance: dinutuximab beta
 Therapeutic area (MeSH): Neuroblastoma
 ATC code (human): L01FX06
 Pharmacotherapeutic group (human): Antineoplastic agents

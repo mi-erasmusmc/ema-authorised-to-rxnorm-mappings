@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000041
+Name of medicine: CEA-Scan
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: arcitumomab
+Active substance: arcitumomab
+Therapeutic area (MeSH): Radionuclide Imaging;Colorectal Neoplasms
+ATC code (human): V09IA01
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: CEA-Scan is indicated only in patients with histologically-demonstrated carcinoma of the colon or rectum for imaging of recurrence and/or metastases. CEA-Scan is employed for diagnostic use only, in the above mentioned patients, as an adjunct to standard non-invasive imaging techniques, such as ultrasonography or CT scan, in the following situations:  Patients with evidence of recurrence and/or metastatic carcinoma of the colon or rectum, who are undergoing an evaluation for extent of disease, such as prior to surgical resection and/or other therapy, or Patients with suspected recurrence and/or metastatic carcinoma of the colon or rectum in association with rising levels of carcinoembryonic antigen (CEA).
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/cea-scan

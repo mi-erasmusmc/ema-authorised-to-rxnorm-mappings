@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005584
+Name of medicine: Neffy
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: epinephrine
+Active substance: epinephrine
+Therapeutic area (MeSH): Hypersensitivity;Anaphylaxis
+ATC code (human): C01CA24
+Pharmacotherapeutic group (human): Cardiac therapy
+Therapeutic indication: Emergency treatment of allergic reactions, including anaphylaxis.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/neffy

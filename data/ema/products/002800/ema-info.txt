@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/002800
 Name of medicine: Unituxin
 Medicine status: Withdrawn
 International non-proprietary name (INN) / common name: dinutuximab
-Active substance: Dinutuximab
+Active substance: dinutuximab
 Therapeutic area (MeSH): Neuroblastoma
 ATC code (human): L01FX06
 Pharmacotherapeutic group (human): Antineoplastic agents

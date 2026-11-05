@@ -1,0 +1,5 @@
+ma_number	ema_product_number	strength	pharmaceutical_form	route_of_administration	packaging	content	pack_size	product_name
+EU/1/22/1699/001	EMEA/H/C/005155	--¹ see footnote.txt	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass) solvent: vial (glass)	0.5 ml	1 vial + 1 vial	Qdenga
+EU/1/22/1699/002	EMEA/H/C/005155	--¹ see footnote.txt	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass) solvent: vial (glass)	0.5 ml	10 vials + 10 vials	Qdenga
+EU/1/22/1699/003	EMEA/H/C/005155	--¹ see footnote.txt	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass) solvent: pre-filled syringe (glass)	0.5 ml	1 vial + 1 pre-filled syringe	Qdenga
+EU/1/22/1699/005	EMEA/H/C/005155	--¹ see footnote.txt	Powder and solvent for solution for injection	Subcutaneous use	powder: vial (glass) solvent: pre-filled syringe (glass)	0.5 ml	1 vial + 1 pre-filled syringe + 2 needles	Qdenga

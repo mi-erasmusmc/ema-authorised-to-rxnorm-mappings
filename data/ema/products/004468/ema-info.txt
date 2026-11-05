@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004468
+Name of medicine: Vanflyta
+Medicine status: Refused
+International non-proprietary name (INN) / common name: quizartinib
+Active substance: quizartinib dihydrochloride
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): L01XE
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of acute myeloid leukaemia.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vanflyta-0

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/002377
+Name of medicine: BindRen
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: colestilan
+Active substance: colestilan
+Therapeutic area (MeSH): Hyperphosphatemia
+ATC code (human): V03AE
+Pharmacotherapeutic group (human): 
+Therapeutic indication: Treatment of hyperphosphataemia in adult patients with chronic kidney disease stage 5 receiving haemodialysis or peritoneal dialysis.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/bindren

@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005233
+Name of medicine: Sondelbay
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: teriparatide
+Active substance: teriparatide
+Therapeutic area (MeSH): Osteoporosis
+ATC code (human): H05AA02
+Pharmacotherapeutic group (human): Calcium homeostasis
+Therapeutic indication: Treatment of osteoporosis
+Biosimilar: Yes
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/sondelbay-0

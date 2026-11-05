@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006498
 Name of medicine: Itvisma
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: onasemnogene abeparvovec
 Active substance: onasemnogene abeparvovec
 Therapeutic area (MeSH): Muscular Atrophy, Spinal
 ATC code (human): M09AX09
 Pharmacotherapeutic group (human): Other drugs for disorders of the musculo-skeletal system
-Therapeutic indication: Treatment of 5q spinal muscular atrophy (SMA)
+Therapeutic indication: Itvisma is indicated for the treatment of 5q spinal muscular atrophy (SMA) with a bi-allelic mutation in the SMN1 gene in patients 2 years of age and older.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/itvisma

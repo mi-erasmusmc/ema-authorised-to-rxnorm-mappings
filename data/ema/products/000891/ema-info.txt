@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000891
+Name of medicine: Doribax
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: doripenem
+Active substance: doripenem
+Therapeutic area (MeSH): Pneumonia, Ventilator-Associated;Pneumonia, Bacterial;Urinary Tract Infections;Bacterial Infections;Cross Infection
+ATC code (human): J01DH04
+Pharmacotherapeutic group (human): Antibacterials for systemic use
+Therapeutic indication: Doribax is indicated for the treatment of the following infections in adults:  nosocomial pneumonia (including ventilator-associated pneumonia); complicated intra-abdominal infections; complicated urinary tract infections.  Consideration should be given to official guidance on the appropriate use of antibacterial agents.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/doribax

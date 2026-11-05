@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/006063
+Name of medicine: Zokovea
+Medicine status: Authorised
+International non-proprietary name (INN) / common name: ensitrelvir
+Active substance: ensitrelvir fumaric acid
+Therapeutic area (MeSH): COVID-19 virus infection
+ATC code (human): J05AE16
+Pharmacotherapeutic group (human): Antivirals for systemic use
+Therapeutic indication: Post exposure prophylaxis of COVID-19 in adults and adolescents aged 12 years and older
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zokovea

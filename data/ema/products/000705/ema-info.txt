@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000705
+Name of medicine: Mylotarg
+Medicine status: Refused
+International non-proprietary name (INN) / common name: gemtuzumab ozogamicin
+Active substance: gemtuzumab ozogamicin
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): L01XC05
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: re-induction treatment of CD33-positive AML adult patients in first relapse who are not candidates for other intensive re-induction chemotherapy regimens (e.g. high-dose Ara-C) and meet at least one of the following criteria: duration of first remission &lt;12 months, or age &gt;60 years.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/mylotarg-0

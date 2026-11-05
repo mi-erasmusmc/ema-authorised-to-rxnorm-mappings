@@ -6,7 +6,7 @@ Active substance: datopotamab deruxtecan
 Therapeutic area (MeSH): Breast Neoplasms
 ATC code (human): L01FX35
 Pharmacotherapeutic group (human): Antineoplastic agents
-Therapeutic indication: Breast cancerDatroway as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic hormone receptor (HR)-positive, HER2-negative breast cancer who have received endocrine therapy and at least one line of chemotherapy in the advanced setting.
+Therapeutic indication: Breast cancer Datroway as monotherapy is indicated for the treatment of adult patients with unresectable or metastatic hormone receptor (HR)-positive, HER2-negative breast cancer who have received endocrine therapy and at least one line of chemotherapy in the advanced setting.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/datroway

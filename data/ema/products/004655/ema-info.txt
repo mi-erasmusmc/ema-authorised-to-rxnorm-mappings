@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/004655
 Name of medicine: Jorveza
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: budesonide
-Active substance: Budesonide
+Active substance: budesonide
 Therapeutic area (MeSH): Esophageal Diseases
 ATC code (human): A07EA06
 Pharmacotherapeutic group (human): Antidiarrheals, intestinal antiinflammatory / antiinfective agents

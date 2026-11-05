@@ -1,8 +1,8 @@
 EMA product number: EMEA/H/C/005247
 Name of medicine: Yartemlea
-Medicine status: Opinion under re-examination
+Medicine status: Opinion
 International non-proprietary name (INN) / common name: Narsoplimab
-Active substance: narsoplimab
+Active substance: Narsoplimab
 Therapeutic area (MeSH): Thrombotic Microangiopathies;Hematopoietic Stem Cell Transplantation
 ATC code (human): L01FX
 Pharmacotherapeutic group (human): 

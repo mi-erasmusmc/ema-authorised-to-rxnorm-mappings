@@ -1,0 +1,23 @@
+--⁶
+One dose (0.5 mL) contains 50 micrograms of SARS-CoV-2 JN.1 mRNA, a COVID-19 mRNA Vaccine (embedded in lipid nanoparticles).
+
+One dose (0.25 mL) contains 25 micrograms of SARS-CoV-2 JN.1 mRNA, a COVID-19 mRNA Vaccine (embedded in lipid nanoparticles).
+
+SARS-CoV-2 JN.1 mRNA is a single-stranded, 5’-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the
+corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2 (JN.1).
+
+--⁷
+One dose (0.5 mL) contains 50 micrograms of SARS-CoV-2 LP.8.1 mRNA, a COVID-19 mRNA Vaccine (embedded in lipid nanoparticles).
+
+One dose (0.25 mL) contains 25 micrograms of SARS-CoV-2 LP.8.1 mRNA, a COVID-19 mRNA Vaccine (embedded in lipid nanoparticles).
+
+SARS-CoV-2 LP.8.1 mRNA is a single-stranded, 5’-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the
+corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2 (LP.8.1).
+
+--⁸
+One dose (0.5 mL) contains 50 micrograms of SARS-CoV-2 XFG mRNA, a COVID-19 mRNA Vaccine (embedded in lipid nanoparticles).
+
+One dose (0.25 mL) contains 25 micrograms of SARS-CoV-2 XFG mRNA, a COVID-19 mRNA Vaccine (embedded in lipid nanoparticles).
+
+SARS-CoV-2 XFG mRNA is a single-stranded, 5’-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the
+corresponding DNA templates, encoding the viral spike (S) protein of SARS-CoV-2 (XFG).

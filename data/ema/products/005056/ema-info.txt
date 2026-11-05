@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005056
+Name of medicine: Tibsovo
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: ivosidenib
+Active substance: Ivosidenib
+Therapeutic area (MeSH): Leukemia, Myeloid, Acute
+ATC code (human): L01XX62
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of adult patients with newly diagnosed acute myeloid leukaemia (AML) and locally advanced or metastatic cholangiocarcinoma
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tibsovo-0

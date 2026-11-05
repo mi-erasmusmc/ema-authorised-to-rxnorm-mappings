@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005066
+Name of medicine: Tuznue
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: trastuzumab
+Active substance: trastuzumab
+Therapeutic area (MeSH): Stomach Neoplasms;Breast Neoplasms
+ATC code (human): L01XC03
+Pharmacotherapeutic group (human): Antineoplastic agents
+Therapeutic indication: Treatment of metastatic and early breast cancer and metastatic gastric cancer (MGC)
+Biosimilar: Yes
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/tuznue-0

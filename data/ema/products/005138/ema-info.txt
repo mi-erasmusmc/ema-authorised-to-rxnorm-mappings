@@ -4,9 +4,9 @@ Medicine status: Authorised
 International non-proprietary name (INN) / common name: berotralstat
 Active substance: berotralstat dihydrochloride
 Therapeutic area (MeSH): Angioedemas, Hereditary
-ATC code (human): B06AC
+ATC code (human): B06AC06
 Pharmacotherapeutic group (human): Other hematological agents
-Therapeutic indication: Orladeyo is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in adult and adolescent patients aged 12 years and older.
+Therapeutic indication: Orladeyo is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in adult and adolescent patients aged 12 years and older weighing at least 40 kg. Orladeyo is indicated for routine prevention of recurrent attacks of hereditary angioedema (HAE) in:  children aged 2 to less than 12&nbsp;years weighing at least 15&nbsp;kg adolescents aged 12 and older weighing less than 40&nbsp;kg
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/orladeyo

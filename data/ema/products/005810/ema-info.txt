@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005810
+Name of medicine: Dyrupeg
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: pegfilgrastim
+Active substance: pegfilgrastim
+Therapeutic area (MeSH): 
+ATC code (human): L03AA13
+Pharmacotherapeutic group (human): pegfilgrastim
+Therapeutic indication: Treatment of neutropenia.
+Biosimilar: Yes
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/dyrupeg0

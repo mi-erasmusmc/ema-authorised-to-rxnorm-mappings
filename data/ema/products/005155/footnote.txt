@@ -1,0 +1,10 @@
+--¹
+After reconstitution, 1 dose (0.5 mL) contains:
+Dengue virus serotype 1 (live, attenuated)*: ≥ 3.3 log10 PFU**/dose
+Dengue virus serotype 2 (live, attenuated)#: ≥ 2.7 log10 PFU**/dose
+Dengue virus serotype 3 (live, attenuated)*: ≥ 4.0 log10 PFU**/dose
+Dengue virus serotype 4 (live, attenuated)*: ≥ 4.5 log10 PFU**/dose
+*Produced in Vero cells by recombinant DNA technology. Genes of serotype-specific surface proteins
+engineered into dengue type 2 backbone
+#Produced in Vero cells by recombinant DNA technology
+**PFU = Plaque-forming units

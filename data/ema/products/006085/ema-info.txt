@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006085
 Name of medicine: Nylaspeg
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: pegfilgrastim
 Active substance: pegfilgrastim
 Therapeutic area (MeSH): Chemotherapy-Induced Febrile Neutropenia;Neutropenia
 ATC code (human): L03AA13
-Pharmacotherapeutic group (human): 
-Therapeutic indication: Reduction of neutropoenia in adults&nbsp;
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Reduction in the duration of neutropenia and the incidence of febrile neutropenia in adult patients treated with cytotoxic chemotherapy for malignancy (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes).&nbsp;
 Biosimilar: Yes
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/nylaspeg

@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006692
 Name of medicine: Aujemflu
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: Influenza vaccine (surface antigen, inactivated, adjuvanted, prepared in cell culture)
-Active substance: Influenza virus surface antigens (haemagglutinin and neuraminidase) of the following strains: A/(H1N1), A/(H3N2), B/Yamagata lineage, B/Victoria lineage
+Active substance: A/(H1N1)-like virus antigen;A/(H3N2)-like virus antigen;B (Victoria lineage)-like virus antigen
 Therapeutic area (MeSH): Influenza, Human
 ATC code (human): J07BB02
-Pharmacotherapeutic group (human): 
-Therapeutic indication: Prophylaxis of influenza&nbsp;
+Pharmacotherapeutic group (human): Vaccines
+Therapeutic indication: Prophylaxis of influenza in adults 50 years of age and older. Aujemflu should be used in accordance with official recommendations.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aujemflu

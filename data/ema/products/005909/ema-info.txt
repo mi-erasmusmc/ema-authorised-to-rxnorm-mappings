@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005909
+Name of medicine: Isembyld
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: apitegromab
+Active substance: apitegromab
+Therapeutic area (MeSH): Muscular Atrophy, Spinal
+ATC code (human): M09AX
+Pharmacotherapeutic group (human): Other drugs for disorders of the musculo-skeletal system
+Therapeutic indication: Treatment of muscular atrophy in patients aged 2 years and older, with 5q spinal muscular atrophy (SMA), who are non-ambulatory and currently receiving a survival motor neuron 2 (SMN2) targeted treatment
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/isembyld

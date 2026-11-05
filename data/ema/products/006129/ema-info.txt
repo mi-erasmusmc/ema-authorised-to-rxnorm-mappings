@@ -1,5 +1,5 @@
 EMA product number: EMEA/H/C/006129
-Name of medicine: Ibuprofen Gen.Orph
+Name of medicine: Vlustozik (previously Ibuprofen Gen.Orph)
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: ibuprofen
 Active substance: Ibuprofen
@@ -9,4 +9,4 @@ Pharmacotherapeutic group (human): Other cardiac preparations
 Therapeutic indication: Treatment of a haemodynamically significant patent ductus arteriosus in preterm newborn infants less than 34 weeks of gestational age
 Biosimilar: No
 Generic or hybrid: 
-Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/ibuprofen-genorph
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/vlustozik

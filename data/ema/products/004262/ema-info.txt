@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/004262
+Name of medicine: Fulphila
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: pegfilgrastim
+Active substance: pegfilgrastim
+Therapeutic area (MeSH): 
+ATC code (human): L03AA13
+Pharmacotherapeutic group (human): Immunostimulants
+Therapeutic indication: Reducing neutropenia in patients taking cancer treatments
+Biosimilar: Yes
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/fulphila-0

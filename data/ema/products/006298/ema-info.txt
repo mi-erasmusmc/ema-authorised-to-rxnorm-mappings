@@ -4,7 +4,7 @@ Medicine status: Authorised
 International non-proprietary name (INN) / common name: elinzanetant
 Active substance: elinzanetant
 Therapeutic area (MeSH): Hot Flashes;Menopause;Breast Neoplasms
-ATC code (human): 
+ATC code (human): G02CX07
 Pharmacotherapeutic group (human): Other gynecologicals
 Therapeutic indication: Treatment of moderate to severe vasomotor symptoms (VMS).
 Biosimilar: No

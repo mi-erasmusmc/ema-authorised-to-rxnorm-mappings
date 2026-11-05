@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006482
 Name of medicine: Daybu
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: trofinetide
 Active substance: trofinetide
 Therapeutic area (MeSH): Rett Syndrome
-ATC code (human): N07XX
+ATC code (human): N07XX24
 Pharmacotherapeutic group (human): Other nervous system drugs
-Therapeutic indication: Treatment of Rett syndrome in adults and paediatric patients 2 years of age and older
+Therapeutic indication: Daybu is indicated for the treatment of neurobehavioural symptoms of Rett syndrome in adults and paediatric patients aged 5 years and older.&nbsp;
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/daybu

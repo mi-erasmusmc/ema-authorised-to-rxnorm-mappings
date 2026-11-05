@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/005551
+Name of medicine: Livmarli
+Medicine status: Application withdrawn
+International non-proprietary name (INN) / common name: maralixibat
+Active substance: Maralixibat chloride
+Therapeutic area (MeSH): Cholestasis, Intrahepatic
+ATC code (human): A05AX
+Pharmacotherapeutic group (human): Bile and liver therapy
+Therapeutic indication: Treatment of progressive familial intrahepatic cholestasis type 2 (PFIC2)
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/livmarli-0

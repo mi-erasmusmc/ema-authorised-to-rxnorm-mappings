@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/005299
 Name of medicine: Calquence
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: acalabrutinib
-Active substance: acalabrutinib;acalabrutinib maleate
+Active substance: acalabrutinib
 Therapeutic area (MeSH): Leukemia, Lymphocytic, Chronic, B-Cell
 ATC code (human): L01EL02
 Pharmacotherapeutic group (human): Antineoplastic agents

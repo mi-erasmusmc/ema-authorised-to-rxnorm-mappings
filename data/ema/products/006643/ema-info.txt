@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/006643
-Name of medicine: Rivaroxaban Koanaa
+Name of medicine: Svariya (previously Rivaroxaban Koanaa)
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: rivaroxaban
 Active substance: rivaroxaban
 Therapeutic area (MeSH): Venous Thromboembolism;Pulmonary Embolism;Venous Thrombosis;Stroke;Embolism
 ATC code (human): B01AF01
 Pharmacotherapeutic group (human): Antithrombotic agents
-Therapeutic indication: Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or kneereplacement surgery. Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults. (See section 4.4 for haemodynamically unstable PE patients.)
+Therapeutic indication: Prevention of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee replacement surgery. Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults. (See section 4.4 for haemodynamically unstable PE patients). Prevention of atherothrombotic events Adults prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation with one or more risk factors, such as congestive heart failure, hypertension, age ≥ 75 years, diabetes mellitus, prior stroke or transient ischaemic attack.&nbsp; Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults. (See section 4.4 for haemodynamically unstable PE patients.)&nbsp; Paediatric population Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in children and adolescents aged less than 18 years and weighing more than 50 kg after at least 5 days of initial parenteral anticoagulation treatment. Adults prevention of stroke and systemic embolism in adult patients with non-valvular atrial fibrillation with one or more risk factors, such as congestive heart failure, hypertension, age ≥ 75 years, diabetes mellitus, prior stroke or transient ischaemic attack.&nbsp; Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults. (See section 4.4 for haemodynamically unstable PE patients).&nbsp; Paediatric population Treatment of venous thromboembolism (VTE) and prevention of VTE recurrence in children and adolescents aged less than 18 years and weighing from 30 kg to 50 kg after at least 5 days of initial parenteral anticoagulation treatment. Svariya films should not be prescribed for patients with body weight less than 30 kg.
 Biosimilar: No
 Generic or hybrid: 
-Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-koanaa
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/svariya

@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/002348
 Name of medicine: DuoResp Spiromax
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: budesonide;formoterol
-Active substance: Budesonide;formoterol fumarate dihydrate
+Active substance: budesonide;formoterol fumarate dihydrate
 Therapeutic area (MeSH): Pulmonary Disease, Chronic Obstructive;Asthma
 ATC code (human): R03AK07
 Pharmacotherapeutic group (human): Drugs for obstructive airway diseases

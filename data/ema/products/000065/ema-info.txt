@@ -1,0 +1,12 @@
+EMA product number: EMEA/H/C/000065
+Name of medicine: Indimacis 125
+Medicine status: Withdrawn
+International non-proprietary name (INN) / common name: igovomab
+Active substance: igovomab
+Therapeutic area (MeSH): Radionuclide Imaging;Ovarian Neoplasms
+ATC code (human): V09IB03
+Pharmacotherapeutic group (human): Diagnostic radiopharmaceuticals
+Therapeutic indication: Positive diagnosis of relapsing ovarian adenocarcinoma when serum CA 125 is increased without positive results of ultrasound or computerised tomography scan.
+Biosimilar: No
+Generic or hybrid: 
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/indimacis-125

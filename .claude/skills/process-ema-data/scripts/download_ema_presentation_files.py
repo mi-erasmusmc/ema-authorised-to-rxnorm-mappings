@@ -4,9 +4,9 @@ Download EMA medicines report and authorised presentations PDFs.
 
 1. Downloads the medicines report Excel file from EMA
 2. Converts it to TSV for processing
-3. Creates folders for each EMA product number
-4. Downloads Authorised Presentations PDFs with naming: emaprodcutnumber_name-of-medicine_date_last_updated.pdf
-   (date is from the Authorised Presentations section on the medicine page)
+3. Loads document URLs and dates from EMA’s official bulk document index
+4. Downloads missing/updated PDFs as <product_number>_<medicine_name>_<document_date>.pdf
+   without requesting individual medicine pages.
 """
 
 import argparse
@@ -17,9 +17,12 @@ import time
 import sys
 import os
 import subprocess
+import math
+from pathlib import Path
 from datetime import datetime
-from bs4 import BeautifulSoup
-from urllib.parse import urljoin
+from email.utils import parsedate_to_datetime
+from zoneinfo import ZoneInfo
+from urllib.parse import urlsplit
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -44,19 +47,87 @@ EXCEL_FILENAME = "medicines_output_medicines_report_en.xlsx"
 TSV_FILENAME = "medicines_report.tsv"
 PDF_BASE_DIR = "products"
 PROGRESS_FILE = "download_progress.csv"
+DOCUMENTS_URL = "https://www.ema.europa.eu/en/documents/report/documents-output-epar_documents_json-report_en.json"
+DEFAULT_REQUEST_INTERVAL = 10
+MAX_RATE_LIMIT_RETRIES = 3
+MAX_RETRY_WAIT = 300
 
 
-def get_session_with_retries():
-    """Create a requests session with retry logic"""
+class EMARateLimitError(Exception):
+    """Stop when a rate limit cannot be handled within the retry budget."""
+
+    @classmethod
+    def from_response(cls, response):
+        retry_after = response.headers.get('Retry-After')
+        detail = f'Retry-After: {retry_after}' if retry_after else 'No Retry-After header supplied'
+        return cls(f'EMA returned HTTP 429 for {response.url}; {detail}. Stop and retry later.')
+
+
+def positive_seconds(value):
+    seconds = float(value)
+    if not math.isfinite(seconds) or seconds <= 0:
+        raise argparse.ArgumentTypeError('request interval must be a positive finite number')
+    return seconds
+
+
+def parse_retry_after(value):
+    """Accept HTTP dates and numeric seconds, including EMA's decimal values."""
+    if not value:
+        return None
+    try:
+        seconds = float(value)
+        return seconds if math.isfinite(seconds) and seconds >= 0 else None
+    except ValueError:
+        try:
+            date = parsedate_to_datetime(value)
+            if date.tzinfo is None:
+                return None
+            return max(0, date.timestamp() - time.time())
+        except (ValueError, TypeError, OverflowError):
+            return None
+
+
+class PacedHTTPAdapter(HTTPAdapter):
+    """Space every HTTP send, including redirects, across the shared session."""
+
+    def __init__(self, request_interval, **kwargs):
+        super().__init__(**kwargs)
+        self.request_interval = positive_seconds(request_interval)
+        self.last_response_at = None
+
+    def send(self, request, **kwargs):
+        interval = self.request_interval
+        for attempt in range(MAX_RATE_LIMIT_RETRIES + 1):
+            if self.last_response_at is not None:
+                remaining = interval - (time.monotonic() - self.last_response_at)
+                if remaining > 0:
+                    print(f'Waiting {remaining:.1f}s before next EMA request...', flush=True)
+                    time.sleep(remaining)
+            try:
+                response = super().send(request, **kwargs)
+            finally:
+                self.last_response_at = time.monotonic()
+            if response.status_code != 429 or request.method not in ('GET', 'HEAD'):
+                return response
+            delay = parse_retry_after(response.headers.get('Retry-After'))
+            if (delay is None or delay > MAX_RETRY_WAIT
+                    or attempt == MAX_RATE_LIMIT_RETRIES):
+                return response
+            interval = max(self.request_interval, delay)
+            print(f'EMA returned HTTP 429; Retry-After: {response.headers["Retry-After"]}. '
+                  f'Retrying in at least {interval:g}s '
+                  f'({attempt + 1}/{MAX_RATE_LIMIT_RETRIES}).', flush=True)
+            response.close()
+
+
+def get_session_with_retries(request_interval=DEFAULT_REQUEST_INTERVAL):
+    """Create a paced session with bounded, server-directed HTTP 429 retries."""
     session = requests.Session()
     retry_strategy = Retry(
-        total=5,
-        backoff_factor=2,
-        status_forcelist=[429, 500, 502, 503, 504],
-        allowed_methods=["GET"],
+        total=0,
         respect_retry_after_header=False
     )
-    adapter = HTTPAdapter(max_retries=retry_strategy)
+    adapter = PacedHTTPAdapter(request_interval, max_retries=retry_strategy)
     session.mount("http://", adapter)
     session.mount("https://", adapter)
     return session
@@ -69,10 +140,14 @@ def download_excel_file(session, output_dir="."):
 
     try:
         response = session.get(EXCEL_URL, timeout=60)
+        if response.status_code == 429:
+            raise EMARateLimitError.from_response(response)
         response.raise_for_status()
 
-        with open(output_path, 'wb') as f:
+        temporary_path = output_path + '.part'
+        with open(temporary_path, 'wb') as f:
             f.write(response.content)
+        os.replace(temporary_path, output_path)
 
         print(f"Downloaded: {output_path}")
         return output_path
@@ -101,7 +176,8 @@ def convert_excel_to_tsv(excel_path, output_dir="."):
             df = df.sort_values('EMA product number', ignore_index=True)
 
         # Write to TSV
-        df.to_csv(tsv_path, sep='\t', index=False, encoding='utf-8')
+        df.to_csv(tsv_path + '.tmp', sep='\t', index=False, encoding='utf-8')
+        os.replace(tsv_path + '.tmp', tsv_path)
 
         print(f"Converted to TSV: {tsv_path}")
         print(f"Total records: {len(df)}")
@@ -153,132 +229,88 @@ def parse_date(date_str):
     return None
 
 
-def format_date_for_filename(date_str):
-    """Format a date string for use in filename (YYYY-MM-DD format)"""
-    dt = parse_date(date_str)
-    if dt:
-        return dt.strftime("%Y-%m-%d")
-    # If all parsing fails, sanitize the original string
-    return sanitize_filename(date_str) if date_str else "unknown_date"
+def build_presentation_index(payload):
+    """Index the official bulk feed by product, using document-specific dates."""
+    if not isinstance(payload, dict) or not isinstance(payload.get('data'), list):
+        raise ValueError('Invalid EMA document feed: expected a data list')
+    records = payload['data']
+    if payload.get('meta', {}).get('total_records') != len(records):
+        raise ValueError('Incomplete EMA document feed: record count does not match metadata')
+    index = {}
+    for record in records:
+        if record.get('type') != 'all-authorised-presentations':
+            continue
+        product = record.get('ema_product_number', '')
+        if not re.fullmatch(r'EMEA/H/C/\d+', product):
+            continue
+        url = record.get('document_url', '')
+        # EMA has valid English download URLs ending in .pdf-0. The feed's
+        # language path, rather than a file extension, identifies English.
+        if not urlsplit(url).path.startswith('/en/'):
+            url = record.get('translations', {}).get('en', '')
+        if not url:
+            raise ValueError(f'No English presentation URL in document feed for {product}')
+        revision = record.get('last_updated_date') or record.get('first_published_date')
+        if not revision:
+            raise ValueError(f'No presentation date in document feed for {product}')
+        # The page dates used by existing filenames are Amsterdam calendar dates.
+        timestamp = datetime.fromisoformat(revision.replace('Z', '+00:00'))
+        if timestamp.tzinfo is not None:
+            timestamp = timestamp.astimezone(ZoneInfo('Europe/Amsterdam'))
+        document = dict(record, document_url=url, document_updated=revision,
+                        date=timestamp.strftime('%Y-%m-%d'))
+        previous = index.get(product)
+        if previous is None or (document['date'], revision, url) > (
+                previous['date'], previous['document_updated'], previous['document_url']):
+            index[product] = document
+    if not index:
+        raise ValueError('EMA document feed contains no human authorised presentations')
+    return index
 
 
-def get_authorised_presentations_pdf_and_date(page_url, session):
-    """
-    Fetch a medicine page and extract:
-    - The Authorised Presentations PDF link
-    - The Last updated date for the Authorised Presentations section
-    """
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            response = session.get(page_url, timeout=30)
-            response.raise_for_status()
-            soup = BeautifulSoup(response.content, 'html.parser')
+def download_presentation_index(session):
+    print(f'Downloading bulk document index from {DOCUMENTS_URL}...', flush=True)
+    response = session.get(DOCUMENTS_URL, timeout=120)
+    if response.status_code == 429:
+        raise EMARateLimitError.from_response(response)
+    response.raise_for_status()
+    index = build_presentation_index(response.json())
+    print(f'Indexed presentations for {len(index)} human products; no medicine-page requests needed.')
+    return index
 
-            pdf_link = None
-            last_updated = None
 
-            # Find all links that might be authorised presentations PDFs
-            # Collect all candidates, then prefer English version
-            pdf_candidates = []
-            for link in soup.find_all('a', href=True):
-                href = link['href']
-
-                # Look for authorised-presentations PDF
-                if 'authorised-presentations' in href and href.endswith('.pdf'):
-                    pdf_candidates.append((link, href))
-
-            # Prefer English version (_en.pdf), otherwise take first available
-            pdf_link = None
-            selected_link = None
-            for link, href in pdf_candidates:
-                if href.endswith('_en.pdf'):
-                    pdf_link = urljoin(page_url, href)
-                    selected_link = link
-                    break
-
-            # Fallback to first candidate if no English version found
-            if not pdf_link and pdf_candidates:
-                selected_link, href = pdf_candidates[0]
-                pdf_link = urljoin(page_url, href)
-
-            if pdf_link and selected_link:
-                # Try to find the last updated date near this link
-                # Walk up parent elements to find date information
-                for parent in selected_link.parents:
-                    if parent.name in ['div', 'li', 'article', 'section', 'details']:
-                        text = parent.get_text()
-                        # Look for "Last updated: DD/MM/YYYY" pattern, fallback to "First published"
-                        date_match = re.search(r'Last updated[:\s]+(\d{1,2}/\d{1,2}/\d{4})', text)
-                        if date_match:
-                            last_updated = date_match.group(1)
-                            break
-                        date_match = re.search(r'First published[:\s]+(\d{1,2}/\d{1,2}/\d{4})', text)
-                        if date_match:
-                            last_updated = date_match.group(1)
-                            break
-
-            # If we didn't find date near the link, search page text for authorised presentations context
-            if pdf_link and not last_updated:
-                page_text = soup.get_text()
-                # Look for last updated specifically in Authorised presentations context, fallback to First published
-                patterns = [
-                    r'[Aa]uthorised presentations.*?Last updated[:\s]+(\d{1,2}/\d{1,2}/\d{4})',
-                    r'[Aa]ll [Aa]uthorised presentations.*?Last updated[:\s]+(\d{1,2}/\d{1,2}/\d{4})',
-                    r'[Aa]uthorised presentations.*?First published[:\s]+(\d{1,2}/\d{1,2}/\d{4})',
-                    r'[Aa]ll [Aa]uthorised presentations.*?First published[:\s]+(\d{1,2}/\d{1,2}/\d{4})',
-                ]
-                for pattern in patterns:
-                    match = re.search(pattern, page_text, re.IGNORECASE | re.DOTALL)
-                    if match:
-                        last_updated = match.group(1)
-                        break
-
-            return pdf_link, last_updated
-
-        except requests.exceptions.HTTPError as e:
-            if e.response.status_code == 429:
-                wait_time = (attempt + 1) * 10
-                print(f"Rate limited, waiting {wait_time}s...", end=' ')
-                time.sleep(wait_time)
-                continue
-            else:
-                print(f"HTTP error: {e}", file=sys.stderr)
-                return None, None
-        except Exception as e:
-            print(f"Error fetching page {page_url}: {e}", file=sys.stderr)
-            return None, None
-
-    print(f"Failed after {max_retries} retries", file=sys.stderr)
-    return None, None
+def is_complete_pdf(path):
+    """Reject empty, truncated and non-PDF downloads before trusting a filename."""
+    try:
+        with open(path, 'rb') as f:
+            if f.read(5) != b'%PDF-':
+                return False
+            f.seek(0, os.SEEK_END)
+            f.seek(max(0, f.tell() - 1024))
+            return b'%%EOF' in f.read()
+    except OSError:
+        return False
 
 
 def download_pdf(pdf_url, output_path, session):
-    """Download a PDF file to the specified path"""
-    max_retries = 3
-    for attempt in range(max_retries):
-        try:
-            response = session.get(pdf_url, timeout=60)
-            response.raise_for_status()
-
-            with open(output_path, 'wb') as f:
-                f.write(response.content)
-
-            return True
-        except requests.exceptions.HTTPError as e:
-            if e.response.status_code == 429:
-                wait_time = (attempt + 1) * 10
-                print(f"Rate limited on PDF, waiting {wait_time}s...", end=' ')
-                time.sleep(wait_time)
-                continue
-            else:
-                print(f"HTTP error downloading PDF: {e}", file=sys.stderr)
-                return False
-        except Exception as e:
-            print(f"Error downloading PDF {pdf_url}: {e}", file=sys.stderr)
-            return False
-
-    return False
+    """Publish only complete PDF downloads; preserve an existing file on failure."""
+    try:
+        response = session.get(pdf_url, timeout=60)
+        if response.status_code == 429:
+            raise EMARateLimitError.from_response(response)
+        response.raise_for_status()
+        temporary_path = str(output_path) + '.part'
+        with open(temporary_path, 'wb') as f:
+            f.write(response.content)
+        if not is_complete_pdf(temporary_path):
+            raise ValueError('Response is not a complete PDF')
+        os.replace(temporary_path, output_path)
+        return True
+    except EMARateLimitError:
+        raise
+    except (requests.RequestException, OSError, ValueError) as error:
+        print(f'Error downloading PDF {pdf_url}: {error}', file=sys.stderr)
+        return False
 
 
 def load_progress(progress_file):
@@ -296,218 +328,126 @@ def save_progress(progress_file, results):
     """Save current progress to file"""
     if not results:
         return
-    with open(progress_file, 'w', newline='', encoding='utf-8') as f:
+    temporary_path = str(progress_file) + '.tmp'
+    with open(temporary_path, 'w', newline='', encoding='utf-8') as f:
         fieldnames = ['ema_product_number', 'medicine_name', 'medicine_url', 'pdf_url',
-                      'last_updated', 'pdf_filename', 'status']
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+                      'last_updated', 'pdf_filename', 'status', 'document_updated']
+        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction='ignore')
         writer.writeheader()
         writer.writerows(results)
+    os.replace(temporary_path, progress_file)
 
 
-def process_medicines(df, output_dir=".", session=None, since_date=None):
-    """Process medicines from dataframe: create folders and download PDFs
+def find_current_pdf(product_folder, product_number, document_date):
+    """Accept a complete local PDF for this document date or a newer revision.
 
-    Args:
-        df: DataFrame with medicine data
-        output_dir: Directory for output files
-        session: requests session
-        since_date: Only download files updated on or after this date (datetime object)
+    The bulk feed is refreshed twice daily, so a newer local file can legitimately
+    precede the feed. Medicine names can change without changing the document.
     """
+    for path in sorted(Path(product_folder).glob(f'{product_number}_*.pdf'), reverse=True):
+        match = re.search(r'_(\d{4}-\d{2}-\d{2})\.pdf$', path.name)
+        if match and parse_date(match.group(1)) and match.group(1) >= document_date:
+            if is_complete_pdf(path):
+                return path
+    return None
+
+
+def process_medicines(df, output_dir=".", session=None, since_date=None, presentation_index=None,
+                      dry_run=False):
+    """Compare local PDFs with the bulk document feed and download missing revisions."""
     if session is None:
         session = get_session_with_retries()
+    if presentation_index is None:
+        presentation_index = download_presentation_index(session)
+    required = {'EMA product number', 'Name of medicine', 'Medicine URL', 'Category'}
+    if not required.issubset(df.columns):
+        raise ValueError(f'Medicine report is missing required columns: {sorted(required - set(df.columns))}')
+    products = df[df['Category'].str.strip().str.lower() == 'human'].drop_duplicates(
+        subset=['EMA product number'])
+    pdf_base_dir = Path(output_dir) / PDF_BASE_DIR
+    progress_file = Path(output_dir) / PROGRESS_FILE
+    results = load_progress(progress_file)
+    pending = []
+    current = absent = excluded = 0
+    for _, row in products.iterrows():
+        product = str(row['EMA product number']).strip()
+        medicine_name = str(row['Name of medicine']).strip()
+        medicine_url = str(row['Medicine URL']).strip()
+        number = extract_product_number(product)
+        document = presentation_index.get(product)
+        record = dict(ema_product_number=product, medicine_name=medicine_name,
+                      medicine_url=medicine_url, pdf_url='', last_updated='',
+                      pdf_filename='', status='no_pdf_in_index', document_updated='')
+        if document is None:
+            absent += 1
+            results[product] = record
+            continue
+        document_date = document['date']
+        record.update(pdf_url=document['document_url'], last_updated=document_date,
+                      document_updated=document['document_updated'])
+        if since_date and parse_date(document_date) < since_date:
+            excluded += 1
+            continue
+        folder = pdf_base_dir / number
+        existing = find_current_pdf(folder, number, document_date)
+        previous = results.get(product, {})
+        previous_revision = previous.get('document_updated', '')
+        if (existing and existing.name.endswith(f'_{document_date}.pdf')
+                and previous.get('pdf_filename') == existing.name
+                and previous_revision and previous_revision < document['document_updated']):
+            # Filenames only carry a calendar date; saved timestamps also detect
+            # a second publication on that same day once a baseline is known.
+            existing = None
+        if existing:
+            current += 1
+            record.update(pdf_filename=existing.name, status='success')
+            results[product] = record
+            continue
+        filename = f'{number}_{sanitize_filename(medicine_name)}_{document_date}.pdf'
+        # A queued target is not a completed revision. Preserve the last
+        # completed timestamp until replacement succeeds, including same-day
+        # updates whose target filename already exists.
+        record.update(pdf_filename=filename, status='pending',
+                      document_updated=previous_revision)
+        results[product] = record
+        pending.append((document_date, product, folder / filename, record))
 
-    if since_date:
-        print(f"Filtering to files updated on or after: {since_date.strftime('%Y-%m-%d')}")
+    # Persist the complete queue before any download, so interruption loses no work.
+    if not dry_run:
+        save_progress(progress_file, list(results.values()))
+    print(f'Local audit: {current} current, {len(pending)} missing/outdated, '
+          f'{absent} with no PDF in the index, {excluded} excluded by --since.')
+    if dry_run:
+        print('Dry run: no PDFs downloaded and progress unchanged.')
+        return dict(downloaded=0, failed=0, pending=len(pending), current=current)
 
-    pdf_base_dir = os.path.join(output_dir, PDF_BASE_DIR)
-    progress_file = os.path.join(output_dir, PROGRESS_FILE)
-
-    # Create base directory
-    if not os.path.exists(pdf_base_dir):
-        os.makedirs(pdf_base_dir)
-        print(f"Created directory: {pdf_base_dir}")
-
-    # Load existing progress
-    results_dict = load_progress(progress_file)
-
-    # Get unique EMA product numbers (to avoid processing the same product multiple times)
-    # Column names may vary, so we try to find the right columns
-    product_col = None
-    name_col = None
-    url_col = None
-    category_col = None
-    first_published_col = None
-    last_updated_col = None
-
-    for col in df.columns:
-        col_lower = col.lower()
-        if 'ema product number' in col_lower:
-            product_col = col
-        elif 'name of medicine' in col_lower:
-            name_col = col
-        elif 'medicine url' in col_lower:
-            url_col = col
-        elif col_lower == 'category':
-            category_col = col
-        elif 'first published' in col_lower:
-            first_published_col = col
-        elif 'last updated' in col_lower:
-            last_updated_col = col
-
-    if not all([product_col, name_col, url_col]):
-        print(f"Error: Could not find required columns.", file=sys.stderr)
-        print(f"Available columns: {list(df.columns)}", file=sys.stderr)
-        return
-
-    # Filter to only Human medicines
-    if category_col:
-        df_filtered = df[df[category_col].str.strip().str.lower() == 'human']
-        print(f"Filtered to Human medicines: {len(df_filtered)} records (from {len(df)} total)")
-    else:
-        print("Warning: Category column not found, processing all medicines")
-        df_filtered = df
-
-    # Get unique products
-    unique_products = df_filtered.drop_duplicates(subset=[product_col])
-
-    # Pre-filter by date if since_date is provided and date columns exist
-    if since_date and (first_published_col or last_updated_col):
-        def is_recent(row):
-            """Check if row has any date on or after since_date"""
-            for col in [first_published_col, last_updated_col]:
-                if col and pd.notna(row.get(col)):
-                    dt = parse_date(str(row[col]))
-                    if dt and dt >= since_date:
-                        return True
-            return False
-
-        before_filter = len(unique_products)
-        unique_products = unique_products[unique_products.apply(is_recent, axis=1)]
-        after_filter = len(unique_products)
-        print(f"Filtered by date (>= {since_date.strftime('%Y-%m-%d')}): {after_filter} products (skipped {before_filter - after_filter} older products)")
-
-    total = len(unique_products)
-    already_processed = len(results_dict)
-
-    print(f"Processing {total} unique products (already completed: {already_processed})...")
-    print(f"PDFs will be saved to: {pdf_base_dir}/")
-
-    skipped_count = 0
-    downloaded_count = 0
-    no_pdf_count = 0
-    failed_count = 0
-
+    downloaded = failed = 0
+    # Newest updates first; the product ID makes ties deterministic across restarts.
+    pending.sort(key=lambda item: (item[0], item[1]), reverse=True)
     try:
-        for idx, (_, row) in enumerate(unique_products.iterrows(), 1):
-            ema_product_number = str(row[product_col]).strip()
-            medicine_name = str(row[name_col]).strip()
-            medicine_url = str(row[url_col]).strip()
-
-            # Skip if already processed
-            if ema_product_number in results_dict:
-                skipped_count += 1
-                continue
-
-            # Create folder for this product
-            folder_name = extract_product_number(ema_product_number)
-            product_folder = os.path.join(pdf_base_dir, folder_name)
-            if not os.path.exists(product_folder):
-                os.makedirs(product_folder)
-
-            # Get PDF link and last updated date from the product page
-            pdf_url, last_updated = get_authorised_presentations_pdf_and_date(medicine_url, session)
-
-            if not pdf_url:
-                print(f"  No PDF: {medicine_name} ({ema_product_number})")
-                no_pdf_count += 1
-                results_dict[ema_product_number] = {
-                    'ema_product_number': ema_product_number,
-                    'medicine_name': medicine_name,
-                    'medicine_url': medicine_url,
-                    'pdf_url': '',
-                    'last_updated': '',
-                    'pdf_filename': '',
-                    'status': 'no_pdf_found'
-                }
-            elif since_date and last_updated:
-                # Check if the file was updated before the cutoff date
-                file_date = parse_date(last_updated)
-                if file_date and file_date < since_date:
-                    skipped_count += 1
-                    results_dict[ema_product_number] = {
-                        'ema_product_number': ema_product_number,
-                        'medicine_name': medicine_name,
-                        'medicine_url': medicine_url,
-                        'pdf_url': pdf_url,
-                        'last_updated': last_updated,
-                        'pdf_filename': '',
-                        'status': 'skipped_before_date'
-                    }
-                    time.sleep(2)  # Still be nice to server even when skipping
-                    continue
-            if pdf_url:
-                # Format the PDF filename
-                sanitized_product = extract_product_number(ema_product_number)
-                sanitized_name = sanitize_filename(medicine_name)
-                formatted_date = format_date_for_filename(last_updated) if last_updated else "unknown_date"
-
-                pdf_filename = f"{sanitized_product}_{sanitized_name}_{formatted_date}.pdf"
-                pdf_path = os.path.join(product_folder, pdf_filename)
-
-                # Download the PDF
-                success = download_pdf(pdf_url, pdf_path, session)
-
-                if success:
-                    downloaded_count += 1
-                    print(f"  Downloaded: {pdf_filename}")
-                    results_dict[ema_product_number] = {
-                        'ema_product_number': ema_product_number,
-                        'medicine_name': medicine_name,
-                        'medicine_url': medicine_url,
-                        'pdf_url': pdf_url,
-                        'last_updated': last_updated or '',
-                        'pdf_filename': pdf_filename,
-                        'status': 'success'
-                    }
-                else:
-                    failed_count += 1
-                    print(f"  Failed: {medicine_name} ({ema_product_number})")
-                    results_dict[ema_product_number] = {
-                        'ema_product_number': ema_product_number,
-                        'medicine_name': medicine_name,
-                        'medicine_url': medicine_url,
-                        'pdf_url': pdf_url,
-                        'last_updated': last_updated or '',
-                        'pdf_filename': '',
-                        'status': 'download_failed'
-                    }
-
-            # Save progress every 10 items
-            if idx % 10 == 0:
-                save_progress(progress_file, list(results_dict.values()))
-
-            # Be nice to the server - delay between requests
-            time.sleep(5)
-
-    except KeyboardInterrupt:
-        print("\n\nInterrupted by user. Saving progress...")
-        save_progress(progress_file, list(results_dict.values()))
-        print(f"Progress saved to {progress_file}")
-        sys.exit(1)
-
-    # Save final progress
-    save_progress(progress_file, list(results_dict.values()))
-
-    # Print compact summary
-    parts = [f"Downloaded {downloaded_count} new PDFs"]
-    parts.append(f"{total} products checked")
-    if skipped_count:
-        parts.append(f"{skipped_count} skipped")
-    if no_pdf_count:
-        parts.append(f"{no_pdf_count} no PDF")
-    if failed_count:
-        parts.append(f"{failed_count} failed")
-    print(f"\n{parts[0]} ({', '.join(parts[1:])})")
+        for _, product, pdf_path, record in pending:
+            pdf_path.parent.mkdir(parents=True, exist_ok=True)
+            if download_pdf(record['pdf_url'], pdf_path, session):
+                record['status'] = 'success'
+                record['document_updated'] = presentation_index[product]['document_updated']
+                downloaded += 1
+                print(f'  Downloaded: {pdf_path.name}', flush=True)
+            else:
+                record['status'] = 'download_failed'
+                failed += 1
+                print(f'  Failed: {product}', file=sys.stderr)
+            save_progress(progress_file, list(results.values()))
+    except (EMARateLimitError, KeyboardInterrupt):
+        save_progress(progress_file, list(results.values()))
+        raise
+    remaining = len(pending) - downloaded
+    print(f'Downloaded {downloaded} PDFs; {failed} failed; {remaining} still pending. '
+          'Medicine pages requested: 0.')
+    if remaining:
+        print('Update incomplete: rerun to resume pending downloads.')
+    else:
+        print('All presentation PDFs listed in the index are up to date.')
+    return dict(downloaded=downloaded, failed=failed, pending=remaining, current=current)
 
 
 def main():
@@ -516,12 +456,16 @@ def main():
         description="Download EMA medicines report and authorised presentations PDFs."
     )
     parser.add_argument(
+        '--request-interval', type=positive_seconds, default=DEFAULT_REQUEST_INTERVAL,
+        help=f'Minimum seconds between HTTP requests (default: {DEFAULT_REQUEST_INTERVAL})',
+    )
+    parser.add_argument(
         '--since',
         type=str,
-        help='Only download files updated on or after this date (YYYY-MM-DD format)'
+        help='Only download presentation documents dated on or after this date (YYYY-MM-DD)'
     )
+    parser.add_argument('--dry-run', action='store_true', help='Audit local PDFs without downloading them')
     args = parser.parse_args()
-
     # Parse the since date if provided
     since_date = None
     if args.since:
@@ -532,7 +476,7 @@ def main():
 
     output_dir = EMA_DIR
 
-    session = get_session_with_retries()
+    session = get_session_with_retries(request_interval=args.request_interval)
 
     excel_path = download_excel_file(session, output_dir)
     if not excel_path:
@@ -544,8 +488,15 @@ def main():
         print("Failed to convert Excel to TSV. Exiting.", file=sys.stderr)
         sys.exit(1)
 
-    process_medicines(df, output_dir, session, since_date=since_date)
+    process_medicines(df, output_dir, session, since_date=since_date, dry_run=args.dry_run)
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except (EMARateLimitError, requests.RequestException, ValueError) as error:
+        print(f"Update stopped: {error}", file=sys.stderr)
+        sys.exit(1)
+    except KeyboardInterrupt:
+        print("Update interrupted; rerun to resume.", file=sys.stderr)
+        sys.exit(1)
