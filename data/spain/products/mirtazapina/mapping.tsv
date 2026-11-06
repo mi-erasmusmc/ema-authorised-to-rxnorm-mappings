@@ -5,6 +5,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 650206	66372	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 650987	69491	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 651019	69490	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
+651412	66842	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 651662	66982	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 651956	66982	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 651960	66985	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-13
@@ -17,6 +18,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 652102	67032	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 652203	67068	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 653260	66981	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
+653309	66284	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
+653310	66285	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
+653639	67490	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
+653641	67491	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
+654113	67665	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
+654114	67666	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 659354	68985	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 659355	68986	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 659356	68987	725177	mirtazapine 45 MG Disintegrating Oral Tablet	283485	EXACT			2026-03-12
@@ -29,6 +36,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 659940	69306	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 659941	69308	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 659942	69308	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
+660099	69387	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 660101	69388	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 660300	69492	725177	mirtazapine 45 MG Disintegrating Oral Tablet	283485	EXACT			2026-03-12
 660741	69704	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
@@ -43,11 +51,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 661349	69999	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 662329	69451	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 662335	69452	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
+664598	71843	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
+664601	71842	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 664603	71841	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 664605	71840	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 664737	71806	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
 664738	71807	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 664739	71808	725177	mirtazapine 45 MG Disintegrating Oral Tablet	283485	EXACT			2026-03-12
+675100	72788	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
+675106	72789	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 680454	61017	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-13
 689631	75856	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 689634	75856	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
@@ -82,6 +94,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 764262	89325	725179	mirtazapine 45 MG Oral Tablet	311726	EXACT			2026-03-12
 764351	65878	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 764668	89478	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
+764669	89478	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-11-06
+764671	89479	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-11-06
 764672	89480	725179	mirtazapine 45 MG Oral Tablet	311726	EXACT			2026-03-12
 766692	90068	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 766693	90068	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
@@ -91,21 +105,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 766775	90104	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 766776	90104	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 766777	90105	725179	mirtazapine 45 MG Oral Tablet	311726	EXACT			2026-03-12
+769535	90890	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-11-06
+769536	90890	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-11-06
+769538	90891	725179	mirtazapine 45 MG Oral Tablet	311726	EXACT			2026-11-06
+770766	67068	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-11-06
 805382	65878	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
-839480	65965	725179	mirtazapine 45 MG Oral Tablet	311726	EXACT			2026-03-12
-651412	66842	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
-653309	66284	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
-653310	66285	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
-653639	67490	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
-653641	67491	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
-654113	67665	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
-654114	67666	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
-660099	69387	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
-664598	71843	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
-664601	71842	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
-675100	72788	19070747	mirtazapine 15 MG Disintegrating Oral Tablet	283406	EXACT			2026-03-12
-675106	72789	19070748	mirtazapine 30 MG Disintegrating Oral Tablet	283407	EXACT			2026-03-12
 812404	65892	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
 835579	66284	725178	mirtazapine 15 MG Oral Tablet	311725	EXACT			2026-03-12
 839464	65964	725180	mirtazapine 30 MG Oral Tablet	314111	EXACT			2026-03-12
+839480	65965	725179	mirtazapine 45 MG Oral Tablet	311726	EXACT			2026-03-12
 900597	64007	21170634	Mirtazapine 15 MG/ML Oral Solution	OMOP368344	EXACT			2026-03-13
