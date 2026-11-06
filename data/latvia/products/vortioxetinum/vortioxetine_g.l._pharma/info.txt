@@ -1,0 +1,7 @@
+short_name: Vortioxetine G.L. Pharma
+active_substance: Vortioxetinum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: Pharmadox Healthcare Ltd., Malta; AdAlvo Limited, Malta
+atc_code: N06AX26
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0194/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0194/smpc

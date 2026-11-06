@@ -1,0 +1,7 @@
+short_name: Edoxaban STADA Arzneimittel
+active_substance: Edoxabanum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Laboratori Fundacio Dau, Spain; Centrafarm Services B.V., Netherlands; Stada Arzneimittel AG, Germany; Clonmel Healthcare Limited, Ireland; Stada Arzneimittel GmbH, Austria; Stada M&D S.R.L, Romania; STADA Nordic ApS., Denmark
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0212/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0212/smpc

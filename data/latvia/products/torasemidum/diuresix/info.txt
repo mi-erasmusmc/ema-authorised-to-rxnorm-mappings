@@ -1,0 +1,7 @@
+short_name: Diuresix
+active_substance: Torasemidum
+marketing_authorisation_holder: Menarini International Operations Luxembourg S.A., Luxembourg
+manufacturer: A. Menarini Manufacturing Logistic and Services S.r.l., Italy
+atc_code: C03CA04
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001885/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001885/smpc

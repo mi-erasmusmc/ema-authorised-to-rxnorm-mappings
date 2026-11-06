@@ -1,7 +1,7 @@
 short_name: Meliglix
 active_substance: Sitagliptinum
 marketing_authorisation_holder: Pharmazac S.A., Greece
-manufacturer: Remedica Ltd., Cyprus
+manufacturer: Remedica Ltd., Cyprus; Pharmazac S.A., Greece
 atc_code: A10BH01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/24-0220/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/24-0220/smpc

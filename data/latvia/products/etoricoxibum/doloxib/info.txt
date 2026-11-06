@@ -1,0 +1,7 @@
+short_name: Doloxib
+active_substance: Etoricoxibum
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: Zentiva S.A., Romania
+atc_code: M01AH05
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001906/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001906/smpc

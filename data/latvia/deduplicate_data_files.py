@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 After running organize_products.py, each product folder may have a new dated data file
-alongside the previous one. This script compares them and keeps only one:
+alongside the previous one. This script compares them:
   - If equal:   delete the newer file (no change, old date preserved)
-  - If changed: delete the older file (keep the update)
+  - If changed: keep both files so historical packages remain available
 
 Prints a summary of changed, unchanged, and new (no prior file) folders.
 """
@@ -24,10 +24,6 @@ def main():
     unchanged = []
     new = []
 
-    for folder in sorted(PRODUCTS_DIR.rglob("data_*.tsv")):
-        # rglob gives individual files; we want to process each product folder once
-        pass
-
     product_folders = sorted(
         {f.parent for f in PRODUCTS_DIR.rglob("data_*.tsv")}
     )
@@ -45,7 +41,6 @@ def main():
             newer.unlink()
             unchanged.append(folder)
         else:
-            older.unlink()
             changed.append(folder)
 
     print(f"Changed:   {len(changed)}")

@@ -1,0 +1,7 @@
+short_name: Itvisma
+active_substance: Onasemnogenum abeparvovecum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Pharmaceutical Manufacturing GmbH, Austria; Novartis Pharma GmbH, Germany
+atc_code: M09AX09
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2038/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2038/001/smpc

@@ -1,0 +1,7 @@
+short_name: Hopledo
+active_substance: Levodopum, Carbidopum
+marketing_authorisation_holder: Zambon S.p.A., Italy
+manufacturer: Amneal EU Limited, Ireland
+atc_code: N04BA02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2054/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2054/001/smpc

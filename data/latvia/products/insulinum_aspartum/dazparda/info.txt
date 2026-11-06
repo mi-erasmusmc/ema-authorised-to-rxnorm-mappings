@@ -1,6 +1,6 @@
 short_name: Dazparda
 active_substance: Insulinum aspartum
-marketing_authorisation_holder: Gan & Lee Pharmaceuticals Europe GmbH, Germany
+marketing_authorisation_holder: Sandoz GmbH, Austria
 manufacturer: IL CSM Clinical Supplies Management GmbH, Germany
 atc_code: A10AB05
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2029/001/pil

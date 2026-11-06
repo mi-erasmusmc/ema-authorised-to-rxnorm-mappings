@@ -1,0 +1,7 @@
+short_name: Adripect
+active_substance: Levodropropizinum
+marketing_authorisation_holder: Vale Pharmaceuticals Limited, Ireland
+manufacturer: Teva Operations Poland Sp.z o.o., Poland
+atc_code: R05DB27
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0179/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0179/smpc

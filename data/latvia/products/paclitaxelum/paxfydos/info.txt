@@ -1,0 +1,7 @@
+short_name: Paxfydos
+active_substance: Paclitaxelum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Kymos, S.L., Spain
+atc_code: L01CD01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0193/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0193/smpc

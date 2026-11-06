@@ -1,0 +1,7 @@
+short_name: Daybu
+active_substance: Trofinetidum
+marketing_authorisation_holder: Acadia Pharmaceuticals (Netherlands) B.V., Netherlands
+manufacturer: PharmaKorell GmbH, Germany; PharmaKorell GmbH, Germany
+atc_code: N07XX24
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2045/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2045/001/smpc

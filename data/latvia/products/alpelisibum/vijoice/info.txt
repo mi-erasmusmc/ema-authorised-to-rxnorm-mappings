@@ -1,0 +1,7 @@
+short_name: Vijoice
+active_substance: Alpelisibum
+marketing_authorisation_holder: Novartis Europharm Limited, Ireland
+manufacturer: Novartis Farmaceutica S.A., Spain; Novartis Pharmaceutical Manufacturing LLC, Slovenia; Novartis Pharma GmbH, Germany
+atc_code: L01EM03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2042/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2042/001/smpc

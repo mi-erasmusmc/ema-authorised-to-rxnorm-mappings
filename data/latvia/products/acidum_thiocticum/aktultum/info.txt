@@ -1,0 +1,7 @@
+short_name: Aktultum
+active_substance: Acidum thiocticum
+marketing_authorisation_holder: G.L. Pharma GmbH, Austria
+manufacturer: G.L. Pharma GmbH, Austria; Pharmadox Healthcare Ltd., Malta
+atc_code: A16AX01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0228/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0228/smpc

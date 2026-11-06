@@ -1,0 +1,7 @@
+short_name: Naitovan
+active_substance: Naproxenum, Esomeprazolum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Interpharma Services Ltd., Bulgaria
+atc_code: M01AE52
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0244/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0244/smpc

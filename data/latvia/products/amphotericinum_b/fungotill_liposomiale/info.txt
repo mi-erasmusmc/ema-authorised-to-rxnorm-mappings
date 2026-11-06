@@ -1,0 +1,7 @@
+short_name: Fungotill Liposomiale
+active_substance: Amphotericinum B
+marketing_authorisation_holder: Tillomed Italia S.r.l., Italy
+manufacturer: SGS Pharma Magyarorszag Kft., Hungary; Tillomed Malta Limited, Malta
+atc_code: J02AA01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/I001905/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/I001905/smpc

@@ -1,0 +1,7 @@
+short_name: Brinzolamide/Timolol ELVIM
+active_substance: Brinzolamidum, Timololum
+marketing_authorisation_holder: Elvim, SIA, Latvia
+manufacturer: Balkanpharma-Razgrad AD, Bulgaria; Pharmathen S.A., Greece
+atc_code: S01ED51
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0241/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0241/smpc

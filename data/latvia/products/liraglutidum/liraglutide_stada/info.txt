@@ -1,0 +1,7 @@
+short_name: Liraglutide STADA
+active_substance: Liraglutidum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Universal Farma S.L., Spain; Stada Arzneimittel GmbH, Austria; Stada Arzneimittel AG, Germany
+atc_code: A10BJ02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2037/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2037/001/smpc

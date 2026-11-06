@@ -1,0 +1,7 @@
+short_name: Boey
+active_substance: Trenibotulinumtoxinum E
+marketing_authorisation_holder: AbbVie Limited, Ireland
+manufacturer: AbbVie Deutschland GmbH & Co. KG, Germany
+atc_code: Nav_piešķirts
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2044/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2044/001/smpc

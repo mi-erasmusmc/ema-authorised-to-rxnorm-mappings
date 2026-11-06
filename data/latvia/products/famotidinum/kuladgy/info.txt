@@ -1,0 +1,7 @@
+short_name: Kuladgy
+active_substance: Famotidinum
+marketing_authorisation_holder: MSN Labs Europe Limited, Malta
+manufacturer: Pharmadox Healthcare Ltd., Malta; MSN Labs Europe Limited, Malta
+atc_code: A02BA03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0173/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0173/smpc

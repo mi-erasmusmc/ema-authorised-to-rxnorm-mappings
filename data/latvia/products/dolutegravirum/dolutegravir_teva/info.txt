@@ -1,0 +1,7 @@
+short_name: Dolutegravir Teva
+active_substance: Dolutegravirum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: ELPEN Pharmaceutical Co. Inc., Greece; Elpen Pharmaceutical Co. Inc., Greece
+atc_code: J05AJ03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0180/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0180/smpc

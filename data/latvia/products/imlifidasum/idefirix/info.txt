@@ -1,6 +1,6 @@
 short_name: Idefirix
 active_substance: Imlifidasum
-marketing_authorisation_holder: Hansa Biopharma AB, Sweden
+marketing_authorisation_holder: SERB S.A., Belgium
 manufacturer: Biotechnologines farmacijos centras, Biotechpharma UAB, Lithuania; Propharma Group The Netherlands B.V., Netherlands
 atc_code: L04AA41
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/20/1471/001/pil

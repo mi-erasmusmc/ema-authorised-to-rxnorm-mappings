@@ -1,0 +1,7 @@
+short_name: Ruxolitinib Sandoz
+active_substance: Ruxolitinibum
+marketing_authorisation_holder: Sandoz d.d., Slovenia
+manufacturer: Lek Pharmaceuticals d.d., Slovenia; Coripharma ehf., Iceland
+atc_code: L01EJ01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0229/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0229/smpc

@@ -1,0 +1,7 @@
+short_name: Paracetamol Teva
+active_substance: Paracetamolum
+marketing_authorisation_holder: Teva B.V., Netherlands
+manufacturer: Teva Gyogyszergyar Zrt., Hungary; Merckle GmbH, Germany; TEVA Czech Industries s.r.o., Czech Republic
+atc_code: N02BE01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0171/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0171/smpc

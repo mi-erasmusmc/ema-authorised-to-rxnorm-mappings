@@ -1,0 +1,7 @@
+short_name: Lenvatinib STADA
+active_substance: Lenvatinibum
+marketing_authorisation_holder: Stada Arzneimittel AG, Germany
+manufacturer: Pharmadox Healthcare Ltd., Malta; Stada Arzneimittel AG, Germany; Clonmel Healthcare Limited, Ireland; Stada Arzneimittel GmbH, Austria; Laboratori Fundacio Dau, Spain
+atc_code: L01EX08
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0168/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0168/smpc

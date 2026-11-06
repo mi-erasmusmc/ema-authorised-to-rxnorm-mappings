@@ -1,0 +1,7 @@
+short_name: Zokovea
+active_substance: Ensitrelvirum
+marketing_authorisation_holder: Shionogi B.V., Netherlands
+manufacturer: Shionogi B.V., Netherlands
+atc_code: J05AE16
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2062/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2062/001/smpc

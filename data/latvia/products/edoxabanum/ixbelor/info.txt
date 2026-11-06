@@ -1,0 +1,7 @@
+short_name: Ixbelor
+active_substance: Edoxabanum
+marketing_authorisation_holder: Medochemie Ltd., Cyprus
+manufacturer: Medochemie Ltd., Factory AZ, Cyprus; PharmaPath S.A., Greece
+atc_code: B01AF03
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0166/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0166/smpc

@@ -1,0 +1,7 @@
+short_name: Azelastine/Fluticasone Zentiva
+active_substance: Azelastini hydrochloridum, Fluticasoni propionas
+marketing_authorisation_holder: Zentiva, k.s., Czech Republic
+manufacturer: AdAlvo Limited, Malta; KeVaRo Group EOOD, Bulgaria
+atc_code: R01AD58
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0172/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0172/smpc

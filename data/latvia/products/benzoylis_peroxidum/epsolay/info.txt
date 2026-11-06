@@ -1,7 +1,7 @@
 short_name: Epsolay
 active_substance: Benzoylis peroxidum
 marketing_authorisation_holder: MagnaPharm SK s.r.o., Slovakia
-manufacturer: Eurodep Pharma, France; Galenica AB, Sweden
+manufacturer: Eurodep Pharma, France; Galenica AB, Sweden; hameln rds s.r.o., Slovakia
 atc_code: D10AE01
 package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0137/pil
 summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0137/smpc

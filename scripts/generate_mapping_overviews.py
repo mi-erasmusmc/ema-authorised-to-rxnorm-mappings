@@ -236,25 +236,27 @@ LATVIA_RXNORM_COLUMNS = [
 def _load_latvia_products(products_dir):
     """Load product data from per-folder data_*.tsv and info.txt files, keyed by product_id.
 
-    Uses the most recent data_*.tsv in each folder. Falls back gracefully if info.txt
-    is absent. This preserves data for products purged from HumanProducts.json.
+    Reads snapshots oldest first so each product keeps its latest available record,
+    including packages that have disappeared from newer exports. Folder metadata
+    comes from info.txt when available.
     """
     products = {}
-    for info_path in sorted(products_dir.rglob("info.txt")):
-        folder = info_path.parent
-
-        # Parse info.txt (key: value lines)
-        info = {}
-        for line in info_path.read_text(encoding="utf-8").splitlines():
-            if ": " in line:
-                key, _, val = line.partition(": ")
-                info[key.strip()] = val.strip()
-
-        # Find most recent data_*.tsv
-        data_files = sorted(folder.glob("data_*.tsv"))
-        if not data_files:
-            continue
-        data_path = data_files[-1]
+    # Sort globally by snapshot date: a product can move between folders when its
+    # substance or name changes, and the newest record must win in that case too.
+    data_files = sorted(products_dir.rglob("data_*.tsv"), key=lambda p: (p.name, str(p)))
+    folder_info = {}
+    for data_path in data_files:
+        folder = data_path.parent
+        if folder not in folder_info:
+            info = {}
+            info_path = folder / "info.txt"
+            if info_path.exists():
+                for line in info_path.read_text(encoding="utf-8").splitlines():
+                    if ": " in line:
+                        key, _, val = line.partition(": ")
+                        info[key.strip()] = val.strip()
+            folder_info[folder] = info
+        info = folder_info[folder]
 
         with open(data_path, encoding="utf-8") as f:
             for row in csv.DictReader(f, delimiter="\t"):
@@ -263,11 +265,10 @@ def _load_latvia_products(products_dir):
                     continue
                 products[pid] = {
                     **row,
-                    "short_name": info.get("short_name", ""),
-                    "active_substance": info.get("active_substance", ""),
-                    "atc_code": info.get("atc_code", ""),
-                    "marketing_authorisation_holder": info.get("marketing_authorisation_holder", ""),
-                    "manufacturer": info.get("manufacturer", ""),
+                    **{key: info.get(key, row.get(key, "")) for key in (
+                        "short_name", "active_substance", "atc_code",
+                        "marketing_authorisation_holder", "manufacturer",
+                    )},
                 }
     return products
 

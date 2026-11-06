@@ -1,0 +1,7 @@
+short_name: Xelpek
+active_substance: Pregabalinum
+marketing_authorisation_holder: Exeltis Baltics UAB, Lithuania
+manufacturer: KeVaRo Group EOOD, Bulgaria
+atc_code: N02BF02
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0246/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0246/smpc

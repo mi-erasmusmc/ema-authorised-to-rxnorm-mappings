@@ -1,0 +1,7 @@
+short_name: Sytain
+active_substance: Erdosteinum
+marketing_authorisation_holder: Zaklady Farmaceutyczne Polpharma S.A., Poland
+manufacturer: Balkanpharma-Razgrad AD, Bulgaria
+atc_code: R05CB15
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0185/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0185/smpc

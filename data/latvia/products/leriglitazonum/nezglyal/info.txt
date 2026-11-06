@@ -1,0 +1,7 @@
+short_name: Nezglyal
+active_substance: Leriglitazonum
+marketing_authorisation_holder: Minoryx Therapeutics S.L., Spain
+manufacturer: Delpharm Huningue SAS, France
+atc_code: A16AX23
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2060/001/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/EU/1/26/2060/001/smpc

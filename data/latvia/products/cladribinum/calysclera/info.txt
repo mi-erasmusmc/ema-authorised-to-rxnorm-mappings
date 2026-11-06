@@ -1,0 +1,7 @@
+short_name: Calysclera
+active_substance: Cladribinum
+marketing_authorisation_holder: PharOS Pharmaceutical Oriented Services Ltd., Greece
+manufacturer: PharOS Pharmaceutical Oriented Services Ltd., Greece; PharOS MT Limited, Malta
+atc_code: L04AA40
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0233/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0233/smpc

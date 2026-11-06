@@ -1,0 +1,7 @@
+short_name: Rivaroxaban TevaPharm
+active_substance: Rivaroxabanum
+marketing_authorisation_holder: Teva GmbH, Germany
+manufacturer: Balkanpharma-Dupnitsa AD, Bulgaria; Teva Operations Poland Sp.z o.o., Poland; Teva Pharma, S.L.U., Spain; Actavis Group PTC ehf., Iceland
+atc_code: B01AF01
+package_leaflet: https://dati.zva.gov.lv/zalu-registrs/info/26-0162/pil
+summary_of_product_characteristics: https://dati.zva.gov.lv/zalu-registrs/info/26-0162/smpc
