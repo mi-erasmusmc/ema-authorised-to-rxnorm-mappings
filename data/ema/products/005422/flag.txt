@@ -1,0 +1,5 @@
+Remaining BROAD mappings after RxNorm and RxNorm Extension searches:
+- EU/1/21/1608/006: source is a 1.5 ML 0.68 MG/ML FlexTouch pen; standard concept is a 3 ML pen. Extension 0.667 MG/ML concepts do not match the labelled concentration.
+- EU/1/21/1608/009-011: clean Extension concepts preserve the 3 ML volume and concentration as multidose Injectable Solution; the FlexTouch Pen Injector device is absent.
+- EU/1/21/1608/026-030: manual prefilled syringes mapped to dose- and volume-matched Wegovy Auto-Injector concepts because no suitable Prefilled Syringe concepts were found.
+Ideal presentation names are recorded in suggestion; reviewed corrections to existing rows are recorded in flag.tsv.
