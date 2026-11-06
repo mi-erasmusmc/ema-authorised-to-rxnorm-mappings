@@ -1,5 +1,2 @@
-JN.1 presentations (019-026) remain BROAD. Standard and `--extension` searches did not return JN.1-specific mRNA-1273 concepts for either vial or prefilled syringe presentations.
-
-LP.8.1 multidose vial presentations (031-032) map BROAD to LP.8.1-specific concept 37354050 because no LP.8.1 Injectable Suspension concept is available in RxNorm.
-
-LP.8.1 prefilled syringe presentations (033-040) map EXACT to available LP.8.1 prefilled syringe concepts.
+JN.1 and XFG presentations remain BROAD: standard RxNorm and Extension searches on 2026-11-06 found no matching variant-specific concepts. Multidose vials use the strain-neutral mRNA-1273 0.1 MG/ML Injectable Suspension. JN.1 single-dose vials use the concentration-level concept without asserting a multidose form. Prefilled syringes use the generic mRNA vaccine syringe concept, with variant, concentration and volume in suggestions.
+LP.8.1 multidose vials remain BROAD to the strain-specific concentration concept because no matching Injectable Suspension concept was found. Existing LP.8.1 0.5 ML and 0.25 ML prefilled-syringe EXACT mappings are retained.
