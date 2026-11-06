@@ -1,0 +1,1 @@
+Reviewed 2026-11-06: no suitable baricitinib 2 MG/ML Oral Suspension concept found in standard RxNorm or Extension. EU/1/16/1170/020 and /021 map BROAD to baricitinib (1510627, RxCUI 2047232), with suggestion baricitinib 2 MG/ML Oral Suspension [Olumiant]. Existing tablet EXACT mappings retained.
