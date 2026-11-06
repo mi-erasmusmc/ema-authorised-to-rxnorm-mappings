@@ -1,0 +1,5 @@
+Reviewed 2026-11-06.
+
+- Local 006058_bimervax_2026-08-04.pdf and footnote.txt: 40 micrograms per 0.5 mL = 0.08 MG/ML. Presentations 001-004 use selvacovatein (B.1.351/B.1.1.7 RBD heterodimer), 005-007 damlecovatein (XBB.1.16), 008-012 meracovatein (LP.8.1), and 013-017 XFG.1.1 RBD homodimer; all are SQBA-adjuvanted. Only 001 is multidose; 011-012 and 016-017 are prefilled syringes.
+- [EMA Bimervax product information](https://www.ema.europa.eu/en/documents/product-information/bimervax-epar-product-information_en.pdf) and [authorised presentations](https://www.ema.europa.eu/en/documents/all-authorised-presentations/bimervax-epar-all-authorised-presentations_en.pdf) corroborate antigens, dose quantities and container forms.
+- Hecate standard and Extension searches for Bimervax, named antigens, LP.8.1, XFG.1.1 and recombinant-protein vaccine dose forms returned no suitable exact antigen-specific concepts. Standard generic recombinant-protein Injectable Suspension and Prefilled Syringe concepts were confirmed.
