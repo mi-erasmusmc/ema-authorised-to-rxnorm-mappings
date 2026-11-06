@@ -1,12 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-730798	110622003	46275906	thiotepa Injection	1660003	BROAD		thiotepa 400 MG Injection	2026-04-01
+665854	10622001	1594020	thiotepa 15 MG Injection [Tepadina]	1919211	EXACT			2026-11-06
+665855	10622002	1594018	thiotepa 100 MG Injection [Tepadina]	1919209	EXACT			2026-11-06
+730798	110622003	1316679	thiotepa 400 MG Injection [Tepadina]	2734126	EXACT	The SmPC confirms 400 mg powder with solvent in a single-use dual-chamber bag; the source vial description is inaccurate.		2026-11-06
 730836	1211536001	46275912	thiotepa 15 MG Injection	1660009	EXACT			2025-12-04
 730837	1211536002	46275907	thiotepa 100 MG Injection	1660004	EXACT			2025-12-04
 762966	88923	46275912	thiotepa 15 MG Injection	1660009	EXACT			2026-03-12
 762967	88924	46275907	thiotepa 100 MG Injection	1660004	EXACT			2026-03-12
 766029	89896	46275907	thiotepa 100 MG Injection	1660004	EXACT			2026-03-12
 766031	89897	46275912	thiotepa 15 MG Injection	1660009	EXACT			2026-03-12
-665854	10622001	46275912	thiotepa 15 MG Injection	1660009	EXACT			2026-03-12
-665855	10622002	46275907	thiotepa 100 MG Injection	1660004	EXACT			2026-03-12
 766907	90131	46275907	thiotepa 100 MG Injection	1660004	EXACT			2026-03-12
 766908	90132	46275912	thiotepa 15 MG Injection	1660009	EXACT			2026-03-12
