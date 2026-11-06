@@ -4,3 +4,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 721171	1181271002	793058	0.7 ML emicizumab-kxwh 150 MG/ML Injection [Hemlibra]	1989811	EXACT			2026-03-13
 721172	1181271002	793064	1 ML emicizumab-kxwh 150 MG/ML Injection [Hemlibra]	1989817	EXACT			2026-03-13
 764025	1181271001	42609745	0.4 ML emicizumab-kxwh 30 MG/ML Injection [Hemlibra]	2675568	EXACT			2026-03-28
+768777	1181271002IP1	793062	0.4 ML emicizumab-kxwh 150 MG/ML Injection [Hemlibra]	1989815	EXACT			2026-11-06
+768778	1181271002IP	793058	0.7 ML emicizumab-kxwh 150 MG/ML Injection [Hemlibra]	1989811	EXACT			2026-11-06
+769022	1181271002IP2	793064	1 ML emicizumab-kxwh 150 MG/ML Injection [Hemlibra]	1989817	EXACT			2026-11-06
