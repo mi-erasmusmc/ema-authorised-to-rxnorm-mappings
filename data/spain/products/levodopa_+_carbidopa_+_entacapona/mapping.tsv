@@ -5,13 +5,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703407	78991	19102489	carbidopa 25 MG / entacapone 200 MG / levodopa 100 MG Oral Tablet	403851	EXACT			2026-03-12
 703408	78992	19102490	carbidopa 37.5 MG / entacapone 200 MG / levodopa 150 MG Oral Tablet	403852	EXACT			2026-03-12
 703409	78993	19132874	carbidopa 31.25 MG / entacapone 200 MG / levodopa 125 MG Oral Tablet	810083	EXACT			2026-03-12
-703410	78994	21053457	Carbidopa 43.8 MG / entacapone 200 MG / Levodopa 175 MG Oral Tablet	OMOP380324	EXACT			2026-03-12
+703410	78994	21053457	Carbidopa 43.8 MG / entacapone 200 MG / Levodopa 175 MG Oral Tablet	OMOP380324	EXACT	Extension rounds the labeled carbidopa strength 43.75 MG to 43.8 MG; same 175/43.75/200 MG tablet presentation.		2026-11-06
 703411	78995	19127489	carbidopa 50 MG / entacapone 200 MG / levodopa 200 MG Oral Tablet	730988	EXACT			2026-03-12
 703412	78996	19102488	carbidopa 12.5 MG / entacapone 200 MG / levodopa 50 MG Oral Tablet	403850	EXACT			2026-03-12
 703414	78997	19132879	carbidopa 18.75 MG / entacapone 200 MG / levodopa 75 MG Oral Tablet	810090	EXACT			2026-03-12
 703498	79020	19102488	carbidopa 12.5 MG / entacapone 200 MG / levodopa 50 MG Oral Tablet	403850	EXACT			2026-03-12
 703499	79021	19132879	carbidopa 18.75 MG / entacapone 200 MG / levodopa 75 MG Oral Tablet	810090	EXACT			2026-03-12
-703500	79022	19102489	carbidopa 25 MG / entacapone 200 MG / levodopa 100 MG Oral Tablet	403851	EXACT			2026-03-12
+703500	79022	19102489	carbidopa 25 MG / entacapone 200 MG / levodopa 100 MG Oral Tablet	403851	EXACT	Source des_dosific incorrectly lists 50/12.5/200 MG; product name, des_dcp and ingredient strengths consistently specify 100/25/200 MG.		2026-11-06
 703501	79023	19132874	carbidopa 31.25 MG / entacapone 200 MG / levodopa 125 MG Oral Tablet	810083	EXACT			2026-03-12
 703502	79024	19102490	carbidopa 37.5 MG / entacapone 200 MG / levodopa 150 MG Oral Tablet	403852	EXACT			2026-03-12
 703503	79025	19127489	carbidopa 50 MG / entacapone 200 MG / levodopa 200 MG Oral Tablet	730988	EXACT			2026-03-12
@@ -20,7 +20,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703567	79038	19102490	carbidopa 37.5 MG / entacapone 200 MG / levodopa 150 MG Oral Tablet	403852	EXACT			2026-03-12
 703568	79039	19127489	carbidopa 50 MG / entacapone 200 MG / levodopa 200 MG Oral Tablet	730988	EXACT			2026-03-12
 703573	79043	19102488	carbidopa 12.5 MG / entacapone 200 MG / levodopa 50 MG Oral Tablet	403850	EXACT			2026-03-12
-703574	79044	19132879	carbidopa 18.75 MG / entacapone 200 MG / levodopa 75 MG Oral Tablet	810090	EXACT			2026-03-12
+703574	79044	19132879	carbidopa 18.75 MG / entacapone 200 MG / levodopa 75 MG Oral Tablet	810090	EXACT	Source des_dosific lists carbidopa 18.25 MG; product name, des_dcp and ingredient strength consistently specify 18.75 MG.		2026-11-06
 704420	79238	19132874	carbidopa 31.25 MG / entacapone 200 MG / levodopa 125 MG Oral Tablet	810083	EXACT			2026-03-12
 704422	79239	19102490	carbidopa 37.5 MG / entacapone 200 MG / levodopa 150 MG Oral Tablet	403852	EXACT			2026-03-12
 704424	79240	19102488	carbidopa 12.5 MG / entacapone 200 MG / levodopa 50 MG Oral Tablet	403850	EXACT			2026-03-12
@@ -40,7 +40,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 705804	79650	19102489	carbidopa 25 MG / entacapone 200 MG / levodopa 100 MG Oral Tablet	403851	EXACT			2026-03-12
 705805	79651	19132874	carbidopa 31.25 MG / entacapone 200 MG / levodopa 125 MG Oral Tablet	810083	EXACT			2026-03-12
 705807	79652	19102490	carbidopa 37.5 MG / entacapone 200 MG / levodopa 150 MG Oral Tablet	403852	EXACT			2026-03-12
-705808	79653	21053457	Carbidopa 43.8 MG / entacapone 200 MG / Levodopa 175 MG Oral Tablet	OMOP380324	EXACT			2026-03-12
+705808	79653	21053457	Carbidopa 43.8 MG / entacapone 200 MG / Levodopa 175 MG Oral Tablet	OMOP380324	EXACT	Extension rounds the labeled carbidopa strength 43.75 MG to 43.8 MG; same 175/43.75/200 MG tablet presentation.		2026-11-06
 705809	79654	19127489	carbidopa 50 MG / entacapone 200 MG / levodopa 200 MG Oral Tablet	730988	EXACT			2026-03-12
 705810	79655	19102488	carbidopa 12.5 MG / entacapone 200 MG / levodopa 50 MG Oral Tablet	403850	EXACT			2026-03-12
 705811	79656	19132879	carbidopa 18.75 MG / entacapone 200 MG / levodopa 75 MG Oral Tablet	810090	EXACT			2026-03-12
@@ -56,8 +56,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 729107	85341	19127489	carbidopa 50 MG / entacapone 200 MG / levodopa 200 MG Oral Tablet	730988	EXACT			2026-03-12
 729108	85342	19102488	carbidopa 12.5 MG / entacapone 200 MG / levodopa 50 MG Oral Tablet	403850	EXACT			2026-03-12
 729109	85343	19132879	carbidopa 18.75 MG / entacapone 200 MG / levodopa 75 MG Oral Tablet	810090	EXACT			2026-03-12
-731370	86092	45892916	carbidopa / levodopa Oral Suspension	1599845	BROAD	RxNorm has carbidopa/levodopa suspension concepts but not the three-ingredient Lecigon intestinal gel	levodopa 20 MG/ML / carbidopa 5 MG/ML / entacapone 20 MG/ML Oral Gel	2026-03-12
-765534	103260036	21053457	Carbidopa 43.8 MG / entacapone 200 MG / Levodopa 175 MG Oral Tablet	OMOP380324	EXACT			2025-12-04
+731370	86092	1235767	carbidopa 5 MG/ML / entacapone 20 MG/ML / levodopa 20 MG/ML Oral Gel [Lecigon]	OMOP5216474	BROAD	Full-combination Extension fallback; Oral Gel does not capture intestinal infusion. Concept follows labeled carbidopa monohydrate 5 MG/ML; suggestion uses SmPC anhydrous equivalent 4.6 MG/ML. See sources.md.	carbidopa 4.6 MG/ML / entacapone 20 MG/ML / levodopa 20 MG/ML Oral Gel [Lecigon]	2026-11-06
+765534	103260036	21141771	Carbidopa 43.8 MG / entacapone 200 MG / Levodopa 175 MG Oral Tablet [Stalevo]	OMOP380333	EXACT	Extension rounds the labeled carbidopa strength 43.75 MG to 43.8 MG; same Stalevo 175/43.75/200 MG tablet presentation.		2026-11-06
+770985	03260026IP	19132881	carbidopa 18.75 MG / entacapone 200 MG / levodopa 75 MG Oral Tablet [Stalevo]	810094	EXACT			2026-11-06
+770986	03260031IP	19132876	carbidopa 31.25 MG / entacapone 200 MG / levodopa 125 MG Oral Tablet [Stalevo]	810087	EXACT			2026-11-06
+770987	03260007IP1	19102817	carbidopa 25 MG / entacapone 200 MG / levodopa 100 MG Oral Tablet [Stalevo]	404552	EXACT	Source principios_activos has an anomalous entacapone unit; product name and clinical presentation consistently specify 200 MG.		2026-11-06
 835371	03260003	19102816	carbidopa 12.5 MG / entacapone 200 MG / levodopa 50 MG Oral Tablet [Stalevo]	404551	EXACT			2026-03-12
 836163	03260007	19102817	carbidopa 25 MG / entacapone 200 MG / levodopa 100 MG Oral Tablet [Stalevo]	404552	EXACT			2026-03-12
 836833	03260011	19102818	carbidopa 37.5 MG / entacapone 200 MG / levodopa 150 MG Oral Tablet [Stalevo]	404553	EXACT			2026-03-12

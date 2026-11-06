@@ -1,9 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-650629	66547	2916745	carbidopa 5 MG/ML / levodopa 20 MG/ML Oral Gel [Duodopa]	OMOP5133584	EXACT			2026-03-31
+650629	66547	45892917	carbidopa 4.63 MG/ML / levodopa 20 MG/ML Oral Suspension	1599846	EXACT	AEMPS specifies carbidopa monohydrate 5 MG/ML; RxNorm uses anhydrous equivalent 4.63 MG/ML. DailyMed explicitly identifies this RxCUI as enteral suspension despite its Oral Suspension name; see sources.md.		2026-11-06
 654761	59872	789736	carbidopa 25 MG / levodopa 100 MG Extended Release Oral Tablet [Sinemet]	792381	EXACT			2026-03-12
-654765	59334	19074722	carbidopa 50 MG / levodopa 200 MG Extended Release Oral Tablet	308989	EXACT			2026-03-12
+654765	59334	789765	carbidopa 50 MG / levodopa 200 MG Extended Release Oral Tablet [Sinemet]	834341	EXACT			2026-11-06
 700578	51794	19127007	carbidopa 25 MG / levodopa 250 MG Oral Tablet [Sinemet]	724602	EXACT			2026-03-12
 700579	55866	789721	carbidopa 25 MG / levodopa 100 MG Oral Tablet [Sinemet]	724598	EXACT			2026-03-12
 700580	51794	19127007	carbidopa 25 MG / levodopa 250 MG Oral Tablet [Sinemet]	724602	EXACT			2026-03-12
+733219	86700	789581	carbidopa 25 MG / levodopa 100 MG Oral Tablet	197444	EXACT			2026-11-06
+733220	86701	789612	carbidopa 25 MG / levodopa 250 MG Oral Tablet	197445	EXACT			2026-11-06
 762103	88637	789581	carbidopa 25 MG / levodopa 100 MG Oral Tablet	197444	EXACT			2026-03-12
 765106	89624	789612	carbidopa 25 MG / levodopa 250 MG Oral Tablet	197445	EXACT			2026-03-12
+769216	86701	789612	carbidopa 25 MG / levodopa 250 MG Oral Tablet	197445	EXACT			2026-11-06
