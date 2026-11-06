@@ -1,4 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+661935	08492001	46275118	4 ML tocilizumab 20 MG/ML Injection [Actemra]	1657976	EXACT			2026-03-13
+661936	08492003	46275122	10 ML tocilizumab 20 MG/ML Injection [Actemra]	1657980	EXACT			2026-03-13
 702285	108492007	44507562	0.9 ML tocilizumab 180 MG/ML Prefilled Syringe [Actemra]	1441530	EXACT			2026-03-13
 721814	108492009	1356448	0.9 ML tocilizumab 180 MG/ML Auto-Injector [Actemra]	2106075	EXACT			2026-03-13
 763180	1231754001	42609784	4 ML tocilizumab-aazg 20 MG/ML Injection	2679431	EXACT			2026-03-13
@@ -15,8 +17,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 767310	1241896001	1466426	4 ML tocilizumab-anoh 20 MG/ML Injection	2705452	EXACT			2026-03-13
 767311	1241896001	1466422	10 ML tocilizumab-anoh 20 MG/ML Injection	2705443	EXACT			2026-03-13
 767312	1241896001	1466424	20 ML tocilizumab-anoh 20 MG/ML Injection	2705450	EXACT			2026-03-13
-767313	1241896007	1466418	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe	2705425	EXACT			2026-03-13
+767313	1241896007	1466418	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe	2705425	EXACT	Source unidad_contenido says pen, but product name, des_dcp, dose-form field and container identify a prefilled syringe.		2026-11-06
 768850	1241896010	1466420	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector	2705435	EXACT			2026-03-13
-661935	08492001	46275118	4 ML tocilizumab 20 MG/ML Injection [Actemra]	1657976	EXACT			2026-03-13
-661936	08492003	46275122	10 ML tocilizumab 20 MG/ML Injection [Actemra]	1657980	EXACT			2026-03-13
-768851	1241896007	1735788	0.9 ML tocilizumab-aazg 180 MG/ML Prefilled Syringe	2686053	EXACT			2026-04-16
+768851	1241896007	1466418	0.9 ML tocilizumab-anoh 180 MG/ML Prefilled Syringe	2705425	EXACT	Avtozma corresponds to FDA tocilizumab-anoh; use its unbranded suffixed syringe concept.		2026-11-06
+769980	1241896010	1466420	0.9 ML tocilizumab-anoh 180 MG/ML Auto-Injector	2705435	EXACT			2026-11-06
