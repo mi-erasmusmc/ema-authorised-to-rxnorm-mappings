@@ -1,0 +1,1 @@
+EU/1/11/717/005 and EU/1/11/717/006: Vyndaqel 61 mg film-coated tablets. No matching Oral Tablet concept found in standard RxNorm or RxNorm Extension. Mapped BROAD to tafamidis 61 MG (789996, RxCUI 2168533); suggestions specify the missing tablet form. Revisit when a tablet concept becomes available.

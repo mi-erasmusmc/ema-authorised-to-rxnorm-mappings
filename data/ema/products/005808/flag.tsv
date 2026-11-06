@@ -1,0 +1,5 @@
+ma_number	issue	previous_concept_name	resolution
+EU/1/21/1618/005	SINGLE_DOSE_FORM	SARS-CoV-2 (COVID-19) vaccine, protein NVX-CoV2601 0.01 MG/ML Injectable Suspension	Changed EXACT to BROAD: source is a single-dose 0.5 mL vial; concept describes multidose suspension. No matching Injection concept found in RxNorm or Extension.
+EU/1/21/1618/007	SUGGESTION	0.5 ML SARS-CoV-2 (COVID-19) vaccine, protein NVX-CoV2705 0.01 MG/ML Prefilled Syringe [Nuvaxovid 2024-2025]	Corrected ideal dose form from Injectable Suspension to Injection for single-dose vial; retained BROAD volume-matched syringe mapping.
+EU/1/21/1618/009	SUGGESTION	0.5 ML SARS-CoV-2 (COVID-19) vaccine, protein NVX-CoV2705 0.01 MG/ML Prefilled Syringe [Nuvaxovid 2024-2025]	Corrected ideal dose form from Injectable Suspension to Injection for single-dose vial; retained BROAD volume-matched syringe mapping.
+EU/1/21/1618/010	SINGLE_DOSE_FORM	SARS-CoV-2 (COVID-19) vaccine, protein NVX-CoV2601 0.01 MG/ML Injectable Suspension	Changed EXACT to BROAD: source is a single-dose 0.5 mL vial; concept describes multidose suspension. No matching Injection concept found in RxNorm or Extension.

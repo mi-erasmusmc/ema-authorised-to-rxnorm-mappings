@@ -1,0 +1,5 @@
+# Sources
+
+- [EMA Nuvaxovid product information](https://www.ema.europa.eu/en/documents/product-information/nuvaxovid-epar-product-information_en.pdf), reviewed 2026-11-06: product-specific composition and presentation sections distinguish original, XBB.1.5, JN.1 and XFG. XFG prefilled syringes contain 5 micrograms in 0.5 mL (0.01 MG/ML). Local footnote.txt and parsed_data_2026-11-05.tsv supply the composition and single-dose versus multidose container details for each authorisation.
+- [FDA Nuvaxovid](https://www.fda.gov/vaccines-blood-biologics/vaccines/nuvaxovid), reviewed 2026-11-06: 2026-2027 formula contains XFG recombinant spike protein, 5 micrograms per 0.5 mL. Older seasonal NVX-CoV2705 concepts must not be assumed to represent XFG.
+- Hecate searches on 2026-11-06, standard RxNorm then RxNorm Extension: Nuvaxovid XFG, XFG protein 0.01 MG/ML prefilled syringe, Nuvaxovid 2026-2027, NVX-CoV2601 Injection and NVX-CoV2705 vial/suspension. No suitable XFG-specific or variant-specific single-dose vial concepts returned. Generic recombinant spike protein syringe: concept 1735217, RxCUI 2692306.

@@ -1,0 +1,5 @@
+# Sources
+
+- [EMA Vyndaqel product information](https://www.ema.europa.eu/en/documents/product-information/vyndaqel-epar-product-information_en.pdf), reviewed 2026-11-06: 61 mg film-coated tablets contain 61 mg micronized tafamidis. The 20 mg capsule contains tafamidis meglumine, while the 61 mg capsule contains tafamidis.
+- [EMA variation opinion](https://www.ema.europa.eu/lt/node/282970): the new 61 mg film-coated tablet form was adopted in June 2026.
+- Hecate searches on 2026-11-06: standard RxNorm confirmed the existing tafamidis meglumine 20 MG Oral Capsule [Vyndaqel] (790011, RxCUI 2168548) and unbranded tafamidis 61 MG Oral Capsule (789997, RxCUI 2168534). Standard and Extension searches for tafamidis 61 MG Oral Tablet, Vyndaqel 61 mg tablet, and tafamidis Oral Tablet returned no tablet concept. Selected form-neutral tafamidis 61 MG (789996, RxCUI 2168533) as BROAD for the tablets. Extension branded capsules add supplier/box information and do not justify replacing the existing standard capsule mappings.

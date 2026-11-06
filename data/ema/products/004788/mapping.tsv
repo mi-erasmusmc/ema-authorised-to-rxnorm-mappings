@@ -1,2 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/21/1559/001	37003586	1 ML satralizumab-mwge 120 MG/ML Prefilled Syringe [Enspryng]	2391560	EXACT			2025-12-04
+EU/1/21/1559/002	37003586	1 ML satralizumab-mwge 120 MG/ML Prefilled Syringe [Enspryng]	2391560	EXACT			2026-11-06
+EU/1/21/1559/003	37003586	1 ML satralizumab-mwge 120 MG/ML Prefilled Syringe [Enspryng]	2391560	BROAD	Pre-filled pen; syringe concept preserves the 1 mL/120 mg dose but does not capture the auto-injector device. No matching pen concept found in RxNorm or RxNorm Extension.	1 ML satralizumab-mwge 120 MG/ML Auto-Injector [Enspryng]	2026-11-06
+EU/1/21/1559/004	37003586	1 ML satralizumab-mwge 120 MG/ML Prefilled Syringe [Enspryng]	2391560	BROAD	Pre-filled pen; syringe concept preserves the 1 mL/120 mg dose but does not capture the auto-injector device. No matching pen concept found in RxNorm or RxNorm Extension.	1 ML satralizumab-mwge 120 MG/ML Auto-Injector [Enspryng]	2026-11-06
