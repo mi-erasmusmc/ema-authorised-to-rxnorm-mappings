@@ -1,0 +1,1 @@
+Reviewed 2026-11-06: the 0.5 mL subcutaneous vial now maps EXACT to standard RxNorm concept 1317572 (RxCUI 2740800). The 0.5 mL and 1 mL prefilled pens still lack matching ustekinumab-stba auto-injector concepts in standard RxNorm or Extension. Both remain BROAD to volume-matched Steqeyma syringes with specific suggestions. See sources.md.

@@ -1,0 +1,2 @@
+ma_number	issue	previous_concept_name	resolution
+EU/1/24/1844/004	MORE_SPECIFIC_CONCEPT_AVAILABLE	0.5 ML ustekinumab-stba 90 MG/ML Prefilled Syringe [Steqeyma]	Resolved: replaced BROAD with EXACT standard RxNorm concept 1317572 (RxCUI 2740800); cleared stale comment and suggestion.

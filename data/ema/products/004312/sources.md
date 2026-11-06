@@ -1,0 +1,5 @@
+# Sources
+
+- [EMA Spinraza product information](https://www.ema.europa.eu/en/documents/product-information/spinraza-epar-product-information_en.pdf), reviewed 2026-11-06: each single-use 5 mL vial contains nusinersen sodium equivalent to 12 mg, 28 mg or 50 mg nusinersen; concentrations are 2.4, 5.6 and 10 MG/ML respectively. All presentations are for intrathecal injection.
+- [FDA Spinraza prescribing information, 2026](https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/209531s016lbl.pdf): the high-dose regimen includes 50 mg and 28 mg doses. The previous EU-only comments are obsolete.
+- Hecate standard RxNorm searches on 2026-11-06 for 5 ML nusinersen 5.6 MG/ML Injection [Spinraza], 5 ML nusinersen 10 MG/ML Injection [Spinraza], nusinersen 28 mg, nusinersen 50 mg and Spinraza returned exact concepts 1317562 (RxCUI 2740004) and 1317560 (RxCUI 2739998). The search also confirmed the existing 12 mg mapping, concept 1593040 (RxCUI 1863565). All three mappings preserve brand, concentration, single-use volume and dose form.
