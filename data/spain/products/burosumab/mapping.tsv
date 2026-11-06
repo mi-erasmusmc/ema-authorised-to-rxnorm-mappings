@@ -2,3 +2,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 721350	1171262001	1510768	1 ML burosumab-twza 10 MG/ML Injection [Crysvita]	2043864	EXACT			2026-04-02
 721351	1171262002	1510770	1 ML burosumab-twza 20 MG/ML Injection [Crysvita]	2043870	EXACT			2026-04-02
 721352	1171262003	1510772	1 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2043878	EXACT			2026-04-02
+765567	1171262004	1510252	burosumab-twza 30 MG/ML Injection [Crysvita]	2043880	BROAD	Prefilled syringe; no matching syringe concept found in RxNorm or Extension. Injection concept preserves nominal concentration but omits single-use volume.	0.33 ML burosumab-twza 30 MG/ML Prefilled Syringe [Crysvita]	2026-11-06
+765568	1171262005	1510252	burosumab-twza 30 MG/ML Injection [Crysvita]	2043880	BROAD	Prefilled syringe; no matching syringe concept found in RxNorm or Extension. Injection concept preserves nominal concentration but omits single-use volume.	0.67 ML burosumab-twza 30 MG/ML Prefilled Syringe [Crysvita]	2026-11-06
+765569	1171262006	1510772	1 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2043878	BROAD	Prefilled syringe; no matching syringe concept found in RxNorm or Extension.	1 ML burosumab-twza 30 MG/ML Prefilled Syringe [Crysvita]	2026-11-06
