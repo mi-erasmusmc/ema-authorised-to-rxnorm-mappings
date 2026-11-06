@@ -1,3 +1,7 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/21/1544/001	37003386	berotralstat 150 MG Oral Capsule [Orladeyo]	2467571	EXACT			2025-12-04
 EU/1/21/1544/002	37003386	berotralstat 150 MG Oral Capsule [Orladeyo]	2467571	EXACT			2025-12-04
+EU/1/21/1544/003	37354865	berotralstat 72 MG Oral Pellet [Orladeyo]	2728886	EXACT	EU film-coated granules correspond to US film-coated oral pellets; both strengths are expressed as berotralstat base.		2026-11-06
+EU/1/21/1544/004	37354869	berotralstat 96 MG Oral Pellet [Orladeyo]	2728890	EXACT	EU film-coated granules correspond to US film-coated oral pellets; both strengths are expressed as berotralstat base.		2026-11-06
+EU/1/21/1544/005	37354857	berotralstat 108 MG Oral Pellet [Orladeyo]	2728878	EXACT	EU film-coated granules correspond to US film-coated oral pellets; both strengths are expressed as berotralstat base.		2026-11-06
+EU/1/21/1544/006	37354861	berotralstat 132 MG Oral Pellet [Orladeyo]	2728882	EXACT	EU film-coated granules correspond to US film-coated oral pellets; both strengths are expressed as berotralstat base.		2026-11-06
