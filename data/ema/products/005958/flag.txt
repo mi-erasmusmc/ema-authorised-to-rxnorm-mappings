@@ -1,3 +1,3 @@
-Pre-filled pen (auto-injector) presentations (005–008, 010, 012–013, 018–021) remain BROAD — no omalizumab-igec auto-injector concept exists in RxNorm or RxNorm Extension.
+Reviewed 2026-11-06: 300 mg / 2 mL prefilled syringe presentations /014–/017 now map EXACT to standard RxNorm concept 1317523, RxCUI 2735283.
 
-300 mg / 2 ml prefilled syringe presentations (014–017) remain BROAD — no 2 ML omalizumab-igec 150 MG/ML Prefilled Syringe concept exists in RxNorm. Mapped to volume-agnostic branded prefilled syringe concept 37354608.
+The 11 prefilled pen presentations /005–/008, /010, /012–/013 and /018–/021 remain BROAD: no matching omalizumab-igec auto-injector concept was found in standard RxNorm or RxNorm Extension. Their volume- and concentration-matched unbranded omalizumab auto-injector mappings and omalizumab-igec suggestions are retained.

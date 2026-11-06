@@ -1,0 +1,1 @@
+Reviewed 2026-11-06: five 25 mg presentations now map EXACT to standard RxNorm concept 1316460 (RxCUI 2730163). No suitable semaglutide 50 MG Oral Tablet concept was found in standard RxNorm or Extension. EU/1/20/1430/036 through /040 remain BROAD to semaglutide Oral Tablet [Rybelsus], with strength-specific suggestions.
