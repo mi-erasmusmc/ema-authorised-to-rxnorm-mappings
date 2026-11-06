@@ -2,7 +2,7 @@ EMA product number: EMEA/H/C/004051
 Name of medicine: Trumenba
 Medicine status: Authorised
 International non-proprietary name (INN) / common name: meningococcal group b vaccine (recombinant, adsorbed)
-Active substance: Neisseria meningitidis serogroup B fHbp (recombinant lipidated fHbp (factor H binding protein)) subfamily A; Neisseria meningitidis serogroup B fHbp (recombinant lipidated fHbp (factor H binding protein)) subfamily B
+Active substance: Neisseria meningitidis serogroup B fHbp (recombinant lipidated fHbp (factor H binding protein)) subfamily A;Neisseria meningitidis serogroup B fHbp (recombinant lipidated fHbp (factor H binding protein)) subfamily B
 Therapeutic area (MeSH): Meningitis, Meningococcal
 ATC code (human): J07AH09
 Pharmacotherapeutic group (human): Bacterial vaccines;Meningococcal vaccines
