@@ -2,7 +2,7 @@
 """
 Download AEMPS prescription nomenclator and convert to TSV with decoded values.
 
-Source: http://listadomedicamentos.aemps.gob.es/prescripcion.zip
+Source: https://listadomedicamentos.aemps.gob.es/prescripcion.zip
 
 List fields:
   - principios_activos: pipe-separated "NAME DOSE UNIT" per active ingredient
@@ -24,7 +24,7 @@ import zipfile
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-URL = "http://listadomedicamentos.aemps.gob.es/prescripcion.zip"
+URL = "https://listadomedicamentos.aemps.gob.es/prescripcion.zip"
 OUT_TSV = Path(__file__).parent / "prescripcion.tsv"
 
 COLUMNS = [
@@ -229,7 +229,9 @@ def main():
     ctx = ssl.create_default_context()
     ctx.check_hostname = False
     ctx.verify_mode = ssl.CERT_NONE
-    data = urllib.request.urlopen(URL, timeout=60, context=ctx).read()
+    # AEMPS rejects requests made with the default Python User-Agent.
+    request = urllib.request.Request(URL, headers={"User-Agent": "Mozilla/5.0"})
+    data = urllib.request.urlopen(request, timeout=60, context=ctx).read()
     print(f"Downloaded {len(data):,} bytes", file=sys.stderr)
 
     with zipfile.ZipFile(io.BytesIO(data)) as zf:
