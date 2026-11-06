@@ -1,0 +1,1 @@
+The [EMA Busilvex product information](https://www.ema.europa.eu/en/documents/product-information/busilvex-epar-product-information_en.pdf), sections 2 and 6.6, confirms 60 mg busulfan in a 10 mL vial (6 mg/mL concentrate), requiring dilution, and single use only. Map the supplied concentrate to the volume-specific Injection concept.

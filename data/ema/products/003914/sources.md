@@ -1,0 +1,5 @@
+Mapping evidence checked 2026-11-06.
+
+- [EMA VeraSeal product information](https://www.ema.europa.eu/en/documents/product-information/veraseal-epar-product-information_en.pdf) confirms two separate solutions: human fibrinogen 80 mg/mL and human thrombin 500 IU/mL. Total presentation volumes 2, 4, 6 and 10 mL comprise paired syringes of 1, 2, 3 and 5 mL respectively. These are the EU/1/17/1239/001-004 presentations in the local source despite historical withdrawn-application metadata.
+- [DailyMed VISTASEAL label and RxNorm crosswalk](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a8708417-2f74-4dfa-b6f9-ef88f902e0fc) confirms the same two-component formulation and total-volume convention. It explicitly links the topical sealant to the standard RxNorm Prefilled Syringe concepts. The RxNorm strengths represent each separate component, not concentrations after mixing.
+- Use standard unbranded concepts because VeraSeal and Vistaseal are different brand names. Extension results with 40 mg/mL and 252 units/mL or Injectable Solution do not represent the labeled separate-component formulation as accurately.

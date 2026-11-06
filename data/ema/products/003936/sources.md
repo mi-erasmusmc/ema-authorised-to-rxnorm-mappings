@@ -1,0 +1,6 @@
+# ARIKAYCE liposomal
+
+- The local authorised-presentations PDF identifies EU/1/20/1469/001 as ARIKAYCE liposomal 590 mg, 8.43 mL (70 mg/mL), nebuliser dispersion. This presentation takes precedence over the withdrawn-application metadata in ema-info.txt.
+- [EMA product information](https://www.ema.europa.eu/en/documents/product-information/arikayce-liposomal-product-information_en.pdf), sections 2 and 4.2: each vial contains 590 mg amikacin in a liposomal formulation; the entire vial is the daily inhaled dose.
+- [US prescribing information, DailyMed](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=499ab990-2b21-474f-aaba-d86388965f40), sections 3 and 11: the US label expresses the same 590 mg vial as 8.4 mL, and explicitly states a targeted concentration of 70 mg amikacin/mL. The RxNorm 70.3 mg/mL value derives from the US labelled 590/8.4 ratio. The EU 70 mg/mL and 8.43 mL values are therefore treated as nominal-label rounding differences, rather than a different drug strength.
+- Standard RxNorm captures the matching liposomal ingredient and inhalation suspension. Extension search did not improve the match: the returned 59 mg/mL inhalation-solution concepts have the wrong concentration and dose form.

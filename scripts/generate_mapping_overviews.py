@@ -93,7 +93,7 @@ def _load_medicines_report(report_file):
 
 
 def _load_ema_mappings(ema_pdfs_dir):
-    """Load all EMA mapping.tsv files into a dict keyed by ma_number."""
+    """Load EMA mappings by folder and ma_number, retaining an MA-only fallback."""
     mappings = {}
     for folder in sorted(ema_pdfs_dir.iterdir()):
         if not folder.is_dir():
@@ -107,6 +107,7 @@ def _load_ema_mappings(ema_pdfs_dir):
                 ma = row.get("ma_number", "")
                 if ma:
                     mappings[ma] = {col: row.get(col, "") for col in EMA_MAPPING_COLUMNS}
+                    mappings[(folder.name, ma)] = mappings[ma]
     return mappings
 
 
@@ -141,7 +142,7 @@ def regenerate_ema():
             for row in reader:
                 filtered_row = {col: row.get(col, "") for col in EMA_PARSED_COLUMNS}
                 ma = filtered_row["ma_number"]
-                mapping_row = mappings.get(ma, empty_mapping)
+                mapping_row = mappings.get((folder.name, ma), mappings.get(ma, empty_mapping))
                 filtered_row.update(mapping_row)
                 report = medicines_report.get(filtered_row["ema_product_number"], empty_report)
                 all_rows.append({

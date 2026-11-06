@@ -1,0 +1,3 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/10/658/001	1735872	0.5 ML influenza A virus A/turkey/Turkey/1/2005 (H5N1) antigen 0.015 MG/ML Prefilled Syringe	2694010	EXACT	Presentation footnote specifies A/turkey/Turkey/1/2005 (H5N1), overriding older A/VietNam metadata; 7.5 micrograms per 0.5 ML = 0.015 MG/ML.		2026-11-06
+EU/1/10/658/002	1735872	0.5 ML influenza A virus A/turkey/Turkey/1/2005 (H5N1) antigen 0.015 MG/ML Prefilled Syringe	2694010	EXACT	Presentation footnote specifies A/turkey/Turkey/1/2005 (H5N1), overriding older A/VietNam metadata; 7.5 micrograms per 0.5 ML = 0.015 MG/ML.		2026-11-06
