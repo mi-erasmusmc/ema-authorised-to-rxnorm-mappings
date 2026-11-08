@@ -1,0 +1,5 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/24/1846/001	1735304	epinephrine 20 MG/ML Nasal Spray	2693442	BROAD	Single-dose spray delivers 2 MG in 0.1 ML; chosen concentration-level concept omits the single-dose volume.	0.1 ML epinephrine 20 MG/ML Nasal Spray [EURneffy]	2026-11-06
+EU/1/24/1846/002	1735304	epinephrine 20 MG/ML Nasal Spray	2693442	BROAD	Single-dose spray delivers 2 MG in 0.1 ML; chosen concentration-level concept omits the single-dose volume.	0.1 ML epinephrine 20 MG/ML Nasal Spray [EURneffy]	2026-11-06
+EU/1/24/1846/003	1465818	epinephrine 10 MG/ML Nasal Spray	2709207	BROAD	Single-dose spray delivers 1 MG in 0.1 ML; chosen concentration-level concept omits the single-dose volume.	0.1 ML epinephrine 10 MG/ML Nasal Spray [EURneffy]	2026-11-06
+EU/1/24/1846/004	1465818	epinephrine 10 MG/ML Nasal Spray	2709207	BROAD	Single-dose spray delivers 1 MG in 0.1 ML; chosen concentration-level concept omits the single-dose volume.	0.1 ML epinephrine 10 MG/ML Nasal Spray [EURneffy]	2026-11-06

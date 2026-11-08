@@ -1,0 +1,1 @@
+[EMA Ablymico overview](https://www.ema.europa.eu/en/medicines/human/EPAR/ablymico) identifies this as a hybrid of Saxenda using chemically synthesised liraglutide. It is mapped to unbranded liraglutide rather than applying biosimilar suffix rules. Source presentations contain 3 mL at 6 mg/mL in prefilled pens.

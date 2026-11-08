@@ -1,3 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/23/1726/001	701936	ruxolitinib 15 MG/ML Topical Cream [Opzelura]	2570757	EXACT			2025-12-04
 EU/1/23/1726/002	701936	ruxolitinib 15 MG/ML Topical Cream [Opzelura]	2570757	EXACT			2025-12-04
+EU/1/23/1726/003	701936	ruxolitinib 15 MG/ML Topical Cream [Opzelura]	2570757	EXACT	Canonical RxNorm concept is named MG/ML but represents the labeled 1.5% (15 MG/G) Opzelura cream; no density conversion is inferred.		2026-11-06

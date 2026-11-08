@@ -1,0 +1,1 @@
+No correctly concentrated Adstiladrin clinical drug concept found in standard RxNorm or Extension. Available strength concepts state 15000000000 VIRAL-PARTICLES/ML, whereas both EMA and US labels specify 300000000000 VIRAL-PARTICLES/ML. Mapped BROAD to the matching branded Intravesical Suspension concept; suggestion includes the correct concentration and 20 ML single-dose vial.

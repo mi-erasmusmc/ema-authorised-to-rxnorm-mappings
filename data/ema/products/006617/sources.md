@@ -1,0 +1,1 @@
+[EMA Bopediat product information](https://www.ema.europa.eu/en/documents/product-information/bopediat-epar-product-information_en.pdf) confirms 5 mg furosemide orodispersible tablets. No matching 5 mg Disintegrating Oral Tablet was returned by standard or Extension searches; the ingredient-strength concept is a BROAD fallback.

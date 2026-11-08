@@ -1,0 +1,3 @@
+Mapping evidence checked 2026-11-06.
+
+[EMA Rexatilux product information](https://www.ema.europa.eu/en/documents/product-information/rexatilux-epar-product-information_en.pdf) and [EMA risk management plan](https://www.ema.europa.eu/en/documents/rmp/rexatilux-epar-risk-management-plan_en.pdf). The recommended adult injected dose is 0.5 mg in 0.05 mL. The prefilled syringe contains 0.165 mL (0.1 mL extractable), and the vial contains 0.23 mL; both provide excess above that single delivered dose. Standard 0.05 mL concepts preserve delivered dose and actual form. Extension reservoir-volume concepts add fill volume but do not improve clinical dose specificity. Intas Rexatilux has no identified FDA-suffixed equivalent, so mappings are BROAD with biosimilar suggestions.

@@ -1,0 +1,3 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/24/1864/001	1594432	trastuzumab 150 MG Injection	1922509	BROAD	Tuznue has no identified FDA-suffixed biosimilar equivalent; mapped to unbranded trastuzumab.	trastuzumab-xxxx 150 MG Injection [Tuznue]	2026-11-06
+EU/1/24/1864/002	1594431	trastuzumab Injection	1922508	BROAD	Tuznue has no identified FDA-suffixed biosimilar equivalent; mapped to unbranded trastuzumab. No matching 420 MG powder concept found in standard RxNorm or Extension.	trastuzumab-xxxx 420 MG Injection [Tuznue]	2026-11-06

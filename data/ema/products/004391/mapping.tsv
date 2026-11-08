@@ -1,3 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/17/1225/001	1560085	cobicistat 150 MG / darunavir 800 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Symtuza]	2049677	EXACT			2025-12-04
 EU/1/17/1225/002	1560085	cobicistat 150 MG / darunavir 800 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Symtuza]	2049677	EXACT			2025-12-04
+EU/1/17/1225/003	1560078	cobicistat / darunavir / emtricitabine / tenofovir alafenamide Oral Tablet	2049670	BROAD	New 675 MG darunavir strength is not equivalent to 800 MG. No matching four-ingredient strength concept found in standard RxNorm or Extension.	cobicistat 150 MG / darunavir 675 MG / emtricitabine 200 MG / tenofovir alafenamide 10 MG Oral Tablet [Symtuza]	2026-11-06

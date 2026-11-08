@@ -1,0 +1,18 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/25/1990/001	37002518	enzalutamide 40 MG Oral Tablet	2390644	EXACT			2026-11-06
+EU/1/25/1990/002	37002518	enzalutamide 40 MG Oral Tablet	2390644	EXACT			2026-11-06
+EU/1/25/1990/003	37002518	enzalutamide 40 MG Oral Tablet	2390644	EXACT			2026-11-06
+EU/1/25/1990/004	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-11-06
+EU/1/25/1990/005	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-11-06
+EU/1/25/1990/006	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-11-06
+EU/1/25/1990/007	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-11-06
+EU/1/25/1990/008	37002522	enzalutamide 80 MG Oral Tablet	2390648	EXACT			2026-11-06
+EU/1/25/1990/009	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06
+EU/1/25/1990/010	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06
+EU/1/25/1990/011	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06
+EU/1/25/1990/012	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06
+EU/1/25/1990/013	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06
+EU/1/25/1990/014	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06
+EU/1/25/1990/015	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06
+EU/1/25/1990/016	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06
+EU/1/25/1990/017	37002517	enzalutamide Oral Tablet	2390643	BROAD	No matching 160 MG tablet found in standard RxNorm or Extension; chosen concept omits strength.	enzalutamide 160 MG Oral Tablet	2026-11-06

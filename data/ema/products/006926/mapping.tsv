@@ -1,0 +1,3 @@
+ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+EU/1/26/2047/001	19080984	0.05 ML ranibizumab 10 MG/ML Injection	643193	BROAD	Biosimilar without a verified FDA-suffixed concept; mapped volume is the delivered 0.05 ML dose. Container fill exceeds the administered dose.	0.05 ML ranibizumab-xxxx 10 MG/ML Injection [Vislyfa]	2026-11-06
+EU/1/26/2047/002	1593222	0.05 ML ranibizumab 10 MG/ML Prefilled Syringe	1864423	BROAD	Biosimilar without a verified FDA-suffixed concept; mapped volume is the delivered 0.05 ML dose. Container fill exceeds the administered dose.	0.05 ML ranibizumab-xxxx 10 MG/ML Prefilled Syringe [Vislyfa]	2026-11-06

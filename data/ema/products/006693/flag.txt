@@ -1,0 +1,1 @@
+No strength/form clinical drug found in standard RxNorm or RxNorm Extension. Mapped BROAD to the Extension ingredient LERIGLITAZONE; suggestion uses the current EMA SmPC concentration 13.7 MG/ML (local presentation source gives 13.66 MG/ML).

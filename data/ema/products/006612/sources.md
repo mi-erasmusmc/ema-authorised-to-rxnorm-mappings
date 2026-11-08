@@ -1,0 +1,1 @@
+[EMA Enzalutamide Accordpharma product information](https://www.ema.europa.eu/en/documents/product-information/enzalutamide-accordpharma-epar-product-information_en.pdf) confirms the 160 mg film-coated tablet presentation. Standard and Extension searches found 40 and 80 mg tablets but no 160 mg tablet. The 160 mg rows therefore map BROAD to enzalutamide Oral Tablet.

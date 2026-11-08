@@ -1,0 +1,3 @@
+ma_number	issue	previous_comment	resolution
+EU/1/21/1604/001	MISLEADING_STRENGTH_RATIONALE	EMA labels delivered Riltrava strengths as 160/5/7.2; RxNorm encodes the matching 120-actuation metered inhaler as 160/4.8/9 with glycopyrrolate base.	Resolved: corrected glycopyrrolate basis to bromide; 7.2 micrograms glycopyrronium base = 9 micrograms glycopyrronium bromide. Existing concept and EXACT type retained.
+EU/1/21/1604/002	MISLEADING_STRENGTH_RATIONALE	EMA labels delivered Riltrava strengths as 160/5/7.2; RxNorm encodes the matching 120-actuation metered inhaler as 160/4.8/9 with glycopyrrolate base.	Resolved: corrected glycopyrrolate basis to bromide; 7.2 micrograms glycopyrronium base = 9 micrograms glycopyrronium bromide. Existing concept and EXACT type retained.

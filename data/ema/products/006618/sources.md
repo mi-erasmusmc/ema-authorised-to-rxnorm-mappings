@@ -1,0 +1,1 @@
+[EMA Ruxolitinib Viatris product information](https://www.ema.europa.eu/en/documents/product-information/ruxolitinib-viatris-epar-product-information_en.pdf) specifies ruxolitinib base content supplied as hemifumarate. The labelled 5, 10, 15 and 20 mg strengths map directly to unbranded ruxolitinib tablets.

@@ -1,2 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/22/1647/001	779169	leuprolide 42 MG Prefilled Syringe [Camcevi]	2595049	EXACT			2025-12-04
+EU/1/22/1647/002	779168	leuprolide Prefilled Syringe [Camcevi]	2595048	BROAD	21 MG is the three-month depot, distinct from 42 MG six-month depot; exact strength absent from standard RxNorm and Extension.	leuprolide 21 MG Prefilled Syringe [Camcevi]	2026-11-06

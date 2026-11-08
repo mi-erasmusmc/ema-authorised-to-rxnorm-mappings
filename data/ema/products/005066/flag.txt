@@ -1,0 +1,1 @@
+Both Tuznue presentations use BROAD unbranded trastuzumab because no matching FDA-suffixed biosimilar equivalent was identified. The 420 mg presentation also lacks an exact powder vial strength in standard RxNorm or Extension; its fallback omits strength. Suggestions name the missing biosimilar presentations.

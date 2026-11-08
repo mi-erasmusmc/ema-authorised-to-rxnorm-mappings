@@ -1,0 +1,1 @@
+Standard and Extension searches found only concentration-level epinephrine Nasal Spray concepts. These omit the clinically relevant 0.1 ML single-dose volume (1 or 2 MG delivered per spray), so mappings remain BROAD with volume-specific suggestions. The parsed presentations are EURneffy despite stale Neffy withdrawn-application metadata.

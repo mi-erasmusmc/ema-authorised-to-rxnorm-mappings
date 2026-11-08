@@ -1,4 +1,5 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/1998/001	742173	2 ML teplizumab-mzwv 1 MG/ML Injection [Tzield]	2621891	EXACT	EU brand name: Teizeild; US brand name: Tzield		2026-02-22
-EU/1/25/1998/002	742173	2 ML teplizumab-mzwv 1 MG/ML Injection [Tzield]	2621891	EXACT	EU brand name: Teizeild; US brand name: Tzield		2026-02-22
-EU/1/25/1998/003	742173	2 ML teplizumab-mzwv 1 MG/ML Injection [Tzield]	2621891	EXACT	EU brand name: Teizeild; US brand name: Tzield		2026-02-22
+EU/1/25/1998/001	742172	2 ML teplizumab-mzwv 1 MG/ML Injection	2621885	EXACT	US brand Tzield differs from EU Teizeild; unbranded same-ingredient presentation selected.		2026-11-06
+EU/1/25/1998/002	742172	2 ML teplizumab-mzwv 1 MG/ML Injection	2621885	EXACT	US brand Tzield differs from EU Teizeild; unbranded same-ingredient presentation selected.		2026-11-06
+EU/1/25/1998/003	742172	2 ML teplizumab-mzwv 1 MG/ML Injection	2621885	EXACT	US brand Tzield differs from EU Teizeild; unbranded same-ingredient presentation selected.		2026-11-06
+EU/1/25/1998/004	742000	teplizumab-mzwv 1 MG/ML Injection	2621886	BROAD	Single-use 0.5 ML vial; no volume-specific concept found in standard RxNorm or Extension. US brand Tzield differs from Teizeild.	0.5 ML teplizumab-mzwv 1 MG/ML Injection [Teizeild]	2026-11-06
