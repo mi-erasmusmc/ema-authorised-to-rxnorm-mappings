@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-813014	03264001	19068830	ibritumomab tiuxetan	262323	BROAD	Ingredient-level concept only; no clinical drug or kit form in RxNorm for the 1.6mg/mL radiopharmaceutical kit		2026-03-13
+813014	03264001	41343857	2 ML ibritumomab tiuxetan 1.6 MG/ML Injectable Solution [Zevalin]	OMOP2541819	BROAD	Kit contains a 2 ML precursor vial (3.2 MG), with no radionuclide included. Extension captures the precursor dose and volume but uses a multidose form and does not represent the full radiolabelling kit.	2 ML ibritumomab tiuxetan 1.6 MG/ML Injection [Zevalin]	2026-11-09
