@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-651587	66925	43185074	hexyl 5-aminolevulinate 1.7 MG/ML [Hexvix]	OMOP502979	BROAD			
+651587	66925	43185074	hexyl 5-aminolevulinate 1.7 MG/ML [Hexvix]	OMOP502979	BROAD	85 MG hexaminolevulinate base is reconstituted in 50 ML (1.7 MG/ML). Selected concept preserves ingredient, concentration and brand but omits the intravesical dose form.	50 ML hexyl 5-aminolevulinate 1.7 MG/ML Irrigation Solution [Hexvix]	2026-11-09

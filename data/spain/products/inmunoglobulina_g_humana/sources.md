@@ -1,0 +1,8 @@
+# Mapping evidence
+
+Reviewed 2026-11-09.
+
+- [EMA Hizentra authorised presentations](https://www.ema.europa.eu/es/documents/all-authorised-presentations/hizentra-epar-all-authorised-presentations_es.pdf): EU/1/11/687/002, /005, /011 and /012 are 5, 10, 20 and 20 mL glass vials, respectively. The corresponding Spain rows 677730, 677734, 677741 and 677742 therefore use Injection rather than Prefilled Syringe.
+- [EMA HyQvia product information](https://www.ema.europa.eu/en/documents/product-information/hyqvia-epar-product-information_en.pdf) and [FDA HyQvia label](https://www.fda.gov/media/89844/download?attachment=): the dual-vial product contains IgG 100 MG/ML and recombinant human hyaluronidase 160 UNT/ML. The five presentations pair 25/50/100/200/300 mL IgG with 1.25/2.5/5/10/15 mL hyaluronidase. Standard RxNorm branded pack concepts represent both components and their volumes. REVIEW_VOLUME warnings are suppressed for these five rows because the validator does not recognize the volume within a pack concept; each component has an explicit volume.
+- [AEMPS Gammagard S/D 5 g SmPC](https://cima.aemps.es/cima/dochtml/ft/60717/FichaTecnica_60717.html) and [10 g SmPC](https://cima.aemps.es/cima/dochtml/ft/60718/FichaTecnica_60718.html): powder can be reconstituted to 50 or 100 MG/ML. Total-dose branded Injection concepts preserve the powder vial strength without assuming a concentration; the previous 5 g mapping incorrectly used Flebogamma.
+- Hecate standard RxNorm and RxNorm Extension searches: the explicit 2 ML Immunoglobulin G 160 MG/ML Prefilled Syringe concept (41343099; OMOP2541061) captures the Beriglobina P presentation more precisely than the previous concentration-only Injectable Solution.

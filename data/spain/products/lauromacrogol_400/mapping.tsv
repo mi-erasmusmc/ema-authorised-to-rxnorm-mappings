@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-688234	55549	43765052	lauromacrogols Injectable Solution	OMOP949039	BROAD			
-688242	55550	43765052	lauromacrogols Injectable Solution	OMOP949039	BROAD			
-688259	55548	43765052	lauromacrogols Injectable Solution	OMOP949039	BROAD			
-728958	85261	43765052	lauromacrogols Injectable Solution	OMOP949039	BROAD			
+688234	55549	43258802	2 ML polidocanol 30 MG/ML Injection	OMOP561488	EXACT			2026-11-09
+688242	55550	43269728	2 ML polidocanol 20 MG/ML Injection	OMOP561478	EXACT			2026-11-09
+688259	55548	40175906	2 ML polidocanol 5 MG/ML Injection	968173	EXACT			2026-11-09
+728958	85261	40175902	2 ML polidocanol 10 MG/ML Injection	968181	EXACT			2026-11-09

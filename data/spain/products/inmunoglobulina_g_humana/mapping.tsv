@@ -7,7 +7,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 653707	05329003	40220524	50 ML immunoglobulin G, human 100 MG/ML Injection	1809414	EXACT			2026-03-12
 653708	05329004	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2026-03-12
 653711	05329005	40220544	200 ML immunoglobulin G, human 100 MG/ML Injection	1809444	EXACT			2026-03-12
-654773	46456	19011816	immunoglobulin G, human 160 MG/ML Injectable Solution	142061	BROAD	RxNorm does not expose an explicit 2 mL IM prefilled syringe presentation	2 ML immunoglobulin G, human 160 MG/ML Prefilled Syringe	2026-03-12
+654773	46456	41343099	2 ML Immunoglobulin G 160 MG/ML Prefilled Syringe	OMOP2541061	EXACT			2026-11-09
 660925	08446001	40220575	50 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809521	EXACT			2026-03-12
 660926	08446002	40220572	100 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809517	EXACT			2026-03-12
 660927	08446003	40220574	200 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809520	EXACT			2026-03-12
@@ -28,14 +28,14 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 665958	07404007	40220556	100 ML immunoglobulin G, human 100 MG/ML Injection [Flebogamma]	1809477	EXACT			2026-03-12
 665959	07404008	40220557	200 ML immunoglobulin G, human 100 MG/ML Injection [Flebogamma]	1809479	EXACT			2026-03-12
 677729	11687001	40220481	5 ML immunoglobulin G, human 200 MG/ML Injection [Hizentra]	1809077	EXACT			2026-11-09
-677730	11687002	37499786	5 ML immunoglobulin G, human 200 MG/ML Prefilled Syringe [Hizentra]	2268105	EXACT			2026-03-12
+677730	11687002	40220481	5 ML immunoglobulin G, human 200 MG/ML Injection [Hizentra]	1809077	EXACT	EMA authorised presentation number identifies a vial, not a prefilled syringe.		2026-11-09
 677733	11687004	40220475	10 ML immunoglobulin G, human 200 MG/ML Injection [Hizentra]	1809069	EXACT			2026-11-09
-677734	11687005	37499788	10 ML immunoglobulin G, human 200 MG/ML Prefilled Syringe [Hizentra]	2268109	EXACT			2026-03-12
+677734	11687005	40220475	10 ML immunoglobulin G, human 200 MG/ML Injection [Hizentra]	1809069	EXACT	EMA authorised presentation number identifies a vial, not a prefilled syringe.		2026-11-09
 677739	11687010	40220473	20 ML immunoglobulin G, human 200 MG/ML Injection [Hizentra]	1809067	EXACT			2026-11-09
-677741	11687011	37499825	20 ML immunoglobulin G, human 200 MG/ML Prefilled Syringe [Hizentra]	2287159	EXACT			2026-03-12
-677742	11687012	37499825	20 ML immunoglobulin G, human 200 MG/ML Prefilled Syringe [Hizentra]	2287159	EXACT			2026-03-12
-685636	60718	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2026-03-12
-685644	60717	40220547	50 ML immunoglobulin G, human 50 MG/ML Injection [Flebogamma]	1809448	EXACT			2026-03-12
+677741	11687011	40220473	20 ML immunoglobulin G, human 200 MG/ML Injection [Hizentra]	1809067	EXACT	EMA authorised presentation number identifies a vial, not a prefilled syringe.		2026-11-09
+677742	11687012	40220473	20 ML immunoglobulin G, human 200 MG/ML Injection [Hizentra]	1809067	EXACT	EMA authorised presentation number identifies a vial, not a prefilled syringe.		2026-11-09
+685636	60718	40220643	immunoglobulin G, human 10000 MG Injection [Gammagard]	1809738	EXACT	Lyophilised Gammagard S/D may be reconstituted to 50 or 100 MG/ML; mapped by total vial dose.		2026-11-09
+685644	60717	40220639	immunoglobulin G, human 5000 MG Injection [Gammagard]	1809730	EXACT	Lyophilised Gammagard S/D may be reconstituted to 50 or 100 MG/ML; mapped by total vial dose.		2026-11-09
 694359	76722	40220524	50 ML immunoglobulin G, human 100 MG/ML Injection	1809414	EXACT			2026-03-28
 694360	76722	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2026-03-28
 694361	76722	40220544	200 ML immunoglobulin G, human 100 MG/ML Injection	1809444	EXACT			2026-03-28
@@ -47,16 +47,16 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 700215	78159	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2026-03-28
 700216	78159	40220544	200 ML immunoglobulin G, human 100 MG/ML Injection	1809444	EXACT			2026-11-09
 700339	108446007	40220577	400 ML immunoglobulin G, human 100 MG/ML Injection [Privigen]	1809525	EXACT			2025-12-04
-711153	113840003	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2025-12-04
-711154	113840004	40220544	200 ML immunoglobulin G, human 100 MG/ML Injection	1809444	EXACT			2025-12-04
-711155	113840005	40220583	300 ML immunoglobulin G, human 100 MG/ML Injection	1809539	EXACT			2025-12-04
-711156	113840002	40220524	50 ML immunoglobulin G, human 100 MG/ML Injection	1809414	EXACT			2025-12-04
+711153	113840003	45777068	{1 (100 ML immunoglobulin G, human 100 MG/ML Injection) / 1 (5 ML hyaluronidase, human recombinant 160 UNT/ML Injection) } Pack [Hyqvia 10 G / 100 ML Kit]	1549694	EXACT	Dual-vial presentation includes recombinant human hyaluronidase 160 UNT/ML; pack concept represents both components.		2026-11-09
+711154	113840004	45777070	{1 (10 ML hyaluronidase, human recombinant 160 UNT/ML Injection) / 1 (200 ML immunoglobulin G, human 100 MG/ML Injection) } Pack [Hyqvia 20 G / 200 ML Kit]	1549696	EXACT	Dual-vial presentation includes recombinant human hyaluronidase 160 UNT/ML; pack concept represents both components.		2026-11-09
+711155	113840005	45777062	{1 (15 ML hyaluronidase, human recombinant 160 UNT/ML Injection) / 1 (300 ML immunoglobulin G, human 100 MG/ML Injection) } Pack [Hyqvia 30 G / 300 ML Kit]	1549688	EXACT	Dual-vial presentation includes recombinant human hyaluronidase 160 UNT/ML; pack concept represents both components.		2026-11-09
+711156	113840002	45777066	{1 (2.5 ML hyaluronidase, human recombinant 160 UNT/ML Injection) / 1 (50 ML immunoglobulin G, human 100 MG/ML Injection) } Pack [Hyqvia 5 G / 50 ML Kit]	1549692	EXACT	Dual-vial presentation includes recombinant human hyaluronidase 160 UNT/ML; pack concept represents both components.		2026-11-09
 711529	81045	35202029	10 ML immune globulin intravenous (human) - ifas 100 MG/ML Injection [Panzyga]	2102440	EXACT			2026-03-28
 711530	81045	35202031	25 ML immune globulin intravenous (human) - ifas 100 MG/ML Injection [Panzyga]	2102456	EXACT			2026-03-28
 711533	81045	35202033	50 ML immune globulin intravenous (human) - ifas 100 MG/ML Injection [Panzyga]	2102460	EXACT			2026-03-28
 711535	81045	35202035	100 ML immune globulin intravenous (human) - ifas 100 MG/ML Injection [Panzyga]	2102464	EXACT			2026-03-28
 711537	81045	35202037	200 ML immune globulin intravenous (human) - ifas 100 MG/ML Injection [Panzyga]	2102470	EXACT			2026-03-28
-712095	113840001	40220540	25 ML immunoglobulin G, human 100 MG/ML Injection	1809438	EXACT	HyQvia IgG+hyaluronidase combination; mapped to IgG component only for consistency with other HyQvia rows in this folder		2026-03-28
+712095	113840001	45777064	{1 (1.25 ML hyaluronidase, human recombinant 160 UNT/ML Injection) / 1 (25 ML immunoglobulin G, human 100 MG/ML Injection) } Pack [Hyqvia 2.5 G / 25 ML Kit]	1549690	EXACT	Dual-vial presentation includes recombinant human hyaluronidase 160 UNT/ML; pack concept represents both components.		2026-11-09
 714435	80737	40220529	100 ML immunoglobulin G, human 100 MG/ML Injection	1809421	EXACT			2026-03-28
 715504	80737	40220558	20 ML immunoglobulin G, human 100 MG/ML Injection	1809497	EXACT			2026-03-28
 715505	80737	40220524	50 ML immunoglobulin G, human 100 MG/ML Injection	1809414	EXACT			2026-03-28
