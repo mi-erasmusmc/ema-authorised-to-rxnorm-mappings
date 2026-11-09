@@ -9,4 +9,4 @@ Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Aumseqa as monotherapy is indicated for:- the first-line treatment of adult patients with advanced non-small cell lung cancer (NSCLC)whose tumours have EGFR exon 19 deletions or exon 21 (L858R) substitution mutations (forbiomarker-based patient selection, see section 4.2).- the treatment of adult patients with advanced EGFR T790M mutation-positive NSCLC (forbiomarker-based patient selection, see section 4.2)
 Biosimilar: No
 Generic or hybrid: 
-Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aumseqa
+Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/aumseqa-0
