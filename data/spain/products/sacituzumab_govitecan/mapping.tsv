@@ -1,2 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 732220	1211592001	1145503	sacituzumab govitecan-hziy 180 MG Injection [Trodelvy]	2360539	BROAD	EU product is 200 mg; FDA is 180 mg; no 200 mg concept exists	sacituzumab govitecan-hziy 200 MG Injection [Trodelvy]	2026-02-14
+770604	1211592001IP	1145501	sacituzumab Injection [Trodelvy]	2360537	BROAD	Spanish vial is labelled 200 MG; available strength-specific RxNorm concept is 180 MG.	sacituzumab govitecan-hziy 200 MG Injection [Trodelvy]	2026-11-09

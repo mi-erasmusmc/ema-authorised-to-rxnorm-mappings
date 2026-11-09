@@ -7,4 +7,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 698834	77809	19103390	racecadotril 100 MG Oral Capsule	410316	EXACT			2026-03-12
 762306	88685	36786352	racecadotril Oral Suspension	OMOP4774624	BROAD	No concentration-specific RxNorm concept for racecadotril 4 MG/ML oral suspension.	racecadotril 4 MG/ML Oral Suspension	2026-05-10
 762307	88685	36786352	racecadotril Oral Suspension	OMOP4774624	BROAD	No concentration-specific RxNorm concept for racecadotril 4 MG/ML oral suspension.	racecadotril 4 MG/ML Oral Suspension	2026-05-10
+770099	3400933496777	19103390	racecadotril 100 MG Oral Capsule	410316	EXACT			2026-11-09
 895805	63286	19103390	racecadotril 100 MG Oral Capsule	410316	EXACT			2026-03-12

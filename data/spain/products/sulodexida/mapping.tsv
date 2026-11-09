@@ -1,5 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 703003	78901	42962447	sulodexide Oral Capsule	OMOP4688938	BROAD	Standard RxNorm lacks sulodexide; RxNorm Extension only provides the generic oral-capsule concept.	sulodexide 300 UNT Oral Capsule [Dovida]	2026-03-30
 720407	82783	35870949	sulodexide Injectable Solution	OMOP5027726	BROAD	Standard RxNorm lacks sulodexide; RxNorm Extension only provides the generic injectable-solution concept.	2 ML sulodexide 30 MG/ML Injection [Aterina]	2026-03-30
+767134	90202	42962443	sulodexide 250 UNT Oral Capsule	OMOP4688934	EXACT	25 mg sulodexide corresponds to 250 lipasemic units (ULS) in the source clinical description.		2026-11-09
 949438	55545	42962447	sulodexide Oral Capsule	OMOP4688938	BROAD	Standard RxNorm lacks sulodexide; RxNorm Extension only provides the generic oral-capsule concept.	sulodexide 150 UNT Oral Capsule [Aterina]	2026-03-30
 957902	56134	35870949	sulodexide Injectable Solution	OMOP5027726	BROAD	Standard RxNorm lacks sulodexide; RxNorm Extension only provides the generic injectable-solution concept.	4 ML sulodexide 7.5 MG/ML Injection [Aterina]	2026-03-30

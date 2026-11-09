@@ -18,29 +18,29 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 696605	77083	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 696669	77105	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 696670	77105	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
+696701	77121	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
+696702	77121	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 696990	77189	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 696991	77189	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
+697221	77251	19080242	rizatriptan 10 MG Oral Tablet	314209	EXACT			2026-03-12
+697223	77251	19080242	rizatriptan 10 MG Oral Tablet	314209	EXACT			2026-03-12
 697239	77259	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 697240	77259	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 697658	77423	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 697659	77423	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 697664	77426	19080242	rizatriptan 10 MG Oral Tablet	314209	EXACT			2026-03-13
 697665	77426	19080242	rizatriptan 10 MG Oral Tablet	314209	EXACT			2026-03-13
+698782	77798	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 704171	62289	1154079	rizatriptan 10 MG Oral Tablet [Maxalt]	213322	EXACT			2026-03-13
 704536	62291	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-03-13
 704544	62291	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-03-13
+707025	80020	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
+707027	80020	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 711281	76309	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 716248	82067	19080242	rizatriptan 10 MG Oral Tablet	314209	EXACT			2026-03-13
 720558	82825	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
-723367	82825	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
-696701	77121	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
-696702	77121	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
-697221	77251	19080242	rizatriptan 10 MG Oral Tablet	314209	EXACT			2026-03-12
-697223	77251	19080242	rizatriptan 10 MG Oral Tablet	314209	EXACT			2026-03-12
-698782	77798	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
-707025	80020	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
-707027	80020	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 721157	10-8012	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-03-12
+723367	82825	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 723910	83547	1154080	rizatriptan 10 MG Disintegrating Oral Tablet	312837	EXACT			2026-03-12
 723985	3400934794407	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-03-12
 723986	3400934794407	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-03-12
@@ -53,4 +53,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 767829	433650100IP	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-03-12
 769015	433630100IP1	1154079	rizatriptan 10 MG Oral Tablet [Maxalt]	213322	EXACT			2026-03-12
 769247	034115117IP	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-03-12
+769715	034115117IP1	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-11-09
+769716	034115117IP1	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-11-09
 769876	3400934794407IP	1154117	rizatriptan 10 MG Disintegrating Oral Tablet [Maxalt]	828537	EXACT			2026-03-22

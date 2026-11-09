@@ -1,3 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 703830	79102	19059405	germanium	4784	BROAD	No RxNorm concept for germanium-68 chloride (generator radionuclide precursor); mapped to germanium ingredient		2026-03-13
 724096	83618	19059405	germanium	4784	BROAD	No RxNorm concept for germanium-68 chloride (generator radionuclide precursor); mapped to germanium ingredient		2026-03-13
+766222	1241836001	19059405	germanium	4784	BROAD	Germanium ingredient only; isotope, chloride salt and generator activity are not represented.	germanium Ge-68 chloride 1.11 GBQ Injection [GalliaPharm]	2026-11-09
+766223	1241836002	19059405	germanium	4784	BROAD	Germanium ingredient only; isotope, chloride salt and generator activity are not represented.	germanium Ge-68 chloride 1.48 GBQ Injection [GalliaPharm]	2026-11-09
+766224	1241836003	19059405	germanium	4784	BROAD	Germanium ingredient only; isotope, chloride salt and generator activity are not represented.	germanium Ge-68 chloride 1.85 GBQ Injection [GalliaPharm]	2026-11-09
+766225	1241836004	19059405	germanium	4784	BROAD	Germanium ingredient only; isotope, chloride salt and generator activity are not represented.	germanium Ge-68 chloride 2.22 GBQ Injection [GalliaPharm]	2026-11-09
+766226	1241836005	19059405	germanium	4784	BROAD	Germanium ingredient only; isotope, chloride salt and generator activity are not represented.	germanium Ge-68 chloride 2.59 GBQ Injection [GalliaPharm]	2026-11-09
+766227	1241836006	19059405	germanium	4784	BROAD	Germanium ingredient only; isotope, chloride salt and generator activity are not represented.	germanium Ge-68 chloride 2.96 GBQ Injection [GalliaPharm]	2026-11-09
+766228	1241836007	19059405	germanium	4784	BROAD	Germanium ingredient only; isotope, chloride salt and generator activity are not represented.	germanium Ge-68 chloride 3.33 GBQ Injection [GalliaPharm]	2026-11-09
+766229	1241836008	19059405	germanium	4784	BROAD	Germanium ingredient only; isotope, chloride salt and generator activity are not represented.	germanium Ge-68 chloride 3.70 GBQ Injection [GalliaPharm]	2026-11-09

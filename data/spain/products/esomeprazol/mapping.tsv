@@ -239,6 +239,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768715	63437	904458	esomeprazole 40 MG Delayed Release Oral Tablet	433787	EXACT			2026-03-12
 768716	63436	35606348	esomeprazole 20 MG Delayed Release Oral Tablet [Nexium]	1743279	EXACT			2026-03-12
 768847	034972442IP1	904458	esomeprazole 40 MG Delayed Release Oral Tablet	433787	EXACT			2026-03-22
+768966	034972291IP1	35606348	esomeprazole 20 MG Delayed Release Oral Tablet [Nexium]	1743279	EXACT			2026-11-09
+768967	034972442IP2	904458	esomeprazole 40 MG Delayed Release Oral Tablet	433787	EXACT			2026-11-09
 768977	BE215826IP1	35606348	esomeprazole 20 MG Delayed Release Oral Tablet [Nexium]	1743279	EXACT			2026-03-12
 768978	BE215887IP1	904458	esomeprazole 40 MG Delayed Release Oral Tablet	433787	EXACT			2026-03-12
 769092	90745	904457	esomeprazole 20 MG Delayed Release Oral Tablet	433733	EXACT			2026-05-13

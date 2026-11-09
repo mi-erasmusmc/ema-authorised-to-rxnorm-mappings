@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-696864	51864				NO_MAPPING	Flupamesone not in RxNorm; EU/Spain-only corticosteroid	flupamesone 3 MG/G Topical Ointment	2026-03-30
-696898	51862				NO_MAPPING	Flupamesone not in RxNorm; EU/Spain-only corticosteroid	flupamesone 3 MG/G Topical Cream	2026-03-30
-758813	51862				NO_MAPPING	Flupamesone not in RxNorm; EU/Spain-only corticosteroid	flupamesone 3 MG/G Topical Cream	2026-03-30
-758888	51864				NO_MAPPING	Flupamesone not in RxNorm; EU/Spain-only corticosteroid	flupamesone 3 MG/G Topical Ointment	2026-03-30
+696864	51864				NO_MAPPING	No flupamesone concept found in RxNorm or Extension; do not substitute another corticosteroid.	flupamesone 0.003 MG/MG Topical Ointment [Flutenal]	2026-11-09
+696898	51862				NO_MAPPING	No flupamesone concept found in RxNorm or Extension; do not substitute another corticosteroid.	flupamesone 0.003 MG/MG Topical Cream [Flutenal]	2026-11-09
+758813	51862				NO_MAPPING	No flupamesone concept found in RxNorm or Extension; do not substitute another corticosteroid.	flupamesone 0.003 MG/MG Topical Cream [Flutenal]	2026-11-09
+758888	51864				NO_MAPPING	No flupamesone concept found in RxNorm or Extension; do not substitute another corticosteroid.	flupamesone 0.003 MG/MG Topical Ointment [Flutenal]	2026-11-09

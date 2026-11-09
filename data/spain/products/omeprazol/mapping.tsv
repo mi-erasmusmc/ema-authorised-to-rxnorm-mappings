@@ -1,25 +1,40 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 600136	66602	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 600140	62764	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+600258	66870	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
 600259	66871	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
 600631	67270	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
 600758	68132	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 602949	62757	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 605122	63916	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+605586	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+605587	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 605841	63983	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 606791	81392	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 607135	63710	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+614156	64753	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 620021	65186	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 622845	65823	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+624080	63363	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+627604	65013	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 634253	65095	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+646992	60023	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 647206	59842	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+650231	63363	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 650393	65569	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT	upgraded from ingredient-level BROAD		2026-03-12
 650576	59807	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+650578	60023	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+650582	65013	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+650631	70290	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 650793	66602	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 650794	66602	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+650795	66603	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+650798	66603	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 651175	65517	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT	upgraded from ingredient-level BROAD		2026-03-12
 651233	65569	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT	upgraded from ingredient-level BROAD		2026-03-12
 651300	64186	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT	upgraded from ingredient-level BROAD		2026-03-12
+651498	70290	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+651506	70288	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 652672	67222	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 652788	67273	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 652789	67273	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
@@ -37,6 +52,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656283	65686	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 656295	68132	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 656296	68132	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+656607	66253	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+656613	63363	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+656688	65573	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+656689	63909	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+656780	63909	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 656899	64375	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 656902	64375	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 656914	68788	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -62,11 +82,23 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 659796	69233	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
 660281	69487	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 660285	69487	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+660535	63395	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+660536	63395	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 660573	67270	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
 661036	66871	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
+661651	68884	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+661861	70257	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
+661889	70259	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+661891	70258	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 665561	72532	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 665563	72532	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 672723	65094	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+673055	63429	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+673059	63429	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+673060	68789	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+673062	68789	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+673064	68884	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+673066	68794	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 673232	72145	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 673261	64186	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT	upgraded from ingredient-level BROAD		2026-03-12
 673606	72146	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
@@ -77,6 +109,19 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 673623	63916	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 674751	72679	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 674753	72679	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+680051	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+680053	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+680065	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+680067	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+680071	73995	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+680073	73995	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+680178	74013	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
+680209	74014	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+680242	74015	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+682677	74512	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+682678	74512	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+682679	74512	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+682680	74512	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 687440	74958	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 692442	63908	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 694126	58428	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -92,14 +137,22 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 697092	68788	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 697093	68788	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 697095	69211	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT	upgraded from ingredient-level BROAD		2026-03-12
+697135	70290	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+697136	70288	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 697226	74795	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 697227	74795	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 697228	74795	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 697229	74795	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+697549	77388	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 698125	68793	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 698128	68890	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 698722	64881	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+699030	77389	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+699099	77846	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 701516	64375	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+701729	78543	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+701732	78543	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+701733	78543	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 702405	65823	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 702406	65823	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 702408	65823	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -108,6 +161,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 704613	69139	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 705040	63203	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 705051	79486	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+705057	79487	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 705832	64186	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT	upgraded from ingredient-level BROAD		2026-03-12
 705833	65569	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT	upgraded from ingredient-level BROAD		2026-03-12
 706086	64186	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT	upgraded from ingredient-level BROAD		2026-03-12
@@ -117,6 +171,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 706633	63983	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 706914	79978	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 706915	79979	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+707695	63230	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+707703	63230	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 707874	80247	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 707878	80247	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 707941	80253	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -126,8 +182,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 709503	62763	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 709504	62763	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 709818	63983	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+710046	65573	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 711043	65653	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 711045	69139	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+711218	65573	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 711663	79979	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 711664	79979	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 711665	79978	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
@@ -140,6 +198,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 712886	69487	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 712890	81297	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 712892	81297	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+712899	81298	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 712909	63908	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 713510	81391	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
 713516	81392	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -150,6 +209,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 713524	81393	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 713525	81393	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 713527	81393	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+715003	60013	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 716122	65653	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 716123	65653	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 717034	79979	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -169,6 +229,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 723578	66602	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 723754	68132	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 724151	83628	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+724157	83628	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-11-09
 724202	64881	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 724204	64881	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 724771	80990	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -183,6 +244,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 731054	62757	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 731060	62757	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 732364	86429	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+732545	64753	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 732547	86474	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT	corrected from esomeprazole; product is omeprazol		2026-03-12
 732553	64375	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 732554	64375	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -199,19 +261,25 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 767491	63908	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 767509	63908	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 767904	64004	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+767906	64004	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-04-01
 767907	65095	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 767908	66602	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
+771530	89376	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-11-09
+776120	63395	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 778894	63916	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+780254	63395	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 781211	63916	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 786947	63917	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 834655	63710	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 834697	63710	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+837641	65013	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
 874289	63983	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 874305	63983	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 877597	65093	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 877613	65093	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 877662	65093	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 879304	62757	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+880146	63992	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 881102	58786	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 882647	65094	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 882860	65095	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
@@ -227,89 +295,23 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 888891	63301	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 888958	63301	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 889006	58466	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+889170	58383	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 889592	62763	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 889618	59842	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 890459	59842	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-891978	58377	19003320	omeprazole 20 MG Delayed Release Oral Capsule [Losec]	104099	EXACT			2026-03-12
-894006	58382	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-901413	62764	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-908285	64004	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-934497	65519	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
-959650	63203	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-960526	63203	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-600258	66870	21161812	Omeprazole 40 MG Injection	OMOP385419	EXACT	upgraded from BROAD; single-use powder for infusion matches Injection dose form		2026-03-12
-605586	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-605587	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-614156	64753	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-624080	63363	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-627604	65013	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-646992	60023	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-650231	63363	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-650578	60023	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-650582	65013	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-650631	70290	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-650795	66603	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-650798	66603	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-651498	70290	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-651506	70288	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-656607	66253	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-656613	63363	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-656688	65573	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-656689	63909	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-656780	63909	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-660535	63395	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-660536	63395	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-661651	68884	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-661861	70257	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
-661889	70259	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-661891	70258	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-673055	63429	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-673059	63429	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-673060	68789	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-673062	68789	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-673064	68884	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-673066	68794	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-680051	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-680053	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-680065	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-680067	73994	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-680071	73995	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-680073	73995	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-680178	74013	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
-680209	74014	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-680242	74015	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-682677	74512	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-682678	74512	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-682679	74512	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-682680	74512	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-697135	70290	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-697136	70288	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-697549	77388	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-699030	77389	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-699099	77846	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-701729	78543	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-701732	78543	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-701733	78543	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-705057	79487	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-707695	63230	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-707703	63230	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-710046	65573	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-711218	65573	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-712899	81298	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-715003	60013	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-732545	64753	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-776120	63395	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-780254	63395	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-837641	65013	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-880146	63992	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
-889170	58383	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 890509	58696	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 890517	58696	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 890525	60098	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+891978	58377	19003320	omeprazole 20 MG Delayed Release Oral Capsule [Losec]	104099	EXACT			2026-03-12
 893917	60009	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+894006	58382	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+901413	62764	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+908285	64004	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 913483	60023	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 923722	65515	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
 928689	65516	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
+934497	65519	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
+959650	63203	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
+960526	63203	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-03-12
 999735	65516	923647	omeprazole 10 MG Delayed Release Oral Capsule	199119	EXACT			2026-03-12
 999908	64753	19023551	omeprazole 40 MG Delayed Release Oral Capsule	200329	EXACT			2026-03-12
-767906	64004	19019418	omeprazole 20 MG Delayed Release Oral Capsule	198051	EXACT			2026-04-01

@@ -25,6 +25,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 733082	86665	19019112	lorazepam 0.5 MG Oral Tablet	197900	EXACT			2026-03-12
 748848	55103	40000862	lorazepam Oral Tablet	372647	BROAD	No 5 MG lorazepam oral tablet in RxNorm	lorazepam 5 MG Oral Tablet	2026-03-12
 763108	88965	19019114	lorazepam 2 MG Oral Tablet	197902	EXACT			2026-03-12
+767499	90286	19019112	lorazepam 0.5 MG Oral Tablet	197900	EXACT			2026-11-09
 767500	90287	19019113	lorazepam 1 MG Oral Tablet	197901	EXACT			2026-03-12
 767501	90287	19019113	lorazepam 1 MG Oral Tablet	197901	EXACT			2026-03-12
 768033	55102	19019113	lorazepam 1 MG Oral Tablet	197901	EXACT			2026-03-12

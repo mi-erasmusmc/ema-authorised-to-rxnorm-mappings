@@ -7,6 +7,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 729237	1201462001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
 730008	85653	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2026-03-12
 741854	1221628001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-762444	1161159004	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-849844	03247001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2026-03-12
 762345	1221697001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2026-04-16
+762444	1161159004	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
+768000	1221710003	2920074	teriparatide 0.25 MG/ML Cartridge	OMOP5136893	BROAD	No FDA biosimilar suffix established for Kauliv; cartridge volume not represented.	3 ML teriparatide-xxxx 0.25 MG/ML Cartridge [Kauliv]	2026-11-09
+770989	1161159004IP	42921785	2.4 ML Teriparatide 0.25 MG/ML Pen Injector	OMOP4648605	BROAD	No FDA biosimilar suffix established for Terrosa.	2.4 ML teriparatide-xxxx 0.25 MG/ML Pen Injector [Terrosa]	2026-11-09
+849844	03247001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2026-03-12

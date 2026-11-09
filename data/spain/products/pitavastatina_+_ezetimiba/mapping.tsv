@@ -1,0 +1,3 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+769994	91034	40165646	pitavastatin calcium 4 MG Oral Tablet	861652	BROAD	Combination absent in RxNorm and Extension; preserves pitavastatin strength but omits ezetimibe and capsule form.	ezetimibe 10 MG / pitavastatin 4 MG Oral Capsule [Ezelpix]	2026-11-09
+769995	91035	40165642	pitavastatin calcium 2 MG Oral Tablet	861648	BROAD	Combination absent in RxNorm and Extension; preserves pitavastatin strength but omits ezetimibe and capsule form.	ezetimibe 10 MG / pitavastatin 2 MG Oral Capsule [Ezelpix]	2026-11-09

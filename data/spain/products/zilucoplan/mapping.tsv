@@ -2,3 +2,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 763945	1231764001	42609713	0.416 ML zilucoplan 40 MG/ML Prefilled Syringe [Zilbrysq]	2672502	EXACT			2025-12-04
 763947	1231764003	42609715	0.574 ML zilucoplan 40 MG/ML Prefilled Syringe [Zilbrysq]	2672505	EXACT			2025-12-04
 763948	1231764005	42609717	0.81 ML zilucoplan 40 MG/ML Prefilled Syringe [Zilbrysq]	2672507	EXACT			2025-12-04
+770870	1231764007	42609713	0.416 ML zilucoplan 40 MG/ML Prefilled Syringe [Zilbrysq]	2672502	BROAD	Spanish source identifies a prefilled pen; matching dose is available as a prefilled syringe.	0.416 ML zilucoplan 40 MG/ML Auto-Injector [Zilbrysq]	2026-11-09
+770871	1231764009	42609715	0.574 ML zilucoplan 40 MG/ML Prefilled Syringe [Zilbrysq]	2672505	BROAD	Spanish source identifies a prefilled pen; matching dose is available as a prefilled syringe.	0.574 ML zilucoplan 40 MG/ML Auto-Injector [Zilbrysq]	2026-11-09
+770872	1231764011	42609717	0.81 ML zilucoplan 40 MG/ML Prefilled Syringe [Zilbrysq]	2672507	BROAD	Spanish source identifies a prefilled pen; matching dose is available as a prefilled syringe.	0.81 ML zilucoplan 40 MG/ML Auto-Injector [Zilbrysq]	2026-11-09

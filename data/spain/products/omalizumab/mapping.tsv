@@ -1,8 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+662443	05319005	35202005	0.5 ML omalizumab 150 MG/ML Prefilled Syringe	2058949	EXACT			2026-03-12
+662444	05319008	35202003	1 ML omalizumab 150 MG/ML Prefilled Syringe	2058943	EXACT			2026-03-12
 765685	1241817001	37355199	0.5 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2726011	EXACT			2026-03-12
 765686	1241817002	37355197	1 ML omalizumab-igec 150 MG/ML Prefilled Syringe [Omlyclo]	2726008	EXACT			2026-03-12
 768001	1241817006	42609726	1 ML omalizumab 150 MG/ML Auto-Injector	2673760	BROAD		1 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-03-12
 768002	1241817005	42609728	0.5 ML omalizumab 150 MG/ML Auto-Injector	2673762	BROAD		0.5 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-03-12
 768502	1241817006	42609726	1 ML omalizumab 150 MG/ML Auto-Injector	2673760	BROAD		1 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-03-12
-662443	05319005	35202005	0.5 ML omalizumab 150 MG/ML Prefilled Syringe	2058949	EXACT			2026-03-12
-662444	05319008	35202003	1 ML omalizumab 150 MG/ML Prefilled Syringe	2058943	EXACT			2026-03-12
+770196	1241817014	1317523	2 ML omalizumab-igec 150 MG/ML Prefilled Syringe	2735283	EXACT			2026-11-09
+770507	1241817018	1317523	2 ML omalizumab-igec 150 MG/ML Prefilled Syringe	2735283	BROAD	Omlyclo is omalizumab-igec; preserves 300 MG dose and 2 ML volume but auto-injector device is not represented for the suffix.	2 ML omalizumab-igec 150 MG/ML Auto-Injector [Omlyclo]	2026-11-09

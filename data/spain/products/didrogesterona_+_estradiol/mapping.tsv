@@ -1,0 +1,4 @@
+cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+724640	83782	42731743	{14 (Dydrogesterone 10 MG / Estradiol 2 MG Oral Tablet) / 14 (Estradiol 2 MG Oral Tablet) } Pack	OMOP2728325	EXACT	Sequential 28-day pack contains 14 estradiol-only 2 mg tablets and 14 dydrogesterone 10 mg/estradiol 2 mg tablets per AEMPS SmPC.		2026-11-09
+724692	83800	1548802	dydrogesterone 5 MG / estradiol 1 MG Oral Tablet	427111	EXACT			2026-11-09
+724695	83801	21021203	Dydrogesterone 2.5 MG / Estradiol 0.5 MG Oral Tablet	OMOP408391	EXACT			2026-11-09

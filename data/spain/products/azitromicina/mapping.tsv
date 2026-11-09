@@ -1,7 +1,10 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 601443	65614	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 601666	65621	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+602078	65633	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 602144	65634	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+602417	65636	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+602441	65637	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
 602482	65640	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 602508	66065	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 602656	65642	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
@@ -10,13 +13,19 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 606280	78030	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 629261	65546	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 649327	61272	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+650839	65649	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 651209	65638	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 652890	67335	19073777	azithromycin 250 MG Oral Tablet	308460	EXACT			2026-03-12
 652900	67340	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 653114	65642	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 653122	65643	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+653192	65752	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 653193	65753	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 653270	65606	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+653271	65604	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
+653272	65605	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+653273	65611	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+653274	65611	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 653406	65640	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 653409	65643	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 656880	65615	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
@@ -28,9 +37,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 662377	70534	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 662378	70533	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 663312	66065	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+663314	66068	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+663315	66067	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+663316	66067	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 665041	71180	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 665142	71180	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+665211	71182	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+665212	71182	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 672570	73597	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+672608	70518	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 672698	72906	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 672699	72909	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 676635	61272	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
@@ -38,79 +53,65 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 693770	59615	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 694336	76718	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 698033	77507	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+698034	77508	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+698035	77508	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 698470	77692	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+699785	60066	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+699793	60065	40164101	azithromycin 1000 MG Powder for Oral Suspension	861416	EXACT			2026-03-12
 699828	78030	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 699829	78030	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+701771	65544	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
 702118	65546	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 702241	65547	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+702894	65548	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+702902	65548	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 703020	78906	19073777	azithromycin 250 MG Oral Tablet	308460	EXACT			2026-03-12
 703021	78907	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 703561	65549	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 704247	65549	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-706943	78030	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-713582	81428	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-718772	82366	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-721514	59615	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-721951	65600	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-725721	65614	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-726059	65617	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-726125	65617	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-726331	65621	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-728330	85006	35603389	azithromycin 500 MG Injection	1668238	EXACT	Single-use IV powder-for-infusion vial aligns to Injection.		2026-03-31
-728881	65634	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-752790	65714	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-764514	65748	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-767475	64834	35603389	azithromycin 500 MG Injection	1668238	EXACT	Single-use IV powder-for-infusion vial aligns to Injection.		2026-03-31
-781583	59615	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-781591	59616	1734107	azithromycin 250 MG Oral Capsule	141962	EXACT			2026-03-12
-602078	65633	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
-602417	65636	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
-602441	65637	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
-650839	65649	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-653192	65752	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-653271	65604	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
-653272	65605	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
-653273	65611	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-653274	65611	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-663314	66068	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
-663315	66067	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-663316	66067	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-665211	71182	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-665212	71182	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-672608	70518	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
-698034	77508	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-698035	77508	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-699785	60066	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
-699793	60065	40164101	azithromycin 1000 MG Powder for Oral Suspension	861416	EXACT			2026-03-12
-701771	65544	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
-702894	65548	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
-702902	65548	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 704908	65550	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 705558	65553	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
 705566	65554	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 705574	65555	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 705772	65556	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 706846	65557	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+706943	78030	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 707125	65561	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 707182	65562	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 707380	65562	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+713582	81428	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 718769	82363	19073777	azithromycin 250 MG Oral Tablet	308460	EXACT			2026-03-12
 718770	82364	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 718771	82365	19073777	azithromycin 250 MG Oral Tablet	308460	EXACT			2026-03-12
+718772	82366	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+721514	59615	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+721951	65600	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 722363	65601	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 725390	65612	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
 725697	65613	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+725721	65614	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 725937	65616	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+726059	65617	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+726125	65617	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 726141	65618	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
+726331	65621	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
+728330	85006	35603389	azithromycin 500 MG Injection	1668238	EXACT	Single-use IV powder-for-infusion vial aligns to Injection.		2026-03-31
 728741	65633	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+728881	65634	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 729210	65636	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 729244	65637	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12
 733444	65648	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
 733451	65648	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+752790	65714	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 753111	65716	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+764514	65748	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 764522	65749	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 764530	65750	1734134	azithromycin 500 MG Oral Tablet	248656	EXACT			2026-03-12
 764589	65751	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 764647	65756	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
 765057	65758	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 500 MG Powder for Oral Suspension	2026-03-12
+767475	64834	35603389	azithromycin 500 MG Injection	1668238	EXACT	Single-use IV powder-for-infusion vial aligns to Injection.		2026-03-31
+769753	73962	35603389	azithromycin 500 MG Injection	1668238	EXACT	Single-use IV powder-for-infusion vial aligns to Injection.		2026-11-09
+781583	59615	1734108	azithromycin 40 MG/ML Oral Suspension	141963	EXACT			2026-03-12
+781591	59616	1734107	azithromycin 250 MG Oral Capsule	141962	EXACT			2026-03-12
 781633	59620	40221345	azithromycin Powder for Oral Suspension	1807494	BROAD		azithromycin 250 MG Powder for Oral Suspension	2026-03-12

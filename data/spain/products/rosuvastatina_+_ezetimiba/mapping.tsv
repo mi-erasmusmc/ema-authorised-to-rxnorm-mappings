@@ -73,6 +73,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768616	3135514CIP1	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
 768618	90607	36026847	ezetimibe 10 MG / rosuvastatin 10 MG Oral Tablet	2535750	EXACT			2026-03-12
 768619	90606	36026843	ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet	2535745	EXACT			2026-03-12
+768779	90672	36026846	ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet	2535749	EXACT			2026-11-09
 768841	043496037	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31
 768842	043496102IP1	43025238	ezetimibe 10 MG / rosuvastatin 20 MG Oral Capsule	OMOP4840340	EXACT			2026-03-31
 768848	3135414CIP	43025229	ezetimibe 10 MG / rosuvastatin 10 MG Oral Capsule	OMOP4840331	EXACT			2026-03-31

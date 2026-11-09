@@ -29,6 +29,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 762735	88834	19008004	lormetazepam 2 MG Oral Tablet	252123	EXACT			2026-03-13
 765961	89877	19008004	lormetazepam 2 MG Oral Tablet	252123	EXACT			2026-03-13
 765962	89876	19007978	lormetazepam 1 MG Oral Tablet	199763	EXACT			2026-03-13
+770187	91108	19007978	lormetazepam 1 MG Oral Tablet	199763	EXACT			2026-11-09
+770188	91109	19008004	lormetazepam 2 MG Oral Tablet	252123	EXACT			2026-11-09
 902155	63332	19008008	lormetazepam 2.5 MG	335173	BROAD		lormetazepam 2.5 MG/ML Oral Solution	2026-03-13
 993758	56293	19007978	lormetazepam 1 MG Oral Tablet	199763	EXACT			2026-03-13
 994087	58639	19008004	lormetazepam 2 MG Oral Tablet	252123	EXACT			2026-03-13

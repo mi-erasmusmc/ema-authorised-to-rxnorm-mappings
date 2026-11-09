@@ -4,3 +4,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 700676	61396	529687	0.5 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	798482	EXACT			2026-04-03
 700677	61250	529685	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	798479	EXACT			2026-04-03
 731326	61605	43264843	0.5 ML Hepatitis A Virus 320 UNT/ML Injection [Avaxim]	OMOP559820	EXACT	Adult Avaxim presentation is the branded 0.5 mL single-dose syringe; this strength-specific Extension concept matches better than the unstrengthened branded concept.		2026-04-03
+770202	3400933775155	529685	1 ML hepatitis A vaccine (inactivated) strain HM175 1440 UNT/ML Prefilled Syringe [Havrix]	798479	EXACT			2026-11-09

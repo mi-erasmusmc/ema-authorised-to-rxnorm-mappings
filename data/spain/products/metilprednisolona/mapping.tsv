@@ -16,6 +16,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 691246	34021	35606535	methylprednisolone Injection [Solu-Medrol]	1743706	BROAD		methylprednisolone 8 MG Injection [Urbason]	2026-03-13
 691253	34023	1506430	methylprednisolone 40 MG Injection	311659	EXACT			2026-03-13
 691261	34022	35606535	methylprednisolone Injection [Solu-Medrol]	1743706	BROAD		methylprednisolone 20 MG Injection [Urbason]	2026-03-13
+721075	82968	40060734	methylprednisolone Topical Cream	377758	BROAD	RxNorm lacks aceponate-specific topical strength; methylprednisolone cream is a broader topical match, including for the cutaneous emulsion.	methylprednisolone aceponate 1 MG/G Topical Cream	2026-11-09
+721077	82968	40060734	methylprednisolone Topical Cream	377758	BROAD	RxNorm lacks aceponate-specific topical strength; methylprednisolone cream is a broader topical match, including for the cutaneous emulsion.	methylprednisolone aceponate 1 MG/G Topical Cream	2026-11-09
+721078	82969	40060734	methylprednisolone Topical Cream	377758	BROAD	RxNorm lacks aceponate-specific topical strength; methylprednisolone cream is a broader topical match, including for the cutaneous emulsion.	methylprednisolone aceponate 1 MG/G Topical Cream	2026-11-09
 728343	85015	1506270	methylprednisolone	6902	BROAD		methylprednisolone aceponate 1 MG/ML Topical Solution	2026-03-13
 731904	86310	40060734	methylprednisolone Topical Cream	377758	BROAD	Standard RxNorm lacks methylprednisolone aceponate 1 MG/G cutaneous emulsion; cream is the closest standard topical form.	methylprednisolone aceponate 1 MG/G Topical Cream	2026-06-06
 743013	60137	40060734	methylprednisolone Topical Cream	377758	BROAD	Standard RxNorm lacks methylprednisolone aceponate 1 MG/G topical cream; avoid non-aceponate Extension exact.	methylprednisolone aceponate 1 MG/G Topical Cream	2026-06-06

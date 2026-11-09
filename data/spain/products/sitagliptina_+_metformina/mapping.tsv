@@ -1,14 +1,32 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+661196	08455010	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+661529	08456010	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+661531	08457010	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+665872	10620011	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+711547	08456010IP	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+711558	08455010IP	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+713320	08456010IP1	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+720818	08455010IP1	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+721037	08455010IP2	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+721777	08455010IP3	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+725017	08456010IP2	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+725400	08457010IP	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
 727860	84837	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
+727964	08456010IP3	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+727997	08457010IP1	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+727999	10620011IP	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
 728041	84893	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
+728607	08456010IP4	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
 728743	85144	40139098	metformin / sitagliptin Oral Tablet	700516	BROAD	No RxNorm concept for sitagliptin 50 MG / metformin 850 MG Oral Tablet	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-03-13
 728744	85145	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
 728745	85145	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
+729839	10620011IP1	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
 730606	85858	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
 730907	85949	40139098	metformin / sitagliptin Oral Tablet	700516	BROAD	No RxNorm concept for sitagliptin 50 MG / metformin 850 MG Oral Tablet	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-03-13
 730909	85950	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
 732058	86341	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
 732411	86437	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
+732466	08455010IP5	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
 732856	86584	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
 732857	86585	40139098	metformin / sitagliptin Oral Tablet	700516	BROAD	No RxNorm concept for sitagliptin 50 MG / metformin 850 MG Oral Tablet	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-03-13
 732977	85703	40139098	metformin / sitagliptin Oral Tablet	700516	BROAD	No RxNorm concept for sitagliptin 50 MG / metformin 850 MG Oral Tablet	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-03-13
@@ -32,23 +50,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 758005	87962	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
 758007	87963	40139098	metformin / sitagliptin Oral Tablet	700516	BROAD	No RxNorm concept for sitagliptin 50 MG / metformin 850 MG Oral Tablet	metformin hydrochloride 850 MG / sitagliptin 50 MG Oral Tablet	2026-03-13
 758033	87971	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
-763890	89190	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
-661196	08455010	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-661529	08456010	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-661531	08457010	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-665872	10620011	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-711547	08456010IP	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-711558	08455010IP	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-713320	08456010IP1	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-720818	08455010IP1	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-721037	08455010IP2	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-721777	08455010IP3	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-725017	08456010IP2	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-725400	08457010IP	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-727964	08456010IP3	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-727997	08457010IP1	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-727999	10620011IP	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-728607	08456010IP4	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-729839	10620011IP1	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
-732466	08455010IP5	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+758064	87991	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-11-09
 762679	88817	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-12
+763890	89190	40164891	metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet	861769	EXACT			2026-03-13
+771606	27190IP	42708176	metformin hydrochloride 500 MG / sitagliptin 50 MG Extended Release Oral Tablet	1243849	EXACT			2026-11-09
+771607	27191IP1	42708170	24 HR metformin hydrochloride 1000 MG / sitagliptin 50 MG Extended Release Oral Tablet	1243842	EXACT			2026-11-09
+771608	27192IP	42708168	metformin hydrochloride 1000 MG / sitagliptin 100 MG Extended Release Oral Tablet	1243834	EXACT			2026-11-09
+771609	27192IP	42708168	metformin hydrochloride 1000 MG / sitagliptin 100 MG Extended Release Oral Tablet	1243834	EXACT			2026-11-09

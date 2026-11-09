@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-686731	11716004				NO_MAPPING	No suitable RxNorm concept represents the piperaquine tetraphosphate and dihydroartemisinin combination tablet.	piperaquine tetraphosphate 320 MG / dihydroartemisinin 40 MG Oral Tablet [Eurartesim]	2026-04-03
+686731	11716004	41273375	Dihydroartemisinin 40 MG / Piperaquine 320 MG Oral Tablet	OMOP2471337	EXACT	RxNorm Extension expresses the labelled piperaquine tetraphosphate strength as piperaquine.		2026-11-09

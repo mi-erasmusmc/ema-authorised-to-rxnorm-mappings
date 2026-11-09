@@ -206,6 +206,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 718840	82402	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	oral sobre		2026-03-12
 718843	82403	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
 718845	82404	19064433	ibuprofen 400 MG Oral Suspension	251270	EXACT	Spain sachet is labelled 400 mg suspensión oral; standard RxNorm has the matching dose-level oral suspension concept.		2026-06-07
+718846	82404	19064433	ibuprofen 400 MG Oral Suspension	251270	EXACT	Spain sachet is labelled 400 mg suspensión oral; standard RxNorm has the matching dose-level oral suspension concept.		2026-11-09
 718848	82405	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
 719055	82430	35870105	ibuprofen 100 MG Oral Granules	OMOP5026546	EXACT	oral sobre		2026-03-12
 719057	82431	35870105	ibuprofen 100 MG Oral Granules	OMOP5026546	EXACT	oral sobre		2026-03-12
@@ -246,6 +247,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 730863	85936	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 731146	86016	19019050	ibuprofen 20 MG/ML Oral Suspension	197803	EXACT			2026-03-12
 732211	86404	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-03-12
+732212	86404	19027494	ibuprofen 40 MG/ML Oral Suspension	204442	EXACT			2026-11-09
 735498	60514	35870049	ibuprofen 400 MG Oral Granules	OMOP5026491	EXACT	arginina salt 400 mg oral sobre		2026-03-12
 754267	65250	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 754846	65251	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
@@ -266,6 +268,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 766554	90046	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 766867	90114	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-03-12
 768730	90651	1177662	ibuprofen 400 MG Oral Capsule	245417	EXACT			2026-05-10
+769523	90878	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT			2026-11-09
+770189	91110	19019072	ibuprofen 400 MG Oral Tablet	197805	EXACT	Spanish 400 MG label expresses ibuprofen base supplied as arginine salt.		2026-11-09
 786830	65817	19078461	ibuprofen 200 MG Oral Tablet	310965	EXACT			2026-03-12
 787143	65818	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12
 791194	65330	19019073	ibuprofen 600 MG Oral Tablet	197806	EXACT			2026-03-12

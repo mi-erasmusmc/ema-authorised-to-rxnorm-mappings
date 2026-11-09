@@ -7,3 +7,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 709877	1151046002	35603233	efmoroctocog alfa 1 UNT Injection	1719608	EXACT			2025-12-04
 726428	1151046003	35603233	efmoroctocog alfa 1 UNT Injection	1719608	EXACT			2025-12-04
 726429	1151046008	35603233	efmoroctocog alfa 1 UNT Injection	1719608	EXACT			2025-12-04
+770777	1151046006IP	21056187	efmoroctocog alfa 2000 UNT Injection	OMOP265635	EXACT			2026-11-09
+771291	1151046007IP	21105303	efmoroctocog alfa 3000 UNT Injection	OMOP265660	EXACT			2026-11-09
+771292	1151046004IP	21095447	efmoroctocog alfa 1000 UNT Injection	OMOP265621	EXACT			2026-11-09

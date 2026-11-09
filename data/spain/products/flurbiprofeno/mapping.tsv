@@ -2,16 +2,18 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 675820	72938	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 695552	76902	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 704906	79428	856706	flurbiprofen 2.92 MG/ACTUAT Mucosal Spray [Strefen]	OMOP5579633	EXACT	Spain labels the buccal spray as 8.75 mg per 3 sprays; 2.92 MG/ACTUAT preserves the per-actuation dosing convention.		2026-06-06
+715494	81909	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-13
 715501	81911	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 715502	81912	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
+715915	81995	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-13
 725283	83997	1235099	flurbiprofen 2.92 MG/ACTUAT Mucosal Spray	OMOP5215802	EXACT	Spain labels the buccal spray as 8.75 mg per 3 sprays; 2.92 MG/ACTUAT preserves the per-actuation dosing convention.		2026-06-06
 727293	84617	856706	flurbiprofen 2.92 MG/ACTUAT Mucosal Spray [Strefen]	OMOP5579633	EXACT	Spain labels the buccal spray as 8.75 mg per 3 sprays; 2.92 MG/ACTUAT preserves the per-actuation dosing convention.		2026-06-06
 728331	85007	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 729656	85542	1235099	flurbiprofen 2.92 MG/ACTUAT Mucosal Spray	OMOP5215802	EXACT	Spain labels the buccal spray as 8.75 mg per dose, corresponding to the 3-spray dose convention; 2.92 MG/ACTUAT preserves per-actuation dosing.		2026-06-06
 729708	85551	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
 734052	86532	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-16
-715494	81909	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-13
-715915	81995	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-13
 767686	686451612022019	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-03-13
+769841	BE356614	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-11-09
+769982	BE428644	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-11-09
 770004	686451612022019IP	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-04-16
 770005	59630372017	19101782	flurbiprofen 8.75 MG Oral Lozenge	389247	EXACT			2026-04-16

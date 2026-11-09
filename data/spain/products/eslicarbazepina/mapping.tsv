@@ -1,9 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+662848	09514017	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
+705102	09514017IP	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
+716641	09514017IP1	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 719986	109514022	44507784	eslicarbazepine acetate 200 MG Oral Tablet	1482507	EXACT			2026-03-13
 720073	109514024	44507784	eslicarbazepine acetate 200 MG Oral Tablet	1482507	EXACT			2026-03-13
 724429	83697	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 725229	83982	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 726561	84419	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
+726683	09514017IP3	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 727069	84553	44507784	eslicarbazepine acetate 200 MG Oral Tablet	1482507	EXACT			2026-03-13
 727070	84554	44507789	eslicarbazepine acetate 400 MG Oral Tablet	1482515	EXACT			2026-03-13
 727071	84555	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
@@ -12,6 +16,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 729677	85543	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 729773	85568	44507784	eslicarbazepine acetate 200 MG Oral Tablet	1482507	EXACT			2026-03-13
 729774	85569	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
+730081	09514017IP4	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 730238	85723	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 730257	85729	44507784	eslicarbazepine acetate 200 MG Oral Tablet	1482507	EXACT			2026-03-13
 730261	85730	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
@@ -22,6 +27,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 731867	86289	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 732169	86383	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 732170	86384	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
+758719	88210	44507780	eslicarbazepine	1482502	BROAD	RxNorm does not expose the 1200 mg tablet concept.	eslicarbazepine acetate 1200 MG Oral Tablet	2026-03-13
 758720	88211	44507789	eslicarbazepine acetate 400 MG Oral Tablet	1482515	EXACT			2026-03-13
 762016	88609	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 762017	88609	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
@@ -31,9 +37,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 763090	85723	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
 763353	89035	44507784	eslicarbazepine acetate 200 MG Oral Tablet	1482507	EXACT			2026-03-13
 764685	85543	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
-662848	09514017	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
-705102	09514017IP	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
-716641	09514017IP1	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
-726683	09514017IP3	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
-730081	09514017IP4	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-03-13
-758719	88210	44507780	eslicarbazepine	1482502	BROAD	RxNorm does not expose the 1200 mg tablet concept.	eslicarbazepine acetate 1200 MG Oral Tablet	2026-03-13
+770811	89036	44507789	eslicarbazepine acetate 400 MG Oral Tablet	1482515	EXACT			2026-11-09
+770835	83982	44507797	eslicarbazepine acetate 800 MG Oral Tablet	1482525	EXACT			2026-11-09

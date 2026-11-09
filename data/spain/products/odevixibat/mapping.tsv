@@ -3,3 +3,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 732360	1211566001	36929789	odevixibat 0.2 MG Oral Capsule	OMOP5183617	EXACT	RxNorm Extension; standard RxNorm only has oral pellet for 0.2 MG		2026-02-16
 732417	1211566004	701413	odevixibat 1.2 MG Oral Capsule [Bylvay]	2564005	EXACT			2025-12-04
 732418	1211566003	36942738	odevixibat 0.6 MG Oral Capsule	OMOP5183628	EXACT	RxNorm Extension; standard RxNorm only has oral pellet for 0.6 MG		2026-02-16
+766714	1241854001	36929789	odevixibat 0.2 MG Oral Capsule	OMOP5183617	EXACT			2026-11-09
+766715	1241854002	701405	odevixibat 0.4 MG Oral Capsule	2563997	EXACT			2026-11-09
+766716	1241854003	36942738	odevixibat 0.6 MG Oral Capsule	OMOP5183628	EXACT			2026-11-09
+766718	1241854004	701411	odevixibat 1.2 MG Oral Capsule	2564003	EXACT			2026-11-09

@@ -1,4 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+651017	66680	1309098	minoxidil 20 MG/ML Topical Solution	311723	EXACT			2026-03-13
 651433	66848	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
 651495	66881	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
 651659	66953	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
@@ -26,6 +27,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 703987	57597	1309098	minoxidil 20 MG/ML Topical Solution	311723	EXACT			2026-03-13
 703988	66848	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
 706845	68556	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
+722026	83193	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
+722027	83193	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
 726065	84230	1309098	minoxidil 20 MG/ML Topical Solution	311723	EXACT			2026-03-13
 726066	84231	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
 726069	84231	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
@@ -37,9 +40,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728974	84231	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
 763139	88974	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
 763140	88974	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
+770013	91045	1309070	minoxidil 2.5 MG Oral Tablet	197987	EXACT			2026-11-09
+770014	91046	1309071	minoxidil 5 MG Oral Tablet	199776	EXACT			2026-11-09
 950675	55636	19025147	minoxidil 10 MG Oral Tablet [Loniten]	201350	EXACT			2026-03-13
 977330	57597	1309098	minoxidil 20 MG/ML Topical Solution	311723	EXACT			2026-03-13
 989335	58331	1309098	minoxidil 20 MG/ML Topical Solution	311723	EXACT			2026-03-13
-651017	66680	1309098	minoxidil 20 MG/ML Topical Solution	311723	EXACT			2026-03-13
-722026	83193	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13
-722027	83193	1309099	minoxidil 50 MG/ML Topical Solution	311724	EXACT			2026-03-13

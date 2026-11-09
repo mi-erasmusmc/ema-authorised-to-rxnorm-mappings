@@ -3,3 +3,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 728803	1201435001	37499817	25 ML isatuximab-irfc 20 MG/ML Injection [Sarclisa]	2282032	EXACT			2026-03-13
 764310	1201435001IP	37499817	25 ML isatuximab-irfc 20 MG/ML Injection [Sarclisa]	2282032	EXACT			2026-03-13
 764311	1201435001IP1	37499815	5 ML isatuximab-irfc 20 MG/ML Injection [Sarclisa]	2282028	EXACT			2026-03-13
+770745	1201435004	37498973	isatuximab Injection	2282022	BROAD	Subcutaneous 140 mg/mL single-use 10 mL vial per AEMPS SmPC; no matching strength in standard RxNorm or Extension.	10 ML isatuximab-irfc 140 MG/ML Injection [Sarclisa]	2026-11-09

@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-665812	09602002				NO_MAPPING	No standard RxNorm concept exists for besilesomab radiopharmaceutical kit.	besilesomab 1 MG radiopharmaceutical kit for injection [Scintimun]	2026-03-30
+665812	09602002	36852074	BESILESOMAB	OMOP5169691	BROAD	Ingredient only; strength and radiopharmaceutical kit presentation are not represented.	besilesomab 1 MG Injection [Scintimun]	2026-11-09

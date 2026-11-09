@@ -1,89 +1,90 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652414	67134	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
-652415	67135	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-652416	67136	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-652417	67136	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-652418	67137	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652419	67137	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652422	67137	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652428	67141	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-15
-652450	67150	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-652455	67151	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-652456	67152	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	EXACT			2026-03-15
-652590	67176	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-652591	67177	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-652592	67178	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
-652863	67318	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652864	67318	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652865	67318	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652866	67319	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-652868	67319	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-652869	67320	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-652870	67321	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
-652916	67350	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-652919	67351	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
-652921	67352	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-656062	66695	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-656063	66696	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-656068	66697	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-15
-656069	66698	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	EXACT			2026-03-15
-658804	68643	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-658805	68644	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-658806	68645	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
+652414	67134	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652415	67135	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652416	67136	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652417	67136	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652418	67137	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+652419	67137	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+652422	67137	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+652428	67141	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+652430	67142	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652432	67144	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652450	67150	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652455	67151	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652456	67152	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652590	67176	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652591	67177	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652592	67178	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652863	67318	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+652864	67318	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+652865	67318	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+652866	67319	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652868	67319	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652869	67320	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652870	67321	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652916	67350	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652919	67351	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+652921	67352	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+654289	67750	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+654291	67751	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+654292	67752	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+654295	67753	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+656062	66695	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	BROAD	Stada SmPC specifies dispersing in water or swallowing, without chewing. No exact dispersible-tablet concept found; matching-strength ODT differs in dose form. See sources.md.	lamotrigine 50 MG Tablet for Oral Suspension	2026-11-09
+656063	66696	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	BROAD	Stada SmPC specifies dispersing in water or swallowing, without chewing. No exact dispersible-tablet concept found; matching-strength ODT differs in dose form. See sources.md.	lamotrigine 100 MG Tablet for Oral Suspension	2026-11-09
+656068	66697	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+656069	66698	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	BROAD	Stada SmPC specifies dispersing in water or swallowing, without chewing. No exact dispersible-tablet concept found; matching-strength ODT differs in dose form. See sources.md.	lamotrigine 200 MG Tablet for Oral Suspension	2026-11-09
+658804	68643	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+658805	68644	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+658806	68645	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
 668798	61561	19024856	lamotrigine 5 MG Tablet for Oral Suspension [Lamictal]	201239	EXACT	Spain source is chewable/dispersible; Tablet for Oral Suspension is closer than plain Oral Tablet in current RxNorm.		2026-03-15
-668962	61569	19135489	lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal]	849051	EXACT			2026-03-12
-670851	61568	19135487	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
-670901	61563	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-670919	61562	19135490	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
-703173	64391	705191	lamotrigine 2 MG Tablet for Oral Suspension [Lamictal]	542426	EXACT			2026-03-12
-715230	81816	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-715232	81817	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-715233	81818	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-715234	81819	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
-717199	64462	19004988	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
-717215	64463	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-718163	64464	19004991	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
-721872	61561	19024856	lamotrigine 5 MG Tablet for Oral Suspension [Lamictal]	201239	EXACT	Spain source is chewable/dispersible; Tablet for Oral Suspension is closer than plain Oral Tablet in current RxNorm.		2026-03-15
-731494	61563	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-731495	61568	19135487	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
-731557	61569	19135489	lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal]	849051	EXACT			2026-03-12
-731558	61562	19135490	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
-731559	64464	19004991	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
-731560	64462	19004988	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
-731563	63747	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-731566	65284	19004991	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
-731567	63288	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-731568	64943	19004988	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
-731573	64463	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-731574	65283	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-764612	89454	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-15
-764614	89456	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-764617	89455	705158	lamotrigine 200 MG Disintegrating Oral Tablet	849046	EXACT			2026-03-15
-764618	89453	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-764619	89453	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-15
-769620	65283	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-770941	65284	19004991	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-15
-779082	61569	19135489	lamotrigine 25 MG Disintegrating Oral Tablet [Lamictal]	849051	EXACT			2026-03-12
-794396	64943	19004988	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-15
-916791	63288	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-917310	63747	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-652430	67142	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-12
-652432	67144	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	EXACT			2026-03-12
-654289	67750	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-654291	67751	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-12
-654292	67752	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-12
-654295	67753	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	EXACT			2026-03-12
-672867	73092	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-672868	73092	19020051	lamotrigine 25 MG Disintegrating Oral Tablet	198430	EXACT			2026-03-12
-672869	73096	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-12
-672870	73095	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-12
-672871	73095	705157	lamotrigine 50 MG Disintegrating Oral Tablet	252478	EXACT			2026-03-12
-672872	73097	705158	lamotrigine 200 MG Disintegrating Oral Tablet	252479	EXACT			2026-03-12
+668962	61569	19024857	lamotrigine 25 MG Tablet for Oral Suspension [Lamictal]	201240	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+670851	61568	36887996	lamotrigine 100 MG Chewable Tablet [Lamictal]	OMOP1006760	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+670901	61563	36892976	lamotrigine 200 MG Chewable Tablet [Lamictal]	OMOP1001548	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+670919	61562	36893937	lamotrigine 50 MG Chewable Tablet [Lamictal]	OMOP992017	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+672867	73092	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+672868	73092	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+672869	73096	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+672870	73095	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+672871	73095	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+672872	73097	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
 672874	73091	705161	lamotrigine 5 MG Tablet for Oral Suspension	311265	EXACT	Spain source is dispersible/chewable; Tablet for Oral Suspension is closer than plain Oral Tablet in current RxNorm.		2026-03-15
-673268	67143	19003128	lamotrigine 100 MG Disintegrating Oral Tablet	103968	EXACT			2026-03-12
-732634	33122.02.00	19135490	lamotrigine 50 MG Disintegrating Oral Tablet [Lamictal]	849052	EXACT			2026-03-12
-732635	33122.03.00	19135487	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-03-12
-765009	3400930225189	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-765216	3400934147364	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-765343	3400930225189IP	19135488	lamotrigine 200 MG Disintegrating Oral Tablet [Lamictal]	849050	EXACT			2026-03-12
-767699	331220300IP	19135487	lamotrigine 100 MG Disintegrating Oral Tablet [Lamictal]	849049	EXACT			2026-04-16
+673268	67143	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+703173	64391	705191	lamotrigine 2 MG Tablet for Oral Suspension [Lamictal]	542426	EXACT			2026-03-12
+715230	81816	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+715232	81817	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+715233	81818	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+715234	81819	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+717199	64462	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+717215	64463	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+718163	64464	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+721872	61561	19024856	lamotrigine 5 MG Tablet for Oral Suspension [Lamictal]	201239	EXACT	Spain source is chewable/dispersible; Tablet for Oral Suspension is closer than plain Oral Tablet in current RxNorm.		2026-03-15
+731494	61563	36892976	lamotrigine 200 MG Chewable Tablet [Lamictal]	OMOP1001548	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+731495	61568	36887996	lamotrigine 100 MG Chewable Tablet [Lamictal]	OMOP1006760	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+731557	61569	19024857	lamotrigine 25 MG Tablet for Oral Suspension [Lamictal]	201240	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+731558	61562	36893937	lamotrigine 50 MG Chewable Tablet [Lamictal]	OMOP992017	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+731559	64464	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+731560	64462	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+731563	63747	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+731566	65284	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+731567	63288	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+731568	64943	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+731573	64463	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+731574	65283	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+732634	33122.02.00	36893937	lamotrigine 50 MG Chewable Tablet [Lamictal]	OMOP992017	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+732635	33122.03.00	36887996	lamotrigine 100 MG Chewable Tablet [Lamictal]	OMOP1006760	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+764612	89454	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+764614	89456	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+764617	89455	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+764618	89453	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+764619	89453	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+765009	3400930225189	36892976	lamotrigine 200 MG Chewable Tablet [Lamictal]	OMOP1001548	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+765216	3400934147364	36892976	lamotrigine 200 MG Chewable Tablet [Lamictal]	OMOP1001548	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+765343	3400930225189IP	36892976	lamotrigine 200 MG Chewable Tablet [Lamictal]	OMOP1001548	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+767699	331220300IP	36887996	lamotrigine 100 MG Chewable Tablet [Lamictal]	OMOP1006760	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+769620	65283	43841444	lamotrigine 200 MG Chewable Tablet	OMOP901095	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+770125	65667034	36892976	lamotrigine 200 MG Chewable Tablet [Lamictal]	OMOP1001548	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+770941	65284	43643535	lamotrigine 50 MG Chewable Tablet	OMOP901195	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+779082	61569	19024857	lamotrigine 25 MG Tablet for Oral Suspension [Lamictal]	201240	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+794396	64943	43679565	lamotrigine 100 MG Chewable Tablet	OMOP900805	EXACT	Chewable/dispersible presentation; Extension Chewable Tablet matches the form, rather than ODT. See sources.md.		2026-11-09
+916791	63288	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09
+917310	63747	705160	lamotrigine 25 MG Tablet for Oral Suspension	311264	EXACT	Dispersible/chewable presentation matches Tablet for Oral Suspension, rather than ODT. See sources.md.		2026-11-09

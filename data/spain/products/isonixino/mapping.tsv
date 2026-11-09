@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-700657	53891				NO_MAPPING	Isonixin not in RxNorm; EU/Spain-only NSAID	isonixin 400 MG Oral Capsule	2026-03-30
-941229	53892				NO_MAPPING	Isonixin not in RxNorm; EU/Spain-only NSAID	isonixin 200 MG Rectal Suppository	2026-03-30
+700657	53891	36856145	ISONIXIN	OMOP5173761	BROAD		isonixin 400 MG Oral Capsule	2026-11-09
+941229	53892	36856145	ISONIXIN	OMOP5173761	BROAD		isonixin 200 MG Rectal Suppository	2026-11-09

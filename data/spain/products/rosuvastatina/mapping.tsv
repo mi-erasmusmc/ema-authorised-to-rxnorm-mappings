@@ -21,6 +21,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 706387	79818	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 706388	79819	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 706389	79820	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+706412	79833	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
 707805	80212	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 707806	80213	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 707807	80214	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
@@ -31,6 +32,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 708020	80280	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 708022	80282	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 708023	80283	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+708290	80324	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
+708292	80325	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
+708294	80326	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 709757	80573	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 709759	80574	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 709761	80575	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
@@ -38,12 +42,19 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 710488	80789	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 710489	80790	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 710490	80791	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+710492	80792	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
+711667	81083	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
+711670	81084	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
+711673	81085	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 712343	81190	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 712344	81191	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 712347	81192	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 712958	81306	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 712995	81307	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 713035	81308	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+713280	81340	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
+713281	81341	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
+713282	81342	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 713679	81459	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 713680	81460	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 713681	81461	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
@@ -55,6 +66,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 715304	81844	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 715305	81845	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-03-12
 715306	81846	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
+715325	81856	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
+715327	81857	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+715328	81858	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
+715413	81880	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
+715423	81881	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+715440	81883	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 715571	81934	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 715572	81935	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 715574	81936	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
@@ -67,9 +84,13 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 716357	82105	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT	generic product; corrected from Crestor-branded concept		2026-03-15
 716366	82106	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT	generic product; corrected from Crestor-branded concept		2026-03-15
 716375	82107	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT	generic product; corrected from Crestor-branded concept		2026-03-15
+716384	82108	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
 716391	82109	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 716395	82110	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 716403	82112	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
+716426	82121	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
+716428	82122	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
+716430	82123	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 716884	82270	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 716885	82271	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 716887	82272	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
@@ -89,13 +110,20 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 719854	82638	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 719855	82639	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 720396	82777	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
+721716	80326	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+721718	80324	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 723587	83413	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 723588	83414	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 723590	83416	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
+723647	035885502	40165262	rosuvastatin calcium 5 MG Oral Tablet [Crestor]	859426	EXACT			2026-03-12
+723680	035885058	40165246	rosuvastatin calcium 10 MG Oral Tablet [Crestor]	859749	EXACT			2026-03-12
+723681	035885209	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
 723693	83459	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+723694	83460	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
 723768	83497	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-03-12
 724672	83795	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 725110	83937	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
+725284	83998	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
 725285	83999	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 725286	84000	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 725376	84037	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
@@ -105,6 +133,9 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 725949	74734	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 725950	74735	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 725951	74731	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
+727373	035885209IP	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
+728403	035885209IP1	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-04-16
+729607	035883180	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 731389	86107	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
 731390	86108	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 731392	86110	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
@@ -112,44 +143,15 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 762441	88741	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
 762448	88744	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-03-12
 762449	88745	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
+763770	035885209IP2	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
+765078	250223IP	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
 765083	83459	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT	generic product; corrected from Crestor-branded concept		2026-03-15
 765749	89822	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-03-12
 765755	89823	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
-706412	79833	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
-708290	80324	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
-708292	80325	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
-708294	80326	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-710492	80792	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
-711667	81083	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
-711670	81084	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
-711673	81085	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-713280	81340	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
-713281	81341	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
-713282	81342	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-715325	81856	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
-715327	81857	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-715328	81858	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
-715413	81880	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
-715423	81881	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-715440	81883	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
-716384	82108	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
-716426	82121	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
-716428	82122	40165245	rosuvastatin calcium 10 MG Oral Tablet	859747	EXACT			2026-03-12
-716430	82123	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-721716	80326	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-721718	80324	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
-723647	035885502	40165262	rosuvastatin calcium 5 MG Oral Tablet [Crestor]	859426	EXACT			2026-03-12
-723680	035885058	40165246	rosuvastatin calcium 10 MG Oral Tablet [Crestor]	859749	EXACT			2026-03-12
-723681	035885209	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
-723694	83460	40165257	rosuvastatin calcium 40 MG Oral Tablet	859419	EXACT			2026-03-12
-725284	83998	40165261	rosuvastatin calcium 5 MG Oral Tablet	859424	EXACT			2026-03-12
-727373	035885209IP	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
-729607	035883180	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
-763770	035885209IP2	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
-765078	250223IP	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
 766270	035883180IP	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
 767830	5610201301	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
 768173	035883180IP1	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-03-12
+768229	80273	40165253	rosuvastatin calcium 20 MG Oral Tablet	859751	EXACT			2026-11-09
 768753	90661	782748	rosuvastatin 15 MG Oral Tablet	OMOP4830582	EXACT			2026-03-12
 768755	90662	782756	rosuvastatin 30 MG Oral Tablet	OMOP4830590	EXACT			2026-03-12
 768766	BE250187IP1	40165246	rosuvastatin calcium 10 MG Oral Tablet [Crestor]	859749	EXACT			2026-03-12
@@ -157,4 +159,3 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 768768	BE250187IP	40165246	rosuvastatin calcium 10 MG Oral Tablet [Crestor]	859749	EXACT			2026-03-12
 768769	BE250223	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
 768849	5610201301IP	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-03-12
-728403	035885209IP1	40165254	rosuvastatin calcium 20 MG Oral Tablet [Crestor]	859753	EXACT			2026-04-16

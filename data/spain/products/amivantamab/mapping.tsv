@@ -2,3 +2,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 732485	1211594001	1537590	7 ML amivantamab-vmjw 50 MG/ML Injection [Rybrevant]	2549739	EXACT			2025-12-04
 767479	1211594002	849814	amivantamab 160 MG/ML Injectable Solution [Rybrevant]	OMOP5572647	EXACT			2026-04-02
 767480	1211594003	849814	amivantamab 160 MG/ML Injectable Solution [Rybrevant]	OMOP5572647	EXACT			2026-04-02
+770033	1211594005	1317538	22 ML amivantamab-lpuj 160 MG/ML / hyaluronidase-lpuj 2000 UNT/ML Injection [Rybrevant Faspro]	2735804	EXACT	EU subcutaneous Rybrevant includes recombinant human hyaluronidase (rHuPH20); corresponds to US Rybrevant Faspro, distinct from IV amivantamab-vmjw.		2026-11-09
+770595	1211594004	1317536	15 ML amivantamab-lpuj 160 MG/ML / hyaluronidase-lpuj 2000 UNT/ML Injection [Rybrevant Faspro]	2735797	EXACT	EU subcutaneous Rybrevant includes recombinant human hyaluronidase (rHuPH20); corresponds to US Rybrevant Faspro, distinct from IV amivantamab-vmjw.		2026-11-09

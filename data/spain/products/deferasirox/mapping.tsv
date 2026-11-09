@@ -1,4 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+656103	06356001	1786082	deferasirox 125 MG Tablet for Oral Suspension [Exjade]	616159	EXACT			2026-03-13
+656104	06356005	1786084	deferasirox 500 MG Tablet for Oral Suspension [Exjade]	616163	EXACT			2026-03-13
 711247	106356017	46221237	deferasirox 360 MG Oral Tablet	1607792	EXACT			2025-12-04
 711248	106356011	46221241	deferasirox 90 MG Oral Tablet	1607796	EXACT			2025-12-04
 726930	84528	46221241	deferasirox 90 MG Oral Tablet	1607796	EXACT			2026-03-15
@@ -18,5 +20,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 732489	86446	46221241	deferasirox 90 MG Oral Tablet	1607796	EXACT			2026-03-15
 744103	87277	46221237	deferasirox 360 MG Oral Tablet	1607792	EXACT			2026-03-15
 744105	87279	46221241	deferasirox 90 MG Oral Tablet	1607796	EXACT			2026-03-15
-656103	06356001	1786082	deferasirox 125 MG Tablet for Oral Suspension [Exjade]	616159	EXACT			2026-03-13
-656104	06356005	1786084	deferasirox 500 MG Tablet for Oral Suspension [Exjade]	616163	EXACT			2026-03-13
+758304	88088	46221237	deferasirox 360 MG Oral Tablet	1607792	EXACT			2026-11-09

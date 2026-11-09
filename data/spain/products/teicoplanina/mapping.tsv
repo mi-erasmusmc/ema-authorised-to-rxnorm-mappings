@@ -1,19 +1,21 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-607118	78750	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-29
-607120	78751	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-13
-607311	80096	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-29
-607312	80097	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
-701074	78341	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
-701075	78342	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-29
-701925	78613	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
-701926	78614	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-29
-702287	78750	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-29
-702288	78751	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-13
-707350	80096	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-29
-707351	80097	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
-721623	83080	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-12
-721624	83081	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-12
-730662	85874	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-13
-730664	85875	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-29
-998344	58922	19063993	teicoplanin 133 MG/ML Injectable Solution	250921	EXACT			2026-03-29
-998336	58921	19064500	teicoplanin 66.7 MG/ML Injectable Solution	251570	EXACT			2026-03-29
+607118	78750	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+607120	78751	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+607311	80096	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+607312	80097	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+701074	78341	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+701075	78342	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+701925	78613	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+701926	78614	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+702287	78750	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+702288	78751	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+707350	80096	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+707351	80097	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+721623	83080	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+721624	83081	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+730662	85874	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+730664	85875	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+770225	83080	21172842	Teicoplanin 200 MG Injection	OMOP408148	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+770226	83081	21025554	Teicoplanin 400 MG Injection	OMOP408135	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+998336	58921	35829424	teicoplanin 200 MG Injection [Targocid]	OMOP5038607	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09
+998344	58922	2912612	teicoplanin 400 MG Injection [Targocid]	OMOP5129389	EXACT	Single-use powder vial; Extension Injection concept preserves the labeled dose and single-use form. See sources.md.		2026-11-09

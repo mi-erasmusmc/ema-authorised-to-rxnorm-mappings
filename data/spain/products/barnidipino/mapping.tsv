@@ -1,10 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+656526	65301	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 20 MG Extended Release Oral Capsule	2026-03-13
+656527	65301	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 20 MG Extended Release Oral Capsule	2026-03-13
 656528	65300	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 10 MG Extended Release Oral Capsule	2026-03-13
 656529	65300	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 10 MG Extended Release Oral Capsule	2026-03-13
 740022	87089	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 10 MG Extended Release Oral Capsule	2026-03-13
 740023	87089	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 10 MG Extended Release Oral Capsule	2026-03-13
-656526	65301	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 20 MG Extended Release Oral Capsule	2026-03-13
-656527	65301	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 20 MG Extended Release Oral Capsule	2026-03-13
 740024	87090	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 20 MG Extended Release Oral Capsule	2026-03-13
 740025	87090	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 20 MG Extended Release Oral Capsule	2026-03-13
 763756	35146012IP	19071187	barnidipine hydrochloride	283819	BROAD		barnidipine 20 MG Extended Release Oral Capsule	2026-03-13
+768557	35146012IP1	19104028	mepirodipine 20 MG Extended Release Oral Capsule	412202	EXACT	RxNorm uses mepirodipine as the synonym for barnidipine.		2026-11-09
+768558	35146012IP1	19104028	mepirodipine 20 MG Extended Release Oral Capsule	412202	EXACT	RxNorm uses mepirodipine as the synonym for barnidipine.		2026-11-09
