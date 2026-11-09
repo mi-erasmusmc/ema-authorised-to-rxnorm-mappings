@@ -6,4 +6,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 756304	02238001	19113619	miglustat 100 MG Oral Capsule [Zavesca]	541070	EXACT			2026-03-13
 763013	1231737001	746788	miglustat 65 MG Oral Capsule [Opfolda]	2667432	EXACT			2025-12-04
 763014	1231737001	746788	miglustat 65 MG Oral Capsule [Opfolda]	2667432	EXACT			2025-12-04
-769838	90992	19102160	miglustat 100 MG Oral Capsule	401938	EXACT	Generic without own branded RxNorm concept; unbranded correct		2026-11-09
+769838	90992	19102160	miglustat 100 MG Oral Capsule	401938	EXACT	Waymade generic uses unbranded miglustat; Yargesa has its own standard RxNorm brand concept and is intentionally mapped differently.		2026-11-09

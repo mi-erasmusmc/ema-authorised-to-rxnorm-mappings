@@ -3,7 +3,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 656600	62670	43278193	mesalamine 1000 MG Oral Granules	OMOP537954	EXACT			2026-03-13
 656601	62670	43278193	mesalamine 1000 MG Oral Granules	OMOP537954	EXACT			2026-03-13
 661634	70134	43256418	mesalamine 1500 MG Oral Granules	OMOP537942	EXACT			2026-03-13
-661654	70144	43640729	mesalamine 1200 MG Delayed Release Oral Tablet [Mezavant]	OMOP666302	EXACT	source product is Mezavant 1200 mg		2026-03-15
+661654	70144	43640729	mesalamine 1200 MG Delayed Release Oral Tablet [Mezavant]	OMOP666302	EXACT	Mezavant 1200 mg gastro-resistant modified-release tablet. Existing matching branded Extension mapping retained; standard RxNorm clinical equivalent also accepted without an Extension upgrade solely for brand.		2026-11-09
 664770	71881	968464	mesalamine 66.7 MG/ML Enema	238151	EXACT			2026-03-13
 675520	61335	19011848	mesalamine 1000 MG Rectal Foam	142095	EXACT			2026-03-13
 677460	73372	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-03-13
@@ -12,21 +12,21 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 687848	60607	968429	mesalamine 500 MG Rectal Suppository	197932	EXACT			2026-03-13
 695387	60152	21025416	mesalamine 500 MG Extended Release Oral Tablet [Pentasa]	OMOP405703	EXACT			2026-03-13
 695395	60151	19024817	mesalamine 1000 MG Rectal Suppository [Pentasa]	201226	EXACT			2026-03-13
-696127	77022	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			2026-03-13
+696127	77022	21153119	mesalamine 1000 MG Extended Release Oral Tablet [Pentasa]	OMOP405875	EXACT			2026-11-09
 698431	77668	43146736	mesalamine 2000 MG Oral Granules	OMOP456009	EXACT			2026-03-13
 701401	78448	968668	mesalamine 800 MG Delayed Release Oral Tablet [Asacol]	849383	EXACT			2026-03-13
 705473	79555	36881976	mesalamine 4000 MG Oral Granules	OMOP1005793	EXACT			2026-03-13
-708957	37734011	43640729	mesalamine 1200 MG Delayed Release Oral Tablet [Mezavant]	OMOP666302	EXACT	source product is Mezavant 1200 mg		2026-03-15
-721932	83162	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			2026-03-13
-721933	83162	36888722	mesalamine 1000 MG Oral Tablet	OMOP988624	EXACT			2026-03-13
+708957	37734011	43640729	mesalamine 1200 MG Delayed Release Oral Tablet [Mezavant]	OMOP666302	EXACT	Mezavant 1200 mg gastro-resistant modified-release tablet. Existing matching branded Extension mapping retained; standard RxNorm clinical equivalent also accepted without an Extension upgrade solely for brand.		2026-11-09
+721932	83162	44176216	mesalamine 1000 MG Delayed Release Oral Tablet	OMOP3052939	EXACT			2026-11-09
+721933	83162	44176216	mesalamine 1000 MG Delayed Release Oral Tablet	OMOP3052939	EXACT			2026-11-09
 730491	85816	19061326	mesalamine 1000 MG Rectal Suppository	248420	EXACT			2026-03-13
 731572	78448	968668	mesalamine 800 MG Delayed Release Oral Tablet [Asacol]	849383	EXACT			2026-03-13
 731932	86315	36034764	mesalamine 1600 MG Delayed Release Oral Tablet [Asacol]	OMOP5044785	EXACT			2026-03-13
 764966	89585	19105808	mesalamine 40 MG/ML Enema	422648	EXACT	source gives Pentasa 4 g rectal suspension with 40 mg strength field; mapped to matching 40 MG/ML enema concept		2026-03-15
-769403	037734023	43640729	mesalamine 1200 MG Delayed Release Oral Tablet [Mezavant]	OMOP666302	EXACT	source product is Mezavant 1200 mg		2026-03-15
-770480	037734011IP3	968639	mesalamine 1200 MG Delayed Release Oral Tablet	686429	EXACT			2026-11-09
-770484	037734011IP4	968639	mesalamine 1200 MG Delayed Release Oral Tablet	686429	EXACT			2026-11-09
+769403	037734023	43640729	mesalamine 1200 MG Delayed Release Oral Tablet [Mezavant]	OMOP666302	EXACT	Mezavant 1200 mg gastro-resistant modified-release tablet. Existing matching branded Extension mapping retained; standard RxNorm clinical equivalent also accepted without an Extension upgrade solely for brand.		2026-11-09
+770480	037734011IP3	968639	mesalamine 1200 MG Delayed Release Oral Tablet	686429	EXACT	Mezavant 1200 mg gastro-resistant modified-release tablet. Existing matching branded Extension mapping retained; standard RxNorm clinical equivalent also accepted without an Extension upgrade solely for brand.		2026-11-09
+770484	037734011IP4	968639	mesalamine 1200 MG Delayed Release Oral Tablet	686429	EXACT	Mezavant 1200 mg gastro-resistant modified-release tablet. Existing matching branded Extension mapping retained; standard RxNorm clinical equivalent also accepted without an Extension upgrade solely for brand.		2026-11-09
 771568	65771	43288984	mesalamine 500 MG Oral Granules	OMOP537962	EXACT			2026-03-13
-771618	65772	43278193	mesalamine 1000 MG Oral Granules	OMOP537954	EXACT			2026-03-13
-771626	65772	43278193	mesalamine 1000 MG Oral Granules	OMOP537954	EXACT			2026-03-13
+771618	65772	2034761	mesalamine 1000 MG Delayed Release Oral Granules	OMOP4933882	EXACT	Salofalk granules have a gastro-resistant coating and prolonged-release matrix; delayed-release granules capture the enteric formulation (see sources.md).		2026-11-09
+771626	65772	2034761	mesalamine 1000 MG Delayed Release Oral Granules	OMOP4933882	EXACT	Salofalk granules have a gastro-resistant coating and prolonged-release matrix; delayed-release granules capture the enteric formulation (see sources.md).		2026-11-09
 984088	58101	19060674	mesalamine 500 MG Delayed Release Oral Tablet	247054	EXACT			2026-03-13

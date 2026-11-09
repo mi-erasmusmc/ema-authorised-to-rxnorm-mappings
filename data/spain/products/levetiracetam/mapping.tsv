@@ -39,12 +39,12 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 685367	11713032	19101553	levetiracetam 1000 MG Oral Tablet	387003	EXACT			2026-03-12
 685368	11713014	711589	levetiracetam 500 MG Oral Tablet	311289	EXACT			2026-03-12
 685369	11713004	711588	levetiracetam 250 MG Oral Tablet	311288	EXACT			2026-03-12
-685377	74946	35603684	levetiracetam 250 MG Tablet for Oral Suspension	1736045	EXACT	upgraded from BROAD; granulado sobre maps to Tablet for Oral Suspension		2026-03-12
-685401	74950	35603687	levetiracetam 500 MG Tablet for Oral Suspension	1736048	EXACT			2026-03-12
+685377	74946	43152128	Levetiracetam 250 MG Oral Granules	OMOP503388	EXACT			2026-11-09
+685401	74950	43141090	Levetiracetam 500 MG Oral Granules	OMOP503527	EXACT			2026-11-09
 685402	74950	43141090	Levetiracetam 500 MG Oral Granules	OMOP503527	EXACT			2026-11-09
-685421	74953	35603690	levetiracetam 750 MG Tablet for Oral Suspension	1736051	EXACT	upgraded from BROAD; granulado sobre maps to Tablet for Oral Suspension		2026-03-12
-685422	74954	35603679	levetiracetam 1000 MG Tablet for Oral Suspension	1736037	EXACT	upgraded from BROAD; granulado sobre maps to Tablet for Oral Suspension		2026-03-12
-685423	74954	35603679	levetiracetam 1000 MG Tablet for Oral Suspension	1736037	EXACT	upgraded from BROAD; granulado sobre maps to Tablet for Oral Suspension		2026-03-12
+685421	74953	43174284	Levetiracetam 750 MG Oral Granules	OMOP503459	EXACT			2026-11-09
+685422	74954	43141077	Levetiracetam 1000 MG Oral Granules	OMOP503452	EXACT			2026-11-09
+685423	74954	43141077	Levetiracetam 1000 MG Oral Granules	OMOP503452	EXACT			2026-11-09
 685773	75001	711588	levetiracetam 250 MG Oral Tablet	311288	EXACT			2026-03-12
 685777	75003	711589	levetiracetam 500 MG Oral Tablet	311289	EXACT			2026-03-12
 685780	75005	19101553	levetiracetam 1000 MG Oral Tablet	387003	EXACT			2026-03-12
@@ -182,11 +182,11 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 715629	00146022IP1	19101553	levetiracetam 1000 MG Oral Tablet	387003	EXACT			2026-03-12
 721181	00146010IP1	711589	levetiracetam 500 MG Oral Tablet	311289	EXACT			2026-03-12
 721184	00146022IP2	19101553	levetiracetam 1000 MG Oral Tablet	387003	EXACT			2026-03-12
-722168	83236	46221634	levetiracetam 1500 MG	1605371	BROAD	no local 1500 MG Tablet for Oral Suspension or granules-for-solution concept found for sachet presentation	levetiracetam 1500 MG Tablet for Oral Suspension	2026-03-15
-722174	83240	35603679	levetiracetam 1000 MG Tablet for Oral Suspension	1736037	EXACT			2026-03-12
-722175	83241	35603684	levetiracetam 250 MG Tablet for Oral Suspension	1736045	EXACT			2026-03-12
-722176	83242	35603687	levetiracetam 500 MG Tablet for Oral Suspension	1736048	EXACT			2026-03-12
-722177	83243	35603690	levetiracetam 750 MG Tablet for Oral Suspension	1736051	EXACT			2026-03-12
+722168	83236	36929605	levetiracetam 1500 MG Oral Granules	OMOP5196147	BROAD	Laurak is granules for oral solution; the available Extension concept preserves strength and granules but omits reconstitution as a solution (see sources.md).	levetiracetam 1500 MG Granules for Oral Solution	2026-11-09
+722174	83240	43141077	Levetiracetam 1000 MG Oral Granules	OMOP503452	BROAD	Laurak is granules for oral solution; the available Extension concept preserves strength and granules but omits reconstitution as a solution (see sources.md).	levetiracetam 1000 MG Granules for Oral Solution	2026-11-09
+722175	83241	43152128	Levetiracetam 250 MG Oral Granules	OMOP503388	BROAD	Laurak is granules for oral solution; the available Extension concept preserves strength and granules but omits reconstitution as a solution (see sources.md).	levetiracetam 250 MG Granules for Oral Solution	2026-11-09
+722176	83242	43141090	Levetiracetam 500 MG Oral Granules	OMOP503527	BROAD	Laurak is granules for oral solution; the available Extension concept preserves strength and granules but omits reconstitution as a solution (see sources.md).	levetiracetam 500 MG Granules for Oral Solution	2026-11-09
+722177	83243	43174284	Levetiracetam 750 MG Oral Granules	OMOP503459	BROAD	Laurak is granules for oral solution; the available Extension concept preserves strength and granules but omits reconstitution as a solution (see sources.md).	levetiracetam 750 MG Granules for Oral Solution	2026-11-09
 722185	83245	42876053	Levetiracetam 1500 MG Oral Tablet	OMOP4873165	EXACT			2026-03-12
 722477	00146022IP3	19101553	levetiracetam 1000 MG Oral Tablet	387003	EXACT			2026-03-12
 723325	00146022IP4	19101553	levetiracetam 1000 MG Oral Tablet	387003	EXACT			2026-03-12
