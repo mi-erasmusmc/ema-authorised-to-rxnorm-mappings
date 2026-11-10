@@ -9,7 +9,7 @@ comprehensive publicly available mappings of all EMA authorised products to OMOP
 | File | Mappings | Last Updated |
 |------|----------|--------------|
 | `ema-to-rxnorm.tsv` | 17,092 mapped, 46 unmapped | 2026-11-09 |
-| `spain-to-rxnorm.tsv` | 30,890 mapped, 10 unmapped | 2026-11-09 |
+| `spain-to-rxnorm.tsv` | 30,894 mapped, 6 unmapped | 2026-11-09 |
 | `latvia-to-rxnorm.tsv` | 35,856 mapped, 3,783 unmapped | 2026-11-06 |
 
 Mapped counts include rows with a populated `concept_id`; unmapped counts include all other rows.

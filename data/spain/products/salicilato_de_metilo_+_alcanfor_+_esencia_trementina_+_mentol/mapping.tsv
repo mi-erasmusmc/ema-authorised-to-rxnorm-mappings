@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-663031	47889	40125461	camphor / menthol / methyl salicylate / turpentine Topical Ointment	581725	BROAD		camphor / menthol / methyl salicylate / turpentine Topical Solution	2026-03-12
-759498	59479	40125461	camphor / menthol / methyl salicylate / turpentine Topical Ointment	581725	EXACT			2026-03-12
-764497	59479	40125461	camphor / menthol / methyl salicylate / turpentine Topical Ointment	581725	EXACT			2026-03-12
+663031	47889	36267047	Camphor / Menthol / methyl salicylate / Turpentine Topical Spray [Reflexspray]	OMOP3117922	BROAD		camphor 40 MG/ML / menthol 40 MG/ML / methyl salicylate 25 MG/ML / turpentine 65 MG/ML Topical Spray [Reflex Spray]	2026-11-10
+759498	59479	1511334	camphor 0.03 MG/MG / menthol 0.03 MG/MG / methyl salicylate 0.1 MG/MG Topical Gel	2123377	BROAD	Matches gel and the strengths of camphor, menthol and methyl salicylate; omits turpentine 60 mg/g.	camphor 0.03 MG/MG / menthol 0.03 MG/MG / methyl salicylate 0.1 MG/MG / turpentine 0.06 MG/MG Topical Gel [Reflex Forte]	2026-11-10
+764497	59479	1511334	camphor 0.03 MG/MG / menthol 0.03 MG/MG / methyl salicylate 0.1 MG/MG Topical Gel	2123377	BROAD	Matches gel and the strengths of camphor, menthol and methyl salicylate; omits turpentine 60 mg/g.	camphor 0.03 MG/MG / menthol 0.03 MG/MG / methyl salicylate 0.1 MG/MG / turpentine 0.06 MG/MG Topical Gel [Reflex Forte]	2026-11-10

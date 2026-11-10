@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-764515	89433	43265375	Lactobacillus plantarum Oral Capsule	OMOP546740	BROAD			
+764515	89433	40986343	Lactobacillus plantarum Vaginal Suppository	OMOP2184305	BROAD	Vaginal suppository is the closest available vaginal presentation; source is a hard vaginal capsule. Concept does not specify strain P 17630 or the 100 million CFU strength.	Lactobacillus plantarum P 17630 100000000 UNT Vaginal Insert [Intibiotics Vaginal]	2026-11-10

@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-660232	69466	19018633	S-benzoylmercaptoacetyltriglycine	194098	BROAD	No specific mertiatide concept in RxNorm; S-benzoylmercaptoacetyltriglycine (betiatide/MAG3 precursor) is the closest available ingredient		2026-03-13
+660232	69466	2058674	mertiatide 0.2 MG Injection [NEPHROMAG]	OMOP4959647	EXACT	200 micrograms = 0.2 mg mertiatide per vial; maps the non-radioactive kit precursor, not the technetium-99m-labelled product.		2026-11-10
