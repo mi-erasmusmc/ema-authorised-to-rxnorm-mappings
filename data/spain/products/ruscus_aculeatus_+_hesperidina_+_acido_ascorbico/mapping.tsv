@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-757443	59471	40862126	Ascorbic Acid / Hesperidin / Ruscus aculeatus root extract Oral Capsule	OMOP2060088	BROAD			2026-03-12
+757443	59471	40862126	Ascorbic Acid / Hesperidin / Ruscus aculeatus root extract Oral Capsule	OMOP2060088	BROAD	Source contains hesperidin methylchalcone; selected concept represents hesperidin and Ruscus extract without strengths. No matching full-strength combination found.	ascorbic acid 100 MG / hesperidin methylchalcone 150 MG / Ruscus aculeatus root extract 150 MG Oral Capsule	2026-11-11

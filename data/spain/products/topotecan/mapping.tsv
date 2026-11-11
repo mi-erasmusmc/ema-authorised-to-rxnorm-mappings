@@ -1,11 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-658518	96027001	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
-660762	96027006	1378536	topotecan 0.25 MG Oral Capsule	747195	EXACT			2026-03-12
-660763	96027007	1378534	topotecan 1 MG Oral Capsule	747193	EXACT			2026-03-12
+658518	96027001	19124326	topotecan 4 MG Injection [Hycamtin]	637550	EXACT			2026-11-11
+660762	96027006	1378537	topotecan 0.25 MG Oral Capsule [Hycamtin]	748738	EXACT			2026-11-11
+660763	96027007	19127877	topotecan 1 MG Oral Capsule [Hycamtin]	748740	EXACT			2026-11-11
 663883	09536002	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
-664469	09552004	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
-665846	10633002	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
+664469	09552004	36249278	4 ML topotecan 1 MG/ML Injection	1799424	EXACT			2026-11-11
+665846	10633002	36249278	4 ML topotecan 1 MG/ML Injection	1799424	EXACT			2026-11-11
 672700	72892	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
-693467	76570	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
+693467	76570	36249278	4 ML topotecan 1 MG/ML Injection	1799424	EXACT			2026-11-11
 701346	78428	36249275	topotecan 4 MG Injection	1799416	EXACT			2026-03-12
-701395	78445	21042035	Topotecan 1 MG Injection	OMOP350873	BROAD	Powder for concentrate vial; no standard RxNorm concept at this total dose	topotecan 1 MG Powder for Concentrate for Injectable Solution	2026-03-31
+701395	78445	21042035	Topotecan 1 MG Injection	OMOP350873	EXACT			2026-11-11
