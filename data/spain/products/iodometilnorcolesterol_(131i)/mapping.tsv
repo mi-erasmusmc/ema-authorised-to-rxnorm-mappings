@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-664038	71492	1780601	iodine	5933	BROAD	No RxNorm concept for iodometilnorcolesterol (131I); mapped to iodine ingredient		2026-03-13
+664038	71492	36858005	NORCHOLESTENOL IODOMETHYL I-131	OMOP5175620	BROAD	Isotope-specific norcholesterol ingredient; omits 7.5-15 MBq/ML activity concentration and multidose injectable form. Source 15 ML is vial capacity, not fill volume.	norcholestenol iodomethyl I-131 0.202703-0.405405 MCI/ML Injectable Solution	2026-11-11

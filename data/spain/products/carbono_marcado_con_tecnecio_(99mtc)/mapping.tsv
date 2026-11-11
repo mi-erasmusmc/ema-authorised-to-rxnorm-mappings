@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-890004	63210	702006	technetium	2571856	BROAD	No RxNorm concept for technegas (carbon-labeled Tc-99m); mapped to technetium ingredient		2026-03-13
+890004	63210				NO_MAPPING	Pulmotec is a graphite crucible kit; sodium pertechnetate Tc-99m is supplied separately. No suitable kit or Tc-99m-labeled carbon aerosol concept found in RxNorm or Extension; elemental technetium does not represent this product.	technetium Tc 99m-labeled carbon Inhalation Spray [Pulmotec]	2026-11-11

@@ -1,0 +1,5 @@
+## Mapping review 2026-11-11
+
+[Pluvicto AEMPS SmPC](https://cima.aemps.es/cima/dochtml/ft/1221703001/FT_1221703001.html): 1000 MBq/mL at calibration; each single-dose vial delivers 7400 MBq +/-10% at administration, with variable solution fill of 7.5-12.5 mL. Source data's 12.5 mL is the upper fill limit, not a fixed volume for every vial. [US prescribing information](https://www.novartis.com/us-en/sites/novartis_us/files/pluvicto.pdf) explicitly equates 1000 MBq/mL with 27 mCi/mL and describes the same fill range.
+
+Hecate standard and Extension searches returned the existing matching brand/concentration Injection concept and fixed 12.5 mL concepts (780233/780234). No concept covering the full variable fill range was found. Retain 779269 / 2597052 as BROAD, because selecting a fixed maximum fill would misrepresent part of the authorised presentation. Suggestion preserves the 7.5-12.5 mL range and single-use Injection form. A fixed 7.5 mL multidose Injectable Solution suggestion in the EMA mapping does not represent this presentation.
