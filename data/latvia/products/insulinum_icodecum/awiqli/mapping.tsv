@@ -1,15 +1,15 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1815/001	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/002	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/003	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/004	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/005	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/006	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/007	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/008	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/009	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/010	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/011	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/012	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/013	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
-EU/1/24/1815/014	1253134	INSULIN ICODEC	OMOP5556142	BROAD		insulin icodec 700 UNT/ML Pen Injector	2026-03-19
+EU/1/24/1815/001	1317566	1 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740408	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/002	1317566	1 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740408	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/003	1317566	1 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740408	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/004	1317568	1.5 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740411	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/005	1317568	1.5 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740411	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/006	1317568	1.5 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740411	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/007	1317568	1.5 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740411	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/008	1317568	1.5 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740411	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/009	1317570	3 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740413	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/010	1317570	3 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740413	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/011	1317570	3 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740413	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/012	1317570	3 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740413	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/013	1317570	3 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740413	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11
+EU/1/24/1815/014	1317570	3 ML insulin icodec-abae 700 UNT/ML Pen Injector [Awiqli]	2740413	EXACT	Insulin icodec-abae is the FDA name for Awiqli insulin icodec.		2026-11-11

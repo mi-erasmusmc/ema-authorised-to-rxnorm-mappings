@@ -1,6 +1,6 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/97/045/001	43185341	urea c-13 75 MG Powder for Oral Solution	OMOP505366	EXACT			2026-02-16
 EU/1/97/045/002	43185341	urea c-13 75 MG Powder for Oral Solution	OMOP505366	EXACT			2026-02-16
-EU/1/97/045/003	40742967	urea c-13 45 MG	OMOP4714727	BROAD	45 mg powder for oral solution, reconstituted before drinking. No matching strength-plus-form concept found; preserve the 45 mg dose. Oral Powder excludes powders reconstituted with liquid.	urea c-13 45 MG Powder for Oral Solution	2026-11-11
+EU/1/97/045/003	40742965	urea c-13 45 MG Oral Powder	OMOP4714729	EXACT	45 mg powder for oral solution, reconstituted before drinking. No matching strength-plus-form concept found; preserve the 45 mg dose. Oral Powder excludes powders reconstituted with liquid.	urea c-13 45 MG Powder for Oral Solution	2026-11-11
 EU/1/97/045/004	43185341	urea c-13 75 MG Powder for Oral Solution	OMOP505366	EXACT			2026-02-16
 EU/1/97/045/005	43185341	urea c-13 75 MG Powder for Oral Solution	OMOP505366	EXACT			2026-02-16
