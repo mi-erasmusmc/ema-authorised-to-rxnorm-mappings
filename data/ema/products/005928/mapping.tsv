@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/22/1706/001	1594152	1.56 ML abaloparatide 2 MG/ML Pen Injector	1921075	EXACT			2025-12-04
-EU/1/22/1706/002	1594152	1.56 ML abaloparatide 2 MG/ML Pen Injector	1921075	EXACT			2025-12-04
+EU/1/22/1706/001	1594152	1.56 ML abaloparatide 2 MG/ML Pen Injector	1921075	EXACT	EU labelled fill is 1.5 ML versus 1.56 ML in RxNorm. Both pens deliver 30 doses of 80 micrograms in 0.04 ML at 2 MG/ML. EMA documents 0.3 ML overfill for priming. Treated as clinically equivalent multidose pens based on identical delivered dose and dose count, rather than literal fill-volume equality.		2026-11-11
+EU/1/22/1706/002	1594152	1.56 ML abaloparatide 2 MG/ML Pen Injector	1921075	EXACT	EU labelled fill is 1.5 ML versus 1.56 ML in RxNorm. Both pens deliver 30 doses of 80 micrograms in 0.04 ML at 2 MG/ML. EMA documents 0.3 ML overfill for priming. Treated as clinically equivalent multidose pens based on identical delivered dose and dose count, rather than literal fill-volume equality.		2026-11-11
