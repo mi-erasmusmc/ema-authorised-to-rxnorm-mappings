@@ -1,0 +1,13 @@
+Denosumab reference review — 2026-11-11
+
+The TSV records one row per EU brand. Multiple EU brands can share the same FDA brand and suffixed ingredient. Blank FDA fields mean no established FDA equivalent was identified in this review; they do not mean that RxNorm coverage was checked for every presentation.
+
+- [FDA biosimilar product list](https://www.fda.gov/drugs/biosimilars/biosimilar-product-information): confirms the ten denosumab suffix families, including denosumab-adet (Ponlimsi / Degevma, March 2026), and dates Osvyrti / Jubereq to October 2025 rather than November.
+- [Richter FDA approval announcement](https://www.gedeonrichter.com/en/news/250929) and [EMA Junod assessment](https://www.ema.europa.eu/en/documents/assessment-report/junod-epar-public-assessment-report_en.pdf): establish the RGB-14 family linking Junod / Yaxwer to Enoby / Xtrenbo (denosumab-qbde). The FDA's [RGB-14 review](https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761439Orig2s000ChemR.pdf) confirms the suffixed name.
+- [EMA Rolcya risk management plan](https://www.ema.europa.eu/en/documents/rmp/rolcya-epar-risk-management-plan_en.pdf): jointly identifies Jubbonti / Rolcya as the Sandoz product. Rolcya therefore uses denosumab-bbdz.
+- [EMA Zadenvi assessment](https://www.ema.europa.eu/en/documents/assessment-report/zadenvi-epar-public-assessment-report_en.pdf) and [Enwylma assessment](https://www.ema.europa.eu/en/documents/assessment-report/enwylma-epar-public-assessment-report_en.pdf): identify MB09. The [FDA Boncresa approval letter](https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2025/761456Orig1s000ltr.pdf) identifies MB09 as denosumab-mobz. These support the Zadenvi / Boncresa and Enwylma / Oziltus links.
+- EMA pages establish the names and holders for [Osvyrti](https://www.ema.europa.eu/en/medicines/human/EPAR/osvyrti), [Ponlimsi](https://www.ema.europa.eu/en/medicines/human/EPAR/ponlimsi), [Degevma](https://www.ema.europa.eu/en/medicines/human/EPAR/degevma), [Osqay](https://www.ema.europa.eu/en/medicines/human/EPAR/osqay), [Vysribli, previously Denosumab Intas](https://www.ema.europa.eu/en/medicines/human/EPAR/vysribli), and [Denosumab Ascend](https://www.ema.europa.eu/en/medicines/human/EPAR/denosumab-ascend).
+
+Do not infer that Vysribli shares Osvyrti's FDA suffix merely because both involve Intas. No such equivalence is established by these sources. Its FDA fields remain empty.
+
+Coverage was checked against all 30 authorised denosumab biosimilar brands in the repository's EMA medicines report, excluding the originators Prolia and Xgeva, and all 20 denosumab biosimilar brands in the FDA list.

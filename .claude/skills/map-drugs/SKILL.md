@@ -186,7 +186,7 @@ Run **all** of these queries:
 4. INN alone (to discover FDA-suffixed variants)
 
 ### Scenario 1: FDA-suffixed INN exists in RxNorm
-Map to the **unbranded FDA-suffixed concept** with `mapping_type` = **EXACT**. Do NOT use US-branded concepts.
+Prefer the matching **branded standard RxNorm concept** when the EU product brand, FDA-suffixed ingredient, strength, volume, and dose form all match. Otherwise use the **unbranded FDA-suffixed concept**. Use `mapping_type` = **EXACT** when all clinically relevant presentation details match. Do not use a different US brand for an EU product.
 
 Example: Insulin aspart Sanofi (EU) = insulin aspart-szjj (FDA):
 - **concept_name**: `3 ML insulin aspart-szjj 100 UNT/ML Pen Injector`
