@@ -1,8 +1,10 @@
 brand_name	fda_name	fda_approval_date	eu_brand_name	eu_authorisation_holder
-Truxima	rituximab-abbs	2018-11	Truxima	Celltrion Healthcare Hungary Kft
-Ruxience	rituximab-pvvr	2019-07	Ruxience	Pfizer Europe Ma Eeig
-Riabni	rituximab-arrx	2020-12
-			Blitzima	Celltrion Healthcare Hungary Kft
-			Ituxredi	Reddy Holding Gmbh
-			Rixathon	Sandoz Gmbh
-			Riximyo	Sandoz Gmbh
+Truxima	rituximab-abbs	2018-11	Truxima	Celltrion Healthcare Hungary Kft.
+Ruxience	rituximab-pvvr	2019-07	Ruxience	Pfizer Europe MA EEIG
+Riabni	rituximab-arrx	2020-12		""
+Truxima	rituximab-abbs	2018-11	Blitzima	Celltrion Healthcare Hungary Kft.
+Zimrixby	rituximab-cdxx	2026-07	Ituxredi	Reddy Holding GmbH
+			Rixathon	Sandoz GmbH
+			Riximyo	Sandoz GmbH
+Truxima	rituximab-abbs	2018-11	Ritemvia	Celltrion Healthcare Hungary Kft.
+Truxima	rituximab-abbs	2018-11	Rituzena	Celltrion Healthcare Hungary Kft.
