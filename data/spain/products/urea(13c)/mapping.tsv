@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-611996	61805	19054337	urea c-13	226724	BROAD			2026-03-12
-665273	61805	19054337	urea c-13	226724	BROAD			2026-03-12
-727542	84708	40742951	urea c-13 50 MG Oral Tablet	OMOP4714743	EXACT			
-607064	97045001	19054337	urea c-13	226724	BROAD			2026-03-12
-654057	67650	19054337	urea c-13	226724	BROAD			2026-03-12
-665232	97045001	19054337	urea c-13	226724	BROAD			2026-03-12
+607064	97045001	40742919	urea c-13 75 MG Powder for Oral Solution [Helicobacter Test INFAI breath test kit]	OMOP4714774	EXACT	Oral powder for reconstitution; the source container unit does not indicate an injection route.		2026-11-11
+611996	61805	42956298	urea c-13 100 MG	OMOP4682836	BROAD	Soluble tablet dissolved in water before drinking (100 mg in 125 ml for adults; 50 mg in 50 ml for children). No matching soluble-tablet concept found; Disintegrating Oral Tablet denotes dissolution in the mouth and is unsuitable. Citral Pylori is a separately administered test meal.	urea c-13 100 MG Oral Tablet	2026-11-11
+654057	67650	42956296	urea c-13 100 MG Oral Tablet	OMOP4682834	EXACT			2026-11-11
+665232	97045001	40742919	urea c-13 75 MG Powder for Oral Solution [Helicobacter Test INFAI breath test kit]	OMOP4714774	EXACT	Oral powder for reconstitution; the source container unit does not indicate an injection route.		2026-11-11
+665273	61805	42956298	urea c-13 100 MG	OMOP4682836	BROAD	Soluble tablet dissolved in water before drinking (100 mg in 125 ml for adults; 50 mg in 50 ml for children). No matching soluble-tablet concept found; Disintegrating Oral Tablet denotes dissolution in the mouth and is unsuitable. Citral Pylori is a separately administered test meal.	urea c-13 100 MG Oral Tablet	2026-11-11
+727542	84708	40742951	urea c-13 50 MG Oral Tablet	OMOP4714743	EXACT			2026-11-11
