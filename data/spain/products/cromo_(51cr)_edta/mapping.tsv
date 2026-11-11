@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-686909	75246	19061821	chromium	2496	BROAD	No RxNorm concept for chromium-51 EDTA; mapped to chromium ingredient		2026-03-13
+686909	75246	36859702	CHROMIUM CR-51 EDETATE	OMOP5177318	BROAD	Preserves chromium-51 edetate identity; activity concentration and injectable dose form are not represented. Generic CHROMIUM CR-51 solution concepts do not explicitly identify the EDTA complex.	chromium Cr-51 edetate 3.7 MBQ/ML Injectable Solution	2026-11-11

@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-606345	78350	36881815	Magnesium sulfate heptahydrate Injection	OMOP989617	EXACT			2026-03-12
-700548	23622	36881815	Magnesium sulfate heptahydrate Injection	OMOP989617	EXACT			2026-03-12
-701105	78350	36881815	Magnesium sulfate heptahydrate Injection	OMOP989617	EXACT			2026-03-12
-766906	23622	36881815	Magnesium sulfate heptahydrate Injection	OMOP989617	EXACT			2026-03-12
+606345	78350	43041143	10 ML Magnesium sulfate heptahydrate 150 MG/ML Injectable Solution	OMOP4856173	BROAD	Matches heptahydrate strength and ampoule volume; Injectable Solution denotes multiple use, whereas these ampoules are single use. No matching strength-specific Injection concept found.	10 ML magnesium sulfate heptahydrate 150 MG/ML Injection	2026-11-11
+700548	23622	43041143	10 ML Magnesium sulfate heptahydrate 150 MG/ML Injectable Solution	OMOP4856173	BROAD	Matches heptahydrate strength and ampoule volume; Injectable Solution denotes multiple use, whereas these ampoules are single use. No matching strength-specific Injection concept found.	10 ML magnesium sulfate heptahydrate 150 MG/ML Injection	2026-11-11
+701105	78350	43041143	10 ML Magnesium sulfate heptahydrate 150 MG/ML Injectable Solution	OMOP4856173	BROAD	Matches heptahydrate strength and ampoule volume; Injectable Solution denotes multiple use, whereas these ampoules are single use. No matching strength-specific Injection concept found.	10 ML magnesium sulfate heptahydrate 150 MG/ML Injection	2026-11-11
+766906	23622	43041143	10 ML Magnesium sulfate heptahydrate 150 MG/ML Injectable Solution	OMOP4856173	BROAD	Matches heptahydrate strength and ampoule volume; Injectable Solution denotes multiple use, whereas these ampoules are single use. No matching strength-specific Injection concept found.	10 ML magnesium sulfate heptahydrate 150 MG/ML Injection	2026-11-11
