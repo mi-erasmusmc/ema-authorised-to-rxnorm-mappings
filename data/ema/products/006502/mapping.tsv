@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/2012/001	19080984	0.05 ML ranibizumab 10 MG/ML Injection	643193	BROAD		0.05 ML ranibizumab-xxxx 10 MG/ML Injection [Ranluspec]	2026-03-30
-EU/1/25/2012/002	19080984	0.05 ML ranibizumab 10 MG/ML Injection	643193	BROAD		0.05 ML ranibizumab-xxxx 10 MG/ML Prefilled Syringe [Ranluspec]	2026-03-30
+EU/1/25/2012/001	19080984	0.05 ML ranibizumab 10 MG/ML Injection	643193	BROAD	Ranluspec FDA name is ranibizumab-hkdz; no matching concept found in RxNorm or Extension. Single-use vial delivers 0.05 ML (0.5 MG); 0.23 ML fill includes excess solution.	0.05 ML ranibizumab-hkdz 10 MG/ML Injection [Ranluspec]	2026-11-11
+EU/1/25/2012/002	1593222	0.05 ML ranibizumab 10 MG/ML Prefilled Syringe	1864423	BROAD	Ranluspec FDA name is ranibizumab-hkdz; no matching concept found in RxNorm or Extension. 0.05 mL delivered dose after removing overfill.	0.05 ML ranibizumab-hkdz 10 MG/ML Prefilled Syringe [Ranluspec]	2026-11-11
