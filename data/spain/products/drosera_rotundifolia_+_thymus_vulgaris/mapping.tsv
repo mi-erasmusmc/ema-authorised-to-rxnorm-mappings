@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-666214	39214	41236528	Drosera rotundifolia extract / Thymus vulgaris whole extract Rectal Suppository	OMOP2434490	EXACT			2026-03-14
-806521	26271	40986457	Drosera rotundifolia extract / Thymus vulgaris whole extract Oral Solution	OMOP2184419	EXACT			2026-03-14
+666214	39214	41236528	Drosera rotundifolia extract / Thymus vulgaris whole extract Rectal Suppository	OMOP2434490	BROAD		Drosera rotundifolia extract 140 MG / Thymus vulgaris whole extract 140 MG Rectal Suppository [Pilka Niños]	2026-11-11
+806521	26271	40986457	Drosera rotundifolia extract / Thymus vulgaris whole extract Oral Solution	OMOP2184419	BROAD		Drosera rotundifolia extract 0.5 ML/ML / Thymus vulgaris whole extract 0.5 ML/ML Oral Solution [Pilka]	2026-11-11
