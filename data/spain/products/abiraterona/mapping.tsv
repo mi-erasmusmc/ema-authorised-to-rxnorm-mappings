@@ -1,7 +1,9 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-713971	111714003	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
+683759	11714001	40239061	abiraterone acetate 250 MG Oral Tablet [Zytiga]	1100079	EXACT			2026-11-11
+713971	111714003	1593815	abiraterone acetate 500 MG Oral Tablet [Zytiga]	1918044	EXACT	CIMA source dosage fields incorrectly say 500 micrograms; product name and official SmPC confirm 500 mg abiraterone acetate per tablet (see sources.md).		2026-11-11
 730592	85850	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 730802	85915	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
+730803	85916	40239060	abiraterone acetate 250 MG Oral Tablet	1100075	EXACT			2026-03-12
 730902	85945	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 731201	86024	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 731230	86037	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
@@ -9,6 +11,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 731376	86095	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 731609	86189	40239060	abiraterone acetate 250 MG Oral Tablet	1100075	EXACT			2026-03-12
 731610	86190	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
+732074	86347	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
+732135	111714003IP	1593815	abiraterone acetate 500 MG Oral Tablet [Zytiga]	1918044	EXACT	CIMA source ingredient field incorrectly says 600 mg; product name, clinical presentation and official SmPC confirm 500 mg abiraterone acetate per tablet (see sources.md).		2026-11-11
 732612	1211571008	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 732847	1201512003	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 732855	1211571016	36955180	abiraterone 1000 MG Oral Tablet	OMOP5193810	EXACT			2026-03-11
@@ -20,9 +24,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 763134	88972	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 763135	88972	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 765885	89854	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
-683759	11714001	40239060	abiraterone acetate 250 MG Oral Tablet	1100075	EXACT			2026-03-12
-730803	85916	40239060	abiraterone acetate 250 MG Oral Tablet	1100075	EXACT			2026-03-12
-732074	86347	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
-732135	111714003IP	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12
 767740	90340	40239060	abiraterone acetate 250 MG Oral Tablet	1100075	EXACT			2026-03-12
 767749	90341	1593813	abiraterone acetate 500 MG Oral Tablet	1918042	EXACT			2026-03-12

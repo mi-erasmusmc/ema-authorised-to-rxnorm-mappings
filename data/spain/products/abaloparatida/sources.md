@@ -1,0 +1,4 @@
+Reviewed 2026-11-11.
+
+- [EMA Eladynos product information](https://www.ema.europa.eu/en/documents/product-information/eladynos-epar-product-information_en.pdf), section 2: each pen contains 3 mg in 1.5 mL (2 mg/mL), delivering 80 micrograms per 0.04 mL dose.
+- Established EMA mapping: [Eladynos 005928](../../../ema/products/005928/mapping.tsv), EU/1/22/1706/001, maps EXACT to `1.56 ML abaloparatide 2 MG/ML Pen Injector` (concept_id 1594152, RxCUI 1921075). Use the same EXACT concept for Spain presentation 763396: both pens deliver 30 doses of 80 micrograms in 0.04 mL at 2 mg/mL. The labeled fill difference does not change delivered dose or usable dose count. See the [EMA mapping evidence](../../../ema/products/005928/sources.md) for the overfill and US labeling references and the limits of this clinical-equivalence judgment.
