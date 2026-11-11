@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/12/764/001	40744138	Pixantrone 29 MG Injectable Solution [Pixuvri] by Servier	OMOP4712933	EXACT			2026-03-16
+EU/1/12/764/001	21125336	Pixantrone 29 MG Injection	OMOP275885	EXACT	RxNorm Extension has a clean 29 MG pixantrone injection concept; preferred over supplier-specific [Pixuvri] Extension variants.		2026-11-11

@@ -1,7 +1,7 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/14/920/001	42708508	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1246304	EXACT			2025-12-04
-EU/1/14/920/002	42708508	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1246304	EXACT			2025-12-04
-EU/1/14/920/003	42708508	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1246304	EXACT			2025-12-04
+EU/1/14/920/001	43043379	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [DUORESP SPIROMAX]	OMOP4858391	EXACT	EMA SmPC: 160/4.5 micrograms delivered equals 200/6 micrograms metered. Selected concept uses the labelled delivered dose and 120-dose dry powder inhaler; standard RxNorm has the liquid metered-dose form only.		2026-11-11
+EU/1/14/920/002	43043379	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [DUORESP SPIROMAX]	OMOP4858391	EXACT	EMA SmPC: 160/4.5 micrograms delivered equals 200/6 micrograms metered. Selected concept uses the labelled delivered dose and 120-dose dry powder inhaler; standard RxNorm has the liquid metered-dose form only.		2026-11-11
+EU/1/14/920/003	43043379	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler [DUORESP SPIROMAX]	OMOP4858391	EXACT	EMA SmPC: 160/4.5 micrograms delivered equals 200/6 micrograms metered. Selected concept uses the labelled delivered dose and 120-dose dry powder inhaler; standard RxNorm has the liquid metered-dose form only.		2026-11-11
 EU/1/14/920/004	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04
 EU/1/14/920/005	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04
 EU/1/14/920/006	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04

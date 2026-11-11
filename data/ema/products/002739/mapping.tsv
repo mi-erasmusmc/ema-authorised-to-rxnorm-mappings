@@ -1,4 +1,4 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/15/1006/001	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT			2025-12-04
-EU/1/15/1006/002	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT			2025-12-04
-EU/1/15/1006/003	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT			2025-12-04
+EU/1/15/1006/001	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT	RxNorm normalizes this plasma-derived biologic to a 1 MG dosing unit, not a 1 MG vial. The 1000/4000/5000 MG vial amounts are retained in the source presentation. DailyMed maps the corresponding Zemaira vial sizes to RxCUI 1661208.		2026-11-11
+EU/1/15/1006/002	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT	RxNorm normalizes this plasma-derived biologic to a 1 MG dosing unit, not a 1 MG vial. The 1000/4000/5000 MG vial amounts are retained in the source presentation. DailyMed maps the corresponding Zemaira vial sizes to RxCUI 1661208.		2026-11-11
+EU/1/15/1006/003	46276116	alpha 1-proteinase inhibitor, human 1 MG Injection	1661208	EXACT	RxNorm normalizes this plasma-derived biologic to a 1 MG dosing unit, not a 1 MG vial. The 1000/4000/5000 MG vial amounts are retained in the source presentation. DailyMed maps the corresponding Zemaira vial sizes to RxCUI 1661208.		2026-11-11

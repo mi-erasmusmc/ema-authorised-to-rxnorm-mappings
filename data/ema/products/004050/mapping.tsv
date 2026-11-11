@@ -1,11 +1,11 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/16/1133/001	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/002	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/003	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/004	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/005	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/006	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/007	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/008	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/009	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
-EU/1/16/1133/010	21045404	emtricitabine 200 MG / Tenofovir 245 MG Oral Tablet	OMOP412244	EXACT			2025-12-04
+EU/1/16/1133/001	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/002	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/003	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/004	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/005	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/006	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/007	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/008	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/009	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11
+EU/1/16/1133/010	1703093	emtricitabine 200 MG / tenofovir disoproxil fumarate 300 MG Oral Tablet	476556	EXACT	EU tablet contains 200 MG emtricitabine and 245 MG tenofovir disoproxil as maleate. The equivalent active disoproxil amount is represented by the standard RxNorm 300 MG fumarate-labelled concept.		2026-11-11

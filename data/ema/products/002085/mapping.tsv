@@ -1,2 +1,2 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/14/955/001	35897989	Tilmanocept 0.05 MG Kit for radiopharmaceutical preparation [Lymphoseek] Box of 5	OMOP5042228	BROAD	Validator does not allow this radiopharmaceutical kit concept as EXACT despite the close match to the EMA presentation.	tilmanocept 0.05 MG Injection [Lymphoseek]	2026-03-31
+EU/1/14/955/001	35897991	Tilmanocept 0.05 MG Kit for radiopharmaceutical preparation [Lymphoseek]	OMOP5042230	BROAD	Radiopharmaceutical kit; no tilmanocept concept with validator-recognised dose form exists	Tilmanocept 0.05 MG Injection [Lymphoseek]	2026-11-11

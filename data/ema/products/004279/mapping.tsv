@@ -1,18 +1,18 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/17/1216/001	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
-EU/1/17/1216/002	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
-EU/1/17/1216/003	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
-EU/1/17/1216/004	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
-EU/1/17/1216/005	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
-EU/1/17/1216/006	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
-EU/1/17/1216/007	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
-EU/1/17/1216/008	19127196	0.8 ML adalimumab 50 MG/ML Prefilled Syringe	727703	EXACT			2025-12-04
-EU/1/17/1216/009	19098170	0.8 ML adalimumab 50 MG/ML Injection	351290	EXACT			2025-12-04
-EU/1/17/1216/010	35604490	0.4 ML adalimumab 100 MG/ML Prefilled Syringe	1726844	EXACT			2025-12-04
-EU/1/17/1216/011	35604490	0.4 ML adalimumab 100 MG/ML Prefilled Syringe	1726844	EXACT			2025-12-04
-EU/1/17/1216/012	35604490	0.4 ML adalimumab 100 MG/ML Prefilled Syringe	1726844	EXACT			2025-12-04
-EU/1/17/1216/013	35604490	0.4 ML adalimumab 100 MG/ML Prefilled Syringe	1726844	EXACT			2025-12-04
-EU/1/17/1216/014	35604490	0.4 ML adalimumab 100 MG/ML Prefilled Syringe	1726844	EXACT			2025-12-04
-EU/1/17/1216/015	35604490	0.4 ML adalimumab 100 MG/ML Prefilled Syringe	1726844	EXACT			2025-12-04
-EU/1/17/1216/016	35604490	0.4 ML adalimumab 100 MG/ML Prefilled Syringe	1726844	EXACT			2025-12-04
-EU/1/17/1216/017	35604490	0.4 ML adalimumab 100 MG/ML Prefilled Syringe	1726844	EXACT			2025-12-04
+EU/1/17/1216/001	747701	0.8 ML adalimumab-bwwd 50 MG/ML Prefilled Syringe	2640302	EXACT			2026-11-11
+EU/1/17/1216/002	747701	0.8 ML adalimumab-bwwd 50 MG/ML Prefilled Syringe	2640302	EXACT			2026-11-11
+EU/1/17/1216/003	747701	0.8 ML adalimumab-bwwd 50 MG/ML Prefilled Syringe	2640302	EXACT			2026-11-11
+EU/1/17/1216/004	747701	0.8 ML adalimumab-bwwd 50 MG/ML Prefilled Syringe	2640302	EXACT			2026-11-11
+EU/1/17/1216/005	747699	0.8 ML adalimumab-bwwd 50 MG/ML Auto-Injector	2640287	EXACT			2026-11-11
+EU/1/17/1216/006	747699	0.8 ML adalimumab-bwwd 50 MG/ML Auto-Injector	2640287	EXACT			2026-11-11
+EU/1/17/1216/007	747699	0.8 ML adalimumab-bwwd 50 MG/ML Auto-Injector	2640287	EXACT			2026-11-11
+EU/1/17/1216/008	747699	0.8 ML adalimumab-bwwd 50 MG/ML Auto-Injector	2640287	EXACT			2026-11-11
+EU/1/17/1216/009	747713	0.8 ML adalimumab-bwwd 50 MG/ML Injection	2640419	EXACT	Imraldi corresponds to FDA adalimumab-bwwd; this presentation is a 40 MG/0.8 ML single-use vial.		2026-11-11
+EU/1/17/1216/010	747715	0.4 ML adalimumab-bwwd 100 MG/ML Prefilled Syringe	2640425	EXACT			2026-11-11
+EU/1/17/1216/011	747715	0.4 ML adalimumab-bwwd 100 MG/ML Prefilled Syringe	2640425	EXACT			2026-11-11
+EU/1/17/1216/012	747715	0.4 ML adalimumab-bwwd 100 MG/ML Prefilled Syringe	2640425	EXACT			2026-11-11
+EU/1/17/1216/013	747715	0.4 ML adalimumab-bwwd 100 MG/ML Prefilled Syringe	2640425	EXACT			2026-11-11
+EU/1/17/1216/014	747717	0.4 ML adalimumab-bwwd 100 MG/ML Auto-Injector	2640430	EXACT			2026-11-11
+EU/1/17/1216/015	747717	0.4 ML adalimumab-bwwd 100 MG/ML Auto-Injector	2640430	EXACT			2026-11-11
+EU/1/17/1216/016	747717	0.4 ML adalimumab-bwwd 100 MG/ML Auto-Injector	2640430	EXACT			2026-11-11
+EU/1/17/1216/017	747717	0.4 ML adalimumab-bwwd 100 MG/ML Auto-Injector	2640430	EXACT			2026-11-11

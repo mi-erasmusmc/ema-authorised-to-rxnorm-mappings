@@ -4,4 +4,4 @@ EU/1/17/1262/002	1510770	1 ML burosumab-twza 20 MG/ML Injection [Crysvita]	20438
 EU/1/17/1262/003	1510772	1 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2043878	EXACT			2026-04-02
 EU/1/17/1262/004	1510252	burosumab-twza 30 MG/ML Injection [Crysvita]	2043880	BROAD		0.33 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2026-04-02
 EU/1/17/1262/005	1510252	burosumab-twza 30 MG/ML Injection [Crysvita]	2043880	BROAD		0.67 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2026-04-02
-EU/1/17/1262/006	1510772	1 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2043878	EXACT			2026-04-02
+EU/1/17/1262/006	1510772	1 ML burosumab-twza 30 MG/ML Injection [Crysvita]	2043878	BROAD	Prefilled syringe; no matching syringe concept found in RxNorm or Extension.	1 ML burosumab-twza 30 MG/ML Prefilled Syringe [Crysvita]	2026-11-11
