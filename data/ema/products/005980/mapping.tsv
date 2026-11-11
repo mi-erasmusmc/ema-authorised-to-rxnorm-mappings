@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/24/1887/001	40244268	0.05 ML aflibercept 40 MG/ML Injection	1232154	BROAD		0.05 ML aflibercept-xxxx 40 MG/ML Injection [Baiama]	2026-03-31
-EU/1/24/1887/002	1735855	0.05 ML aflibercept 40 MG/ML Prefilled Syringe	2693564	BROAD		0.05 ML aflibercept-xxxx 40 MG/ML Prefilled Syringe [Baiama]	2026-03-31
+EU/1/24/1887/001	1466461	0.05 ML aflibercept-mrbb 40 MG/ML Injection	2706533	EXACT	Baiama and Ahzantive are the same FYB203 biosimilar (aflibercept-mrbb). The delivered intravitreal dose is 2 mg in 0.05 mL; excess container fill is discarded.		2026-11-11
+EU/1/24/1887/002	1466461	0.05 ML aflibercept-mrbb 40 MG/ML Injection	2706533	BROAD	Baiama and Ahzantive are the same FYB203 biosimilar (aflibercept-mrbb). The delivered intravitreal dose is 2 mg in 0.05 mL; excess container fill is discarded. RxNorm captures the matching biosimilar and dose as Injection; no matching Prefilled Syringe concept found.	0.05 ML aflibercept-mrbb 40 MG/ML Prefilled Syringe [Baiama]	2026-11-11

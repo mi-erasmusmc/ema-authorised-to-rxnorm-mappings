@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/25/1961/001	1735855	0.05 ML aflibercept 40 MG/ML Prefilled Syringe	2693564	EXACT			2025-12-04
-EU/1/25/1961/002	40244268	0.05 ML aflibercept 40 MG/ML Injection	1232154	EXACT			2025-12-04
+EU/1/25/1961/001	1735855	0.05 ML aflibercept 40 MG/ML Prefilled Syringe	2693564	BROAD	No established FDA-suffixed counterpart; plain aflibercept does not identify this biosimilar. The delivered intravitreal dose is 2 mg in 0.05 mL; excess container fill is discarded.	0.05 ML aflibercept-xxxx 40 MG/ML Prefilled Syringe [Vgenfli]	2026-11-11
+EU/1/25/1961/002	40244268	0.05 ML aflibercept 40 MG/ML Injection	1232154	BROAD	No established FDA-suffixed counterpart; plain aflibercept does not identify this biosimilar. The delivered intravitreal dose is 2 mg in 0.05 mL; excess container fill is discarded.	0.05 ML aflibercept-xxxx 40 MG/ML Injection [Vgenfli]	2026-11-11
