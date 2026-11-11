@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/20/1509/001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2025-12-04
-EU/1/20/1509/002	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2025-12-04
+EU/1/20/1509/001	780245	4 ML bevacizumab-maly 25 MG/ML Injection [Alymsys]	2599049	EXACT	Alymsys biosimilar; preserve the actual 4 ML single-use vial and FDA-suffixed ingredient.		2026-11-11
+EU/1/20/1509/002	780247	16 ML bevacizumab-maly 25 MG/ML Injection [Alymsys]	2599052	EXACT	Alymsys biosimilar; preserve the actual 16 ML single-use vial and FDA-suffixed ingredient.		2026-11-11

@@ -1,6 +1,6 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/22/1667/001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2025-12-04
-EU/1/22/1667/002	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2025-12-04
-EU/1/22/1667/003	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2025-12-04
-EU/1/22/1667/004	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2025-12-04
-EU/1/22/1667/005	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2025-12-04
+EU/1/22/1667/001	1302337	4 ML bevacizumab-adcd 25 MG/ML Injection [Vegzelma]	2627656	EXACT	Vegzelma biosimilar; preserve the actual 4 ML single-use vial and FDA-suffixed ingredient.		2026-11-11
+EU/1/22/1667/002	1302339	16 ML bevacizumab-adcd 25 MG/ML Injection [Vegzelma]	2627659	EXACT	Vegzelma biosimilar; preserve the actual 16 ML single-use vial and FDA-suffixed ingredient.		2026-11-11
+EU/1/22/1667/003	1302337	4 ML bevacizumab-adcd 25 MG/ML Injection [Vegzelma]	2627656	EXACT	Vegzelma biosimilar; preserve the actual 4 ML single-use vial and FDA-suffixed ingredient.		2026-11-11
+EU/1/22/1667/004	1302339	16 ML bevacizumab-adcd 25 MG/ML Injection [Vegzelma]	2627659	EXACT	Vegzelma biosimilar; preserve the actual 16 ML single-use vial and FDA-suffixed ingredient.		2026-11-11
+EU/1/22/1667/005	1302339	16 ML bevacizumab-adcd 25 MG/ML Injection [Vegzelma]	2627659	EXACT	Vegzelma biosimilar; preserve the actual 16 ML single-use vial and FDA-suffixed ingredient.		2026-11-11

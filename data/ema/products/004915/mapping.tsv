@@ -1,3 +1,3 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/18/1329/001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
-EU/1/18/1329/002	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
+EU/1/18/1329/001	1560160	0.6 ML pegfilgrastim-jmdb 10 MG/ML Prefilled Syringe [Fulphila]	2048025	EXACT	Fulphila corresponds to FDA pegfilgrastim-jmdb; both needle-guard variants contain the same 6 MG/0.6 ML prefilled syringe.		2026-11-11
+EU/1/18/1329/002	1560160	0.6 ML pegfilgrastim-jmdb 10 MG/ML Prefilled Syringe [Fulphila]	2048025	EXACT	Fulphila corresponds to FDA pegfilgrastim-jmdb; both needle-guard variants contain the same 6 MG/0.6 ML prefilled syringe.		2026-11-11

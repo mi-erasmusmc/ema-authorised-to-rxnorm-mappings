@@ -1,7 +1,7 @@
 ma_number	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-EU/1/14/921/001	42708508	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1246304	EXACT			2025-12-04
-EU/1/14/921/002	42708508	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1246304	EXACT			2025-12-04
-EU/1/14/921/003	42708508	120 ACTUAT budesonide 0.16 MG/ACTUAT / formoterol fumarate 0.0045 MG/ACTUAT Metered Dose Inhaler	1246304	EXACT			2025-12-04
+EU/1/14/921/001	35421281	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler	OMOP1154866	EXACT	EMA SmPC: 160/4.5 micrograms delivered equals 200/6 micrograms metered. Extension matches the labelled delivered dose and 120-dose dry powder inhaler; standard RxNorm has the liquid metered-dose form only. No matching BiResp-branded concept found.		2026-11-11
+EU/1/14/921/002	35421281	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler	OMOP1154866	EXACT	EMA SmPC: 160/4.5 micrograms delivered equals 200/6 micrograms metered. Extension matches the labelled delivered dose and 120-dose dry powder inhaler; standard RxNorm has the liquid metered-dose form only. No matching BiResp-branded concept found.		2026-11-11
+EU/1/14/921/003	35421281	120 ACTUAT Budesonide 0.16 MG/ACTUAT / formoterol 0.0045 MG/ACTUAT Dry Powder Inhaler	OMOP1154866	EXACT	EMA SmPC: 160/4.5 micrograms delivered equals 200/6 micrograms metered. Extension matches the labelled delivered dose and 120-dose dry powder inhaler; standard RxNorm has the liquid metered-dose form only. No matching BiResp-branded concept found.		2026-11-11
 EU/1/14/921/004	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04
 EU/1/14/921/005	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04
 EU/1/14/921/006	35421264	60 ACTUAT Budesonide 0.32 MG/ACTUAT / formoterol 0.009 MG/ACTUAT Dry Powder Inhaler	OMOP1154849	EXACT			2025-12-04
