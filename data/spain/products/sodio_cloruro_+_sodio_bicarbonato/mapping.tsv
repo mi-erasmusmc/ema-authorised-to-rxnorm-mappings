@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-645044	60175	1593935	sodium bicarbonate Injection	1868187	BROAD	hemodiafiltration solution with NaCl+NaHCO3; no exact combo concept; mapped to sodium bicarbonate injectable		2026-03-12
+645044	60175	43797434	Sodium Bicarbonate / Sodium Chloride Injectable Solution	OMOP699876	BROAD	Extension combination preserves both active ingredients but omits their strengths and the 3000 ML hemodiafiltration bag presentation. Injectable Solution does not encode the single-use bag; no exact combination/strength/form match found.	3000 ML sodium bicarbonate 3.36 MG/ML / sodium chloride 5.845 MG/ML Injection	2026-11-11

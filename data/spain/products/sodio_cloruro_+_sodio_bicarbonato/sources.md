@@ -1,0 +1,5 @@
+## Mapping review 2026-11-11
+
+[Baxter Formula D6 manufacturer leaflet, mirrored by the Spanish General Pharmaceutical Council](https://botplusweb.farmaceuticos.com/documentos/2011/6/22/48098.pdf) gives 584.5 mg sodium chloride and 336 mg sodium bicarbonate per 100 mL: 5.845 and 3.36 mg/mL respectively. Presentations include four 3000 mL bags, consistent with this CIMA row. Direct CIMA document URLs for registration 60175 were unavailable during review.
+
+Hecate RxNorm and Extension searches found no exact two-ingredient strength/form match. Selected clean unbranded Extension combination 43797434 / OMOP699876, BROAD, preserving both active ingredients instead of the previous bicarbonate-only concept. Injectable Solution is an imperfect form match for the hemodiafiltration bag, and strength/volume are omitted; suggestion expresses the full 3000 mL clinical presentation using Injection. Rejected 3.09 mg/mL bicarbonate + 6 mg/mL chloride concepts because both concentrations differ, and rejected nasal, oral and irrigation concepts because their routes differ.

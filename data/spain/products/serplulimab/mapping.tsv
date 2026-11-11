@@ -1,2 +1,2 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-767503	1241870001	36861273	SERPLULIMAB	OMOP5178890	BROAD			2025-12-04
+767503	1241870001	36861273	SERPLULIMAB	OMOP5178890	BROAD	Only the serplulimab ingredient concept was found in RxNorm Extension; it omits the 10 MG/ML strength, 10 ML vial presentation and intravenous dose form.	10 ML serplulimab 10 MG/ML Injection [Hetronifly]	2026-11-11

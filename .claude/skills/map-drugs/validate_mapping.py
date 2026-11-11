@@ -14,6 +14,7 @@ Validates:
 - suggestion is not a stray YYYY-MM-DD value
 - suggestion does not contain pipe-delimited pseudo-records
 - non-empty suggestions contain a recognized RxNorm dose form
+- suggestions must not use the non-normalized form Concentrate for Injectable Solution
 
 Exit code 0 if all files pass, 1 if any errors found.
 
@@ -33,6 +34,10 @@ import sys
 
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 BRAND_SUFFIX_RE = re.compile(r"^(?P<base>.+?) \[[^\]]+\]$")
+# Do not accept this legacy wording merely because its suffix matches Injectable Solution.
+NON_NORMALIZED_CONCENTRATE_RE = re.compile(
+    r"\bconcentrate\s+for\s+injectable\s+solution\b", re.IGNORECASE,
+)
 # Matches a strength value+unit anywhere in the concept name (e.g. "20 MG/ML", "5000 UNT").
 # Used to detect bare clinical drug components (ingredient+strength, no dose form).
 STRENGTH_IN_NAME_RE = re.compile(
@@ -309,6 +314,12 @@ def validate_file(path: str) -> list[tuple[str, str]]:
                         f"  {line}: NO_MAPPING mappings require suggestion"
                     ))
                 if suggestion:
+                    if NON_NORMALIZED_CONCENTRATE_RE.search(suggestion):
+                        errors.append((
+                            "BAD_SUGGESTION",
+                            f"  {line}: Concentrate for Injectable Solution is not a normalized RxNorm dose form; "
+                            "use Injection for single-use products or Injectable Solution for multidose products"
+                        ))
                     if suggestion.casefold() == concept_name.casefold():
                         errors.append((
                             "BAD_SUGGESTION",
