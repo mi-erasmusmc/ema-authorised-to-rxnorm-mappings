@@ -1,4 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+658151	03256008	46275567	0.8 ML adalimumab 50 MG/ML Auto-Injector [Humira]	1655728	EXACT			2026-03-13
+677684	03256001	19098494	0.8 ML adalimumab 50 MG/ML Injection [Humira]	352334	EXACT			2026-03-13
 709242	103256013	35604492	0.4 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]	1726846	EXACT			2026-03-13
 709452	103256017	1592710	0.4 ML adalimumab 100 MG/ML Auto-Injector [Humira]	1872980	EXACT			2026-03-13
 716140	103256020	1718325	0.8 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]	1855524	EXACT			2026-03-13
@@ -11,36 +13,34 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 721462	1171216005	747699	0.8 ML adalimumab-bwwd 50 MG/ML Auto-Injector	2640287	EXACT			2026-03-13
 721939	1171216005	747699	0.8 ML adalimumab-bwwd 50 MG/ML Auto-Injector	2640287	EXACT			2026-03-13
 721942	1171216001	747701	0.8 ML adalimumab-bwwd 50 MG/ML Prefilled Syringe	2640302	EXACT			2026-03-13
-723341	1181286004	747841	0.8 ML adalimumab-adaz 50 MG/ML Auto-Injector	2665419	EXACT			2026-03-13
-723342	1181286004	747841	0.8 ML adalimumab-adaz 50 MG/ML Auto-Injector	2665419	EXACT			2026-03-13
-723343	1181286001	747843	0.8 ML adalimumab-adaz 50 MG/ML Prefilled Syringe	2665424	EXACT			2026-03-13
-723344	1181286001	747843	0.8 ML adalimumab-adaz 50 MG/ML Prefilled Syringe	2665424	EXACT			2026-03-13
-723688	1181319002	747711	0.8 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe	2640417	EXACT			2026-03-13
-723689	1181319005	747707	0.8 ML adalimumab-fkjp 50 MG/ML Auto-Injector	2640404	EXACT			2026-03-13
-723690	1181319007	747711	0.8 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe	2640417	EXACT			2026-04-03
-725963	1191356002	747719	0.8 ML adalimumab-aacf 50 MG/ML Prefilled Syringe	2640851	EXACT			2026-03-13
-725964	1191356003	747721	0.8 ML adalimumab-aacf 50 MG/ML Auto-Injector	2640859	EXACT			2026-03-13
-730614	1201513010	1201612	0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector	2639651	EXACT			2026-03-13
-730615	1201513010	1201612	0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector	2639651	EXACT			2026-03-13
-733758	1201513015	747880	0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector	2668487	EXACT			2026-03-13
-733759	1201513015	747880	0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector	2668487	EXACT			2026-03-13
+722302	103256024	35604492	0.4 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]	1726846	EXACT			2026-03-13
+722303	103256026	1718325	0.8 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]	1855524	EXACT			2026-03-13
+722390	103256023	35604492	0.4 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]	1726846	EXACT	des_dcp incorrectly says pen; des_nomco, envase, unidad_contenido and Spanish Ministry presentation listing confirm a 0.4 ML prefilled syringe (see sources.md).		2026-11-13
+722391	103256023	35604492	0.4 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]	1726846	EXACT	des_dcp incorrectly says pen; des_nomco, envase, unidad_contenido and Spanish Ministry presentation listing confirm a 0.4 ML prefilled syringe (see sources.md).		2026-11-13
+723341	1181286004	747842	0.8 ML adalimumab-adaz 50 MG/ML Auto-Injector [Hyrimoz]	2665422	EXACT			2026-11-11
+723342	1181286004	747842	0.8 ML adalimumab-adaz 50 MG/ML Auto-Injector [Hyrimoz]	2665422	EXACT			2026-11-11
+723343	1181286001	747844	0.8 ML adalimumab-adaz 50 MG/ML Prefilled Syringe [Hyrimoz]	2665426	EXACT			2026-11-11
+723344	1181286001	747844	0.8 ML adalimumab-adaz 50 MG/ML Prefilled Syringe [Hyrimoz]	2665426	EXACT			2026-11-11
+723688	1181319002	747712	0.8 ML adalimumab-fkjp 50 MG/ML Prefilled Syringe [Hulio]	2640418	EXACT			2026-11-11
+723689	1181319005	747708	0.8 ML adalimumab-fkjp 50 MG/ML Auto-Injector [Hulio]	2640410	EXACT			2026-11-11
+723690	1181319007	745906	adalimumab-fkjp 50 MG/ML [Hulio]	2640407	BROAD	This presentation is a 0.8 ML vial, not a prefilled syringe; no matching suffixed vial concept is available.	0.8 ML adalimumab-fkjp 50 MG/ML Injection [Hulio]	2026-11-11
+725961	1191356001	1466356	0.8 ML adalimumab-aacf 50 MG/ML Injection	2699315	EXACT			2026-03-13
+725963	1191356002	747720	0.8 ML adalimumab-aacf 50 MG/ML Prefilled Syringe [Idacio]	2640857	EXACT			2026-11-11
+725964	1191356003	747722	0.8 ML adalimumab-aacf 50 MG/ML Auto-Injector [Idacio]	2640862	EXACT			2026-11-11
+730614	1201513010	1201613	0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]	2639657	EXACT			2026-11-11
+730615	1201513010	1201613	0.4 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]	2639657	EXACT			2026-11-11
+733758	1201513015	747881	0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]	2668488	EXACT			2026-11-11
+733759	1201513015	747881	0.8 ML adalimumab-aaty 100 MG/ML Auto-Injector [Yuflyma]	2668488	EXACT			2026-11-11
 758019	1171216010	747715	0.4 ML adalimumab-bwwd 100 MG/ML Prefilled Syringe	2640425	EXACT			2026-03-13
 758020	1171216010	747715	0.4 ML adalimumab-bwwd 100 MG/ML Prefilled Syringe	2640425	EXACT			2026-03-13
 758021	1171216014	747717	0.4 ML adalimumab-bwwd 100 MG/ML Auto-Injector	2640430	EXACT			2026-03-13
 758022	1171216014	747717	0.4 ML adalimumab-bwwd 100 MG/ML Auto-Injector	2640430	EXACT			2026-03-13
-762473	1181286010	747745	0.8 ML adalimumab-adaz 100 MG/ML Auto-Injector	2641662	EXACT			2026-03-13
-762475	1181286015	747741	0.4 ML adalimumab-adaz 100 MG/ML Auto-Injector	2641655	EXACT			2026-03-13
-762476	1181286015	747741	0.4 ML adalimumab-adaz 100 MG/ML Auto-Injector	2641655	EXACT			2026-03-13
-762540	1181286012	747743	0.4 ML adalimumab-adaz 100 MG/ML Prefilled Syringe	2641660	EXACT			2026-03-13
+762473	1181286010	747746	0.8 ML adalimumab-adaz 100 MG/ML Auto-Injector [Hyrimoz]	2641663	EXACT			2026-11-11
+762475	1181286015	747742	0.4 ML adalimumab-adaz 100 MG/ML Auto-Injector [Hyrimoz]	2641658	EXACT			2026-11-11
+762476	1181286015	747742	0.4 ML adalimumab-adaz 100 MG/ML Auto-Injector [Hyrimoz]	2641658	EXACT			2026-11-11
+762540	1181286012	747744	0.4 ML adalimumab-adaz 100 MG/ML Prefilled Syringe [Hyrimoz]	2641661	EXACT			2026-11-11
 765099	1161164012	747807	0.4 ML adalimumab-atto 100 MG/ML Prefilled Syringe	2663906	EXACT			2026-03-13
 765100	1161164015	747809	0.4 ML adalimumab-atto 100 MG/ML Auto-Injector	2663908	EXACT			2026-03-13
 765101	1161164010	747805	0.2 ML adalimumab-atto 100 MG/ML Prefilled Syringe	2663901	EXACT			2026-03-13
-658151	03256008	46275567	0.8 ML adalimumab 50 MG/ML Auto-Injector [Humira]	1655728	EXACT			2026-03-13
-677684	03256001	19098494	0.8 ML adalimumab 50 MG/ML Injection [Humira]	352334	EXACT			2026-03-13
-722302	103256024	35604492	0.4 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]	1726846	EXACT			2026-03-13
-722303	103256026	1718325	0.8 ML adalimumab 100 MG/ML Prefilled Syringe [Humira]	1855524	EXACT			2026-03-13
-722390	103256023	1592710	0.4 ML adalimumab 100 MG/ML Auto-Injector [Humira]	1872980	EXACT			2026-03-13
-722391	103256023	1592710	0.4 ML adalimumab 100 MG/ML Auto-Injector [Humira]	1872980	EXACT			2026-03-13
-725961	1191356001	1466356	0.8 ML adalimumab-aacf 50 MG/ML Injection	2699315	EXACT			2026-03-13
-765613	1181286001IP	747843	0.8 ML adalimumab-adaz 50 MG/ML Prefilled Syringe	2665424	EXACT			2026-03-13
+765613	1181286001IP	747844	0.8 ML adalimumab-adaz 50 MG/ML Prefilled Syringe [Hyrimoz]	2665426	EXACT			2026-11-11
 954065	03256003	19127197	0.8 ML adalimumab 50 MG/ML Prefilled Syringe [Humira]	727705	EXACT			2026-03-13

@@ -1,18 +1,18 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-726625	1181344002	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2025-12-04
-726626	1181344001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2026-01-02
-726678	1171246001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2026-01-02
-726679	1171246002	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2026-01-02
-729169	1201454001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2026-03-10
-729170	1201454001	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2026-03-12
-730745	1201510001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2026-03-12
-730746	1201510001	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2025-12-04
-730998	1201509001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2025-12-04
-730999	1201509001	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2026-03-12
-758486	1221667001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2025-12-04
-758487	1221667001	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2026-03-12
-764394	1201515001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2026-03-10
-764395	1201515001	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2026-03-12
-650602	04300001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	EXACT			2026-03-12
-650603	04300002	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2026-03-12
-732647	04300002IP	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	EXACT			2026-03-12
+650602	04300001	46275985	4 ML bevacizumab 25 MG/ML Injection [Avastin]	1657068	EXACT			2026-11-13
+650603	04300002	46275989	16 ML bevacizumab 25 MG/ML Injection [Avastin]	1657074	EXACT			2026-11-13
+726625	1181344002	37499782	16 ML bevacizumab-bvzr 25 MG/ML Injection [Zirabev]	2268048	EXACT			2026-11-13
+726626	1181344001	37499780	4 ML bevacizumab-bvzr 25 MG/ML Injection [Zirabev]	2268044	EXACT			2026-11-13
+726678	1171246001	1510792	4 ML bevacizumab-awwb 25 MG/ML Injection [Mvasi]	2046149	EXACT			2026-11-13
+726679	1171246002	1510790	16 ML bevacizumab-awwb 25 MG/ML Injection [Mvasi]	2046145	EXACT			2026-11-13
+729169	1201454001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	BROAD	Aybintio biosimilar; des_dcp specifies the 4 ML vial. nro_definitivo may be shared across vial sizes.	4 ML bevacizumab-xxxx 25 MG/ML Injection [Aybintio]	2026-11-11
+729170	1201454001	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	BROAD	Aybintio biosimilar; des_dcp specifies the 16 ML vial. nro_definitivo may be shared across vial sizes.	16 ML bevacizumab-xxxx 25 MG/ML Injection [Aybintio]	2026-11-11
+730745	1201510001	46275983	4 ML bevacizumab 25 MG/ML Injection	1657066	BROAD	Oyavas biosimilar; des_dcp specifies the 4 ML vial. nro_definitivo may be shared across vial sizes.	4 ML bevacizumab-xxxx 25 MG/ML Injection [Oyavas]	2026-11-11
+730746	1201510001	46275988	16 ML bevacizumab 25 MG/ML Injection	1657073	BROAD	Oyavas biosimilar; des_dcp specifies the 16 ML vial. nro_definitivo may be shared across vial sizes.	16 ML bevacizumab-xxxx 25 MG/ML Injection [Oyavas]	2026-11-11
+730998	1201509001	780245	4 ML bevacizumab-maly 25 MG/ML Injection [Alymsys]	2599049	EXACT	Alymsys biosimilar; des_dcp specifies the 4 ML vial. nro_definitivo may be shared across vial sizes.		2026-11-11
+730999	1201509001	780247	16 ML bevacizumab-maly 25 MG/ML Injection [Alymsys]	2599052	EXACT	Alymsys biosimilar; des_dcp specifies the 16 ML vial. nro_definitivo may be shared across vial sizes.		2026-11-11
+732647	04300002IP	46275989	16 ML bevacizumab 25 MG/ML Injection [Avastin]	1657074	EXACT			2026-11-13
+758486	1221667001	1302337	4 ML bevacizumab-adcd 25 MG/ML Injection [Vegzelma]	2627656	EXACT	Vegzelma biosimilar; des_dcp specifies the 4 ML vial. nro_definitivo may be shared across vial sizes.		2026-11-11
+758487	1221667001	1302339	16 ML bevacizumab-adcd 25 MG/ML Injection [Vegzelma]	2627659	EXACT	Vegzelma biosimilar; des_dcp specifies the 16 ML vial. nro_definitivo may be shared across vial sizes.		2026-11-11
+764394	1201515001	1466502	4 ML bevacizumab-nwgd 25 MG/ML Injection	2712048	EXACT	Abevmy biosimilar; des_dcp specifies the 4 ML vial. nro_definitivo may be shared across vial sizes.		2026-11-11
+764395	1201515001	1466504	16 ML bevacizumab-nwgd 25 MG/ML Injection	2712057	EXACT	Abevmy biosimilar; des_dcp specifies the 16 ML vial. nro_definitivo may be shared across vial sizes.		2026-11-11
