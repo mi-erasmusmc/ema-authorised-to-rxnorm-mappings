@@ -177,3 +177,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 872234	02237001	19102204	tadalafil 10 MG Oral Tablet [Cialis]	402096	EXACT			2026-03-12
 872291	02237003	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
 872309	02237004	19102205	tadalafil 20 MG Oral Tablet [Cialis]	402097	EXACT	Spain brand matches RxNorm Cialis branded tablet concept		2026-03-13
+765159	81760	19102192	tadalafil 20 MG Oral Tablet	402019	EXACT			2026-11-13

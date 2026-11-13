@@ -61,3 +61,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 766405	107395049IP	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
 767306	107395049IP1	703253	24 HR paliperidone 9 MG Extended Release Oral Tablet [Invega]	686445	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
 767307	107395045IP	703252	24 HR paliperidone 6 MG Extended Release Oral Tablet [Invega]	686443	EXACT	AEMPS ficha técnica states once-daily administration.		2026-03-15
+768698	90629	40163887	1.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858052	EXACT	Spanish strength is paliperidone base: 150 mg equals 234 mg palmitate in 1.5 mL.		2026-11-13
+768699	90630	40163973	0.5 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858048	EXACT	Spanish strength is paliperidone base: 50 mg equals 78 mg palmitate in 0.5 mL.		2026-11-13
+768700	90631	40163988	0.75 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858056	EXACT	Spanish strength is paliperidone base: 75 mg equals 117 mg palmitate in 0.75 mL.		2026-11-13
+768702	90628	40163884	1 ML paliperidone palmitate 156 MG/ML Prefilled Syringe	858054	EXACT	Spanish strength is paliperidone base: 100 mg equals 156 mg palmitate in 1 mL.		2026-11-13
