@@ -1,8 +1,8 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-723691	1181313001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
-724162	1181328001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
-724603	1181327001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
-726446	1181329002	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2025-12-04
-727276	1181313002	44197244	0.6 ML pegfilgrastim 10 MG/ML Auto-Injector	OMOP3073967	EXACT			2026-03-30
-729949	1201486001	1537587	0.6 ML pegfilgrastim 10 MG/ML Injection	2549331	EXACT			2025-12-04
-664095	02227004	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	EXACT			2026-03-12
+664095	02227004	1325642	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe [Neulasta]	727542	EXACT			2026-11-13
+723691	1181313001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	BROAD	Pelgraz has no FDA counterpart in the biosimilar reference; plain pegfilgrastim omits biosimilar identity.	0.6 ML pegfilgrastim-xxxx 10 MG/ML Prefilled Syringe [Pelgraz]	2026-11-13
+724162	1181328001	1325611	0.6 ML pegfilgrastim 10 MG/ML Prefilled Syringe	727539	BROAD	Pelmeg has no FDA counterpart in the biosimilar reference; plain pegfilgrastim omits biosimilar identity.	0.6 ML pegfilgrastim-xxxx 10 MG/ML Prefilled Syringe [Pelmeg]	2026-11-13
+724603	1181327001	37499748	0.6 ML pegfilgrastim-bmez 10 MG/ML Prefilled Syringe [Ziextenzo]	2260709	EXACT	Ziextenzo corresponds to FDA pegfilgrastim-bmez.		2026-11-13
+726446	1181329002	1560160	0.6 ML pegfilgrastim-jmdb 10 MG/ML Prefilled Syringe [Fulphila]	2048025	EXACT	Fulphila corresponds to FDA pegfilgrastim-jmdb; both needle-guard variants contain the same 6 MG/0.6 ML prefilled syringe.		2026-11-11
+727276	1181313002	36037160	0.6 ML pegfilgrastim 10 MG/ML Pen Injector [Pelgraz]	OMOP5047157	BROAD	Pelgraz has no FDA counterpart in the biosimilar reference. Leaflet describes manually pushing the handle to deliver the dose; Pen Injector preserves this device form. See sources.md.	0.6 ML pegfilgrastim-xxxx 10 MG/ML Pen Injector [Pelgraz]	2026-11-13
+729949	1201486001	37003651	0.6 ML pegfilgrastim-apgf 10 MG/ML Prefilled Syringe [Nyvepria]	2469340	EXACT	Nyvepria corresponds to FDA pegfilgrastim-apgf.		2026-11-13

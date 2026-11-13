@@ -1,5 +1,5 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-760139	1221692001	702277	gallium GA-68 gozetotide	2586016	EXACT			2026-03-13
-767031	90174	1758656	gozetotide	2588949	EXACT			2026-03-13
-768343	90174	1758656	gozetotide	2588949	EXACT			2026-03-13
-766944	90141	1758656	gozetotide	2588949	BROAD	Radiopharmaceutical kit; no strength/form-specific concept in RxNorm	10 MCG gozetotide Injectable Solution [Isoprotrace]	2026-03-22
+760139	1221692001	1758656	gozetotide	2588949	BROAD	Unlabelled radiopharmaceutical kit; gallium-68 is not supplied. Ingredient concept omits kit strength and form. See sources.md.	gozetotide 0.025 MG Injection [Locametz]	2026-11-13
+766944	90141	1758656	gozetotide	2588949	BROAD	Unlabelled radiopharmaceutical kit; gallium-68 is not supplied. Ingredient concept omits kit strength and form. See sources.md.	gozetotide 0.01 MG Injection [Isoprotrace]	2026-11-13
+767031	90174	1758656	gozetotide	2588949	BROAD	Unlabelled radiopharmaceutical kit; gallium-68 is not supplied. Ingredient concept omits kit strength and form. See sources.md.	gozetotide 0.025 MG Injection [Illuccix]	2026-11-13
+768343	90174	1758656	gozetotide	2588949	BROAD	Unlabelled radiopharmaceutical kit; gallium-68 is not supplied. Ingredient concept omits kit strength and form. See sources.md.	gozetotide 0.025 MG Injection [Illuccix]	2026-11-13

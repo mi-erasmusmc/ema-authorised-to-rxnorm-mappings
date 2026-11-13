@@ -7,32 +7,32 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 762982	1080494007	46234174	1 ML ustekinumab 90 MG/ML Injection [Stelara]	1654083	BROAD	No Stelara auto-injector concept in RxNorm; mapped to branded injection	1 ML ustekinumab 90 MG/ML Auto-Injector [Stelara]	2026-03-13
 764023	1231784001	1466414	0.5 ML ustekinumab-aekn 90 MG/ML Prefilled Syringe	2705393	EXACT	Uzpruvo and Selarsdi are AVT04; FDA name ustekinumab-aekn.		2026-11-06
 764024	1231784004	1466416	1 ML ustekinumab-aekn 90 MG/ML Prefilled Syringe	2705400	EXACT	Uzpruvo and Selarsdi are AVT04; FDA name ustekinumab-aekn.		2026-11-06
-764827	1241801003	1466430	26 ML ustekinumab-ttwe 5 MG/ML Injection	2705557	EXACT			2026-03-13
-764828	1241801002	1466434	1 ML ustekinumab-ttwe 90 MG/ML Prefilled Syringe	2705575	EXACT			2026-03-13
-764830	1241801001	1466432	0.5 ML ustekinumab-ttwe 90 MG/ML Prefilled Syringe	2705568	EXACT			2026-03-13
+764827	1241801003	1466431	26 ML ustekinumab-ttwe 5 MG/ML Injection [Pyzchiva]	2705564	EXACT			2026-11-11
+764828	1241801002	1466435	1 ML ustekinumab-ttwe 90 MG/ML Prefilled Syringe [Pyzchiva]	2705576	EXACT			2026-11-11
+764830	1241801001	1466433	0.5 ML ustekinumab-ttwe 90 MG/ML Prefilled Syringe [Pyzchiva]	2705573	EXACT			2026-11-11
 765251	1241823004	1466378	26 ML ustekinumab-auub 5 MG/ML Injection	2700669	EXACT			2026-03-13
 765252	1241823003	1466384	1 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700691	EXACT			2026-03-13
 765253	1241823002	1466382	0.5 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700685	EXACT			2026-03-13
 765254	1241823001	1466380	0.5 ML ustekinumab-auub 90 MG/ML Injection	2700679	EXACT			2026-03-13
-765713	1241844003	1466372	26 ML ustekinumab-stba 5 MG/ML Injection	2700393	EXACT			2026-03-13
-765714	1241844001	1466374	0.5 ML ustekinumab-stba 90 MG/ML Prefilled Syringe	2700404	EXACT			2026-03-13
-765715	1241844002	1466376	1 ML ustekinumab-stba 90 MG/ML Prefilled Syringe	2700411	EXACT			2026-03-13
-765861	1241863003	1466402	26 ML ustekinumab-aauz 5 MG/ML Injection	2702619	EXACT			2026-03-13
-765862	1241863001	1466400	0.5 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe	2702615	EXACT			2026-03-13
-765863	1241863002	1466398	1 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe	2702606	EXACT			2026-03-13
-766568	1241872001	37355071	0.5 ML ustekinumab-srlf 90 MG/ML Prefilled Syringe	2717078	EXACT			2026-03-13
-766569	1241872002	37355073	1 ML ustekinumab-srlf 90 MG/ML Prefilled Syringe	2717085	EXACT			2026-03-13
-766570	1241872003	37355069	26 ML ustekinumab-srlf 5 MG/ML Injection	2717067	EXACT			2026-03-13
-766974	1241801004	37355120	0.5 ML ustekinumab-ttwe 90 MG/ML Auto-Injector	2720512	EXACT			2026-03-13
-766975	1241801005	37355126	1 ML ustekinumab-ttwe 90 MG/ML Auto-Injector	2721430	EXACT			2026-03-13
+765713	1241844003	1466373	26 ML ustekinumab-stba 5 MG/ML Injection [Steqeyma]	2700400	EXACT			2026-11-11
+765714	1241844001	1466375	0.5 ML ustekinumab-stba 90 MG/ML Prefilled Syringe [Steqeyma]	2700409	EXACT			2026-11-11
+765715	1241844002	1466377	1 ML ustekinumab-stba 90 MG/ML Prefilled Syringe [Steqeyma]	2700412	EXACT			2026-11-11
+765861	1241863003	1466403	26 ML ustekinumab-aauz 5 MG/ML Injection [Otulfi]	2702624	EXACT			2026-11-11
+765862	1241863001	1466401	0.5 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702616	EXACT			2026-11-11
+765863	1241863002	1466399	1 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe [Otulfi]	2702613	EXACT			2026-11-11
+766568	1241872001	37355072	0.5 ML ustekinumab-srlf 90 MG/ML Prefilled Syringe [Imuldosa]	2717083	EXACT			2026-11-11
+766569	1241872002	37355074	1 ML ustekinumab-srlf 90 MG/ML Prefilled Syringe [Imuldosa]	2717086	EXACT			2026-11-11
+766570	1241872003	37355070	26 ML ustekinumab-srlf 5 MG/ML Injection [Imuldosa]	2717074	EXACT			2026-11-11
+766974	1241801004	37355121	0.5 ML ustekinumab-ttwe 90 MG/ML Auto-Injector [Pyzchiva]	2720516	EXACT			2026-11-11
+766975	1241801005	37355127	1 ML ustekinumab-ttwe 90 MG/ML Auto-Injector [Pyzchiva]	2721431	EXACT			2026-11-11
 767042	1241823005	1466382	0.5 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700685	BROAD	Prefilled pen; no matching ustekinumab-auub auto-injector concept found in RxNorm or Extension. Syringe concept preserves biosimilar identity and dose.	0.5 ML ustekinumab-auub 90 MG/ML Auto-Injector [Wezenla]	2026-11-06
 767043	1241823006	1466384	1 ML ustekinumab-auub 90 MG/ML Prefilled Syringe	2700691	BROAD	Prefilled pen; no matching ustekinumab-auub auto-injector concept found in RxNorm or Extension. Syringe concept preserves biosimilar identity and dose.	1 ML ustekinumab-auub 90 MG/ML Auto-Injector [Wezenla]	2026-11-06
 767048	1231784005	1466412	26 ML ustekinumab-aekn 5 MG/ML Injection	2705382	EXACT	Uzpruvo and Selarsdi are AVT04; FDA name ustekinumab-aekn.		2026-11-06
-767295	1241892002	1466438	0.5 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe	2705592	EXACT			2026-03-13
-767300	1241892003	1466440	1 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe	2705599	EXACT			2026-03-13
-767471	1241892004	1466436	26 ML ustekinumab-kfce 5 MG/ML Injection	2705581	EXACT			2026-03-13
-767965	1241863004	37355160	0.5 ML ustekinumab-aauz 90 MG/ML Injection	2724429	EXACT			2026-03-13
-768379	1241801007	1466517	0.5 ML ustekinumab-ttwe 90 MG/ML Injection	2713885	EXACT			2026-11-06
+767295	1241892002	1466439	0.5 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe [Yesintek]	2705597	EXACT			2026-11-11
+767300	1241892003	1466441	1 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe [Yesintek]	2705600	EXACT			2026-11-11
+767471	1241892004	1466437	26 ML ustekinumab-kfce 5 MG/ML Injection [Yesintek]	2705588	EXACT			2026-11-11
+767965	1241863004	37355161	0.5 ML ustekinumab-aauz 90 MG/ML Injection [Otulfi]	2724431	EXACT			2026-11-11
+768379	1241801007	1466518	0.5 ML ustekinumab-ttwe 90 MG/ML Injection [Pyzchiva]	2713887	EXACT			2026-11-11
 768393	1251957002	37355164	0.5 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2725087	EXACT	Usymro and Starjemza are BAT2206; FDA name ustekinumab-hmny.		2026-11-06
 768394	1251957003	37355166	1 ML ustekinumab-hmny 90 MG/ML Prefilled Syringe	2725099	EXACT	Usymro and Starjemza are BAT2206; FDA name ustekinumab-hmny.		2026-11-06
 768395	1251957004	37355170	26 ML ustekinumab-hmny 5 MG/ML Injection	2725111	EXACT	Usymro and Starjemza are BAT2206; FDA name ustekinumab-hmny.		2026-11-06
@@ -40,5 +40,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 770089	1241863006	1466398	1 ML ustekinumab-aauz 90 MG/ML Prefilled Syringe	2702606	BROAD	Prefilled pen; no matching ustekinumab-aauz auto-injector concept found in RxNorm or Extension. Syringe concept preserves biosimilar identity and dose.	1 ML ustekinumab-aauz 90 MG/ML Auto-Injector [Otulfi]	2026-11-06
 770301	1241892005	1466438	0.5 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe	2705592	BROAD	Prefilled pen; no matching ustekinumab-kfce auto-injector concept found in RxNorm or Extension. Syringe concept preserves biosimilar identity and dose.	0.5 ML ustekinumab-kfce 90 MG/ML Auto-Injector [Yesintek]	2026-11-06
 770302	1241892006	1466440	1 ML ustekinumab-kfce 90 MG/ML Prefilled Syringe	2705599	BROAD	Prefilled pen; no matching ustekinumab-kfce auto-injector concept found in RxNorm or Extension. Syringe concept preserves biosimilar identity and dose.	1 ML ustekinumab-kfce 90 MG/ML Auto-Injector [Yesintek]	2026-11-06
-770387	1241844005	1466374	0.5 ML ustekinumab-stba 90 MG/ML Prefilled Syringe	2700404	BROAD	Prefilled pen; no matching ustekinumab-stba auto-injector concept found in RxNorm or Extension. Syringe concept preserves biosimilar identity and dose.	0.5 ML ustekinumab-stba 90 MG/ML Auto-Injector [Steqeyma]	2026-11-06
-770389	1241844006	1466376	1 ML ustekinumab-stba 90 MG/ML Prefilled Syringe	2700411	BROAD	Prefilled pen; no matching ustekinumab-stba auto-injector concept found in RxNorm or Extension. Syringe concept preserves biosimilar identity and dose.	1 ML ustekinumab-stba 90 MG/ML Auto-Injector [Steqeyma]	2026-11-06
+770387	1241844005	1466375	0.5 ML ustekinumab-stba 90 MG/ML Prefilled Syringe [Steqeyma]	2700409	BROAD	Pre-filled pen; no auto-injector concept for ustekinumab-stba	0.5 ML ustekinumab-stba 90 MG/ML Auto-Injector [Steqeyma]	2026-11-11
+770389	1241844006	1466377	1 ML ustekinumab-stba 90 MG/ML Prefilled Syringe [Steqeyma]	2700412	BROAD	Pre-filled pen; no auto-injector concept for ustekinumab-stba	1 ML ustekinumab-stba 90 MG/ML Auto-Injector [Steqeyma]	2026-11-11
