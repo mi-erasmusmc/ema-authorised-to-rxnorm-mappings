@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-762474	1231727001	1466450	30 ML eculizumab-aeeb 10 MG/ML Injection	2706351	EXACT	FDA biosimilar Bekemv uses eculizumab-aeeb in RxNorm.		2026-04-02
-762949	1231735001	1466448	30 ML eculizumab-aagh 10 MG/ML Injection	2706338	EXACT	FDA biosimilar Epysqli uses eculizumab-aagh in RxNorm.		2026-04-02
+762474	1231727001	1466451	30 ML eculizumab-aeeb 10 MG/ML Injection [Bkemv]	2706358	EXACT			2026-11-11
+762949	1231735001	1466449	30 ML eculizumab-aagh 10 MG/ML Injection [Epysqli]	2706345	EXACT			2026-11-11
 659702	07393001	19125644	30 ML eculizumab 10 MG/ML Injection [Soliris]	700387	EXACT			2026-04-02
