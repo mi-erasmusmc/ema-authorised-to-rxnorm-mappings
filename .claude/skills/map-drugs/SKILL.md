@@ -179,6 +179,8 @@ Check `.claude/skills/map-drugs/biosimilars/` for per-INN reference files listin
 Check `.claude/skills/map-drugs/covid_vaccines.tsv` for known COVID-19 vaccine variant names, concentration tiers, and the current preferred RxNorm or RxNorm Extension concepts.
 
 ### Search Strategy
+
+**Teriparatide exception:** FDA/RxNorm uses plain `teriparatide`, including for non-originator products approved through the drug pathway. An EU biosimilar flag does not imply a missing FDA suffix. Do not invent `teriparatide-xxxx` suggestions or downgrade an otherwise exact presentation solely for biosimilar identity. Map EXACT when ingredient, strength and dose form match; retain BROAD only for an actual clinical-detail gap. See `data/spain/products/teriparatida/sources.md` for FDA and NLM evidence.
 Run **all** of these queries:
 1. EU biosimilar brand name
 2. INN + strength + form with brand

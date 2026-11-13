@@ -1,14 +1,14 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-719637	82563	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2026-03-12
-722036	1161161001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-724100	1161159001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-726164	1161161003	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-726669	1161159003	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-729237	1201462001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-730008	85653	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2026-03-12
-741854	1221628001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-762345	1221697001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2026-04-16
-762444	1161159004	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2025-12-04
-768000	1221710003	2920074	teriparatide 0.25 MG/ML Cartridge	OMOP5136893	BROAD	No FDA biosimilar suffix established for Kauliv; cartridge volume not represented.	3 ML teriparatide-xxxx 0.25 MG/ML Cartridge [Kauliv]	2026-11-09
-770989	1161159004IP	42921785	2.4 ML Teriparatide 0.25 MG/ML Pen Injector	OMOP4648605	BROAD	No FDA biosimilar suffix established for Terrosa.	2.4 ML teriparatide-xxxx 0.25 MG/ML Pen Injector [Terrosa]	2026-11-09
-849844	03247001	43560308	teriparatide 0.02 MG/ACTUAT Pen Injector	1435118	EXACT			2026-03-12
+719637	82563	43559996	28 ACTUAT teriparatide 0.02 MG/ACTUAT Pen Injector	1435115	EXACT	Label specifies 28 doses of 20 micrograms; reservoir overfill is not additional deliverable doses.		2026-11-13
+722036	1161161001	2905331	2.4 ML teriparatide 0.25 MG/ML Cartridge	OMOP5122134	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Multidose cartridge for a separate reusable pen; Extension preserves the cartridge form and concentration.		2026-11-13
+724100	1161159001	2905329	2.4 ML teriparatide 0.25 MG/ML Cartridge [Terrosa]	OMOP5122132	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Multidose cartridge for a separate reusable pen; Extension preserves the cartridge form and concentration.		2026-11-13
+726164	1161161003	2905331	2.4 ML teriparatide 0.25 MG/ML Cartridge	OMOP5122134	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Multidose cartridge for a separate reusable pen; Extension preserves the cartridge form and concentration.		2026-11-13
+726669	1161159003	2905329	2.4 ML teriparatide 0.25 MG/ML Cartridge [Terrosa]	OMOP5122132	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Multidose cartridge for a separate reusable pen; Extension preserves the cartridge form and concentration.		2026-11-13
+729237	1201462001	43559996	28 ACTUAT teriparatide 0.02 MG/ACTUAT Pen Injector	1435115	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Label specifies 28 doses of 20 micrograms; reservoir overfill is not additional deliverable doses. EMA specifies a 2.7 ML reservoir despite source des_dcp stating 2.4 ML; both identify a 28-dose pen (see sources.md).		2026-11-13
+730008	85653	43559996	28 ACTUAT teriparatide 0.02 MG/ACTUAT Pen Injector	1435115	EXACT	Label specifies 28 doses of 20 micrograms; reservoir overfill is not additional deliverable doses.		2026-11-13
+741854	1221628001	43559996	28 ACTUAT teriparatide 0.02 MG/ACTUAT Pen Injector	1435115	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Label specifies 28 doses of 20 micrograms; reservoir overfill is not additional deliverable doses.		2026-11-13
+762345	1221697001	43559996	28 ACTUAT teriparatide 0.02 MG/ACTUAT Pen Injector	1435115	EXACT	Label specifies 28 doses of 20 micrograms; reservoir overfill is not additional deliverable doses.		2026-11-13
+762444	1161159004	43559996	28 ACTUAT teriparatide 0.02 MG/ACTUAT Pen Injector	1435115	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Label specifies 28 doses of 20 micrograms; reservoir overfill is not additional deliverable doses.		2026-11-13
+768000	1221710003	2920074	teriparatide 0.25 MG/ML Cartridge	OMOP5136893	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Multidose 3 ML cartridge for a reusable pen; reservoir volume is packaging, so the concentration-level Cartridge concept is exact.		2026-11-13
+770989	1161159004IP	43559996	28 ACTUAT teriparatide 0.02 MG/ACTUAT Pen Injector	1435115	EXACT	Teriparatide uses the plain INN in FDA/RxNorm; the EU biosimilar designation does not require a suffix. Label specifies 28 doses of 20 micrograms; reservoir overfill is not additional deliverable doses.		2026-11-13
+849844	03247001	43559996	28 ACTUAT teriparatide 0.02 MG/ACTUAT Pen Injector	1435115	EXACT	Label specifies 28 doses of 20 micrograms; reservoir overfill is not additional deliverable doses.		2026-11-13

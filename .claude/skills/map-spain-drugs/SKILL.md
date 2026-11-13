@@ -56,7 +56,7 @@ Follow the standard mapping workflow in `map-drugs`. Spain-specific deviations:
 
    Spain-specific issue types beyond those in `map-drugs`:
    - `NRO_MISMATCH`: `nro_definitivo` in `mapping.tsv` disagrees with `data.tsv`
-   - `INCONSISTENT_CONCEPT`: for branded products the check is per-brand key from `des_nomco`, not per manufacturer — **do not resolve by collapsing to a plain non-suffixed concept**. When the folder contains biosimilars, always read the biosimilar reference in `.claude/skills/map-drugs/biosimilars/` and apply the correct FDA-suffixed unbranded concept.
+   - `INCONSISTENT_CONCEPT`: for branded products the check is per-brand key from `des_nomco`, not per manufacturer — **do not resolve by collapsing a required FDA-suffixed ingredient to a plain concept**. When the folder contains biosimilars, read the biosimilar references in `.claude/skills/map-drugs/biosimilars/` and the exceptions in `map-drugs` before selecting the ingredient. Teriparatide uses the plain INN.
    - `INCONSISTENT_TYPE`: rows sharing the same clinical signature and the same concept_id but with different `mapping_type` values. Resolve by applying the correct type consistently.
 
    When the auto-link looks suspicious, check the duplicate-`nro_definitivo` reference before changing the row.
@@ -113,4 +113,4 @@ It only selects folders where every missing row can be filled from an existing `
 - Single-use injectables: when `des_dcp` includes a volume such as `2 ml` or `5 ml`, prefer the volume-specific RxNorm `Injection` concept if one exists.
 - Herbal products: if `sw_base_a_plantas=1`, still map to the best available RxNorm concept. When RxNorm only has an ingredient-, extract-, or dose-form-level botanical concept, use that concept with `mapping_type = BROAD` and populate `suggestion`.
 - Radiopharmaceuticals: if `radiofarmaco=1`, follow the specialist handling in `map-drugs`.
-- Biosimilars: if `biosimilar=1`, follow the biosimilar rules and references in `map-drugs`. **Never harmonise biosimilar rows to a plain non-suffixed concept.** Check `.claude/skills/map-drugs/biosimilars/<inn>.tsv` for the EU->FDA name mapping before touching any biosimilar row.
+- Biosimilars: if `biosimilar=1`, follow the biosimilar rules and references in `map-drugs`. **Never harmonise biosimilar rows to a plain non-suffixed concept when a distinct FDA-suffixed ingredient is required.** Check `.claude/skills/map-drugs/biosimilars/<inn>.tsv` for the EU->FDA name mapping before touching any biosimilar row. Teriparatide is a verified exception: FDA/RxNorm uses the plain INN, so an otherwise matching presentation is EXACT without a hypothetical `-xxxx` suggestion. See `data/spain/products/teriparatida/sources.md`.

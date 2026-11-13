@@ -1,13 +1,13 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-710130	1151074002	42922270	1 ML Etanercept 50 MG/ML Pen Injector	OMOP4649084	EXACT			2025-12-04
-710131	1151074001	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	EXACT			2025-12-04
-716046	1151074005	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2026-03-12
-716776	1171195007	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	EXACT			2025-12-08
-716777	1171195003	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	EXACT			2025-12-08
-716816	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-08
-716817	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-08
-717050	199126023	19132639	0.5 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	809159	BROAD	pen injector mapped to prefilled syringe to preserve 0.5 ML dose	0.5 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	2026-02-16
-765653	1201436005	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	EXACT			2025-12-04
+710130	1151074002	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	BROAD	Benepali biosimilar corresponds to etanercept-ykro, but no etanercept-ykro auto-injector concept was found	1 ML etanercept-ykro 50 MG/ML Auto-Injector [Benepali]	2026-11-11
+710131	1151074001	37003633	1 ML etanercept-ykro 50 MG/ML Prefilled Syringe	2462513	EXACT			2026-11-11
+716046	1151074005	37003635	0.5 ML etanercept-ykro 50 MG/ML Prefilled Syringe	2462521	EXACT			2026-11-11
+716776	1171195007	1151885	1 ML etanercept 50 MG/ML Prefilled Syringe	727757	BROAD	No etanercept-szzs (Erelzi FDA biosimilar) concept in standard RxNorm	1 ML etanercept-szzs 50 MG/ML Prefilled Syringe [Erelzi]	2026-11-11
+716777	1171195003	19132638	0.5 ML etanercept 50 MG/ML Prefilled Syringe	809158	BROAD	No etanercept-szzs (Erelzi FDA biosimilar) concept in standard RxNorm	0.5 ML etanercept-szzs 50 MG/ML Prefilled Syringe [Erelzi]	2026-11-11
+716816	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	BROAD	No etanercept-szzs (Erelzi FDA biosimilar) concept in standard RxNorm	1 ML etanercept-szzs 50 MG/ML Auto-Injector [Erelzi]	2026-11-11
+716817	1171195010	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	BROAD	No etanercept-szzs (Erelzi FDA biosimilar) concept in standard RxNorm	1 ML etanercept-szzs 50 MG/ML Auto-Injector [Erelzi]	2026-11-11
+717050	199126023	36421909	Etanercept 25 MG Auto-Injector [Enbrel]	OMOP4764187	EXACT	EMA SmPC specifies a 25 MG/0.5 ML prefilled pen; Spanish des_dcp incorrectly states 1 ML.		2026-11-11
+765653	1201436005	46234061	1 ML etanercept 50 MG/ML Auto-Injector	1653223	BROAD	No FDA-suffixed etanercept concept for Nepexto biosimilar in standard RxNorm	1 ML etanercept-xxxx 50 MG/ML Auto-Injector [Nepexto]	2026-11-11
 655950	99126013	43207335	1 ML Etanercept 25 MG/ML Prefilled Syringe	OMOP507888	EXACT	EU 25 mg/1 mL prefilled syringe; OMOP extension with correct 1 mL volume and 25 MG/ML concentration.		2026-03-31
 655953	99126017	19131494	1 ML etanercept 50 MG/ML Prefilled Syringe [Enbrel]	802652	EXACT			2026-03-12
 663133	99126020	46234063	1 ML etanercept 50 MG/ML Auto-Injector [Enbrel]	1653225	EXACT			2026-03-12
