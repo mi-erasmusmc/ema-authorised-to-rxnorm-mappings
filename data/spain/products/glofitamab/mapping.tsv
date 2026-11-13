@@ -1,3 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-762972	1231742001	856402	glofitamab 1 MG/ML Injectable Solution [Columvi]	OMOP5579329	EXACT			2026-04-02
-762973	1231742002	856402	glofitamab 1 MG/ML Injectable Solution [Columvi]	OMOP5579329	EXACT			2026-04-02
+762972	1231742001	1201619	2.5 ML glofitamab-gxbm 1 MG/ML Injection [Columvi]	2639795	EXACT			2026-11-11
+762973	1231742002	1201617	10 ML glofitamab-gxbm 1 MG/ML Injection [Columvi]	2639792	EXACT			2026-11-11

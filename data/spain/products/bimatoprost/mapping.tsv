@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 665747	02205003	40226430	bimatoprost 0.1 MG/ML Ophthalmic Solution [Lumigan]	1009341	EXACT			2026-03-13
-697648	102205006	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-04-01
+697648	102205006	904526	bimatoprost 0.3 MG/ML Ophthalmic Solution [Lumigan]	285128	EXACT			2026-11-11
 710913	02205001	904526	bimatoprost 0.3 MG/ML Ophthalmic Solution [Lumigan]	285128	EXACT			2026-03-13
 714593	81693	40226429	bimatoprost 0.1 MG/ML Ophthalmic Solution	1009339	EXACT			2026-03-13
 714594	81694	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
@@ -9,7 +9,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 726924	84523	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
 732176	86389	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
 733348	86729	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-04-01
-741403	02205006IP	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-04-01
+741403	02205006IP	904526	bimatoprost 0.3 MG/ML Ophthalmic Solution [Lumigan]	285128	EXACT			2026-11-11
 741908	85717	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-03-13
 763211	88992	37354399	bimatoprost 0.0001 MG/MG Ophthalmic Gel	2725168	EXACT	0.1 mg/g equals 0.0001 mg/mg.		2026-11-09
-770109	02205006IP1	19074220	bimatoprost 0.3 MG/ML Ophthalmic Solution	308739	EXACT			2026-04-16
+770109	02205006IP1	904526	bimatoprost 0.3 MG/ML Ophthalmic Solution [Lumigan]	285128	EXACT			2026-11-11

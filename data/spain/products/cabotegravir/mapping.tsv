@@ -2,4 +2,4 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 730099	1201481001	739618	cabotegravir 30 MG Oral Tablet [Vocabria]	2475205	EXACT			2025-12-04
 730112	1201481003	702659	3 ML cabotegravir 200 MG/ML Injection	2588077	EXACT			2025-12-04
 763298	1231760001	739612	cabotegravir 30 MG Oral Tablet	2475199	EXACT	No Apretude-branded oral tablet concept in RxNorm; Apretude brand exists for injectable only		2026-03-22
-763299	1231760002	702659	3 ML cabotegravir 200 MG/ML Injection	2588077	EXACT	Apretude-branded injectable exists in RxNorm but without volume; volume-specific unbranded concept preferred to preserve the 600 mg dose		2026-03-22
+763299	1231760002	702660	3 ML cabotegravir 200 MG/ML Injection [Apretude]	2588080	EXACT			2026-11-11
