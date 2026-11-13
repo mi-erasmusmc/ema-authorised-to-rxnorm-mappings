@@ -1,4 +1,4 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-723437	1181276002	994666	metreleptin 11.3 MG Injectable Solution	OMOP4821180	EXACT			2026-11-09
-723921	1181276004	36065566	metreleptin 3 MG Injectable Solution	OMOP4991904	EXACT			2026-11-09
-723922	1181276006	36065558	metreleptin 5.8 MG Injectable Solution	OMOP4991896	EXACT			2026-11-09
+723437	1181276002	44814587	metreleptin 5 MG/ML Injectable Solution	1491629	EXACT			2026-11-11
+723921	1181276004	44814587	metreleptin 5 MG/ML Injectable Solution	1491629	EXACT			2026-11-11
+723922	1181276006	44814587	metreleptin 5 MG/ML Injectable Solution	1491629	EXACT			2026-11-11
