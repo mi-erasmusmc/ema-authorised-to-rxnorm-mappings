@@ -1,10 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 654832	64796	19121580	tiotropium 0.018 MG Inhalation Powder [Spiriva]	580261	EXACT			2026-03-12
-700607	69589	35603331	tiotropium 0.00125 MG/ACTUAT Inhalation Spray [Spiriva]	1667884	EXACT			2026-03-12
-711250	80980	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			2026-03-12
-711251	80981	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			2026-03-12
-725702	69589	35603331	tiotropium 0.00125 MG/ACTUAT Inhalation Spray [Spiriva]	1667884	EXACT			2026-03-12
-725948	69589	35603331	tiotropium 0.00125 MG/ACTUAT Inhalation Spray [Spiriva]	1667884	EXACT			2026-03-12
-726149	84261	19112761	tiotropium 0.018 MG Inhalation Powder	485032	BROAD	Spain labels Sirkava as 12 mcg/actuation (Breezhaler DPI); RxNorm has no 12 mcg tiotropium inhalation powder concept — 18 mcg is the closest available.	tiotropium 12 MCG/ACTUAT Dry Powder Inhaler	2026-03-13
+700607	69589	45774778	tiotropium 0.0025 MG/ACTUAT Inhalation Spray [Spiriva]	1552006	EXACT	CIMA SmPC: 2.5 micrograms delivered per actuation; two actuations deliver 5 micrograms. See sources.md.		2026-11-14
+711250	80980	2934120	tiotropium 0.013 MG Inhalation Powder	OMOP5150871	EXACT	CIMA SmPC: capsule contains 13 micrograms tiotropium; delivered dose is 10 micrograms. RxNorm strength uses capsule content. See sources.md.		2026-11-14
+711251	80981	2934119	tiotropium 0.013 MG Inhalation Powder [Braltus]	OMOP5150870	EXACT	CIMA SmPC: capsule contains 13 micrograms tiotropium; delivered dose is 10 micrograms. RxNorm strength uses capsule content. See sources.md.		2026-11-14
+725702	69589	45774778	tiotropium 0.0025 MG/ACTUAT Inhalation Spray [Spiriva]	1552006	EXACT	CIMA SmPC: 2.5 micrograms delivered per actuation; two actuations deliver 5 micrograms. See sources.md.		2026-11-14
+725948	69589	45774778	tiotropium 0.0025 MG/ACTUAT Inhalation Spray [Spiriva]	1552006	EXACT	CIMA SmPC: 2.5 micrograms delivered per actuation; two actuations deliver 5 micrograms. See sources.md.		2026-11-14
+726149	84261	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT	CIMA leaflet: capsule contains 18 micrograms tiotropium and delivers 12 micrograms via NeumoHaler. RxNorm strength uses capsule content. See sources.md.		2026-11-14
 731040	85978	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			2026-03-12
 731041	85978	19112761	tiotropium 0.018 MG Inhalation Powder	485032	EXACT			2026-03-12
+771884	3400936869202	19121580	tiotropium 0.018 MG Inhalation Powder [Spiriva]	580261	EXACT	Spiriva strength is 18 micrograms per capsule; Spanish clinical description reports the 10 microgram delivered dose.		2026-11-14

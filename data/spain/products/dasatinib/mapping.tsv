@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-652751	06363006	19124394	dasatinib 70 MG Oral Tablet	643109	EXACT			2026-03-13
-652769	06363005	19124392	dasatinib 50 MG Oral Tablet	643107	EXACT			2026-03-13
-656939	06363004	19124390	dasatinib 20 MG Oral Tablet	643105	EXACT			2026-03-13
+652751	06363006	1358465	dasatinib 70 MG Oral Tablet [Sprycel]	643177	EXACT			2026-11-14
+652769	06363005	1358464	dasatinib 50 MG Oral Tablet [Sprycel]	643175	EXACT			2026-11-14
+656939	06363004	1358463	dasatinib 20 MG Oral Tablet [Sprycel]	643173	EXACT			2026-11-14
 725598	84092	19130458	dasatinib 100 MG Oral Tablet	799047	EXACT			2026-03-13
 728889	85230	19124392	dasatinib 50 MG Oral Tablet	643107	EXACT			2026-03-13
 728892	85231	19124394	dasatinib 70 MG Oral Tablet	643109	EXACT			2026-03-13
@@ -13,3 +13,5 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 765907	1241839005	19124392	dasatinib 50 MG Oral Tablet	643107	EXACT			2026-11-09
 765909	1241839009	19124394	dasatinib 70 MG Oral Tablet	643109	EXACT			2026-11-09
 765911	1241839017	19130458	dasatinib 100 MG Oral Tablet	799047	EXACT			2026-11-09
+768021	90421	19124392	dasatinib 50 MG Oral Tablet	643107	EXACT			2026-11-14
+768023	90422	19124394	dasatinib 70 MG Oral Tablet	643109	EXACT			2026-11-14

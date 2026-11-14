@@ -1,6 +1,6 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-665782	10612002	19043032	eltrombopag 25 MG Oral Tablet [Promacta]	825425	EXACT			2026-03-13
-665783	10612005	19043034	eltrombopag 50 MG Oral Tablet [Promacta]	825429	EXACT			2026-03-13
+665782	10612002	19012348	eltrombopag 25 MG Oral Tablet	825421	EXACT			2026-11-14
+665783	10612005	19012350	eltrombopag 50 MG Oral Tablet	825427	EXACT			2026-11-14
 710908	110612013	1718648	eltrombopag 25 MG Powder for Oral Suspension	1859498	EXACT			2025-12-04
 763830	89172	19012348	eltrombopag 25 MG Oral Tablet	825421	EXACT			2026-03-13
 763841	89173	19012350	eltrombopag 50 MG Oral Tablet	825427	EXACT			2026-03-13
@@ -32,3 +32,6 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 767684	90301	40168948	eltrombopag 75 MG Oral Tablet	884617	EXACT			2026-03-13
 767685	90302	19012348	eltrombopag 25 MG Oral Tablet	825421	EXACT			2026-03-13
 767724	90337	19012350	eltrombopag 50 MG Oral Tablet	825427	EXACT			2026-03-13
+769996	91039	19012348	eltrombopag 25 MG Oral Tablet	825421	EXACT			2026-11-14
+769997	91040	19012350	eltrombopag 50 MG Oral Tablet	825427	EXACT			2026-11-14
+769998	91041	40168948	eltrombopag 75 MG Oral Tablet	884617	EXACT			2026-11-14
