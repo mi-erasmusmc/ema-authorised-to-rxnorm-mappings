@@ -1,7 +1,7 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-757400	87916	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT			2026-03-12
+662019	08481002	44785377	sapropterin dihydrochloride 100 MG Oral Tablet [Kuvan]	1486691	EXACT	The Spanish soluble tablet matches the U.S. Kuvan tablet by strength, excipients, and 177 imprint.		2026-11-20
+757400	87916	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT	CIMA specifies a soluble tablet. RxNorm lists the 100 mg soluble tablet as a synonym of this oral tablet concept.		2026-11-20
 759855	1211620003	40239922	sapropterin dihydrochloride 100 MG Powder for Oral Solution	1111018	EXACT			2026-03-12
 759856	1211620004	46234056	sapropterin dihydrochloride 500 MG Powder for Oral Solution	1653217	EXACT			2026-03-12
-764537	89442	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT			2026-03-12
-765876	89850	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT			2026-03-12
-662019	08481002	44785377	sapropterin dihydrochloride 100 MG Oral Tablet [Kuvan]	1486691	EXACT			2026-03-12
+764537	89442	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT	CIMA specifies a soluble tablet. RxNorm lists the 100 mg soluble tablet as a synonym of this oral tablet concept.		2026-11-20
+765876	89850	44785376	sapropterin dihydrochloride 100 MG Oral Tablet	1486687	EXACT	CIMA specifies a soluble tablet. RxNorm lists the 100 mg soluble tablet as a synonym of this oral tablet concept.		2026-11-20
