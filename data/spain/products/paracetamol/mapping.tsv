@@ -148,6 +148,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 702692	78837	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
 702693	78837	1126750	acetaminophen 100 MG/ML Oral Solution	238159	EXACT			2026-03-12
 702822	78868	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
+702824	78868	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-11-20
 702825	78869	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
 702827	78869	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
 702828	78870	36883027	Acetaminophen 1000 MG Effervescent Oral Tablet	OMOP990741	EXACT			2026-03-12
@@ -271,6 +272,7 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 764501	75233	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-03-12
 766382	89983	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
 767821	90356	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
+770250	91144	19107244	acetaminophen 1000 MG Oral Tablet	430837	EXACT			2026-11-20
 833673	23203	19020053	acetaminophen 500 MG Oral Tablet	198440	EXACT			2026-03-12
 850669	32819	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12
 851162	43990	1125393	acetaminophen 650 MG Oral Tablet	198444	EXACT			2026-03-12

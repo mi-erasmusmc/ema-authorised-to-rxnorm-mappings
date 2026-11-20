@@ -1,10 +1,11 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
-701811	78574	40900902	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 2.5 MG Oral Capsule	OMOP2098864	EXACT			2026-03-31
-701814	78574	40900902	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 2.5 MG Oral Capsule	OMOP2098864	EXACT			2026-03-31
-701815	78575	41244476	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 5 MG Oral Capsule	OMOP2442438	EXACT			2026-03-31
-701817	78575	41244476	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 5 MG Oral Capsule	OMOP2442438	EXACT			2026-03-31
-701818	78576	41275386	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 10 MG Oral Capsule	OMOP2473348	EXACT			2026-03-31
-701820	78576	41275386	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 10 MG Oral Capsule	OMOP2473348	EXACT			2026-03-31
-714973	81772	42684061	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 2.5 MG Oral Capsule	OMOP4912201	EXACT			2026-03-31
-714974	81773	42683628	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 5 MG Oral Capsule	OMOP4912207	EXACT			2026-03-31
-714975	81774	42683622	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 10 MG Oral Capsule	OMOP4912213	EXACT			2026-03-31
+701811	78574	36276174	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 2.5 MG Oral Capsule [Trinomia]	OMOP3127049	EXACT			2026-11-20
+701814	78574	36276174	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 2.5 MG Oral Capsule [Trinomia]	OMOP3127049	EXACT			2026-11-20
+701815	78575	36276173	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 5 MG Oral Capsule [Trinomia]	OMOP3127048	EXACT			2026-11-20
+701817	78575	36276173	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 5 MG Oral Capsule [Trinomia]	OMOP3127048	EXACT			2026-11-20
+701818	78576	36276172	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 10 MG Oral Capsule [Trinomia]	OMOP3127047	EXACT			2026-11-20
+701820	78576	36276172	Aspirin 100 MG / atorvastatin 20 MG / Ramipril 10 MG Oral Capsule [Trinomia]	OMOP3127047	EXACT			2026-11-20
+714973	81772	42684059	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 2.5 MG Oral Capsule [Trinomia]	OMOP4912203	EXACT			2026-11-20
+714974	81773	42683626	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 5 MG Oral Capsule [Trinomia]	OMOP4912209	EXACT			2026-11-20
+714975	81774	42683620	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 10 MG Oral Capsule [Trinomia]	OMOP4912215	EXACT			2026-11-20
+771255	4424416042019	42684059	Aspirin 100 MG / atorvastatin 40 MG / Ramipril 2.5 MG Oral Capsule [Trinomia]	OMOP4912203	EXACT			2026-11-20

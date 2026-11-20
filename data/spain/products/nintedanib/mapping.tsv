@@ -14,6 +14,8 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 766341	89970	45775405	nintedanib 150 MG Oral Capsule	1592750	EXACT			2026-03-22
 766522	90026	45775399	nintedanib 100 MG Oral Capsule	1592742	EXACT			2026-03-12
 766525	90027	45775405	nintedanib 150 MG Oral Capsule	1592750	EXACT			2026-03-12
+766703	90073	45775399	nintedanib 100 MG Oral Capsule	1592742	EXACT			2026-11-20
+766704	90074	45775405	nintedanib 150 MG Oral Capsule	1592750	EXACT			2026-11-20
 767139	90203	45775399	nintedanib 100 MG Oral Capsule	1592742	EXACT			2026-03-12
 767140	90204	45775405	nintedanib 150 MG Oral Capsule	1592750	EXACT			2026-03-12
 767377	114979009	45775402	nintedanib Oral Capsule [Ofev]	1592745	BROAD		nintedanib 25 MG Oral Capsule [Ofev]	2026-04-16

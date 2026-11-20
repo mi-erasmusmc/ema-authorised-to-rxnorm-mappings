@@ -1,11 +1,12 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
+700603	00134033	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT			2026-03-12
 706364	114944007	1759242	3 ML insulin glargine-aglr 100 UNT/ML Pen Injector	2589008	EXACT			2026-11-11
 706414	100133034	46221557	1.5 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo]	1604544	EXACT			2025-12-04
 711261	114944012	1759242	3 ML insulin glargine-aglr 100 UNT/ML Pen Injector	2589008	EXACT			2026-11-11
-724639	1181270003	1146756	3 ML insulin glargine 100 UNT/ML Pen Injector [Semglee]	2377231	EXACT			2025-12-04
-700603	00134033	1502910	3 ML insulin glargine 100 UNT/ML Pen Injector [Lantus]	847232	EXACT			2026-03-12
+724639	1181270003	702584	3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector [Semglee]	2563973	EXACT			2026-11-20
 727918	1000133038	42544060	3 ML insulin glargine 300 UNT/ML Pen Injector [Toujeo]	2002420	EXACT			2026-03-12
+769967	1181270003IP	702584	3 ML insulin glargine-yfgn 100 UNT/ML Pen Injector [Semglee]	2563973	EXACT			2026-11-20
+770108	1252000002	19135276	3 ML insulin glargine 100 UNT/ML Pen Injector	847230	BROAD	No Ondibta-specific RxNorm equivalent identified.	3 ML insulin glargine-xxxx 100 UNT/ML Pen Injector [Ondibta]	2026-11-20
 831453	00134012	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT			2026-04-03
-901504	00134001	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	BROAD	RxNorm has a branded Lantus injectable-solution concept but not an explicit 5 mL vial presentation	5 ML insulin glargine 100 UNT/ML Injectable Solution [Lantus]	2026-03-12
+901504	00134001	19071700	insulin glargine 100 UNT/ML Injectable Solution [Lantus]	285018	EXACT	The 5 mL vial is multidose. Strength and dose form identify the clinical drug.		2026-11-20
 901579	00134006	44191063	3 ML Insulin Glargine 100 UNT/ML Cartridge [Lantus]	OMOP3067786	EXACT			2026-03-31
-769967	1181270003IP	1146756	3 ML insulin glargine 100 UNT/ML Pen Injector [Semglee]	2377231	EXACT			2026-04-16

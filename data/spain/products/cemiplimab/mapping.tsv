@@ -1,2 +1,3 @@
 cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 726298	1191376001	35201978	7 ML cemiplimab-rwlc 50 MG/ML Injection [Libtayo]	2058835	EXACT			2026-04-03
+770984	1191376001IP	35201978	7 ML cemiplimab-rwlc 50 MG/ML Injection [Libtayo]	2058835	EXACT	Source dosage is En revisión; brand and clinical name identify Libtayo 350 mg, confirmed by AEMPS as 350 mg/7 mL in a single-use vial (https://cima.aemps.es/cima/dochtml/ft/1191376001/FT_1191376001.html).		2026-11-20
