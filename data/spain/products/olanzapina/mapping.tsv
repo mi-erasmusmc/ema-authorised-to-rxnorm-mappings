@@ -323,6 +323,10 @@ cod_nacion	nro_definitivo	concept_id	concept_name	concept_code	mapping_type	comm
 770632	99125004IP	19128379	olanzapine 20 MG Disintegrating Oral Tablet [Zyprexa]	754505	EXACT			2026-11-09
 771362	99125006IP4	19128377	olanzapine 10 MG Disintegrating Oral Tablet [Zyprexa]	754503	EXACT			2026-11-09
 771739	96022006IP	19016800	olanzapine 7.5 MG Oral Tablet [Zyprexa]	153047	EXACT			2026-11-09
+771847	99125002IP4	19128377	olanzapine 10 MG Disintegrating Oral Tablet [Zyprexa]	754503	EXACT	Strength and form taken from des_nomco and des_dcp; des_dosific is under review.		2026-11-20
+771848	99125006IP5	19128377	olanzapine 10 MG Disintegrating Oral Tablet [Zyprexa]	754503	EXACT	Strength and form taken from des_nomco and des_dcp; des_dosific is under review.		2026-11-20
+771935	96022010IP4	19016821	olanzapine 10 MG Oral Tablet [Zyprexa]	153048	EXACT	Strength and form taken from des_nomco and des_dcp; des_dosific is under review.		2026-11-20
+771936	96022009IP4	19016821	olanzapine 10 MG Oral Tablet [Zyprexa]	153048	EXACT	Strength and form taken from des_nomco and des_dcp; des_dosific is under review.		2026-11-20
 772003	99125003IP1	19128378	olanzapine 15 MG Disintegrating Oral Tablet [Zyprexa]	754504	EXACT			2026-11-14
 877001	96022002	19047064	olanzapine 2.5 MG Oral Tablet [Zyprexa]	212405	EXACT			2026-11-09
 889881	99125004	19128379	olanzapine 20 MG Disintegrating Oral Tablet [Zyprexa]	754505	EXACT			2026-11-09

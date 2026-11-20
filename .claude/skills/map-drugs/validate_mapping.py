@@ -70,6 +70,13 @@ EXACT_NO_DOSE_FORM_EXEMPT_CODES = {
     # Not marketed in the US; no standard RxNorm concepts exist.
     "OMOP4776211",  # Beclomethasone 0.084 MG/ACTUAT / formoterol 0.005 MG/ACTUAT / glycopyrronium 0.009 MG/ACTUAT Inhalant Solution [Trimbow]
     "OMOP4711822",  # Beclomethasone 0.084 MG/ACTUAT / formoterol 0.005 MG/ACTUAT / glycopyrronium 0.009 MG/ACTUAT Inhalant Powder [Trimbow]
+    # Beclomethasone/formoterol metered solutions use the legacy form "Inhalant Solution".
+    # These Extension concepts retain both strengths per actuation and the solution form.
+    "OMOP286099",   # 0.1 / 0.006 MG/ACTUAT Inhalant Solution
+    "OMOP286188",   # 0.2 / 0.006 MG/ACTUAT Inhalant Solution
+    "OMOP2328680",  # 0.1 / 0.006 MG/ACTUAT Inhalant Solution [Foster]
+    "OMOP2078884",  # 0.2 / 0.006 MG/ACTUAT Inhalant Solution [Foster]
+    "OMOP1144410",  # 0.1 / 0.006 MG/ACTUAT Inhalant Solution [FORMODUAL]
     # OMOP extension concept for amorolfine medicated nail lacquer.
     # Uses "Medicated nail lacquer", a European dose form term not in RxNorm's standard vocabulary.
     # No standard RxNorm nail lacquer concept exists.
