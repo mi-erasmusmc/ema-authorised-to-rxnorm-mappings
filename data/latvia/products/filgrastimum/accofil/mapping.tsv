@@ -1,22 +1,22 @@
 product_id	concept_id	concept_name	concept_code	mapping_type	comment	suggestion	last_updated_date
 EU/1/14/946/001	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
 EU/1/14/946/002	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
-EU/1/14/946/003	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
-EU/1/14/946/004	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/003	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
+EU/1/14/946/004	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
 EU/1/14/946/005	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
 EU/1/14/946/006	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
 EU/1/14/946/007	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
 EU/1/14/946/008	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
 EU/1/14/946/009	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
 EU/1/14/946/010	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
-EU/1/14/946/011	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
-EU/1/14/946/012	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
-EU/1/14/946/013	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
-EU/1/14/946/014	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
-EU/1/14/946/015	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
-EU/1/14/946/016	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/011	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
+EU/1/14/946/012	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
+EU/1/14/946/013	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
+EU/1/14/946/014	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
+EU/1/14/946/015	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
+EU/1/14/946/016	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
 EU/1/14/946/017	1304915	0.5 ML filgrastim 0.6 MG/ML Prefilled Syringe	727535	EXACT			2026-02-17
-EU/1/14/946/018	36896205	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe	OMOP994437	EXACT			2026-02-17
+EU/1/14/946/018	35414623	0.5 ML Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1148208	EXACT			2026-11-20
 EU/1/14/946/019	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
 EU/1/14/946/020	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
 EU/1/14/946/021	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
@@ -26,12 +26,12 @@ EU/1/14/946/024	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP50593
 EU/1/14/946/025	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
 EU/1/14/946/026	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
 EU/1/14/946/027	43219722	0.2 ML Filgrastim 0.6 MG/ML Prefilled Syringe	OMOP505937	EXACT			2026-02-17
-EU/1/14/946/028	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
-EU/1/14/946/029	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
-EU/1/14/946/030	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
-EU/1/14/946/031	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
-EU/1/14/946/032	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
-EU/1/14/946/033	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
-EU/1/14/946/034	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
-EU/1/14/946/035	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
-EU/1/14/946/036	42902516	filgrastim 0.96 MG/ML Prefilled Syringe	1359629	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-04-02
+EU/1/14/946/028	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
+EU/1/14/946/029	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
+EU/1/14/946/030	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
+EU/1/14/946/031	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
+EU/1/14/946/032	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
+EU/1/14/946/033	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
+EU/1/14/946/034	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
+EU/1/14/946/035	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
+EU/1/14/946/036	35410683	Filgrastim 0.96 MG/ML Prefilled Syringe [Accofil]	OMOP1144268	BROAD	Out of line with others	0.73 ML filgrastim-laha 0.96 MG/ML Prefilled Syringe [Accofil]	2026-11-20
