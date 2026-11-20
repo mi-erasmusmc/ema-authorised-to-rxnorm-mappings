@@ -4,7 +4,7 @@ Medicine status: Authorised
 International non-proprietary name (INN) / common name: linvoseltamab
 Active substance: linvoseltamab
 Therapeutic area (MeSH): Multiple Myeloma
-ATC code (human): L01FX
+ATC code (human): L01FX37
 Pharmacotherapeutic group (human): Antineoplastic agents
 Therapeutic indication: Monotherapy for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least 3 prior therapies, including a proteasome inhibitor, an immunomodulatory agent, and an anti-CD38 monoclonal antibody, and have demonstrated disease progression on the last therapy.
 Biosimilar: No

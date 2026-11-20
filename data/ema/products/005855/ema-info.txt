@@ -1,12 +1,12 @@
 EMA product number: EMEA/H/C/005855
 Name of medicine: Zeydovio
-Medicine status: Opinion
+Medicine status: Authorised
 International non-proprietary name (INN) / common name: glepaglutide
 Active substance: glepaglutide acetate
 Therapeutic area (MeSH): Short Bowel Syndrome
 ATC code (human): A16AX
 Pharmacotherapeutic group (human): Various alimentary tract and metabolism products
-Therapeutic indication: Treatment of adults with Short Bowel Syndrome
+Therapeutic indication: Zeydovio is indicated for the treatment of adults with Short Bowel Syndrome (SBS). Patients should be stable following a period of intestinal adaptation after surgery.
 Biosimilar: No
 Generic or hybrid: 
 Medicine URL: https://www.ema.europa.eu/en/medicines/human/EPAR/zeydovio

@@ -50,6 +50,7 @@ PROGRESS_FILE = "download_progress.csv"
 DOCUMENTS_URL = "https://www.ema.europa.eu/en/documents/report/documents-output-epar_documents_json-report_en.json"
 DEFAULT_REQUEST_INTERVAL = 10
 MAX_RATE_LIMIT_RETRIES = 3
+MIN_RATE_LIMIT_BACKOFF = 30
 MAX_RETRY_WAIT = 300
 
 
@@ -93,13 +94,14 @@ class PacedHTTPAdapter(HTTPAdapter):
     def __init__(self, request_interval, **kwargs):
         super().__init__(**kwargs)
         self.request_interval = positive_seconds(request_interval)
+        # Keep the slower pace after a successful retry so the next PDF can use it.
+        self.current_interval = self.request_interval
         self.last_response_at = None
 
     def send(self, request, **kwargs):
-        interval = self.request_interval
         for attempt in range(MAX_RATE_LIMIT_RETRIES + 1):
             if self.last_response_at is not None:
-                remaining = interval - (time.monotonic() - self.last_response_at)
+                remaining = self.current_interval - (time.monotonic() - self.last_response_at)
                 if remaining > 0:
                     print(f'Waiting {remaining:.1f}s before next EMA request...', flush=True)
                     time.sleep(remaining)
@@ -113,15 +115,16 @@ class PacedHTTPAdapter(HTTPAdapter):
             if (delay is None or delay > MAX_RETRY_WAIT
                     or attempt == MAX_RATE_LIMIT_RETRIES):
                 return response
-            interval = max(self.request_interval, delay)
+            backoff = min(MAX_RETRY_WAIT, max(MIN_RATE_LIMIT_BACKOFF, self.current_interval * 2))
+            self.current_interval = max(self.request_interval, delay, backoff)
             print(f'EMA returned HTTP 429; Retry-After: {response.headers["Retry-After"]}. '
-                  f'Retrying in at least {interval:g}s '
+                  f'Retrying in at least {self.current_interval:g}s '
                   f'({attempt + 1}/{MAX_RATE_LIMIT_RETRIES}).', flush=True)
             response.close()
 
 
 def get_session_with_retries(request_interval=DEFAULT_REQUEST_INTERVAL):
-    """Create a paced session with bounded, server-directed HTTP 429 retries."""
+    """Create a paced session with bounded HTTP 429 backoff."""
     session = requests.Session()
     retry_strategy = Retry(
         total=0,
